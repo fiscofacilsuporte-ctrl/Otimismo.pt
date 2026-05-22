@@ -1,13 +1,65 @@
 {
-  "last_update": "22/05/2026 22:30",
-  "articles": [
+  "last_update": "22/05/2026 23:14",
+  "news": [
     {
-      "title": "Portugal regista crescimento económico sustentável",
-      "summary": "O país apresenta indicadores positivos no setor da inovação.",
-      "source": "Expresso",
-      "category": "economia",
-      "score": 0.95,
-      "date": "22/05/2026"
+      "title": "Cristiano Ronaldo volta a ser campeão nacional após cinco anos",
+      "summary": "Português conquista seu primeiro grande título na Arábia Saudita e chega à marca de 36 troféus na carreira",
+      "url": "https://www.terra.com.br/esportes/arabia-saudita/cristiano-ronaldo-volta-a-ser-campeao-nacional-apos-cinco-anos,44c27e04edae13815816a98b09fb8328jex0o6ri.html",
+      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/448181432-al-nassr-vs-damac-saudi-pro-league-610x400.jpg",
+      "source": "Terra.com.br",
+      "cat": "desporto",
+      "date": "2026-05-21T23:12:33Z",
+      "score": 0.8
+    },
+    {
+      "title": "Com decisão do STF, governo aguarda decisão do TCU sobre concessão da Ferrogrão",
+      "summary": "Por maioria, a Suprema Corte decidiu validar a lei que alterou a demarcação do Parque Nacional do Jamanxim, no Pará, para receber a ferrovia",
+      "url": "https://valor.globo.com/brasil/noticia/2026/05/21/com-deciso-do-stf-governo-aguarda-deciso-do-tcu-sobre-concesso-da-ferrogro.ghtml",
+      "img": "https://s2-valor.glbimg.com/WgfuwdrsRrhJoESttTYl93Eqb7M=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/v/u/WZpFAOTuipD8cyjoJDqg/1.jpg",
+      "source": "Globo",
+      "cat": "sociedade",
+      "date": "2026-05-21T23:10:42Z",
+      "score": 0.84
+    },
+    {
+      "title": "Erros foram encontrados em centenas de estudos sobre o nível do mar e esses novos dados podem alterar os mapas de risco costeiro em metade do globo sendo que essa correção está longe de ser pequena",
+      "summary": "Estudos apontam falhas graves em centenas de pesquisas sobre o nível do mar, alterando mapas de risco e ameaçando milhões de pessoas.\nO post Erros foram encontrados em centenas de estudos sobre o nível do mar e esses novos dados podem alterar os mapas de risc…",
+      "url": "https://catracalivre.com.br/noticias/erros-foram-encontrados-em-centenas-de-estudos-sobre-o-nivel-do-mar-e-esses-novos-dados-podem-alterar-os-mapas-de-risco-costeiro-em-metade-do-globo-sendo-que-essa-correcao-esta-longe-de-ser-pequena/",
+      "img": "https://catracalivre.com.br/i/Xa4N7fs1xg29ltNL8MoK6TtrYA3oaOMLNJMOzTxWpyA/rs:fill:1200:630:1/g:sm/q:80/bG9jYWw6Ly8vMjAyNi8wNS9nbG9iYWwtY29hc3RhbC1tYXAtc2VhLWxldmVsLTIwMjYwNTIwMTc1Ni5qcGVn",
+      "source": "Catracalivre.com.br",
+      "cat": "ciencia",
+      "date": "2026-05-21T23:07:53Z",
+      "score": 0.87
+    },
+    {
+      "title": "Ministro da Fazenda anuncia aumento no bloqueio do Orçamento da União",
+      "summary": "Dario Durigan confirma contenção adicional de gastos, conforme esperado pelo mercado. Valor do bloqueio será divulgado nesta sexta (22/5)",
+      "url": "https://www.metropoles.com/brasil/ministro-da-fazenda-anuncia-aumento-no-bloqueio-do-orcamento-da-uniao",
+      "img": "https://i.metroimg.com/WP9lijEtCWgZhYT1K7zwSqnBadRxYHrVh3Dz0OVQEx8/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/ministros-da-fazenda-dario-durigan-metropoles-3-scaled.jpeg",
+      "source": "Metropoles.com",
+      "cat": "economia",
+      "date": "2026-05-21T22:46:20Z",
+      "score": 0.9
+    },
+    {
+      "title": "Portugal e a Universidade que ainda não existe",
+      "summary": "Durante décadas, no ensino superior, avaliou-se frequentemente a memória e chamou-se a isso conhecimento. O século XXI exige outra coisa.",
+      "url": "https://observador.pt/opiniao/portugal-e-a-universidade-que-ainda-nao-existe/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A9%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F11%2F25125246%2Ffmoreira.jpg",
+      "source": "Observador.pt",
+      "cat": "sociedade",
+      "date": "2026-05-21T23:08:21Z",
+      "score": 0.97
+    },
+    {
+      "title": "De Nikitin à dupla conquista de Ormuz",
+      "summary": "O controlo de gargalos como Ormuz dita as regras do comércio mundial. A geografia física continua a impor a sua derradeira e incontestável vingança.",
+      "url": "https://observador.pt/opiniao/de-nikitin-a-dupla-conquista-de-ormuz-por-afonso-de-albuquerque-e-ao-duplo-bloqueio-naval-a-vinganca-da-geografia/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F21210847%2Fcarlos-manuel-baptista-valentim.jpg",
+      "source": "Observador.pt",
+      "cat": "sociedade",
+      "date": "2026-05-21T23:07:07Z",
+      "score": 0.93
     }
   ]
 }
