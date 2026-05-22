@@ -503,40 +503,54 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // ── CARREGAR NOTÍCIAS COM DEBUG ─────────────────────────
 async function fetchAINews() {
-  try {
-    // Carrega o ficheiro local em vez da API externa
-    const res = await fetch('noticias.json');
-    if (!res.ok) throw new Error('Erro ao carregar ficheiro');
-    
-    const data = await res.json();
-    
-    // Extrai as notícias do campo correto (suporta vários nomes)
-    const newItems = data.articles || data.noticias || data.news || [];
-    
-    if (newItems.length > 0) {
-      NEWS.length = 0; // Limpa os dados atuais
-      newItems.forEach((item, i) => {
-        NEWS.push({
-          id: i + 1,
-          cat: item.cat || item.category || 'geral',
-          title: item.title || 'Sem título',
-          summary: item.summary || '',
-          source: item.source || 'Fonte',
-          date: item.date || 'Hoje',
-          url: item.url || '#',
-          score: item.score || 0.9
-        });
+  console.log("A carregar notícias diretamente do código...");
+  
+  // As tuas notícias estão aqui, dentro do próprio código:
+  const data = {
+    "articles": [
+      {
+        "title": "Portugal regista crescimento económico sustentável",
+        "summary": "O país apresenta indicadores positivos no setor da inovação.",
+        "source": "Expresso",
+        "category": "economia",
+        "score": 0.95,
+        "date": "22/05/2026"
+      },
+      {
+        "title": "Inovação tecnológica transforma janelas em painéis solares",
+        "summary": "Uma startup portuguesa criou uma solução que promete revolucionar a eficiência energética.",
+        "source": "Público",
+        "category": "tecnologia",
+        "score": 0.92,
+        "date": "22/05/2026"
+      }
+    ]
+  };
+
+  // Carrega os dados diretamente
+  const loadedNews = data.articles;
+  
+  if (loadedNews.length > 0) {
+    NEWS.length = 0;
+    loadedNews.forEach((n, i) => {
+      NEWS.push({
+        id: i + 1,
+        cat: n.category || 'geral',
+        title: n.title || 'Sem título',
+        summary: n.summary || '',
+        source: n.source || 'Fonte',
+        date: n.date || 'Hoje',
+        url: '#',
+        score: n.score || 0.9
       });
-      
-      // Chama as funções de renderização que já tens no teu ficheiro original
-      renderFeatured();
-      renderGrid(true);
-      renderTrending();
-      renderTicker();
-    }
-  } catch (e) {
-    console.error("Erro na leitura local:", e);
-    toast("Erro ao ler notícias locais.");
+    });
+    
+    // Renderiza
+    renderFeatured();
+    renderGrid(true);
+    renderTrending();
+    renderTicker();
+    console.log("Notícias renderizadas com sucesso!");
   }
 }
       
