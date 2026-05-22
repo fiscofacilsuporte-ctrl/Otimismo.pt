@@ -1,102 +1,101 @@
 {
-  "last_update": "22/05/2026 22:30",
-  "ticker": "✦ Projeto reflorestação em Portugal atinge meta histórica ✦ Cientistas descobrem nova forma de limpar plástico dos oceanos ✦ Vacina inovadora apresenta resultados positivos",
-  "stats": {
-    "stories_count": "1,240",
-    "countries_count": "45",
-    "users_count": "12k"
-  },
-  "featured_main": {
-    "title": "Energias renováveis abastecem 100% de Portugal Continental durante uma semana inteira",
-    "category": "ambiente",
-    "source": "Expresso",
-    "date": "22/05/2026",
-    "score": 98,
-    "url": "#"
-  },
-  "featured_side": [
-    {
-      "title": "Investigadores portugueses descobrem molécula que pode travar o envelhecimento celular",
-      "category": "ciencia",
-      "source": "Público",
-      "date": "22/05/2026",
-      "url": "#",
-      "thumb": "🔬"
-    },
-    {
-      "title": "Nova aplicação portuguesa ajuda a reduzir o desperdício alimentar em toneladas",
-      "category": "tecnologia",
-      "source": "Observador",
-      "date": "21/05/2026",
-      "url": "#",
-      "thumb": "📱"
-    },
-    {
-      "title": "Estudo confirma que atos de bondade diários melhoram significativamente a saúde mental",
-      "category": "saude",
-      "source": "Sapo Lifestyle",
-      "date": "21/05/2026",
-      "url": "#",
-      "thumb": "❤️"
-    }
-  ],
-  "news": [
-    {
-      "title": "Portugal regista taxa de desemprego mais baixa da década com crescimento na economia verde",
-      "summary": "O mercado de trabalho em Portugal continua a dar sinais altamente positivos. Os setores da sustentabilidade e tecnologias limpas lideraram a criação de novos postos de trabalho qualificados.",
-      "category": "economia",
-      "source": "Jornal de Negócios",
-      "date": "22/05/2026",
-      "score": 92,
-      "url": "#",
-      "thumb": "📈"
-    },
-    {
-      "title": "Seleção Nacional de Surf conquista o campeonato europeu em dia histórico",
-      "summary": "Os atletas portugueses dominaram as ondas e garantiram o primeiro lugar no pódio coletivo. O espírito de equipa e a consistência foram a chave para esta grande vitória.",
-      "category": "desporto",
-      "source": "A Bola",
-      "date": "22/05/2026",
-      "score": 95,
-      "url": "#",
-      "thumb": "🏄"
-    },
-    {
-      "title": "População de lince-ibérico em Portugal triplica após programa de conservação de sucesso",
-      "summary": "O esforço conjunto de biólogos e autoridades locais permitiu salvar a espécie da extinção em território nacional. Novas crias foram avistadas no Alentejo e Algarve.",
-      "category": "ambiente",
-      "source": "Wilder",
-      "date": "21/05/2026",
-      "score": 97,
-      "url": "#",
-      "thumb": "🐾"
-    },
-    {
-      "title": "Associação local reconverte terreno abandonado num jardim comunitário urbano",
-      "summary": "Moradores uniram-se para transformar uma lixeira ilegal num espaço verde focado na inclusão social e na produção de alimentos biológicos para famílias carenciadas.",
-      "category": "sociedade",
-      "source": "RTP Notícias",
-      "date": "20/05/2026",
-      "score": 89,
-      "url": "#",
-      "thumb": "🌱"
-    }
-  ],
-  "trending": [
-    {
-      "title": "Universidade de Coimbra cria plástico 100% biodegradável a partir de cascas de batata",
-      "category": "ciencia",
-      "url": "#"
-    },
-    {
-      "title": "Voluntários limpam mais de 5 toneladas de lixo das praias de Cascais",
-      "category": "ambiente",
-      "url": "#"
-    },
-    {
-      "title": "Hospitais portugueses adotam terapia com animais para acelerar a recuperação de crianças",
-      "category": "saude",
-      "url": "#"
-    }
-  ]
+    "last_update": "22/05/2026 21:26",
+    "news": [
+        {
+            "title": "John Romero achava que ia mudar os games com Daikatana, e virou piada",
+            "description": "Nos anos 1990, poucos nomes carregavam tanto prestígio dentro da indústria dos videogames quanto ...",
+            "url": "https://www.terra.com.br/gameon/vida-gamer/john-romero-achava-que-ia-mudar-os-games-com-daikatana-e-virou-piada,724196e3ecdd9b58daa91894c220e586oparik7k.html",
+            "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/john-romero-trwwj3geadrs.jpg",
+            "source": "Terra.com.br",
+            "date": "2026-05-21T21:22:55Z"
+        },
+        {
+            "title": "Gardênia Cavalcanti fala sobre aprendizado após descoberta de aneurisma: 'Desacelerando'",
+            "description": "Após anos convivendo com crises de enxaqueca, Gardênia Cavalcanti descobriu que dores intensas escondiam um aneurisma cerebral e fez um importante alerta sobre os sinais do corpo",
+            "url": "https://www.terra.com.br/vida-e-estilo/gardenia-cavalcanti-fala-sobre-aprendizado-apos-descoberta-de-aneurisma-desacelerando,9c7bc991ee27703a7d122aeeabc72105bo1pcior.html",
+            "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/1110460297-capa-bons-fluidos-2026-05-21t151321063.jpg",
+            "source": "Terra.com.br",
+            "date": "2026-05-21T21:21:25Z"
+        },
+        {
+            "title": "Trump adia ordem sobre IA por ameaçar liderança face à China",
+            "description": "Apesar das preocupações crescentes da Casa Branca com cibersegurança, Trump adiou medida que previa revisão governamental de IA. \"Não quero fazer nada que possa pôr em risco esta liderança\".",
+            "url": "https://observador.pt/2026/05/21/trump-adia-ordem-sobre-ia-por-receio-de-prejudicar-lideranca-face-a-china/",
+            "image": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1121%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F21193003%2F47152576.jpg?layer=obstop:T",
+            "source": "Observador.pt",
+            "date": "2026-05-21T21:18:55Z"
+        },
+        {
+            "title": "Caso Estrela: digital é risco no setor de brinquedos, mas não é 'caminho sem volta', dizem analistas",
+            "description": "Estrela e Xalingo citaram concorrência com alternativas digitais de entretenimento entre as razões para pedido de recuperação judicial; especialistas dizem ser necessário acompanhar novas demandas",
+            "url": "https://www.terra.com.br/economia/caso-estrela-digital-e-risco-no-setor-de-brinquedos-mas-nao-e-caminho-sem-volta-dizem-analistas,fbf57684b8484c5191804d2bd42fde8dh5zeswgc.html",
+            "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/1257144561-rkxeztuhobgghjb7jpsvg5xxaa.jpeg",
+            "source": "Terra.com.br",
+            "date": "2026-05-21T21:18:31Z"
+        },
+        {
+            "title": "Candidata contestada em banca racial corre risco de perder cargo após tomar posse no Itamaraty",
+            "description": "Flávia Medeiros, de 29 anos, foi aprovada no concurso público, mas excluída na fase de heteroidentificação",
+            "url": "https://www.amodireito.com.br/2026/05/candidata-contestada-banca-racial-corre-risco-perder-cargo-apos-tomar-posse-itamaraty.html",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcP9YmGHKzRqUpdTONPVyGRRC2QGuU9DMC9FfC9aBw75L13YydmWp2fJEK_SNi0l_Mi2m7Tb6ZVHjp5P90pdjXDLBaaNLL7RkfG-UxSmZui2ngg7J-M68HLgA5Tzeq4pqOKpPkiuYj_D_GfaQsuRtUEHXr39Sjs2BKZ-jqAg3ZaIt76iEP8aBkBcoWylQ/s16000/candidata-contestada-banca-racial-corre-risco-perder-cargo-apos-tomar-posse-itamaraty.webp",
+            "source": "Amodireito.com.br",
+            "date": "2026-05-21T21:18:08Z"
+        },
+        {
+            "title": "Recorde: aviação brasileira supera 44 milhões de passageiros",
+            "description": "País registrou recordes nos voos domésticos e internacionais entre janeiro e abril de 2026",
+            "url": "https://turismo.ig.com.br/colunas/celso-martins/2026-05-21/aviacao-brasileira-supera-44-milhoes-de-passageiros-e-alcanca-maior-movimento-da-serie-historica.html",
+            "image": "https://i0.statig.com.br/bancodeimagens/b9/du/v6/b9duv6r5ft8v0eibx241xqs13.jpg",
+            "source": "Ig.com.br",
+            "date": "2026-05-21T21:11:06Z"
+        },
+        {
+            "title": "RHEL 10.2 chega com IA, segurança e foco total em empresas",
+            "description": "RHEL 10.2 traz IA opcional, reforço de segurança quântica e ferramentas atualizadas para quem vive no Linux corporativo.\nO post RHEL 10.2 chega com IA, segurança e foco total em empresas apareceu primeiro em Blog do Edivaldo - Informações e Notícias sobre Lin…",
+            "url": "https://www.edivaldobrito.com.br/rhel-10-2/",
+            "image": "https://www.edivaldobrito.com.br/wp-content/uploads/2026/05/rhel-102-chega-com-ia-seguranca-e-foco-total-em-empresas.webp",
+            "source": "Edivaldobrito.com.br",
+            "date": "2026-05-21T21:09:28Z"
+        },
+        {
+            "title": null,
+            "description": "O tribunal disciplinar da Conmebol concedeu vitória ao Flamengo por 3 a 0 sobre o Independiente Medellín, pela Libertadores, após o caos que suspendeu o jogo ainda nos instantes iniciais na Colômbia.O time colombiano foi condenado ainda a jogar cinco p",
+            "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/05/21/tribunal-da-conmebol-da-vitoria-ao-flamengo-contra-medellin-na-libertadores.ghtm",
+            "image": "https://conteudo.imguol.com.br/c/esporte/28/2026/05/07/torcedores-colocam-fogo-em-arquibancada-do-atanasio-girardot-em-independiente-medellin-x-flamengo-1778203359411_v2_615x300.jpg",
+            "source": "Uol.com.br",
+            "date": "2026-05-21T21:06:16Z"
+        },
+        {
+            "title": "“Um choque de gestão e cultura empresarial”",
+            "description": "Mais cooperação e menos individualismo. António Brochado Correia, Presidente da PwC defende a necessidade de uma mudança cultural assente na colaboração para reforçar a competitividade.",
+            "url": "https://observador.pt/programas/conselho-industrial/um-choque-de-gestao-e-cultura-empresarial/",
+            "image": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/f:webp/plain/https://s3.observador.pt/wp-content/uploads/2026/05/18171751/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
+            "source": "Observador.pt",
+            "date": "2026-05-21T21:03:33Z"
+        },
+        {
+            "title": "Flamengo recebe o Palmeiras tentando diminuir diferença na ponta",
+            "description": "Verdão tem quatro pontos de vantagem para o Mengão, que tem um jogo a menos em relação ao rival",
+            "url": "https://esporte.ig.com.br/jogoajogo/2026-05-21/flamengo-palmeiras-briga-lideranca-brasileirao-17-rodada-palpite-onde-assistir.html",
+            "image": "https://i0.statig.com.br/bancodeimagens/53/lx/dm/53lxdmk081nc7okmbmf17hlvv.jpg",
+            "source": "Ig.com.br",
+            "date": "2026-05-21T21:03:07Z"
+        },
+        {
+            "title": "T-Mobile lança beta da tradução ao vivo para chamadas, sem precisar de celular sofisticado",
+            "description": "Live Translation da T-Mobile traduz chamadas em mais de 80 idiomas, na rede, e está grátis na fase beta para participantes selecionados.\nO post T-Mobile lança beta da tradução ao vivo para chamadas, sem precisar de celular sofisticado apareceu primeiro em Blo…",
+            "url": "https://www.edivaldobrito.com.br/t-mobile-lanca-beta-da-traducao-ao-vivo-para-chamadas-sem-precisar-de-celular-sofisticado/",
+            "image": "https://www.edivaldobrito.com.br/wp-content/uploads/2026/05/t-mobile-lanca-beta-da-traducao-ao-vivo-para-chamadas-sem-precisar-de-celular-sofisticado.webp",
+            "source": "Edivaldobrito.com.br",
+            "date": "2026-05-21T21:01:59Z"
+        },
+        {
+            "title": "Rei cita grama sintética ao chamar Haaland e companhia para Copa",
+            "description": "Após campanha excepcional nas Eliminatórias Europeias, a Noruega convocou os 26 jogadores que disputarão o torneio nesta quinta-feira (21)",
+            "url": "https://esporte.ig.com.br/futebol/2026-05-21/rei-cita-grama-sintetica-chamar-haaland-copa.html",
+            "image": "https://i0.statig.com.br/bancodeimagens/cj/ws/iv/cjwsivdwgqr5vwr6axh27ldlv.jpg",
+            "source": "Ig.com.br",
+            "date": "2026-05-21T21:01:43Z"
+        }
+    ]
 }
