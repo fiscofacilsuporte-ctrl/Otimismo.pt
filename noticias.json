@@ -1,41 +1,14 @@
 {
   "last_update": "22/05/2026 22:30",
-  "noticias": [
+  {
+  "articles": [
     {
-      "title": "Portugal bate recorde absoluto de energia renovável",
-      "summary": "O país conseguiu manter-se a 100% de energias verdes durante mais de uma semana consecutiva, reduzindo os custos e a pegada de carbono.",
+      "title": "Portugal regista crescimento económico sustentável",
+      "summary": "O país apresenta indicadores positivos no setor da inovação.",
       "source": "Expresso",
-      "date": "22/05/2026",
-      "url": "https://expresso.pt",
-      "cat": "ambiente",
-      "score": 0.98
-    },
-    {
-      "title": "Investigadores descobrem nova terapia inovadora",
-      "summary": "Equipa de cientistas portugueses publicou resultados promissores na reversão de sintomas de doenças degenerativas em ambiente laboratorial.",
-      "source": "Público",
-      "date": "22/05/2026",
-      "url": "https://publico.pt",
-      "cat": "ciencia",
-      "score": 0.95
-    },
-    {
-      "title": "Nova aplicação portuguesa reduz desperdício alimentar",
-      "summary": "Startup de Braga lançou uma plataforma que já evitou que toneladas de comida fossem para o lixo na última semana.",
-      "source": "Observador",
-      "date": "21/05/2026",
-      "url": "https://observador.pt",
-      "cat": "tecnologia",
-      "score": 0.88
-    },
-    {
-      "title": "Projeto social em Lisboa tira dezenas de idosos do isolamento",
-      "summary": "Através de uma rede de voluntários jovens, o projeto conseguiu criar rotinas de acompanhamento e melhorar a saúde mental da população sénior local.",
-      "source": "RTP Notícias",
-      "date": "20/05/2026",
-      "url": "https://rtp.pt",
-      "cat": "sociedade",
-      "score": 0.92
+      "category": "economia",
+      "score": 0.95,
+      "date": "22/05/2026"
     }
   ]
 }
