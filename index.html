@@ -224,8 +224,7 @@ footer { background:var(--navy); color:#8DA4B8; margin-top:48px; }
 
 <!-- TOPBAR -->
 <div class="topbar">
-  <strong>✦ otimismo.pt</strong> <span>— Notícias com impacto positivo, renovadas diariamente</span>
-  <span id="lastUpdate" style="margin-left:10px;opacity:.9;font-weight:500;"></span>
+  <strong>✦ otimismo.pt</strong> <span>— Notícias com impacto positivo, renovadas diariamente</span><span id="lastUpdate" style="margin-left:10px;opacity:.75;font-size:11px;"></span>
 </div>
 
 <!-- HEADER -->
@@ -475,20 +474,7 @@ footer { background:var(--navy); color:#8DA4B8; margin-top:48px; }
 
 <script>
 // ── DATA ─────────────────────────────────────────────────
-const NEWS = [
-  {id:1,cat:'ciencia',title:'Cientistas portugueses descobrem método revolucionário para purificar água',summary:'Investigadores do IST desenvolveram um filtro de nanomateriais capaz de remover 99,9% dos contaminantes, com custos 80% inferiores às soluções atuais.',source:'Público',date:'2026-05-21T06:30:00Z',url:'#',img:'https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?w=500&q=80',score:.92},
-  {id:2,cat:'ambiente',title:'Portugal atinge recorde: 100% energia renovável durante 6 dias consecutivos',summary:'O Sistema Elétrico Nacional foi alimentado exclusivamente por fontes renováveis durante uma semana histórica, um marco para a transição energética nacional.',source:'Jornal de Negócios',date:'2026-05-20T14:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=500&q=80',score:.95},
-  {id:3,cat:'saude',title:'Nova vacina desenvolvida em Lisboa mostra eficácia de 94% contra cancro do pulmão',summary:'Resultados do ensaio clínico de fase III revelam que a vacina terapêutica da startup BioImune pode transformar o tratamento oncológico a nível mundial.',source:'Expresso',date:'2026-05-20T09:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1579154204601-01588f351e67?w=500&q=80',score:.89},
-  {id:4,cat:'tecnologia',title:'Startup portuguesa cria sistema capaz de detetar terramotos 72 horas antes',summary:'A EarthSense, sediada no Porto, desenvolveu um sistema que analisa micro-variações sísmicas com precisão sem precedentes, podendo salvar milhares de vidas.',source:'Observador',date:'2026-05-19T16:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&q=80',score:.87},
-  {id:5,cat:'sociedade',title:'Comunidade do Alentejo transforma aldeia abandonada em polo de arte e cultura',summary:'Monsaraz recebe 200 novos residentes em dois anos após projeto que criou 80 empregos e recuperou 40 casas históricas, tornando-se modelo europeu de regeneração rural.',source:'RTP',date:'2026-05-19T10:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1564507592333-c60657eea523?w=500&q=80',score:.91},
-  {id:6,cat:'economia',title:'Portugal lidera crescimento económico da zona euro pelo terceiro trimestre consecutivo',summary:'Dados do Eurostat mostram crescimento de 4,2%, impulsionado por turismo, exportações tecnológicas e investimento estrangeiro direto recorde.',source:'Dinheiro Vivo',date:'2026-05-18T12:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=500&q=80',score:.88},
-  {id:7,cat:'desporto',title:'Seleção portuguesa de andebol conquista medalha de ouro nos Jogos Europeus',summary:'Portugal venceu a Dinamarca na final por 28-24 numa partida épica, conquistando o primeiro ouro europeu da história do andebol nacional.',source:'Record',date:'2026-05-18T20:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=500&q=80',score:.93},
-  {id:8,cat:'ciencia',title:'Investigação portuguesa sobre biodiversidade marinha publicada na Nature',summary:'Equipa do CIIMAR identifica 47 novas espécies no Atlântico Norte, reforçando a importância da zona económica exclusiva portuguesa para a ciência global.',source:'Observador',date:'2026-05-17T08:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1516477266586-0f4cf1916161?w=500&q=80',score:.93},
-  {id:9,cat:'desporto',title:'Jovem portuguesa de 16 anos torna-se campeã mundial de xadrez',summary:'Beatriz Ferreira, de Viseu, venceu o campeonato mundial de xadrez sub-18 em Moscovo, tornando-se a mais jovem campeã da história da federação.',source:'TSF',date:'2026-05-17T15:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1529699211952-734e80c4d42b?w=500&q=80',score:.91},
-  {id:10,cat:'cultura',title:'Fado português entra oficialmente no currículo escolar de 30 países',summary:'A UNESCO aprovou a integração do fado como patrimônio cultural imaterial a ser ensinado nas escolas de 30 países, num projeto liderado por Portugal.',source:'Público',date:'2026-05-16T11:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&q=80',score:.88},
-  {id:11,cat:'saude',title:'Hospital de Santa Maria realiza primeiro transplante cardíaco com robô em Portugal',summary:'A cirurgia pioneira na Península Ibérica durou apenas 4 horas e o paciente já se encontra em recuperação acelerada graças à precisão robótica.',source:'Jornal de Notícias',date:'2026-05-16T08:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1551190822-a9333d879b1f?w=500&q=80',score:.90},
-  {id:12,cat:'ambiente',title:'Golfinhos voltam ao rio Sado em números não vistos há 30 anos',summary:'As populações de golfinhos-roazes atingiram máximos históricos no estuário do Sado, sinal claro da melhoria da qualidade da água após projeto de conservação.',source:'TSF',date:'2026-05-15T09:00:00Z',url:'#',img:'https://images.unsplash.com/photo-1607153333879-c174d265f1d2?w=500&q=80',score:.97},
-];
+const NEWS = [];
 
 const CATS = {ciencia:'Ciência',tecnologia:'Tecnologia',ambiente:'Ambiente',saude:'Saúde',sociedade:'Sociedade',economia:'Economia',desporto:'Desporto',cultura:'Cultura'};
 const PER_PAGE = 6;
@@ -498,41 +484,76 @@ let filtered = [...NEWS], page = 0, selectedAmt = 2;
 document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('yr').textContent = new Date().getFullYear();
   checkMobile(); window.addEventListener('resize', checkMobile);
-  fetchAINews();
+  loadNoticias();
 });
 
-// ── AI NEWS FETCH ─────────────────────────────────────────
-async function fetchAINews() {
+// ── CARREGAR NOTICIAS.JSON ────────────────────────────────
+async function loadNoticias() {
   try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 1000,
-        messages: [{
-          role: 'user',
-          content: `Gera 12 notícias positivas e inspiradoras em português (de Portugal) para hoje, ${new Date().toLocaleDateString('pt-PT')}. Responde APENAS com JSON válido, sem markdown nem backticks. Formato exato:
-[{"id":1,"cat":"ciencia","title":"string","summary":"string de 2 frases","source":"Público|Expresso|Observador|RTP|TSF|Record|Jornal de Negócios|Dinheiro Vivo","date":"${new Date().toISOString()}","url":"#","img":"https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?w=500&q=80","score":0.92}]
-Categorias: ciencia, saude, tecnologia, ambiente, sociedade, economia, desporto, cultura
-Variar categorias (pelo menos 1 de cada), fontes e imagens Unsplash relevantes. Notícias sobre avanços científicos, saúde, inovação, ambiente, desporto, cultura, economia positiva. Score entre 0.75 e 0.98.`
-        }]
-      })
-    });
+    const res = await fetch('noticias.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
-    const text = data.content.map(b => b.text || '').join('');
-    const clean = text.replace(/```json|```/g, '').trim();
-    const aiNews = JSON.parse(clean);
-    if (Array.isArray(aiNews) && aiNews.length > 0) {
-      NEWS.length = 0;
-      aiNews.forEach(n => NEWS.push(n));
+
+    // Suporta {last_update, noticias:[...]} ou array direto
+    const items = Array.isArray(data)
+      ? data
+      : (data.noticias || data.articles || data.items || data.results || []);
+    const lastUpdate = !Array.isArray(data)
+      ? (data.last_update || data.updated_at || data.lastUpdate || null)
+      : null;
+
+    // Mostra timestamp de atualização na topbar
+    if (lastUpdate) {
+      const el = document.getElementById('lastUpdate');
+      if (el) {
+        const d = new Date(lastUpdate);
+        const opts = {day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'};
+        el.textContent = '· Atualizado: ' + d.toLocaleDateString('pt-PT', opts);
+      }
     }
+
+    // Mapeia campos do JSON para o formato interno
+    NEWS.length = 0;
+    items.forEach((item, i) => NEWS.push(mapNoticia(item, i)));
+
   } catch(e) {
-    console.log('AI fetch failed, using demo data:', e);
+    console.warn('Erro ao carregar noticias.json:', e);
+    toast('⚠️ Não foi possível carregar as notícias. Verifica o ficheiro noticias.json.');
   }
+
   filtered = [...NEWS];
-  document.getElementById('statTotal').textContent = NEWS.length;
+  document.getElementById('statTotal').textContent = NEWS.length || '—';
   renderFeatured(); renderGrid(true); renderTrending(); renderTicker();
+}
+
+// ── MAPEAMENTO DE CAMPOS ──────────────────────────────────
+function mapNoticia(item, idx) {
+  return {
+    id:      item.id      || idx + 1,
+    cat:     item.cat     || inferCat(item.title + ' ' + (item.description || item.summary || '')),
+    title:   item.title   || '',
+    summary: item.description || item.summary || item.excerpt || '',
+    source:  item.source  || item.author || '',
+    date:    item.date    || item.published_at || item.publishedAt || item.pubDate || '',
+    url:     item.url     || item.link || '#',
+    img:     item.image   || item.img  || item.urlToImage || item.thumbnail || '',
+    score:   typeof item.score          === 'number' ? item.score :
+             typeof item.sentiment_score === 'number' ? item.sentiment_score :
+             typeof item.positivity      === 'number' ? item.positivity : 0.85
+  };
+}
+
+// ── INFERÊNCIA DE CATEGORIA ───────────────────────────────
+function inferCat(text) {
+  const t = (text || '').toLowerCase();
+  if (/sa[úu]de|m[eé]dic|hospital|doen[cç]|vacin|cirurgia/.test(t))               return 'saude';
+  if (/ci[eê]ncia|investiga[cç]|descoberta|estudo|pesquisa|laborat/.test(t))        return 'ciencia';
+  if (/tecnolog|inova[cç]|startup|digital|intelig[eê]ncia|robô|ia |software/.test(t)) return 'tecnologia';
+  if (/ambiente|clima|renov[aá]v|natureza|esp[eé]cie|oceano|floresta/.test(t))      return 'ambiente';
+  if (/desp[oa]rt|futebol|atleta|ol[ií]mp|campe[aã]o|campeonato|basket/.test(t))   return 'desporto';
+  if (/econom|emprego|empresa|crescimento|pib|invest|mercado|bolsa/.test(t))         return 'economia';
+  if (/cultura|arte|m[uú]sica|cinema|teatro|fado|festival|livro/.test(t))           return 'cultura';
+  return 'sociedade';
 }
 
 function checkMobile() {
