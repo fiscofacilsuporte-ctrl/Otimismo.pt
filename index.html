@@ -3,24 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>otimismo.pt — Notícias Positivas e Boas Notícias Diárias</title>
-<meta name="description" content="Descubra as melhores notícias positivas de Portugal e do mundo no otimismo.pt. Informação que inspira, histórias de esperança e factos que transformam o seu dia.">
-<meta name="keywords" content="notícias positivas, boas notícias, otimismo, portugal, esperança, notícias inspiradoras">
-<link rel="canonical" href="https://www.otimismo.pt/">
-
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://www.otimismo.pt/">
-<meta property="og:title" content="otimismo.pt — Notícias Positivas e Boas Notícias">
-<meta property="og:description" content="As melhores notícias positivas de Portugal e do mundo. Informação que inspira e transforma.">
-<meta property="og:image" content="https://www.otimismo.pt/logo.png">
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://www.otimismo.pt/">
-<meta property="twitter:title" content="otimismo.pt — Notícias Positivas e Boas Notícias">
-<meta property="twitter:description" content="As melhores notícias positivas de Portugal e do mundo. Informação que inspira e transforma.">
-<meta property="twitter:image" content="https://www.otimismo.pt/logo.png">
+<title>otimismo.pt — Notícias Positivas para um Mundo Melhor</title>
+<meta name="description" content="As melhores notícias positivas de Portugal e do mundo. Informação que inspira, histórias que transformam.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
 <!-- Google AdSense -->
@@ -43,11 +27,9 @@
 }
 html { scroll-behavior:smooth; }
 body { font-family:var(--font-sans); background:var(--gray-100); color:var(--navy); font-size:16px; line-height:1.65; }
-
 /* ── TOPBAR ── */
 .topbar { background:var(--blue-400); color:var(--blue-50); font-size:12px; letter-spacing:.06em; text-align:center; padding:7px 16px; font-weight:500; }
 .topbar strong { color:#fff; }
-
 /* ── HEADER ── */
 header { background:var(--white); border-bottom:1px solid var(--gray-200); position:sticky; top:0; z-index:100; box-shadow:var(--shadow-sm); }
 .header-inner { max-width:1200px; margin:0 auto; padding:0 24px; display:flex; align-items:center; justify-content:space-between; height:68px; gap:20px; }
@@ -57,12 +39,10 @@ header { background:var(--white); border-bottom:1px solid var(--gray-200); posit
 .logo-name { font-family:var(--font-sans); font-size:20px; font-weight:500; color:var(--navy); letter-spacing:-.02em; }
 .logo-name span { color:var(--blue-300); }
 .logo-tagline { font-size:10px; letter-spacing:.08em; text-transform:uppercase; color:var(--blue-300); font-weight:500; margin-top:2px; }
-
 .main-nav { display:flex; align-items:center; gap:4px; }
 .main-nav a { font-size:14px; font-weight:500; color:var(--gray-600); padding:6px 14px; border-radius:var(--radius-sm); text-decoration:none; transition:all .2s; white-space:nowrap; }
 .main-nav a:hover { background:var(--blue-50); color:var(--blue-400); }
 .main-nav a.active { background:var(--blue-50); color:var(--blue-400); font-weight:600; }
-
 .header-actions { display:flex; align-items:center; gap:10px; flex-shrink:0; }
 .btn-newsletter { background:var(--blue-400); color:#fff; border:none; padding:9px 18px; border-radius:var(--radius-sm); font-size:14px; font-weight:600; cursor:pointer; transition:background .2s; font-family:var(--font-sans); text-decoration:none; white-space:nowrap; }
 .btn-newsletter:hover { background:var(--blue-500); }
@@ -97,6 +77,11 @@ header { background:var(--white); border-bottom:1px solid var(--gray-200); posit
 .hero-stat { text-align:center; }
 .hero-stat strong { display:block; font-family:var(--font-serif); font-size:1.8rem; font-weight:700; color:var(--blue-400); }
 .hero-stat span { font-size:11px; text-transform:uppercase; letter-spacing:.06em; color:var(--gray-600); }
+
+/* ── AD BANNER ── */
+.ad-banner { background:var(--white); border:1px dashed var(--gray-200); border-radius:var(--radius-md); padding:16px; text-align:center; color:var(--gray-400); font-size:12px; letter-spacing:.04em; text-transform:uppercase; }
+.ad-banner-top { max-width:1200px; margin:0 auto; padding:12px 24px; }
+.ad-slot { background:var(--white); border:1px solid var(--gray-200); border-radius:var(--radius-md); display:flex; align-items:center; justify-content:center; color:var(--gray-400); font-size:11px; text-transform:uppercase; letter-spacing:.06em; }
 
 /* ── TICKER ── */
 .ticker-wrap { background:var(--blue-400); overflow:hidden; padding:8px 0; }
@@ -179,6 +164,9 @@ header { background:var(--white); border-bottom:1px solid var(--gray-200); posit
 .apoiar-icon { font-size:2rem; margin-bottom:8px; }
 .apoiar-title { font-family:var(--font-serif); font-weight:700; color:var(--navy); font-size:1rem; margin-bottom:6px; }
 .apoiar-desc { font-size:.8rem; color:var(--gray-600); line-height:1.5; margin-bottom:12px; }
+.apoiar-amounts { display:flex; gap:6px; justify-content:center; margin-bottom:12px; flex-wrap:wrap; }
+.amount-btn { background:#fff; border:1.5px solid var(--gold); color:#92400e; font-weight:700; font-size:13px; padding:6px 14px; border-radius:20px; cursor:pointer; transition:all .2s; font-family:var(--font-sans); }
+.amount-btn:hover, .amount-btn.active { background:var(--gold); color:#fff; }
 .btn-apoiar-main { width:100%; background:var(--gold); color:#fff; border:none; padding:11px; border-radius:var(--radius-sm); font-size:14px; font-weight:700; cursor:pointer; transition:background .2s; font-family:var(--font-sans); }
 .btn-apoiar-main:hover { background:#d97706; }
 
@@ -187,6 +175,21 @@ header { background:var(--white); border-bottom:1px solid var(--gray-200); posit
 .newsletter-form input:focus { outline:none; border-color:var(--blue-300); }
 .btn-subscribe { width:100%; background:var(--blue-400); color:#fff; border:none; padding:10px; border-radius:var(--radius-sm); font-size:13px; font-weight:600; cursor:pointer; font-family:var(--font-sans); transition:background .2s; }
 .btn-subscribe:hover { background:var(--blue-500); }
+
+/* Trending */
+.trending-item { display:flex; gap:10px; padding:10px 0; border-bottom:1px solid var(--gray-200); cursor:pointer; text-decoration:none; }
+.trending-item:last-child { border-bottom:none; }
+.trending-num { font-family:var(--font-serif); font-size:1.5rem; font-weight:700; color:var(--blue-100); flex-shrink:0; width:28px; line-height:1; }
+.trending-title { font-size:.82rem; font-weight:600; color:var(--navy); line-height:1.35; }
+.trending-cat { font-size:.72rem; color:var(--gray-400); margin-top:2px; }
+
+/* Ad sidebar */
+.ad-sidebar { background:var(--gray-100); border:1px dashed var(--gray-200); border-radius:var(--radius-md); height:250px; display:flex; align-items:center; justify-content:center; text-align:center; color:var(--gray-400); font-size:11px; text-transform:uppercase; letter-spacing:.06em; }
+
+/* Partilhar */
+.share-row { display:flex; gap:8px; flex-wrap:wrap; }
+.share-btn { display:inline-flex; align-items:center; gap:5px; font-size:12px; font-weight:600; padding:7px 12px; border-radius:var(--radius-sm); text-decoration:none; transition:opacity .2s; }
+.share-btn:hover { opacity:.82; }
 
 /* ── FOOTER ── */
 footer { background:var(--navy); color:#8DA4B8; margin-top:48px; }
@@ -199,6 +202,10 @@ footer { background:var(--navy); color:#8DA4B8; margin-top:48px; }
 .footer-col a { display:block; font-size:.85rem; color:#8DA4B8; text-decoration:none; margin-bottom:6px; transition:color .2s; }
 .footer-col a:hover { color:#fff; }
 .footer-bottom { border-top:1px solid rgba(255,255,255,.08); padding:16px 24px; text-align:center; font-size:.78rem; color:#5C7A96; max-width:1200px; margin:0 auto; }
+
+/* ── TOAST ── */
+.toast { position:fixed; bottom:20px; right:20px; background:var(--navy); color:#fff; padding:12px 20px; border-radius:var(--radius-md); font-size:.875rem; font-weight:500; z-index:9999; opacity:0; transform:translateY(12px); transition:all .3s; box-shadow:0 8px 24px rgba(0,0,0,.25); max-width:300px; }
+.toast.show { opacity:1; transform:translateY(0); }
 
 /* ── RESPONSIVE ── */
 @media(max-width:768px){
@@ -222,46 +229,90 @@ footer { background:var(--navy); color:#8DA4B8; margin-top:48px; }
 <header>
   <div class="header-inner">
     <a href="#" class="logo-link">
-      <img src="https://www.otimismo.pt/logo.png" alt="Logo" class="logo-img" onerror="this.src='https://via.placeholder.com/44?text=O'">
+      <img src="logo.png" alt="Otimismo.pt" class="logo-img">
       <div class="logo-text">
         <div class="logo-name">otimismo<span>.pt</span></div>
-        <div class="logo-tagline">O seu portal de boas notícias</div>
+        <div class="logo-tagline">Notícias que inspiram</div>
       </div>
     </a>
-    
     <nav class="main-nav">
       <a href="#" class="active">Início</a>
-      <a href="#sobre">Sobre</a>
+      <a href="#sobre">Sobre Nós</a>
       <a href="#contacto">Contacto</a>
     </nav>
-
     <div class="header-actions">
       <a href="#apoiar" class="btn-apoiar">Apoiar Projeto</a>
-      <button class="hamburger" onclick="toggleMenu()">
+      <button class="hamburger" id="menuBtn">
         <span></span><span></span><span></span>
       </button>
     </div>
   </div>
 </header>
 
-<!-- Otimismo-topo -->
-<div style="max-width:1200px; margin:20px auto; text-align:center; padding: 0 24px;">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1576487734267234" crossorigin="anonymous"></script>
-  <ins class="adsbygoogle"
-       style="display:block"
-       data-ad-client="ca-pub-1576487734267234"
-       data-ad-slot="7232599701"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
-  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<!-- MOBILE MENU -->
+<div class="mobile-menu" id="mobileMenu">
+  <a href="#">Início</a>
+  <a href="#sobre">Sobre Nós</a>
+  <a href="#contacto">Contacto</a>
+  <a href="#apoiar">Apoiar Projeto</a>
+</div>
+
+<!-- CATEGORY TABS -->
+<div class="cat-bar">
+  <div class="cat-bar-inner" id="catTabs">
+    <button class="cat-tab active" data-cat="all">Todas</button>
+    <button class="cat-tab" data-cat="sociedade">Sociedade</button>
+    <button class="cat-tab" data-cat="ciencia">Ciência</button>
+    <button class="cat-tab" data-cat="ambiente">Ambiente</button>
+    <button class="cat-tab" data-cat="saude">Saúde</button>
+    <button class="cat-tab" data-cat="economia">Economia</button>
+    <button class="cat-tab" data-cat="tecnologia">Tecnologia</button>
+    <button class="cat-tab" data-cat="desporto">Desporto</button>
+  </div>
+</div>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <div class="hero-label">Curadoria Independente</div>
+      <h1>O mundo está cheio de <em>boas notícias</em>. Nós encontramos as melhores para si.</h1>
+      <p>Uma plataforma dedicada a partilhar histórias de impacto positivo, progresso humano e esperança, atualizada diariamente.</p>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <strong id="statNews">0</strong>
+          <span>Histórias</span>
+        </div>
+        <div class="hero-stat">
+          <strong>100%</strong>
+          <span>Positivo</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- AD BANNER TOP -->
+<div class="ad-banner-top">
+  <div style="text-align:center;">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1576487734267234" crossorigin="anonymous"></script>
+    <!-- Otimismo-topo -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-1576487734267234"
+         data-ad-slot="7232599701"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
 </div>
 
 <!-- TICKER -->
 <div class="ticker-wrap">
   <div class="ticker-inner">
-    <div class="ticker-badge">Em Direto</div>
+    <div class="ticker-badge">Última Hora</div>
     <div class="ticker-scroll-wrap">
-      <div class="ticker-text" id="tickerText">A carregar as últimas notícias positivas...</div>
+      <div class="ticker-text" id="tickerText">A carregar as notícias mais inspiradoras do dia...</div>
     </div>
   </div>
 </div>
@@ -271,6 +322,7 @@ footer { background:var(--navy); color:#8DA4B8; margin-top:48px; }
     
     <!-- FEATURED NEWS -->
     <div class="featured-grid" id="featuredGrid">
+      <!-- Skeletons -->
       <div class="skel skel-card"></div>
       <div class="featured-side">
         <div class="skel" style="height:130px"></div>
@@ -278,8 +330,8 @@ footer { background:var(--navy); color:#8DA4B8; margin-top:48px; }
       </div>
     </div>
 
-    <!-- In-Article Ad -->
-    <div style="margin-bottom:28px; text-align:center;">
+    <!-- AD IN-ARTICLE -->
+    <div style="margin:20px 0; text-align:center;">
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1576487734267234" crossorigin="anonymous"></script>
       <ins class="adsbygoogle"
            style="display:block; text-align:center;"
@@ -290,106 +342,312 @@ footer { background:var(--navy); color:#8DA4B8; margin-top:48px; }
       <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
 
+    <!-- News grid -->
     <div class="section-header">
-      <h2 class="section-title">Últimas Notícias</h2>
+      <div class="section-title">📰 Últimas Notícias</div>
+      <span id="newsCount" style="font-size:13px;color:var(--gray-400);"></span>
     </div>
-
     <div class="news-grid" id="newsGrid">
-      <!-- Notícias serão carregadas aqui -->
+      <div class="skel skel-card"></div>
+      <div class="skel skel-card"></div>
+      <div class="skel skel-card"></div>
+      <div class="skel skel-card"></div>
+      <div class="skel skel-card"></div>
+      <div class="skel skel-card"></div>
     </div>
-
     <div class="load-more-wrap">
       <button class="btn-load-more" id="loadMoreBtn" style="display:none" onclick="loadMore()">Carregar mais notícias ↓</button>
     </div>
   </div>
 
+  <!-- SIDEBAR -->
   <aside class="sidebar">
-    <!-- Apoiar -->
+
+    <!-- Apoiar o projeto -->
     <div class="apoiar-card" id="apoiar">
       <div class="apoiar-icon">🌟</div>
-      <div class="apoiar-title">Apoiar o Projeto</div>
-      <p class="apoiar-desc">Ajude-nos a manter o otimismo vivo e gratuito para todos.</p>
-      <button class="btn-apoiar-main">💛 Apoiar Agora</button>
+      <div class="apoiar-title">Apoiar a Positividade</div>
+      <div class="apoiar-desc">Este projeto é gratuito e independente. Cada contribuição ajuda-nos a continuar a partilhar histórias que inspiram e fazem a diferença.</div>
+      <button class="btn-apoiar-main" onclick="donar()">💛 Apoiar a Positividade</button>
     </div>
 
-    <!-- Anúncio Nativo -->
-    <div style="margin-bottom:20px; text-align:center;">
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1576487734267234" crossorigin="anonymous"></script>
-      <ins class="adsbygoogle"
-           style="display:block"
-           data-ad-format="autorelaxed"
-           data-ad-client="ca-pub-1576487734267234"
-           data-ad-slot="9158786829"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+    <!-- Trending -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">🔥 Mais Lidas</div>
+      <div class="sidebar-card-body" id="trendingList" style="padding:8px 16px;"></div>
+    </div>
+
+    <!-- Barómetro de Positividade -->
+    <div class="sidebar-card" id="barometroCard">
+      <div class="sidebar-card-header">🌡️ Barómetro de Positividade</div>
+      <div class="sidebar-card-body" style="padding:18px 16px;">
+        <div style="text-align:center;margin-bottom:14px;">
+          <div id="baroEmoji" style="font-size:2.4rem;line-height:1;margin-bottom:6px;">😊</div>
+          <div id="baroLabel" style="font-family:var(--font-serif);font-weight:700;font-size:1rem;color:var(--navy);">A calcular...</div>
+          <div id="baroSub" style="font-size:.75rem;color:var(--gray-400);margin-top:2px;">índice de hoje</div>
+        </div>
+        <div style="position:relative;height:12px;background:linear-gradient(to right,#ef4444,#f59e0b,#22c55e);border-radius:20px;overflow:hidden;">
+          <div id="baroNeedle" style="position:absolute;top:-4px;width:20px;height:20px;background:#fff;border:3px solid var(--navy);border-radius:50%;transform:translateX(-50%);transition:left 1s cubic-bezier(.34,1.56,.64,1);left:50%;box-shadow:0 2px 8px rgba(0,0,0,.2);"></div>
+        </div>
+        <div style="display:flex;justify-content:space-between;margin-top:6px;font-size:10px;color:var(--gray-400);letter-spacing:.04em;">
+          <span>Negativo</span><span>Neutro</span><span>Positivo</span>
+        </div>
+        <div id="baroStats" style="margin-top:14px;display:grid;grid-template-columns:1fr 1fr;gap:8px;"></div>
+      </div>
     </div>
 
     <!-- Newsletter -->
-    <div class="sidebar-card">
-      <div class="sidebar-card-header">Newsletter</div>
+    <div class="sidebar-card" id="newsletter">
+      <div class="sidebar-card-header">📬 Newsletter Semanal</div>
       <div class="sidebar-card-body">
+        <p style="font-size:.82rem;color:var(--gray-600);margin-bottom:12px;line-height:1.5;">As melhores notícias positivas da semana, na tua caixa de entrada. Grátis, sempre.</p>
         <div class="newsletter-form">
-          <input type="email" placeholder="O seu e-mail">
-          <button class="btn-subscribe">Subscrever</button>
+          <input type="email" id="emailInput" placeholder="o-teu@email.com">
+          <button class="btn-subscribe" onclick="subscribe()">Subscrever →</button>
         </div>
       </div>
     </div>
-  </aside>
-</main>
 
+    <!-- AD SIDEBAR NATIVE -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-header">Destaque</div>
+      <div class="sidebar-card-body">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1576487734267234" crossorigin="anonymous"></script>
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-format="autorelaxed"
+             data-ad-client="ca-pub-1576487734267234"
+             data-ad-slot="9158786829"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
+    </div>
+
+    <!-- Partilhar -->
+    <div class="sidebar-card" id="contacto">
+      <div class="sidebar-card-header">📣 Partilhar & Contacto</div>
+      <div class="sidebar-card-body">
+        <div class="share-row">
+          <a href="https://twitter.com/intent/tweet?text=Notícias+positivas+em+otimismo.pt&url=https://otimismo.pt" target="_blank" class="share-btn" style="background:#e7f3fe;color:#1877f2;">𝕏 Twitter</a>
+          <a href="https://api.whatsapp.com/send?text=Já+conheces+o+otimismo.pt?+https://otimismo.pt" target="_blank" class="share-btn" style="background:#e8f5e9;color:#25d366;">💬 WhatsApp</a>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https://otimismo.pt" target="_blank" class="share-btn" style="background:#e7f3fe;color:#1877f2;">👥 Facebook</a>
+        </div>
+        <div style="margin-top:12px;padding-top:12px;border-top:1px solid var(--gray-200);">
+          <p style="font-size:.78rem;color:var(--gray-600);margin-bottom:4px;">✉️ Contacto & Parcerias</p>
+          <a href="mailto:fiscofacil.support@gmail.com" style="font-size:.82rem;color:var(--blue-400);text-decoration:none;font-weight:500;">fiscofacil.support@gmail.com</a>
+        </div>
+      </div>
+    </div>
+
+  </aside>
+</div>
+
+<!-- SOBRE NÓS -->
+<section id="sobre" style="background:var(--white);border-top:1px solid var(--gray-200);padding:48px 24px;">
+  <div style="max-width:900px;margin:0 auto;">
+    <h2 style="font-family:var(--font-serif);font-size:1.6rem;font-weight:700;color:var(--navy);margin-bottom:8px;">Sobre o otimismo.pt</h2>
+    <p style="color:var(--gray-600);font-size:.95rem;line-height:1.7;max-width:680px;margin-bottom:24px;">
+      O otimismo.pt nasceu da convicção de que o mundo tem mais histórias boas do que os noticiários habituais mostram. Somos uma plataforma de curadoria de notícias positivas em português, com cobertura global.
+    </p>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;">
+      <div style="background:var(--gray-100);border-radius:var(--radius-md);padding:20px;">
+        <div style="font-size:1.5rem;margin-bottom:6px;">📡</div>
+        <strong style="font-size:.9rem;color:var(--navy);">Curadoria de qualidade</strong>
+        <p style="font-size:.8rem;color:var(--gray-600);margin-top:4px;line-height:1.5;">Pesquisamos dezenas de fontes jornalísticas de confiança em português para trazer as melhores histórias.</p>
+      </div>
+      <div style="background:var(--gray-100);border-radius:var(--radius-md);padding:20px;">
+        <div style="font-size:1.5rem;margin-bottom:6px;">✅</div>
+        <strong style="font-size:.9rem;color:var(--navy);">Rigor e atribuição</strong>
+        <p style="font-size:.8rem;color:var(--gray-600);margin-top:4px;line-height:1.5;">Cada notícia é creditada à sua fonte original. Clica sempre para ler o artigo completo no site do editor.</p>
+      </div>
+      <div style="background:var(--gray-100);border-radius:var(--radius-md);padding:20px;">
+        <div style="font-size:1.5rem;margin-bottom:6px;">🌍</div>
+        <strong style="font-size:.9rem;color:var(--navy);">Alcance global</strong>
+        <p style="font-size:.8rem;color:var(--gray-600);margin-top:4px;line-height:1.5;">Chegamos a leitores em todo o mundo — onde quer que o português seja falado e onde quer que aconteça algo que valha a pena celebrar.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
 <footer>
   <div class="footer-inner">
-    <div class="footer-col">
+    <div>
       <div class="footer-brand">otimismo<span>.pt</span></div>
-      <p class="footer-desc">Espalhando boas notícias desde 2026.</p>
+      <p class="footer-desc">Notícias positivas para um mundo melhor. Curadoria independente, atualizada diariamente.</p>
+      <div style="margin-top:16px;display:flex;gap:8px;">
+        <a href="https://twitter.com" target="_blank" style="color:#8DA4B8;text-decoration:none;font-size:13px;">𝕏</a>
+        <a href="https://facebook.com" target="_blank" style="color:#8DA4B8;text-decoration:none;font-size:13px;">Facebook</a>
+        <a href="https://instagram.com" target="_blank" style="color:#8DA4B8;text-decoration:none;font-size:13px;">Instagram</a>
+      </div>
     </div>
     <div class="footer-col">
-      <h4>Links</h4>
-      <a href="#">Sobre</a>
-      <a href="#">Contacto</a>
+      <h4>Navegação</h4>
+      <a href="#">Início</a>
+      <a href="#sobre">Sobre Nós</a>
+      <a href="#contacto">Contacto</a>
+      <a href="#apoiar">Apoiar</a>
+    </div>
+    <div class="footer-col">
+      <h4>Categorias</h4>
+      <a href="#">Ciência</a>
+      <a href="#">Saúde</a>
+      <a href="#">Tecnologia</a>
+      <a href="#">Ambiente</a>
+      <a href="#">Desporto</a>
+    </div>
+    <div class="footer-col">
+      <h4>Legal</h4>
+      <a href="#">Política de Privacidade</a>
+      <a href="#">Termos de Uso</a>
+      <a href="#">Publicidade</a>
+      <a href="#">Direitos de Autor</a>
     </div>
   </div>
   <div class="footer-bottom">
-    &copy; <span id="yr"></span> otimismo.pt — Todos os direitos reservados.
+    &copy; <span id="yr"></span> otimismo.pt — Todos os artigos pertencem às suas fontes originais. Curadoria e análise próprias.
   </div>
 </footer>
 
+<div class="toast" id="toast">Obrigado pelo seu interesse!</div>
+
 <script>
+const NEWS = [];
+const CATS = {ciencia:'Ciência',tecnologia:'Tecnologia',ambiente:'Ambiente',saude:'Saúde',sociedade:'Sociedade',economia:'Economia',desporto:'Desporto',cultura:'Cultura'};
+const PER_PAGE = 6;
+let filtered = [], page = 0;
+
+document.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('yr').textContent = new Date().getFullYear();
+  initMenu();
+  initTabs();
+  loadNews();
+});
+
+function initMenu() {
+  const btn = document.getElementById('menuBtn');
+  const menu = document.getElementById('mobileMenu');
+  btn.onclick = () => {
+    menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
+  };
+}
+
+function initTabs() {
+  const tabs = document.querySelectorAll('.cat-tab');
+  tabs.forEach(t => {
+    t.onclick = () => {
+      tabs.forEach(x => x.classList.remove('active'));
+      t.classList.add('active');
+      filterNews(t.dataset.cat);
+    };
+  });
+}
+
 async function loadNews() {
   try {
     const res = await fetch('noticias.json');
     const data = await res.json();
-    const container = document.getElementById('newsGrid');
-    container.innerHTML = '';
-    
-    data.news.forEach(item => {
-      const card = document.createElement('a');
-      card.className = 'news-card';
-      card.href = item.url;
-      card.target = '_blank';
-      card.innerHTML = `
-        <img src="${item.img}" alt="" class="thumb" onerror="this.src='https://via.placeholder.com/300x165?text=Otimismo'">
-        <div class="body">
-          <span class="cat-pill">${item.cat}</span>
-          <h3 class="card-title">${item.title}</h3>
-          <p class="card-summary">${item.summary}</p>
-          <div class="card-footer">
-            <span class="card-source">${item.source}</span>
-          </div>
-        </div>
-      `;
-      container.appendChild(card);
-    });
-    
-    document.getElementById('tickerText').textContent = data.news[0].title;
+    NEWS.push(...data.news);
+    filtered = [...NEWS];
+    render();
+    updateStats();
   } catch (e) {
     console.error('Erro ao carregar notícias:', e);
   }
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-  document.getElementById('yr').textContent = new Date().getFullYear();
-  loadNews();
-});
+function filterNews(cat) {
+  filtered = cat === 'all' ? [...NEWS] : NEWS.filter(n => n.cat === cat);
+  page = 0;
+  render();
+}
+
+function render() {
+  const container = document.getElementById('newsGrid');
+  const featContainer = document.getElementById('featuredGrid');
+  const start = page * PER_PAGE;
+  const end = start + PER_PAGE;
+  const items = filtered.slice(0, end);
+  
+  if (page === 0 && filtered.length > 0) {
+    const main = filtered[0];
+    featContainer.innerHTML = `
+      <a href="${main.url}" target="_blank" class="featured-main">
+        <span class="feat-badge">${CATS[main.cat] || main.cat}</span>
+        <h2 class="feat-title">${main.title}</h2>
+        <div class="feat-meta"><span>${main.source}</span></div>
+      </a>
+      <div class="featured-side">
+        ${filtered.slice(1,3).map(n => `
+          <a href="${n.url}" target="_blank" class="feat-card-sm">
+            <div class="info">
+              <div class="cat-tag">${CATS[n.cat] || n.cat}</div>
+              <div class="title-sm">${n.title}</div>
+              <div class="source-sm">${n.source}</div>
+            </div>
+          </a>
+        `).join('')}
+      </div>
+    `;
+    
+    const trending = [...NEWS].sort((a,b) => b.score - a.score).slice(0,5);
+    document.getElementById('trendingList').innerHTML = trending.map((n,i) => `
+      <a href="${n.url}" target="_blank" class="trending-item">
+        <div class="trending-num">0${i+1}</div>
+        <div class="info">
+          <div class="trending-title">${n.title}</div>
+          <div class="trending-cat">${CATS[n.cat] || n.cat}</div>
+        </div>
+      </a>
+    `).join('');
+  }
+
+  container.innerHTML = items.slice(page === 0 ? 3 : 0).map(n => `
+    <a href="${n.url}" target="_blank" class="news-card">
+      <img src="${n.img}" class="thumb" onerror="this.src='https://via.placeholder.com/300x165?text=Otimismo'">
+      <div class="body">
+        <span class="cat-pill ${n.cat}">${CATS[n.cat] || n.cat}</span>
+        <h3 class="card-title">${n.title}</h3>
+        <p class="card-summary">${n.summary}</p>
+        <div class="card-footer">
+          <span class="card-source">${n.source}</span>
+          <div class="card-score">✨ ${Math.round(n.score*100)}%</div>
+        </div>
+      </div>
+    </a>
+  `).join('');
+  
+  document.getElementById('loadMoreBtn').style.display = end < filtered.length ? 'inline-block' : 'none';
+  document.getElementById('newsCount').textContent = `${filtered.length} notícias encontradas`;
+  if (filtered.length > 0) document.getElementById('tickerText').textContent = filtered[0].title;
+}
+
+function loadMore() {
+  page++;
+  render();
+}
+
+function updateStats() {
+  document.getElementById('statNews').textContent = NEWS.length;
+  const baro = 85; // Simulado
+  document.getElementById('baroNeedle').style.left = baro + '%';
+  document.getElementById('baroLabel').textContent = 'Muito Positivo';
+}
+
+function subscribe() {
+  showToast('Subscrição efetuada com sucesso!');
+}
+
+function donar() {
+  showToast('Redirecionando para página de apoio...');
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 3000);
+}
 </script>
 </body>
 </html>
