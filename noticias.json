@@ -1,64 +1,84 @@
 {
-  "last_update": "23/05/2026 14:30",
+  "last_update": "23/05/2026 14:35",
   "news": [
     {
-      "title": "Descoberto novo dinossauro que viveu em Portugal há quase 150 milhões de anos - Diário de Notícias",
-      "summary": "Descoberto novo dinossauro que viveu em Portugal há quase 150 milhões de anos  Diário de Notícias...",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONV9LSDZ0WjZTV3ludm9vbWNyaDdCelNUU3FHRnJCVkxQbFhZMlpDdEJDcUoybnZsbmpHRHYxemVwWXpVdGNtYWRNaFF3em9GYmktWE5VTnJVLWdqalNOaks2a1RnVnBHTjRYdV9DYl81bTRZUGNEazRYTFpFbXVvWHlPWjM3bjlxVy1nVGZUdWlpYjQ4MHRvbEF0bGZSYkgwc0IyZV9oeEFvazZ1MzA2X3VXZw?oc=5",
-      "img": null,
-      "source": "Google News",
-      "cat": "ciencia",
-      "date": "2025-04-02T07:00:00+00:00",
+      "title": "‘É tão cheio de amor’, o festival para jovens cuidadores",
+      "summary": "Durante um fim de semana por ano, o Festival de Jovens Cuidadores ajuda-os a trocar as responsabilidades de adultos pela simples alegria de ser criança\nA postagem ‘É tão cheio de amor’, o festival para jovens cuidadores apareceu pela primeira vez em Positive News....",
+      "url": "https://www.positive.news/lifestyle/the-festival-for-young-carers/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/05/YCF2024_YC__8315-1-1.jpg",
+      "source": "Positive News",
+      "cat": "sociedade",
+      "date": "2026-05-12T07:14:20+00:00",
       "score": 1.0
     },
     {
-      "title": "CIP otimista prevê crescimento da economia portuguesa até 1,9% em 2025 - Forbes Portugal",
-      "summary": "CIP otimista prevê crescimento da economia portuguesa até 1,9% em 2025  Forbes Portugal...",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakV6d1NNZVdzTGtGUkFvblZEMUZQYTZKM0lGOHdVZ19MN2dmZklPbmk3X19iUkhJN0hDakNJUUZJR1phQUcwcmFFMFVMNlY3R2I3SGUwa25lTHNpQzlXbUcxWmhDdG9PZWMyUmtGZm5WUzBYUHJwblNid0FuZENyQlM3emZCQVhXdjlRXzIwSUJEbVhlVndKRi1n?oc=5",
-      "img": null,
-      "source": "Google News",
-      "cat": "economia",
-      "date": "2025-12-01T08:00:00+00:00",
+      "title": "Boas novas na história, 19 de Maio",
+      "summary": "115 anos atrás, o primeiro departamento de parques nacionais do mundo, Parks Canada, foi estabelecido, 5 anos antes de seu homólogo nos EUA. Hoje eles administram os 48 Parques Nacionais do país, 3 Áreas Nacionais de Conservação Marinha, 172 Sítios Históricos Nacionais, 1 Parque Urbano Nacional e 1 ...",
+      "url": "https://www.goodnewsnetwork.org/events060519/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/05/Parks_Canada_logo.svg_.png",
+      "source": "Good News Network",
+      "cat": "sociedade",
+      "date": "2026-05-19T07:00:00+00:00",
       "score": 1.0
     },
     {
-      "title": "Portugal tem inovação, não tem é escala - Negócios",
-      "summary": "Portugal tem inovação, não tem é escala  Negócios...",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWFWNzlnQ3FadGlsRU1PRGN4YmlCbW54MXRKaEktRXFjVmNqMXlKSU51UDVScENHSzQzSFVvMkxpdEt5c2I5WVBxeTNCdkdjbzNEdWZJaTZkRmg4b2dGTG5XRVg4dlduakFud2VrNU1oSmpkZ0pjakhhZ3FISzNWa2tmMmVqcC1LYktjaVJSV25QWGFkdjBKeFZ2Q1Jlb1gwQWZlenNfeHhxZ3l4a3l1LUM2aFdDdThZM2FILXpMVC02UWJPSlE?oc=5",
+      "title": "ESPECIAL: Festa do português projeta a voz de 300 milhões nas Nações Unidas",
+      "summary": "Semana de celebração do Dia Mundial da Língua Portuguesa termina em encontro de culturas com altos funcionários da organização incluindo o secretário-geral da ONU, diplomatas e representantes da diáspora na exaltação da força do idioma e da conexão lusófona....",
+      "url": "https://news.un.org/feed/view/pt/story/2026/05/1853080",
+      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/05-05-2026-Oficial-Photo-Celebration.jpg/image560x340cropped.jpg",
+      "source": "ONU News",
+      "cat": "cultura",
+      "date": "2026-05-08T12:00:00+00:00",
+      "score": 1.0
+    },
+    {
+      "title": "Madeira aposta na inovação tecnológica para modernizar a Região e o Estado - www.jm-madeira.pt",
+      "summary": "Madeira aposta na inovação tecnológica para modernizar a Região e o Estado  www.jm-madeira.pt...",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHZRQUYxOFFoU2JIVGotcVpxRkNoY2FOZU93VVVlMlk0MVVmV0RVU2xlMThEd2NCMGYwMzBlNlZ5VGJLWURDRnhnSjFoM2VpM1hkZHJ5akpFNXNvd3BZLUZXNUhhSHhnNmRxWU5Eal9Ya0VWWXZjZDFZRTVRTk9zRzFzN19yRF8zNlQ2TFVOOV9zeld6ZnktVEJSYzdsX1F2eXIwRzlmMF9oT1JKYWxjZWl0OTZ5RUIxY1lDaA?oc=5",
       "img": null,
       "source": "Google News",
       "cat": "tecnologia",
-      "date": "2026-03-05T08:00:00+00:00",
+      "date": "2026-05-12T07:00:00+00:00",
       "score": 1.0
     },
     {
-      "title": "Reconstrução de Gaza exigirá US$ 71 bilhões na próxima década",
-      "summary": "Relatório da ONU e da União Europeia aponta retrocesso de 77 anos no desenvolvimento humano da região; estudo defende transição urgente do auxílio emergencial para plano de reconstrução em larga escala....",
-      "url": "https://news.un.org/feed/view/pt/story/2026/04/1852908",
-      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-02-2024-UNRWA-Gaza-01.jpg/image560x340cropped.jpg",
-      "source": "ONU News",
-      "cat": "economia",
-      "date": "2026-04-21T12:00:00+00:00",
+      "title": "ESG: Pilares para o sucesso empresarial - Migalhas",
+      "summary": "ESG: Pilares para o sucesso empresarial  Migalhas...",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaF9yUFdRMk13a1lvakxhb00wMk5ybW9JcnktTHhvWEZnVzYwUzMtYWdUeENPb1VqVkxCcXNDeVJKcl9FVmJaYlEzUHhRYW1pbkpaT1BKc2lnYjQwTWo0XzZWc3diMGJfLXlxVVRkNzNPSHlLN1RrQ2wwV01SU2JiZzhEd2kxYjA?oc=5",
+      "img": null,
+      "source": "Google News",
+      "cat": "ambiente",
+      "date": "2025-07-31T07:00:00+00:00",
       "score": 1.0
     },
     {
-      "title": "‘Fomos feitos para isso’: mulheres empreendedoras",
-      "summary": "Apesar da crise económica, muitas mulheres empresárias estão a ver oportunidades durante a pandemia Pode não parecer o momento mais auspicioso para iniciar um negócio. A Grã-Bretanha esteve em confinamento durante cinco dos últimos 11 meses. A economia encolheu quase 10% no ano passado. O desemprego...",
-      "url": "https://www.theguardian.com/world/2021/feb/15/the-women-starting-businesses-in-lockdown-the-upside",
-      "img": "https://i.guim.co.uk/img/media/835185d1338744e8c7329e82d5304514e7e72911/0_47_1156_694/master/1156.jpg?width=140&quality=85&auto=format&fit=max&s=c07d11f4d76a4baa10b92704581b0cc7",
+      "title": "Qual foi a melhor época para estar vivo?",
+      "summary": "Os estrondosos anos 20, os agitados anos 60 ou os anos 00? The Upside quer saber – além de todos os motivos da semana para ter esperançaQuando foi uma felicidade estar vivo? Nós, do lado positivo, muitas vezes nos encontramos considerando isso, dada a frequência com que ouvimos que a vida moderna é ...",
+      "url": "https://www.theguardian.com/world/2021/may/21/when-was-the-best-time-to-be-alive",
+      "img": "https://i.guim.co.uk/img/media/39d636ae89f7bc8d02318935452e67c636a99bf9/0_131_3500_2101/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=cbaf2fbdcfbbae48a92d325c6a59aeb1",
       "source": "The Guardian",
       "cat": "sociedade",
-      "date": "2021-02-15T09:00:06+00:00",
+      "date": "2021-05-21T09:30:03+00:00",
       "score": 1.0
     },
     {
-      "title": "Amostras de DNA animal podem identificar pontos críticos de rotas ilegais de comércio de vida selvagem",
-      "summary": "Pequenas amostras de ADN retiradas de uma grande variedade de fontes animais podem identificar pontos críticos do comércio ilegal de vida selvagem, utilizando uma nova técnica de investigação – e eventualmente levar ao desmantelamento de redes lucrativas de caça furtiva. O estudo centrou-se nos pang...",
-      "url": "https://www.goodnewsnetwork.org/dna-samples-can-pinpoint-hotspots-of-illegal-wildlife-trade-routes/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/White-bellied-pangolin-for-sale-by-local-vendor-in-Liberia-–-SWNS-CROPPED.jpg",
+      "title": "Quantos queijos são necessários para fazer uma tábua de queijos?",
+      "summary": "Esta semana, o Upside considera uma questão vital, além de analisar todas as notícias mais positivas da semana.Esta semana, o Upside foi à quadra em busca do novo normal. Um pouco cansados ​​do debate interminável sobre taxas de infecção, imunidade dupla e isenções da lista âmbar, descemos alguns qu...",
+      "url": "https://www.theguardian.com/world/2021/jul/09/from-wimbledon-to-wembley-a-great-escape-from-pandemic-anxieties",
+      "img": "https://i.guim.co.uk/img/media/89c46b816924c9c8c492a88614d8dc67eb801570/0_2_5472_3283/master/5472.jpg?width=140&quality=85&auto=format&fit=max&s=12158fa4dbc5647d9ac191e383572ed7",
+      "source": "The Guardian",
+      "cat": "sociedade",
+      "date": "2021-07-09T09:30:43+00:00",
+      "score": 1.0
+    },
+    {
+      "title": "Boas novas na história, 16 de Maio",
+      "summary": "60 anos atrás, os Beach Boys lançaram seu icônico álbum Pet Sounds. Amplamente elogiado como um dos discos mais influentes já lançados, foi classificado em segundo lugar na lista dos 500 melhores álbuns de todos os tempos da revista Rolling Stone (atrás de Sgt. Pepper's). ASSISTA a um vídeo sobre o ...",
+      "url": "https://www.goodnewsnetwork.org/events060516/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/01/Pet-Sounds-Cover-beach-boys.jpg",
       "source": "Good News Network",
       "cat": "sociedade",
-      "date": "2026-05-23T12:00:43+00:00",
+      "date": "2026-05-16T07:00:00+00:00",
       "score": 1.0
     },
     {
@@ -72,73 +92,33 @@
       "score": 1.0
     },
     {
-      "title": "18 equipes de resgate trabalham por 6 horas para salvar cachorro preso no subsolo (assista sua alegre libertação)",
-      "summary": "O dia despreocupado de uma cadela, saltando sobre as charnecas de North Yorkshire, levou a uma corrida de seis horas por equipes de resgate dedicadas e determinadas a salvá-la. O Staffordshire bull terrier caiu em uma fenda estreita na semana passada e ficou preso a 6 metros de profundidade. Seu don...",
-      "url": "https://www.goodnewsnetwork.org/18-rescue-workers-toil-for-6-hours-to-save-dog-trapped-underground-watch-her-joyful-release/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/18-man-Dog-rescue-by-Scarborough-and-Ryedale-Mountain-Rescue-Team-SWNS-.jpg",
-      "source": "Good News Network",
-      "cat": "sociedade",
-      "date": "2026-05-16T11:00:36+00:00",
+      "title": "Da inovação à operação: como a Tekever adaptou tecnologia em tempo real - Negócios",
+      "summary": "Da inovação à operação: como a Tekever adaptou tecnologia em tempo real  Negócios...",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPak40aGxVWVZ3NW5WaHNCMnJfcFFRa3J6UmlIdGkzVzFOT1FEb2hmUm5LRTBwLXBEcUcwLTF0TE9rRWMtWGpoQnpXaVJ6OTRFVzhubkkzRXg3LW16SXdjZURwOFlMRlM0MHB1RE53bzhVdjVxNlV6MGFYNUo1aWQxbXNHV3lnSEJObG1TMHppb1FtaHFnTVlXR1dXTjMwVGExcDlqRW9nS2FnZENTMmNtOFhKb2ZsaVU2TF9nRnk5SVBsRS1PUE9ybWV4VVdBR3haSEptRjVGYnZuZ2Z4TE5YcUhTbzBVS1BDRkFXVGxVNmc?oc=5",
+      "img": null,
+      "source": "Google News",
+      "cat": "tecnologia",
+      "date": "2026-03-12T07:00:00+00:00",
+      "score": 1.0
+    },
+    {
+      "title": "Banco Mundial apoia proteção social, inclusão e geração de empregos em São Paulo",
+      "summary": "Projeto aprovado pela instituição internacional financiará ampliação de serviços sociais e modernização da rede de assistência na cidade; pacote totalizou US$ 231,8 milhões; 500 mil pessoas devem ser beneficiadas....",
+      "url": "https://news.un.org/feed/view/pt/story/2026/03/1852637",
+      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/11-02-2022_UNSPLASH_Brazil.jpg/image560x340cropped.jpg",
+      "source": "ONU News",
+      "cat": "economia",
+      "date": "2026-03-16T12:00:00+00:00",
       "score": 1.0
     },
     {
       "title": "Os jovens comerciantes revivendo as bancas do mercado britânico",
-      "summary": "À medida que as vagas de emprego desaparecem, os jovens empreendedores surgem nos mercados, descobrindo novas oportunidades num comércio antigo\nA postagem Os jovens comerciantes revivendo as barracas do mercado britânico apareceu pela primeira vez em Positive News....",
+      "summary": "À medida que as vagas de emprego desaparecem, os jovens empreendedores surgem nos mercados, descobrindo novas oportunidades num comércio antigo\nA postagem Os jovens comerciantes revivendo as bancas do mercado britânico apareceu pela primeira vez em Positive News....",
       "url": "https://www.positive.news/society/youth/the-young-traders-reviving-britains-market-stalls/",
       "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/05/OR_04_03_2026_PN_CC_0251-1.jpeg",
       "source": "Positive News",
       "cat": "sociedade",
       "date": "2026-05-20T07:00:08+00:00",
-      "score": 1.0
-    },
-    {
-      "title": "Cinquenta novos meios de comunicação, 250 jornalistas: startup canadense revela plano para reviver as notícias locais",
-      "summary": "Enquanto os jornais locais fechavam as portas, um boletim matinal desafiava as probabilidades. Agora, seu fundador pretende impulsionar o modelo em todo o paísO jornalismo local eliminou empregos mais rápido que o carvão indústria, deixando áreas da América do Norte como desertos de notícias com pou...",
-      "url": "https://www.theguardian.com/world/2021/may/03/local-media-can-survive-the-canadian-team-building-a-future-for-community-news",
-      "img": "https://i.guim.co.uk/img/media/77e0e85ec55710f79e843f02d5c95ad600c3c2f3/0_22_5000_3000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=df11740de774caf245da262829ac6b02",
-      "source": "The Guardian",
-      "cat": "sociedade",
-      "date": "2021-05-03T16:35:49+00:00",
-      "score": 1.0
-    },
-    {
-      "title": "Superhot Rock detém a energia do futuro",
-      "summary": "Esta história foi copublicada pela Reasons to be Cheerful e pela Outrider Foundation. O Vulcão Newberry, no centro de Oregon, está situado em meio a uma paisagem deslumbrante de antigos fluxos de lava, lagos e florestas de pinheiros. Todos os anos, multidões de turistas vêm admirar o fenômeno geológ...",
-      "url": "https://reasonstobecheerful.world/geothermal-energy-new-tech/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/05/6062587555767211759.jpg",
-      "source": "Reasons to be Cheerful",
-      "cat": "sociedade",
-      "date": "2026-05-21T08:00:35+00:00",
-      "score": 1.0
-    },
-    {
-      "title": "‘É tão cheio de amor’, o festival para jovens cuidadores",
-      "summary": "Durante um fim de semana por ano, o Festival de Jovens Cuidadores ajuda-os a trocar as responsabilidades de adultos pela simples alegria de ser criança\nA postagem 'É tão cheio de amor', o festival para jovens cuidadores apareceu pela primeira vez em Positive News....",
-      "url": "https://www.positive.news/lifestyle/the-festival-for-young-carers/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/05/YCF2024_YC__8315-1-1.jpg",
-      "source": "Positive News",
-      "cat": "sociedade",
-      "date": "2026-05-12T07:14:20+00:00",
-      "score": 1.0
-    },
-    {
-      "title": "Monet por nada: as famosas obras de arte animando as ruas do Reino Unido",
-      "summary": "Reproduções de obras de Monet, Picasso e Van Gogh estão sendo penduradas nos centros das cidades para aproximar a arte das comunidades \nA postagem Monet for nada: as famosas obras de arte que animam as ruas principais do Reino Unido apareceu pela primeira vez em Positive News....",
-      "url": "https://www.positive.news/lifestyle/national-gallery-takes-art-to-town-centres/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/05/2-The-National-Gallery.jpg",
-      "source": "Positive News",
-      "cat": "sociedade",
-      "date": "2026-05-18T10:08:13+00:00",
-      "score": 1.0
-    },
-    {
-      "title": "Pode causar alegria: os benefícios da dança para a saúde em todo o espectro",
-      "summary": "Quando o músico David Byrne, fundador do Reasons to be Cheerful, se apresentou no esgotado Dolby Theatre em Los Angeles no outono passado, toda a multidão ficou de pé durante quase todo o show. Dancei com entusiasmo por quase duas horas seguidas, sentindo uma espécie de alegria não filtrada que é ra...",
-      "url": "https://reasonstobecheerful.world/overlooked-health-benefits-dance/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/05/Photo-by-Eddie-Marritz-2018.jpg",
-      "source": "Reasons to be Cheerful",
-      "cat": "sociedade",
-      "date": "2026-05-15T08:00:14+00:00",
       "score": 1.0
     },
     {
@@ -152,34 +132,54 @@
       "score": 1.0
     },
     {
-      "title": "Pare com a nostalgia. Agora é o melhor momento de todos",
-      "summary": "Leitores positivos avaliam quando era melhor estar vivo, além de todos os motivos da semana para ter esperançaAlgumas semanas atrás, perguntamos: quando foi uma felicidade estar vivo? Isso provocou uma pequena inundação em nossa caixa de entrada, mas assim que conseguimos respirar, houve uma conclus...",
-      "url": "https://www.theguardian.com/world/2021/jun/11/stop-the-nostalgia-now-is-the-best-time-of-all",
-      "img": "https://i.guim.co.uk/img/media/e48006daeabd2ec4b8345c662823b6df3339141b/0_507_5821_3493/master/5821.jpg?width=140&quality=85&auto=format&fit=max&s=7855a30a99ff1201ba708dc0e5c5bc7a",
+      "title": "Paris realizou um enorme teste de estresse para calor extremo",
+      "summary": "Esta história foi publicada originalmente por Grist. Inscreva-se no boletim informativo semanal de Grist aqui. Numa tarde ensolarada de sexta-feira, em outubro de 2023, cerca de 70 crianças entraram num túnel fresco e escuro no sul de Paris para ajudar a cidade a ensaiar para o seu futuro cada vez m...",
+      "url": "https://reasonstobecheerful.world/paris-staged-a-huge-stress-test-for-extreme-heat/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/05/Paris-heat-simulation-1.jpg",
+      "source": "Reasons to be Cheerful",
+      "cat": "sociedade",
+      "date": "2026-05-08T08:00:09+00:00",
+      "score": 1.0
+    },
+    {
+      "title": "O que estamos lendo: observação de lontras nos rios do Colorado",
+      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Notícias sobre lontras Este ano marca 50 anos desde que a Colorado Parks and Wildlife (CPW) inic...",
+      "url": "https://reasonstobecheerful.world/what-were-reading-colorado-river-otters-comeback/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/05/67983636_2598629990150188_464922057944072192_n.jpg",
+      "source": "Reasons to be Cheerful",
+      "cat": "sociedade",
+      "date": "2026-05-13T08:00:55+00:00",
+      "score": 1.0
+    },
+    {
+      "title": "Vida depois: confrontando um assassino",
+      "summary": "Graças a um programa de justiça restaurativa, Joan Scourfield está dividindo o palco com o homem que matou seu filho para falar sobre perdão \nA postagem Vida depois: confrontando um assassino apareceu pela primeira vez em Positive News....",
+      "url": "https://www.positive.news/society/life-after-confronting-a-killer/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/05/Joan_Scourfield_4-copy.jpg",
+      "source": "Positive News",
+      "cat": "sociedade",
+      "date": "2026-05-13T09:15:43+00:00",
+      "score": 1.0
+    },
+    {
+      "title": "Por que tantos americanos estão felizes com sua sorte?",
+      "summary": "Uma pesquisa mostra uma imagem diferente dos EUA, além de todos os motivos da semana para ter esperançaHouve duas coisas surpreendentes sobre uma pesquisa recente da Gallup sobre satisfação com a vida nos EUA.A primeira foi que mais americanos se consideram prósperos em qualquer ponto por mais de um...",
+      "url": "https://www.theguardian.com/world/2021/jul/16/why-so-many-americans-happy-with-their-lot-survey",
+      "img": "https://i.guim.co.uk/img/media/595363e75e085b622e1c1f083622a9f402e92e51/0_190_5700_3420/master/5700.jpg?width=140&quality=85&auto=format&fit=max&s=77aa2f4a82a807c311665672359080ca",
       "source": "The Guardian",
       "cat": "sociedade",
-      "date": "2021-06-11T09:30:14+00:00",
-      "score": 0.8421052631578947
+      "date": "2021-07-16T09:30:07+00:00",
+      "score": 0.7
     },
     {
-      "title": "Com inverno próximo, ONU recomenda vacinas contra influenza",
-      "summary": "Diretor do braço da OMS nas Américas, Jarbas Barbosa, defende combinação de ciência, controle ágil e adesão da população às campanhas de imunização....",
-      "url": "https://news.un.org/feed/view/pt/story/2026/05/1853180",
-      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/03/11-03-2019-flushot-influenza-health.jpg/image560x340cropped.jpg",
+      "title": "Tornar português língua oficial da ONU é questão de reconhecimento, diz Portugal",
+      "summary": "Embaixadora do país e presidente do Camões, Instituto da Cooperação e da Língua, Florbela Paraíba, falou à ONU News sobre o Dia Mundial da Língua Portuguesa, marcado pela Unesco em 5 de maio....",
+      "url": "https://news.un.org/feed/view/pt/story/2026/04/1853001",
+      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-01-2026-UN-Photo-HQ-flags.jpg/image560x340cropped.jpg",
       "source": "ONU News",
-      "cat": "saude",
-      "date": "2026-05-19T12:00:00+00:00",
-      "score": 0.5
-    },
-    {
-      "title": "OMS diz que marcas de sachês de nicotina visam jovens, enquanto as vendas disparam",
-      "summary": "Produtos têm expansão rápida e estão sendo comercializados em ofensiva de marketing também para adolescentes; alerta é divulgado às vésperas do Dia Mundial sem Tabaco, celebrado em 31 de maio....",
-      "url": "https://news.un.org/feed/view/pt/story/2026/05/1853178",
-      "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/15-05-2026-Adobe-nicotine.jpg/image560x340cropped.jpg",
-      "source": "ONU News",
-      "cat": "saude",
-      "date": "2026-05-19T12:00:00+00:00",
-      "score": 0.5
+      "cat": "cultura",
+      "date": "2026-04-30T12:00:00+00:00",
+      "score": 0.5714285714285714
     }
   ]
 }
