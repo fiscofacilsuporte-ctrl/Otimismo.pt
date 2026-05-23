@@ -718,19 +718,9 @@ function selectAmount(btn, amt) {
   document.getElementById('amt').textContent = amt;
 }
 function donate() {
-  if (typeof kofiWidgetOverlay !== 'undefined') {
-    kofiWidgetOverlay.draw('otimismopt', {
-      'type': 'widget',
-      'page.id': 'otimismopt',
-      'element.id': 'kofi-widget-overlay-otimismopt',
-      'button.text': 'Apoiar',
-      'button.color': '#1d4ed8',
-      'button.text.color': '#fff'
-    });
-  } else {
-    window.open('https://ko-fi.com/otimismopt', '_blank');
-  }
-  showToast('Obrigado pelo teu apoio! ❤️');
+  // Abre página de donativos — substitui o link pelo teu Ko-fi, PayPal ou MB Way
+  window.open('https://ko-fi.com/otimismopt', '_blank');
+  showToast('Obrigado por apoiares a positividade! 🌟');
 }
 function subscribe() {
   showToast('Obrigado! Subscrição efetuada.');
@@ -755,8 +745,6 @@ function catEmoji(c) {
   return m[c] || '📰';
 }
 </script>
-<!-- Ko-fi Widget -->
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<div id='kofi-widget-overlay-otimismopt'></div>
+<!-- Ko-fi: adiciona o teu utilizador em donate() acima -->
 </body>
 </html>
