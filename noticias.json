@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 14:34 UTC",
+  "last_update": "24/05/2026 20:46 UTC",
   "total": 27,
   "news": [
     {
@@ -23,6 +23,17 @@
       "url": "https://www.goodnewsnetwork.org/ai-employed-to-pinpoint-whale-heat-signatures-in-san-francisco-bay-to-prevent-ship-collisions/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/Unsplash-community.jpg",
       "score": 0.82
+    },
+    {
+      "id": "85ba91d5",
+      "cat": "desporto",
+      "title": "Mundial de futebol. \"Estamos muito perto\" de uma \"conquista inédita\", diz Montenegro",
+      "summary": "Antes do início do jogo pela Taça de Portugal no Jamor, entre Sporting e Torreense, perante um estádio com lotação esgotada, o primeiro-ministro destacou a aposta &quot;como nunca&quot; que o executivo tem feito no desporto, referindo que, apesar de melhorias recentes, o país &quot;tem pouca prática",
+      "source": "RTP",
+      "date": "Sun, 24 May 2026 18:11:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/mundial-de-futebol-estamos-muito-perto-de-uma-conquista-inedita-diz-montenegro_v1743215",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/05/05d94afd3d52c8e04240836f2cd0b1ab?w=350&amp;q=50&amp;rect=0,164,1500,822&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "bf5ac06c",
@@ -69,25 +80,25 @@
       "score": 0.79
     },
     {
-      "id": "e71f037f",
+      "id": "5df59179",
       "cat": "desporto",
-      "title": "Sporting vence dérbi e fecha Liga de andebol com pleno de vitórias",
-      "summary": "O Sporting venceu hoje o Benfica, por 34-22, em jogo da sexta e última jornada da fase de apuramento de campeão da Liga portuguesa de andebol e fechou a época com o pleno de vitórias na prova.",
+      "title": "Torreense é o primeiro secundário a conquistar o troféu",
+      "summary": "O Torrense tornou-se o primeiro clube abaixo da divisão principal a conquistar a Taça de Portugal de futebol, após seis derrotas de representantes secundários, ao vencer na final o Sporting, por 2-1, após prolongamento.",
       "source": "RTP",
-      "date": "Sat, 23 May 2026 21:49:37 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/sporting-vence-derbi-e-fecha-liga-de-andebol-com-pleno-de-vitorias_d1743117",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/09/09749cc03f6cfbad95aec5bc2f5f061a?w=350&amp;q=50&amp;rect=0,96,1232,675&amp;auto=format",
+      "date": "Sun, 24 May 2026 22:27:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/torreense-e-o-primeiro-secundario-a-conquistar-o-trofeu_v1743251",
+      "img": "https://cdn-images.rtp.pt/icm/images/78/7863c91ae27ae52ded0382ab7c738e19_N.jpg?",
       "score": 0.76
     },
     {
-      "id": "402020e6",
+      "id": "903c0839",
       "cat": "desporto",
-      "title": "Celtic conquista Taça da Escócia e garante 23.ª ‘dobradinha’ da sua história",
-      "summary": "O Celtic assegurou hoje a 23.ª ‘dobradinha’ da sua história, ao conquistar a Taça da Escócia diante do Dunfermline, por 3-1, uma semana depois de se ter sagrado pentacampeão de futebol.",
+      "title": "Arsenal campeão. Fim de um jejum de 22 anos",
+      "summary": "O Arsenal voltou ao topo do futebol inglês. A equipa orientada por Mikel Arteta conquistou a Premier League 2025/26, encerrando uma espera de 22 anos pelo título nacional e devolvendo aos adeptos uma celebração que não acontecia desde a histórica época dos &quot;Invincibles&quot;, em 2003/04.",
       "source": "RTP",
-      "date": "Sat, 23 May 2026 19:31:31 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/celtic-conquista-taca-da-escocia-e-garante-23a-dobradinha-da-sua-historia_d1743101",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/25/2585c44f1e1ef8c6c63dc80489d87892?w=350&amp;q=50&amp;rect=0,124,1233,676&amp;auto=format",
+      "date": "Sun, 24 May 2026 20:36:52 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-campeao-fim-de-um-jejum-de-22-anos_d1743235",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/20/207a46cf209d53bd370a0b26f5a7082a?w=350&amp;q=50&amp;rect=0,67,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
@@ -135,58 +146,47 @@
       "score": 0.76
     },
     {
-      "id": "edf60338",
+      "id": "50b5bbe6",
       "cat": "tecnologia",
-      "title": "Temporada chega ao fim com duelo inédito no Estádio Nacional",
-      "summary": "A 86.ª final da prova rainha coloca frente a frente Sporting e Torreense, que se vão defrontar pela primeira vez no Jamor. Leão procura 19.ª Taça, torreenses querem fazer história. Siga em direto.",
-      "source": "Observador",
-      "date": "Sun, 24 May 2026 15:15:02 +0100",
-      "url": "https://observador.pt/liveblogs/sporting-torreense-temporada-chega-ao-fim-com-duelo-inedito-no-estadio-nacional/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/05/08153932/42583820.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1e72ef3f",
-      "cat": "tecnologia",
-      "title": "\"Até no fim de Salazar houve medo: medo de dizer a verdade\"",
-      "summary": "\"Pai Nosso — Os Últimos Dias de Salazar\" estreia-se a 28 de maio. Falámos com o realizador sobre o período histórico retratado, São Bento como cenário de verdade e ficção e a teatralização do regime.",
-      "source": "Observador",
-      "date": "Sun, 24 May 2026 14:53:47 +0100",
-      "url": "https://observador.pt/especiais/jose-filipe-costa-e-o-filme-sobre-a-grande-encenacao-ate-no-fim-de-salazar-houve-medo-medo-de-dizer-a-verdade-ao-ditador/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1077:nowe:22:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/21155526/pai-nosso-2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "bcd22d8e",
-      "cat": "tecnologia",
-      "title": "13h. Dia de final da Taça. Já há festa no Jamor",
-      "summary": "É um das grandes tradições da final da Taça. Ainda, a Presidente da Comissão Europeia saúda os aparentes progressos nas negociações entre Estados Unidos e Irão.",
-      "source": "Observador",
-      "date": "Sun, 24 May 2026 13:10:22 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2335/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6f39e4c9",
-      "cat": "tecnologia",
-      "title": "“Não está nas prioridades da CUF avançar para as PPP”",
-      "summary": "A CUF, que durante 25 anos assumiu parcerias público-privadas (PPP) em diferentes hospitais, descarta a possibilidade de avançar para as novas que o Governo vai lançar. Mas haverá sempre interessados, diz o CEO, Rui Diniz.",
+      "title": "Torreense bate Sporting e conquista a Taça de Portugal",
+      "summary": "Sp. Braga começa na 2.ª pré da Liga Conferência e Famalicão (5.º classificado) fica sem Europa",
       "source": "Jornal de Negócios",
-      "date": "Sun, 24 May 2026 11:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/nao-esta-nas-prioridades-da-cuf-avancar-para-as-ppp",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-22-16-35-35-524141.jpg",
+      "date": "Sun, 24 May 2026 20:23:12 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/torreense-bate-sporting-e-conquista-a-taca-de-portugal",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-24-20-20-45-524163.jpg",
       "score": 0.73
     },
     {
-      "id": "59abbf54",
-      "cat": "desporto",
-      "title": "Taça de Portugal. Favorito Sporting defronta `secundário` Torreense na final",
-      "summary": "O Sporting, detentor do troféu, defronta hoje o Torreense na final da Taça de Portugal de futebol, num confronto desigual, entre o vice-campeão nacional e o terceiro classificado da II Liga, que regressa ao Jamor 70 anos depois.",
-      "source": "RTP",
-      "date": "Sun, 24 May 2026 09:36:25 +0100",
-      "url": "https://www.rtp.pt/noticias/taca-de-portugal/taca-de-portugal-favorito-sporting-defronta-secundario-torreense-na-final_d1743163",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9a2d524a8c7502bee9bb73e1f3b105dc?w=350&amp;q=50&amp;rect=0,42,1500,822&amp;auto=format",
+      "id": "8266dbfa",
+      "cat": "tecnologia",
+      "title": "OPA da Uber avalia Delivery Hero em 10 mil milhões de euros",
+      "summary": "O setor da entrega de comida está a passar por um processo de consolidação global, impulsionado pela desaceleração do crescimento e pela forte concorrência, e vários concorrentes da Delivery Hero na Europa têm sido alvo de aquisições.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 24 May 2026 19:31:50 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/opa-da-uber-avalia-delivery-hero-em-10-mil-milhoes-de-euros",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-05-15-27-25-491507.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ae88e35e",
+      "cat": "tecnologia",
+      "title": "EUA pré-anunciam acordo com o Irão que reabrirá estreito de Ormuz",
+      "summary": "O Presidente dos EUA, Donald Trump, diz que as “negociações estão a decorrer de forma ordenada e construtiva”.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 24 May 2026 18:13:57 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/eua-pre-anunciam-acordo-com-o-irao-que-reabrira-estreito-de-ormuz",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-22-07-26-30-524066.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "a541430e",
+      "cat": "tecnologia",
+      "title": "Secretário-geral da JSD João Pedro Luís é o novo presidente da ‘jota’",
+      "summary": "O atual secretário-geral da Juventude Social Democrata (JSD) João Pedro Luís foi eleito presidente da estrutura jovem do PSD com 58% dos votos, no Congresso que decorre em Viseu. De acordo com os resultados oficiais, a lista de João Pedro Luís à Comissão Política Nacional da JSD obteve 58% do total(",
+      "source": "ECO",
+      "date": "Sun, 24 May 2026 15:31:37 +0000",
+      "url": "https://eco.sapo.pt/2026/05/24/secretario-geral-da-jsd-joao-pedro-luis-e-o-novo-presidente-da-jota/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-47169035-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -198,28 +198,6 @@
       "date": "Sun, 24 May 2026 12:16:10 +0000",
       "url": "https://eco.sapo.pt/opiniao/demasiado-seguro-para-crescer/",
       "img": "https://ecoonline.s3.amazonaws.com/uploads/2024/09/nuno-matos_opiniao.png",
-      "score": 0.73
-    },
-    {
-      "id": "094d78e6",
-      "cat": "tecnologia",
-      "title": "Assembleia da República instituiu 10 de maio como Dia Nacional do Seguro",
-      "summary": "A Assembleia da República resolveu, na passada sexta-feira e &#8220;nos termos do disposto do n.º 5 do artigo 166.º da Constituição da República Portuguesa&#8221;, instituir o dia 10 de maio como Dia Nacional do Seguro&#8221;, consagrando um movimento que estava há muito a procurar esta proclamação.",
-      "source": "ECO",
-      "date": "Sun, 24 May 2026 11:53:05 +0000",
-      "url": "https://eco.sapo.pt/2026/05/24/assembleia-da-republica-instituiu-10-de-maio-como-dia-nacional-do-seguro/",
-      "img": "https://eco.imgix.net/uploads/2026/03/cropped-doc2020100729750623-cot7821.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "f97b6454",
-      "cat": "tecnologia",
-      "title": "Lei da Nacionalidade ameaça investimento de americanos",
-      "summary": "As alterações à Lei da Nacionalidade têm sido um fator que tem posto algum travão nas decisões de investimento dos EUA, admite a cofundadora da RedBridge Lisbon Filipa Pinto Carvalho, em entrevista à Lusa. Criada há quatro anos, a RedBridge é uma comunidade de empreendedores, profissionais e investi",
-      "source": "ECO",
-      "date": "Sun, 24 May 2026 09:10:13 +0000",
-      "url": "https://eco.sapo.pt/2026/05/24/lei-da-nacionalidade-ameaca-investimento-de-americanos/",
-      "img": "https://eco.imgix.net/uploads/2025/07/cropped-44138901-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +234,47 @@
       "score": 0.73
     },
     {
-      "id": "1ecc058a",
-      "cat": "tecnologia",
-      "title": "Nomeação para liderança do SIRESP vale demissão no MAI",
-      "summary": "António Pombeiro pediu a demissão de secretário-geral adjunto após a renomeação do General Paulo Viegas Nunes para a liderança do SIRESP. Aponta um conjunto de “graves irregularidades” e práticas “eticamente reprováveis” à liderança de Viegas Nunes.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 24 May 2026 14:57:26 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/nomeacao-para-lideranca-do-siresp-vale-demissao-no-mai",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-08/img_100x100uu2025-08-19-11-34-45-507662.jpg",
+      "id": "02b9c060",
+      "cat": "desporto",
+      "title": "\"Demonstrámos muita qualidade e chegamos ao fim sem troféus\"",
+      "summary": "Depois de ter alertado e assumido o nervosismos, Borges acabou por assumir que a derrota passou por aí e deu a cara pela época sem troféus. \"Estamos tão tristes como os adeptos\", disse o técnico.",
+      "source": "Observador",
+      "date": "Sun, 24 May 2026 21:17:29 +0100",
+      "url": "https://observador.pt/2026/05/24/os-jogadores-demonstraram-muita-qualidade-e-chegam-ao-fim-sem-conquistas-rui-borges-assume-responsabilidade-e-parabeniza-torreense/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/24211157/gettyimages-2277471697-scaled.jpg",
       "score": 0.7
     },
     {
-      "id": "b13f9158",
+      "id": "52dc752e",
+      "cat": "desporto",
+      "title": "Golos bem anulados? Cartões bem mostrados? Os casos da final",
+      "summary": "António Nobre dirigiu pela primeira vez final da Taça de Portugal entre Sporting e Torreense, num encontro que teve alguns lances reclamados por ambas as equipas entre golos anulados por fora de jogo.",
+      "source": "Observador",
+      "date": "Sun, 24 May 2026 21:14:32 +0100",
+      "url": "https://observador.pt/2026/05/24/golos-bem-anulados-cartoes-bem-mostrados-a-inacio-e-maxi-veja-aqui-os-casos-da-final-da-taca-de-portugal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:841:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/24211324/antonio-nobre-sporting-torreense.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "0d43a431",
       "cat": "tecnologia",
-      "title": "Finanças dizem que imóveis vendidos pelo Estado superaram em 21,9% o valor base",
-      "summary": "Após a notícia do Público, que aponta para a realização de vendas de imóveis do Estado abaixo do preço de mercado, o Ministério das Finanças dizem que os valores ficaram acima dos preços base definidos para os leilões dos dois edifícios que já foram, efetivamente, vendidos.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 24 May 2026 14:22:09 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/financas-dizem-que-imoveis-vendidos-pelo-estado-superaram-em-21-9-o-valor-base",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-13-11-42-44-523523.jpg",
+      "title": "Mundial, Taça e um sonho: o ano extraordinário de Stopira",
+      "summary": "O central de 38 anos marcou o golo que deu a Taça de Portugal ao Torreense — meses depois de também ter marcado no jogo que levou Cabo Verde ao Mundial. Agora, falta o sonho da subida à Primeira Liga.",
+      "source": "Observador",
+      "date": "Sun, 24 May 2026 21:04:36 +0100",
+      "url": "https://observador.pt/2026/05/24/o-mundial-a-convocatoria-a-taca-e-o-sonho-por-cumprir-o-ano-extraordinario-de-stopira-continua-a-surpreender/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3993:2240:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/24210209/gettyimages-2277479025.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "cd1f05a9",
+      "cat": "ambiente",
+      "title": "O que já se sabe sobre a compra de caças para substituir os F-16?",
+      "summary": "",
+      "source": "ECO",
+      "date": "Sun, 24 May 2026 16:20:28 +0000",
+      "url": "https://eco.sapo.pt/descodificador/o-que-ja-se-sabe-sobre-a-compra-de-cacas-para-substituir-os-f-16/",
+      "img": "https://eco.imgix.net/uploads/2026/05/f-16-substituicao-2000x1125-1.jpg",
       "score": 0.7
     },
     {
