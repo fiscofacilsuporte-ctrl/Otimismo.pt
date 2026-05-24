@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
 <title>otimismo.pt — Notícias Positivas para um Mundo Melhor</title>
 <meta name="description" content="As melhores notícias positivas de Portugal e do mundo. Informação que inspira, histórias que transformam.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -225,6 +227,9 @@ footer { background:var(--navy); color:#8DA4B8; margin-top:48px; }
 
 /* ── MODAL LEGAL ── */
 .modal-overlay { display:none; position:fixed; top:0;left:0;right:0;bottom:0; background:rgba(26,43,60,.7); z-index:99999; align-items:center; justify-content:center; padding:16px; }
+.modal-overlay:target { display:flex; }
+.modal-bg-close { position:absolute; top:0;left:0;right:0;bottom:0; z-index:0; cursor:default; }
+.modal-box { position:relative; z-index:1; }
 .modal-box { background:var(--white); border-radius:12px; max-width:680px; width:100%; max-height:90vh; overflow-y:auto; -webkit-overflow-scrolling:touch; box-shadow:0 20px 60px rgba(0,0,0,.3); }
 .modal-head { position:sticky; top:0; background:var(--white); display:flex; align-items:center; justify-content:space-between; padding:20px 28px 16px; border-bottom:1px solid var(--gray-200); z-index:1; }
 .modal-head h2 { font-family:var(--font-serif); font-size:1.25rem; font-weight:700; color:var(--navy); }
@@ -511,10 +516,10 @@ footer { background:var(--navy); color:#8DA4B8; margin-top:48px; }
     </div>
     <div class="footer-col">
       <h4>Legal</h4>
-      <button type="button" onclick="openModal('privacidade')" class="footer-link-btn">Política de Privacidade</button>
-      <button type="button" onclick="openModal('termos')" class="footer-link-btn">Termos de Uso</button>
+      <a href="#modal-privacidade" class="footer-link-btn">Política de Privacidade</a>
+      <a href="#modal-termos" class="footer-link-btn">Termos de Uso</a>
       <a href="#contacto">Publicidade</a>
-      <button type="button" onclick="openModal('direitos')" class="footer-link-btn">Direitos de Autor</button>
+      <a href="#modal-direitos" class="footer-link-btn">Direitos de Autor</a>
     </div>
   </div>
   <div class="footer-bottom">
@@ -773,7 +778,8 @@ function catEmoji(c) {
 
 // ── DEEP LINK / ID HELPERS ───────────────────────────────
 function getNewsId(n) { return n.id || ''; }
-function checkDeepLink() { /* reservado para navegação por hash */ }
+function checkDeepLink() {
+  if (window.location.hash.indexOf('modal-') !== -1) return; /* reservado para navegação por hash */ }
 
 // ── IMAGENS: fallback Unsplash por categoria ──────────────
 const UNSPLASH_FALLBACK = {
@@ -848,24 +854,11 @@ async function translateENNews() {
   console.log('✅ Tradução concluída para ' + toTranslate.length + ' notícias EN');
 }
 
-// ── MODAIS LEGAIS ────────────────────────────────────────
-function openModal(id) {
-  var el = document.getElementById('modal-' + id);
-  if (!el) { console.error('Modal nao encontrado: modal-' + id); return; }
-  el.style.cssText = 'display:flex!important;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(26,43,60,.7);z-index:99999;align-items:center;justify-content:center;padding:16px;';
-  document.body.style.overflow = 'hidden';
-}
-function closeModal(id) {
-  var el = document.getElementById('modal-' + id);
-  if (el) { el.style.display = 'none'; }
-  document.body.style.overflow = '';
-}
-function closeModalOutside(e, id) {
-  if (e.target && e.target.id === 'modal-' + id) closeModal(id);
-}
+// ── MODAIS: CSS :target puro — sem JS ───────────────────
+// Escape limpa o hash para fechar modal
 document.addEventListener('keydown', function(e) {
-  if (e.key === 'Escape') {
-    ['privacidade','termos','direitos'].forEach(function(id) { closeModal(id); });
+  if (e.key === 'Escape' && window.location.hash.indexOf('modal-') !== -1) {
+    history.pushState('', document.title, window.location.pathname + window.location.search);
   }
 });
 // ── AUTO-REFRESH de notícias a cada 30 minutos ────────────
@@ -900,11 +893,11 @@ setInterval(function() {
 <!-- ── MODAIS LEGAIS ── -->
 
 <!-- Política de Privacidade -->
-<div class="modal-overlay" id="modal-privacidade" onclick="closeModalOutside(event,'privacidade')">
+<div class="modal-overlay" id="modal-privacidade"><a href="#!" class="modal-bg-close" aria-label="Fechar"></a>
   <div class="modal-box">
     <div class="modal-head">
       <h2>🔒 Política de Privacidade</h2>
-      <button class="modal-close" onclick="closeModal('privacidade')" aria-label="Fechar">✕</button>
+      <a href="#!" class="modal-close" aria-label="Fechar" style="text-decoration:none;color:inherit;">✕</a>
     </div>
     <div class="modal-body">
       <h3>1. Quem somos</h3>
@@ -927,11 +920,11 @@ setInterval(function() {
 </div>
 
 <!-- Termos de Uso -->
-<div class="modal-overlay" id="modal-termos" onclick="closeModalOutside(event,'termos')">
+<div class="modal-overlay" id="modal-termos"><a href="#!" class="modal-bg-close" aria-label="Fechar"></a>
   <div class="modal-box">
     <div class="modal-head">
       <h2>📋 Termos de Uso</h2>
-      <button class="modal-close" onclick="closeModal('termos')" aria-label="Fechar">✕</button>
+      <a href="#!" class="modal-close" aria-label="Fechar" style="text-decoration:none;color:inherit;">✕</a>
     </div>
     <div class="modal-body">
       <h3>1. Aceitação dos termos</h3>
@@ -960,11 +953,11 @@ setInterval(function() {
 </div>
 
 <!-- Direitos de Autor -->
-<div class="modal-overlay" id="modal-direitos" onclick="closeModalOutside(event,'direitos')">
+<div class="modal-overlay" id="modal-direitos"><a href="#!" class="modal-bg-close" aria-label="Fechar"></a>
   <div class="modal-box">
     <div class="modal-head">
       <h2>©️ Direitos de Autor</h2>
-      <button class="modal-close" onclick="closeModal('direitos')" aria-label="Fechar">✕</button>
+      <a href="#!" class="modal-close" aria-label="Fechar" style="text-decoration:none;color:inherit;">✕</a>
     </div>
     <div class="modal-body">
       <h3>Modelo editorial do otimismo.pt</h3>
