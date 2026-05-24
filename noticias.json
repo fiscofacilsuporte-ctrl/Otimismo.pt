@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 06:59 UTC",
+  "last_update": "24/05/2026 07:24 UTC",
   "total": 30,
   "news": [
     {
@@ -267,28 +267,6 @@
       "score": 0.73
     },
     {
-      "id": "490db2c1",
-      "cat": "tecnologia",
-      "title": "3h. Irão concordou em entregar urânio enriquecido",
-      "summary": "Elemento chave do acordo de paz é o compromisso de Teerão entregar stock de urânio altamente enriquecido. Ainda, morreu suspeito dos disparos contra um posto de controlo nas imediações da Casa Branca.",
-      "source": "Observador",
-      "date": "Sun, 24 May 2026 03:15:38 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2331/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a56063fd",
-      "cat": "tecnologia",
-      "title": "1h. Ouvidos disparos nas imediações da Casa Branca",
-      "summary": "Alvos dos tiros seriam agentes do Serviço Secreto. Suspeito terá sido atingido, foi levado para hospital, está em estado crítico. Ainda, acordo entre Estados Unidos e Irão já foi amplamente negociado.",
-      "source": "Observador",
-      "date": "Sun, 24 May 2026 01:16:36 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2275/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
-      "score": 0.73
-    },
-    {
       "id": "cbe95af4",
       "cat": "tecnologia",
       "title": "CEO da CUF: Evolução \"muito acelerada\" dos custos do SNS não está a ter atenção devida",
@@ -330,6 +308,28 @@
       "date": "Sat, 23 May 2026 22:46:09 +0100",
       "url": "https://www.rtp.pt/noticias/futebol-internacional/bayern-vence-taca-da-alemanha-e-assegura-dobradinha-com-hat-trick-de-kane_d1743128",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a85b3bb8259f9658bfc5733b6cb08572?w=350&amp;q=50&amp;rect=0,54,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "fd33e09d",
+      "cat": "desporto",
+      "title": "Campeão Inter termina época sem motivação e deixa empate em Bolonha",
+      "summary": "O Inter Milão, já virtual campeão de Itália e sem nada a ganhar esta época, cedeu um empate 3-3 em Bolonha, na 38.ª e última jornada da Liga transalpina de futebol.",
+      "source": "RTP",
+      "date": "Sat, 23 May 2026 21:14:53 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/campeao-inter-termina-epoca-sem-motivacao-e-deixa-empate-em-bolonha_d1743109",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4b190aa95fbf18d31a6ce9a6a3a7e56c?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "f56cb3a6",
+      "cat": "tecnologia",
+      "title": "Vitória na final tornaria jogadores do Torreense \"eternizados\"",
+      "summary": "O médio Costinha admitiu hoje que uma eventual vitória na final da Taça de Portugal de futebol deixaria os jogadores do Torreense &quot;eternizados&quot; na história do clube, que ainda luta pelo acesso ao principal escalão.",
+      "source": "RTP",
+      "date": "Sat, 23 May 2026 20:02:16 +0100",
+      "url": "https://www.rtp.pt/noticias/taca-de-portugal/vitoria-na-final-tornaria-jogadores-do-torreense-eternizados_d1743103",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/92/924c454e28bef893aff0710ce19131d0?w=350&amp;q=50&amp;rect=0,51,1232,675&amp;auto=format",
       "score": 0.73
     }
   ]
