@@ -1,5 +1,5 @@
 {
-  "last_update": "24/05/2026 21:15 UTC",
+  "last_update": "24/05/2026 21:19 UTC",
   "total": 27,
   "news": [
     {
@@ -234,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "71138b3b",
+      "cat": "tecnologia",
+      "title": "Dos insultos a Vieira à tensão entre adeptos e jogadores",
+      "summary": "Presença de Vieira não passou ao lado dos adeptos do Sporting na central mas foco chegou após passagem pela escadaria do Jamor, com alguns bate bocas entre jogadores indignados e adeptos revoltados.",
+      "source": "Observador",
+      "date": "Sun, 24 May 2026 22:15:44 +0100",
+      "url": "https://observador.pt/2026/05/24/insultos-a-vieira-na-central-assobios-e-o-momento-de-maior-tensao-entre-adeptos-e-jogadores-do-sporting-o-outro-lado-da-final-da-taca/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/24221012/rui-borges-1.jpg",
+      "score": 0.7
+    },
+    {
       "id": "670b0952",
       "cat": "tecnologia",
       "title": "As notícias das 22h",
@@ -253,17 +264,6 @@
       "date": "Sun, 24 May 2026 22:05:44 +0100",
       "url": "https://observador.pt/programas/sem-falta/scp-x-torreense-penalti-e-vermelho-bem-dados/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "092fcc00",
-      "cat": "tecnologia",
-      "title": "\"Aconteceu a maior história da história da competição\"",
-      "summary": "Luís Francisco considera este triunfo inédito e destaca a alteração estrutural ao acesso às competições europeias. Diz que o apuramento direto para a Liga Europa é uma péssima notícia para o Benfica.",
-      "source": "Observador",
-      "date": "Sun, 24 May 2026 21:46:17 +0100",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/aconteceu-a-maior-historia-da-historia-da-competicao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/20121259/770-podcast-relatorio-de-jogoainda-bem.jpg",
       "score": 0.7
     },
     {
