@@ -1,5 +1,5 @@
 {
-  "last_update": "23/05/2026 19:45 UTC",
+  "last_update": "24/05/2026 06:57 UTC",
   "total": 30,
   "news": [
     {
@@ -67,6 +67,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/05/260522023136.htm",
       "img": null,
       "score": 0.79
+    },
+    {
+      "id": "e71f037f",
+      "cat": "desporto",
+      "title": "Sporting vence dérbi e fecha Liga de andebol com pleno de vitórias",
+      "summary": "O Sporting venceu hoje o Benfica, por 34-22, em jogo da sexta e última jornada da fase de apuramento de campeão da Liga portuguesa de andebol e fechou a época com o pleno de vitórias na prova.",
+      "source": "RTP",
+      "date": "Sat, 23 May 2026 21:49:37 +0100",
+      "url": "https://www.rtp.pt/noticias/sporting/sporting-vence-derbi-e-fecha-liga-de-andebol-com-pleno-de-vitorias_d1743117",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/09/09749cc03f6cfbad95aec5bc2f5f061a?w=350&amp;q=50&amp;rect=0,96,1232,675&amp;auto=format",
+      "score": 0.76
     },
     {
       "id": "402020e6",
@@ -234,36 +245,58 @@
       "score": 0.76
     },
     {
-      "id": "c8ab7493",
+      "id": "5f8297a5",
       "cat": "tecnologia",
-      "title": "Reino Unido com temperatura recorde acima de 30ºC",
-      "summary": "Os termómetros no Reino Unido chegaram aos 30ºC este sábado, naquele que é um fim-de-semana prolongado. Autoridades alertam para o risco do calor, sobretudo quando o mar ainda está muito frio.",
+      "title": "7h. PSD. Denúncias de suspensões e expulsões \"secretas\"",
+      "summary": "Dezenas de militantes foram suspensos ou expulsos após subscreverem outras listas. Também neste jornal, o possível acordo entre EUA e Irão. Ainda a antevisão da final da Taça de Portugal.",
       "source": "Observador",
-      "date": "Sat, 23 May 2026 19:55:09 +0100",
-      "url": "https://observador.pt/2026/05/23/como-os-britanicos-estao-a-enfrentar-o-maio-mais-quente-desde-2012-temperatura-passa-os-30oc/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4090:2305:nowe:6:300/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/23183920/gettyimages-2277670434-scaled.jpg",
+      "date": "Sun, 24 May 2026 07:16:33 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2394/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
       "score": 0.73
     },
     {
-      "id": "0ba9db6f",
+      "id": "c8722c98",
       "cat": "tecnologia",
-      "title": "Não há dérbi que resista a um leão com fome de ganhar",
-      "summary": "O equilíbrio durou pouco tempo num dérbi marcado pelas exclusões e por mais uma vitória confortável (e dilatada) de um Sporting que segue só com vitórias nas provas nacionais (34-22).",
+      "title": "Cavaco Silva arrepia a esquerda? — Ouvintes",
+      "summary": "Um dos nossos ouvintes quer saber por que razão a esquerda reage de forma tão violente às aparições do antigo primeiro-ministro.",
       "source": "Observador",
-      "date": "Sat, 23 May 2026 19:46:28 +0100",
-      "url": "https://observador.pt/2026/05/23/nao-ha-derbi-que-resista-a-um-leao-que-nao-perde-a-fome-de-ganhar-sporting-volta-a-vencer-benfica-e-fecha-liga-com-28-vitorias-em-28-jogos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/23193242/doc202509184568548512388276-scaled.jpg",
+      "date": "Sun, 24 May 2026 06:02:33 +0100",
+      "url": "https://observador.pt/programas/fora-do-baralho/cavaco-silva-arrepia-a-esquerda-ouvintes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/04160736/770-podcast-fora-do-baralho-2025.jpg",
       "score": 0.73
     },
     {
-      "id": "96615724",
-      "cat": "desporto",
-      "title": "Ewa, a feiticeira que quebra enguiços no jogo das emoções",
-      "summary": "Em Oslo, Ewa Pajor quebrou o seu enguiço com um bis e levou o Barça à reconquista da Champions, com Coll também a brilhar (4-0). Kika é a primeira portuguesa a jogar a final e a segunda a ganhá-la.",
+      "id": "490db2c1",
+      "cat": "tecnologia",
+      "title": "3h. Irão concordou em entregar urânio enriquecido",
+      "summary": "Elemento chave do acordo de paz é o compromisso de Teerão entregar stock de urânio altamente enriquecido. Ainda, morreu suspeito dos disparos contra um posto de controlo nas imediações da Casa Branca.",
       "source": "Observador",
-      "date": "Sat, 23 May 2026 18:55:20 +0100",
-      "url": "https://observador.pt/2026/05/23/ewa-a-feiticeira-que-quebra-enguicos-no-jogo-de-todas-as-emocoes-barca-vence-lyon-e-conquista-trofeu-pela-quarta-vez-e-kika-faz-historia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3575:2007:nowe:0:377/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/23184532/gettyimages-2277308986.jpg",
+      "date": "Sun, 24 May 2026 03:15:38 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2331/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "a56063fd",
+      "cat": "tecnologia",
+      "title": "1h. Ouvidos disparos nas imediações da Casa Branca",
+      "summary": "Alvos dos tiros seriam agentes do Serviço Secreto. Suspeito terá sido atingido, foi levado para hospital, está em estado crítico. Ainda, acordo entre Estados Unidos e Irão já foi amplamente negociado.",
+      "source": "Observador",
+      "date": "Sun, 24 May 2026 01:16:36 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2275/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "cbe95af4",
+      "cat": "tecnologia",
+      "title": "CEO da CUF: Evolução \"muito acelerada\" dos custos do SNS não está a ter atenção devida",
+      "summary": "O CEO da CUF, Rui Diniz, diz em entrevista ao Negócios e Antena 1 que a evolução \"muito acelerada\" dos custos do SNS não está a ter a atenção que deveria. A sustentabilidade a prazo do SNS deveria ser uma preocupação de todos, aponta.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 23 May 2026 21:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/ceo-da-cuf-evolucao-muito-acelerada-dos-custos-do-sns-nao-esta-a-ter-atencao-devida",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-22-16-31-28-524133.jpg",
       "score": 0.73
     },
     {
@@ -278,58 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "d72f7a64",
-      "cat": "tecnologia",
-      "title": "Governo britânico propõe à UE criação de mercado único de bens pós-Brexit",
-      "summary": "Imprensa britânica avança que a proposta foi apresentada no decorrer das negociações que precedem a próxima cimeira bilateral, agendada para julho, e que Bruxelas a recebeu com ceticismo.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 23 May 2026 12:37:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/governo-britanico-propoe-a-ue-criacao-de-mercado-unico-de-bens-pos-brexit",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-01-19-36-00-508439.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "fd33e09d",
+      "id": "bb8166fa",
       "cat": "desporto",
-      "title": "Campeão Inter termina época sem motivação e deixa empate em Bolonha",
-      "summary": "O Inter Milão, já virtual campeão de Itália e sem nada a ganhar esta época, cedeu um empate 3-3 em Bolonha, na 38.ª e última jornada da Liga transalpina de futebol.",
+      "title": "Russell vence corrida sprint no GP do Canadá após dura batalha com Antonelli",
+      "summary": "O piloto britânico George Russell (Mercedes) venceu hoje a corrida sprint do Grande Prémio do Canadá de Fórmula 1, após uma batalha intensa com o líder do campeonato, o companheiro de equipa Kimi Antonelli.",
       "source": "RTP",
-      "date": "Sat, 23 May 2026 21:14:53 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/campeao-inter-termina-epoca-sem-motivacao-e-deixa-empate-em-bolonha_d1743109",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4b190aa95fbf18d31a6ce9a6a3a7e56c?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
+      "date": "Sat, 23 May 2026 22:53:19 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/russell-vence-corrida-sprint-no-gp-do-canada-apos-dura-batalha-com-antonelli_d1743129",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d3/d35553c8d0e3db086529067e4dd771b7?w=350&amp;q=50&amp;rect=0,145,1234,677&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "f56cb3a6",
-      "cat": "tecnologia",
-      "title": "Vitória na final tornaria jogadores do Torreense \"eternizados\"",
-      "summary": "O médio Costinha admitiu hoje que uma eventual vitória na final da Taça de Portugal de futebol deixaria os jogadores do Torreense &quot;eternizados&quot; na história do clube, que ainda luta pelo acesso ao principal escalão.",
-      "source": "RTP",
-      "date": "Sat, 23 May 2026 20:02:16 +0100",
-      "url": "https://www.rtp.pt/noticias/taca-de-portugal/vitoria-na-final-tornaria-jogadores-do-torreense-eternizados_d1743103",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/92/924c454e28bef893aff0710ce19131d0?w=350&amp;q=50&amp;rect=0,51,1232,675&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "b6ac064c",
-      "cat": "tecnologia",
-      "title": "Barcelona goleia Lyon e conquista Liga dos Campeões feminina",
-      "summary": "O FC Barcelona conquistou a Liga dos Campeões feminina de futebol, goleando na final o OL Lyonnes, por expressivo 4-0, em Oslo, e garantindo o seu quarto título continental, apenas superado pelos oito do rival.",
-      "source": "RTP",
-      "date": "Sat, 23 May 2026 17:40:58 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/barcelona-goleia-lyon-e-conquista-liga-dos-campeoes-feminina_d1743085",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/61/613a81a60b35dd547c9f19137e6faaa9?w=350&amp;q=50&amp;rect=0,72,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "505336a7",
+      "id": "8186a2c8",
       "cat": "desporto",
-      "title": "Bruno Fernandes eleito melhor futebolista da Liga inglesa de 2025/26",
-      "summary": "O internacional português Bruno Fernandes, médio do Manchester United, foi eleito o melhor jogador da época 2025/26 da Liga inglesa de futebol, anunciou hoje o organizador da competição, que termina domingo e já consagrou o Arsenal como campeão.",
+      "title": "Bayern vence Taça da Alemanha e assegura `dobradinha` com `hat-trick` de Kane",
+      "summary": "O Bayern Munique não deu hoje hipóteses ao Estugarda, no Estádio Olímpico de Berlim, vencendo por 3-0 na final da Taça da Alemanha de futebol, juntando o troféu à conquista da Bundesliga.",
       "source": "RTP",
-      "date": "Sat, 23 May 2026 17:11:50 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/bruno-fernandes-eleito-melhor-futebolista-da-liga-inglesa-de-202526_d1743042",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/8a/8a4b385319176da27e52e543e01789a1?w=350&amp;q=50&amp;rect=0,57,1251,686&amp;auto=format",
+      "date": "Sat, 23 May 2026 22:46:09 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/bayern-vence-taca-da-alemanha-e-assegura-dobradinha-com-hat-trick-de-kane_d1743128",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a85b3bb8259f9658bfc5733b6cb08572?w=350&amp;q=50&amp;rect=0,54,1233,676&amp;auto=format",
       "score": 0.73
     }
   ]
