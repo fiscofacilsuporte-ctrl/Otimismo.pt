@@ -1,5 +1,5 @@
 {
-  "last_update": "27/05/2026 23:05 UTC",
+  "last_update": "28/05/2026 12:53 UTC",
   "total": 30,
   "news": [
     {
@@ -14,17 +14,6 @@
       "score": 0.82
     },
     {
-      "id": "caa4c7fb",
-      "cat": "ciencia",
-      "title": "SpaceX suspende lançamentos da Starship por investigação a incidente em voo de teste",
-      "summary": "A Administração Federal de Aviação norte-americana (FAA, na sigla em inglês) revelou esta quarta-feira que o voo espacial de uma hora, na sexta-feira no Texas, registou num incidente devido ao desempenho do primeiro estágio do foguetão.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 27 May 2026 23:55:29 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/spacex-suspende-lancamentos-da-starship-por-investigacao-a-incidente-em-voo-de-teste",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-04/img_100x100uu2023-04-09-18-37-58-450355.jpg",
-      "score": 0.79
-    },
-    {
       "id": "36f3913c",
       "cat": "tecnologia",
       "title": "Os jovens comerciantes revivendo as bancas do mercado britânico",
@@ -33,6 +22,17 @@
       "date": "Wed, 20 May 2026 07:00:08 +0000",
       "url": "https://www.positive.news/society/youth/the-young-traders-reviving-britains-market-stalls/",
       "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/05/OR_04_03_2026_PN_CC_0251-1.jpeg",
+      "score": 0.79
+    },
+    {
+      "id": "417ee393",
+      "cat": "tecnologia",
+      "title": "Cientistas descobrem circuito intestinal-cérebro oculto que desencadeia o desejo por proteínas",
+      "summary": "Quando o corpo fica sem proteínas, o intestino envia sinais poderosos ao cérebro que remodelam os desejos e levam os animais a procurar aminoácidos essenciais em vez de açúcar. Os investigadores dizem que esta rede intestino-cérebro recentemente descoberta pode transformar a nossa compreensão do apetite, nutrição e obesidade.",
+      "source": "ScienceDaily",
+      "date": "Thu, 28 May 2026 00:35:19 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260527023202.htm",
+      "img": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
       "score": 0.79
     },
     {
@@ -58,47 +58,25 @@
       "score": 0.79
     },
     {
-      "id": "01d72b77",
-      "cat": "tecnologia",
-      "title": "Pequena lesma marinha “gergelim” descoberta em Taiwan revela ser uma nova espécie",
-      "summary": "Uma lesma marinha menor que uma semente de gergelim apareceu nas águas costeiras de Taiwan – e é tão pequena e incomum que os cientistas perceberam que haviam descoberto uma espécie completamente nova. Chamado de Thecacera sesama devido à sua aparência preta e amarela “semelhante ao gergelim”, o nudibrânquio translúcido foi avistado pela primeira vez",
-      "source": "ScienceDaily",
-      "date": "Wed, 27 May 2026 09:00:06 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260526022002.htm",
-      "img": "https://www.sciencedaily.com/images/1920/thecacera-sesama-feeding-on-bryozoan.webp",
-      "score": 0.79
-    },
-    {
-      "id": "87357a59",
-      "cat": "tecnologia",
-      "title": "Governo admite falhas nas tempestades e fala em câmaras “exauridas” por atraso nos apoios",
-      "summary": "Dispositivo de combate a incêndios está de prontidão na região de Leiria. Primeiro-ministro defende acção do Governo no terreno e diz que sugestões de Seguro já estão no PTRR.",
-      "source": "Público",
-      "date": "Wed, 27 May 2026 20:45:47 GMT",
-      "url": "https://www.publico.pt/2026/05/27/politica/noticia/governo-admite-falhas-tempestadas-fala-camaras-exauridas-atraso-apoios-2176261",
-      "img": "https://imagens.publico.pt/imagens.aspx/2091566?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "id": "e7a21719",
+      "cat": "economia",
+      "title": "Investimento direto estrangeiro recupera face ao ano passado. Atinge 2,1 mil milhões de euros até março",
+      "summary": "O investimento direto estrangeiro (IDE) em Portugal teve uma queda de 35% em 2025, e os dados divulgados esta quinta-feira pelo Banco de Portugal (BdP) mostram que o decréscimo continuou no início de 2026 face ao último trimestre do ano passado. Mas há uma recuperação em relação ao valor realizado n",
+      "source": "ECO",
+      "date": "Thu, 28 May 2026 11:45:20 +0000",
+      "url": "https://eco.sapo.pt/2026/05/28/investimento-direto-estrangeiro-recupera-face-ao-ano-passado-atinge-21-mil-milhoes-ate-marco/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-sines08.jpg",
       "score": 0.76
     },
     {
-      "id": "596e56a9",
+      "id": "53f7caf0",
       "cat": "tecnologia",
-      "title": "México e EUA iniciam negociações para rever acordo comercial bilateral",
-      "summary": "O Ministério da Economia mexicano afirmou em comunicado tratar-se de \"um primeiro ciclo oficial de negociações em preparação para a revisão conjunta do acordo\", no qual também participa o Canadá.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 27 May 2026 23:45:21 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/mexico-e-eua-iniciam-negociacoes-para-rever-acordo-comercial-bilateral",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-07/img_100x100uu2025-07-31-17-57-00-506735.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "6a9a92df",
-      "cat": "tecnologia",
-      "title": "Alemanha torna-se primeiro país europeu a comprar gás natural liquefeito do Canadá",
-      "summary": "O acordo representa um novo passo nos esforços da Europa para reduzir a dependência energética face à Rússia, após a invasão da Ucrânia.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 27 May 2026 22:57:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/alemanha-torna-se-primeiro-pais-europeu-a-comprar-gas-natural-liquefeito-do-canada",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-04/img_100x100uu2025-04-13-11-16-00-499473.jpg",
+      "title": "Projeto de restauração de Everglades em andamento há mais de 20 anos obtém enorme sucesso na reconstituição",
+      "summary": "Uma enorme área dos Everglades que foi drenada na tentativa de convertê-la em subúrbio foi restaurada para um ecossistema um tanto nativo após 2 décadas de engenharia paisagística reversa. Picayune Strand é um retângulo grande e quase perfeito do pântano do sul da Flórida, localizado a noroeste da nação Everglades.",
+      "source": "Good News Network",
+      "date": "Thu, 28 May 2026 11:00:18 +0000",
+      "url": "https://www.goodnewsnetwork.org/everglades-restoration-project-ongoing-for-20-plus-years-sees-huge-rewilding-success/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/Florida-panthers-in-the-Picayune-Strand-credit-David-Shindle-Conservancy-of-Southwest-Florida.jpg",
       "score": 0.76
     },
     {
@@ -113,14 +91,14 @@
       "score": 0.76
     },
     {
-      "id": "05b38421",
+      "id": "372e2831",
       "cat": "tecnologia",
-      "title": "Queda de 70% nos níveis de produtos químicos Forever observada em ovos de aves marinhas rastreia o sucesso regulatório",
-      "summary": "Conteúdo de vários &#8220;produtos químicos para sempre&#8221; uma equipe de cientistas descobriu que a concentração de ovos de aves marinhas diminuiu drasticamente nos últimos 55 anos. Embora tenham aumentado exponencialmente desde a década de 1960, os produtos químicos, classificados como PFAS, atingiram o pico na década de 1990, antes de diminuirem de acordo com o regulador",
-      "source": "Good News Network",
-      "date": "Wed, 27 May 2026 11:00:24 +0000",
-      "url": "https://www.goodnewsnetwork.org/70-drop-in-levels-of-forever-chemicals-observed-in-seabird-eggs-tracks-regulatory-success/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/Northern-gannets-on-Bonaventure-Island-credit-CC-3.0.-BY-SA-Bodoklecksel.jpg",
+      "title": "Pelo amor de: dança extática",
+      "summary": "Uma nova mania de dança diurna está unindo espiritualidade, fisicalidade e muita diversão O post Pelo amor de: dança extática apareceu primeiro no Positive News.",
+      "source": "Positive News",
+      "date": "Thu, 28 May 2026 11:28:05 +0000",
+      "url": "https://www.positive.news/society/for-the-love-of-ecstatic-dance/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/05/2025-10-04-Emboday-Fest-Harvest-82.jpeg",
       "score": 0.76
     },
     {
@@ -132,28 +110,6 @@
       "date": "Wed, 27 May 2026 09:00:07 +0000",
       "url": "https://www.positive.news/society/come-dine-with-us/",
       "img": "https://www.positive.news/wp-content/uploads/2026/05/Exterior01_credit-Hatty-Bell-The-Long-Table-e1778675465662.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "5869de03",
-      "cat": "tecnologia",
-      "title": "Cinco maneiras práticas de se sentir melhor e fazer a diferença",
-      "summary": "Dr Mark Williamson, diretor da Action for Happiness, compartilha cinco pequenas mudanças que realmente podem fazer a diferença em sua vida O post Cinco maneiras práticas de se sentir melhor e fazer a diferença apareceu primeiro no Positive News.",
-      "source": "Positive News",
-      "date": "Tue, 26 May 2026 09:01:30 +0000",
-      "url": "https://www.positive.news/lifestyle/five-practical-ways-to-feel-better-and-make-a-difference/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/05/55206169857_a10f909c87_k.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "3da33d48",
-      "cat": "ciencia",
-      "title": "O parque científico mais antigo da Europa pode ser reconstruído",
-      "summary": "Cambridge Science Park apresenta planos que poderiam criar 20 mil empregos e novos espaços públicos.",
-      "source": "BBC News",
-      "date": "Tue, 19 May 2026 05:16:57 GMT",
-      "url": "https://www.bbc.com/news/articles/c8d8rddp1vqo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e7d/live/87dd6360-52b4-11f1-8340-4151f348d713.jpg",
       "score": 0.76
     },
     {
@@ -171,7 +127,7 @@
       "id": "70747965",
       "cat": "ambiente",
       "title": "O que estamos lendo: a mais nova fonte de energia limpa de Denver será o esgoto",
-      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Energia limpa e imunda O objetivo de Denver é reduzir seus gases de efeito estufa a zero até 2040, o que significa",
+      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Energia limpa e suja O objetivo de Denver é reduzir seus gases de efeito estufa a zero até 2040, o que significa",
       "source": "Reasons to be Cheerful",
       "date": "Wed, 27 May 2026 08:00:15 +0000",
       "url": "https://reasonstobecheerful.world/what-were-reading-denvers-newest-clean-energy-source-will-be-sewage/",
@@ -190,47 +146,47 @@
       "score": 0.76
     },
     {
-      "id": "13b7f3d8",
+      "id": "17390dd8",
       "cat": "tecnologia",
-      "title": "Seguro vai ser um Presidente incómodo? Ainda bem",
-      "summary": "Seguro está a dar sinais de querer ir mais longe do que Cavaco e Marcelo. Tudo isto já começa a causar suores frios ao primeiro-ministro e ao Governo? Consta que sim. E ainda bem. Opinião de João Miguel Tavares",
-      "source": "Público",
-      "date": "Wed, 27 May 2026 23:00:01 GMT",
-      "url": "https://www.publico.pt/2026/05/28/opiniao/opiniao/seguro-vai-presidente-incomodo-bem-2176204",
-      "img": "https://imagens.publico.pt/imagens.aspx/1739337?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.73
-    },
-    {
-      "id": "9a8322cd",
-      "cat": "desporto",
-      "title": "João Almeida, Madalena Costa e selecção de andebol entre os melhores do ano",
-      "summary": "Confederação do Desporto de Portugal distinguiu na sua gala anual os melhores de 2025 no desporto português. Nenhum dos prémios foi para o futebol.",
-      "source": "Público",
-      "date": "Wed, 27 May 2026 20:29:05 GMT",
-      "url": "https://www.publico.pt/2026/05/27/desporto/noticia/joao-almeida-madalena-costa-seleccao-andebol-melhores-ano-2176257",
-      "img": "https://imagens.publico.pt/imagens.aspx/2091518?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.73
-    },
-    {
-      "id": "6c8ee370",
-      "cat": "tecnologia",
-      "title": "Mogadouro. Militar da GNR internado com legionella",
-      "summary": "O militar do SEPNA aguarda alta no Hospital de Bragança. Análises às instalações e à aldeia onde reside não revelaram desconformidades.",
+      "title": "Casa Pia ou Torreense, quem vai garantir a primeira divisão?",
+      "summary": "O duelo entre a equipa que vem da primeira liga e a que sobe da segunda está ao rubro, mas será que o ímpeto da vitória na Taça é suficiente para o Torreense bater Casa Pia neste play-off?",
       "source": "Observador",
-      "date": "Wed, 27 May 2026 23:03:19 +0100",
-      "url": "https://observador.pt/2026/05/27/militar-da-gnr-de-mogadouro-hospitalizado-em-braganca-com-legionella/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/10/09105841/23152883.jpg",
+      "date": "Thu, 28 May 2026 13:42:34 +0100",
+      "url": "https://observador.pt/programas/e-o-campeao-e/casa-pia-ou-torreense-quem-vai-garantir-a-primeira-divisao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
       "score": 0.73
     },
     {
-      "id": "566085ae",
+      "id": "c43de217",
       "cat": "tecnologia",
-      "title": "Águia à solta na noite em que o futebol de bairro ganhou",
-      "summary": "A final da Liga Conferência voltou a escrever uma história que não seria possível de outra forma. Em Leipzig, o Palace foi mais eficaz e conquistou o seu primeiro troféu internacional (1-0).",
-      "source": "Observador",
-      "date": "Wed, 27 May 2026 21:59:30 +0100",
-      "url": "https://observador.pt/2026/05/27/aguia-a-solta-na-noite-em-que-o-futebol-de-bairro-voltou-a-ganhar-crystal-palace-bate-rayo-vallecano-e-faz-historia-na-liga-conferencia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/27215627/gettyimages-2277858013-scaled.jpg",
+      "title": "APFIPP: \"É muito importante mudar a forma como os portugueses poupam\"",
+      "summary": "João Pratas sublinhou a necessidade de \"estímulos certos\" para trazer mais pessoas para o mercado de capitais, tendo deixado um alerta sobre a necessidade de pensar a longo prazo.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 28 May 2026 13:43:46 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/apfipp-e-muito-importante-mudar-a-forma-como-os-portugueses-poupam",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-12-34-26-524373.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "e54346e0",
+      "cat": "tecnologia",
+      "title": "Famílias em endividamento excessivo voltam a aumentar",
+      "summary": "Novos dados do INE sobre a situação financeira das famílias mostram que uma em cada dez se encontrava em sobrecarga em 2024, invertendo-se a tendência de melhorias. Resultados também indicam que aumentos de riqueza assentam na subida dos preços das casas.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 28 May 2026 13:31:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/familias-em-endividamento-excessivo-voltam-a-aumentar",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-02-15-44-47-508479.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ff4d31a7",
+      "cat": "tecnologia",
+      "title": "Irão divulga imagens de lançamento de mísseis em demonstração militar",
+      "summary": "As forças militares iranianas divulgaram, durante uma demonstração de capacidade militar, o que dizem ser o lançamento de mísseis.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 28 May 2026 12:39:15 +0100",
+      "url": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/irao-divulga-imagens-de-lancamento-de-misseis-em-demonstracao-militar",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-12-38-03-524374.jpg",
       "score": 0.73
     },
     {
@@ -245,36 +201,69 @@
       "score": 0.73
     },
     {
-      "id": "9751751f",
+      "id": "7647ec2c",
       "cat": "tecnologia",
-      "title": "FC Barcelona contrata internacional inglês Anthony Gordon ao Newcastle",
-      "summary": "O FC Barcelona chegou a acordo com o Newcastle para a contratação do futebolista inglês Anthony Gordon, num negócio avaliado em cerca de 80 milhões de euros, confirmou fonte do clube espanhol à agência noticiosa francesa AFP.",
+      "title": "José Fonte lembra 24 anos de carreira na despedida pelo Casa Pia",
+      "summary": "O defesa internacional português José Fonte lembrou hoje os 24 anos como futebolista profissional, durante os quais se sagrou campeão no Euro2016, no dia em que vai disputar o último jogo da carreira, pelo Casa Pia.",
       "source": "RTP",
-      "date": "Wed, 27 May 2026 23:15:56 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/fc-barcelona-contrata-internacional-ingles-anthony-gordon-ao-newcastle_d1743887",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/8e/8e27e0093aa7e6646e71ddc78723cdc9?w=350&amp;q=50&amp;rect=0,63,1158,635&amp;auto=format",
+      "date": "Thu, 28 May 2026 14:32:36 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/jose-fonte-lembra-24-anos-de-carreira-na-despedida-pelo-casa-pia_d1744050",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "9471395a",
-      "cat": "tecnologia",
-      "title": "Crystal Palace conquista Liga Conferência",
-      "summary": "O Crystal Palace venceu a Liga Conferência depois de bater na final da competição, na Red Bull Arena, na Alemanha, o Rayo Vallecano por 1-0. O avançado Jean-Philippe Mateta marcou o único golo da partida, aos 51 minutos.",
+      "id": "9470f1c7",
+      "cat": "desporto",
+      "title": "Luís Montenegro assume Portugal candidato a ganhar Mundial2026 de futebol",
+      "summary": "O primeiro-ministro Luís Montenegro assumiu hoje que a seleção portuguesa de futebol é candidata a poder ganhar o Mundial2026 e considerou que o país tem “muitos desportistas que são os melhores do mundo”.",
       "source": "RTP",
-      "date": "Wed, 27 May 2026 22:57:37 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/crystal-palace-conquista-liga-conferencia_d1743883",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/da/da1bbbe070d970ebca3b6160fea28fea?w=350&amp;q=50&amp;rect=0,89,1233,676&amp;auto=format",
+      "date": "Thu, 28 May 2026 14:29:49 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/luis-montenegro-assume-portugal-candidato-a-ganhar-mundial2026-de-futebol_d1744046",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd2bab1c3967d5cd7a97fbdb6ba54484?w=350&amp;q=50&amp;rect=0,122,1024,561&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "d6087106",
-      "cat": "cultura",
-      "title": "Festival ECO. A lição dos dinossauros no elogio à criatividade e transformação",
-      "summary": "Pedro Santa Clara recordou uma conversa tida com a reitora de uma universidade, quando ele a alertava para os perigos da falta de adaptação. Ela &#8220;lembrou-me que as universidades têm mil anos, mas eu respondi que os dinossauros viveram cinco milhões na terra&#8221;. E isso não impediu que fosse",
+      "id": "08b77e44",
+      "cat": "tecnologia",
+      "title": "Mundial2026. Pedro Proença assume \"pressão muito alta\" e \"grande ilusão\" pelo título",
+      "summary": "O presidente da Federação Portuguesa de Futebol (FPF) assumiu hoje “pressão muito alta” e “grande ilusão” em redor da seleção portuguesa para a participação no Mundial2026 e a sua ambição de conquistar o título.",
+      "source": "RTP",
+      "date": "Thu, 28 May 2026 14:22:42 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/mundial2026-pedro-proenca-assume-pressao-muito-alta-e-grande-ilusao-pelo-titulo_d1744041",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/3e/3efa37c303f1a904fdbca3eb00fd9923?w=350&amp;q=50&amp;rect=0,122,1024,561&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "d7b42b56",
+      "cat": "tecnologia",
+      "title": "Luís Montenegro lidera exposição televisiva pelo terceiro mês consecutivo",
+      "summary": "O primeiro-ministro, Luís Montenegro, manteve a primeira posição no ranking de exposição mediática pelo terceiro mês consecutivo. Durante o mês de abril, protagonizou 128 notícias de 5 horas e 40 minutos de duração. Os dados são do serviço Telenews, da MediaMonitor, do Grupo Marktest. O Presidente d",
       "source": "ECO",
-      "date": "Wed, 27 May 2026 20:17:13 +0000",
-      "url": "https://eco.sapo.pt/2026/05/27/festival-eco-a-licao-dos-dinossauros-no-elogio-a-criatividade-e-transformacao/",
-      "img": "https://eco.imgix.net/uploads/2026/05/festival-eco-4oparte-2000x1125-1.jpg",
+      "date": "Thu, 28 May 2026 12:28:26 +0000",
+      "url": "https://eco.sapo.pt/2026/05/28/luis-montenegro-lidera-exposicao-televisiva-pelo-terceiro-mes-consecutivo/",
+      "img": "https://eco.imgix.net/uploads/2026/04/cropped-47016527-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "86e5080c",
+      "cat": "ciencia",
+      "title": "PS nega ser “visado” na investigação da Judiciária. Diligências são “imputadas a um dos seus trabalhadores”",
+      "summary": "O Partido Socialista (PS) confirma que a Polícia Judiciária está a realizar buscas na sede do partido, em Lisboa, mas negou ser visado na investigação e garante que as diligências têm como alvo apenas &#8220;um dos seus trabalhadores&#8221;. &#8220;O Partido Socialista confirma que a Polícia Judiciá",
+      "source": "ECO",
+      "date": "Thu, 28 May 2026 11:14:08 +0000",
+      "url": "https://eco.sapo.pt/2026/05/28/ps-nega-ser-visado-na-investigacao-da-pj-diligencias-sao-imputadas-a-um-dos-seus-trabalhadores/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-whatsapp-image-2026-05-28-at-114135.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "ad5e489d",
+      "cat": "tecnologia",
+      "title": "A figura de giz mais rude do Reino Unido ganha brilho para evitar que desapareça na chuva",
+      "summary": "A equipe e os voluntários do National Trust aplicarão 17 toneladas de giz fresco no contorno da famosa figura.",
+      "source": "BBC News",
+      "date": "Wed, 27 May 2026 23:05:48 GMT",
+      "url": "https://www.bbc.com/news/articles/cpvppe84lnvo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/540c/live/48c18bf0-59e6-11f1-b67e-59b55f58b612.jpg",
       "score": 0.73
     },
     {
@@ -300,36 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "24b9c33d",
+      "id": "281eac07",
       "cat": "tecnologia",
-      "title": "Seguro na Feira do Livro: quem não lê \"escolhe empobrecer\"",
-      "summary": "Presidente da República inaugurou a 96.ª Feira do Livro de Lisboa com um elogio ao papel e à tinta e um alerta sobre a velocidade das novas tecnologias.",
+      "title": "PSP detém 12 suspeitos de tráfico e apreende dez quilos de droga em Braga e Porto",
+      "summary": "A operação, em Braga e na Área Metropolitana do Porto, resultou ainda na apreensão de três armas de fogo, munições, uma soqueira, três automóveis e 14 mil euros.",
+      "source": "Público",
+      "date": "Thu, 28 May 2026 12:36:44 GMT",
+      "url": "https://www.publico.pt/2026/05/28/sociedade/noticia/psp-detem-12-suspeitos-trafico-apreende-dez-quilos-droga-braga-porto-2176320",
+      "img": "https://imagens.publico.pt/imagens.aspx/2091646?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.7
+    },
+    {
+      "id": "403dd648",
+      "cat": "tecnologia",
+      "title": "Semana do Brasil em Portugal enfrenta caos no aeroporto de Lisboa e greve geral",
+      "summary": "Brasileiros marcam presença em massa na capital portuguesa. Somente o Fórum de Lisboa, entre 1º e 3 de junho, contará com mais de dois mil participantes. Empresas aéreas alertam passageiros.",
+      "source": "Público",
+      "date": "Thu, 28 May 2026 12:12:56 GMT",
+      "url": "https://www.publico.pt/2026/05/28/publico-brasil/noticia/semana-brasil-portugal-enfrenta-caos-aeroporto-lisboa-greve-geral-2176314",
+      "img": "https://imagens.publico.pt/imagens.aspx/2091639?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Brasil.png",
+      "score": 0.7
+    },
+    {
+      "id": "29e569ff",
+      "cat": "tecnologia",
+      "title": "Prazo para limpeza de terrenos alargado até 30 de Junho em todo o território",
+      "summary": "Até agora, os prazos para a limpeza de terrenos iam até 30 de Junho apenas nos concelhos abrangidos pela declaração de calamidade devido às tempestades de Janeiro e Fevereiro.",
+      "source": "Público",
+      "date": "Thu, 28 May 2026 11:54:42 GMT",
+      "url": "https://www.publico.pt/2026/05/28/azul/noticia/prazo-limpeza-terrenos-alargado-ate-30-junho-territorio-2176316",
+      "img": "https://imagens.publico.pt/imagens.aspx/2091638?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Azul.png",
+      "score": 0.7
+    },
+    {
+      "id": "f240a6a2",
+      "cat": "tecnologia",
+      "title": "Operação \"Imergente\": Vai fragilizar a liderança do PS?",
+      "summary": "O politólogo André Azevedo Alves afirma que as buscas fragilizam a liderança de José Luís Carneiro, criando uma mancha política que poderá definir o futuro da direção do partido.",
       "source": "Observador",
-      "date": "Wed, 27 May 2026 23:02:20 +0100",
-      "url": "https://observador.pt/2026/05/27/seguro-defende-importancia-da-leitura-como-ferramenta-contra-os-algoritmos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/27211928/47128395.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "date": "Thu, 28 May 2026 13:42:06 +0100",
+      "url": "https://observador.pt/programas/programa-comentarios/operacao-imergente-fragiliza-esta-lideranca-do-ps/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13104851/770-podcast-comentario.jpg",
       "score": 0.7
     }
   ]
