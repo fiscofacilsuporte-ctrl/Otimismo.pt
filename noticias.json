@@ -1,5 +1,5 @@
 {
-  "last_update": "28/05/2026 23:03 UTC",
+  "last_update": "29/05/2026 08:39 UTC",
   "total": 30,
   "news": [
     {
@@ -25,14 +25,14 @@
       "score": 0.82
     },
     {
-      "id": "01fbe087",
+      "id": "521b5883",
       "cat": "tecnologia",
-      "title": "Wall Street soma e segue. Convicção de que acordo de paz será alcançado leva índices a recordes",
-      "summary": "As praças bolsistas dos EUA fecharam com ganhos em toda a linha com os investidores a agarrarem-se à esperança de que estará para breve a assinatura de um acordo com o Irão, apesar dos novos confrontos militares. Isto num dia em que foram conhecidos novos dados económicos referentes à inflação e ao ",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 28 May 2026 21:23:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-soma-e-segue-conviccao-de-que-acordo-de-paz-sera-alcancado-levam-indices-a-recordes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-21-02-46-524435.jpg",
+      "title": "O que deu certo esta semana: as boas notícias que importam",
+      "summary": "Novas invenções que mudam vidas, um triunfo global para as energias renováveis ​​e a primeira “rua para bicicletas” ao estilo holandês da Inglaterra, e muito mais The post O que deu certo esta semana: as boas notícias que importam apareceu primeiro em Notícias Positivas.",
+      "source": "Positive News",
+      "date": "Fri, 29 May 2026 05:36:03 +0000",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-22-of-2026/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/05/B-EIA-26-09_Videira-04-Misc-1920-x-1080-01lead.jpeg",
       "score": 0.79
     },
     {
@@ -47,6 +47,17 @@
       "score": 0.79
     },
     {
+      "id": "033de5eb",
+      "cat": "ciencia",
+      "title": "Organóides humanos revelam como reverter danos nervosos “irreversíveis”",
+      "summary": "Pesquisadores de Cambridge criaram em laboratório sistemas em miniatura de cérebro e medula espinhal que podem enviar sinais e até mesmo desencadear pequenas contrações musculares. Eles descobriram que os neurônios humanos perdem gradualmente a capacidade de crescer novamente após danos durante o desenvolvimento – mas essa capacidade pode ser potencialmente alterada.",
+      "source": "ScienceDaily",
+      "date": "Thu, 28 May 2026 22:55:05 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260528082459.htm",
+      "img": "https://www.sciencedaily.com/images/1920/neurons-electrical-signal-regeneration.webp",
+      "score": 0.79
+    },
+    {
       "id": "af0a7429",
       "cat": "ciencia",
       "title": "Esqueça o LASIK: correção da visão mais segura e barata, sem lasers ou cirurgia",
@@ -56,28 +67,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/05/260528074032.htm",
       "img": "https://www.sciencedaily.com/images/1920/advanced-eye-scan-vision-treatment.webp",
       "score": 0.79
-    },
-    {
-      "id": "417ee393",
-      "cat": "tecnologia",
-      "title": "Cientistas descobrem circuito intestinal-cérebro oculto que desencadeia o desejo por proteínas",
-      "summary": "Quando o corpo fica sem proteínas, o intestino envia sinais poderosos ao cérebro que remodelam os desejos e levam os animais a procurar aminoácidos essenciais em vez de açúcar. Os investigadores dizem que esta rede intestino-cérebro recentemente descoberta pode transformar a nossa compreensão do apetite, nutrição e obesidade.",
-      "source": "ScienceDaily",
-      "date": "Thu, 28 May 2026 00:35:19 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260527023202.htm",
-      "img": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
-      "score": 0.79
-    },
-    {
-      "id": "ffc95358",
-      "cat": "tecnologia",
-      "title": "Montenegro diz que investigações na sede do PS são a democracia a funcionar",
-      "summary": "Primeiro-ministro ainda acrescentou que o país tem \"de aguardar o trabalho das instituições de investigação\", salientando que Portugal tem uma democracia \"cada vez mais transparente e imune à prevaricação e à irregularidade\".",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 28 May 2026 23:23:51 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-diz-que-investigacoes-na-sede-do-ps-sao-a-democracia-a-funcionar",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-12-06-57-524368.jpg",
-      "score": 0.76
     },
     {
       "id": "0f1d18d6",
@@ -91,14 +80,25 @@
       "score": 0.76
     },
     {
-      "id": "00b289f0",
+      "id": "178de1f8",
       "cat": "tecnologia",
-      "title": "Suécia firma acordo para entrega de 36 caças Gripen a Kiev",
-      "summary": "A Suécia vai vender 20 caças Gripen E/F à Ucrânia, financiados por fundos europeus, e doar outros 16 de um modelo mais antigo, o Gripen C/D, anunciou hoje o Governo sueco. Os primeiros Gripen C/D deverão ser doados no próximo ano e o modelo mais recente deverá ser entregue a partir de 2030, precisou",
+      "title": "Apoios sociais. Governo vai forçar beneficiários a “trabalho social”",
+      "summary": "O Governo de António Costa inscreveu no Plano de Recuperação e Resiliência (PRR) a criação da Prestação Social Única (PSU), que prometia fundir pelo menos oito prestações sociais não contributivas. Na reunião desta sexta-feira, o Executivo de Luís Montenegro vai aprovar essa medida em Conselho de Mi",
       "source": "ECO",
-      "date": "Thu, 28 May 2026 18:54:32 +0000",
-      "url": "https://eco.sapo.pt/2026/05/28/suecia-firma-acordo-para-entrega-de-36-cacas-gripen-a-kiev/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-46983335-scaled-1.jpg",
+      "date": "Fri, 29 May 2026 07:47:44 +0000",
+      "url": "https://eco.sapo.pt/2026/05/29/apoios-sociais-governo-vai-forcar-beneficiarios-a-trabalho-social/",
+      "img": "https://eco.imgix.net/uploads/2025/06/cropped-44176893-scaled-1.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "5c87293d",
+      "cat": "tecnologia",
+      "title": "Segurança Social quer mudar relação das empresas com o Estado",
+      "summary": "A Segurança Social quer acabar com parte da burocracia mensal que pesa sobre empresas, contabilistas e departamentos de recursos humanos para que as organizações se tornem mais eficientes. No primeiro episódio do podcast “Simplifica – O Podcast Sobre a Transformação Digital na Segurança Social”, Ped",
+      "source": "ECO",
+      "date": "Fri, 29 May 2026 07:00:43 +0000",
+      "url": "https://eco.sapo.pt/2026/05/29/seguranca-social-quer-mudar-relacao-das-empresas-com-o-estado/",
+      "img": "https://eco.imgix.net/uploads/2026/05/1200x628-6.png",
       "score": 0.76
     },
     {
@@ -126,23 +126,12 @@
     {
       "id": "372e2831",
       "cat": "tecnologia",
-      "title": "Pelo amor de: dança extática",
-      "summary": "Uma nova mania de dança diurna está unindo espiritualidade, fisicalidade e muita diversão O post Pelo amor de: dança extática apareceu primeiro no Positive News.",
+      "title": "Minha manhã em um café da manhã sóbrio – e o que ganhei com isso",
+      "summary": "Uma nova mania de dança extática funde espiritualidade, fisicalidade e diversão. Sarah LaBrecque juntou-se a 100 ravers em uma manhã de domingo O post Minha manhã em uma rave sóbria com café da manhã – e o que ganhei com isso apareceu primeiro no Positive News.",
       "source": "Positive News",
       "date": "Thu, 28 May 2026 11:28:05 +0000",
       "url": "https://www.positive.news/society/for-the-love-of-ecstatic-dance/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/05/2025-10-04-Emboday-Fest-Harvest-82.jpeg",
-      "score": 0.76
-    },
-    {
-      "id": "bd952298",
-      "cat": "tecnologia",
-      "title": "O restaurante inglês virando a hospitalidade de cabeça para baixo",
-      "summary": "Em um restaurante pré-pago em Stroud, hospitalidade radical e boa comida estão unindo estranhos O ​​post O restaurante inglês virando a hospitalidade de cabeça para baixo apareceu pela primeira vez em Notícias Positivas.",
-      "source": "Positive News",
-      "date": "Wed, 27 May 2026 09:00:07 +0000",
-      "url": "https://www.positive.news/society/come-dine-with-us/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/05/Exterior01_credit-Hatty-Bell-The-Long-Table-e1778675465662.jpg",
+      "img": "https://www.positive.news/wp-content/uploads/2026/05/iStock-2208556880.jpeg",
       "score": 0.76
     },
     {
@@ -160,7 +149,7 @@
       "id": "70747965",
       "cat": "ambiente",
       "title": "O que estamos lendo: a mais nova fonte de energia limpa de Denver será o esgoto",
-      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Energia limpa e suja O objetivo de Denver é reduzir seus gases de efeito estufa a zero até 2040, o que significa",
+      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Energia limpa e imunda O objetivo de Denver é reduzir seus gases de efeito estufa a zero até 2040, o que significa",
       "source": "Reasons to be Cheerful",
       "date": "Wed, 27 May 2026 08:00:15 +0000",
       "url": "https://reasonstobecheerful.world/what-were-reading-denvers-newest-clean-energy-source-will-be-sewage/",
@@ -179,36 +168,80 @@
       "score": 0.76
     },
     {
-      "id": "49c54208",
-      "cat": "saude",
-      "title": "União Africana assegura que terá vacina contra Ébola Bundibugyo disponível este ano",
-      "summary": "Esta estirpe já matou 246 pessoas e tem afectado particularmente a República Democrática do Congo.",
+      "id": "24d0b986",
+      "cat": "tecnologia",
+      "title": "Pequenos investidores contribuem para uma maior incerteza no ouro",
+      "summary": "Tendências passadas com activos de refúgio, como o ouro, não se estão a repetir, nota o Banco Central Europeu. Exposição indirecta ao metal precioso amplifica movimentos.",
       "source": "Público",
-      "date": "Thu, 28 May 2026 20:38:08 GMT",
-      "url": "https://www.publico.pt/2026/05/28/mundo/noticia/uniao-africana-assegura-tera-vacina-ebola-bundibugyo-disponivel-ano-2176410",
-      "img": "https://imagens.publico.pt/imagens.aspx/2091798?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Fri, 29 May 2026 08:22:45 GMT",
+      "url": "https://www.publico.pt/2026/05/29/economia/noticia/investidores-contribuem-maior-incerteza-ouro-2176350",
+      "img": "https://imagens.publico.pt/imagens.aspx/2091703?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "0d636c71",
+      "id": "30005970",
       "cat": "tecnologia",
-      "title": "Acordo EUA-Irão: mundo aguarda aval de Donald Trump?",
-      "summary": "Após acordo preliminar para travar programa nuclear iraniano, o mundo aguarda o \"sim\" do líder norte-americano. Ainda o fracasso no recrutamento de Putin. A análise do Tenente General Marco Serronha.",
+      "title": "Foguetão da Blue Origin explode na plataforma de lançamento",
+      "summary": "Empresa espacial de Jeff Bezos quer colocar em órbita 48 satélites. “Foguetões são difíceis”, responde Musk, principal “rival” de Bezos na exploração espacial.",
+      "source": "Público",
+      "date": "Fri, 29 May 2026 07:30:12 GMT",
+      "url": "https://www.publico.pt/2026/05/29/ciencia/noticia/foguetao-blue-origin-explode-plataforma-lancamento-2176425",
+      "img": "https://imagens.publico.pt/imagens.aspx/2091840?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.73
+    },
+    {
+      "id": "111eb183",
+      "cat": "tecnologia",
+      "title": "Lisboa recebe duelo solidário entre Ronaldinho Gaúcho e Deco",
+      "summary": "Ex-companheiros na conquista da Champions League de 2006, pelo Barcelona, estarão em lados opostos no Jogo das Estrelas, nesta sexta, 29. Famílias afetadas pelas chuvas em Leiria serão beneficiadas.",
+      "source": "Público",
+      "date": "Fri, 29 May 2026 07:14:32 GMT",
+      "url": "https://www.publico.pt/2026/05/29/publico-brasil/noticia/lisboa-recebe-duelo-solidario-ronaldinho-gaucho-deco-2176427",
+      "img": "https://imagens.publico.pt/imagens.aspx/2091843?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Brasil.png",
+      "score": 0.73
+    },
+    {
+      "id": "cea325f9",
+      "cat": "tecnologia",
+      "title": "Cancro. Infarmed recusa tratamento inovador a mulheres",
+      "summary": "Medicamento inovador permitiria aumentar o tempo de vida de mulheres com a forma mais agressiva de cancro da mama. Apesar de estar num programa experimental gratuito, Infarmed recusou.",
       "source": "Observador",
-      "date": "Thu, 28 May 2026 22:09:41 +0100",
-      "url": "https://observador.pt/programas/gabinete-de-guerra/acordo-eua-irao-mundo-aguarda-aval-de-donald-trump/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg",
+      "date": "Fri, 29 May 2026 08:59:46 +0100",
+      "url": "https://observador.pt/2026/05/29/infarmed-recusa-tratamento-inovador-e-gratuito-a-mulheres-com-forma-agressiva-de-cancro-da-mama/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/11/06143621/infarmed-ordena-retirada-do-mercado-de-cinco-lotes-do-antidepressivo-fluoextina.jpg",
       "score": 0.73
     },
     {
-      "id": "02867347",
+      "id": "b17e2c64",
       "cat": "tecnologia",
-      "title": "Lucros consolidados do Grupo Montepio caíram 12,7% em 2025 para 134,7 milhões",
-      "summary": "O grupo destaca que este é o quinto ano consecutivo de resultados positivos, com os proveitos operacionais a situarem-se em 1.537,6 milhões de euros, enquanto os gastos operacionais atingiram 1.349,6 milhões de euros.",
+      "title": "8h. Plano de Emergência e Transformação da Saúde a 60%",
+      "summary": "O Grupo de Acompanhamento criado pelo Ministério da Saúde não reúne há um ano. Ainda, Ursula von der Leyen entende que Moscovo passou limites após drone russo ter colidido com um prédio na Roménia.",
+      "source": "Observador",
+      "date": "Fri, 29 May 2026 08:20:51 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2411/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "806edda1",
+      "cat": "geral",
+      "title": "Japão regista queda recorde de população em cinco anos",
+      "summary": "Os responsáveis japoneses têm tentado incentivar o casamento e a natalidade. Contudo, em 2025, registaram-se três milhões de pessoas a menos do que no censo anterior, em 2020.",
+      "source": "Observador",
+      "date": "Fri, 29 May 2026 08:13:15 +0100",
+      "url": "https://observador.pt/2026/05/29/japao-regista-queda-recorde-de-populacao-em-cinco-anos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:212/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/29052710/45092639.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1db9ade1",
+      "cat": "tecnologia",
+      "title": "A destruição criativa na era da inteligência artificial",
+      "summary": "No contexto da inovação, a utilização de IA deve ser integrada na estratégia das organizações e não substituí-la.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 28 May 2026 21:40:21 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/lucros-consolidados-do-grupo-montepio-cairam-12-7-em-2025-para-134-7-milhoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-07-22-21-59-514227.jpg",
+      "date": "Fri, 29 May 2026 09:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-destruicao-criativa-na-era-da-inteligencia-artificial",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-03/img_394x514uu2025-03-20-19-06-51-498117.png",
       "score": 0.73
     },
     {
@@ -223,6 +256,17 @@
       "score": 0.73
     },
     {
+      "id": "52bd6398",
+      "cat": "tecnologia",
+      "title": "Torreense falha subida, mas vai jogar a Liga Europa",
+      "summary": "Desfecho com contornos históricos no futebol português. O Casa Pia garantiu a permanência na Primeira Liga, depois de vencer o Torreense por duas bolas a zero.",
+      "source": "RTP",
+      "date": "Fri, 29 May 2026 08:25:48 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/torreense-falha-subida-mas-vai-jogar-a-liga-europa_v1744203",
+      "img": "https://cdn-images.rtp.pt/icm/images/45/4524f92617a96bfefe5a49443407bcee_N.jpg?",
+      "score": 0.73
+    },
+    {
       "id": "ae5e0f4d",
       "cat": "tecnologia",
       "title": "Casa Pia mantém-se na I Liga depois de vencer o Torreense",
@@ -234,36 +278,14 @@
       "score": 0.73
     },
     {
-      "id": "084545e0",
-      "cat": "tecnologia",
-      "title": "Benfica apura-se para a final da Liga portuguesa de basquetebol",
-      "summary": "O Benfica, tetracampeão nacional, apurou-se hoje para a final da Liga portuguesa de basquetebol, depois de vencer em casa da Oliveirense, por 86-78, no terceiro jogo das meias-finais.",
-      "source": "RTP",
-      "date": "Thu, 28 May 2026 22:08:34 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/benfica-apura-se-para-a-final-da-liga-portuguesa-de-basquetebol_d1744159",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/51/519d94949aa01122575d92d3158efaa5?w=350&amp;q=50&amp;rect=0,26,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "aacb1db1",
-      "cat": "tecnologia",
-      "title": "Consórcio da Mota-Engil vence concessão rodoviária no Brasil",
-      "summary": "A Mota-Engil, em parceria com a Odebrecht, ganhou a concessão rodoviária durante 30 anos da Rota dos Sertões, uma via com 502 quilómetros entre a Bahia e Pernambuco, no Brasil. No leilão, realizado esta quinta-feira, o consórcio ofereceu o maior desconto, de 19,60%, sobre a tarifa de portagem. Nesta",
-      "source": "ECO",
-      "date": "Thu, 28 May 2026 19:48:30 +0000",
-      "url": "https://eco.sapo.pt/2026/05/28/consorcio-da-mota-engil-vence-concessao-rodoviaria-no-brasil/",
-      "img": "https://eco.imgix.net/uploads/2023/09/cropped-cropped-mota-engil-sede-porto-scaled-2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "3a00b12e",
-      "cat": "tecnologia",
-      "title": "Nova sondagem põe PS à frente da AD de Montenegro pela primeira vez em dois anos",
-      "summary": "Se as legislativas fossem hoje, Luís Montenegro não seria eleito primeiro-ministro. Uma nova sondagem do ICS-ISCTE-Gfk Metris para o Expresso e SIC coloca o Partido Socialista (PS) à frente da AD, dando vantagem aos socialistas pela primeira vez em mais de dois anos, desde que a AD assumiu o Governo",
-      "source": "ECO",
-      "date": "Thu, 28 May 2026 18:41:25 +0000",
-      "url": "https://eco.sapo.pt/2026/05/28/nova-sondagem-poe-ps-a-frente-da-ad-de-montenegro-pela-primeira-vez-em-dois-anos/",
-      "img": "https://eco.imgix.net/uploads/2026/03/cropped-doc2026032946845955pn4204260329.jpg",
+      "id": "40889248",
+      "cat": "ciencia",
+      "title": "Foguete Moment Blue Origin explode durante teste na Flórida",
+      "summary": "Um foguete Blue Origin New Glenn explodiu em uma plataforma de lançamento em Cabo Canaveral, na Flórida, na noite de quinta-feira.",
+      "source": "BBC News",
+      "date": "Fri, 29 May 2026 03:02:48 GMT",
+      "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7498/live/7bfb5d50-5b23-11f1-b682-cf91850925ea.jpg",
       "score": 0.73
     },
     {
@@ -278,17 +300,6 @@
       "score": 0.73
     },
     {
-      "id": "3006cc52",
-      "cat": "ciencia",
-      "title": "A corrida espacial para criar equipamentos de ginástica para futuros astronautas",
-      "summary": "Os cientistas estão tentando construir equipamentos de exercícios para serem usados ​​em futuros vôos espaciais.",
-      "source": "BBC News",
-      "date": "Fri, 22 May 2026 23:42:07 GMT",
-      "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd0/live/e73aafd0-55c4-11f1-99e4-4d92e48ba181.jpg",
-      "score": 0.73
-    },
-    {
       "id": "cd1057af",
       "cat": "tecnologia",
       "title": "Ride It Out: como o ciclismo ajuda as crianças a se concentrarem",
@@ -300,36 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "8b33ba7f",
-      "cat": "geral",
-      "title": "PGR nega timings políticos nas investigações e buscas do Ministério Público",
-      "summary": "",
-      "source": "Público",
-      "date": "Thu, 28 May 2026 22:05:01 GMT",
-      "url": "https://www.publico.pt/2026/05/28/sociedade/noticia/pgr-nega-timings-politicos-investigacoes-buscas-ministerio-publico-2176417",
-      "img": "https://imagens.publico.pt/imagens.aspx/2091830?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.7
-    },
-    {
-      "id": "ffb01a3e",
-      "cat": "geral",
-      "title": "O drama de Passos Coelho: como suceder a Montenegro?",
-      "summary": "",
-      "source": "Público",
-      "date": "Thu, 28 May 2026 21:45:20 GMT",
-      "url": "https://www.publico.pt/2026/05/28/newsletter/diarios-republica",
-      "img": "https://www.publico.pt/site-2022/assets/img/newsletters/diariosdarepublica.png",
-      "score": 0.7
-    },
-    {
-      "id": "1c992598",
+      "id": "63b76f87",
       "cat": "tecnologia",
-      "title": "2 anos depois, 40% do Plano de Emergência está por cumprir",
-      "summary": "Maioria das 21 medidas por cumprir são urgentes ou prioritárias. Ordem dos Médicos fala num \"grande falhanço\" na execução e gestores hospitalares pedem medidas \"estruturais\", em vez de \"casuísticas\".",
-      "source": "Observador",
-      "date": "Thu, 28 May 2026 22:22:47 +0100",
-      "url": "https://observador.pt/especiais/dois-anos-depois-40-das-medidas-do-plano-de-emergencia-da-saude-estao-por-concretizar-grupo-de-acompanhamento-nao-reune-ha-um-ano/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3276:1836:nowe:326:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/17203146/dventura-debate-estado-nacao-81-scaled.jpg",
+      "title": "Banca investe, mas os acionistas querem resultados",
+      "summary": "A utilização da inteligência artificial está a reconfigurar o negócio bancário, acreditam os responsáveis do setor.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 29 May 2026 09:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/banca-investe-mas-os-acionistas-querem-resultados",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_100x100uu2022-11-14-19-34-13-440398.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "bd820e95",
+      "cat": "tecnologia",
+      "title": "Dono do Novobanco em negociações exclusivas para comprar a GamaLife",
+      "summary": "Grupo francês dono do Novobanco está em negociações exclusivas para adquirir a GamaLife ao fundo Apax Partners. Negócio poderá ser fechado em breve e reflete a tendência crescente de regresso dos bancos ao negócio segurador na Europa.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 29 May 2026 09:27:34 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/dono-do-novobanco-em-negociacoes-exclusivas-para-comprar-a-gamalife",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-08/img_100x100uu2025-08-08-07-28-00-507120.jpg",
       "score": 0.7
     }
   ]
