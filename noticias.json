@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 08:39 UTC",
+  "last_update": "29/05/2026 08:58 UTC",
   "total": 30,
   "news": [
     {
@@ -88,17 +88,6 @@
       "date": "Fri, 29 May 2026 07:47:44 +0000",
       "url": "https://eco.sapo.pt/2026/05/29/apoios-sociais-governo-vai-forcar-beneficiarios-a-trabalho-social/",
       "img": "https://eco.imgix.net/uploads/2025/06/cropped-44176893-scaled-1.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "5c87293d",
-      "cat": "tecnologia",
-      "title": "Segurança Social quer mudar relação das empresas com o Estado",
-      "summary": "A Segurança Social quer acabar com parte da burocracia mensal que pesa sobre empresas, contabilistas e departamentos de recursos humanos para que as organizações se tornem mais eficientes. No primeiro episódio do podcast “Simplifica – O Podcast Sobre a Transformação Digital na Segurança Social”, Ped",
-      "source": "ECO",
-      "date": "Fri, 29 May 2026 07:00:43 +0000",
-      "url": "https://eco.sapo.pt/2026/05/29/seguranca-social-quer-mudar-relacao-das-empresas-com-o-estado/",
-      "img": "https://eco.imgix.net/uploads/2026/05/1200x628-6.png",
       "score": 0.76
     },
     {
@@ -256,6 +245,17 @@
       "score": 0.73
     },
     {
+      "id": "b7a03fbf",
+      "cat": "cultura",
+      "title": "Liga dos Campeões. PSG conta com Dembélé e Hakimi para a final contra o Arsenal",
+      "summary": "O francês Ousmane Dembélé, vencedor da Bola de Ouro, e o internacional marroquino Achraf Hakimi fazem parte da convocatória do Paris SG para enfrentar o Arsenal na final da Liga dos Campeões, no sábado (18h00), em Budapeste, após terem regressado de lesão no início da semana.",
+      "source": "RTP",
+      "date": "Fri, 29 May 2026 10:56:41 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-dos-campeoes-psg-conta-com-dembele-e-hakimi-para-a-final-contra-o-arsenal_d1744246",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "52bd6398",
       "cat": "tecnologia",
       "title": "Torreense falha subida, mas vai jogar a Liga Europa",
@@ -267,14 +267,14 @@
       "score": 0.73
     },
     {
-      "id": "ae5e0f4d",
-      "cat": "tecnologia",
-      "title": "Casa Pia mantém-se na I Liga depois de vencer o Torreense",
-      "summary": "O Casa Pia permanece na I Liga portuguesa de futebol depois de vencer o Torreense, por 2-0, em jogo da segunda mão do play-off de acesso ao primeiro escalão, em Rio Maior, depois do empate 0-0 no primeiro jogo.",
-      "source": "RTP",
-      "date": "Thu, 28 May 2026 23:01:17 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/casa-pia-mantem-se-na-i-liga-depois-de-vencer-o-torreense_d1744165",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f5e503fef2f3113c7c309a5aeb3a4d6a?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
+      "id": "35e7ed51",
+      "cat": "ambiente",
+      "title": "REN prevê investimento de 400 milhões para ligar novos consumidores à rede",
+      "summary": "O ministério do Ambiente e Energia confirma que as manifestações de interesse da parte de consumidores que se querem ligar à rede correspondem, de momento, a uma capacidade de 4,6 gigawatts. &#8220;A REN apresentou ao Governo a necessidade de um investimento de aproximadamente 400 milhões de euros p",
+      "source": "ECO",
+      "date": "Fri, 29 May 2026 08:50:09 +0000",
+      "url": "https://eco.sapo.pt/2026/05/29/ren-preve-investimento-de-400-milhoes-para-ligar-novos-consumidores-a-rede/",
+      "img": "https://eco.imgix.net/uploads/2026/02/cropped-doc2026020446489361-aps8010-1.jpg",
       "score": 0.73
     },
     {
@@ -313,7 +313,7 @@
     {
       "id": "63b76f87",
       "cat": "tecnologia",
-      "title": "Banca investe, mas os acionistas querem resultados",
+      "title": "Banca investe em IA, mas os acionistas querem resultados",
       "summary": "A utilização da inteligência artificial está a reconfigurar o negócio bancário, acreditam os responsáveis do setor.",
       "source": "Jornal de Negócios",
       "date": "Fri, 29 May 2026 09:30:00 +0100",
