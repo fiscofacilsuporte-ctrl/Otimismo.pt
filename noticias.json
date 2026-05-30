@@ -1,5 +1,5 @@
 {
-  "last_update": "29/05/2026 22:56 UTC",
+  "last_update": "30/05/2026 09:05 UTC",
   "total": 30,
   "news": [
     {
@@ -17,18 +17,18 @@
       "id": "e23db867",
       "cat": "ciencia",
       "title": "Um cemitério de Nova York escondia mais de 5 milhões de abelhas escavadoras, uma das maiores concentrações do mundo",
-      "summary": "Com cerca de 5,5 milhões de habitantes, uma colónia de abelhas que nidificam no solo que os cientistas descobriram sob um cemitério de Nova Iorque pode ser uma das maiores agregações de abelhas alguma vez documentadas. Pesquisas subsequentes mostraram que as abelhas provavelmente vivem lá há mais de 100 anos, prosperando na área intocada do cemitério.",
+      "summary": "Com cerca de 5,5 milhões de habitantes, uma colónia de abelhas que nidificam no solo que os cientistas descobriram sob um cemitério de Nova Iorque pode ser uma das maiores agregações de abelhas alguma vez documentadas. Pesquisas subsequentes mostraram que as abelhas provavelmente viveram lá por mais de 100 anos, prosperando na área intocada do cemitério.",
       "source": "Good News Network",
       "date": "Fri, 29 May 2026 13:00:46 +0000",
       "url": "https://www.goodnewsnetwork.org/a-new-york-cemetery-was-hiding-over-5-million-burrowing-bees-one-of-the-worlds-largest-concentrations/",
-      "img": null,
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/05/Andrena-regularis-bee-nesting-near-the-east-lawn-cemetery-entrance-credit-Bryan-Danforth-e1780035138608.jpg",
       "score": 0.79
     },
     {
       "id": "e9bb0d3f",
       "cat": "tecnologia",
       "title": "Planta britânica rara faz retorno extraordinário da beira da extinção",
-      "summary": "Os conservacionistas estão celebrando a notável recuperação de uma importante e única flor britânica conhecida como erva-leiteira de Kentish, após registrar um aumento populacional de sete vezes durante a recente estação de cultivo. 1.245 plantas auto-semeadas foram registradas este ano em um local de cultivo crucial, agora o maior po",
+      "summary": "Os conservacionistas estão celebrando a recuperação notável de uma importante e única flor britânica conhecida como erva-leiteira de Kentish, após registrar um aumento populacional de sete vezes durante a recente estação de cultivo. 1.245 plantas auto-semeadas foram registradas este ano em um local de cultivo crucial, agora o maior po",
       "source": "Good News Network",
       "date": "Fri, 29 May 2026 11:00:38 +0000",
       "url": "https://www.goodnewsnetwork.org/rare-british-plant-makes-extraordinary-comeback-from-brink-of-extinction/",
@@ -56,6 +56,17 @@
       "url": "https://www.positive.news/society/youth/the-young-traders-reviving-britains-market-stalls/",
       "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/05/OR_04_03_2026_PN_CC_0251-1.jpeg",
       "score": 0.79
+    },
+    {
+      "id": "3fbfd8d5",
+      "cat": "tecnologia",
+      "title": "2h. Montenegro e Carneiro discutiram nomes para juízes do TC",
+      "summary": "Informação avançada por Eurico Brilhante Dias que fala em “interlocução política” do Primeiro-ministro e do secretário-geral socialista. Ainda, Donald Trump não tomou decisão sobre acordo com o Irão.",
+      "source": "Observador",
+      "date": "Sat, 30 May 2026 02:15:41 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2307/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
+      "score": 0.76
     },
     {
       "id": "fd04764c",
@@ -102,14 +113,14 @@
       "score": 0.76
     },
     {
-      "id": "d6dd0dd9",
+      "id": "61f7d8f2",
       "cat": "saude",
-      "title": "Casos de câncer de pele mais arriscados atingem recorde no Reino Unido",
-      "summary": "O número de casos de câncer de pele melanoma aumentou para mais de 20.000 por ano pela primeira vez no Reino Unido.",
+      "title": "Milhões de pacientes com câncer de mama poderiam evitar a quimioterapia com segurança, sugere estudo",
+      "summary": "Um novo teste de ADN poderá ajudar a avaliar se os pacientes necessitam ou não do tratamento, de acordo com um novo ensaio internacional.",
       "source": "BBC News",
-      "date": "Thu, 21 May 2026 23:15:18 GMT",
-      "url": "https://www.bbc.com/news/articles/c4g0ryrewdxo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fff/live/dd1436d0-54fb-11f1-8285-a5e1daabf896.jpg",
+      "date": "Sat, 30 May 2026 08:46:26 GMT",
+      "url": "https://www.bbc.com/news/articles/c2325j0xk1vo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce39/live/69c45e90-5bf8-11f1-8562-ff394aaf13b8.jpg",
       "score": 0.76
     },
     {
@@ -118,9 +129,20 @@
       "title": "Astrônomos finalmente resolvem o mistério da rotação de Saturno que dura há décadas",
       "summary": "Um mistério de décadas sobre Saturno foi finalmente resolvido graças ao Telescópio Espacial James Webb. Os cientistas descobriram que a mudança na “taxa de rotação” de Saturno nunca foi causada pela aceleração ou desaceleração do planeta, mas por ventos poderosos no alto da sua atmosfera. A observação sem precedentes de Webb",
       "source": "ScienceDaily",
-      "date": "Fri, 29 May 2026 09:58:44 EDT",
+      "date": "Fri, 29 May 2026 04:36:58 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/05/260529043658.htm",
       "img": "https://www.sciencedaily.com/images/1920/saturn-asymmetric-temperature-structure.webp",
+      "score": 0.76
+    },
+    {
+      "id": "65f54519",
+      "cat": "ciencia",
+      "title": "A cafeína reverteu problemas de memória causados ​​pela privação de sono",
+      "summary": "Os cientistas descobriram que a privação do sono danifica um circuito cerebral responsável pela memória social, tornando mais difícil o reconhecimento de indivíduos familiares. Em estudos de laboratório, a cafeína restaurou a comunicação entre os neurônios dessa via e reverteu os déficits de memória causados ​​pela perda de sono. O",
+      "source": "ScienceDaily",
+      "date": "Sat, 30 May 2026 01:27:08 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
+      "img": "https://www.sciencedaily.com/images/1920/tired-man-with-messy-hair-drinking-morning-coffee.webp",
       "score": 0.76
     },
     {
@@ -135,80 +157,47 @@
       "score": 0.76
     },
     {
-      "id": "ae334504",
+      "id": "de2f2455",
       "cat": "tecnologia",
-      "title": "Grafeno torcido revela um interruptor de supercondutividade oculto",
-      "summary": "Os cientistas descobriram uma nova forma surpreendente de controlar a supercondutividade – o misterioso fenómeno onde a eletricidade flui sem perda de energia. Ao emparelhar camadas torcidas de grafeno com um material de diamante sintético, os pesquisadores conseguiram ligar e desligar a supercondutividade de maneira eficaz,",
-      "source": "ScienceDaily",
-      "date": "Fri, 29 May 2026 02:48:33 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260528082511.htm",
-      "img": "https://www.sciencedaily.com/images/1920/graphene-energy-liquid.webp",
-      "score": 0.76
+      "title": "Juiz considera que nome de Trump foi colocado ilegalmente no Kennedy Center e trava obras",
+      "summary": "Os autores da acção temem que o Presidente e os seus aliados no conselho desrespeitem as normas de preservação destinadas a manter a estrutura histórica do edifício.",
+      "source": "Público",
+      "date": "Sat, 30 May 2026 07:39:26 GMT",
+      "url": "https://www.publico.pt/2026/05/30/mundo/noticia/juiz-considera-nome-trump-colocado-ilegalmente-kennedy-center-trava-obras-2176582",
+      "img": "https://imagens.publico.pt/imagens.aspx/2092099?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.73
     },
     {
-      "id": "70747965",
-      "cat": "ambiente",
-      "title": "O que estamos lendo: a mais nova fonte de energia limpa de Denver será o esgoto",
-      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Energia limpa e suja O objetivo de Denver é reduzir seus gases de efeito estufa a zero até 2040, o que significa",
-      "source": "Reasons to be Cheerful",
-      "date": "Wed, 27 May 2026 08:00:15 +0000",
-      "url": "https://reasonstobecheerful.world/what-were-reading-denvers-newest-clean-energy-source-will-be-sewage/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/05/shutterstock_669025033.jpg",
-      "score": 0.76
+      "id": "3c56681a",
+      "cat": "desporto",
+      "title": "PSG e Arsenal na final da Champions: duas formas diferentes de ganhar",
+      "summary": "Parisienses jogam por um segundo título europeu consecutivo em Budapeste, londrinos tentam o primeiro, numa época em que quebraram o jejum de 22 anos na Premier League.",
+      "source": "Público",
+      "date": "Sat, 30 May 2026 07:38:00 GMT",
+      "url": "https://www.publico.pt/2026/05/30/desporto/noticia/psg-arsenal-final-champions-duas-formas-diferentes-ganhar-2176535",
+      "img": "https://imagens.publico.pt/imagens.aspx/2092027?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.73
     },
     {
-      "id": "1a037ed7",
+      "id": "7c2678a1",
       "cat": "ciencia",
-      "title": "A cidade francesa que defende suas árvores",
-      "summary": "“Acho que fica ali, à direita, mas o terreno é tão grande que não tenho certeza de onde fica exatamente”, diz Anna Massong, diretora de serviços técnicos da Prefeitura de Sceaux, enquanto estudamos um mapa ao lado dos grandes portões de ferro de entrada da Escola Lakanal. Construída no... O post A cidade francesa que Cha",
-      "source": "Reasons to be Cheerful",
-      "date": "Mon, 25 May 2026 08:00:32 +0000",
-      "url": "https://reasonstobecheerful.world/sceaux-tree-charter/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/05/The-cherry-blossom-in-Sceaux-scaled-e1779299512874.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "a0dab1b4",
-      "cat": "tecnologia",
-      "title": "PSD, Chega e PS chegaram a acordo sobre nomes para o Tribunal Constitucional",
-      "summary": "PSD escolheu Joaquim Cardoso da Costa e Maria Paula Ribeiro de Faria, o Chega mantém Luís Brites Lameiras e o PS indica Gabriela Cunha Rodrigues. Eleição pode avançar a 12 de Junho.",
+      "title": "Depois de três anos de espera, a sétima piroga do Lima começou finalmente a ser estudada",
+      "summary": "Embarcação descoberta em 2023 no rio Lima começou a ser estudada com o objectivo de elaborar um plano para a conservar, processo que ainda demorará vários anos.",
       "source": "Público",
-      "date": "Fri, 29 May 2026 21:47:37 GMT",
-      "url": "https://www.publico.pt/2026/05/29/politica/noticia/psd-chega-ps-chegaram-acordo-nomes-tribunal-constitucional-2176519",
-      "img": "https://imagens.publico.pt/imagens.aspx/2092053?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 30 May 2026 06:43:00 GMT",
+      "url": "https://www.publico.pt/2026/05/30/ciencia/reportagem/tres-anos-espera-setima-piroga-lima-comecou-finalmente-estudada-2175627",
+      "img": "https://imagens.publico.pt/imagens.aspx/2091122?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "525b8843",
-      "cat": "cultura",
-      "title": "Uma educadora de infância, que faz da escola o “primeiro território de cidadania”, ganhou o Global Teacher Prize",
-      "summary": "Uma educadora de infância e uma professora do 1.º ciclo foram distinguidas no Global Teacher Prize. Entre arte e cidadania, acreditam que tudo começa nas primeiras experiências escolares.",
-      "source": "Público",
-      "date": "Fri, 29 May 2026 19:31:47 GMT",
-      "url": "https://www.publico.pt/2026/05/29/sociedade/noticia/educadora-infancia-faz-escola-territorio-cidadania-ganhou-global-teacher-prize-2176455",
-      "img": "https://imagens.publico.pt/imagens.aspx/2092066?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.73
-    },
-    {
-      "id": "0ca0bbb8",
+      "id": "74df1e2b",
       "cat": "tecnologia",
-      "title": "PRR. Mais 185 milhões de euros e 478 candidaturas",
-      "summary": "O Plano de Recuperação e Resiliência aprovou mais 478 candidaturas e atingiu 57% do montante contratado. Empresas lideram os pagamentos, com 4.378 milhões recebidos.",
-      "source": "Observador",
-      "date": "Fri, 29 May 2026 23:08:47 +0100",
-      "url": "https://observador.pt/2026/05/29/prr-mais-185-milhoes-de-euros-pagos-e-478-candidaturas-aprovadas-na-ultima-semana/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/19213611/dinheiro.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "0c3bbaa5",
-      "cat": "tecnologia",
-      "title": "Passageiros surpreendidos com o menor tempo de espera",
-      "summary": "Passageiros ouvidos pelo Observador confirmam melhoria, mas persistem dúvidas no uso das máquinas. Governo assegura que filas diminuíram e que previsões são otimistas.",
-      "source": "Observador",
-      "date": "Fri, 29 May 2026 22:17:00 +0100",
-      "url": "https://observador.pt/2026/05/29/o-primeiro-dia-das-novas-medidas-no-aeroporto-passageiros-surpreendidos-com-o-menor-tempo-de-espera/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:303/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/29175733/ilacerda-aeroporto-controlo-fronteiras200-scaled.jpg",
+      "title": "Juiz espanhol “chumba” pagamento a orquestra que desafinou e desconhecia as letras",
+      "summary": "O Centro Galego de Vitória não terá de pagar os 6.655 euros devidos a uma orquestra contratada, uma vez que a apresentação não cumpriu os padrões mínimos de qualidade, determinou um juiz no País Basco, em Espanha.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 30 May 2026 09:34:23 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/justica/detalhe/juiz-espanhol-chumba-pagamento-a-orquestra-que-desafinou-e-desconhecia-as-letras",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-30-09-33-38-524569.png",
       "score": 0.73
     },
     {
@@ -231,17 +220,6 @@
       "date": "Fri, 29 May 2026 22:02:00 +0100",
       "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/mundo-devera-bater-novos-recordes-de-calor-ate-2030-alerta-onu",
       "img": "https://cdn.jornaldenegocios.pt/images/2022-12/img_100x100uu2022-12-22-09-31-35-442701.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8d40bb4b",
-      "cat": "economia",
-      "title": "Castlelake confirma estar a estudar compra da easyJet",
-      "summary": "A gestora de ativos norte-americana terá agora de fazer uma oferta vinculativa até 26 de junho ou desistir de qualquer acordo.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 29 May 2026 21:46:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/castlelake-confirma-estar-a-estudar-compra-da-easyjet",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-08-01-12-21-491852.jpg",
       "score": 0.73
     },
     {
@@ -311,25 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "cd1057af",
+      "id": "1736e3ab",
       "cat": "tecnologia",
-      "title": "Ride It Out: como o ciclismo ajuda as crianças a se concentrarem",
-      "summary": "Jimmy G. era um aluno distraído e perturbador da quinta série. “De manhã, quando ele chegava, ele estava envolvido na vida de todo mundo, levantando-se e levantando-se da cadeira, constantemente deixando escapar coisas”, diz Amy Young, sua professora de ciências e estudos sociais na Spooner Middle School, em North Woods de... The post Ride",
-      "source": "Reasons to be Cheerful",
-      "date": "Fri, 22 May 2026 08:00:44 +0000",
-      "url": "https://reasonstobecheerful.world/cycling-helps-kids-focus/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/05/R4F-Silver-Stallion-Bicycle-and-Coffee-Works-in-Gallup-New-Mexico.jpg",
-      "score": 0.73
+      "title": "As notícias das 8h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sat, 30 May 2026 08:14:18 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2412/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
+      "score": 0.7
     },
     {
-      "id": "5ed45ad3",
-      "cat": "economia",
-      "title": "ICNF assegura continuidade da equipa actual no centro de reprodução do lince-ibérico",
-      "summary": "Instituto adjudica serviços à actual empresa gestora do Centro Nacional de Reprodução do Lince Ibérico. Contrato de 14 meses garante a continuidade do programa depois de semanas de incerteza.",
-      "source": "Público",
-      "date": "Fri, 29 May 2026 21:30:06 GMT",
-      "url": "https://www.publico.pt/2026/05/29/azul/noticia/icnf-assegura-continuidade-equipa-actual-centro-reproducao-linceiberico-2176571",
-      "img": "https://imagens.publico.pt/imagens.aspx/2092084?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Azul.png",
+      "id": "d60e51bd",
+      "cat": "tecnologia",
+      "title": "As notícias das 7h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sat, 30 May 2026 07:14:28 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2400/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
