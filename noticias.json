@@ -1,5 +1,5 @@
 {
-  "last_update": "06/06/2026 16:17 UTC",
+  "last_update": "06/06/2026 21:45 UTC",
   "total": 30,
   "news": [
     {
@@ -34,6 +34,17 @@
       "url": "https://www.positive.news/environment/greenland-sheds-new-light-on-underwater-carbon-sink/",
       "img": "https://www.positive.news/wp-content/uploads/2026/05/Greenland_-Mathilde-Cureau.jpg",
       "score": 0.82
+    },
+    {
+      "id": "ed6d4a97",
+      "cat": "tecnologia",
+      "title": "Maria Martins e Daniela Campos com medalhas de ouro no GP Presov de pista",
+      "summary": "A ciclista Maria Martins conquistou hoje duas medalhas de ouro no Grande Prémio Presov de pista, a decorrer na Eslováquia, com Daniela Campos a sagrar-se campeã de eliminação.",
+      "source": "RTP",
+      "date": "Sat, 06 Jun 2026 22:14:15 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/maria-martins-e-daniela-campos-com-medalhas-de-ouro-no-gp-presov-de-pista_d1745663",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/28/28fbe568041fa8533e3827fc8d9d49cf?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "6aae4a80",
@@ -80,47 +91,47 @@
       "score": 0.79
     },
     {
-      "id": "b1043733",
-      "cat": "tecnologia",
-      "title": "Irão: Negociadores de Trump procuram apoio de peritos nucleares, cuja ausência tinha sido alvo de críticas",
-      "summary": "Equipa poderá ter papel em negociações sobre o nuclear iraniano, mas fontes que revelaram o encontro alertam contra optimismo exagerado em relação a um acordo.",
-      "source": "Público",
-      "date": "Sat, 06 Jun 2026 15:50:18 GMT",
-      "url": "https://www.publico.pt/2026/06/06/mundo/noticia/irao-negociadores-trump-procuram-apoio-peritos-nucleares-2177345",
-      "img": "https://imagens.publico.pt/imagens.aspx/2093765?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.76
-    },
-    {
-      "id": "0e54844d",
+      "id": "3e4f3fc4",
       "cat": "saude",
-      "title": "Fred Vasseur, director da equipa de F1 da Ferrari, hospitalizado no Mónaco",
-      "summary": "Equipa anunciou que o director permanecerá sob observação numa unidade de saúde monegasca. Ferrari procura a primeira vitória na temporada.",
+      "title": "Polémicas na Bienal de Veneza continuam, agora na votação para os prémios",
+      "summary": "Apesar de 106 artistas e curadores pedirem para ser retirados da lista de candidatos, incluindo o português Alexandre Estrela, bienal mantém os nomes, procedendo, no final, à desqualificação dos votos",
       "source": "Público",
-      "date": "Sat, 06 Jun 2026 15:41:59 GMT",
-      "url": "https://www.publico.pt/2026/06/06/desporto/noticia/fred-vasseur-director-equipa-f1-ferrari-hospitalizado-monaco-2177348",
-      "img": "https://imagens.publico.pt/imagens.aspx/2093758?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 06 Jun 2026 19:35:27 GMT",
+      "url": "https://www.publico.pt/2026/06/06/culturaipsilon/noticia/polemicas-bienal-veneza-continuam-votacao-premios-2177361",
+      "img": "https://imagens.publico.pt/imagens.aspx/2093781?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
       "score": 0.76
     },
     {
-      "id": "538776db",
-      "cat": "tecnologia",
-      "title": "O decrescimento assusta? Eis cinco propostas que têm apoio dos cidadãos",
-      "summary": "Semana de quatro dias, serviços públicos universais, emprego garantido. As propostas parecem radicais, mas reúnem amplo apoio da população. Hoje é o Dia do Decrescimento.",
-      "source": "Público",
-      "date": "Sat, 06 Jun 2026 15:01:00 GMT",
-      "url": "https://www.publico.pt/2026/06/06/azul/noticia/decrescimento-assusta-eis-cinco-propostas-apoio-cidadaos-2177269",
-      "img": "https://imagens.publico.pt/imagens.aspx/2093598?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Azul.png",
+      "id": "a7591234",
+      "cat": "desporto",
+      "title": "Federação de futebol estima receitas recorde de 161 milhões",
+      "summary": "A federação liderada por Pedro Proença prevê também um saldo positivo de 2,8 milhões de euros, que Pedro Proença considera \"robusto, mas prudente\".",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 06 Jun 2026 19:59:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/federacao-de-futebol-estima-receitas-recorde-de-161-milhoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-06-09-18-02-523124.jpg",
       "score": 0.76
     },
     {
-      "id": "545dc005",
+      "id": "60fa24fe",
       "cat": "tecnologia",
-      "title": "Andreeva conquista Roland Garros",
-      "summary": "A tenista russa Mirra Andreeva é a nova campeã de Roland Garros, tendo conquistado hoje o primeiro título do Grand Slam com um triunfo diante da ‘qualifier’ polaca Maja Chwalinska, também estreante em finais de ‘majors’.",
+      "title": "RTP, SIC e TVI em parceria transmitem 20 jogos do mundial",
+      "summary": "Os três canais chegaram a acordo para a aquisição conjunta dos direitos de transmissão de 20 partidas, incluindo as de Portugal, o jogo de abertura, as duas semifinais e a final, além de outros jogos.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 06 Jun 2026 18:13:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/media/detalhe/rtp-sic-e-tvi-em-parceria-transmitem-20-jogos-do-mundial",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-06-18-04-01-524924.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "52e9761d",
+      "cat": "cultura",
+      "title": "Kimi Antonelli parte à frente no GP do Mónaco em Fórmula 1",
+      "summary": "O piloto italiano Kimi Antonelli (Mercedes) conquistou o primeiro lugar da grelha de partida para o Grande Prémio do Mónaco em Fórmula 1, sexta ronda do Campeonato do Mundo.",
       "source": "RTP",
-      "date": "Sat, 06 Jun 2026 16:55:22 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/andreeva-conquista-roland-garros_d1745629",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a4/a45cfc440904c693e9b3ee2c545186ea?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sat, 06 Jun 2026 18:45:57 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-parte-a-frente-no-gp-do-monaco-em-formula-1_d1745639",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bdecafd8eebf3c8d82c05d0416158927?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.76
     },
     {
@@ -190,58 +201,69 @@
       "score": 0.76
     },
     {
-      "id": "a48e8f3e",
-      "cat": "tecnologia",
-      "title": "No meio da sensação, imperou a alegria de quem quer brilhar",
-      "summary": "A surpreendente final feminina de Roland Garros começou equilibrada, mas Andreeva acabou por dominar o final do primeiro set e o segundo com nove jogos seguidos ganhos (3-6 e 2-6).",
-      "source": "Observador",
-      "date": "Sat, 06 Jun 2026 15:49:12 +0100",
-      "url": "https://observador.pt/2026/06/06/no-meio-da-sensacao-imperou-a-alegria-de-uma-jovem-destinada-a-brilhar-andreeva-vence-final-historica-e-conquista-primeiro-grand-slam/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2306:nowe:0:113/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/06153732/gettyimages-2279814856-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "2be59313",
+      "id": "35967dab",
       "cat": "geral",
-      "title": "AHP lamenta redução de reservas, mas prevê cenário positivo",
-      "summary": "Bernardo Trindade acredita que o cenário global pode ser \"positivo\" no curto prazo, mas avisa para a sua insustentabilidade. O dirigente pede um equilíbrio \"aprofundado\" da distribuição do turismo.",
+      "title": "Quem são e o que defendem os candidatos a juiz do Tribunal Constitucional",
+      "summary": "Quatro juristas de perfis distintos foram indicados por PSD, PS e Chega para o Tribunal Constitucional, num acordo político que antecede a votação no Parlamento, agendada para sexta-feira.",
+      "source": "Público",
+      "date": "Sat, 06 Jun 2026 20:40:00 GMT",
+      "url": "https://www.publico.pt/2026/06/06/politica/noticia/sao-defendem-candidatos-juiz-tribunal-constitucional-2177339",
+      "img": "https://imagens.publico.pt/imagens.aspx/2093785?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.73
+    },
+    {
+      "id": "2865104a",
+      "cat": "cultura",
+      "title": "Portugal vence primeiro de dois testes antes do Mundial",
+      "summary": "Selecção nacional triunfa sobre o Chile por 2-1 no Jamor. Golos de Gonçalo Guedes e Bruno Fernandes só surgiram na segunda parte. Rafael Leão foi expulso no final da primeira.",
+      "source": "Público",
+      "date": "Sat, 06 Jun 2026 19:52:12 GMT",
+      "url": "https://www.publico.pt/2026/06/06/desporto/cronica_de_jogo/portugal-vence-dois-testes-mundial-2177362",
+      "img": "https://imagens.publico.pt/imagens.aspx/2093783?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.73
+    },
+    {
+      "id": "8897ad53",
+      "cat": "tecnologia",
+      "title": "Merz: vitória da extrema-direita seria \"Big Bang\"",
+      "summary": "\"Há mais em jogo do que apenas o futuro de um Governo\" nas eleições em dois estados, defende chanceler alemão. Partido de extrema-direita Alternativa para a Alemanha (AfD) lidera agora as sondagens.",
       "source": "Observador",
-      "date": "Sat, 06 Jun 2026 14:38:31 +0100",
-      "url": "https://observador.pt/2026/06/06/associacao-da-hotelaria-de-portugal-lamenta-reducao-de-reservas-mas-preve-cenario-positivo-a-curto-prazo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/03125914/ilacerda-greve-geral-3-junho-109-scaled.jpg",
+      "date": "Sat, 06 Jun 2026 20:03:17 +0100",
+      "url": "https://observador.pt/2026/06/06/merz-diz-que-vitoria-da-extrema-direita-na-alemanha-seria-big-bang/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:163/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/06193957/47224444.jpg",
       "score": 0.73
     },
     {
-      "id": "bc85522a",
+      "id": "f4b9135a",
       "cat": "tecnologia",
-      "title": "Diamantes sintéticos \"brilham\" na corrida à IA. Empresas chinesas colhem os frutos",
-      "summary": "Tradicionalmente associadas à joalharia, estas gemas preciosas estão agora a ser adotadas como materiais de refrigeração de semicondutores, permitindo chips de IA mais potentes. Chinesa SF Diamond disparou mais de 214% desde janeiro. Ganhos em bolsa sublinham procura dos investidores por novos “venc",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 06 Jun 2026 16:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/diamantes-sinteticos-brilham-na-corrida-a-ia-empresas-chinesas-colhem-os-frutos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-05-10-10-55-524863.jpg",
+      "title": "19h. RTP, SIC e TVI de acordo com FIFA para transmitir jogos",
+      "summary": "O pacote de aquisição conjunta dos direitos de transmissão inclui todos os jogos da Seleção Nacional. Ainda, o Irão volta a acusar os Estados Unidos de violar o cessar-fogo.",
+      "source": "Observador",
+      "date": "Sat, 06 Jun 2026 19:52:35 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2089/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
       "score": 0.73
     },
     {
-      "id": "762764a4",
-      "cat": "economia",
-      "title": "Crude pode atingir 96 dólares com reabertura de Ormuz, diz petrolífera russa",
-      "summary": "O CEO da Rosneft explicou que são precisos, pelo menos, seis meses para que o \"ritmo positivo\" seja restabelecido.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 06 Jun 2026 12:51:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/crude-pode-atingir-96-dolares-com-reabertura-de-ormuz-diz-petrolifera-russa",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-22-12-35-05-524117.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "db7ecc38",
+      "id": "b87bf8d5",
       "cat": "tecnologia",
-      "title": "Accenture rejeita irregularidades após multa da Concorrência",
-      "summary": "A Autoridade da Concorrência aplicou coimas de 13,35 milhões de euros à Meo, NOS, Vodafone e Accenture, por \"acordo anticoncorrencial nos serviços de televisão por subscrição e na publicidade nas gravações televisivas\".",
+      "title": "Lukebakio marca na goleada belga frente à Tunísia",
+      "summary": "A equipa de Rudi Garcia vinha de um triunfo por 2-0 sobre a Croácia, em Rijeka, no primeiro teste para o Mundial. Os 'diabos vermelhos' seguem agora para os Estados Unidos, onde vão defrontar Egito,",
+      "source": "Observador",
+      "date": "Sat, 06 Jun 2026 18:42:52 +0100",
+      "url": "https://observador.pt/2026/06/06/benfiquista-lukebakio-marca-na-goleada-belga-frente-a-tunisia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/06181706/47243064.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "77ebe51b",
+      "cat": "tecnologia",
+      "title": "Paula Franco: Carteira digital para as empresas pouco avançou",
+      "summary": "A bastonária da Ordem dos Contabilistas Certificados afirma que a Reforma do Estado tem de ser vista num sentido global, sem quintinhas entre os vários serviços do Estado e diz que, para já, \"vemos muitos discursos, mas ainda não a sentimos na prática\".",
       "source": "Jornal de Negócios",
-      "date": "Sat, 06 Jun 2026 11:01:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/accenture-rejeita-irregularidades-apos-multa-da-concorrencia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-08-00-50-03-491833.jpg",
+      "date": "Sat, 06 Jun 2026 21:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/paula-franco-carteira-digital-para-as-empresas-pouco-avancou",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-05-14-06-05-524884.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +278,25 @@
       "score": 0.73
     },
     {
-      "id": "5759f0a2",
-      "cat": "tecnologia",
-      "title": "Marc Márquez vence sprint race do GP da Hungria em MotoGP",
-      "summary": "O piloto espanhol Marc Márquez (Ducati) venceu a corrida sprint do Grande Prémio da Hungria de MotoGP, oitava ronda da temporada, e relançou a luta pelo campeonato do mundo pela forma autoritária com que venceu.",
+      "id": "4419cddb",
+      "cat": "cultura",
+      "title": "Roberto Martínez: \"estamos a começar a sincronizar-nos\"",
+      "summary": "O Selecionador Nacional considera que, &quot;em geral&quot;, o particular contra Chile mostrou progressos na dinâmica de Portugal e defendeu Rafael Leão, expulso no final da primeira parte.",
       "source": "RTP",
-      "date": "Sat, 06 Jun 2026 17:02:06 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/marc-marquez-vence-sprint-race-do-gp-da-hungria-em-motogp_d1745630",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5cee1ca6157f2644812271e531b2ac4a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sat, 06 Jun 2026 22:56:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/portugal-x-chile-selecionador-nao-gostou-de-cartao-vermelho-a-rafael-leao_v1745672",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/4e/4ea9c7a8c8062e9ca18618d8df73f32f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "1d5b5459",
+      "id": "65d53477",
       "cat": "tecnologia",
-      "title": "Knicks alargam vantagem na final da NBA",
-      "summary": "O acerto de Jalen Brunson e as falhas de Victor Wembanyama valeram na sexta-feira aos New York Knicks uma dramática segunda vitória em San Antonio (104-105), para liderarem a final da NBA por 2-0.",
-      "source": "RTP",
-      "date": "Sat, 06 Jun 2026 16:40:26 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/knicks-alargam-vantagem-na-final-da-nba_d1745627",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/56/563d6321e1877fc001c7fef08a635c54?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "title": "Mundial2026: RTP, SIC e TVI vão transmitir 20 jogos em sinal aberto",
+      "summary": "A RTP, SIC e TVI chegaram a acordo com a FIFA para assegurar a transmissão gratuita de 20 jogos do Mundial de futebol deste ano, incluindo todos jogos de Portugal, o de abertura e a final, anunciaram hoje os operadores. &#8220;A RTP, a SIC e a TVI chegaram a acordo com a FIFA para a [&#8230;]",
+      "source": "ECO",
+      "date": "Sat, 06 Jun 2026 17:01:44 +0000",
+      "url": "https://eco.sapo.pt/2026/06/06/mundial2026-rtp-sic-e-tvi-vao-transmitir-20-jogos-em-sinal-aberto/",
+      "img": "https://eco.imgix.net/uploads/2024/06/cropped-doc-20240606-42995628-11393044-2.jpg",
       "score": 0.73
     },
     {
@@ -286,17 +308,6 @@
       "date": "Sat, 06 Jun 2026 13:45:06 +0000",
       "url": "https://eco.sapo.pt/2026/06/06/federacao-portuguesa-de-futebol-preve-receitas-de-161-milhoes-de-euros-ate-2027/",
       "img": "https://eco.imgix.net/uploads/2021/04/cropped-fpf02-2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "16e1ad14",
-      "cat": "economia",
-      "title": "Sines: investimento celebrado nos gabinetes de Lisboa causa ondas de choque na região",
-      "summary": "Os investimentos de milhares de milhões de euros que estão a dar à costa em Sines nesta década tardam em traduzir-se em ganhos para a população. A comunidade vê o fumo sair das chaminés, mas as grandes empresas não cooperam com a comunidade. O Estado investe no comboio de mercadorias, mas não devolv",
-      "source": "ECO",
-      "date": "Sat, 06 Jun 2026 13:29:52 +0000",
-      "url": "https://eco.sapo.pt/reportagem/sines-investimento-celebrado-nos-gabinetes-de-lisboa-causa-ondas-de-choque-na-regiao/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-zils-sines02-2.jpg",
       "score": 0.73
     },
     {
@@ -319,17 +330,6 @@
       "date": "Wed, 27 May 2026 23:05:48 GMT",
       "url": "https://www.bbc.com/news/articles/cpvppe84lnvo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/540c/live/48c18bf0-59e6-11f1-b67e-59b55f58b612.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "72b6e20f",
-      "cat": "cultura",
-      "title": "The Spark: banindo carros com uma festa no bairro",
-      "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada no... The",
-      "source": "Reasons to be Cheerful",
-      "date": "Fri, 05 Jun 2026 08:00:04 +0000",
-      "url": "https://reasonstobecheerful.world/the-spark-transportation/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/Bike-East-Bay-1-e1780594825609.jpg",
       "score": 0.73
     }
   ]
