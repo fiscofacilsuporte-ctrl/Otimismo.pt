@@ -1,5 +1,5 @@
 {
-  "last_update": "13/06/2026 17:03 UTC",
+  "last_update": "13/06/2026 21:55 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260612021000.htm",
       "img": "https://www.sciencedaily.com/images/1920/golden-sea-silk.webp",
       "score": 0.85
+    },
+    {
+      "id": "cf218487",
+      "cat": "geral",
+      "title": "Portugal falha revalidação dos primeiros títulos europeus de canoagem",
+      "summary": "Fernando Pimenta foi bronze em K1 1000. Campeões do Mundo e da Europa de K4 500 ficaram a 20 milésimos da prata de Alemanha e Espanha, terminando fora das medalhas.",
+      "source": "Público",
+      "date": "Sat, 13 Jun 2026 20:03:14 GMT",
+      "url": "https://www.publico.pt/2026/06/13/desporto/noticia/portugal-falha-revalidacao-titulos-europeus-canoagem-2178124",
+      "img": "https://imagens.publico.pt/imagens.aspx/2095422?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.82
     },
     {
       "id": "3436a076",
@@ -36,28 +47,6 @@
       "score": 0.82
     },
     {
-      "id": "5724e613",
-      "cat": "geral",
-      "title": "Fórmula 1: George Russell conquista pole position do Grande Prémio da Catalunha",
-      "summary": "Lewis Hamilton falhou por 0,064s o recorde de Michael Schumacher, detentor de sete poles no circuito de Barcelona. Kimi Antonelli ficou a 0,319s do companheiro da Mercedes.",
-      "source": "Público",
-      "date": "Sat, 13 Jun 2026 16:00:46 GMT",
-      "url": "https://www.publico.pt/2026/06/13/desporto/noticia/formula-1-george-russell-conquista-pole-position-premio-catalunha-2178117",
-      "img": "https://imagens.publico.pt/imagens.aspx/2095395?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.79
-    },
-    {
-      "id": "5c90c7f8",
-      "cat": "desporto",
-      "title": "Fernando Pimenta medalha de bronze em K1 1.000 metros",
-      "summary": "Fernando Pimenta conquistou hoje a medalha de bronze na prova de K1 1.000 metros dos Europeus de canoagem, o primeiro pódio de Portugal na competição, que decorre em Montemor-o-Velho.",
-      "source": "RTP",
-      "date": "Sat, 13 Jun 2026 14:24:52 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/fernando-pimenta-medalha-de-bronze-em-k1-1000-metros_d1746879",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/78/78409388c85bec36b577d81a2f648f37?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format",
-      "score": 0.79
-    },
-    {
       "id": "95b66b3e",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: as boas notícias que importam",
@@ -80,14 +69,14 @@
       "score": 0.79
     },
     {
-      "id": "3cb54af4",
-      "cat": "economia",
-      "title": "Suíça vota em referendo limitação da população a 10 milhões",
-      "summary": "Iniciativa do SVP, partido de extrema-direita, propõe travar crescimento até 2050 e pode forçar a saída do acordo do mercado único europeu com a UE. Resultados esperados este domingo.",
-      "source": "Observador",
-      "date": "Sat, 13 Jun 2026 17:18:59 +0100",
-      "url": "https://observador.pt/2026/06/13/suica-decide-em-referendo-limitacao-da-populacao-a-10-milhoes-de-habitantes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2249:nowe:0:209/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/13161527/gettyimages-2280545396.jpg",
+      "id": "e6da0ffe",
+      "cat": "tecnologia",
+      "title": "George Russell conquista pole position para o GP de Barcelona de Fórmula 1",
+      "summary": "O piloto britânico George Russell (Mercedes) conquistou hoje a pole position para o Grande Prémio de Barcelona-Catalunha, ao ser o mais rápido na qualificação para a sétima prova da temporada.",
+      "source": "RTP",
+      "date": "Sat, 13 Jun 2026 19:28:21 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/george-russell-conquista-pole-position-para-o-gp-de-barcelona-de-formula-1_d1746923",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7c/7cd14503b30f62a2bef90d482153368f?w=350&amp;q=50&amp;rect=0,81,1197,656&amp;auto=format",
       "score": 0.76
     },
     {
@@ -116,7 +105,7 @@
       "id": "0a9acf66",
       "cat": "saude",
       "title": "Radioterapia avançada para câncer de próstata reduzirá sessões de 20 para cinco",
-      "summary": "Alguns homens na Inglaterra com a doença receberão agora uma forma avançada de tratamento no NHS.",
+      "summary": "Alguns homens com a doença na Inglaterra receberão agora uma forma avançada de tratamento no NHS.",
       "source": "BBC News",
       "date": "Tue, 09 Jun 2026 23:57:30 GMT",
       "url": "https://www.bbc.com/news/articles/crm02mmgr3ro?at_medium=RSS&at_campaign=rss",
@@ -157,36 +146,36 @@
       "score": 0.76
     },
     {
-      "id": "48939808",
+      "id": "f7847fe2",
       "cat": "tecnologia",
-      "title": "Ucrânia vai aumentar salários dos militares na linha da frente",
-      "summary": "Melhoria das condições dos militares ucranianos serve para atrair mais cidadãos, incluindo estrangeiros, para o Exército para superar a grande desvantagem numérica em relação à Rússia.",
+      "title": "Mundial 2026: Bacuna, um apelido que se confunde com Curaçau",
+      "summary": "O país mais pequeno representado no torneio tem vivido da boa vontade e de uma mentalidade desprendida, que contraria a lógica da FIFA. E do talento de dois irmãos no meio-campo.",
       "source": "Público",
-      "date": "Sat, 13 Jun 2026 16:12:05 GMT",
-      "url": "https://www.publico.pt/2026/06/13/mundo/noticia/ucrania-vai-aumentar-salarios-militares-linha-frente-2178120",
-      "img": "https://imagens.publico.pt/imagens.aspx/2095399?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 13 Jun 2026 20:35:00 GMT",
+      "url": "https://www.publico.pt/2026/06/13/desporto/noticia/mundial-2026-bacuna-apelido-confunde-curacau-2178108",
+      "img": "https://imagens.publico.pt/imagens.aspx/2095423?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "2d925d2d",
+      "id": "e41b1e52",
       "cat": "tecnologia",
-      "title": "Fogo em Aljustrel: troço da EN2 cortado ao trânsito devido a incêndio",
-      "summary": "Não existem pessoas ou habitações em risco, de acordo com fonte da Protecção Civil do Baixo Alentenjo. Incêndio consome área de pasto e mato.",
+      "title": "Para estes professores “influencers” , a escola tem coisas a aprender com as redes sociais",
+      "summary": "Das salas de aula para o TikTok, Instagram e YouTube, há professores a conquistarem milhares de seguidores e a levarem para as redes conteúdos que, na época de exames, podem ser companheiros de estudo",
       "source": "Público",
-      "date": "Sat, 13 Jun 2026 15:50:58 GMT",
-      "url": "https://www.publico.pt/2026/06/13/sociedade/noticia/fogo-aljustrel-combatido-quase-90-operacionais-sete-aeronaves-2178116",
-      "img": "https://imagens.publico.pt/imagens.aspx/2095391?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 13 Jun 2026 18:47:00 GMT",
+      "url": "https://www.publico.pt/2026/06/13/sociedade/reportagem/professores-influencers-escola-aprender-redes-sociais-2178006",
+      "img": "https://imagens.publico.pt/imagens.aspx/2095375?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "c8d21812",
-      "cat": "desporto",
-      "title": "O primeiro passo da maratona: Benfica vence Sporting",
-      "summary": "No arranque da final do Campeonato de hóquei em patins, os encarnados venceram os leões no Pavilhão da Luz e colocaram-se em vantagem (3-2). Próximo jogo está marcado para quarta-feira, no João Rocha.",
+      "id": "8b72130b",
+      "cat": "tecnologia",
+      "title": "21h. PR enaltece coragem dos agricultores portugueses",
+      "summary": "O chefe de Estado realça que ser agricultor não é nada fácil e elogia a capacidade de investimento dos profissionais. Ainda, o incêndio no concelho de Aljustrel, em Beja, está praticamente dominado",
       "source": "Observador",
-      "date": "Sat, 13 Jun 2026 16:44:54 +0100",
-      "url": "https://observador.pt/2026/06/13/o-primeiro-passo-da-maratona-benfica-vence-sporting-na-luz-e-coloca-se-em-vantagem-na-final-do-campeonato-de-hoquei/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:288/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/13163819/doc2026022646648922jsg-9543-scaled.jpg",
+      "date": "Sat, 13 Jun 2026 21:14:54 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1670/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
       "score": 0.73
     },
     {
@@ -234,25 +223,25 @@
       "score": 0.73
     },
     {
-      "id": "42ba339e",
-      "cat": "desporto",
-      "title": "Benfica vence Sporting no primeiro jogo da final do campeonato de hóquei em patins",
-      "summary": "O Benfica, vencedor da fase regular, impôs-se hoje em casa o Sporting por 3-2, no primeiro encontro da final dos play-offs do campeonato nacional de hóquei em patins, disputado à melhor de cinco cinco jogos.",
+      "id": "36396cf7",
+      "cat": "tecnologia",
+      "title": "Rui Rodrigues eleito presidente do Vitória de Guimarães por margem de dois votos",
+      "summary": "Rui Rodrigues foi eleito hoje presidente do Vitória de Guimarães, após vencer as eleições decorridas no Pavilhão Desportivo Unidade Vimaranense por dois votos para o segundo candidato mais votado, Viriato Sampaio.",
       "source": "RTP",
-      "date": "Sat, 13 Jun 2026 18:37:36 +0100",
-      "url": "https://www.rtp.pt/noticias/hoquei/benfica-vence-sporting-no-primeiro-jogo-da-final-do-campeonato-de-hoquei-em-patins_d1746911",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c5/c5f31dfa0998dab1de26a6b2a417e451?w=350&amp;q=50&amp;rect=0,19,1362,747&amp;auto=format",
+      "date": "Sat, 13 Jun 2026 23:26:15 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/rui-rodrigues-eleito-presidente-do-vitoria-de-guimaraes-por-margem-de-dois-votos_d1746949",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/dd/ddc8f26b1dc2dd5d6ec488af744634b3?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "f0d5f1b4",
+      "id": "ad335ef0",
       "cat": "tecnologia",
-      "title": "Canadá e Bósnia-Herzegovina empatam",
-      "summary": "O Canadá, coanfitrião do Campeonato do Mundo de futebol de 2026, resgatou um empate 1-1 diante da Bósnia-Herzegovina, no primeiro jogo da jornada inaugural do Grupo B, disputado em Toronto.",
+      "title": "Brasil - Marrocos",
+      "summary": "O Brasil, único pentacampeão e totalista, estreia-se no Mundial de futebol de 2026, defrontando Marrocos, a equipa sensação da anterior edição, ao tornar-se a primeira seleção africana a atingir as meias-finais.",
       "source": "RTP",
-      "date": "Fri, 12 Jun 2026 23:05:20 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/canada-e-bosnia-herzegovina-empatam_e1746827",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/64/64568d3671ea63716076982ad476f26f?w=350&amp;q=50&amp;rect=0,131,1261,691&amp;auto=format",
+      "date": "Sat, 13 Jun 2026 22:31:46 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/brasil-marrocos_e1746941",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/fb/fb2e42bff3074ffa51b720950f0023ac?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
       "score": 0.73
     },
     {
@@ -264,17 +253,6 @@
       "date": "Sat, 13 Jun 2026 15:44:56 +0000",
       "url": "https://eco.sapo.pt/2026/06/13/viktor-orban-reeleito-no-seu-partido-apos-perder-a-lideranca-da-hungria-em-abril/",
       "img": "https://eco.imgix.net/uploads/2026/04/cropped-46914045-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "0682d683",
-      "cat": "tecnologia",
-      "title": "Mau tempo: investimento de 27 milhões para obras urgentes nas praias em conclusão",
-      "summary": "O investimento de 27 milhões de euros em obras urgentes para reparar os danos das tempestades nas praias está concretizado, faltando concluir uma empreitada, revelou neste sábado o presidente da Agência Portuguesa do Ambiente (APA). &#8220;Fizemos tudo. As obras que estavam planeadas estão executada",
-      "source": "ECO",
-      "date": "Sat, 13 Jun 2026 14:24:11 +0000",
-      "url": "https://eco.sapo.pt/2026/06/13/mau-tempo-investimento-de-27-milhoes-para-obras-urgentes-nas-praias-em-conclusao/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-doc202605134709427420260513filipeamorim2565.jpg",
       "score": 0.73
     },
     {
@@ -311,14 +289,25 @@
       "score": 0.73
     },
     {
-      "id": "b4b360b4",
-      "cat": "tecnologia",
-      "title": "Chuteiras rosa dominam o Mundial. Ronaldo foge à tendência",
-      "summary": "Rosa fluorescente tem dominado o campo nas primeiras partidas do Mundial. Para o capitão português, a Nike produziu umas chuteiras douradas personalizadas.",
+      "id": "13a453af",
+      "cat": "cultura",
+      "title": "Imergente. Presidente da Câmara da Amadora arguido",
+      "summary": "Está em causa um ajuste direto a Duarte Moral para escrever um discurso para o 25 de abril. Tribunal não suspendeu Duarte Moral das funções no PS, mas Carneiro pondera fazê-lo.",
       "source": "Observador",
-      "date": "Sat, 13 Jun 2026 17:39:51 +0100",
-      "url": "https://observador.pt/2026/06/13/chuteiras-rosa-predominam-no-mundial-mas-ronaldo-foge-a-tendencia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2177:1226:nowe:1081:1422/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12135824/jporfirio-jogo-portugal-nigeria-10-06-26-03-35.jpg",
+      "date": "Sat, 13 Jun 2026 20:46:10 +0100",
+      "url": "https://observador.pt/2026/06/13/vitor-ferreira-presidente-da-camara-da-amadora-arguido-na-operacao-imergente/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2556:1433:nowe:1266:53/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/13175543/doc2026042546994232-t4a7613-scaled.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "17c0442b",
+      "cat": "tecnologia",
+      "title": "“Made in UE” abrange carros ingleses, japoneses e coreanos",
+      "summary": "A União Europeia vai alargar o conceito de \"Made in UE\" a veículos fabricados no Reino Unido, Japão e Coreia do Sul. Esta abertura permite-lhes ter benefícios fiscais para combater os carros chineses.",
+      "source": "Observador",
+      "date": "Sat, 13 Jun 2026 20:37:13 +0100",
+      "url": "https://observador.pt/2026/06/13/uniao-europeia-considera-carros-ingleses-japoneses-e-sul-coreanos-como-made-in-ue/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2560:1439:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/13185940/nissan-ariya-my2026-06jpg-copy-scaled-1.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
