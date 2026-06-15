@@ -1,5 +1,5 @@
 {
-  "last_update": "14/06/2026 19:49 UTC",
+  "last_update": "15/06/2026 05:12 UTC",
   "total": 30,
   "news": [
     {
@@ -50,7 +50,7 @@
       "id": "0d0bd893",
       "cat": "ciencia",
       "title": "Cientistas descobrem que papagaios podem realmente usar nomes",
-      "summary": "Os papagaios podem estar fazendo mais do que apenas repetir palavras – eles podem, na verdade, usar nomes. Ao analisar centenas de gravações de papagaios de estimação, os pesquisadores encontraram evidências de que muitos pássaros usam nomes específicos para identificar determinadas pessoas, animais e até mesmo companheiros individuais. Alguns papagaios pareciam referir-se",
+      "summary": "Os papagaios podem estar fazendo mais do que apenas repetir palavras – eles podem, na verdade, usar nomes. Ao analisar centenas de gravações de papagaios de estimação, os pesquisadores encontraram evidências de que muitos pássaros usam nomes específicos para identificar pessoas, animais e até companheiros específicos. Alguns papagaios pareciam referir-se",
       "source": "ScienceDaily",
       "date": "Sun, 14 Jun 2026 01:26:16 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/06/260613034232.htm",
@@ -58,47 +58,14 @@
       "score": 0.79
     },
     {
-      "id": "a6138ae5",
-      "cat": "cultura",
-      "title": "O que fazer? Segunda é dia de ir dos pósteres de Marvila aos carris do Douro",
-      "summary": "A arte da Poster Mostra, passeios no Comboio Histórico do Douro, O Artesanato e os Santos Populares em exposição e os sabores típicos da Rota das Tabernas.",
-      "source": "Público",
-      "date": "Sun, 14 Jun 2026 16:16:00 GMT",
-      "url": "https://www.publico.pt/2026/06/14/fugas/noticia/segunda-dia-ir-posteres-marvila-carris-douro-2178078",
-      "img": "https://imagens.publico.pt/imagens.aspx/2095281?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Fugas.png",
-      "score": 0.76
-    },
-    {
-      "id": "a3413ce9",
+      "id": "da8ce56f",
       "cat": "tecnologia",
-      "title": "O que explica os oito jogadores acima dos 40 na fase final?",
-      "summary": "Pela primeira vez, o Mundial reúne oito convocados com 40 ou mais anos. Este recorde inédito baseia-se, segundo especialistas, nos avanços da medicina desportiva e no uso da inteligência artificial.",
-      "source": "Observador",
-      "date": "Sun, 14 Jun 2026 18:39:22 +0100",
-      "url": "https://observador.pt/2026/06/14/mundial-2026-a-primeira-fase-final-que-tem-oito-jogadores-acima-dos-40-anos-e-com-varias-explicacoes-para-isso/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2755:1547:nowe:0:290/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12135718/jporfirio-jogo-portugal-nigeria-10-06-26-03-23.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "7ca8b846",
-      "cat": "tecnologia",
-      "title": "18h. Futebol. Curaçau estreia-se hoje no campeonato do mundo",
-      "summary": "A pequena ilha nas Caraíbas, com apenas 150 mil habitantes, joga a esta hora contra a seleção alemã. Ainda, Fernando Pimenta sagrou-se campeão da Europa de canoagem em K1 5 mil metros.",
-      "source": "Observador",
-      "date": "Sun, 14 Jun 2026 18:14:15 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2071/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "80d2089e",
-      "cat": "tecnologia",
-      "title": "Acordo com o Irão melhor que o de 2015 é \"pouco provável\"",
-      "summary": "Barack Obama manifestou ceticismo sobre a possibilidade de um acordo entre os Estados Unidos e o Irão representar uma melhoria significativa face ao acordo nuclear obtido em 2015 na sua administração.",
-      "source": "Observador",
-      "date": "Sun, 14 Jun 2026 18:07:48 +0100",
-      "url": "https://observador.pt/2026/06/14/obama-considera-improvavel-obter-acordo-com-o-irao-muito-diferente-e-melhor-face-ao-de-2015/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/14173635/43815150.jpg",
+      "title": "Alemanha com goleada por 7-1 à estreante Curaçau",
+      "summary": "A tetracampeã Alemanha goleou por 7-1 a estreante seleção de Curaçau, no primeiro encontro do Grupo E do Mundial de futebol de 2026, disputado em Houston, nos Estados Unidos.",
+      "source": "RTP",
+      "date": "Sun, 14 Jun 2026 21:51:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/alemanha-com-goleada-por-7-1-a-estreante-curacau_v1747046",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb753fad40d6a9ed4baea6e87eeaa994?w=350&amp;q=50&amp;rect=0,14,1376,754&amp;auto=format",
       "score": 0.76
     },
     {
@@ -110,17 +77,6 @@
       "date": "Sun, 14 Jun 2026 20:50:31 +0100",
       "url": "https://www.rtp.pt/noticias/outras-modalidades/fc-porto-vence-benfica-e-sagra-se-campeao-nacional-de-basquetebol-10-anos-depois_d1747038",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/18/18f75d214b54e8941a3819a9000a09bf?w=350&amp;q=50&amp;rect=0,125,1233,676&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "ccba3d5a",
-      "cat": "desporto",
-      "title": "Norberto Mourão é tricampeão da Europa em VL2 duzentos metros",
-      "summary": "O canoísta português sagrou-se hoje campeão europeu, nesta classe, pela terceira vez seguida. Conseguiu o ouro em Montemor-o-Velho esta manhã. É o quarto título continental da carreira.",
-      "source": "RTP",
-      "date": "Sun, 14 Jun 2026 17:26:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/norberto-mourao-e-tricampeao-da-europa-em-vl2-duzentos-metros_v1747015",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/20/2072b6c556a6288f9588a0b4a8baa11b?w=350&amp;q=50&amp;rect=0,66,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
@@ -157,32 +113,21 @@
       "score": 0.76
     },
     {
-      "id": "0b21cb56",
-      "cat": "ciencia",
-      "title": "Novo estudo dos principais cinco alimentos por dia diz que seu coração precisa",
-      "summary": "Nem todas as frutas e vegetais são iguais na obtenção de nutrientes chamados flavonóides, dizem os pesquisadores.",
-      "source": "BBC News",
-      "date": "Mon, 08 Jun 2026 08:00:13 GMT",
-      "url": "https://www.bbc.com/news/articles/ce3p3z5d63po?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c352/live/966dc9e0-60e9-11f1-92fe-5faf9b4f0321.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "daa4c894",
-      "cat": "ciencia",
-      "title": "Por que a meia-idade está se tornando um ponto de ruptura nos EUA",
-      "summary": "Um novo estudo internacional conclui que os americanos de meia-idade são mais solitários, mais deprimidos e apresentam pior memória e saúde do que as gerações anteriores. Os pesquisadores dizem que a crescente tensão financeira, os apoios sociais mais fracos e o estresse crônico podem explicar por que os EUA estão ficando para trás em relação a outros países ricos.",
+      "id": "bc287cad",
+      "cat": "tecnologia",
+      "title": "Sob nossos pés existe uma superestrada fúngica que se estende por 68 quatrilhões de milhas",
+      "summary": "Abaixo dos nossos pés encontra-se uma vasta autoestrada oculta de fungos que ajuda a sustentar grande parte da vida na Terra – e os cientistas mapearam-na agora pela primeira vez. Os investigadores estimam que estas redes subterrâneas se estendem por surpreendentes 110 quatriliões de quilómetros e movimentam cerca de 4 mil milhões de toneladas de dióxido de carbono.",
       "source": "ScienceDaily",
-      "date": "Sat, 13 Jun 2026 22:24:12 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
-      "img": "https://www.sciencedaily.com/images/1920/midlife-crisis-couple-fighting.webp",
+      "date": "Mon, 15 Jun 2026 01:00:10 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614011845.htm",
+      "img": "https://www.sciencedaily.com/images/1920/mycorrhizal-infrastructure-map.webp",
       "score": 0.76
     },
     {
       "id": "4782028c",
       "cat": "tecnologia",
       "title": "Serviços bancários como se o planeta dependesse disso",
-      "summary": "Esta história foi publicada originalmente pela Next City, uma redação sem fins lucrativos que reporta soluções para cidades equitativas e justas. Receba as histórias do Next City em sua caixa de entrada: nextcity.org/newsletter. O novo banco de crescimento mais rápido da América não é especializado em IA, criptomoeda ou alguma estratégia de investimento exótica",
+      "summary": "Esta história foi publicada originalmente pela Next City, uma redação sem fins lucrativos que faz reportagens sobre soluções para cidades equitativas e justas. Receba as histórias do Next City em sua caixa de entrada: nextcity.org/newsletter. O novo banco de crescimento mais rápido da América não é especializado em IA, criptomoeda ou alguma estratégia de investimento exótica",
       "source": "Reasons to be Cheerful",
       "date": "Mon, 08 Jun 2026 08:00:22 +0000",
       "url": "https://reasonstobecheerful.world/climate-first-bank/",
@@ -190,25 +135,69 @@
       "score": 0.76
     },
     {
-      "id": "286eb702",
-      "cat": "desporto",
-      "title": "Uma década depois, FC Porto volta a sagrar-se campeão de basquetebol",
-      "summary": "“Dragões” derrotaram o Benfica no quarto jogo da final do play-off e travaram a tentativa do rival de chegar ao pentacampeonato.",
+      "id": "ea97e703",
+      "cat": "tecnologia",
+      "title": "O que estamos a acelerar?",
+      "summary": "Acelerar a transição energética não significa desvalorizar o território, a paisagem, a biodiversidade, o património ou as comunidades locais.",
       "source": "Público",
-      "date": "Sun, 14 Jun 2026 18:57:53 GMT",
-      "url": "https://www.publico.pt/2026/06/14/desporto/noticia/decada-fc-porto-volta-sagrarse-campeao-basquetebol-2178187",
-      "img": "https://imagens.publico.pt/imagens.aspx/2095563?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sun, 14 Jun 2026 23:20:00 GMT",
+      "url": "https://www.publico.pt/2026/06/15/opiniao/opiniao/acelerar-2177699",
+      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "93739f1e",
+      "id": "b3b8c3fb",
       "cat": "tecnologia",
-      "title": "Raimundo desafia Montenegro a retirar pacote laboral no próximo debate quinzenal",
-      "summary": "Líder do PCP considerou que o primeiro-ministro faria um “grande serviço ao país” se no debate quinzenal, que acontece na véspera da discussão do pacote laboral, anunciasse a retirada da reforma.",
-      "source": "Público",
-      "date": "Sun, 14 Jun 2026 17:47:45 GMT",
-      "url": "https://www.publico.pt/2026/06/14/politica/noticia/raimundo-desafia-montenegro-retirar-pacote-laboral-proximo-debate-quinzenal-2178181",
-      "img": "https://imagens.publico.pt/imagens.aspx/2095549?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "title": "Destino Amad(o) à vista na cidade do amor fraternal",
+      "summary": "No meio do equilíbrio e do recorde de bolas aos ferros, Diallo saiu do banco para ser herói na reta final e coroar a grande exibição do \"menino\" Diomande (1-0). Costa do Marfim encaminhou apuramento.",
+      "source": "Observador",
+      "date": "Mon, 15 Jun 2026 02:20:36 +0100",
+      "url": "https://observador.pt/2026/06/15/nem-a-imprevisibilidade-resiste-ao-destino-amado-na-cidade-do-amor-fraternal-a-cronica-do-costa-do-marfim-equador/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:348/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15020624/gettyimages-2281610370-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "9d723416",
+      "cat": "tecnologia",
+      "title": "1h. Treino da seleção cancelado devido a aviso de tempestade",
+      "summary": "Protocolos de segurança das autoridades locais para este tipo de eventos obrigaram ao cancelamento do treino. Ainda nesta edição, Donald Trump confirma que o acordo com o Irão \"está agora concluído.\"",
+      "source": "Observador",
+      "date": "Mon, 15 Jun 2026 01:15:18 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2297/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13113304/770-podcast-noticiario.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c9e550e5",
+      "cat": "sociedade",
+      "title": "Porque será que tantos gostam tanto de pobres subsidiados?",
+      "summary": "A discussão sobre a nova PSU fica marcada pela desonestidade e mistificação, muito porque há quem se ache dono dos pobres e pense que só o Estado pode praticar a solidariedade, o resto é caridadezinha",
+      "source": "Observador",
+      "date": "Mon, 15 Jun 2026 00:25:31 +0100",
+      "url": "https://observador.pt/opiniao/porque-sera-que-tantos-gostam-tanto-de-pobres-subsidiados/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "71422cf2",
+      "cat": "tecnologia",
+      "title": "\"Pecunia non olet\"",
+      "summary": "O investimento na SpaceX é ditado pelo mesmo desígnio de todos os outros, isto é, a vontade de ganhar dinheiro. Para já, o maior dos vencedores é Musk.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 14 Jun 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/20260614-173034-pecunia-non-olet",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
+      "score": 0.73
+    },
+    {
+      "id": "4f6e4d86",
+      "cat": "tecnologia",
+      "title": "EUA e Irão chegam a acordo. Trump anuncia reabertura do estreito de Ormuz",
+      "summary": "O acordo será assinado oficialmente na próxima sexta-feira, 19 de junho, na Suíça e prevê o fim imediato e permanente das operações militares em todas as frentes, incluindo no Líbano.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 14 Jun 2026 22:38:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/eua-e-irao-chegam-a-acordo-trump-anuncia-reabertura-do-estreito-de-ormuz",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-22-07-26-30-524066.jpg",
       "score": 0.73
     },
     {
@@ -223,17 +212,6 @@
       "score": 0.73
     },
     {
-      "id": "0214dacb",
-      "cat": "tecnologia",
-      "title": "A improvável recuperação da economia mais isolada do mundo",
-      "summary": "As vendas de armas à Rússia e as trocas comerciais com a China estão a impulsionar a economia da Coreia do Norte, apesar das sanções internacionais aplicadas ao regime liderado por Kim Jong Un. Segundo estimativas do Banco da Coreia do Sul, a economia do vizinho do norte terá crescido 3,7% em 2024, ",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 14 Jun 2026 16:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/a-improvavel-recuperacao-da-economia-mais-isolada-do-mundo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-11-17-06-08-525064.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -245,14 +223,25 @@
       "score": 0.73
     },
     {
-      "id": "264e9bb4",
+      "id": "8c941288",
       "cat": "tecnologia",
-      "title": "Treino de Portugal com convidados especiais",
-      "summary": "O primeiro treino de Portugal nos Estados Unidos foi aberto e contou com a presença de 250 convidados da comunidade local. Cristiano Ronaldo foi o jogador que os adeptos mais chamaram.",
+      "title": "Portugueses da Flórida acreditam que Portugal pode sair campeão do mundo",
+      "summary": "A RTP esteve num café português em Dania Beach, perto de Fort Lauderdale, onde a comunidade portuguesa mata saudades de casa.",
       "source": "RTP",
-      "date": "Sun, 14 Jun 2026 17:52:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/treino-de-portugal-com-convidados-especiais_v1747026",
-      "img": "https://cdn-images.rtp.pt/icm/images/93/93ac2f52f4b41100bf168b3ad6af8478_N.jpg?",
+      "date": "Sun, 14 Jun 2026 22:20:47 +0100",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugueses-da-florida-acreditam-que-portugal-pode-sair-campeao-do-mundo_v1747053",
+      "img": "https://cdn-images.rtp.pt/icm/images/35/35eb4223f9c8eedef02cce2a248620ff_N.jpg?",
+      "score": 0.73
+    },
+    {
+      "id": "3161ebe3",
+      "cat": "tecnologia",
+      "title": "Petróleo cai com acordo para reabrir Ormuz",
+      "summary": "O petróleo caiu esta segunda-feira depois de Donald Trump ter dito que estava fechado um acordo com o Irão que poderá permitir a reabertura do estreito de Ormuz, noticia a Bloomberg (acesso pago, em inglês). O Brent recuou mais de 3%, para perto de 84 dólares por barril, enquanto o West Texas Interm",
+      "source": "ECO",
+      "date": "Sun, 14 Jun 2026 22:35:50 +0000",
+      "url": "https://eco.sapo.pt/2026/06/14/petroleo-cai-com-acordo-para-reabrir-hormuz/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-46828012-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -278,25 +267,14 @@
       "score": 0.73
     },
     {
-      "id": "2f1b93eb",
-      "cat": "tecnologia",
-      "title": "Trump diz que acordo com o Irão será assinado no domingo",
-      "summary": "O Presidente dos Estados Unidos, Donald Trump, afirmou que a assinatura de um acordo com o Irão está &#8220;prevista para amanhã&#8221;, domingo, após o porta-voz do Ministério dos Negócios Estrangeiros iraniano ter afastado essa possibilidade. &#8220;A assinatura do acordo está prevista para amanhã",
-      "source": "ECO",
-      "date": "Sun, 14 Jun 2026 09:53:35 +0000",
-      "url": "https://eco.sapo.pt/2026/06/14/trump-diz-que-acordo-com-o-irao-sera-assinado-no-domingo/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47272235-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "0edcfffd",
-      "cat": "tecnologia",
-      "title": "Milhares de pessoas doam para ajudar fazendeiros de Nebraska que não conseguiram alimentar seus rebanhos depois que incêndios florestais queimaram cada acre",
-      "summary": "Há alguns meses, o maior incêndio florestal da história de Nebraska queimou mil quilômetros quadrados de fazendas. Queimou cada centímetro de grama do rancho de 11.000 acres de Mike e Kayla Wintz. Mas quando eles e os seus vizinhos enfrentaram a ameaça de perder os seus meios de subsistência, algo notável aconteceu. Milhares",
+      "id": "9dff247f",
+      "cat": "ciencia",
+      "title": "Menino encontra dente de 2 milhões de anos de ancestral de elefante em caminhada na praia",
+      "summary": "Um menino de 11 anos fez uma descoberta única na vida depois de encontrar um antigo dente de elefante na praia. No dia da grande descoberta, 24 de maio, Charlie Orchard-Lisle estava caminhando com sua mãe pela praia de East Lane, em Bawdsey, uma vila costeira de Suffolk, no leste da Inglaterra, a 120 quilômetros de Londres.",
       "source": "Good News Network",
-      "date": "Sun, 14 Jun 2026 11:00:59 +0000",
-      "url": "https://www.goodnewsnetwork.org/thousands-donate-to-help-nebraska-ranchers-who-couldnt-feed-their-animals-after-wildfire/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Hay-bales-on-truckers-trailer-by-Josh-Withers-H7DKylarLok-unsplash.jpg",
+      "date": "Sun, 14 Jun 2026 21:00:04 +0000",
+      "url": "https://www.goodnewsnetwork.org/boy-finds-2-million-year-old-tooth-from-elephant-ancestor-on-beach-walk/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Mom-holds-Anancus-arvernensis-molar-found-on-beach–SWNS.jpg",
       "score": 0.73
     },
     {
@@ -311,6 +289,17 @@
       "score": 0.73
     },
     {
+      "id": "49687472",
+      "cat": "tecnologia",
+      "title": "Imagens raras capturadas do grande tubarão branco no Mar Mediterrâneo",
+      "summary": "Um mergulhador voluntário descreveu um tremor ao filmar seu encontro com um tubarão branco ameaçado de extinção entre a Tunísia e a Sicília.",
+      "source": "BBC News",
+      "date": "Mon, 08 Jun 2026 06:09:53 GMT",
+      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506c/live/b30cebe0-6309-11f1-89a3-d1f559421220.jpg",
+      "score": 0.73
+    },
+    {
       "id": "72b6e20f",
       "cat": "cultura",
       "title": "The Spark: banindo carros com uma festa no bairro",
@@ -322,14 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "538671dd",
+      "id": "76b571b7",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
+      "source": "Público",
+      "date": "Mon, 15 Jun 2026 04:00:00 GMT",
+      "url": "https://www.publico.pt/2026/06/15/opiniao/opiniao/cartas-director-2178163",
+      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Publico.png",
+      "score": 0.7
+    },
+    {
+      "id": "317ba977",
       "cat": "tecnologia",
-      "title": "“Se 2026 for igual a 2025, será um excelente ano para o turismo”",
-      "summary": "Francisco Calheiros aponta que os números estão a crescer, mesmo com os preços das viagens a encarecer com o Médio Oriente. Sem grande impacto, mas com uma pressão inflacionista, o líder da Confederação do Turismo admite que o verão será bom e a totalidade do ano também, se não existirem sobressalto",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 14 Jun 2026 20:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/se-2026-for-igual-a-2025-sera-um-excelente-ano-para-o-turismo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-12-15-26-46-525137.jpg",
+      "title": "A Europa não vencerá a China com tarifas",
+      "summary": "A União Europeia parece hoje mais preparada para restringir importações do que para mobilizar os recursos necessários à construção de uma nova base tecnológica. Opinião de Ricardo Paes Mamede",
+      "source": "Público",
+      "date": "Sun, 14 Jun 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/06/15/opiniao/opiniao/europa-nao-vencera-china-tarifas-2177797",
+      "img": "https://imagens.publico.pt/imagens.aspx/1785681?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     }
   ]
