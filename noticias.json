@@ -1,5 +1,5 @@
 {
-  "last_update": "16/06/2026 21:13 UTC",
+  "last_update": "17/06/2026 04:58 UTC",
   "total": 30,
   "news": [
     {
@@ -50,45 +50,12 @@
       "id": "e2bd531f",
       "cat": "ciencia",
       "title": "Os físicos de Oxford tornaram o gato de Schrödinger ainda mais estranho",
-      "summary": "Os físicos de Oxford criaram um tipo inteiramente novo de estado quântico semelhante ao de um gato de Schrödinger, usando componentes que são, eles próprios, de natureza altamente quântica. O avanço poderia abrir novas possibilidades para computadores quânticos mais resilientes e insights mais profundos sobre as estranhas regras que governam o mundo quântico.",
+      "summary": "Os físicos de Oxford criaram um tipo inteiramente novo de estado quântico semelhante ao de um gato de Schrödinger, usando componentes que são, eles próprios, altamente quânticos por natureza. O avanço poderia abrir novas possibilidades para computadores quânticos mais resilientes e insights mais profundos sobre as estranhas regras que governam o mundo quântico.",
       "source": "ScienceDaily",
       "date": "Mon, 15 Jun 2026 03:29:46 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
       "img": "https://www.sciencedaily.com/images/1920/trisqueezed-superposition.webp",
       "score": 0.79
-    },
-    {
-      "id": "a8e0f771",
-      "cat": "economia",
-      "title": "Acordo para a paz no Irão prevê fundo de investimento privado de 300 mil milhões de dólares",
-      "summary": "Os compromissos ultrapassam os 150 mil milhões de dólares em cinco regiões, afirma uma fonte. O fundo só entrará em funcionamento após a assinatura de um acordo definitivo entre os EUA e o Irão.",
-      "source": "Público",
-      "date": "Tue, 16 Jun 2026 20:03:50 GMT",
-      "url": "https://www.publico.pt/2026/06/16/mundo/noticia/acordo-paz-irao-preve-fundo-investimento-privado-300-mil-milhoes-dolares-2178445",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096029?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.76
-    },
-    {
-      "id": "42f47013",
-      "cat": "tecnologia",
-      "title": "Sonae assina com a Câmara do Porto o maior projeto de arrendamento acessível do país",
-      "summary": "A parceria público-privada para este projeto de “build to rent”, de que também faz parte a luso-francesa Solive, prevê a criação de 331 habitações a integrar o mercado de arrendamento acessível gerido pela autarquia portuense.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 16 Jun 2026 19:04:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/sonae-assina-com-a-camara-municipal-do-porto-o-maior-projeto-de-arrendamento-acessivel-do-pais",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-09-12-49-26-491970.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "d227e27a",
-      "cat": "tecnologia",
-      "title": "Não há acordo entre Chega e Governo sobre lei laboral. Negociações vão prosseguir",
-      "summary": "“Até ao momento não foi possível chegar a entendimento”, disse André Ventura na Assembleia da República, depois de uma reunião com o primeiro-ministro, Luís Montenegro. Contudo, negociações vão continuar.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 16 Jun 2026 19:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/emprego/lei-laboral/detalhe/nao-ha-acordo-entre-chega-e-governo-sobre-lei-laboral-negociacoes-vao-prosseguir",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-10-17-19-03-523350.jpg",
-      "score": 0.76
     },
     {
       "id": "b60d59c3",
@@ -157,47 +124,69 @@
       "score": 0.76
     },
     {
-      "id": "569335a4",
+      "id": "a8bb3e50",
       "cat": "tecnologia",
-      "title": "Casal comprou toda a rua e câmara de Gaia tentará ajudar os moradores que têm de sair",
-      "summary": "Com os primeiros contratos a terminar a 30 de Junho e sem alternativas, moradores que têm baixos rendimentos regressaram à reunião de executivo depois de um mês sem respostas da autarquia.",
+      "title": "Enfermeiro de família para todos",
+      "summary": "O enfermeiro de família é uma solução viável e necessária. Mas deve ser concretizada com condições adequadas, autonomia profissional e integração plena nas equipas de cuidados de saúde primários. Opinião de Luís Filipe Barreira",
       "source": "Público",
-      "date": "Tue, 16 Jun 2026 19:05:54 GMT",
-      "url": "https://www.publico.pt/2026/06/16/local/noticia/casal-comprou-rua-camara-gaia-tentara-ajudar-moradores-sair-2178450",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096025?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Tue, 16 Jun 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/06/17/opiniao/opiniao/enfermeiro-familia-2177946",
+      "img": "https://imagens.publico.pt/imagens.aspx/2095208?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "bf56b56b",
+      "id": "7faedae4",
       "cat": "tecnologia",
-      "title": "Portugal e Arábia Saudita defendem livre circulação em Ormuz",
-      "summary": "Os ministros dos Negócios Estrangeiros de Portugal e da Arábia Saudita reuniram-se em Lisboa e defenderam o acordo de paz no Médio Oriente e a livre circulação no estreito de Ormuz.",
-      "source": "Observador",
-      "date": "Tue, 16 Jun 2026 20:09:51 +0100",
-      "url": "https://observador.pt/2026/06/16/portugal-e-arabia-saudita-defendem-livre-circulacao-no-estreito-de-ormuz/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/16193507/47297979.jpg",
+      "title": "Primeiro tomamos Espinho, depois tomamos Braga",
+      "summary": "Não vai ser necessário escavar muito para compreender a teia de relações de poder tecida entre o universo autárquico e o empresariado regional, as complacências mediáticas e a anestesia coletiva. Opinião de Pedro Adão e Silva",
+      "source": "Público",
+      "date": "Tue, 16 Jun 2026 23:01:00 GMT",
+      "url": "https://www.publico.pt/2026/06/17/opiniao/opiniao/tomamos-espinho-tomamos-braga-2178374",
+      "img": "https://imagens.publico.pt/imagens.aspx/1921408?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "b5b648cf",
+      "id": "d56666aa",
       "cat": "tecnologia",
-      "title": "Kristin: 30 milhões chegam a 22 municípios para florestas",
-      "summary": "Rui Ladeira confirmou que 22 municípios com operações de gestão da paisagem aprovadas serão os primeiros a aceder aos fundos, numa segunda fase a que se juntam mais quatro.",
+      "title": "O perigo escondido no primeiro jogo de Portugal",
+      "summary": "Portugal estreia-se hoje no Mundial frente ao Congo. O jornalista Miguel Cordeiro analisa o ambiente em Palm Beach e os perigos de um adversário mais incómodo do que parece.",
       "source": "Observador",
-      "date": "Tue, 16 Jun 2026 19:55:50 +0100",
-      "url": "https://observador.pt/2026/06/16/tempestade-kristin-30-milhoes-de-euros-chegam-nos-proximos-dias-a-22-municipios-para-limpeza-das-florestas-afetadas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:99/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/23115136/46990523.jpg",
+      "date": "Wed, 17 Jun 2026 05:02:52 +0100",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/o-perigo-escondido-no-primeiro-jogo-de-portugal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
       "score": 0.73
     },
     {
-      "id": "eea788c6",
+      "id": "854586a3",
       "cat": "tecnologia",
-      "title": "19h. Governo e Chega ainda sem acordo sobre reforma laboral",
-      "summary": "Conversas vão continuar. Ventura não fecha a porta a um entendimento, mas assume que há questões longe do consenso. Ainda, PJ deteve suspeito de colaborar com a fuga de 5 reclusos de Vale de Judeus.",
+      "title": "Quatro anos depois, o mundo continua a ser apenas e só dele",
+      "summary": "200 internacionalizações, primeiro a jogar em seis Mundiais, 16 golos como Klose e o 3.º mais velho a marcar: Messi fez um hat-trick, Argentina bateu Argélia e o mundo não mudou em quatro anos (3-0).",
       "source": "Observador",
-      "date": "Tue, 16 Jun 2026 19:43:23 +0100",
-      "url": "https://observador.pt/programas/noticiario/19h-governo-e-chega-ainda-sem-acordo-sobre-reforma-laboral/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Wed, 17 Jun 2026 03:59:59 +0100",
+      "url": "https://observador.pt/2026/06/17/quatro-anos-depois-o-mundo-continua-a-ser-apenas-e-so-dele-a-cronica-do-argentina-argelia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/17033117/gettyimages-2281365421-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "2945ed5c",
+      "cat": "tecnologia",
+      "title": "Pode ignorar-se o sinal da pertença ?",
+      "summary": "O actual Presidente nunca desistirá de atender, proteger, privilegiar os seus - mesmo que aqui e ali os atice ou desespere, nunca esquecerá porém o seu mandamento primeiro: ser amado por todos.",
+      "source": "Observador",
+      "date": "Wed, 17 Jun 2026 00:29:23 +0100",
+      "url": "https://observador.pt/opiniao/pode-ignorar-se-o-sinal-da-pertenca/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1797%3A1796%3Anowe%3A483%3A444%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170553%2Fmaria-joao-avillez.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "fc3fba55",
+      "cat": "tecnologia",
+      "title": "Vitória de Pirro",
+      "summary": "A China, silenciosamente, vem marcando pontos graças aos constantes desmandos de Trump.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 16 Jun 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/vitoria-de-pirro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
       "score": 0.73
     },
     {
@@ -209,6 +198,17 @@
       "date": "Tue, 16 Jun 2026 21:33:28 +0100",
       "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/acordo-com-eua-preve-que-irao-receba-amplos-incentivos-financeiros",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-11-12-05-07-523384.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c93d5d08",
+      "cat": "tecnologia",
+      "title": "\"Rally\" das tecnológicas perde força e deixa Wall Street sem rumo na véspera da decisão da Fed",
+      "summary": "O índice industrial Dow Jones foi o único a conseguir registar valorizações, batendo um novo recorde. Investidores realizaram mais-valias nas \"tech\" após subida expressiva.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 16 Jun 2026 21:15:37 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/rally-das-tecnologicas-perde-forca-e-deixa-wall-street-sem-rumo-na-vespera-da-decisao-da-fed",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-05-14-15-43-524887.jpg",
       "score": 0.73
     },
     {
@@ -258,7 +258,7 @@
     {
       "id": "f77a5ddf",
       "cat": "sociedade",
-      "title": "Cientistas decidem mapear redes subterrâneas de fungos e descobrem que elas cobrem 62 quatrilhões de milhas",
+      "title": "Cientistas mapeiam redes subterrâneas de fungos e descobrem que elas cobrem 62 quatrilhões de milhas",
       "summary": "Há alguns anos, cientistas dedicados a incluir o reino Fungi na conservação moderna decidiram medir a extensão total das redes de fungos sob o solo. Essas redes formam a lendária “wood wide web”, uma estrutura biológica interconectada de cooperação entre plantas, fungos",
       "source": "Good News Network",
       "date": "Tue, 16 Jun 2026 13:00:46 +0000",
@@ -322,14 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "687ef234",
-      "cat": "tecnologia",
-      "title": "João Carlos Loureiro: contra a eutanásia, adepto de longas declarações de voto e direito alemão",
-      "summary": "Nos acórdãos de pedidos de fiscalização preventiva da constitucionalidade, o novo presidente do Tribunal Constitucional teve uma visão bem mais conservadora do que o seu antecessor.",
+      "id": "5011ed9a",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
       "source": "Público",
-      "date": "Tue, 16 Jun 2026 20:35:51 GMT",
-      "url": "https://www.publico.pt/2026/06/16/politica/noticia/joao-carlos-loureiro-eutanasia-adepto-longas-declaracoes-voto-direito-alemao-2178455",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096030?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Wed, 17 Jun 2026 04:20:00 GMT",
+      "url": "https://www.publico.pt/2026/06/17/opiniao/opiniao/cartas-director-2178424",
+      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     }
   ]
