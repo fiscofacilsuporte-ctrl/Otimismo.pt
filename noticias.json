@@ -1,18 +1,7 @@
 {
-  "last_update": "18/06/2026 04:48 UTC",
+  "last_update": "18/06/2026 10:42 UTC",
   "total": 30,
   "news": [
-    {
-      "id": "8e46992d",
-      "cat": "desporto",
-      "title": "Portugal quarto no Mundial de atletismo para desportistas com síndrome de Down",
-      "summary": "Portugal terminou hoje os Campeonatos do Mundo de atletismo para desportistas com síndrome de Down com 13 medalhas, assegurando em Sofia duas de ouro, quatro de prata e sete de bronze, que lhe valeram o quarto lugar coletivo.",
-      "source": "RTP",
-      "date": "Wed, 17 Jun 2026 21:21:13 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-quarto-no-mundial-de-atletismo-para-desportistas-com-sindrome-de-down_d1747739",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/be/be77abea32664cc00c851f56e1945794?w=350&amp;q=50&amp;rect=0,27,1920,1053&amp;auto=format",
-      "score": 0.82
-    },
     {
       "id": "3436a076",
       "cat": "tecnologia",
@@ -58,17 +47,6 @@
       "score": 0.82
     },
     {
-      "id": "119b8d46",
-      "cat": "tecnologia",
-      "title": "Lisboa aprova novo modelo de contratação de chefias e lança primeiros concursos ainda este ano",
-      "summary": "A proposta de criação de um concurso para contratação de 163 técnicos e dirigentes para a Câmara Municipal de Lisboa foi aprovada na reunião desta quarta-feira. O lançamento dos procedimentos para as primeiras dezenas de posições neste novo regime começará a ser implementada já este ano, avança ao E",
-      "source": "ECO",
-      "date": "Wed, 17 Jun 2026 19:49:42 +0000",
-      "url": "https://eco.sapo.pt/2026/06/17/lisboa-aprova-novo-modelo-de-contratacao-de-chefias-e-lanca-primeiros-concursos-ainda-este-ano/",
-      "img": "https://eco.imgix.net/uploads/2025/12/cropped-cml11.jpg",
-      "score": 0.79
-    },
-    {
       "id": "95b66b3e",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: as boas notícias que importam",
@@ -78,6 +56,28 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-24-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/06/iStock-1097438690.jpeg",
       "score": 0.79
+    },
+    {
+      "id": "482baecf",
+      "cat": "tecnologia",
+      "title": "México e Coreia do Sul podem confirmar “16 avos” com vitória",
+      "summary": "A formação mexicana, que vai na 18.ª participação, e nona consecutiva, procura ultrapassar a fase de grupos pela décima vez, um hábito desde 1994, apenas quebrado em 2022.",
+      "source": "Público",
+      "date": "Thu, 18 Jun 2026 09:15:42 GMT",
+      "url": "https://www.publico.pt/2026/06/18/desporto/noticia/mexico-coreia-sul-podem-confirmar-16-avos-vitoria-2178614",
+      "img": "https://imagens.publico.pt/imagens.aspx/2096445?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.76
+    },
+    {
+      "id": "348b4cdd",
+      "cat": "tecnologia",
+      "title": "Fonte da Telha espera melhorias no acesso à praia",
+      "summary": "O inverno rigoroso e o mar alteraram o areal da Fonte da Telha e obrigaram a investimentos privados. Agora, os concessionários esperam que o novo plano de estacionamento devolva ordem à praia.",
+      "source": "Observador",
+      "date": "Thu, 18 Jun 2026 10:04:53 +0100",
+      "url": "https://observador.pt/2026/06/18/depois-do-mau-tempo-fonte-da-telha-espera-que-estacionamento-deixe-de-ser-um-problema/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/02/17204929/237a4488.jpg",
+      "score": 0.76
     },
     {
       "id": "0a9acf66",
@@ -113,69 +113,25 @@
       "score": 0.76
     },
     {
-      "id": "fac164a0",
-      "cat": "sociedade",
-      "title": "“Grande solidariedade”? Será que a PSP não aprende nada?",
-      "summary": "Bruno Pinto errou gravemente. A PSP errou horrivelmente. Luís Carrilho preferiu alimentar o mesmo corporativismo que desempenhou um papel trágico em toda esta história. Opinião de João Miguel Tavares",
-      "source": "Público",
-      "date": "Wed, 17 Jun 2026 23:01:00 GMT",
-      "url": "https://www.publico.pt/2026/06/18/opiniao/opiniao/solidariedade-sera-psp-nao-aprende-nada-2178561",
-      "img": "https://imagens.publico.pt/imagens.aspx/1739337?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.73
-    },
-    {
-      "id": "127d4646",
+      "id": "eb0b995c",
       "cat": "tecnologia",
-      "title": "João Neves é a figura do primeiro jogo de Portugal no Mundial de Futebol",
-      "summary": "Al&eacute;m do &uacute;nico golo marcado, o m&eacute;dio do PSG ofereceu solu&ccedil;&otilde;es de passe e de sa&iacute;da de bola em contexto de press&atilde;o.",
-      "source": "Público",
-      "date": "Wed, 17 Jun 2026 22:55:25 GMT",
-      "url": "https://www.publico.pt/2026/06/17/video/joao-neves-figura-jogo-portugal-mundial-futebol-20260617-231309",
-      "img": "https://imagens.publico.pt/imagens.aspx/canal_videos/videoPortal/Images/202606/joao_neves97973.jpg?tp=VIDEOS&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.73
-    },
-    {
-      "id": "b377c7d9",
-      "cat": "cultura",
-      "title": "Caleb foi a primeira jogada do mestre que escolheu a decisão",
-      "summary": "Depois de uma primeira parte fraca, as equipas regressaram determinadas em chegar à vitória, mas a pausa para hidratação voltou a quebrar o ritmo. Nos descontos, o Gana lá conseguiu desbloquear (1-0).",
+      "title": "Álvaro Magalhães: Widow's BayCristiano Ronaldo deve retirar-se\"",
+      "summary": "Álvaro Magalhães considera que CR7 deve sair em beleza, para não manchar a carreira. O antigo jogador critica falta de entrega da seleção: sucesso nos clubes \"adormece\" desejo de vencer pelo país.",
       "source": "Observador",
-      "date": "Thu, 18 Jun 2026 02:19:59 +0100",
-      "url": "https://observador.pt/2026/06/18/caleb-foi-a-primeira-jogada-do-mestre-que-soube-escolher-entre-a-boa-decisao-e-a-decisao-certa-a-cronica-do-gana-panama/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4051:2280:nowe:0:112/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/18021638/gettyimages-2282121393.jpg",
+      "date": "Thu, 18 Jun 2026 10:18:46 +0100",
+      "url": "https://observador.pt/programas/comissao-de-inquerito/alvaro-magalhaes-cristiano-deve-retirar-se/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151954/770-podcast-comissao-de-inquerito-2025-v2.jpg",
       "score": 0.73
     },
     {
-      "id": "7c2ac6e3",
+      "id": "230ece7c",
       "cat": "tecnologia",
-      "title": "EUA e Irão antecipam assinatura do memorando. Acordo está já em vigor",
-      "summary": "A assinatura antecipada do acordo provisório foi feita pelos Presidentes dos dois países, Donald Trump e Masoud Pezeshkian, confirmou o porta-voz do ministério dos Negócios Estrangeiros iraniano, embora a situação em Ormuz seja incerta.",
+      "title": "Resgatar a democracia do mercado",
+      "summary": "Com a desigualdade crescente a alimentar a revolta populista e a inteligência artificial a ameaçar substituir o trabalho humano, o economista Daron Acemoglu, do MIT e vencedor do Prémio Nobel, sentou-se com o filósofo político Michael J. Sandel, da Universidade de Harvard, para discutir como a democ",
       "source": "Jornal de Negócios",
-      "date": "Wed, 17 Jun 2026 23:13:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/eua-e-irao-antecipam-assinatura-do-memorando-de-entedimento-acordo-esta-ja-em-vigor",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-17-14-38-48-525286.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ec536c83",
-      "cat": "tecnologia",
-      "title": "Aeroportos portugueses superam sete milhões de passageiros em maio",
-      "summary": "O tráfego nos aeroportos portugueses cresceu 3% em maio face a igual mês do ano passado e o número de passageiros nos primeiros cinco meses de 2026 ultrapassa os 28 milhões.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 17 Jun 2026 22:59:21 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/aeroportos-portugueses-superam-sete-milhoes-de-passageiros-em-maio",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-04-09-28-32-524819.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "341bdcd0",
-      "cat": "tecnologia",
-      "title": "\"IA é uma oportunidade que temos de saber aproveitar\", diz CTO do Estado",
-      "summary": "Manuel Dias está a liderar a reforma tecnológica do Estado português, um desafio que garante ser \"de todos\". O curador do Conselho Estratégico assume que o setor público e o setor privado têm de dar as mãos.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 17 Jun 2026 22:21:24 +0100",
-      "url": "https://www.jornaldenegocios.pt/negocios-iniciativas/detalhe/ia-e-uma-oportunidade-que-temos-de-saber-aproveitar-diz-cto-do-estado",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-17-16-28-17-525300.jpg",
+      "date": "Thu, 18 Jun 2026 10:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/resgatar-a-democracia-do-mercado",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-18-07-51-00-525319.jpg",
       "score": 0.73
     },
     {
@@ -187,6 +143,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "204d3ce6",
+      "cat": "cultura",
+      "title": "Diaz embala Colômbia para a vitória",
+      "summary": "Luis Díaz destacou-se na vitória da Colômbia sobre o estreante Uzbequistão (3-1), ao marcar e assistir no jogo da jornada inaugural do Grupo K do Mundial2026, do qual faz parte Portugal.",
+      "source": "RTP",
+      "date": "Thu, 18 Jun 2026 10:19:00 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/diaz-embala-colombia-para-a-vitoria_e1747809",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e22064ddbaacbc0ccc76605ca582814f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -212,25 +179,47 @@
       "score": 0.73
     },
     {
-      "id": "c25ebb3f",
-      "cat": "economia",
-      "title": "Montenegro avisa que país deve preparar-se para concorrer ao fundo europeu de competitividade",
-      "summary": "O primeiro-ministro, Luís Montenegro, avisou esta quarta-feira que &#8220;ninguém pode ficar a dormir na forma&#8221; e que Governo, empresas e universidades devem preparar-se para concorrer ao futuro Fundo Europeu de Competitividade. &#8220;Ninguém pode dormir na forma. O Governo, a administração p",
+      "id": "f577a5dd",
+      "cat": "tecnologia",
+      "title": "Depois da Polónia, Chipre recebe os primeiros 177,2 milhões do SAFE",
+      "summary": "O Chipre recebeu o primeiro pagamento de 177,2 milhões de euros do SAFE, referente a 15% da fatia de 1,2 mil milhões de euros garantida pelo país no âmbito do empréstimo europeu para compras de equipamento militar. Depois da Polónia, é o segundo Estado-Membro a receber o primeiro cheque. “O pré-fina",
       "source": "ECO",
-      "date": "Wed, 17 Jun 2026 19:26:41 +0000",
-      "url": "https://eco.sapo.pt/2026/06/17/montenegro-avisa-que-pais-deve-preparar-se-para-concorrer-ao-fundo-europeu-de-competitividade/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47303001-scaled-1.jpg",
+      "date": "Thu, 18 Jun 2026 10:32:25 +0000",
+      "url": "https://eco.sapo.pt/2026/06/18/depois-da-polonia-chipre-recebe-os-primeiros-1772-milhoes-do-safe/",
+      "img": "https://eco.imgix.net/uploads/2026/01/cropped-p064828-242303.jpg",
       "score": 0.73
     },
     {
-      "id": "23c1f0ca",
+      "id": "7d18ae56",
       "cat": "tecnologia",
-      "title": "Herdeiro dos Ray-Ban procura financiamento para ser o maior acionista da empresa",
-      "summary": "Leonardo Maria Del Vecchio, filho do fundador da EssilorLuxottica, atual Chief Strategy Officer da empresa e presidente da Ray-Ban, procura financiamento para uma operação de dez mil milhões de euros na Delfin, a holding familiar, visando tornar-se o sócio maioritário. O plano de Leonardo Maria Del ",
+      "title": "Oitante dá 10 milhões em dividendos ao Fundo de Resolução após lucrar 20 milhões em 2025",
+      "summary": "A Oitante lucrou 20,3 milhões de euros em 2025, menos 22,5% em relação ao ano anterior, e prepara-se para entregar metade desse resultado ao seu acionista, o Fundo de Resolução. Mas o dividendo poderá ser mais alto, segundo anunciou o veículo que gere os ativos que eram do Banif e que o Santander nã",
       "source": "ECO",
-      "date": "Wed, 17 Jun 2026 19:18:12 +0000",
-      "url": "https://eco.sapo.pt/2026/06/17/herdeiro-dos-ray-ban-procura-financiamento-para-ser-o-maior-acionista-da-empresa/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-561831781-18527823859000712-903353372899506078-n.jpg",
+      "date": "Thu, 18 Jun 2026 10:30:59 +0000",
+      "url": "https://eco.sapo.pt/2026/06/18/oitante-da-10-milhoes-em-dividendos-ao-fundo-de-resolucao-apos-lucrar-20-milhoes-em-2025/",
+      "img": "https://eco.imgix.net/uploads/2021/07/cropped-banif_lusa.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "082498ae",
+      "cat": "tecnologia",
+      "title": "Greve nas escolas encerra alguns estabelecimentos mas não afeta exames nacionais",
+      "summary": "A greve nacional da educação encerrou esta quinta-feira algumas escolas, em especial no norte do país, segundo um primeiro balanço do sindicato que convocou a paralisação de protesto contra a reforma laboral do Governo. &#8220;Neste momento sabemos que a norte há bastantes escolas a fechar, mas aind",
+      "source": "ECO",
+      "date": "Thu, 18 Jun 2026 10:23:14 +0000",
+      "url": "https://eco.sapo.pt/2026/06/18/greve-nas-escolas-encerra-alguns-estabelecimentos-mas-nao-afeta-exames-nacionais/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-19933296-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "8bfc3668",
+      "cat": "tecnologia",
+      "title": "Boas novas na história, 18 de Junho",
+      "summary": "Há 78 anos, a Columbia Records apresentou o álbum de longa duração em uma demonstração pública no Waldorf-Astoria Hotel na cidade de Nova York, caracterizado por uma velocidade de 33+1⁄3 rpm, um disco de 12 ou 10 polegadas de diâmetro e um disco composto de vinil, que instantaneamente se tornou o disco analógico mais popular e amado",
+      "source": "Good News Network",
+      "date": "Thu, 18 Jun 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060618/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/04/LP-Vinyl-Record-Album-Spinning-on-Turntable-Public-Domain.jpg",
       "score": 0.73
     },
     {
@@ -256,17 +245,6 @@
       "score": 0.73
     },
     {
-      "id": "bc9a1599",
-      "cat": "cultura",
-      "title": "Dor no joelho sofrida por milhões de pessoas pode ser aliviada com novo procedimento não cirúrgico",
-      "summary": "Para milhões de pessoas que sofrem de dores nos joelhos, um novo procedimento não cirúrgico oferece a promessa de aliviá-las durante pelo menos 12 meses com uma única injeção. A embolização da artéria genicular, ou GAE, é um tratamento emergente e minimamente invasivo que tem como alvo os vasos sanguíneos anormais na osteoartrite",
-      "source": "Good News Network",
-      "date": "Wed, 17 Jun 2026 11:00:39 +0000",
-      "url": "https://www.goodnewsnetwork.org/knee-pain-suffered-by-millions-can-be-eased-using-new-non-surgical-procedure/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/knee-pain-suffe-1560006.jpg",
-      "score": 0.73
-    },
-    {
       "id": "8d41dd70",
       "cat": "ciencia",
       "title": "O que é El Niño e por que pode significar temperaturas recordes?",
@@ -289,6 +267,17 @@
       "score": 0.73
     },
     {
+      "id": "cb850c61",
+      "cat": "tecnologia",
+      "title": "A ‘Hora Cívica’ está reinventando o voluntariado",
+      "summary": "“Ah, só estou captando consoantes”, suspira Nicole Riberolles, decana de 104 anos da casa de repouso Les Artistes, no bairro de Batignolles, no noroeste de Paris. Há um Q, R, Y, W, N e um E alinhados em seu porta-cartas Scrabble. Ela não vê nada disponível, tecendo seu colar de pérolas",
+      "source": "Reasons to be Cheerful",
+      "date": "Thu, 18 Jun 2026 08:00:40 +0000",
+      "url": "https://reasonstobecheerful.world/the-civic-hour-volunteering/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/5R5A8944-scaled.jpg",
+      "score": 0.73
+    },
+    {
       "id": "72b6e20f",
       "cat": "cultura",
       "title": "The Spark: banindo carros com uma festa no bairro",
@@ -300,36 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "f9129581",
-      "cat": "geral",
-      "title": "Do vício dos fundos ao futuro hipotecado",
-      "summary": "Os fundos deixaram de existir para construir “aquela” estrada, “aquela” barragem, mas passaram a pagar as despesas correntes dos governos. Opinião de Carla Castro",
+      "id": "da55c601",
+      "cat": "tecnologia",
+      "title": "Toy Story 5 , Magalhães e outras estreias para esta semana",
+      "summary": "Para além do regresso de Toy Story e da aventura do navegador português, há ainda lugar para uma releitura de Robin Hood e para uma comédia francesa sobre os desafios do amor.",
       "source": "Público",
-      "date": "Wed, 17 Jun 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/06/18/opiniao/opiniao/vicio-fundos-futuro-hipotecado-2178548",
-      "img": "https://imagens.publico.pt/imagens.aspx/1931106?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Thu, 18 Jun 2026 10:00:00 GMT",
+      "url": "https://www.publico.pt/2026/06/18/culturaipsilon/noticia/toy-story-5-magalhaes-estreias-semana-2177954",
+      "img": "https://imagens.publico.pt/imagens.aspx/2095034?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
       "score": 0.7
     },
     {
-      "id": "a1a263f4",
+      "id": "4749d2c1",
       "cat": "tecnologia",
-      "title": "As notícias das 4h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Rede de urgências vai ser revista e deve prever mais urgências centralizadas",
+      "summary": "Grupo de trabalho para apresentar proposta de actualização da rede nacional de urgência e emergência tem mandato de um ano.",
+      "source": "Público",
+      "date": "Thu, 18 Jun 2026 09:09:00 GMT",
+      "url": "https://www.publico.pt/2026/06/18/sociedade/noticia/rede-urgencias-vai-revista-prever-urgencias-centralizadas-2178495",
+      "img": "https://imagens.publico.pt/imagens.aspx/2096099?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.7
+    },
+    {
+      "id": "99acbae1",
+      "cat": "tecnologia",
+      "title": "10h. PS volta a propor Luísa Neto para provedora de justiça",
+      "summary": "PS e PSD querem que votação decorra no dia 3 de julho. Ainda neste jornal, Governo e Chega admitem negociar a lei laboral até depois do inicio do debate no Parlamento.",
       "source": "Observador",
-      "date": "Thu, 18 Jun 2026 04:14:00 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2320/",
+      "date": "Thu, 18 Jun 2026 10:14:44 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2380/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "ef1dc1d7",
+      "id": "82506a32",
       "cat": "tecnologia",
-      "title": "1h. Dezenas de sírios voltaram manifestar-se em Damasco",
-      "summary": "Exigem a responsabilização dos apoiantes do presidente deposto Bashar al-Assad. Alguns manifestantes atacaram lojas e veículos. Ainda, já entrou em vigor memorando de entendimento entre EUA e Irão.",
-      "source": "Observador",
-      "date": "Thu, 18 Jun 2026 01:18:39 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2299/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Piadas sem muita piada",
+      "summary": "Gasta metade do salário em impostos, a outra metade a comprar serviços privados que o Governo havia prometido e, no fim, culpa o capitalismo e pede ainda mais governo.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 18 Jun 2026 11:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/jose-bento-da-silva/detalhe/piadas-sem-muita-piada",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-01/img_394x514uu2025-01-20-11-09-32-494297.png",
       "score": 0.7
     }
   ]
