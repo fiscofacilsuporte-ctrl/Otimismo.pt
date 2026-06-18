@@ -1,5 +1,5 @@
 {
-  "last_update": "18/06/2026 10:42 UTC",
+  "last_update": "18/06/2026 15:44 UTC",
   "total": 30,
   "news": [
     {
@@ -11,17 +11,6 @@
       "date": "Wed, 10 Jun 2026 09:23:35 +0000",
       "url": "https://www.positive.news/environment/corporate-courage-how-cross-sector-talent-is-powering-renewables-innovation/",
       "img": "https://www.positive.news/wp-content/uploads/2026/06/AltCurrents_06_LynneMcIntoshG_WebHeader_03_v2.jpg",
-      "score": 0.82
-    },
-    {
-      "id": "342c92cb",
-      "cat": "ambiente",
-      "title": "Mudança radical pode levar a um mundo mais justo e verde, diz novo relatório",
-      "summary": "Padrões de vida mais elevados, horários de trabalho mais curtos e um clima habitável são alcançáveis, afirmam os autores de um novo estudo The post A mudança radical pode levar a um mundo mais justo e mais verde, afirma que o novo relatório apareceu pela primeira vez no Positive News.",
-      "source": "Positive News",
-      "date": "Thu, 04 Jun 2026 13:44:00 +0000",
-      "url": "https://www.positive.news/society/radical-change-can-lead-to-a-fairer-and-greener-world/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/06/Untitled-design.jpg",
       "score": 0.82
     },
     {
@@ -49,8 +38,8 @@
     {
       "id": "95b66b3e",
       "cat": "tecnologia",
-      "title": "O que deu certo esta semana: as boas notícias que importam",
-      "summary": "Um “ponto de viragem global para os mangais”, uma nova reserva marinha do tamanho de França e como os veículos elétricos salvam vidas, e muito mais The post O que correu bem esta semana: as boas notícias que importam apareceu primeiro em Notícias Positivas.",
+      "title": "O que deu certo esta semana: um ‘ponto de virada’ para os manguezais e muito mais",
+      "summary": "Um “ponto de viragem global para os mangais”, uma nova reserva marinha do tamanho de França e como os veículos elétricos salvam vidas, e muito mais",
       "source": "Positive News",
       "date": "Fri, 12 Jun 2026 05:00:05 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-24-of-2026/",
@@ -58,25 +47,47 @@
       "score": 0.79
     },
     {
-      "id": "482baecf",
+      "id": "a1f55242",
+      "cat": "ambiente",
+      "title": "Neste festival popular, a natureza é a atração principal",
+      "summary": "Um festival do Reino Unido está trocando apresentações de grandes nomes por limpezas de praias, caminhadas pela vida selvagem e eventos liderados pela comunidade que ‘nutriem a alma’. A postagem Neste festival popular, a natureza é a manchete apareceu pela primeira vez em Notícias Positivas.",
+      "source": "Positive News",
+      "date": "Tue, 09 Jun 2026 05:00:31 +0000",
+      "url": "https://www.positive.news/environment/the-island-festival-putting-nature-before-acts/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/06/BiosphereFestivalNetworkRydeallotmentopenday-1-scaled.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "5b225ddc",
       "cat": "tecnologia",
-      "title": "México e Coreia do Sul podem confirmar “16 avos” com vitória",
-      "summary": "A formação mexicana, que vai na 18.ª participação, e nona consecutiva, procura ultrapassar a fase de grupos pela décima vez, um hábito desde 1994, apenas quebrado em 2022.",
-      "source": "Público",
-      "date": "Thu, 18 Jun 2026 09:15:42 GMT",
-      "url": "https://www.publico.pt/2026/06/18/desporto/noticia/mexico-coreia-sul-podem-confirmar-16-avos-vitoria-2178614",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096445?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "title": "IA consumirá 8% da eletricidade mundial em 2050",
+      "summary": "Relatório da OPEP aponta IA como um dos maiores motores do crescimento da procura global de energia. Amazon, Google e Microsoft apostam no nuclear para responder.",
+      "source": "Observador",
+      "date": "Thu, 18 Jun 2026 16:17:32 +0100",
+      "url": "https://observador.pt/2026/06/18/opep-centros-de-dados-e-ia-vao-consumir-8-da-eletricidade-mundial-em-2050/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1125:nowe:0:100/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/18134533/45714634.jpg",
       "score": 0.76
     },
     {
-      "id": "348b4cdd",
+      "id": "36be819e",
       "cat": "tecnologia",
-      "title": "Fonte da Telha espera melhorias no acesso à praia",
-      "summary": "O inverno rigoroso e o mar alteraram o areal da Fonte da Telha e obrigaram a investimentos privados. Agora, os concessionários esperam que o novo plano de estacionamento devolva ordem à praia.",
-      "source": "Observador",
-      "date": "Thu, 18 Jun 2026 10:04:53 +0100",
-      "url": "https://observador.pt/2026/06/18/depois-do-mau-tempo-fonte-da-telha-espera-que-estacionamento-deixe-de-ser-um-problema/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/02/17204929/237a4488.jpg",
+      "title": "OPEP estima que IA consumirá 8% da eletricidade mundial em 2050",
+      "summary": "O avanço da inteligência artificial (IA) multiplicará por sete o consumo de eletricidade dos centros de dados até 2050, altura em que representará 8% da procura mundial, o que constitui um dos principais desafios para as redes de energia. Esta é a previsão da Organização dos Países Exportadores de P",
+      "source": "ECO",
+      "date": "Thu, 18 Jun 2026 14:15:31 +0000",
+      "url": "https://eco.sapo.pt/2026/06/18/opep-estima-que-ia-consumira-8-da-eletricidade-mundial-em-2050/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-45714634-scaled-1.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "602ba140",
+      "cat": "ambiente",
+      "title": "Vídeo impressionante das luzes do sul dançando pela Terra, capturado por um astronauta da NASA – ASSISTA",
+      "summary": "Da cápsula SpaceX Dragon bem acima da Terra, a astronauta Jessica Meir ficou atordoada e comovida com o que estava testemunhando. Enquanto nosso próprio mármore azul girava para mostrar seu ventre branco, uma rajada de vento solar acendeu a Luz do Sul, ou Aurora Australis, que se espalhou a partir da Antártida.",
+      "source": "Good News Network",
+      "date": "Thu, 18 Jun 2026 11:00:27 +0000",
+      "url": "https://www.goodnewsnetwork.org/stunning-video-of-the-southern-lights-dancing-across-the-earth-captured-by-a-nasa-astronaut-watch/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/The-Southern-Lights-credit-Jessica-Weir-screengrab-via-X.jpg",
       "score": 0.76
     },
     {
@@ -113,25 +124,47 @@
       "score": 0.76
     },
     {
-      "id": "eb0b995c",
-      "cat": "tecnologia",
-      "title": "Álvaro Magalhães: Widow's BayCristiano Ronaldo deve retirar-se\"",
-      "summary": "Álvaro Magalhães considera que CR7 deve sair em beleza, para não manchar a carreira. O antigo jogador critica falta de entrega da seleção: sucesso nos clubes \"adormece\" desejo de vencer pelo país.",
-      "source": "Observador",
-      "date": "Thu, 18 Jun 2026 10:18:46 +0100",
-      "url": "https://observador.pt/programas/comissao-de-inquerito/alvaro-magalhaes-cristiano-deve-retirar-se/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151954/770-podcast-comissao-de-inquerito-2025-v2.jpg",
+      "id": "b8296026",
+      "cat": "cultura",
+      "title": "A Manila de Lino Brocka vem ao Doclisboa",
+      "summary": "O primeiro cineasta filipino a obter os encómios dos críticos ocidentais, falecido em 1991 e ainda mal conhecido entre nós, é o tema da retrospectiva 2026 do festival lisboeta em Outubro.",
+      "source": "Público",
+      "date": "Thu, 18 Jun 2026 14:39:39 GMT",
+      "url": "https://www.publico.pt/2026/06/18/culturaipsilon/noticia/manila-lino-brocka-vem-doclisboa-2178669",
+      "img": "https://imagens.publico.pt/imagens.aspx/2096571?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
       "score": 0.73
     },
     {
-      "id": "230ece7c",
+      "id": "e5a49dda",
       "cat": "tecnologia",
-      "title": "Resgatar a democracia do mercado",
-      "summary": "Com a desigualdade crescente a alimentar a revolta populista e a inteligência artificial a ameaçar substituir o trabalho humano, o economista Daron Acemoglu, do MIT e vencedor do Prémio Nobel, sentou-se com o filósofo político Michael J. Sandel, da Universidade de Harvard, para discutir como a democ",
+      "title": "Wall Street pinta-se de verde com acordo EUA-Irão. Petróleo cai mais de 3%",
+      "summary": "Acompanhe, ao minuto, a evolução dos mercados desta quinta-feira.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 18 Jun 2026 10:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/resgatar-a-democracia-do-mercado",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-18-07-51-00-525319.jpg",
+      "date": "Thu, 18 Jun 2026 16:13:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-sem-rumo-apesar-de-acordo-eua-irao-ja-estar-em-vigor-europa-aponta-para-perdas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-15-20-43-40-525211.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "9d69bc8f",
+      "cat": "tecnologia",
+      "title": "OPEP: IA consumirá 8% da eletricidade mundial em 2050",
+      "summary": "A previsão consta do relatório \"Perspetivas Mundiais do Petróleo para 2050\", divulgado esta quinta-feira. Em termos absolutos, o documento detalhou que a procura de eletricidade impulsionada pelos centros de dados e pela IA registará um aumento de 3.606 terawatts-hora (TWh) até 2050.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 18 Jun 2026 16:09:01 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/opep-ia-consumira-8-da-eletricidade-mundial-em-2050",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-03-15-42-04-508577.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "7d75f565",
+      "cat": "economia",
+      "title": "Bundesbank: Economia alemã deve retomar crescimento no outono",
+      "summary": "No seu boletim económico de junho, o banco central alemão refere que \"após o fraco semestre de verão (de abril a setembro), a atividade económica irá ganhar impulso gradualmente\".",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 18 Jun 2026 16:03:10 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/bundesbank-economia-alema-deve-retomar-crescimento-no-outono",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-01/img_100x100uu2025-01-17-13-32-40-494218.jpg",
       "score": 0.73
     },
     {
@@ -146,6 +179,28 @@
       "score": 0.73
     },
     {
+      "id": "6dc98ef1",
+      "cat": "tecnologia",
+      "title": "Marco Silva estreia-se no Benfica em 11 de julho em particular com o Flamengo",
+      "summary": "O Benfica vai realizar dois jogos particulares frente a Flamengo e Villarreal, em 11 e 17 de julho, ambos no Estádio Algarve, os primeiros do novo treinador Marco Silva, anunciou hoje o clube lisboeta de futebol.",
+      "source": "RTP",
+      "date": "Thu, 18 Jun 2026 16:33:00 +0100",
+      "url": "https://www.rtp.pt/noticias/benfica/marco-silva-estreia-se-no-benfica-em-11-de-julho-em-particular-com-o-flamengo_d1747918",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ba/bad3d8b03892bee386f55933c63de316?w=350&amp;q=50&amp;rect=0,0,1191,653&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "fde64619",
+      "cat": "tecnologia",
+      "title": "Elye Wahi envolvido em esquema de apostas ilegais",
+      "summary": "O avançado da Costa do Marfim Elye Wahi foi impedido de viajar para o Canadá e vai falhar o jogo do Campeonato do Mudod contra, devido a uma investigação sobre manipulação de resultados, anunciou a federação daquele país africano.",
+      "source": "RTP",
+      "date": "Thu, 18 Jun 2026 13:54:43 +0100",
+      "url": "https://www.rtp.pt/noticias/mundial-2026/elye-wahi-envolvido-em-esquema-de-apostas-ilegais_d1747852",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cf753ac800232670b769b0c2d4de068b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "204d3ce6",
       "cat": "cultura",
       "title": "Diaz embala Colômbia para a vitória",
@@ -157,58 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "4b0d54ae",
+      "id": "12212383",
       "cat": "tecnologia",
-      "title": "Benfica vence Sporting e amplia vantagem na final do nacional de hóquei em patins",
-      "summary": "O Benfica colocou-se hoje a uma vitória de assegurar o título nacional de hóquei em patins, ao vencer em casa do Sporting por 5-2, aumentando para 2-0 a vantagem na final dos play-offs.",
-      "source": "RTP",
-      "date": "Wed, 17 Jun 2026 23:23:31 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/benfica-vence-sporting-e-amplia-vantagem-na-final-do-nacional-de-hoquei-em-patins_d1747760",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/61/61a757aa5253d47ec6eb9ef5eb999581?w=350&amp;q=50&amp;rect=0,58,1208,662&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "86f3681e",
-      "cat": "tecnologia",
-      "title": "Conselho de jurisdição do Vitória de Guimarães valida eleições de sábado",
-      "summary": "O conselho de jurisdição do Vitória de Guimarães declarou hoje válidas as eleições do clube da I Liga portuguesa de futebol, realizadas no sábado, após o pedido de averiguação de irregularidades por parte da lista de Viriato Sampaio.",
-      "source": "RTP",
-      "date": "Wed, 17 Jun 2026 23:21:30 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/conselho-de-jurisdicao-do-vitoria-de-guimaraes-valida-eleicoes-de-sabado_d1747759",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "f577a5dd",
-      "cat": "tecnologia",
-      "title": "Depois da Polónia, Chipre recebe os primeiros 177,2 milhões do SAFE",
-      "summary": "O Chipre recebeu o primeiro pagamento de 177,2 milhões de euros do SAFE, referente a 15% da fatia de 1,2 mil milhões de euros garantida pelo país no âmbito do empréstimo europeu para compras de equipamento militar. Depois da Polónia, é o segundo Estado-Membro a receber o primeiro cheque. “O pré-fina",
+      "title": "SNS vai comparticipar fisioterapia remota com IA da Sword",
+      "summary": "A Sword Health, &#8216;unicórnio&#8217; português, anunciou esta quinta-feira a assinatura de uma parceria com o Serviço Nacional de Saúde (SNS) para disponibilizar fisioterapia remota com inteligência artificial (IA) em todos os Hospitais e Centros de Saúde do setor público, sem quaisquer custos pa",
       "source": "ECO",
-      "date": "Thu, 18 Jun 2026 10:32:25 +0000",
-      "url": "https://eco.sapo.pt/2026/06/18/depois-da-polonia-chipre-recebe-os-primeiros-1772-milhoes-do-safe/",
-      "img": "https://eco.imgix.net/uploads/2026/01/cropped-p064828-242303.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7d18ae56",
-      "cat": "tecnologia",
-      "title": "Oitante dá 10 milhões em dividendos ao Fundo de Resolução após lucrar 20 milhões em 2025",
-      "summary": "A Oitante lucrou 20,3 milhões de euros em 2025, menos 22,5% em relação ao ano anterior, e prepara-se para entregar metade desse resultado ao seu acionista, o Fundo de Resolução. Mas o dividendo poderá ser mais alto, segundo anunciou o veículo que gere os ativos que eram do Banif e que o Santander nã",
-      "source": "ECO",
-      "date": "Thu, 18 Jun 2026 10:30:59 +0000",
-      "url": "https://eco.sapo.pt/2026/06/18/oitante-da-10-milhoes-em-dividendos-ao-fundo-de-resolucao-apos-lucrar-20-milhoes-em-2025/",
-      "img": "https://eco.imgix.net/uploads/2021/07/cropped-banif_lusa.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "082498ae",
-      "cat": "tecnologia",
-      "title": "Greve nas escolas encerra alguns estabelecimentos mas não afeta exames nacionais",
-      "summary": "A greve nacional da educação encerrou esta quinta-feira algumas escolas, em especial no norte do país, segundo um primeiro balanço do sindicato que convocou a paralisação de protesto contra a reforma laboral do Governo. &#8220;Neste momento sabemos que a norte há bastantes escolas a fechar, mas aind",
-      "source": "ECO",
-      "date": "Thu, 18 Jun 2026 10:23:14 +0000",
-      "url": "https://eco.sapo.pt/2026/06/18/greve-nas-escolas-encerra-alguns-estabelecimentos-mas-nao-afeta-exames-nacionais/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-19933296-scaled-1.jpg",
+      "date": "Thu, 18 Jun 2026 15:35:43 +0000",
+      "url": "https://eco.sapo.pt/2026/06/18/sns-vai-comparticipar-fisioterapia-remota-com-ia-da-sword/",
+      "img": "https://eco.imgix.net/uploads/2026/06/sword-health-sns-pr-image-01.jpg",
       "score": 0.73
     },
     {
@@ -231,17 +242,6 @@
       "date": "Wed, 17 Jun 2026 21:00:04 +0000",
       "url": "https://www.goodnewsnetwork.org/swedens-breathtaking-new-train-ride-to-oslo-passes-by-best-of-countrys-landscape/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/apeloga-harbour_in_kullaberg-6179-e1781690222667.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "24aad0d2",
-      "cat": "tecnologia",
-      "title": "‘Um pequeno herói’ salva sua amiga de um afogamento e de uma convulsão",
-      "summary": "Uma menina de 12 anos foi rotulada de heroína depois de salvar sua amiga do afogamento com nada mais do que um punhado de cabelo para segurar. O angustiante encontro com Davy Jones chega até nós agora de Conwy, País de Gales, onde Tamika e sua amiga Sofia-Ann estavam nadando na praia de Pensarn durante um calor do final de maio.",
-      "source": "Good News Network",
-      "date": "Wed, 17 Jun 2026 13:00:38 +0000",
-      "url": "https://www.goodnewsnetwork.org/a-little-hero-saves-her-friend-from-both-drowning-and-a-seizure/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Tamika-right-and-her-friend-Sofia-Ann-left-whom-she-saved-from-drowning-credit-Jade-McKenna-supplied-to-the-BBC.jpg",
       "score": 0.73
     },
     {
@@ -289,47 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "da55c601",
+      "id": "e8d82331",
       "cat": "tecnologia",
-      "title": "Toy Story 5 , Magalhães e outras estreias para esta semana",
-      "summary": "Para além do regresso de Toy Story e da aventura do navegador português, há ainda lugar para uma releitura de Robin Hood e para uma comédia francesa sobre os desafios do amor.",
+      "title": "O Parlamento português prepara-se para institucionalizar a transfobia",
+      "summary": "Ignorar especialistas, ordens profissionais e a ciência, não é uma casualidade, é uma escolha política. Opinião de Pedro Alexandre Costa",
       "source": "Público",
-      "date": "Thu, 18 Jun 2026 10:00:00 GMT",
-      "url": "https://www.publico.pt/2026/06/18/culturaipsilon/noticia/toy-story-5-magalhaes-estreias-semana-2177954",
-      "img": "https://imagens.publico.pt/imagens.aspx/2095034?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
+      "date": "Thu, 18 Jun 2026 15:00:00 GMT",
+      "url": "https://www.publico.pt/2026/06/18/opiniao/opiniao/parlamento-portugues-preparase-institucionalizar-transfobia-2178530",
+      "img": "https://imagens.publico.pt/imagens.aspx/2074730?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "4749d2c1",
+      "id": "01393b73",
       "cat": "tecnologia",
-      "title": "Rede de urgências vai ser revista e deve prever mais urgências centralizadas",
-      "summary": "Grupo de trabalho para apresentar proposta de actualização da rede nacional de urgência e emergência tem mandato de um ano.",
+      "title": "Lil Nas X revela diagnótico de bipolaridade depois de vários meses em reabilitação",
+      "summary": "“Sinto que já sabia disso há uns anos, mas não queria admitir porque não queria ter de tomar medicação”, confessou o artista de Old Town Road .",
       "source": "Público",
-      "date": "Thu, 18 Jun 2026 09:09:00 GMT",
-      "url": "https://www.publico.pt/2026/06/18/sociedade/noticia/rede-urgencias-vai-revista-prever-urgencias-centralizadas-2178495",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096099?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Thu, 18 Jun 2026 14:58:16 GMT",
+      "url": "https://www.publico.pt/2026/06/18/impar/noticia/lil-x-revela-diagnotico-bipolaridade-varios-meses-reabilitacao-2178670",
+      "img": "https://imagens.publico.pt/imagens.aspx/2096577?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Impar.png",
       "score": 0.7
     },
     {
-      "id": "99acbae1",
+      "id": "f65a576d",
       "cat": "tecnologia",
-      "title": "10h. PS volta a propor Luísa Neto para provedora de justiça",
-      "summary": "PS e PSD querem que votação decorra no dia 3 de julho. Ainda neste jornal, Governo e Chega admitem negociar a lei laboral até depois do inicio do debate no Parlamento.",
+      "title": "PSP do Porto diz estar a tentar perceber queixas da DCI",
+      "summary": "Sindicato convocou concentração para 13 de julho. Polícias da DIC do Porto acusam comando de os obrigar a piquetes e prevenções sem compensação.",
       "source": "Observador",
-      "date": "Thu, 18 Jun 2026 10:14:44 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2380/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Thu, 18 Jun 2026 16:33:28 +0100",
+      "url": "https://observador.pt/2026/06/18/comando-da-psp-do-porto-diz-estar-a-tentar-perceber-queixas-dos-agentes-da-dic/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/02174702/39072053.jpg",
       "score": 0.7
     },
     {
-      "id": "82506a32",
+      "id": "a040f431",
       "cat": "tecnologia",
-      "title": "Piadas sem muita piada",
-      "summary": "Gasta metade do salário em impostos, a outra metade a comprar serviços privados que o Governo havia prometido e, no fim, culpa o capitalismo e pede ainda mais governo.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 18 Jun 2026 11:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/jose-bento-da-silva/detalhe/piadas-sem-muita-piada",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-01/img_394x514uu2025-01-20-11-09-32-494297.png",
+      "title": "Israel insiste em não sair do Líbano",
+      "summary": "Apesar do memorando assinado, Israel não recua e diz que tropas \"continuarão a reforçar a defesa dos residentes no norte de Israel\". Nova ronda de negociação com o Líbano decorre na próxima semana.",
+      "source": "Observador",
+      "date": "Thu, 18 Jun 2026 16:26:40 +0100",
+      "url": "https://observador.pt/2026/06/18/israel-insiste-que-nao-se-retirara-das-zonas-ocupadas-no-libano/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/18125708/47306158.jpg",
       "score": 0.7
     }
   ]
