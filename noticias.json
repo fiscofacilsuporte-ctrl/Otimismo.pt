@@ -1,5 +1,5 @@
 {
-  "last_update": "20/06/2026 09:31 UTC",
+  "last_update": "20/06/2026 14:21 UTC",
   "total": 30,
   "news": [
     {
@@ -80,6 +80,17 @@
       "score": 0.76
     },
     {
+      "id": "58e0e60e",
+      "cat": "tecnologia",
+      "title": "Proteger as pessoas, não os empregos",
+      "summary": "Na sexta-feira, a Assembleia da República chumbou na generalidade a revisão da lei laboral proposta pelo Governo. Votaram a favor apenas o PSD, o CDS e a Iniciativa Liberal; contra, o Chega e toda a esquerda (PS, Livre, PCP, BE, PAN, JPP). O acordo entre o PSD e o Chega, que daria a maioria, caiu [&",
+      "source": "ECO",
+      "date": "Sat, 20 Jun 2026 12:56:12 +0000",
+      "url": "https://eco.sapo.pt/opiniao/proteger-as-pessoas-nao-os-empregos/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2018/10/pedro-santa-clara_xl.png",
+      "score": 0.76
+    },
+    {
       "id": "15a20d62",
       "cat": "tecnologia",
       "title": "Tratamento revolucionário cura queimaduras de 3º grau no rosto do primeiro receptor humano do mundo",
@@ -135,47 +146,69 @@
       "score": 0.76
     },
     {
-      "id": "69a8f585",
-      "cat": "tecnologia",
-      "title": "A Alemanha entrou com estrondo no Mundial. É para levar a sério?",
-      "summary": "Depois de uma goleada ao pequeno e estreante Curaçau, a “ Mannschaft ” vai ter um jogo de dificuldade maior com a Costa do Marfim. Voltaram a ser candidatos ao título?",
+      "id": "5df59c87",
+      "cat": "ciencia",
+      "title": "O direito de deambular na natureza",
+      "summary": "Confesso que apenas recentemente percebi o quão ingénua tenho sido ao pensar que Portugal era um caso positivo de direitos de acesso ao espaço rural. Opinião de Diana Feliciano",
       "source": "Público",
-      "date": "Sat, 20 Jun 2026 08:25:00 GMT",
-      "url": "https://www.publico.pt/2026/06/20/desporto/noticia/alemanha-entrou-estrondo-mundial-levar-serio-2178849",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096873?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 20 Jun 2026 14:03:00 GMT",
+      "url": "https://www.publico.pt/2026/06/20/opiniao/opiniao/direito-deambular-natureza-2178536",
+      "img": "https://imagens.publico.pt/imagens.aspx/1897886?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "6dfca62c",
+      "id": "c6ace153",
       "cat": "tecnologia",
-      "title": "Maioria acredita que Passos já não tem futuro político em Portugal",
-      "summary": "Antigo primeiro-ministro tem estado mais exposto nos últimos meses com intervenções críticas do Governo e do PSD a um ritmo quase semanal, mas um regresso à política ativa não é bem visto pela maioria dos portugueses.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 20 Jun 2026 09:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/maioria-acredita-que-passos-ja-nao-tem-futuro-politico-em-portugal",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-06-14-42-16-519793.jpg",
+      "title": "Turquia, a primeira grande desilusão do Mundial",
+      "summary": "Era uma espécie de “favorito secreto” para muita gente, mas duas derrotas em dois jogos sem ter marcado um único golo ditaram a (má) sorte da equipa de Vicenzo Montella.",
+      "source": "Público",
+      "date": "Sat, 20 Jun 2026 12:21:05 GMT",
+      "url": "https://www.publico.pt/2026/06/20/desporto/noticia/turquia-primeira-desilusao-mundial-2178917",
+      "img": "https://imagens.publico.pt/imagens.aspx/2096984?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "0c603b53",
-      "cat": "economia",
-      "title": "Ventura diz que tentou consenso \"até à última\" e recusa \"cálculo político\" no chumbo da lei laboral",
-      "summary": "A proposta de lei para rever a lei laboral não passou no Parlamento, com o Chega a votar contra, juntamente com a esquerda parlamentar, depois de não ter chegado a acordo com o Governo. Ventura diz rejeitar que a reforma \"possa transformar-se num instrumento de perseguição sobre quem trabalha e dest",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 19 Jun 2026 21:13:43 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ventura-diz-que-tentou-consenso-ate-a-ultima-e-recusa-calculo-politico-no-chumbo-da-lei-laboral",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-10-17-19-03-523350.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "228add82",
+      "id": "891b90ca",
       "cat": "tecnologia",
-      "title": "Goldman corta em 500 dólares projeção para preço do ouro",
-      "summary": "Analistas do banco norte-americano já não veem um corte de juros pela Fed este ano, o que leva a que revejam em baixa a estimativa para a cotação do metal amarelo. Ainda assim, o novo \"target\", de 4.900 dólares, é superior ao preço atual.",
+      "title": "Dua Lipa. E a noiva vestiu alta-costura Chanel",
+      "summary": "Depois da cerimónia civil, e da grande festa siciliana, a cantora partilhou as primeiras imagens do vestido de noiva, a primeira grande criação de Matthieu Blazy para a Chanel.",
+      "source": "Observador",
+      "date": "Sat, 20 Jun 2026 14:08:19 +0100",
+      "url": "https://observador.pt/2026/06/20/e-a-noiva-vestiu-chanel-dua-lipa-e-callum-turner-partilham-fotos-do-casamento-na-sicilia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1662:936:nowe:474:198/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/25120005/gettyimages-2266938856.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "b315e7a5",
+      "cat": "tecnologia",
+      "title": "Mette-Marit: da vida turbulenta ao transplante arriscado",
+      "summary": "Com prognóstico de menos de um ano de vida, a princesa herdeira da Noruega foi finalmente operada ao pulmão. Com um passado polémico, a recuperação difícil é mais uma pedra no caminho ao trono.",
+      "source": "Observador",
+      "date": "Sat, 20 Jun 2026 13:28:20 +0100",
+      "url": "https://observador.pt/especiais/mette-marit-o-passado-com-drogas-o-filho-condenado-o-escandalo-epstein-e-o-transplante-que-ameaca-o-trono/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:186/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/27115358/gettyimages-2267702880-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "a62f8712",
+      "cat": "tecnologia",
+      "title": "O que muda nos direitos dos passageiros aéreos?",
+      "summary": "Ao fim de 12 anos, o Conselho da União Europeia e o Parlamento Europeu chegaram a um acordo sobre a revisão dos direitos dos passageiros aéreos. As novas regras entram em vigor no próximo ano. O explicador diz-lhe o que muda.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 19 Jun 2026 20:36:54 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/goldman-corta-em-500-dolares-projecao-para-preco-do-ouro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-01-07-31-09-524616.jpg",
+      "date": "Sat, 20 Jun 2026 15:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/o-que-muda-nos-direitos-dos-passageiros-aereos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-17-14-57-16-525287.png",
+      "score": 0.73
+    },
+    {
+      "id": "7ab33e72",
+      "cat": "tecnologia",
+      "title": "SNPVAC: chumbo da lei laboral é \"vitória dos trabalhadores\" e derrota para a ministra",
+      "summary": "O chumbo, no Parlamento, do pacote laboral proposto pelo Governo representa \"uma vitória dos trabalhadores\" e uma derrota para o Governo, \"especialmente para a ministra do Trabalho\".",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 20 Jun 2026 11:23:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/snpvac-chumbo-da-lei-laboral-e-vitoria-dos-trabalhadores-e-derrota-para-a-ministra",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-10/img_100x100uu2023-10-26-23-50-59-463192.jpg",
       "score": 0.73
     },
     {
@@ -201,25 +234,14 @@
       "score": 0.73
     },
     {
-      "id": "038f3abc",
+      "id": "d97d612f",
       "cat": "tecnologia",
-      "title": "Montenegro abre hoje o congresso do PSD um dia após “chumbo” do pacote laboral",
-      "summary": "O presidente do PSD e primeiro-ministro abre hoje o 43.º Congresso do partido, que se realiza em Anadia (Aveiro), um dia depois de o Chega ter rejeitado a proposta de lei laboral que o Governo classificava como decisiva. Tanto o primeiro-ministro, Luís Montenegro, como o líder parlamentar Hugo Soare",
+      "title": "PS considera “ridículas” insinuações sobre coligação com o Chega",
+      "summary": "O secretário-geral do PS, José Luís Carneiro, classificou hoje como “ridículas” as alegadas insinuações do PSD sobre uma coligação entre socialistas e o Chega, acusando a direita de esconder um acordo para cortar pensões. À margem da Rota pela Economia do Mar na Póvoa de Varzim, distrito do Porto, o",
       "source": "ECO",
-      "date": "Sat, 20 Jun 2026 09:12:23 +0000",
-      "url": "https://eco.sapo.pt/2026/06/20/montenegro-abre-hoje-o-congresso-do-psd-um-dia-apos-chumbo-do-pacote-laboral/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47204742-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8e27c1a4",
-      "cat": "tecnologia",
-      "title": "Ministra justifica PSU com ineficácia de Portugal na redução da pobreza através de apoios sociais",
-      "summary": "A ministra do Trabalho, Solidariedade e Segurança Social afirmou esta sexta-feira que Portugal tem a menor eficácia da União Europeia na redução da pobreza através dos apoios sociais, apelando ao parlamento que aprove a proposta de Prestação Social Única. A ser ouvida na comissão parlamentar de Trab",
-      "source": "ECO",
-      "date": "Fri, 19 Jun 2026 20:35:52 +0000",
-      "url": "https://eco.sapo.pt/2026/06/19/ministra-justifica-psu-com-ineficacia-de-portugal-na-reducao-da-pobreza-atraves-de-apoios-sociais/",
-      "img": "https://eco.imgix.net/uploads/2025/11/cropped-doc2025072445378110-aps0803.jpg",
+      "date": "Sat, 20 Jun 2026 12:51:59 +0000",
+      "url": "https://eco.sapo.pt/2026/06/20/ps-considera-ridiculas-insinuacoes-sobre-coligacao-com-o-chega/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc2026061947315359jc02110781.jpg",
       "score": 0.73
     },
     {
@@ -278,58 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "6ebb45dd",
+      "id": "29d6e4ae",
       "cat": "tecnologia",
-      "title": "Israel ataca o Líbano pouco depois da trégua, EUA marcam negociações em Washington",
-      "summary": "A viagem diplomática de Vance à Suíça foi cancelada, mas Kushner e Witkoff terão embarcado para negociar com Teerão. Situação de Israel e Líbano é discutida em Washington nesta semana.",
+      "title": "“Capital não é dinheiro, é permissão”: empreendedoras brasileiras debatem o futuro",
+      "summary": "Em Aveiro, empreendedoras brasileiras e internacionais debateram sobre desafios enfrentados por negócios liderados por mulheres e o que seria preciso para mudar.",
       "source": "Público",
-      "date": "Sat, 20 Jun 2026 08:45:15 GMT",
-      "url": "https://www.publico.pt/2026/06/20/mundo/noticia/israel-ataca-libano-tregua-eua-marcam-negociacoes-washington-2178899",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096969?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 20 Jun 2026 13:38:24 GMT",
+      "url": "https://www.publico.pt/2026/06/20/publico-brasil/noticia/capital-nao-dinheiro-permissao-empreendedoras-brasileiras-debatem-futuro-2178913",
+      "img": "https://imagens.publico.pt/imagens.aspx/2096979?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Brasil.png",
       "score": 0.7
     },
     {
-      "id": "5181f796",
-      "cat": "cultura",
-      "title": "Em Estremoz, o festival Ciência na Rua é este sábado com dezenas de cientistas e artistas",
-      "summary": "Muitos espectáculos, de teatro a marionetas e circo, vão invadir o centro de Estremoz. Ao mesmo tempo, os cientistas estarão envolvidos em muitas experiências para o público geral. É a partir das 16h.",
-      "source": "Público",
-      "date": "Sat, 20 Jun 2026 08:00:00 GMT",
-      "url": "https://www.publico.pt/2026/06/20/ciencia/noticia/estremoz-festival-ciencia-rua-sabado-dezenas-cientistas-artistas-2178886",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096923?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.7
-    },
-    {
-      "id": "a71ca1d4",
+      "id": "a01af33b",
       "cat": "tecnologia",
-      "title": "As notícias das 10h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Clara Usón e o trauma dos anos de chumbo da ETA",
+      "summary": "Romance híbrido, com várias vozes, “As Feras”, de Clara Usón, faz um retrato da época mais negra da atuação da organização terrorista basca e do seu impacto na vida daqueles que a viveram.",
       "source": "Observador",
-      "date": "Sat, 20 Jun 2026 10:14:19 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2382/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 20 Jun 2026 14:29:15 +0100",
+      "url": "https://observador.pt/2026/06/20/clara-uson-e-o-trauma-dos-anos-de-chumbo-da-eta/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:854:480:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/18181920/clara-uson.jpg",
       "score": 0.7
     },
     {
-      "id": "7a802d3e",
-      "cat": "saude",
-      "title": "Republica Dominicana. Incêndio em resort mata uma mulher",
-      "summary": "Hóspedes do hotel em que deflagrou incêndio de grandes dimensões foram realojados em unidades próximas. Uma mulher morreu e três pessoas tiveram de ser hospitalizadas.",
-      "source": "Observador",
-      "date": "Sat, 20 Jun 2026 10:09:52 +0100",
-      "url": "https://observador.pt/2026/06/20/uma-mulher-morre-e-1-700-pessoas-tem-de-ser-retiradas-de-resort-de-luxo-na-republica-dominicana-devido-a-incendio-de-grandes-dimensoes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1020:574:nowe:0:442/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20100729/captura-de-ecra-2026-06-20-as-100716.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "2cefa50e",
+      "id": "59b2af41",
       "cat": "tecnologia",
-      "title": "“Party in the USA!”. Brasil já samba. Ronaldo “focus”",
-      "summary": "Enquanto Portugal prepara o duelo com o Uzbequistão, Ronaldo volta à deixar mensagem nas redes sociais e Rúben Dias afasta \"ruído\". Os EUA vencem e já estão apurados. O Brasil ganha ao Haiti.",
-      "source": "Observador",
-      "date": "Sat, 20 Jun 2026 10:08:13 +0100",
-      "url": "https://observador.pt/programas/diario-do-mundial/party-in-the-usa-brasil-ja-samba-ronaldo-focus/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12112515/770-podcastdiario-mundi.jpg",
+      "title": "Isabella: a história de uma família italiana à mesa",
+      "summary": "No coração do Chiado, o novo restaurante homenageia a história de uma família italiana que se instalou em Lisboa há mais de um século. O trineto recupera a memória onde a arquitetura e a gastronomia se encontram.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 20 Jun 2026 13:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/isabella-a-historia-de-uma-familia-italiana-a-mesa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-19-07-45-00-525393.jpg",
       "score": 0.7
     }
   ]
