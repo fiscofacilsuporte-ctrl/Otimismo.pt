@@ -1,5 +1,5 @@
 {
-  "last_update": "20/06/2026 14:21 UTC",
+  "last_update": "20/06/2026 19:48 UTC",
   "total": 30,
   "news": [
     {
@@ -12,17 +12,6 @@
       "url": "https://www.positive.news/environment/corporate-courage-how-cross-sector-talent-is-powering-renewables-innovation/",
       "img": "https://www.positive.news/wp-content/uploads/2026/06/AltCurrents_06_LynneMcIntoshG_WebHeader_03_v2.jpg",
       "score": 0.82
-    },
-    {
-      "id": "f294900e",
-      "cat": "tecnologia",
-      "title": "Rui Rodrigues vê “sucesso desportivo” como ‘motor’ do Vitória de Guimarães",
-      "summary": "O novo presidente do Vitória de Guimarães, Rui Rodrigues, afirmou hoje que o “sucesso desportivo” é a maior prioridade do mandato para o qual tomou hoje posse e assumiu o crescimento da vertente feminina do futebol como objetivo.",
-      "source": "RTP",
-      "date": "Fri, 19 Jun 2026 23:02:07 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/rui-rodrigues-ve-sucesso-desportivo-como-motor-do-vitoria-de-guimaraes_d1748254",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.79
     },
     {
       "id": "2b4485bf",
@@ -58,6 +47,17 @@
       "score": 0.79
     },
     {
+      "id": "9d183257",
+      "cat": "ciencia",
+      "title": "A linguagem secreta por trás da cooperação animal",
+      "summary": "Animais de espécies diferentes muitas vezes dependem de uma comunicação surpreendentemente sofisticada para trabalharem juntos, seja para encontrar comida, limpar parasitas ou obter proteção. Novas pesquisas sugerem que essas “conversas” entre espécies são flexíveis, evoluídas e muito mais importantes para a vida na natureza do que para a ciência.",
+      "source": "ScienceDaily",
+      "date": "Sat, 20 Jun 2026 01:23:46 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260619101328.htm",
+      "img": "https://www.sciencedaily.com/images/1920/mongoose-warthog-cooperation.webp",
+      "score": 0.79
+    },
+    {
       "id": "cb65681f",
       "cat": "tecnologia",
       "title": "Cientistas reprogramam células imunológicas cerebrais para combater o Alzheimer",
@@ -69,25 +69,14 @@
       "score": 0.79
     },
     {
-      "id": "c56fe004",
+      "id": "70c097a8",
       "cat": "tecnologia",
-      "title": "Brasil vence Haiti e aproxima-se da fase a eliminar",
-      "summary": "O pentacampeão Brasil conseguiu o primeiro triunfo no Mundial de futebol de 2026, ao vencer o Haiti por 3-0, em encontro da segunda jornada do Grupo C, disputado em Filadélfia.",
+      "title": "Mundial 2026. Países Baixos - Suécia",
+      "summary": "Dois golos de Brian Brobbey logo no início, mais dois na segunda parte por Cody Gakpo e um golo no final de Crysencio Summerville ajudaram os Países Baixos a conquistar uma impressionante vitória por 5-1 sobre a Suécia neste Mundial.",
       "source": "RTP",
-      "date": "Sat, 20 Jun 2026 01:14:59 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/brasil-vence-haiti-e-aproxima-se-da-fase-a-eliminar_e1748262",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc2ae97ae29bd3be5f5a65b192a0ec81?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "58e0e60e",
-      "cat": "tecnologia",
-      "title": "Proteger as pessoas, não os empregos",
-      "summary": "Na sexta-feira, a Assembleia da República chumbou na generalidade a revisão da lei laboral proposta pelo Governo. Votaram a favor apenas o PSD, o CDS e a Iniciativa Liberal; contra, o Chega e toda a esquerda (PS, Livre, PCP, BE, PAN, JPP). O acordo entre o PSD e o Chega, que daria a maioria, caiu [&",
-      "source": "ECO",
-      "date": "Sat, 20 Jun 2026 12:56:12 +0000",
-      "url": "https://eco.sapo.pt/opiniao/proteger-as-pessoas-nao-os-empregos/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2018/10/pedro-santa-clara_xl.png",
+      "date": "Sat, 20 Jun 2026 21:02:49 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/mundial-2026-paises-baixos-suecia_e1748403",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/4a/4ae43308f37984b695b4b7fcd9f9b072?w=350&amp;q=50&amp;rect=0,179,4667,2559&amp;auto=format",
       "score": 0.76
     },
     {
@@ -124,17 +113,6 @@
       "score": 0.76
     },
     {
-      "id": "802af190",
-      "cat": "ciencia",
-      "title": "Carimbos de data e hora do DNA revelam as origens surpreendentes do morango",
-      "summary": "Os pesquisadores criaram uma nova maneira de reconstruir a história evolutiva de genomas vegetais complexos, analisando vestígios genéticos deixados por elementos transponíveis. A técnica revelou que os morangos modernos foram montados através de vários eventos antigos de fusão de genomas, lançando uma nova luz sobre como os majo",
-      "source": "ScienceDaily",
-      "date": "Fri, 19 Jun 2026 01:27:46 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260618041515.htm",
-      "img": "https://www.sciencedaily.com/images/1920/juicy-red-strawberries.webp",
-      "score": 0.76
-    },
-    {
       "id": "4782028c",
       "cat": "tecnologia",
       "title": "Serviços bancários como se o planeta dependesse disso",
@@ -146,47 +124,91 @@
       "score": 0.76
     },
     {
-      "id": "5df59c87",
-      "cat": "ciencia",
-      "title": "O direito de deambular na natureza",
-      "summary": "Confesso que apenas recentemente percebi o quão ingénua tenho sido ao pensar que Portugal era um caso positivo de direitos de acesso ao espaço rural. Opinião de Diana Feliciano",
+      "id": "3cd5ac69",
+      "cat": "tecnologia",
+      "title": "A Suécia, depois de golear, foi goleada",
+      "summary": "Países Baixos derrotaram de forma indiscutível a selecção escandinava, que fica com a vida complicada para ficar num dos dois primeiros lugares do grupo F.",
       "source": "Público",
-      "date": "Sat, 20 Jun 2026 14:03:00 GMT",
-      "url": "https://www.publico.pt/2026/06/20/opiniao/opiniao/direito-deambular-natureza-2178536",
-      "img": "https://imagens.publico.pt/imagens.aspx/1897886?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 20 Jun 2026 18:56:53 GMT",
+      "url": "https://www.publico.pt/2026/06/20/desporto/cronica_de_jogo/suecia-golear-goleada-2178941",
+      "img": "https://imagens.publico.pt/imagens.aspx/2097079?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "c6ace153",
+      "id": "25f1ef34",
       "cat": "tecnologia",
-      "title": "Turquia, a primeira grande desilusão do Mundial",
-      "summary": "Era uma espécie de “favorito secreto” para muita gente, mas duas derrotas em dois jogos sem ter marcado um único golo ditaram a (má) sorte da equipa de Vicenzo Montella.",
+      "title": "Ameaça terrorista: Luís Neves diz que “houve uma falha” ao não avisar o gabinete do primeiro-ministro",
+      "summary": "Ministro da Administração Interna era director da Judiciária quando a operação Desarme 3D teve lugar e admite que quando houve dados novos “a comunicação poderia e deveria ter sido diferente”.",
       "source": "Público",
-      "date": "Sat, 20 Jun 2026 12:21:05 GMT",
-      "url": "https://www.publico.pt/2026/06/20/desporto/noticia/turquia-primeira-desilusao-mundial-2178917",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096984?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 20 Jun 2026 17:45:18 GMT",
+      "url": "https://www.publico.pt/2026/06/20/sociedade/noticia/ameaca-terrorista-luis-neves-falha-nao-avisar-gabinete-primeiroministro-2178935",
+      "img": "https://imagens.publico.pt/imagens.aspx/2097081?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "891b90ca",
-      "cat": "tecnologia",
-      "title": "Dua Lipa. E a noiva vestiu alta-costura Chanel",
-      "summary": "Depois da cerimónia civil, e da grande festa siciliana, a cantora partilhou as primeiras imagens do vestido de noiva, a primeira grande criação de Matthieu Blazy para a Chanel.",
-      "source": "Observador",
-      "date": "Sat, 20 Jun 2026 14:08:19 +0100",
-      "url": "https://observador.pt/2026/06/20/e-a-noiva-vestiu-chanel-dua-lipa-e-callum-turner-partilham-fotos-do-casamento-na-sicilia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1662:936:nowe:474:198/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/25120005/gettyimages-2266938856.jpg",
+      "id": "20641cb8",
+      "cat": "cultura",
+      "title": "Muitos mundos num só mundo: eis o FEST 2026",
+      "summary": "Com Cartas Amarelas , Urso de Ouro de Berlim e um dos “casos” do ano, a abrir, o festival de Espinho conhecido pelo seu programa de indústria propõe uma intrigante selecção competitiva.",
+      "source": "Público",
+      "date": "Sat, 20 Jun 2026 17:09:00 GMT",
+      "url": "https://www.publico.pt/2026/06/20/culturaipsilon/noticia/mundos-so-mundo-eis-fest-2026-2178897",
+      "img": "https://imagens.publico.pt/imagens.aspx/2096963?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
       "score": 0.73
     },
     {
-      "id": "b315e7a5",
-      "cat": "tecnologia",
-      "title": "Mette-Marit: da vida turbulenta ao transplante arriscado",
-      "summary": "Com prognóstico de menos de um ano de vida, a princesa herdeira da Noruega foi finalmente operada ao pulmão. Com um passado polémico, a recuperação difícil é mais uma pedra no caminho ao trono.",
+      "id": "e5cfd1dd",
+      "cat": "cultura",
+      "title": "40 segundos a coroar o ano inteiro: Benfica sagra-se campeão",
+      "summary": "Depois de uma primeira parte \"morna\", golos de João Rodrigues e Viti no último minuto antes do intervalo desequilibraram em definitivo jogo 3 da final, que carimbou o título com invencibilidade (3-1).",
       "source": "Observador",
-      "date": "Sat, 20 Jun 2026 13:28:20 +0100",
-      "url": "https://observador.pt/especiais/mette-marit-o-passado-com-drogas-o-filho-condenado-o-escandalo-epstein-e-o-transplante-que-ameaca-o-trono/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:186/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/27115358/gettyimages-2267702880-scaled.jpg",
+      "date": "Sat, 20 Jun 2026 16:32:33 +0100",
+      "url": "https://observador.pt/2026/06/20/40-segundos-a-coroar-o-ano-inteiro-benfica-vence-sporting-quebra-jejum-de-titulos-e-conquista-25-o-campeonato/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20155925/benfica-hoquei-em-patins.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "9267a928",
+      "cat": "tecnologia",
+      "title": "Castro Almeida: \"Montenegro resistiu à cenoura do Chega\"",
+      "summary": "O ministro da Economia e da Coesão Territorial elogia o primeiro-ministro por não ter cedido ao Chega na descida da idade da reforma e diz que o partido de Ventura \"não é confiável\".",
+      "source": "Observador",
+      "date": "Sat, 20 Jun 2026 16:00:24 +0100",
+      "url": "https://observador.pt/programas/emissao-especial/castro-almeida-montenegro-resistiu-a-cenoura-do-chega/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20124556/jporfirio-congresso-psd-anadia-dia1-20-06-03-3-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "06bc0c8d",
+      "cat": "tecnologia",
+      "title": "Montenegro: \"Para dizer mal de tudo não é preciso coragem\"",
+      "summary": "O presidente do PSD e primeiro-ministro respondeu ao chumbo da reforma laboral criticando o Chega por \"não ousar\" mudar e ser \"teleguiado\" pelas sondagens e pelas redes sociais.",
+      "source": "Observador",
+      "date": "Sat, 20 Jun 2026 15:53:22 +0100",
+      "url": "https://observador.pt/programas/emissao-especial/montenegro-para-dizer-mal-de-tudo-nao-e-preciso-coragem/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3014:1694:nowe:0:157/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/20120412/jporfirio-congresso-psd-anadia-dia1-20-06-01-38.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "fc68a20c",
+      "cat": "tecnologia",
+      "title": "Portugal no top 3 no índice de turismo gastronómico que \"deixa de lado quem é mais famoso\"",
+      "summary": "Seis indicadores avaliados pela Associação Mundial de Turismo Gastronómico colocam Itália no trono. O índice quer distinguir \"popularidade e maturidade\" e enaltece a prontidão de quem quer apoiar o desenvolvimento do turismo gastronómico sustentável.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 20 Jun 2026 18:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/portugal-no-top-3-no-indice-de-turismo-gastronomico-que-deixa-de-lado-quem-e-mais-famoso",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-02/img_100x100uu2024-02-19-20-09-15-470880.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "b35467b4",
+      "cat": "tecnologia",
+      "title": "Explicador: Os direitos dos passageiros aéreos",
+      "summary": "Ao fim de 12 anos, o Conselho da União Europeia e o Parlamento Europeu chegaram a um acordo sobre a revisão dos direitos dos passageiros aéreos. As novas regras entram em vigor no próximo ano. O explicador diz-lhe o que muda.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 20 Jun 2026 18:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-os-direitos-dos-passageiros-aereos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-17-14-57-16-525287.png",
       "score": 0.73
     },
     {
@@ -201,17 +223,6 @@
       "score": 0.73
     },
     {
-      "id": "7ab33e72",
-      "cat": "tecnologia",
-      "title": "SNPVAC: chumbo da lei laboral é \"vitória dos trabalhadores\" e derrota para a ministra",
-      "summary": "O chumbo, no Parlamento, do pacote laboral proposto pelo Governo representa \"uma vitória dos trabalhadores\" e uma derrota para o Governo, \"especialmente para a ministra do Trabalho\".",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 20 Jun 2026 11:23:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/snpvac-chumbo-da-lei-laboral-e-vitoria-dos-trabalhadores-e-derrota-para-a-ministra",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-10/img_100x100uu2023-10-26-23-50-59-463192.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -223,25 +234,47 @@
       "score": 0.73
     },
     {
-      "id": "ead31678",
+      "id": "1da22e4c",
       "cat": "tecnologia",
-      "title": "Paraguai vence e elimina Turquia",
-      "summary": "O Paraguai somou hoje os primeiros pontos no Mundial de futebol de 2026, ao vencer por 1-0 a Turquia, que ficou eliminada, em encontro da segunda jornada do Grupo D, em Santa Clara, nos Estados Unidos.",
+      "title": "Mundial 2026. Alemanhã - Costa do Marfim",
+      "summary": "Alemanha e Costa do Marfim entram entram esta noite no Estádio de Toronto para um dos duelos mais promissores da segunda jornada do Grupo E do Mundial 2026, depois de ambas terem arrancado a fase final com uma vitória. O confronto, que opõe a experiência alemã à irreverência africana, poderá desde j",
       "source": "RTP",
-      "date": "Sat, 20 Jun 2026 09:03:22 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/paraguai-vence-e-elimina-turquia_e1748295",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/2c/2cf653467a55ecf44fa8bd38ae780e23?w=350&amp;q=50&amp;rect=0,129,1500,822&amp;auto=format",
+      "date": "Sat, 20 Jun 2026 20:00:27 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/mundial-2026-alemanha-costa-do-marfim_e1748404",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/95/9547c22d0a8f079cdd13bcf227b0ebe5?w=350&amp;q=50&amp;rect=0,37,4440,2434&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "d97d612f",
+      "id": "daf5c810",
       "cat": "tecnologia",
-      "title": "PS considera “ridículas” insinuações sobre coligação com o Chega",
-      "summary": "O secretário-geral do PS, José Luís Carneiro, classificou hoje como “ridículas” as alegadas insinuações do PSD sobre uma coligação entre socialistas e o Chega, acusando a direita de esconder um acordo para cortar pensões. À margem da Rota pela Economia do Mar na Póvoa de Varzim, distrito do Porto, o",
+      "title": "“Não dependo de barómetros para agradar”, diz ministra da Saúde",
+      "summary": "A ministra da Saúde afirmou hoje que é a menos popular dentro do Governo de acordo com critérios da comunicação social, mas contrapôs que não confunde popularidade com responsabilidade e não depende de barómetros. Estas posições de Ana Paula Martins no congresso do PSD, em Anadia, distrito de Aveiro",
       "source": "ECO",
-      "date": "Sat, 20 Jun 2026 12:51:59 +0000",
-      "url": "https://eco.sapo.pt/2026/06/20/ps-considera-ridiculas-insinuacoes-sobre-coligacao-com-o-chega/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc2026061947315359jc02110781.jpg",
+      "date": "Sat, 20 Jun 2026 17:26:23 +0000",
+      "url": "https://eco.sapo.pt/2026/06/20/nao-dependo-de-barometros-para-agradar-diz-ministra-da-saude/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47322399-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c34ff8c0",
+      "cat": "ambiente",
+      "title": "EUA dizem que 55 navios atravessaram hoje estreito de Ormuz",
+      "summary": "As forças armadas norte-americanas disseram que se mantêm vigilantes na aplicação do acordo de cessar-fogo com o Irão e indicaram que 55 navios atravessaram hoje o estreito de Ormuz, que Teerão ameaçou fechar novamente. &#8220;As forças dos EUA mantêm-se presentes e vigilantes para garantir que todo",
+      "source": "ECO",
+      "date": "Sat, 20 Jun 2026 16:37:00 +0000",
+      "url": "https://eco.sapo.pt/2026/06/20/eua-dizem-que-55-navios-atravessaram-hoje-estreito-de-ormuz/",
+      "img": "https://eco.imgix.net/uploads/2026/04/cropped-46896318-scaled-3.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "70154a32",
+      "cat": "tecnologia",
+      "title": "Pássaro, avião ou tubarão? ‘Barbatanas’ poupam combustível aos aviões",
+      "summary": "Até ao final do verão, a maioria dos aviões da Easyjet vai cruzar os céus com menos esforço, à custa de um detalhe que faz diferença: as asas vão terminar numa espécie de barbatana, o chamado sharklet, que ajuda a aumentar a eficiência nos gastos de combustível e a reduzir as emissões poluentes. No ",
+      "source": "ECO",
+      "date": "Sat, 20 Jun 2026 14:51:39 +0000",
+      "url": "https://eco.sapo.pt/2026/06/20/passaro-aviao-ou-tubarao-barbatanas-poupam-combustivel-aos-avioes/",
+      "img": "https://eco.imgix.net/uploads/2026/02/cropped-easyjet10.jpg",
       "score": 0.73
     },
     {
@@ -298,39 +331,6 @@
       "url": "https://reasonstobecheerful.world/the-spark-transportation/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/Bike-East-Bay-1-e1780594825609.jpg",
       "score": 0.73
-    },
-    {
-      "id": "29d6e4ae",
-      "cat": "tecnologia",
-      "title": "“Capital não é dinheiro, é permissão”: empreendedoras brasileiras debatem o futuro",
-      "summary": "Em Aveiro, empreendedoras brasileiras e internacionais debateram sobre desafios enfrentados por negócios liderados por mulheres e o que seria preciso para mudar.",
-      "source": "Público",
-      "date": "Sat, 20 Jun 2026 13:38:24 GMT",
-      "url": "https://www.publico.pt/2026/06/20/publico-brasil/noticia/capital-nao-dinheiro-permissao-empreendedoras-brasileiras-debatem-futuro-2178913",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096979?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Brasil.png",
-      "score": 0.7
-    },
-    {
-      "id": "a01af33b",
-      "cat": "tecnologia",
-      "title": "Clara Usón e o trauma dos anos de chumbo da ETA",
-      "summary": "Romance híbrido, com várias vozes, “As Feras”, de Clara Usón, faz um retrato da época mais negra da atuação da organização terrorista basca e do seu impacto na vida daqueles que a viveram.",
-      "source": "Observador",
-      "date": "Sat, 20 Jun 2026 14:29:15 +0100",
-      "url": "https://observador.pt/2026/06/20/clara-uson-e-o-trauma-dos-anos-de-chumbo-da-eta/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:854:480:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/18181920/clara-uson.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "59b2af41",
-      "cat": "tecnologia",
-      "title": "Isabella: a história de uma família italiana à mesa",
-      "summary": "No coração do Chiado, o novo restaurante homenageia a história de uma família italiana que se instalou em Lisboa há mais de um século. O trineto recupera a memória onde a arquitetura e a gastronomia se encontram.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 20 Jun 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/isabella-a-historia-de-uma-familia-italiana-a-mesa",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-19-07-45-00-525393.jpg",
-      "score": 0.7
     }
   ]
 }
