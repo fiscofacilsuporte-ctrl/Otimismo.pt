@@ -1,5 +1,5 @@
 {
-  "last_update": "19/06/2026 19:59 UTC",
+  "last_update": "20/06/2026 04:21 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,17 @@
       "url": "https://www.positive.news/environment/corporate-courage-how-cross-sector-talent-is-powering-renewables-innovation/",
       "img": "https://www.positive.news/wp-content/uploads/2026/06/AltCurrents_06_LynneMcIntoshG_WebHeader_03_v2.jpg",
       "score": 0.82
+    },
+    {
+      "id": "f294900e",
+      "cat": "tecnologia",
+      "title": "Rui Rodrigues vê “sucesso desportivo” como ‘motor’ do Vitória de Guimarães",
+      "summary": "O novo presidente do Vitória de Guimarães, Rui Rodrigues, afirmou hoje que o “sucesso desportivo” é a maior prioridade do mandato para o qual tomou hoje posse e assumiu o crescimento da vertente feminina do futebol como objetivo.",
+      "source": "RTP",
+      "date": "Fri, 19 Jun 2026 23:02:07 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/rui-rodrigues-ve-sucesso-desportivo-como-motor-do-vitoria-de-guimaraes_d1748254",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "2b4485bf",
@@ -56,6 +67,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260619020506.htm",
       "img": "https://www.sciencedaily.com/images/1920/microglia-cells-brain-biology.webp",
       "score": 0.79
+    },
+    {
+      "id": "c56fe004",
+      "cat": "tecnologia",
+      "title": "Brasil vence Haiti e aproxima-se da fase a eliminar",
+      "summary": "O pentacampeão Brasil conseguiu o primeiro triunfo no Mundial de futebol de 2026, ao vencer o Haiti por 3-0, em encontro da segunda jornada do Grupo C, disputado em Filadélfia.",
+      "source": "RTP",
+      "date": "Sat, 20 Jun 2026 01:14:59 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/brasil-vence-haiti-e-aproxima-se-da-fase-a-eliminar_e1748262",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc2ae97ae29bd3be5f5a65b192a0ec81?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
+      "score": 0.76
     },
     {
       "id": "bb9f14e3",
@@ -124,69 +146,69 @@
       "score": 0.76
     },
     {
-      "id": "9f298a13",
-      "cat": "cultura",
-      "title": "A música ao vivo nunca esteve tão na moda. Rock in Rio começa com Katy Perry",
-      "summary": "Pedro Sampaio, Calema, Alok, Audrey Nuna e Bebe Rexha são outras das atracções do primeiro dia da 11.ª edição lisboeta do festival. Linkin Park, Cypress Hill e The Pretty Reckless tocam no domingo.",
-      "source": "Público",
-      "date": "Fri, 19 Jun 2026 19:12:06 GMT",
-      "url": "https://www.publico.pt/2026/06/19/culturaipsilon/noticia/musica-vivo-tao-moda-rock-in-rio-comeca-katy-perry-2178854",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096907?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
-      "score": 0.73
-    },
-    {
-      "id": "e1f2d879",
-      "cat": "tecnologia",
-      "title": "Trump e Netanyahu conseguiram fortalecer o regime iraniano com a sua aventura bélica",
-      "summary": "Para reabrir o estreito de Ormuz, o Presidente dos EUA aceitou um acordo que fortalece a República Islâmica. Uma estratégia à quooka, o marsúpio que sacrifica as crias para se safar de apertos.",
-      "source": "Público",
-      "date": "Fri, 19 Jun 2026 19:00:00 GMT",
-      "url": "https://www.publico.pt/2026/06/19/mundo/noticia/trump-netanyahu-conseguiram-fortalecer-regime-iraniano-aventura-belica-2178865",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096892?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.73
-    },
-    {
-      "id": "718757dc",
+      "id": "012bff20",
       "cat": "ciencia",
-      "title": "Crescimento ósseo fetal dos neandertais era semelhante ao dos humanos modernos",
-      "summary": "Estudo indica que o crescimento ósseo fetal dos neandertais era, em grande medida, semelhante ao do Homo sapiens , embora alguns ossos revelem indícios de um desenvolvimento localmente mais acelerado.",
+      "title": "Morreu o físico François Englert, um dos responsáveis pela descoberta do bosão de Higgs",
+      "summary": "Belga tinha 93 anos e teorizou, em 1964, em conjunto com Robert Brout e ao mesmo tempo que Peter Higgs, a existência de uma partícula elementar que conferia massa às outras partículas.",
       "source": "Público",
-      "date": "Fri, 19 Jun 2026 18:39:59 GMT",
-      "url": "https://www.publico.pt/2026/06/19/ciencia/noticia/crescimento-osseo-fetal-neandertais-semelhante-humanos-modernos-2178504",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096500?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Fri, 19 Jun 2026 22:11:02 GMT",
+      "url": "https://www.publico.pt/2026/06/19/ciencia/noticia/morreu-fisico-francois-englert-responsaveis-descoberta-bosao-higgs-2178890",
+      "img": "https://imagens.publico.pt/imagens.aspx/2096943?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "2be74609",
+      "id": "0be64b63",
       "cat": "tecnologia",
-      "title": "Andy Burnham, o trabalhista que pode desafiar Starmer",
-      "summary": "Governou a região de Manchester, defendendo sempre mais Estado e o fim do neoliberalismo. Ambicioso e fã do Everton, Andy Burnham pode desafiar Keir Starmer — e chegar a primeiro-ministro.",
-      "source": "Observador",
-      "date": "Fri, 19 Jun 2026 20:22:44 +0100",
-      "url": "https://observador.pt/especiais/critico-de-thatcher-e-defensor-do-socialismo-amigo-das-empresas-quem-e-andy-burnham-o-rei-do-norte-que-pode-desafiar-starmer/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:265/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/19191407/gettyimages-2281375277-scaled.jpg",
+      "title": "EUA passam grande barreira de coral da Austrália para fazer companhia ao México",
+      "summary": "Pochettino não precisou de Pulisic para garantir um inédito segundo triunfo dos norte-americanos nos dois primeiros jogos de uma fase final de campeonatos do Mundo.",
+      "source": "Público",
+      "date": "Fri, 19 Jun 2026 21:04:16 GMT",
+      "url": "https://www.publico.pt/2026/06/19/desporto/cronica_de_jogo/eua-passam-barreira-coral-australia-companhia-mexico-2178887",
+      "img": "https://imagens.publico.pt/imagens.aspx/2096924?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "d30f6fa7",
-      "cat": "geral",
-      "title": "Chega quer apoios a agricultores dos Açores e Madeira",
-      "summary": "Grupo parlamentar apresentou projeto de resolução na AR a criticar exclusão das regiões autónomas do apoio extraordinário ao setor agrícola.",
-      "source": "Observador",
-      "date": "Fri, 19 Jun 2026 20:17:27 +0100",
-      "url": "https://observador.pt/2026/06/19/chega-quer-apoios-nacionais-aos-agricultores-extensiveis-a-acores-e-madeira/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2306:nowe:0:583/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/27192446/gettyimages-2267912893-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "feececb8",
+      "id": "31a163cc",
       "cat": "tecnologia",
-      "title": "Príncipe George vai para o Eton College tal como William",
-      "summary": "Conhecido pelas tradições que mantém há séculos, colégio formou 20 dos 58 primeiros-ministros do Reino Unido, incluindo Boris Johnson e David Cameron. Propinas anuais rondam os 74 mil euros.",
+      "title": "2h. PSD reúne-se este sábado em Congresso",
+      "summary": "O congresso será aberto pelo presidente do PSD e primeiro-ministro, Luís Montenegro, Ainda, a ministra do Ambiente está confiante na retoma da normalidade do preço dos combustíveis no país,",
       "source": "Observador",
-      "date": "Fri, 19 Jun 2026 20:16:47 +0100",
-      "url": "https://observador.pt/2026/06/19/aqui-formam-se-lideres-principe-george-vai-frequentar-o-eton-college-tal-como-o-pai-william/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:718:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/22123915/principe-george-12-anos.jpg",
+      "date": "Sat, 20 Jun 2026 02:17:06 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2327/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "db66ef72",
+      "cat": "tecnologia",
+      "title": "Davide Amado reeleito líder da Concelhia de Lisboa do PS",
+      "summary": "Davide Amado foi reconduzido à frente da Concelhia de Lisboa do PS com 92% dos votos. Meta é reconquistar a câmara perdida para Moedas em 2025.",
+      "source": "Observador",
+      "date": "Sat, 20 Jun 2026 00:30:14 +0100",
+      "url": "https://observador.pt/2026/06/20/davide-amado-reeleito-lider-da-comissao-politica-concelhia-de-lisboa-do-ps/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2305:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/02/05235544/45536154-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "039c2fcf",
+      "cat": "tecnologia",
+      "title": "Luís Montenegro precisa de começar a demitir ministros",
+      "summary": "O primeiro-ministro tem de fazer, urgentemente, uma remodelação profunda. É verdade: formalmente, este governo tem pouco mais de um ano; mas há um problema: parece ter mais de dez.",
+      "source": "Observador",
+      "date": "Sat, 20 Jun 2026 00:25:35 +0100",
+      "url": "https://observador.pt/opiniao/luis-montenegro-precisa-de-comecar-a-demitir-ministros/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2124%3A2124%3Anowe%3A955%3A75%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151538%2Fjporfirio-retratos-redacao-2026-01-81-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0c603b53",
+      "cat": "economia",
+      "title": "Ventura diz que tentou consenso \"até à última\" e recusa \"cálculo político\" no chumbo da lei laboral",
+      "summary": "A proposta de lei para rever a lei laboral não passou no Parlamento, com o Chega a votar contra, juntamente com a esquerda parlamentar, depois de não ter chegado a acordo com o Governo. Ventura diz rejeitar que a reforma \"possa transformar-se num instrumento de perseguição sobre quem trabalha e dest",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 19 Jun 2026 21:13:43 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ventura-diz-que-tentou-consenso-ate-a-ultima-e-recusa-calculo-politico-no-chumbo-da-lei-laboral",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-10-17-19-03-523350.jpg",
       "score": 0.73
     },
     {
@@ -212,17 +234,6 @@
       "score": 0.73
     },
     {
-      "id": "826ad341",
-      "cat": "tecnologia",
-      "title": "Ryanair assina novo prémio milionário para segurar O'Leary até 2032",
-      "summary": "As negociações chegaram ao fim e o CEO da Ryanair vai manter-se até abril de 2024. Se atingir um lucro de quatro mil milhões de euros, pode fazer a aquisição total das 10 milhões de ações que lhe foram prometidas a 26,70 euros.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 19 Jun 2026 19:30:01 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/ryanair-assina-novo-premio-milionario-para-segurar-o-leary-ate-2032",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-18-09-17-48-509462.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -234,14 +245,14 @@
       "score": 0.73
     },
     {
-      "id": "00f28e41",
-      "cat": "sociedade",
-      "title": "Clubes da I Liga que falharam Europa recebem 8,5 milhões de euros",
-      "summary": "Os clubes da I Liga portuguesa que não estiveram nas competições europeias em 2025/26 vão receber 8,5 milhões de euros (ME), do mecanismo de solidariedade da UEFA, anunciou hoje a Federação Portuguesa de Futebol (FPF).",
-      "source": "RTP",
-      "date": "Fri, 19 Jun 2026 18:07:33 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/clubes-da-i-liga-que-falharam-europa-recebem-85-milhoes-de-euros_d1748187",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e791729897cf868ce38eb3c8bedaeb90?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format",
+      "id": "8e27c1a4",
+      "cat": "tecnologia",
+      "title": "Ministra justifica PSU com ineficácia de Portugal na redução da pobreza através de apoios sociais",
+      "summary": "A ministra do Trabalho, Solidariedade e Segurança Social afirmou esta sexta-feira que Portugal tem a menor eficácia da União Europeia na redução da pobreza através dos apoios sociais, apelando ao parlamento que aprove a proposta de Prestação Social Única. A ser ouvida na comissão parlamentar de Trab",
+      "source": "ECO",
+      "date": "Fri, 19 Jun 2026 20:35:52 +0000",
+      "url": "https://eco.sapo.pt/2026/06/19/ministra-justifica-psu-com-ineficacia-de-portugal-na-reducao-da-pobreza-atraves-de-apoios-sociais/",
+      "img": "https://eco.imgix.net/uploads/2025/11/cropped-doc2025072445378110-aps0803.jpg",
       "score": 0.73
     },
     {
@@ -253,17 +264,6 @@
       "date": "Fri, 19 Jun 2026 17:27:03 +0000",
       "url": "https://eco.sapo.pt/2026/06/19/footballco-e-coca-cola-criam-digital-twin-de-jose-mourinho-para-conteudos-do-mundial-2026/",
       "img": "https://eco.imgix.net/uploads/2026/06/cropped-jvsm-kv-16x9-02-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6511df27",
-      "cat": "tecnologia",
-      "title": "Desempregados inscritos no IEFP que prestam trabalho social “não chegam a 15 mil”",
-      "summary": "O presidente do Instituto do Emprego e Formação Profissional (IEFP), Domingos Lopes, disse esta sexta-feira no parlamento que &#8220;não chegam a 15 mil&#8221; os desempregados inscritos que estão abrangidos pelo trabalho social. &#8220;São números diminutos face à dimensão total dos desempregados&#",
-      "source": "ECO",
-      "date": "Fri, 19 Jun 2026 17:05:06 +0000",
-      "url": "https://eco.sapo.pt/2026/06/19/desempregados-inscritos-no-iefp-que-prestam-trabalho-social-nao-chegam-a-15-mil/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-15115139-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -322,14 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "c8ced442",
+      "id": "7aa0fa5c",
       "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "title": "Brasil usou Vini Jr. e Matheus Cunha para castigar ousadia do Haiti",
+      "summary": "Triunfo por 3-0 foi consumado ainda na primeira parte e permitiu alcançar Marrocos na liderança do Grupo C. Classificação final decidir-se-á na última ronda.",
+      "source": "Público",
+      "date": "Sat, 20 Jun 2026 02:32:41 GMT",
+      "url": "https://www.publico.pt/2026/06/20/desporto/cronica_de_jogo/brasil-usou-vini-jr-matheus-cunha-castigar-ousadia-haiti-2178896",
+      "img": "https://imagens.publico.pt/imagens.aspx/2096960?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     }
   ]
