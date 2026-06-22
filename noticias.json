@@ -1,5 +1,5 @@
 {
-  "last_update": "22/06/2026 05:13 UTC",
+  "last_update": "22/06/2026 12:20 UTC",
   "total": 30,
   "news": [
     {
@@ -25,6 +25,17 @@
       "score": 0.79
     },
     {
+      "id": "5066c88b",
+      "cat": "tecnologia",
+      "title": "O voluntariado no estrangeiro pode construir a próxima geração de cidadãos globais?",
+      "summary": "O voluntariado no exterior pode oferecer um caminho prático para a cidadania global – construído através de salas de aula, comunidades e intercâmbio intercultural. O post O voluntariado no exterior pode construir a próxima geração de cidadãos globais? apareceu primeiro em Notícias Positivas.",
+      "source": "Positive News",
+      "date": "Mon, 22 Jun 2026 09:25:05 +0000",
+      "url": "https://www.positive.news/society/youth/can-volunteering-abroad-build-the-next-generation-of-global-citizens/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/06/AIESEC_YouthVolunteer_web-image_image.jpg",
+      "score": 0.79
+    },
+    {
       "id": "95b66b3e",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: um ‘ponto de virada’ para os manguezais e muito mais",
@@ -33,17 +44,6 @@
       "date": "Fri, 12 Jun 2026 05:00:05 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-24-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/06/iStock-1097438690.jpeg",
-      "score": 0.79
-    },
-    {
-      "id": "a1f55242",
-      "cat": "ambiente",
-      "title": "Neste festival popular, a natureza é a atração principal",
-      "summary": "Um festival do Reino Unido está trocando apresentações de grandes nomes por limpezas de praias, caminhadas pela vida selvagem e eventos liderados pela comunidade que ‘nutriem a alma’. A postagem Neste festival popular, a natureza é a manchete apareceu pela primeira vez em Notícias Positivas.",
-      "source": "Positive News",
-      "date": "Tue, 09 Jun 2026 05:00:31 +0000",
-      "url": "https://www.positive.news/environment/the-island-festival-putting-nature-before-acts/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/06/BiosphereFestivalNetworkRydeallotmentopenday-1-scaled.jpg",
       "score": 0.79
     },
     {
@@ -69,58 +69,47 @@
       "score": 0.79
     },
     {
-      "id": "63091768",
-      "cat": "desporto",
-      "title": "Benfica vence Sporting nos penáltis e fica a uma vitória de ser campeão de futsal",
-      "summary": "Próximo embate entre os dois emblemas será na quinta-feira, em Alvalade.",
+      "id": "4a1b602e",
+      "cat": "tecnologia",
+      "title": "Starmer “ouviu” o Partido Trabalhista e renunciou ao cargo de primeiro-ministro",
+      "summary": "Líder trabalhista apresenta demissão menos de dois anos depois da vitória nas legislativas. Burnham confirma que é candidato à sucessão e pode ser sétimo primeiro-ministro britânico em oito anos.",
       "source": "Público",
-      "date": "Sun, 21 Jun 2026 23:04:03 GMT",
-      "url": "https://www.publico.pt/2026/06/22/desporto/noticia/benfica-vence-sporting-penaltis-fica-vitoria-campeao-futsal-2179006",
-      "img": "https://imagens.publico.pt/imagens.aspx/2097187?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Mon, 22 Jun 2026 08:41:04 GMT",
+      "url": "https://www.publico.pt/2026/06/22/mundo/noticia/keir-starmer-primeiroministro-reino-unido-anuncia-demissao-2179018",
+      "img": "https://imagens.publico.pt/imagens.aspx/2097226?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.76
     },
     {
-      "id": "50a87155",
-      "cat": "tecnologia",
-      "title": "Treinador espanhol Óscar Garcia deixa Ajax após má época do histórico neerlandês",
-      "summary": "O treinador espanhol Óscar Garcia deixou o Ajax, por mútuo acordo, depois de uma época na qual o histórico emblema foi apenas quinto classificado na Liga neerlandesa de futebol.",
-      "source": "RTP",
-      "date": "Sun, 21 Jun 2026 21:16:27 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/treinador-espanhol-oscar-garcia-deixa-ajax-apos-ma-epoca-do-historico-neerlandes_d1748563",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "2f1251de",
-      "cat": "tecnologia",
-      "title": "Pogacar domina e conquista a Volta à Suíça",
-      "summary": "O ciclista esloveno Tadej Pogacar venceu hoje a quinta e última etapa da Volta à Suíça, numa jornada de 150,7 quilómetros com partida e chegada em Villars&amp;#8209;sur&amp;#8209;Ollon, e assegurou a vitória na 89.ª edição da prova.",
-      "source": "RTP",
-      "date": "Sun, 21 Jun 2026 18:53:40 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/pogacar-domina-e-conquista-a-volta-a-suica_d1748550",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/94/94fe7acfdddfbd92e5b16a58b0bcc5e1?w=350&amp;q=50&amp;rect=0,0,1024,561&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "5d196534",
-      "cat": "tecnologia",
-      "title": "Marsh nomeia para aposta em projetos nucleares na Europa",
-      "summary": "A consultora de risco, corretagem de seguros e serviços de resseguro Marsh criou uma nova posição, Líder de Crescimento Nuclear para a Europa na sua área de negócio Marsh Risk, e nomeou Ana Gonzalez Felgueroso para assumir esse cargo. De acordo com o jornal Reinsurance News, a nomeação toma efeitos ",
+      "id": "6fab7c1a",
+      "cat": "saude",
+      "title": "O poder da irrelevância",
+      "summary": "Poucas indústrias são tão bem sucedidas como o futebol. No entanto, há poucas atividades que sejam tão pouco relevantes. Apesar da aparente contradição, é uma verdade sem grande contestação. Com o final de um jogo a inflação continua igual. Nenhuma cura para uma doença será feita. Nenhuma inovação t",
       "source": "ECO",
-      "date": "Sun, 21 Jun 2026 17:55:37 +0000",
-      "url": "https://eco.sapo.pt/2026/06/21/marsh-nomeia-para-aposta-em-projetos-nucleares-na-europa/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-ana-gonzalez-felgueroso-1.jpg",
+      "date": "Mon, 22 Jun 2026 11:54:10 +0000",
+      "url": "https://eco.sapo.pt/opiniao/o-poder-da-irrelevancia/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2023/03/joao-santos-opiniao.png",
       "score": 0.76
     },
     {
-      "id": "847adaf7",
+      "id": "581902b3",
       "cat": "tecnologia",
-      "title": "Poupanças à guarda das Seguradoras Vida ultrapassaram 40 mil milhões de euros",
-      "summary": "Entre o princípio de 2025 e o primeiro quadrimestre de 2026, as responsabilidades acumuladas das seguradoras no ramo Vida cresceram mais de 15%, atingindo de 40.257 milhões de euros. O aumento foi impulsionado sobretudo pelos produtos de capitalização e pelos contratos de investimento, confirmando a",
+      "title": "Sustentabilidade em Portugal: do progresso alcançado ao futuro que ainda temos de construir",
+      "summary": "No início dos anos 2000, as primeiras empresas portuguesas começaram a publicar relatórios de sustentabilidade. Faziam-no com uma mistura de entusiasmo pioneiro e alguma ingenuidade estratégica. A sustentabilidade era, na prática, um exercício de comunicação, um inventário de boas intenções e métric",
       "source": "ECO",
-      "date": "Sun, 21 Jun 2026 17:55:32 +0000",
-      "url": "https://eco.sapo.pt/2026/06/21/poupancas-a-guarda-das-seguradoras-vida-ultrapassaram-40-mil-milhoes-de-euros/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-seguradoras.jpg",
+      "date": "Mon, 22 Jun 2026 11:30:38 +0000",
+      "url": "https://eco.sapo.pt/opiniao/sustentabilidade-em-portugal-do-progresso-alcancado-ao-futuro-que-ainda-temos-de-construir/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/05/luis-rochartre-alvares-opiniao.png",
+      "score": 0.76
+    },
+    {
+      "id": "2ba4ac56",
+      "cat": "tecnologia",
+      "title": "Estado enfrenta riscos de mais de 1,3 mil milhões nas PPP por litígios na saúde e nas autoestradas",
+      "summary": "Os encargos do Estado com as parcerias público-privadas (PPP) diminuíram quase 15% nos primeiros nove meses de 2025, mas a redução da despesa efetiva esconde um risco orçamental de grande dimensão. O Estado permanece exposto a contingências financeiras superiores a 1,3 mil milhões de euros, resultan",
+      "source": "ECO",
+      "date": "Mon, 22 Jun 2026 11:19:25 +0000",
+      "url": "https://eco.sapo.pt/2026/06/22/estado-enfrenta-riscos-de-mais-de-13-mil-milhoes-nas-ppp-por-litigios-na-saude-e-nas-autoestradas/",
+      "img": "https://eco.imgix.net/uploads/2017/05/cropped-brisa_autoestradas-4.jpg",
       "score": 0.76
     },
     {
@@ -146,80 +135,47 @@
       "score": 0.76
     },
     {
-      "id": "dcc91ab0",
+      "id": "8c375c40",
       "cat": "tecnologia",
-      "title": "Agora tenho de saber mais",
-      "summary": "A curiosidade é um desasossego. É uma insatisfação permanente: é como passar a vida à procura de buracos numa superfície que, para todos os efeitos, parece lisa. Crónica de Miguel Esteves Cardoso",
+      "title": "CACE Centro é inaugurado a 1 de Julho e revela bastidores da coleção do Estado",
+      "summary": "“A coleçcão vai continuar a descentralizar e a estar presente em todo o território. É para isso que ela serve. É uma coleçcão de todos”, explica a directora e curadora Sandra Jürgens.",
       "source": "Público",
-      "date": "Sun, 21 Jun 2026 23:01:00 GMT",
-      "url": "https://www.publico.pt/2026/06/22/opiniao/cronica/saber-2178968",
-      "img": "https://imagens.publico.pt/imagens.aspx/1739376?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Mon, 22 Jun 2026 09:53:08 GMT",
+      "url": "https://www.publico.pt/2026/06/22/culturaipsilon/noticia/cace-centro-inaugurado-1-julho-revela-bastidores-colecao-estado-2178960",
+      "img": "https://imagens.publico.pt/imagens.aspx/2097227?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
       "score": 0.73
     },
     {
-      "id": "aa98b1a8",
+      "id": "60b1ce70",
       "cat": "tecnologia",
-      "title": "O estatuto de sensação pesou mais que o de pioneiro",
-      "summary": "Cabo Verde provou que nulo com Espanha não foi acaso, ao empatar com o Uruguai. Tubarões Azuis, que estiveram em vantagem e desvantagem, só dependem de si na última ronda com a Arábia Saudita (2-2).",
+      "title": "10h. Primeiro-ministro britânico anuncia demissão",
+      "summary": "Keir Starmer anunciou a demissão do cargo de líder do partido trabalhista. Ainda, ecos do chumbo das alterações à Lei Laboral e diretores Escolares defendem a suspensão de aulas por causa do calor.",
       "source": "Observador",
-      "date": "Mon, 22 Jun 2026 01:33:55 +0100",
-      "url": "https://observador.pt/2026/06/22/o-estatuto-de-sensacao-pesou-mais-que-o-de-pioneiro-a-cronica-do-uruguai-cabo-verde/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1999:1126:nowe:0:132/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22011346/47328565.jpg",
+      "date": "Mon, 22 Jun 2026 10:19:54 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2384/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "d99ac037",
+      "id": "c919e2b7",
       "cat": "tecnologia",
-      "title": "Espriella é o provável vencedor das eleições colombianas",
-      "summary": "Resultados preliminares das presidenciais na Colômbia apontam para a vitória do candidato da extrema-direita, com 49,7% dos votos. Diferença para Ivan Cepeda é de menos de 250 mil votos.",
+      "title": "Keir Starmer demite-se. Nigel Farage exige eleições",
+      "summary": "Após fim de semana no campo a refletir, confirma-se decisão de demissão do primeiro-ministro. Nova liderança deverá ser decidida até setembro. Nigel Farage pede novas eleições gerais.",
       "source": "Observador",
-      "date": "Mon, 22 Jun 2026 00:31:56 +0100",
-      "url": "https://observador.pt/2026/06/22/abelardo-de-la-espriella-o-candidato-da-extrema-direita-apoiado-por-trump-e-o-provavel-vencedor-das-eleicoes-colombianas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22001236/gettyimages-2282100916-scaled.jpg",
+      "date": "Mon, 22 Jun 2026 09:22:47 +0100",
+      "url": "https://observador.pt/liveblogs/keir-starmer-primeiro-ministro-britanico-vai-fazer-comunicacao-ao-pais-demissao-e-provavel/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:25/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/11215744/47014710.jpg",
       "score": 0.73
     },
     {
-      "id": "5d58ed1c",
+      "id": "bd69bc8c",
       "cat": "tecnologia",
-      "title": "O chumbo de Ventura animou mas não salvou o congresso do PSD",
-      "summary": "O problema com o PSD não é ter renegado a ideologia dos seus fundadores – o problema mesmo é ser cada vez menos um partido de ideias e propostas e mais um partido de simples ocupação do poder.",
-      "source": "Observador",
-      "date": "Mon, 22 Jun 2026 00:26:30 +0100",
-      "url": "https://observador.pt/opiniao/o-chumbo-de-ventura-animou-mas-nao-salvou-o-congresso-do-psd/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "88189fa7",
-      "cat": "tecnologia",
-      "title": "Trump ameaça Irão e conversações são interrompidas. Preço do petróleo já sobe",
-      "summary": "JD Vance afirmou numa conferência de imprensa que existiram \"grandes progressos\" e tentou desvalorizar riscos associados ao combate no Líbano. Poucos minutos depois, o presidente dos EUA usou as redes sociais para endurecer discurso. As conversações ficaram em pausa pouco depois.",
+      "title": "Do código de barras ao QR Code: há uma nova “revolução” em curso",
+      "summary": "50 anos depois de lançar os códigos de barras, a GS1 prepara as cadeias de valor para a troca por um QR Code. Mudança não é só tecnológica. Carrega muito mais informação e, pela primeira vez, para ser lida pelo consumidor.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 22 Jun 2026 00:24:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/comitiva-dos-eua-e-do-irao-ja-estao-na-suica-para-iniciar-negociacoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-21-10-28-45-525483.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "cb3b8b3b",
-      "cat": "saude",
-      "title": "Morreu Francisco Guterres \"Lu Olo\", ex-presidente de Timor-Leste",
-      "summary": "\"Lu Olo\" \"faleceu no Hospital Prince Court em Kuala Lumpur, Malásia, após ter recebido tratamento médico intensivo\", referiu a família. Tinha 71 anos.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 21 Jun 2026 22:10:09 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/morreu-francisco-guterres-lu-olo-ex-presidente-de-timor-leste",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-21-22-09-57-525491.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "78478001",
-      "cat": "tecnologia",
-      "title": "Porto faz \"balanço positivo\" do Air Invictus e avaliará impacto nos próximos dias",
-      "summary": "Além do Air Invictus, que começou na sexta-feira e termina neste domingo, nos próximos dias o Porto acolhe o festival literário Babell e ainda os festejos do São João.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 21 Jun 2026 20:41:29 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/porto-faz-balanco-positivo-do-air-invictus-e-avaliara-impacto-nos-proximos-dias",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-08-18-12-49-523333.jpg",
+      "date": "Mon, 22 Jun 2026 13:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/do-codigo-de-barras-ao-qr-code-ha-uma-nova-revolucao-em-curso",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-22-08-03-00-525494.jpg",
       "score": 0.73
     },
     {
@@ -234,25 +190,36 @@
       "score": 0.73
     },
     {
-      "id": "598b2117",
+      "id": "c29a9811",
       "cat": "tecnologia",
-      "title": "Tenista Serena Williams vai competir em singulares em Wimbledon",
-      "summary": "A tenista norte-americana Serena Williams, a segunda jogadora na história com mais vitórias em torneios de Grand Slam, vai competir em Wimbledon, aos 44 anos, informou hoje a organização.",
+      "title": "FC Porto junta-se ao Sporting na Liga dos Campeões de andebol",
+      "summary": "O FC Porto vai juntar-se ao campeão português Sporting na fase de grupos da Liga dos Campeões de andebol, anunciou a Federação Europeia da modalidade.",
       "source": "RTP",
-      "date": "Sun, 21 Jun 2026 22:36:04 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/tenista-serena-williams-vai-competir-em-singulares-em-wimbledon_d1748580",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6f/6f8ddeacd0c53d58c1c64090be82b629?w=350&amp;q=50&amp;rect=0,211,4266,2339&amp;auto=format",
+      "date": "Mon, 22 Jun 2026 14:15:07 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/fc-porto-junta-se-ao-sporting-na-liga-dos-campeoes-de-andebol_d1748672",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0badbb5674ad44dcbef9df7462b4618e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "94d4378e",
+      "id": "0874d449",
       "cat": "tecnologia",
-      "title": "Sines, a mini-aldeia da Start Campus e os colarinhos azuis",
-      "summary": "Casas a preço acima da capital de distrito e não muito díspares dos de Lisboa, empresas locais sem bilhete para o comboio do progresso, escolas à míngua de espaço, a autoestrada que nunca mais chega. E a linha férrea à espera da prometida nova ligação de mercadorias a Espanha. E no meio disto, milha",
-      "source": "ECO",
-      "date": "Sun, 21 Jun 2026 17:35:39 +0000",
-      "url": "https://eco.sapo.pt/reportagem/sines-o-tempo-da-mini-aldeia-da-start-campus-os-colarinhos-azuis-e-os-1-000-trabalhadores-do-hidrogenio/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-start-campus02.jpg",
+      "title": "Rúben Rodrigues é o novo líder do Nacional de Ralis",
+      "summary": "Há novo líder no Campeonato de Portugal de Ralis. Rúben Rodrigues conquistou a vitória no Rali de Castelo Branco e saltou para o topo da classificação geral.",
+      "source": "RTP",
+      "date": "Mon, 22 Jun 2026 11:18:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/ruben-rodrigues-e-o-novo-lider-do-nacional-de-ralis_v1748634",
+      "img": "https://cdn-images.rtp.pt/icm/images/1a/1abf02b3d8d59a42ea209738e6b5d10b_N.jpg?",
+      "score": 0.73
+    },
+    {
+      "id": "19c1a744",
+      "cat": "tecnologia",
+      "title": "Egito obtém primeira vitória em Mundiais",
+      "summary": "O Egito conseguiu, face à Nova Zelândia (3-1), a primeira vitória de sempre em Mundiais de futebol e aproximou-se dos 16 avos de final, após o desafio referente à segunda jornada do Grupo G.",
+      "source": "RTP",
+      "date": "Mon, 22 Jun 2026 10:18:06 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/egito-obtem-primeira-vitoria-em-mundiais_e1748627",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/09/097bdd83b855d2c500a4c7f1990af782?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -322,15 +289,48 @@
       "score": 0.73
     },
     {
-      "id": "72b6e20f",
-      "cat": "cultura",
-      "title": "The Spark: banindo carros com uma festa no bairro",
-      "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada no... The",
-      "source": "Reasons to be Cheerful",
-      "date": "Fri, 05 Jun 2026 08:00:04 +0000",
-      "url": "https://reasonstobecheerful.world/the-spark-transportation/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/Bike-East-Bay-1-e1780594825609.jpg",
-      "score": 0.73
+      "id": "106adaa1",
+      "cat": "tecnologia",
+      "title": "População aumenta: há 11,4 milhões residentes e 14% são estrangeiros",
+      "summary": "É um país mais velho e com mais imigrantes aquele que é revelado pelo INE. A idade mediana da população a viver em Portugal sobe para 48,8 anos.",
+      "source": "Público",
+      "date": "Mon, 22 Jun 2026 10:28:55 GMT",
+      "url": "https://www.publico.pt/2026/06/22/sociedade/noticia/populacao-aumenta-ha-114-milhoes-residentes-14-sao-estrangeiros-2179023",
+      "img": "https://imagens.publico.pt/imagens.aspx/2097280?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.7
+    },
+    {
+      "id": "9f83f425",
+      "cat": "tecnologia",
+      "title": "Lei Laboral? \"A PSU é ainda mais grave\", diz Vieira da Silva",
+      "summary": "Para o socialista a iniciativa do Governo foi mal conduzida até a uma \"derrota cega\". Miguel Corte Real (CH) fala num chumbo normal e F. Negrão (PSD) admite alguma \"falta de sentido democrático\".",
+      "source": "Observador",
+      "date": "Mon, 22 Jun 2026 10:22:26 +0100",
+      "url": "https://observador.pt/programas/explicador/lei-laboral-a-psu-e-ainda-mais-grave-diz-vieira-da-silva/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
+      "score": 0.7
+    },
+    {
+      "id": "14e96475",
+      "cat": "tecnologia",
+      "title": "CP testa Starlink de Elon Musk para melhorar internet a bordo dos Alfa",
+      "summary": "Testes estão em curso e com base nos resultados será avaliado o potencial de uma futura implementação em maior escala nos serviços dos Comboios de Portugal.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 22 Jun 2026 12:50:02 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/cp-testa-starlink-de-elon-musk-para-melhorar-internet-a-bordo-dos-alfa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-22-12-37-23-525518.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "ab12e6bc",
+      "cat": "tecnologia",
+      "title": "Um banho de água fria na febre da IA",
+      "summary": "Dado que os centros de dados consomem enormes quantidades de energia – fazendo subir o preço da eletricidade para todos –, os governos estaduais e locais estarão sob crescente pressão política para limitarem a sua construção.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 22 Jun 2026 12:50:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/economistas/detalhe/um-banho-de-agua-fria-na-febre-da-ia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_394x514uu2026-06-22-12-07-23-525514.png",
+      "score": 0.7
     }
   ]
 }
