@@ -1,5 +1,5 @@
 {
-  "last_update": "22/06/2026 21:09 UTC",
+  "last_update": "23/06/2026 04:10 UTC",
   "total": 30,
   "news": [
     {
@@ -80,14 +80,25 @@
       "score": 0.79
     },
     {
-      "id": "6033d326",
+      "id": "de8cc69d",
       "cat": "tecnologia",
-      "title": "Argentina avança no Mundial ao ritmo de golos históricos de Messi",
-      "summary": "“La Pulga” supera recorde de golos em Mundiais, desfazendo-se de Miroslav Klose, e apura os campeões do mundo para a fase a eliminar, ainda com um jogo por disputar.",
-      "source": "Público",
-      "date": "Mon, 22 Jun 2026 19:17:50 GMT",
-      "url": "https://www.publico.pt/2026/06/22/desporto/cronica_de_jogo/argentina-avanca-mundial-ritmo-golos-historicos-messi-2179120",
-      "img": "https://imagens.publico.pt/imagens.aspx/2097418?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "title": "\"É o melhor de todos os tempos. Fico feliz por Messi\"",
+      "summary": "\"Sobre-humano\", \"campeão\", \"génio\": muitas foram as formas de descrever Messi e mais um feito histórico. Mesmo com estes elogios e mais alguns, há quem ache que pode não ser suficiente.",
+      "source": "Observador",
+      "date": "Tue, 23 Jun 2026 00:29:42 +0100",
+      "url": "https://observador.pt/2026/06/23/os-elogios-de-klose-as-comparacoes-com-jordan-e-a-historia-do-guinness-o-mundo-aos-pes-de-messi-apos-novo-recorde/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3654:2052:nowe:1:390/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/23000350/gettyimages-2282813024.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "a41caa60",
+      "cat": "tecnologia",
+      "title": "Diário da Seleção - Portugal procura a redenção",
+      "summary": "Depois do empate frente à República Democrática do Congo, Portugal procura somar a primeira vitória no Mundial de 2026 frente ao Uzbequistão, em Houston, Texas.",
+      "source": "RTP",
+      "date": "Mon, 22 Jun 2026 23:08:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/diario-da-selecao-portugal-procura-a-redencao_v1748782",
+      "img": "https://cdn-images.rtp.pt/icm/images/20/20f767cd7be563925c279fa29b9252e1_N.jpg?",
       "score": 0.76
     },
     {
@@ -113,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "997dac9b",
+      "cat": "tecnologia",
+      "title": "Fundo marinho danificado pela pesca mostra sinais de recuperação",
+      "summary": "Os activistas dizem que as melhorias na área devastada pela dragagem ilegal mostram que a protecção marinha funciona.",
+      "source": "BBC News",
+      "date": "Mon, 22 Jun 2026 22:02:15 GMT",
+      "url": "https://www.bbc.com/news/articles/c20y9zlzwyzo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bad/live/17c8d8c0-6e25-11f1-9fdc-51e252bb92b4.jpg",
+      "score": 0.76
+    },
+    {
       "id": "ea145b8d",
       "cat": "ciencia",
       "title": "Cientistas descobrem que os neurônios devem quebrar seu DNA para construir o cérebro",
@@ -135,36 +157,47 @@
       "score": 0.76
     },
     {
-      "id": "f374b016",
+      "id": "1c611520",
       "cat": "tecnologia",
-      "title": "Morreu Clive Davis. Produtor norte-americano tinha 94 anos",
-      "summary": "Apelidado como \"homem dos ouvidos de ouro\", Davis descobriu talentos ao longo de uma carreira de décadas. Considerado uma das figuras mais influentes da indústria, nunca planeou dedicar-se à música.",
-      "source": "Observador",
-      "date": "Mon, 22 Jun 2026 19:44:17 +0100",
-      "url": "https://observador.pt/2026/06/22/morreu-clive-davis-aos-94-anos-produtor-musical-lancou-carreiras-de-whitney-houston-e-aretha-franklin/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:718:nowe:0:118/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22180004/657772059-18572557507033826-6045771005011211506-n.jpg",
+      "title": "Selecção com extremos interiores? Para Martínez, “não é uma questão”",
+      "summary": "O treinador desvalorizou o tema do tipo de alas que quer ter na equipa. Na antevisão do jogo com o Uzbequistão, defendeu ainda que o importante é repetir os primeiros 20 minutos do jogo com o Congo.",
+      "source": "Público",
+      "date": "Tue, 23 Jun 2026 01:13:29 GMT",
+      "url": "https://www.publico.pt/2026/06/23/desporto/noticia/seleccao-extremos-interiores-martinez-nao-questao-2179133",
+      "img": "https://imagens.publico.pt/imagens.aspx/2097460?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "fd8057e7",
+      "id": "8a3d8487",
       "cat": "tecnologia",
-      "title": "Alterações climáticas intensificam vaga de calor até 4ºC",
-      "summary": "Um estudo da organização ClimaMeter mostra que as temperaturas recorde que se estão a fazer sentir em várias regiões da Europa são entre 2º a 4º (graus Celsius) mais elevadas do que no século passado.",
+      "title": "Sim, Messi fica na história. Mas sim, Mbappé vai lá chegar",
+      "summary": "França-Iraque foi o primeiro jogo do Mundial suspenso pelas condições climatéricas. Em vez de duas, demorou quatro horas. Quatro horas que se podem resumir em dois números: 16 jogos, 16 golos (3-0).",
       "source": "Observador",
-      "date": "Mon, 22 Jun 2026 19:31:35 +0100",
-      "url": "https://observador.pt/2026/06/22/estudo-diz-que-alteracoes-climaticas-intensificam-vaga-de-calor-ate-4oc/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/05134410/45430652.jpg",
+      "date": "Tue, 23 Jun 2026 02:11:09 +0100",
+      "url": "https://observador.pt/2026/06/23/sim-messi-fica-na-historia-mas-sim-mbappe-vai-la-chegar-nem-que-os-jogos-durem-quatro-horas-a-cronica-do-franca-iraque/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:158/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/23020941/mbappe.jpg",
       "score": 0.73
     },
     {
-      "id": "5ce6a230",
+      "id": "ee0038f0",
       "cat": "tecnologia",
-      "title": "ISAL encerrou por governação \"opaca e incapaz\"",
-      "summary": "Relatório de 179 páginas aprovado na sexta-feira sugere envio ao Ministério Público por possíveis ilícitos penais. Estudantes só souberam da situação pela comunicação social.",
-      "source": "Observador",
-      "date": "Mon, 22 Jun 2026 19:18:33 +0100",
-      "url": "https://observador.pt/2026/06/22/comissao-de-inquerito-diz-que-encerramento-do-isal-resultou-de-governacao-incapaz/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/20191514/46389813.jpg",
+      "title": "Azule Energy aprova investimento de mais de cinco mil milhões de dólares no offshore angolano",
+      "summary": "O projeto introduz pela primeira vez em Angola um modelo de codesenvolvimento entre dois blocos com partilha de infraestruturas, segundo um comunicado da Agência Nacional de Petróleo, Gás e Biocombustíveis (ANPG).",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 22 Jun 2026 23:02:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/azule-energy-aprova-investimento-de-mais-de-cinco-mil-milhoes-de-dolares-no-offshore-angolano",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-18-14-12-06-523803.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "a967cc24",
+      "cat": "tecnologia",
+      "title": "Google fecha acordo com estúdio de cinema independente A24 que envolve IA",
+      "summary": "O acordo entre a empresa tecnológica e o estúdio norte-americano, no valor de 65,6 milhões, visa sobretudo o codesenvolvimento de novas ferramentas destinadas à produção e distribuição cinematográfica, permitindo aos criadores experimentarem e darem forma às \"tecnologias do futuro\".",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 22 Jun 2026 22:35:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/google-fecha-acordo-com-estudio-de-cinema-independente-a24-que-envolve-ia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-08-01-34-20-491870.jpg",
       "score": 0.73
     },
     {
@@ -179,28 +212,6 @@
       "score": 0.73
     },
     {
-      "id": "7d0d3b41",
-      "cat": "tecnologia",
-      "title": "Tecnológicas deixam Wall Street sem rumo apesar de aproximação EUA-Irão. SpaceX afunda 16%",
-      "summary": "Os receios de que as grandes tecnológicas não vão ver retornos no curto prazo face aos investimentos massivos em IA voltaram a ensombrar Wall Street, depois de ter sido noticiado que a SpaceX vai ao mercado de dívida para se financiar em 20 mil milhões de dólares.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 22 Jun 2026 21:11:25 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/tecnologicas-deixam-wall-street-sem-rumo-apesar-de-aproximacao-eua-irao-spacex-afunda-16",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-21-02-46-524435.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "054f4af4",
-      "cat": "tecnologia",
-      "title": "Euro digital: o que pensam os eurodeputados portugueses",
-      "summary": "O euro digital vai finalmente ser votado esta terça-feira no Parlamento Europeu. As opiniões dos eurodeputados portugueses espelham a divisão que existe em relação ao projeto, que tem de passar primeiro pelo crivo da Comissão dos Assuntos Económicos e Monetários e só depois passa para plenário, onde",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 22 Jun 2026 19:56:31 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/euro-digital-o-que-pensam-os-eurodeputados-portugueses",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-22-18-10-00-525531.png",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -209,6 +220,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "f4a9a131",
+      "cat": "tecnologia",
+      "title": "Pleno de títulos no futebol é \"marca de qualidade\" do FC Porto",
+      "summary": "O presidente do FC Porto, André Villas-Boas, destacou o `pleno` de títulos nacionais conquistado pelos `dragões` nos escalões de formação de futebol, considerando-o uma demonstração da qualidade do processo formativo do clube.",
+      "source": "RTP",
+      "date": "Tue, 23 Jun 2026 03:04:15 +0100",
+      "url": "https://www.rtp.pt/noticias/fc-porto/pleno-de-titulos-no-futebol-e-marca-de-qualidade-do-fc-porto_d1748787",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7f1191e5c37050a61dde83aa6976793a?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
       "score": 0.73
     },
     {
@@ -267,25 +289,36 @@
       "score": 0.73
     },
     {
-      "id": "620795ca",
+      "id": "16a0b2e1",
       "cat": "tecnologia",
-      "title": "“Costumo dizer que a profissão de professor de Matemática é a mais difícil do mundo”",
-      "summary": "Marcelo Viana diz que também devia ser a mais bem paga. “Mas até hoje não consegui convencer ninguém”, ironiza este matemático que gosta de contar histórias com números.",
+      "title": "O triunfo da França (e de Mbappé) sobre o Iraque durou quatro horas",
+      "summary": "No dia da 100.ª internacionalização do avançado do Real Madrid, o apuramento já está garantido. A última jornada permitirá perceber em que posição.",
       "source": "Público",
-      "date": "Mon, 22 Jun 2026 20:01:00 GMT",
-      "url": "https://www.publico.pt/2026/06/22/sociedade/entrevista/costumo-dizer-profissao-professor-matematica-dificil-mundo-2178875",
-      "img": "https://imagens.publico.pt/imagens.aspx/2096910?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Tue, 23 Jun 2026 02:21:15 GMT",
+      "url": "https://www.publico.pt/2026/06/23/desporto/noticia/triunfo-franca-mbappe-iraque-durou-quatro-horas-2179139",
+      "img": "https://imagens.publico.pt/imagens.aspx/2097470?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "dfdaa27d",
-      "cat": "tecnologia",
-      "title": "Já disse ao meu marido para rezar o terço",
-      "summary": "Tenho saudades da virilidade dele, sobretudo quando jogava Portugal — bem sei que não é o país que joga, mas os nossos jogadores — e ele gritava até se desunhar. Crónica de Cláudia Lucas Chéu",
+      "id": "645072a7",
+      "cat": "cultura",
+      "title": "Sebastião Bugalho, Carlos Moedas e Pedro Duarte: Montenegro já prepara a sucessão?",
+      "summary": "Neste Soundbite, a análise a mais um congresso do PSD.",
       "source": "Público",
-      "date": "Mon, 22 Jun 2026 20:00:59 GMT",
-      "url": "https://www.publico.pt/2026/06/22/p3/cronica/ja-marido-rezar-terco-2179030",
-      "img": "https://imagens.publico.pt/imagens.aspx/2097241?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_P3.png",
+      "date": "Tue, 23 Jun 2026 01:13:24 GMT",
+      "url": "https://www.publico.pt/2026/06/23/politica/noticia/sebastiao-bugalho-carlos-moedas-pedro-duarte-montenegro-ja-prepara-sucessao-2179137",
+      "img": "https://imagens.publico.pt/imagens.aspx/2097468?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Podcasts.png",
+      "score": 0.7
+    },
+    {
+      "id": "14ac20af",
+      "cat": "tecnologia",
+      "title": "\"Da mesma forma que errei com 20 anos, Pepe errou com 41\"",
+      "summary": "António Silva, de fora do Mundial, garante que se encontra \"muito calejado\" face a críticas que antes o afetavam e traça um objetivo claro para a próxima época do Benfica – estando ou não no plantel.",
+      "source": "Observador",
+      "date": "Tue, 23 Jun 2026 03:18:59 +0100",
+      "url": "https://observador.pt/2026/06/23/a-culpa-e-do-antonio-o-mar-de-rosas-e-o-erro-de-pepe-no-euro-2024-antonio-silva-diz-ainda-nao-saber-se-vai-renovar-pelo-benfica/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4094:2306:nowe:0:131/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/10190400/gettyimages-2213791073-scaled.jpg",
       "score": 0.7
     },
     {
@@ -297,39 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "24bace87",
-      "cat": "tecnologia",
-      "title": "Mundial2026: Alemão Miroslav Klose felicita Messi, o \"melhor\" de todos os tempos",
-      "summary": "O antigo futebolista alemão Miroslav Klose felicitou Lionel Messi, que o ultrapassou como melhor marcador da história dos Mundiais, ao &#039;bisar&#039; frente à Áustria (2-0), considerando que o argentino é o melhor jogador de sempre.",
-      "source": "RTP",
-      "date": "Mon, 22 Jun 2026 22:13:08 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-alemao-miroslav-klose-felicita-messi-o-melhor-de-todos-os-tempos_d1748774",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/62/621d8979c155af80a49d5bf94d3a2422?w=350&amp;q=50&amp;rect=0,65,1381,757&amp;auto=format",
-      "score": 0.7
-    },
-    {
-      "id": "3deecdec",
-      "cat": "tecnologia",
-      "title": "França - Iraque",
-      "summary": "No Grupo I, os vencedores da primeira jornada não se vão encontrar, pelo que ambos podem carimbar o passaporte, algo que será, certamente, uma &#039;formalidade&#039; no caso da França, que defronta o Iraque em Filadélfia.",
-      "source": "RTP",
-      "date": "Mon, 22 Jun 2026 22:05:22 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/franca-iraque_e1748741",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/42/426a87d2ae7b89e4db9d7c42740f7bed?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
       "score": 0.7
     }
   ]
