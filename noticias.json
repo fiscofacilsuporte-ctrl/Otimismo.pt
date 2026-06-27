@@ -1,5 +1,5 @@
 {
-  "last_update": "26/06/2026 20:00 UTC",
+  "last_update": "27/06/2026 04:06 UTC",
   "total": 30,
   "news": [
     {
@@ -25,6 +25,17 @@
       "score": 0.79
     },
     {
+      "id": "0c80f094",
+      "cat": "ciencia",
+      "title": "A Terra pode ter semeado vida em Vênus há bilhões de anos",
+      "summary": "Um novo estudo sugere que a Terra pode ter enviado pequenos viajantes a Vénus durante milhares de milhões de anos. Os investigadores descobriram que os impactos de asteróides podem lançar micróbios para o espaço, onde alguns podem sobreviver à viagem e acabar suspensos nas nuvens de Vénus. Se missões futuras detectarem vida lá, haverá uma surpresa",
+      "source": "ScienceDaily",
+      "date": "Thu, 25 Jun 2026 23:22:17 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
+      "img": "https://www.sciencedaily.com/images/1920/earth-and-venus-in-space.webp",
+      "score": 0.79
+    },
+    {
       "id": "cff89050",
       "cat": "saude",
       "title": "Esta deficiência comum de vitaminas pode imitar o envelhecimento normal",
@@ -36,14 +47,25 @@
       "score": 0.79
     },
     {
-      "id": "363273a4",
-      "cat": "tecnologia",
-      "title": "Senegal - Iraque",
-      "summary": "Sem pontos amealhados até ao momento, Senegal e Iraque lutam pela fuga ao último lugar do Grupo I, que significa a eliminação imediata, e por uma vitória que permita acalentar a esperança de apuramento para os 16 avos do Mundial no lote dos oito melhores terceiros classificados. O empate não serve a",
-      "source": "RTP",
-      "date": "Fri, 26 Jun 2026 19:46:17 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/senegal-iraque_e1749746",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b7/b7e84d0d500fc372fcb402ce1c245aa3?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "id": "90c65fc8",
+      "cat": "ciencia",
+      "title": "Pesquisadores descobrem por que a frutose não satisfaz a fome como a glicose",
+      "summary": "Um novo estudo descobriu que a frutose e a glicose podem parecer iguais em um rótulo nutricional, mas o cérebro as trata de maneira muito diferente. Nos ratos, a glicose reduziu fortemente a atividade das células cerebrais que promovem a fome, enquanto a frutose teve um efeito muito mais fraco. O xarope de milho rico em frutose desencadeou uma resposta mais forte",
+      "source": "ScienceDaily",
+      "date": "Fri, 26 Jun 2026 10:28:07 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083106.htm",
+      "img": "https://www.sciencedaily.com/images/1920/hunger-control-dial.webp",
+      "score": 0.79
+    },
+    {
+      "id": "3fad8312",
+      "cat": "economia",
+      "title": "Pressão sobre o setor da IA volta a penalizar Wall Street. Micron corrige quase 7%",
+      "summary": "Wall Street foi, mais uma vez, apanhada num movimento de rotação, com os investidores a afastarem-se das ações ligadas à IA e a procurarem refúgio em empresas mais expostas ao crescimento económico.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 26 Jun 2026 21:23:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/pressao-sobre-o-setor-da-ia-volta-a-penalizar-wall-street-micron-corrige-quase-7",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-04-14-51-45-524831.jpg",
       "score": 0.76
     },
     {
@@ -102,69 +124,58 @@
       "score": 0.76
     },
     {
-      "id": "913be9a6",
-      "cat": "ciencia",
-      "title": "Após 70 anos de escavações, a antiga Sardes torna-se Patrimônio Mundial da UNESCO",
-      "summary": "Após quase sete décadas de escavações, a lendária cidade antiga de Sardes tornou-se Património Mundial da UNESCO, celebrando anos de descobertas que continuam a remodelar a sua história. Os arqueólogos dizem que os maiores avanços não acontecem numa única estação – eles emergem como décadas de evidências",
-      "source": "ScienceDaily",
-      "date": "Thu, 25 Jun 2026 03:41:52 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260625014808.htm",
-      "img": "https://www.sciencedaily.com/images/1920/temple-of-artemis-and-acropolis-in-sardis.webp",
-      "score": 0.76
-    },
-    {
-      "id": "89744de9",
-      "cat": "ciencia",
-      "title": "Lucy, da NASA, encontra um asteróide oscilante em forma de amendoim com sinais de água antiga",
-      "summary": "A sonda Lucy da NASA descobriu que o asteróide Donaldjohanson é uma relíquia oscilante em forma de amendoim, nascida de uma colisão violenta e lentamente remodelada pela força subtil da luz solar. Também carrega vestígios de água antiga, tornando-se uma pista importante para o passado misterioso do sistema solar.",
-      "source": "ScienceDaily",
-      "date": "Thu, 25 Jun 2026 01:23:20 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260624025455.htm",
-      "img": "https://www.sciencedaily.com/images/1920/asteroid-donaldjohanson-lucy-spacecraft.webp",
-      "score": 0.76
-    },
-    {
-      "id": "98f735d2",
+      "id": "32cd0dde",
       "cat": "tecnologia",
-      "title": "Ainda sem conhecer a extensão total dos danos, a Venezuela “desamparada” espera ajuda",
-      "summary": "Numa altura em que a ajuda chega a conta-gotas, uma parte da população afectada pelos sismos sente-se esquecida e age por conta própria “É assim que trabalhamos, com as unhas”, dizia um voluntário.",
+      "title": "A imigração debaixo do tapete",
+      "summary": "O grande problema não é o montante, mas a rapidez do crescimento. Não há aspecto da vida nacional que não seja afectado, mal ou bem, por estes fenómenos. Opinião de António Barreto",
       "source": "Público",
-      "date": "Fri, 26 Jun 2026 18:04:32 GMT",
-      "url": "https://www.publico.pt/2026/06/26/mundo/noticia/conhecer-extensao-total-danos-venezuela-desamparada-espera-ajuda-2179633",
+      "date": "Fri, 26 Jun 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/06/27/opiniao/opiniao/imigracao-debaixo-tapete-2179643",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "14bcb234",
+      "id": "eeee3ac5",
       "cat": "tecnologia",
-      "title": "Kiev angaria 10 mil milhões de euros para reconstrução",
-      "summary": "A Conferência para a Reconstrução da Ucrânia terminou esta sexta-feira com cerca de 200 acordos assinados, incluindo 3,4 mil milhões de dólares do Banco Mundial.",
-      "source": "Observador",
-      "date": "Fri, 26 Jun 2026 20:25:37 +0100",
-      "url": "https://observador.pt/2026/06/26/kiev-angaria-10-mil-milhoes-de-euros-para-reconstrucao-em-conferencia-na-polonia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/12/23102906/42043191.jpg",
+      "title": "Quando ganhamos somos nós",
+      "summary": "O futebol apenas torna mais visível uma tendência nacional: queremos que os sucessos confirmem a nossa identidade, mas preferimos que os fracassos pertençam sempre a alguém em particular. Opinião de Francisco Miranda Rodrigues",
+      "source": "Público",
+      "date": "Fri, 26 Jun 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/06/27/opiniao/opiniao/ganhamos-2179345",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "eb5d78b5",
+      "id": "96c8feac",
       "cat": "tecnologia",
-      "title": "Venezuela: Governo diz que Portugal pode enviar outro avião",
-      "summary": "Luís Neves diz que Madeira e Açores querem enviar meios, mas articulação com Caracas é essencial. Primeiros KC-390 levam 64 elementos.",
+      "title": "Os filhos da liberdade foram à América abraçar a história",
+      "summary": "É na terra da cachupa, da música e da dança que o futebol nasce para conquistar o mundo. Caíram duas campeãs do mundo e caiu a Arábia Saudita. Com três empates, Cabo Verde está nos 16 avos (0-0).",
       "source": "Observador",
-      "date": "Fri, 26 Jun 2026 20:21:03 +0100",
-      "url": "https://observador.pt/2026/06/26/sismos-governo-admite-que-portugal-pode-enviar-terceiro-aviao-de-busca-e-salvamento/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/26190418/47358356.jpg",
+      "date": "Sat, 27 Jun 2026 03:19:30 +0100",
+      "url": "https://observador.pt/2026/06/27/entre-estrelas-e-o-atlantico-ecoa-o-cantico-da-liberdade-de-quem-foi-a-america-abracar-a-historia-a-cronica-do-cabo-verde-arabia-saudita/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2306:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/27031734/gettyimages-2283506211-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "41f98ae1",
+      "id": "17eb9c9d",
       "cat": "tecnologia",
-      "title": "20h. Sismo. MAI admite enviar mais aviões de ajuda",
-      "summary": "Para já seguem dois aviões que vão partir da Base Aérea de Beja esta noite. Ainda, Líbano e Israel assinaram um acordo trilateral com os EUA que prevê retirada parcial das forças de defesa.",
+      "title": "Assinado acordo entre Líbano, Israel e EUA. Terá 14 pontos",
+      "summary": "Líbano e Israel assinaram esta sexta-feira em Washington um acordo-quadro mediado por Washington. Netanyahu celebrou; o Hezbollah avisou que cria \"divisões internas perigosas\".",
       "source": "Observador",
-      "date": "Fri, 26 Jun 2026 20:11:14 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-1985/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 27 Jun 2026 00:42:59 +0100",
+      "url": "https://observador.pt/2026/06/27/inicio-do-inicio-libano-e-israel-assinam-acordo-trilateral-com-os-estados-unidos-que-preve-retirada-parcial-das-idf-do-sul-do-libano/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/27000244/gettyimages-2281570557-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "531c9ebc",
+      "cat": "tecnologia",
+      "title": "Trump ameaça UE com tarifas de 100% devido a taxa de serviços digitais. Bruxelas promete reagir",
+      "summary": "O Presidente dos EUA ameaçou impor tarifas de 100% aos países europeus que implementarem uma taxa sobre os serviços digitais, apesar do acordo comercial com a União Europeia que prevê um limite para as taxas.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 26 Jun 2026 22:55:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/trump-ameaca-ue-com-tarifas-de-100-devido-a-taxa-de-servicos-digitais-bruxelas-promete-reagir",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-17-13-45-38-525284.jpg",
       "score": 0.73
     },
     {
@@ -179,28 +190,6 @@
       "score": 0.73
     },
     {
-      "id": "1cdf0867",
-      "cat": "tecnologia",
-      "title": "Ucrânia angaria 10 mil milhões de euros para reconstrução em conferência na Polónia",
-      "summary": "Segundo indicou a vice-ministra polaca dos Bens do Estado, Eliza Zeidler, o evento, que decorreu na cidade de Gdansk, terminou \"com a assinatura de quase 200 acordos, memorandos de entendimento e cartas de intenção de apoio, no valor de mais de 10.000 milhões de euros\".",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 26 Jun 2026 20:29:10 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ucrania-angaria-10-mil-milhoes-de-euros-para-reconstrucao-em-conferencia-na-polonia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-04-22-05-44-524839.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a7765f11",
-      "cat": "tecnologia",
-      "title": "BEN português vai ajudar alemã Lufthansa na assistência em escala",
-      "summary": "O primeiro carro elétrico desenvolvido de raiz em Portugal vai integrar frota de apoio de rampa às aeronaves e em serviços personalizados de assistência em escala nos aeroportos do Porto e de Lisboa.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 26 Jun 2026 19:13:58 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/ben-portugues-vai-ajudar-alema-lufthansa-na-assistencia-em-escala",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-18-15-56-54-514943.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -212,14 +201,36 @@
       "score": 0.73
     },
     {
-      "id": "30a43927",
+      "id": "71ce2b1b",
       "cat": "tecnologia",
-      "title": "António Morgado tricampeão nacional de contrarrelógio",
-      "summary": "António Morgado conquistou o seu terceiro título consecutivo de campeão português de contrarrelógio, batendo pelo segundo ano seguido Rafael Reis, nos Campeonatos Nacionais de ciclismo de estrada, na Guarda.",
+      "title": "Mundial2026. Diogo Costa só pensa na Colômbia e no primeiro lugar do grupo",
+      "summary": "O guarda-redes Diogo Costa afirmou que a seleção portuguesa está apenas concentrada no jogo com a Colômbia, da terceira e última jornada do Grupo K do Mundial2026 de futebol, e só depois vai pensar nas eliminatórias.",
       "source": "RTP",
-      "date": "Fri, 26 Jun 2026 19:36:21 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/antonio-morgado-tricampeao-nacional-de-contrarrelogio_d1749801",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/52/5283418b8b213766ae0f0d0991ec5b3b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sat, 27 Jun 2026 02:03:39 +0100",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/mundial2026-diogo-costa-so-pensa-na-colombia-e-no-primeiro-lugar-do-grupo_d1749861",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f9/f9049dbe1163fb91cff93e006400412d?w=350&amp;q=50&amp;rect=0,46,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "e26bce6c",
+      "cat": "tecnologia",
+      "title": "Cabo Verde com apuramento histórico para os 16 avos",
+      "summary": "A seleção de Cabo Verde empatou 0-0 com a Arábia Saudita no NRG Stadium, em Houston, e conquistou o apuramento histórico para os 16 avos de final do Campeonato do Mundo de 2026.",
+      "source": "RTP",
+      "date": "Sat, 27 Jun 2026 01:00:04 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/cabo-verde-com-apuramento-historico-para-os-16-avos_e1749851",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/64/64d4a941edf53d376d1ba02a00355ca0?w=350&amp;q=50&amp;rect=0,39,1313,720&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "07376675",
+      "cat": "tecnologia",
+      "title": "Diário da Seleção - \"Nesta equipa, a palavra substituto não existe\", diz Roberto Martínez",
+      "summary": "A poucas horas do jogo com a Colômbia, o Selecionador Nacional garante que todos os jogadores estão preparados para &quot;dar tudo&quot; pela vitória de Portugal, quer como titulares, quer a partir do banco.",
+      "source": "RTP",
+      "date": "Fri, 26 Jun 2026 22:44:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/diario-da-selecao-nesta-equipa-a-palavra-substituto-nao-existe-diz-roberto-martinez_v1749836",
+      "img": "https://cdn-images.rtp.pt/icm/images/96/96745693babc55fe50c781eab83901d7_N.jpg?",
       "score": 0.73
     },
     {
@@ -245,14 +256,14 @@
       "score": 0.73
     },
     {
-      "id": "caf4ad36",
+      "id": "2e59a857",
       "cat": "ciencia",
-      "title": "Dos locais de relaxamento ao giz nas janelas: como a Europa está a lidar com o calor",
-      "summary": "As pessoas em todo o continente estão a tomar medidas para fazer face às temperaturas abrasadoras que assolam a Europa.",
+      "title": "Fim de semana trará resfriamento após onda de calor recorde",
+      "summary": "A onda de calor recorde deve terminar com um clima mais frio e instável no domingo.",
       "source": "BBC News",
-      "date": "Tue, 23 Jun 2026 14:19:21 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/5093bf60-6f21-11f1-b1db-af71d47507d6.jpg",
+      "date": "Sat, 27 Jun 2026 00:21:33 GMT",
+      "url": "https://www.bbc.co.uk/weather/articles/crkvl343jj3o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab7f/live/10f0a900-7191-11f1-8268-a773f3902180.png",
       "score": 0.73
     },
     {
@@ -289,25 +300,25 @@
       "score": 0.73
     },
     {
-      "id": "8f9ff2b2",
+      "id": "f4c91743",
       "cat": "tecnologia",
-      "title": "“Questões de segurança” travam garrafas de vidro no Terreiro do Paço durante Mundial",
-      "summary": "No perímetro que inclui parte da Baixa, vigora regime especial até 19 de Julho. A pedido da PSP, proíbe-se venda de bebidas em recipientes de vidro para a rua durante horários que abrangem jogos.",
+      "title": "Portugal está oficialmente apurado para os 16 avos-de-final do Mundial",
+      "summary": "Além de Portugal, também se qualificaram no “sofá” a Inglaterra, o Gana, treinado pelo português Carlos Queiroz, o Egipto e o Paraguai.",
       "source": "Público",
-      "date": "Fri, 26 Jun 2026 18:52:36 GMT",
-      "url": "https://www.publico.pt/2026/06/26/local/noticia/questoes-seguranca-travam-garrafas-vidro-terreiro-paco-durante-mundial-2179639",
+      "date": "Sat, 27 Jun 2026 02:21:25 GMT",
+      "url": "https://www.publico.pt/2026/06/27/desporto/noticia/portugal-oficialmente-apurado-16-avosdefinal-mundial-2179660",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "f9aed05f",
+      "id": "36564f22",
       "cat": "tecnologia",
-      "title": "Cláusula de IA nos contratos de actores infantis que dão voz à Peppa Pig gera polémica",
-      "summary": "Empresa que detém o programa estará a solicitar aos actores infantis da série britânica de animação que cedam os direitos das suas vozes à inteligência artificial.",
-      "source": "Público",
-      "date": "Fri, 26 Jun 2026 18:25:26 GMT",
-      "url": "https://www.publico.pt/2026/06/26/enter/noticia/clausula-ia-contratos-actores-infantis-dao-voz-peppa-pig-gera-polemica-2179619",
-      "img": null,
+      "title": "As notícias das 3h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sat, 27 Jun 2026 03:16:20 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2362/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
