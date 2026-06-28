@@ -1,5 +1,5 @@
 {
-  "last_update": "28/06/2026 09:23 UTC",
+  "last_update": "28/06/2026 14:05 UTC",
   "total": 30,
   "news": [
     {
@@ -58,6 +58,28 @@
       "score": 0.79
     },
     {
+      "id": "c52f4921",
+      "cat": "tecnologia",
+      "title": "Prémio Nacional de Banda Desenhada distingue carreira de António Jorge Gonçalves",
+      "summary": "A primeira edição do prémio distinguiu ainda Dormindo entre Cadáveres , de Luís Moreira Gonçalves e Felipe Parucci, como Obra do Ano e Rumo ao Eclipse com o Prémio Inovação.",
+      "source": "Público",
+      "date": "Sun, 28 Jun 2026 11:13:45 GMT",
+      "url": "https://www.publico.pt/2026/06/28/culturaipsilon/noticia/premio-nacional-banda-desenhada-distingue-carreira-antonio-jorge-goncalves-2179734",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "139718ab",
+      "cat": "ciencia",
+      "title": "Intriga do século XVII. Naufrágio que transportava moedas de ouro marroquinas é resolvido após 30 anos",
+      "summary": "Um naufrágio na costa britânica, incluindo um tesouro de centenas de moedas de ouro, foi finalmente identificado após 30 anos. O navio de 400 anos descoberto na costa de Devon, na Inglaterra, foi agora identificado como o navio comercial holandês ‘Dom van Keulen’, que partiu de Marrocos para o Nethe",
+      "source": "Good News Network",
+      "date": "Sun, 28 Jun 2026 11:00:32 +0000",
+      "url": "https://www.goodnewsnetwork.org/intrigue-of-17th-century-shipwreck-carrying-gold-coins-is-solved-after-30-years/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Gold-recovered-from-centuries-old-shipwreck-discovered-off-the-south-coast-of-England-via-South-West-Maritime-Archaeology-and-Dave-Parham-SWNS.jpg",
+      "score": 0.76
+    },
+    {
       "id": "9550f2e0",
       "cat": "ciencia",
       "title": "Dois enfeites de jardim considerados 'concreto sem valor' revelam-se bustos de mármore italiano que valem milhares de dólares",
@@ -77,17 +99,6 @@
       "date": "Fri, 26 Jun 2026 18:30:16 +0000",
       "url": "https://www.goodnewsnetwork.org/new-reserve-to-protect-370000-acres-of-rainforest-in-french-guiana/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Hilly-terrain-in-French-Guiana-credit-Lesly-Derksen.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "27da18a9",
-      "cat": "tecnologia",
-      "title": "Bombeiros levaram as pontas dos dedos de uma criança de 5 anos ao hospital, onde ela se recuperou e pintaram uma imagem de agradecimento para eles",
-      "summary": "Uma criança de 5 anos que teve as pontas dos dedos cortadas em um estranho acidente de carrossel visitou recentemente o posto dos bombeiros que os salvou. Enquanto Olive era levada às pressas para o hospital, um grupo de 8 'Red Watch' estava preso. voluntários do Serviço de Bombeiros e Resgate do Condado de Essex procuraram freneticamente por",
-      "source": "Good News Network",
-      "date": "Fri, 26 Jun 2026 13:00:59 +0000",
-      "url": "https://www.goodnewsnetwork.org/firemen-rushed-a-5-year-olds-severed-fingers-to-hospital-where-she-recovered-to-paint-them-a-thank-you-picture/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Olive-meets-the-firefighters-who-saved-her-fingers-Essex-Fire-and-Rescue-Service.jpg",
       "score": 0.76
     },
     {
@@ -124,36 +135,80 @@
       "score": 0.76
     },
     {
-      "id": "8e6001d8",
-      "cat": "tecnologia",
-      "title": "Dinamarca atinge temperatura recorde de 37 graus",
-      "summary": "Temperatura atingida neste sábado é a mais elevada em mais de 150 anos, quando o Instituto Meteorológico da Dinamarca começou a fazer registos.",
+      "id": "86ce0539",
+      "cat": "geral",
+      "title": "Queda de avião mata 11 pessoas em Nancy, Nordeste de França",
+      "summary": "De acordo com o prefeito de Meurthe-et-Moselle, todos os ocupantes do avião morreram: o piloto, cinco instrutores de paraquedismo e cinco alunos.",
       "source": "Público",
-      "date": "Sun, 28 Jun 2026 07:03:55 GMT",
-      "url": "https://www.publico.pt/2026/06/28/azul/noticia/dinamarca-atinge-temperatura-recorde-37-graus-2179724",
+      "date": "Sun, 28 Jun 2026 11:21:47 GMT",
+      "url": "https://www.publico.pt/2026/06/28/mundo/noticia/aviao-transportava-paraquedistas-cai-nancy-nordeste-franca-2179733",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "c8d54563",
-      "cat": "tecnologia",
-      "title": "Consumo de vinho cresce no Brasil e favorece exportações do Alvarinho português",
-      "summary": "Apesar do avanço, consumo médio per capita ainda é de apenas três litros por ano no Brasil. Produtoras de vinhos verdes da região de Monção e Melgaço, em Portugal, veem oportunidades de negócios.",
+      "id": "226d35c4",
+      "cat": "cultura",
+      "title": "Filme luso-espanhol Decorado , de Alberto Vázquez, premiado no festival de Annecy",
+      "summary": "Com co-produção da Sardinha em Lata, Decorado é distinguido depois de ter vencido um prémio Goya, em Espanha, e o prémio especial do júri no Festival de Animação de Lisboa - Monstra.",
       "source": "Público",
-      "date": "Sun, 28 Jun 2026 06:45:00 GMT",
-      "url": "https://www.publico.pt/2026/06/28/publico-brasil/noticia/consumo-vinho-cresce-brasil-favorece-exportacoes-alvarinho-portugues-2179698",
+      "date": "Sun, 28 Jun 2026 10:33:55 GMT",
+      "url": "https://www.publico.pt/2026/06/28/culturaipsilon/noticia/filme-lusoespanhol-decorado-alberto-vazquez-premiado-festival-annecy-2179731",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "5d43406b",
+      "id": "57d6ebcc",
       "cat": "tecnologia",
-      "title": "Rock in Rio: entre a \"Classe de 79\" e a aula de Cyndi Lauper",
-      "summary": "A celebração do rock português concentrou atenções no Music Valley. Ainda assim, no palco Mundo, Cyndi Lauper fez-nos lamentar que a sua estreia tenha acontecido tão tarde.",
+      "title": "Alverca oficializa saída do treinador Custódio Castro",
+      "summary": "Custódio Castro assumiu a equipa no início da época passada, guiando os alverquenses ao 11.º lugar da I Liga e à desejada manutenção no primeiro escalão um ano após a subida.",
       "source": "Observador",
-      "date": "Sun, 28 Jun 2026 09:20:16 +0100",
-      "url": "https://observador.pt/especiais/no-dia-em-que-a-classe-de-79-teve-nota-maxima-no-rock-in-rio-foi-cyndi-lauper-quem-deu-a-melhor-aula/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/27234915/dventura-rir-dia3-xutos-7-scaled.jpg",
+      "date": "Sun, 28 Jun 2026 13:41:20 +0100",
+      "url": "https://observador.pt/2026/06/28/alverca-oficializa-saida-do-treinador-custodio-castro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:81/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/28132611/47119564.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "97e97ada",
+      "cat": "tecnologia",
+      "title": "Sismos. Oposição na Venezuela denuncia proibições de ajudar",
+      "summary": "Oposição diz-se proibida de usar termo \"centro de doação\". Há vídeos que mostram polícia a desmobilizar recolhas. Especialistas alertam que ajuda humanitária alimenta luta política. E dos dois lados.",
+      "source": "Observador",
+      "date": "Sun, 28 Jun 2026 13:13:20 +0100",
+      "url": "https://observador.pt/2026/06/28/perseguicao-politica-oposicao-queixa-se-de-proibicoes-na-recolha-de-ajuda-como-se-o-governo-tivesse-registado-a-marca/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25093722/gettyimages-2282671784-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "7c9e1719",
+      "cat": "tecnologia",
+      "title": "“Vai ser sempre difícil defender com Ronaldo em campo”",
+      "summary": "Valha-nos o “Santo Diogo Costa” que manteve a baliza a salvo numa exibição muito pobre da seleção nacional. A Croácia vai fazer a vida difícil a Portugal? Ainda a lista completa dos 16 avos de final.",
+      "source": "Observador",
+      "date": "Sun, 28 Jun 2026 12:20:18 +0100",
+      "url": "https://observador.pt/programas/e-o-campeao-e/vai-ser-sempre-dificil-defender-com-ronaldo-em-campo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "4c86d878",
+      "cat": "economia",
+      "title": "IA promete maior produtividade, mas com riscos para os mercados de trabalho",
+      "summary": "BIS alerta que \"a transição para uma economia mais produtiva impulsionada pela IA acarreta riscos\". Pode intensificar a perda de emprego.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 28 Jun 2026 12:05:35 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ia-promete-maior-produtividade-mas-com-riscos-para-os-mercados-de-trabalho",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-02-12-52-54-524741.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "60d37b7a",
+      "cat": "tecnologia",
+      "title": "Maria da Graça Carvalho: Vamos inaugurar a ligação de muito alta tensão com Espanha. Falta-nos França",
+      "summary": "Portugal inaugura a 2 de julho uma nova ligação de muito alta tensão com Espanha, num investimento de 44 milhões de euros que permitirá atingir a meta europeia de 15% de interligação elétrica entre os dois países. Falta agora fechar o calendário das interligações com França. Há uma reunião em Paris ",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 28 Jun 2026 11:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/maria-da-graca-carvalho-vamos-inaugurar-a-ligacao-de-muito-alta-tensao-com-espanha-falta-nos-franca",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-26-17-53-13-525755.jpg",
       "score": 0.73
     },
     {
@@ -168,28 +223,6 @@
       "score": 0.73
     },
     {
-      "id": "cd73e7b8",
-      "cat": "tecnologia",
-      "title": "É necessária disciplina nas políticas para fazer face aos pontos críticos da economia",
-      "summary": "Os decisores políticos devem navegar entre as correntes contraditórias do progresso da IA e os perigos de uma inflação mais elevada que pode persistir, de uma elevada dívida pública e de vulnerabilidades financeiras.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 28 Jun 2026 10:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/e-necessaria-disciplina-nas-politicas-para-fazer-face-aos-pontos-criticos-da-economia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_394x514uu2026-06-25-16-14-06-525671.png",
-      "score": 0.73
-    },
-    {
-      "id": "bf240609",
-      "cat": "tecnologia",
-      "title": "Governo avança com Estratégia Industrial Verde para atrair investimento",
-      "summary": "O executivo pretende impulsionar novas cadeias de valor como as indústrias pesadas verdes, aço descarbonizado, a eletrificação da economia, o armazenamento de energia, gases renováveis, captura e a utilização de carbono, a mobilidade elétrica e baterias.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 27 Jun 2026 20:22:34 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/governo-avanca-com-estrategia-industrial-verde-para-atrair-investimento",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-05/img_100x100uu2023-05-10-08-08-13-452392.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -198,6 +231,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "4ec134b5",
+      "cat": "tecnologia",
+      "title": "Messi sempre a marcar, Argentina sempre a ganhar",
+      "summary": "A Argentina, já apurada, fechou no sábado a fase de grupos do Mundial de futebol com o pleno de vitórias, ao bater a já eliminada Jordânia por 3-1, novamente com Lionel Messi a marcar.",
+      "source": "RTP",
+      "date": "Sun, 28 Jun 2026 11:54:46 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/messi-sempre-a-marcar-argentina-sempre-a-ganhar_e1750009",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/01/01c7b27dd2934b6089b0b6425e92638f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -212,25 +256,47 @@
       "score": 0.73
     },
     {
-      "id": "f435e5ef",
+      "id": "e038d1b3",
       "cat": "tecnologia",
-      "title": "Inglaterra cumpre frente ao Panamá e apura-se para fase a eliminar",
-      "summary": "A Inglaterra confirmou no sábado o primeiro lugar do Grupo L do Mundial2026 de futebol, ao vencer o Panamá por 2-0, em jogo da terceira e última jornada em que revelou pragmatismo perante um adversário lutador.",
-      "source": "RTP",
-      "date": "Sat, 27 Jun 2026 21:48:34 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/inglaterra-cumpre-frente-ao-panama-e-apura-se-para-fase-a-eliminar_e1749961",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/85/85afcbed0abd7cada1a541484bf7eda8?w=350&amp;q=50&amp;rect=0,38,1325,726&amp;auto=format",
+      "title": "“É preciso vender”. Da inovação à produção, agendas mobilizadoras do PRR avançam para fase da comercialização",
+      "summary": "“Ainda não chegamos ao final do prazo, mas já é possível dizer que nas agendas mobilizadoras vamos cumprir objetivos contratados com a Comissão Europeia&#8220;. A garantia foi deixada, esta semana, pelo ministro da Economia, no 3.º Encontro das Agendas Mobilizadoras para a Inovação Empresarial, no E",
+      "source": "ECO",
+      "date": "Sun, 28 Jun 2026 13:24:25 +0000",
+      "url": "https://eco.sapo.pt/2026/06/28/e-preciso-vender-da-inovacao-a-producao-agendas-mobilizadoras-do-prr-avancam-para-fase-da-comercializacao/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-ptrr-abreu04.jpg",
       "score": 0.73
     },
     {
-      "id": "a40afe50",
+      "id": "301c4880",
       "cat": "tecnologia",
-      "title": "Lucro de 8,4 milhões de euros é “condição” para Benfica continuar a investir",
-      "summary": "O presidente do Benfica apontou como &#8220;condição essencial&#8221; para o clube &#8220;continuar a investir na competitividade&#8221; a obtenção do resultado positivo de 8,4 milhões de euros previsto no orçamento, que vai ser este sábado votado em Assembleia Geral (AG). &#8220;Projetamos para 202",
+      "title": "Há novas regras sobre criptoativos, saiba quais são",
+      "summary": "A novas regras sobre criptoativos entram em vigor esta semana, a 1 de julho, definindo Banco de Portugal e CMVM como os supervisores competentes em Portugal e prevendo multas de até cinco milhões de euros para empresas incumpridoras. Em causa estão diplomas, aprovados no parlamento no final do ano p",
       "source": "ECO",
-      "date": "Sat, 27 Jun 2026 16:46:05 +0000",
-      "url": "https://eco.sapo.pt/2026/06/27/lucro-de-84-milhoes-de-euros-e-condicao-para-benfica-continuar-a-investir/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47271346-scaled-1.jpg",
+      "date": "Sun, 28 Jun 2026 10:15:25 +0000",
+      "url": "https://eco.sapo.pt/2026/06/28/ha-novas-regras-sobre-criptoativos-saiba-quais-sao/",
+      "img": "https://eco.imgix.net/uploads/2026/02/cropped-bitcoin-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "88671258",
+      "cat": "tecnologia",
+      "title": "Diogo Costa garante empate a Portugal e ‘alarmes’ voltam a soar",
+      "summary": "O guarda-redes Diogo Costa e o videoárbitro salvaram Portugal da primeira derrota no Mundial2026 de futebol, com a seleção lusa a terminar no segundo lugar do Grupo K após um 0-0 frente a uma claramente superior Colômbia. Em Miami, o resultado e o &#8216;adeus&#8217; ao primeiro lugar no agrupamento",
+      "source": "ECO",
+      "date": "Sun, 28 Jun 2026 03:15:50 +0000",
+      "url": "https://eco.sapo.pt/2026/06/28/diogo-costa-garante-empate-a-portugal-e-alarmes-voltam-a-soar/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47365675-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c83e59ed",
+      "cat": "ciencia",
+      "title": "Lua Cheia de Morango iluminará o céu noturno",
+      "summary": "A primeira lua cheia do verão surgirá nos céus do Reino Unido esta semana",
+      "source": "BBC News",
+      "date": "Sun, 28 Jun 2026 10:51:56 GMT",
+      "url": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e200/live/16519720-72bc-11f1-8de6-1151b868f047.png",
       "score": 0.73
     },
     {
@@ -265,72 +331,6 @@
       "url": "https://reasonstobecheerful.world/the-civic-hour-volunteering/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/5R5A8944-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "8291600c",
-      "cat": "tecnologia",
-      "title": "As Ibeyi vão da raiva à beleza no disco do seu renascimento",
-      "summary": "Lisa-Kaindé e Naomi Diaz voltam a focar-se na relação entre as duas, sintonizam-se com os altos e baixos das suas vidas e ultrapassam o medo da mudança. Offering será apresentado no Capitólio.",
-      "source": "Público",
-      "date": "Sun, 28 Jun 2026 08:44:09 GMT",
-      "url": "https://www.publico.pt/2026/06/28/culturaipsilon/noticia/ibeyi-vao-raiva-beleza-disco-renascimento-2179046",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "80468e4b",
-      "cat": "tecnologia",
-      "title": "África do Sul e Canadá inauguram fase do \"mata mata\"",
-      "summary": "Fase de grupo resolvidas, começam os 16 avos da competição com um frente a frente entre a seleção africana e os canadianos. Portugal enfrenta Croácia no final da semana.",
-      "source": "Observador",
-      "date": "Sun, 28 Jun 2026 09:29:33 +0100",
-      "url": "https://observador.pt/liveblogs/dia-18-do-mundial-africa-do-sul-e-canada-inauguram-fase-do-mata-mata/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:155/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/28062706/47366125.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "e25bf01d",
-      "cat": "tecnologia",
-      "title": "\"Europa está ao lado da Venezuela nesta hora de necessidade\"",
-      "summary": "Kaja Kallas teve uma chamada com a Presidente interina da Venezuela após os sismos que afetaram o país. Líder da diplomacia europeia refere que a UE já mobilizou cinco milhões de euros de ajuda.",
-      "source": "Observador",
-      "date": "Sun, 28 Jun 2026 09:23:15 +0100",
-      "url": "https://observador.pt/liveblogs/lider-da-diplomacia-da-ue-falou-com-delcy-rodriguez-a-europa-esta-ao-lado-da-venezuela-nesta-hora-de-necessidade/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1999:1124:nowe:0:64/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/28055943/47366184.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "482c1500",
-      "cat": "tecnologia",
-      "title": "É influencer e recebe produtos de marcas? Tem de declarar no IRS",
-      "summary": "Se faz publicações enquanto influencer, e foi remunerado por esses vídeos ou fotografias publicados nas redes sociais, é necessário declarar os rendimentos obtidos &#8211; e alguns “recebidos” &#8211; no IRS. A apenas três dias do fim da campanha de IRS, importa recordar aos contribuintes que deixar",
-      "source": "ECO",
-      "date": "Sun, 28 Jun 2026 08:19:41 +0000",
-      "url": "https://eco.sapo.pt/2026/06/28/e-influencer-e-recebe-produtos-de-marcas-tem-de-declarar-no-irs/",
-      "img": "https://eco.imgix.net/uploads/2025/02/cropped-25523444-scaled-5.jpg",
-      "score": 0.7
     }
   ]
 }
