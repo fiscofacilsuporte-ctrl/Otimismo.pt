@@ -1,5 +1,5 @@
 {
-  "last_update": "28/06/2026 14:05 UTC",
+  "last_update": "28/06/2026 19:41 UTC",
   "total": 30,
   "news": [
     {
@@ -14,21 +14,21 @@
       "score": 0.82
     },
     {
-      "id": "6fe9f629",
+      "id": "9b446a9a",
       "cat": "tecnologia",
-      "title": "Portugal soma oito `metais`, com mais uma prata e dois bronzes",
-      "summary": "Portugal conquistou hoje mais três medalhas, uma de prata e duas de bronze, no Europeu de canoagem em maratonas, a decorrer em Pitesti, na Roménia, elevando para oito os pódios na competição.",
-      "source": "RTP",
-      "date": "Sat, 27 Jun 2026 20:53:31 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-soma-oito-metais-com-mais-uma-prata-e-dois-bronzes_d1749923",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "title": "Canoagem: Portugal encerra Europeus de maratona com medalhas de prata e bronze",
+      "summary": "Ricardo Coelho e Rui Lacerda garantiram o segundo lugar em C2, enquanto José Ramalho e Alfredo Faria concluíram regata de K2 a 1,31 segundos da dupla vencedora.",
+      "source": "Público",
+      "date": "Sun, 28 Jun 2026 16:43:35 GMT",
+      "url": "https://www.publico.pt/2026/06/28/desporto/noticia/canoagem-portugal-encerra-europeus-maratona-medalhas-prata-bronze-2179753",
+      "img": null,
       "score": 0.79
     },
     {
       "id": "5066c88b",
       "cat": "tecnologia",
       "title": "O voluntariado no estrangeiro pode construir a próxima geração de cidadãos globais?",
-      "summary": "O voluntariado no exterior oferece um caminho prático para a cidadania global – construído através de salas de aula, comunidades e intercâmbio cultural. O post O voluntariado no exterior pode construir a próxima geração de cidadãos globais? apareceu primeiro em Notícias Positivas.",
+      "summary": "O voluntariado no exterior oferece um caminho prático para a cidadania global – construído através de salas de aula, comunidades e intercâmbio cultural O post O voluntariado no exterior pode construir a próxima geração de cidadãos globais? apareceu primeiro em Notícias Positivas.",
       "source": "Positive News",
       "date": "Mon, 22 Jun 2026 09:25:05 +0000",
       "url": "https://www.positive.news/society/youth/can-volunteering-abroad-build-the-next-generation-of-global-citizens/",
@@ -39,7 +39,7 @@
       "id": "0c80f094",
       "cat": "ciencia",
       "title": "A Terra pode ter semeado vida em Vênus há bilhões de anos",
-      "summary": "Um novo estudo sugere que a Terra pode ter enviado pequenos viajantes a Vénus durante milhares de milhões de anos. Os investigadores descobriram que os impactos de asteróides poderiam lançar micróbios para o espaço, onde alguns poderiam sobreviver à viagem e acabar suspensos nas nuvens de Vénus. Se missões futuras detectarem vida lá, haverá uma surpresa",
+      "summary": "Um novo estudo sugere que a Terra pode ter enviado pequenos viajantes a Vénus durante milhares de milhões de anos. Os investigadores descobriram que os impactos de asteróides poderiam lançar micróbios para o espaço, onde alguns poderiam sobreviver à viagem e acabar suspensos nas nuvens de Vénus. Se futuras missões detectarem vida lá, haverá uma surpresa",
       "source": "ScienceDaily",
       "date": "Thu, 25 Jun 2026 23:22:17 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
@@ -58,14 +58,91 @@
       "score": 0.79
     },
     {
-      "id": "c52f4921",
+      "id": "7f168d05",
       "cat": "tecnologia",
-      "title": "Prémio Nacional de Banda Desenhada distingue carreira de António Jorge Gonçalves",
-      "summary": "A primeira edição do prémio distinguiu ainda Dormindo entre Cadáveres , de Luís Moreira Gonçalves e Felipe Parucci, como Obra do Ano e Rumo ao Eclipse com o Prémio Inovação.",
+      "title": "George Russell vence na Áustria e recupera vice-liderança do Mundial de Fórmula 1",
+      "summary": "Max Verstappen e Kimi Antonelli completaram o pódio do oitavo Grande Prémio da temporada, com os Ferrari longe da discussão dos primeiros lugares.",
       "source": "Público",
-      "date": "Sun, 28 Jun 2026 11:13:45 GMT",
-      "url": "https://www.publico.pt/2026/06/28/culturaipsilon/noticia/premio-nacional-banda-desenhada-distingue-carreira-antonio-jorge-goncalves-2179734",
+      "date": "Sun, 28 Jun 2026 18:40:10 GMT",
+      "url": "https://www.publico.pt/2026/06/28/desporto/noticia/george-russell-vence-austria-recupera-vicelideranca-mundial-formula-1-2179766",
       "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "3fbbbe75",
+      "cat": "tecnologia",
+      "title": "A sua semana dia a dia: Fórum do BCE, ex-dividendo da Navigator, investimentos da Noruega e um feriado",
+      "summary": "Esta semana temos o Fórum do BCE em Sintra, o pagamento do dividendo da Navigator – que deixa de conferir esse direito no dia 29 –, decisões da Justiça nos EUA, plano de investimentos do fundo soberano da Noruega, fecho de Wall Street para celebração do Dia da Independência e novos indicadores macro",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 28 Jun 2026 18:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/a-sua-semana-dia-a-dia-forum-do-bce-ex-dividendo-da-navigator-investimentos-da-noruega-e-um-feriado",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-14-18-19-00-522025.png",
+      "score": 0.76
+    },
+    {
+      "id": "6c7ac05c",
+      "cat": "tecnologia",
+      "title": "Carneiro reclama vitória do PS na reforma laboral e PSU e pede a Montenegro que \"tire cabeça da areia\"",
+      "summary": "De acordo com o líder do PS, desde que a AD venceu as eleições são \"dois anos perdidos e a falhar\".",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 28 Jun 2026 16:43:21 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-reclama-vitoria-do-ps-na-reforma-laboral-e-psu-e-pede-a-montenegro-que-tire-cabeca-da-areia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-19-12-49-11-522239.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "ac3138fd",
+      "cat": "tecnologia",
+      "title": "Zizou Bergs conquista torneio de Eastbourne",
+      "summary": "O tenista belga Zizou Bergs conquistou o primeiro título da carreira, ao conseguir a reviravolta diante do francês Ugo Humbert na adiada final do torneio de Eastbourne.",
+      "source": "RTP",
+      "date": "Sun, 28 Jun 2026 17:15:36 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/zizou-bergs-conquista-torneio-de-eastbourne_d1750045",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1b7db6fcccfcc787b8e48777f1dd17ca?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "cf2e8f66",
+      "cat": "tecnologia",
+      "title": "Ai Ogura estreia-se a vencer em MotoGP e Jorge Martín é o novo líder",
+      "summary": "O piloto japonês Ai Ogura (Aprilia) obteve a sua primeira vitória no Mundial de MotoGP ao ser o mais rápido no Grande Prémio dos Países Baixos, 10.ª ronda da temporada.",
+      "source": "RTP",
+      "date": "Sun, 28 Jun 2026 17:11:38 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/ai-ogura-estreia-se-a-vencer-em-motogp-e-jorge-martin-e-o-novo-lider_d1750043",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e5d53a0eaef4513d1c62a0589e78c686?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "aebcdf46",
+      "cat": "tecnologia",
+      "title": "Russell primeiro no GP da Áustria",
+      "summary": "O piloto britânico George Russell (Mercedes) venceu o Grande Prémio da Áustria de Fórmula 1 e recuperou terreno no Campeonato do Mundo, após a oitava ronda da temporada.",
+      "source": "RTP",
+      "date": "Sun, 28 Jun 2026 17:07:14 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/russell-primeiro-no-gp-da-austria_d1750042",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5e/5e6feb28fc626614694429963c4c55dd?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "3d60da3d",
+      "cat": "tecnologia",
+      "title": "Carneiro reclama vitória na reforma laboral e PSU",
+      "summary": "O líder socialista considerou &#8220;uma vitória do PS&#8221; travar a &#8220;contrarreforma laboral&#8221; e a Prestação Social Única (PSU) propostas pelo Executivo PSD/CDS-PP, pedindo ao primeiro-ministro que &#8220;tire a cabeça da areia&#8221;. &#8220;Nos últimos dias, depois de meses de trabalh",
+      "source": "ECO",
+      "date": "Sun, 28 Jun 2026 17:00:37 +0000",
+      "url": "https://eco.sapo.pt/2026/06/28/carneiro-reclama-vitoria-na-reforma-laboral-e-psu/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47367795-scaled-1.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "2be65319",
+      "cat": "tecnologia",
+      "title": "Mulher ganha na loteria e imediatamente dá 5 mil ao vizinho para levar a família de férias",
+      "summary": "Uma mulher de 48 anos que ganhou um milhão na loteria imediatamente deu aos vizinhos um presente de cinco mil, para que pudessem viajar nas primeiras férias com a família no exterior. Honorata Jamrozik ganhou o prêmio isento de impostos que mudou sua vida no Sorteio Mensal de Milionários Omaze do Reino Unido - e seu primeiro ato foi altruísta",
+      "source": "Good News Network",
+      "date": "Sun, 28 Jun 2026 13:16:25 +0000",
+      "url": "https://www.goodnewsnetwork.org/woman-wins-lottery-and-immediately-gives-neighbor-5000-for-family-vacation/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Honorata-Jamrozik-and-husband-win-lottery-Omaze-SWNS.jpg",
       "score": 0.76
     },
     {
@@ -83,22 +160,11 @@
       "id": "9550f2e0",
       "cat": "ciencia",
       "title": "Dois enfeites de jardim considerados 'concreto sem valor' revelam-se bustos de mármore italiano que valem milhares de dólares",
-      "summary": "Descobriu-se que duas estátuas de jardim “inúteis”, consideradas feitas de concreto barato, eram raras obras-primas de mármore italiano do século XVIII, rendendo ao proprietário um belo pagamento após sua venda. Um especialista em vendas de imóveis avistou os bustos esfarrapados e lascados na vegetação rasteira ao redor de uma casa que estava sendo limpa.",
+      "summary": "Descobriu-se que duas estátuas de jardim “inúteis”, consideradas feitas de concreto barato, eram raras obras-primas de mármore italiano do século XVIII, rendendo ao proprietário um belo pagamento após a venda. Um especialista em vendas de imóveis avistou os bustos esfarrapados e lascados na vegetação rasteira ao redor de uma casa que estava sendo limpa.",
       "source": "Good News Network",
       "date": "Sat, 27 Jun 2026 18:00:31 +0000",
       "url": "https://www.goodnewsnetwork.org/two-garden-ornaments-thought-to-be-worthless-concrete-turn-out-to-be-italian-marble-busts/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/2-marble-busts-found-in-garden-by-Hansons-Auctioneers-SWNS.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "d7960571",
-      "cat": "tecnologia",
-      "title": "370.000 acres de floresta tropical e picos de granito agora protegidos na Guiana Francesa",
-      "summary": "Como parte da nova lei de protecção das terras selvagens, o governo francês anunciou a criação de uma nova reserva natural na Guiana Francesa, abrangendo 370.000 acres. Chamada de Picos Rochosos de Armontabo, a reserva inclui montanhas de granito gigantescas e isoladas, cercadas por uma floresta tropical intacta de rica biodiversidade.",
-      "source": "Good News Network",
-      "date": "Fri, 26 Jun 2026 18:30:16 +0000",
-      "url": "https://www.goodnewsnetwork.org/new-reserve-to-protect-370000-acres-of-rainforest-in-french-guiana/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Hilly-terrain-in-French-Guiana-credit-Lesly-Derksen.jpg",
       "score": 0.76
     },
     {
@@ -135,91 +201,36 @@
       "score": 0.76
     },
     {
-      "id": "86ce0539",
-      "cat": "geral",
-      "title": "Queda de avião mata 11 pessoas em Nancy, Nordeste de França",
-      "summary": "De acordo com o prefeito de Meurthe-et-Moselle, todos os ocupantes do avião morreram: o piloto, cinco instrutores de paraquedismo e cinco alunos.",
+      "id": "50bcec9c",
+      "cat": "tecnologia",
+      "title": "Números que ainda trazem esperança aos venezuelanos abalados pelo azar dos sismos: 33 e 2741",
+      "summary": "Até ao final do dia de sábado, as equipas de resgate tinham salvado 33 pessoas. A chegada de 2741 membros de equipas de resgate internacional trouxe algum alento de que ainda se possam salvar mais.",
       "source": "Público",
-      "date": "Sun, 28 Jun 2026 11:21:47 GMT",
-      "url": "https://www.publico.pt/2026/06/28/mundo/noticia/aviao-transportava-paraquedistas-cai-nancy-nordeste-franca-2179733",
+      "date": "Sun, 28 Jun 2026 18:01:50 GMT",
+      "url": "https://www.publico.pt/2026/06/28/mundo/noticia/numeros-trazem-esperanca-venezuelanos-abalados-azar-sismos-33-2741-2179759",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "226d35c4",
-      "cat": "cultura",
-      "title": "Filme luso-espanhol Decorado , de Alberto Vázquez, premiado no festival de Annecy",
-      "summary": "Com co-produção da Sardinha em Lata, Decorado é distinguido depois de ter vencido um prémio Goya, em Espanha, e o prémio especial do júri no Festival de Animação de Lisboa - Monstra.",
-      "source": "Público",
-      "date": "Sun, 28 Jun 2026 10:33:55 GMT",
-      "url": "https://www.publico.pt/2026/06/28/culturaipsilon/noticia/filme-lusoespanhol-decorado-alberto-vazquez-premiado-festival-annecy-2179731",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "57d6ebcc",
+      "id": "f499f95f",
       "cat": "tecnologia",
-      "title": "Alverca oficializa saída do treinador Custódio Castro",
-      "summary": "Custódio Castro assumiu a equipa no início da época passada, guiando os alverquenses ao 11.º lugar da I Liga e à desejada manutenção no primeiro escalão um ano após a subida.",
+      "title": "As nossas casas de luxo que atraem os milionários dos EUA",
+      "summary": "Segurança, conforto e autenticidade. Visitámos imóveis milionários à venda entre Lisboa e Cascais para perceber o que procuram os norte-americanos que querem viver — ou passar férias — em Portugal.",
       "source": "Observador",
-      "date": "Sun, 28 Jun 2026 13:41:20 +0100",
-      "url": "https://observador.pt/2026/06/28/alverca-oficializa-saida-do-treinador-custodio-castro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:81/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/28132611/47119564.jpg",
+      "date": "Sun, 28 Jun 2026 18:30:27 +0100",
+      "url": "https://observador.pt/especiais/a-europa-e-o-novo-sonho-americano-por-dentro-das-casas-de-luxo-em-portugal-que-atraem-os-milionarios-dos-eua/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/11195822/ilacerda-casa-luxo-alcabideche-23-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "97e97ada",
-      "cat": "tecnologia",
-      "title": "Sismos. Oposição na Venezuela denuncia proibições de ajudar",
-      "summary": "Oposição diz-se proibida de usar termo \"centro de doação\". Há vídeos que mostram polícia a desmobilizar recolhas. Especialistas alertam que ajuda humanitária alimenta luta política. E dos dois lados.",
+      "id": "e67f45b3",
+      "cat": "ambiente",
+      "title": "Porque nos sentimos culpados por descansar?",
+      "summary": "Quem não pensa assim, não compreende. Mas, para muita gente, uma tarde no sofá desperta culpa, ansiedade e a sensação de perder tempo. A razão pode estar num “desajuste evolutivo” da espécie humana.",
       "source": "Observador",
-      "date": "Sun, 28 Jun 2026 13:13:20 +0100",
-      "url": "https://observador.pt/2026/06/28/perseguicao-politica-oposicao-queixa-se-de-proibicoes-na-recolha-de-ajuda-como-se-o-governo-tivesse-registado-a-marca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25093722/gettyimages-2282671784-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7c9e1719",
-      "cat": "tecnologia",
-      "title": "“Vai ser sempre difícil defender com Ronaldo em campo”",
-      "summary": "Valha-nos o “Santo Diogo Costa” que manteve a baliza a salvo numa exibição muito pobre da seleção nacional. A Croácia vai fazer a vida difícil a Portugal? Ainda a lista completa dos 16 avos de final.",
-      "source": "Observador",
-      "date": "Sun, 28 Jun 2026 12:20:18 +0100",
-      "url": "https://observador.pt/programas/e-o-campeao-e/vai-ser-sempre-dificil-defender-com-ronaldo-em-campo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "4c86d878",
-      "cat": "economia",
-      "title": "IA promete maior produtividade, mas com riscos para os mercados de trabalho",
-      "summary": "BIS alerta que \"a transição para uma economia mais produtiva impulsionada pela IA acarreta riscos\". Pode intensificar a perda de emprego.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 28 Jun 2026 12:05:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ia-promete-maior-produtividade-mas-com-riscos-para-os-mercados-de-trabalho",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-02-12-52-54-524741.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "60d37b7a",
-      "cat": "tecnologia",
-      "title": "Maria da Graça Carvalho: Vamos inaugurar a ligação de muito alta tensão com Espanha. Falta-nos França",
-      "summary": "Portugal inaugura a 2 de julho uma nova ligação de muito alta tensão com Espanha, num investimento de 44 milhões de euros que permitirá atingir a meta europeia de 15% de interligação elétrica entre os dois países. Falta agora fechar o calendário das interligações com França. Há uma reunião em Paris ",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 28 Jun 2026 11:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/maria-da-graca-carvalho-vamos-inaugurar-a-ligacao-de-muito-alta-tensao-com-espanha-falta-nos-franca",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-26-17-53-13-525755.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "58fa1984",
-      "cat": "tecnologia",
-      "title": "IPMA regista sismo de magnitude 4,1 sentido com intensidade em Lagos e Portimão",
-      "summary": "\"Este sismo, de acordo com a informação disponível até ao momento, não causou danos pessoais ou materiais\", de acordo com o IPMA.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 28 Jun 2026 10:18:51 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ipma-regista-sismo-de-magnitude-4-1-sentido-com-intensidade-em-lagos-e-portimao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-24-23-47-42-525617.png",
+      "date": "Sun, 28 Jun 2026 17:51:55 +0100",
+      "url": "https://observador.pt/especiais/porque-nos-sentimos-culpados-por-descansar-a-ciencia-explica/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25124628/770porque-cansa.jpg",
       "score": 0.73
     },
     {
@@ -231,28 +242,6 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
-      "score": 0.73
-    },
-    {
-      "id": "4ec134b5",
-      "cat": "tecnologia",
-      "title": "Messi sempre a marcar, Argentina sempre a ganhar",
-      "summary": "A Argentina, já apurada, fechou no sábado a fase de grupos do Mundial de futebol com o pleno de vitórias, ao bater a já eliminada Jordânia por 3-1, novamente com Lionel Messi a marcar.",
-      "source": "RTP",
-      "date": "Sun, 28 Jun 2026 11:54:46 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/messi-sempre-a-marcar-argentina-sempre-a-ganhar_e1750009",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/01/01c7b27dd2934b6089b0b6425e92638f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "81796ad9",
-      "cat": "tecnologia",
-      "title": "Mundial2026. Cabo-verdianos festejam apuramento histórico",
-      "summary": "Foram centenas as pessoas que festejaram o apuramento histórico de Cabo Verde no Mundial de futebol.",
-      "source": "RTP",
-      "date": "Sat, 27 Jun 2026 22:15:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/mundial2026-cabo-verdianos-festejam-apuramento-historico_v1749965",
-      "img": "https://cdn-images.rtp.pt/icm/images/0c/0c665685ff44035c661c455db8f88e39_N.jpg?",
       "score": 0.73
     },
     {
@@ -275,17 +264,6 @@
       "date": "Sun, 28 Jun 2026 10:15:25 +0000",
       "url": "https://eco.sapo.pt/2026/06/28/ha-novas-regras-sobre-criptoativos-saiba-quais-sao/",
       "img": "https://eco.imgix.net/uploads/2026/02/cropped-bitcoin-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "88671258",
-      "cat": "tecnologia",
-      "title": "Diogo Costa garante empate a Portugal e ‘alarmes’ voltam a soar",
-      "summary": "O guarda-redes Diogo Costa e o videoárbitro salvaram Portugal da primeira derrota no Mundial2026 de futebol, com a seleção lusa a terminar no segundo lugar do Grupo K após um 0-0 frente a uma claramente superior Colômbia. Em Miami, o resultado e o &#8216;adeus&#8217; ao primeiro lugar no agrupamento",
-      "source": "ECO",
-      "date": "Sun, 28 Jun 2026 03:15:50 +0000",
-      "url": "https://eco.sapo.pt/2026/06/28/diogo-costa-garante-empate-a-portugal-e-alarmes-voltam-a-soar/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47365675-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -331,6 +309,28 @@
       "url": "https://reasonstobecheerful.world/the-civic-hour-volunteering/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/5R5A8944-scaled.jpg",
       "score": 0.73
+    },
+    {
+      "id": "f64ece64",
+      "cat": "geral",
+      "title": "Autarca divide o Japão por tirar licença de maternidade",
+      "summary": "Tem 35 anos, sucedeu a um homem de 71 — e tem deixado outros zangados. A decisão de Shoko Kawata, numa pacata cidade a 450 km de Tóquio, de tirar a licença de maternidade gerou debate no país.",
+      "source": "Observador",
+      "date": "Sun, 28 Jun 2026 18:14:58 +0100",
+      "url": "https://observador.pt/2026/06/28/uma-autarca-de-35-anos-esta-a-dividir-o-japao-por-gozar-a-licenca-de-maternidade-eu-nao-posso-tornar-me-um-homem/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1479:833:nowe:0:87/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/28170403/f6yqlpsbiaae0jp.jpeg",
+      "score": 0.7
+    },
+    {
+      "id": "f08517c7",
+      "cat": "tecnologia",
+      "title": "Ter mais gente não significa produzir mais",
+      "summary": "O verdadeiro caminho para aumentar os rendimentos passa precisamente por produzir mais valor e não por trabalhar mais horas.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 28 Jun 2026 20:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/antonio-moita/detalhe/ter-mais-gente-nao-significa-produzir-mais",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-02/img_394x514uu2024-02-19-10-50-47-470823.png",
+      "score": 0.7
     }
   ]
 }
