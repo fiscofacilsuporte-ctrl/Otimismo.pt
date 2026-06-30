@@ -1,5 +1,5 @@
 {
-  "last_update": "30/06/2026 14:34 UTC",
+  "last_update": "30/06/2026 20:08 UTC",
   "total": 30,
   "news": [
     {
@@ -58,31 +58,75 @@
       "score": 0.79
     },
     {
-      "id": "1305a5f9",
-      "cat": "tecnologia",
-      "title": "O Negócios pergunta. Maioria concorda com a criação de um fundo soberano português",
-      "summary": "O Negócios desafiou os seus leitores a responderem a uma pergunta no canal do WhatsApp sobre o fundo soberano anunciado pelo primeiro-ministro, ou seja, um fundo para o Estado investir em empresas estratégicas.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 30 Jun 2026 14:32:31 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/media/o-negocios/detalhe/o-negocios-pergunta-maioria-concorda-com-a-criacao-de-um-fundo-soberano-portugues",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-24-16-21-53-525613.png",
+      "id": "1d77091d",
+      "cat": "ciencia",
+      "title": "UE. Buscas na União Nacional e partidos de direita radical",
+      "summary": "Procuradoria Europeia confirma buscas \"em França e noutros países europeus\" no âmbito de investigação sobre \"utilização de fundos europeus\". União Nacional, de Marine Le Pen, está entre os visados.",
+      "source": "Observador",
+      "date": "Tue, 30 Jun 2026 19:18:42 +0100",
+      "url": "https://observador.pt/2026/06/30/procuradoria-europeia-realiza-buscas-em-edificios-da-uniao-nacional-e-em-varios-partidos-europeus-de-direita-radical/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/30190946/gettyimages-2233321043-scaled.jpg",
       "score": 0.76
     },
     {
-      "id": "0dea84f4",
-      "cat": "economia",
-      "title": "Um mercado único europeu da energia será mesmo uma boa ideia?",
-      "summary": "Se cada país for encarregado de executar a sua própria transição energética, os governos serão devidamente incentivados a fornecer eletricidade de baixo carbono e baixo custo, e aqueles que tiverem os modelos mais promissores atrairão mais investimento e emprego de alto valor.",
+      "id": "a5b882e8",
+      "cat": "tecnologia",
+      "title": "IL propõe contas de poupança e investimento isentas de impostos até 20 mil euros por ano",
+      "summary": "A bancada parlamentar liberal propõe a criação de um regime jurídico das Contas de Poupança e Investimento isentas de impostos e alterações ao código do IRS e do imposto do selo para excluir de tributação os ganhos obtidos através deste novo tipo de contas, bem como os valores pagos de comissões e j",
       "source": "Jornal de Negócios",
-      "date": "Tue, 30 Jun 2026 14:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/economistas/detalhe/um-mercado-unico-europeu-da-energia-sera-mesmo-uma-boa-ideia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-12/img_394x514uu2023-12-14-15-28-30-466298.png",
+      "date": "Tue, 30 Jun 2026 20:10:17 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/il-propoe-contas-de-poupanca-e-investimento-isentas-de-impostos-ate-20-mil-euros-por-ano",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-18-16-28-11-525359.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "24eb9f26",
+      "cat": "tecnologia",
+      "title": "Azores Airlines reduz prejuízo no primeiro trimestre para 22,4 milhões",
+      "summary": "A SATA destaca que o resultado líquido da Azores Airlines manteve-se negativo, mas \"registou uma melhoria muito expressiva\" ao reduzir o prejuízo em 8,6 milhões na comparação com o trimestre homólogo.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 30 Jun 2026 18:55:24 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/azores-airlines-reduz-prejuizo-no-primeiro-trimestre-para-22-4-milhoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-04-15-55-00-519601.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "4c109a18",
+      "cat": "tecnologia",
+      "title": "Roubini diz que Portugal pode beneficiar da corrida pelo talento se continuar a atrair imigração qualificada",
+      "summary": "O economista norte-americano Nouriel Roubini afirmou esta terça-feira que Portugal está bem posicionado para beneficiar da revolução tecnológica, mas terá de continuar a atrair trabalhadores qualificados e investimento para reforçar a sua competitividade. Em declarações aos jornalistas, à margem da ",
+      "source": "ECO",
+      "date": "Tue, 30 Jun 2026 20:02:50 +0000",
+      "url": "https://eco.sapo.pt/2026/06/30/roubini-diz-que-portugal-pode-beneficiar-da-corrida-pelo-talento-se-continuar-a-atrair-imigracao-qualificada/",
+      "img": "https://eco.imgix.net/uploads/2020/11/cropped-qsp-summit_nouriel-roubini-1.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "b769ce40",
+      "cat": "tecnologia",
+      "title": "Esta é a chave do Euromilhões. Jackpot é de 69 milhões de euros",
+      "summary": "Com um primeiro prémio no valor de 69 milhões de euros, decorreu terça-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta terça-feira, 30 de junho: Números: 1, 8, 37, 44 e ",
+      "source": "ECO",
+      "date": "Tue, 30 Jun 2026 19:26:12 +0000",
+      "url": "https://eco.sapo.pt/2026/06/30/esta-e-a-chave-do-euromilhoes-jackpot-e-de-69-milhoes-de-euros/",
+      "img": "https://eco.imgix.net/uploads/2020/05/cropped-pndr1637-2.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "87ee4fd8",
+      "cat": "tecnologia",
+      "title": "Défice orçamental agrava-se até maio. Despesa subiu 9,7%",
+      "summary": "Maio foi o segundo mês consecutivo com as contas públicas portuguesas no vermelho. Nos primeiros cinco meses do ano, o saldo das administrações públicas registaram um défice de 1.761,9 milhões de euros, superior ao saldo negativo de 1.547,7 milhões, registado no mês anterior, de acordo com a síntese",
+      "source": "ECO",
+      "date": "Tue, 30 Jun 2026 17:53:27 +0000",
+      "url": "https://eco.sapo.pt/2026/06/30/defice-orcamental-agrava-se-ate-maio-despesa-subiu-97/",
+      "img": "https://eco.imgix.net/uploads/2025/10/cropped-oe2026-07.jpg",
       "score": 0.76
     },
     {
       "id": "62963284",
       "cat": "tecnologia",
-      "title": "Baixas taxas recordes de mortalidade infantil registradas na Índia e na China",
+      "title": "Baixas taxas de mortalidade infantil registradas na Índia e na China",
       "summary": "Em toda a Ásia, as crianças vivem além do primeiro aniversário a taxas recordes, o que sublinha o sucesso que a região tem tido na melhoria dos padrões de vida. Na Índia, na China e na Indonésia – as três nações mais populosas do mundo, as taxas de mortalidade infantil caíram para níveis recorde. O mais p",
       "source": "Good News Network",
       "date": "Mon, 29 Jun 2026 15:30:08 +0000",
@@ -135,25 +179,69 @@
       "score": 0.76
     },
     {
-      "id": "3a3f505f",
-      "cat": "tecnologia",
-      "title": "Austrália quer reforçar proibição das redes sociais para menores com multas até 60 milhões de euros",
-      "summary": "O Governo australiano quer aumentar a pressão sobre as plataformas por não travarem o acesso de menores de 16 anos. A nova legislação precisa ainda da aprovação do parlamento para entrar em vigor.",
+      "id": "55a8fb8f",
+      "cat": "geral",
+      "title": "Em Portugal 15% dos desempregados são jovens com o ensino superior? Verdadeiro",
+      "summary": "Dados do Instituto Nacional de Estatística relativos ao primeiro trimestre de 2026 mostram que a alegação feita pela líder da IL corresponde à realidade.",
       "source": "Público",
-      "date": "Tue, 30 Jun 2026 12:25:00 GMT",
-      "url": "https://www.publico.pt/2026/06/30/enter/noticia/australia-quer-reforcar-proibicao-redes-sociais-menores-multas-ate-60-milhoes-euros-2179875",
+      "date": "Tue, 30 Jun 2026 18:08:34 GMT",
+      "url": "https://www.publico.pt/2026/06/30/economia/noticia/portugal-15-desempregados-sao-jovens-ensino-superior-verdadeiro-2180016",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "58042e14",
+      "id": "256e961e",
       "cat": "tecnologia",
-      "title": "Euforia na IA? Bolha só se os lucros não acompanharem mega-investimentos",
-      "summary": "Os resultados trimestrais das grandes tecnológicas, que têm conseguido ficar acima das expectativas, estão a conseguir afastar receios de uma \"bolha\" no setor de IA, segundo o diretor do FMI, Tobias Adrian. Para já, \"a disciplina e as forças do mercado não foram assim tão diluídas\".",
+      "title": "Aumento populacional: esquerda exige mais investimento público, PSD quer explicações do PS",
+      "summary": "Esquerda quer mais investimento público, ao passo que IL pede “fiscalidade mais atractiva” e PAN alerta que envelhecimento demográfico se mantém.",
+      "source": "Público",
+      "date": "Tue, 30 Jun 2026 18:01:00 GMT",
+      "url": "https://www.publico.pt/2026/06/30/politica/noticia/aumento-populacional-esquerda-exige-investimento-publico-psd-quer-explicacoes-ps-2179967",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "8ac2b0db",
+      "cat": "tecnologia",
+      "title": "O socialismo bate à porta de um Partido Democrata ainda a lamber as feridas de 2024",
+      "summary": "As vitórias recentes dos socialistas democratas numa série de primárias e em cidades como Nova Iorque, Seattle ou Filadélfia animam a ala progressista do partido.",
+      "source": "Público",
+      "date": "Tue, 30 Jun 2026 17:20:13 GMT",
+      "url": "https://www.publico.pt/2026/06/30/mundo/noticia/socialismo-bate-porta-partido-democrata-lamber-feridas-2024-2180033",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "a1fb0ae4",
+      "cat": "tecnologia",
+      "title": "Coimbra: 17 dias de concertos, animação e gastronomia",
+      "summary": "O projeto, visto pela presidente da Câmara de Coimbra como um importante espaço de encontro comunitário, recebeu o maior investimento de sempre. Programa propõe concertos, animação e gastronomia.",
+      "source": "Observador",
+      "date": "Tue, 30 Jun 2026 19:53:47 +0100",
+      "url": "https://observador.pt/2026/06/30/concertos-diversoes-e-gastronomia-em-17-dias-da-feira-popular-de-coimbra/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/10/20113249/tcp-coimbra-meruge-plate-studio-210916-190104-2614-min-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "e7c3c40b",
+      "cat": "tecnologia",
+      "title": "Havana diz que não há progressos nas negociações com os EUA",
+      "summary": "O ministro cubano dos Negócios Estrangeiros anunciou um debate na Assembleia-geral da ONU para 7 de julho e alertou para o agravamento da \"agressão multidimensional\" dos EUA.",
+      "source": "Observador",
+      "date": "Tue, 30 Jun 2026 19:44:41 +0100",
+      "url": "https://observador.pt/2026/06/30/governo-cubano-diz-que-nao-ha-progressos-nas-negociacoes-com-os-eua/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/01220037/46590584.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1d29245a",
+      "cat": "tecnologia",
+      "title": "Ventura defende que Estado português não deve pagar indemnização a Sócrates",
+      "summary": "O líder do Chega falava a propósito da decisão judicial de condenar o Estado português a indemnizar o antigo primeiro-ministro José Sócrates em 15 mil euros \"por má administração da justiça no processo Operação Marquês\".",
       "source": "Jornal de Negócios",
-      "date": "Tue, 30 Jun 2026 15:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/euforia-na-ia-bolha-so-se-os-lucros-nao-acompanharem-mega-investimentos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-30-14-21-14-525871.jpg",
+      "date": "Tue, 30 Jun 2026 18:28:55 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ventura-defende-que-estado-portugues-nao-deve-pagar-indemnizacao-a-socrates",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-27-14-42-00-519298.jpg",
       "score": 0.73
     },
     {
@@ -168,58 +256,14 @@
       "score": 0.73
     },
     {
-      "id": "df140f09",
+      "id": "3ca3ab69",
       "cat": "tecnologia",
-      "title": "Euforia total. Presidente do Paraguai decretou feriado nacional",
-      "summary": "O jogo entre Paraguai e Alemanha foi vivido de forma intensa nas respetivas capitais. Euforia em Assunção, Choque em Berlim. Após a vitória do Paraguai, o presidente Santiago Penã decretou feriado nacional.",
+      "title": "LeBron James deixa Lakers depois de oito anos e um título da NBA",
+      "summary": "LeBron James, melhor marcador da história da Liga norte-americana de basquetebol (NBA), anunciou hoje que vai deixar os Los Angeles Lakers, depois de oito épocas e a conquista do título em 2019/20.",
       "source": "RTP",
-      "date": "Tue, 30 Jun 2026 14:56:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/euforia-total-presidente-do-paraguai-decretou-feriado-nacional_v1750433",
-      "img": "https://cdn-images.rtp.pt/icm/images/8e/8e33dd1b8bf21f34181683bab5163a7f_N.jpg?",
-      "score": 0.73
-    },
-    {
-      "id": "18a27b26",
-      "cat": "desporto",
-      "title": "Wimbledon. Djokovic sofre mas avança para a segunda ronda",
-      "summary": "O sérvio Novak Djokovic, recordista de títulos do Grand Slam e sete vezes campeão na relva londrina, qualificou-se hoje para a segunda ronda em Wimbledon, ao impor-se ao tenista chinês Wu Yibing, em quatro sets.",
-      "source": "RTP",
-      "date": "Tue, 30 Jun 2026 00:02:21 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/wimbledon-djokovic-sofre-mas-avanca-para-a-segunda-ronda_d1750318",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6b0ed6cfacd140d9fd23861be44e0404?w=350&amp;q=50&amp;rect=0,133,1256,689&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "21f1da56",
-      "cat": "tecnologia",
-      "title": "Do Porto para o mundo, Portugal Fashion Experience começa esta quarta-feira",
-      "summary": "É a primeira das missões do Portugal Fashion nas suas três décadas de vida: mostrar a criatividade, inovação e negócio do ecossistema nacional de moda internacionalmente. Depois de ter passado por Milão, Paris, Londres e Copenhaga, a plataforma portuguesa regressa a casa. De a 1 a 4 de julho, o Port",
-      "source": "ECO",
-      "date": "Tue, 30 Jun 2026 14:26:29 +0000",
-      "url": "https://eco.sapo.pt/2026/06/30/do-porto-para-o-mundo-portugal-fashion-experience-comeca-esta-quarta-feira/",
-      "img": "https://eco.imgix.net/uploads/2026/01/cropped-ernest-w-baker.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "9dfa730b",
-      "cat": "tecnologia",
-      "title": "Comissão Europeia fecha plano de reestruturação da TAP",
-      "summary": "O Governo recebeu de Bruxelas a confirmação de que o Plano de Reestruturação da TAP foi &#8220;concluído com sucesso&#8221;. Ministério das Infraestruturas considera que encerramento do processo permite maior &#8220;previsibilidade e clareza no processo de privatização&#8221;. &#8220;O Estado Portug",
-      "source": "ECO",
-      "date": "Tue, 30 Jun 2026 14:15:37 +0000",
-      "url": "https://eco.sapo.pt/2026/06/30/comissao-europeia-fecha-plano-de-reestruturacao-da-tap/",
-      "img": "https://eco.imgix.net/uploads/2026/01/cropped-28956414-scaled-3.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "c13a6789",
-      "cat": "tecnologia",
-      "title": "Consulta pública do troço do TGV em Espinho, Gaia e Porto fecha com 160 participações",
-      "summary": "A consulta pública do troço da linha de alta velocidade (LAV) que abrange Espinho, Gaia e Porto, e que terminou na segunda-feira, fechou com 160 participações, segundo o portal participa.pt. De acordo com o portal de consultas públicas, para o Relatório de Conformidade Ambiental do Projeto de Execuç",
-      "source": "ECO",
-      "date": "Tue, 30 Jun 2026 14:12:56 +0000",
-      "url": "https://eco.sapo.pt/2026/06/30/consulta-publica-do-troco-do-tgv-em-espinho-gaia-e-porto-fecha-com-160-participacoes/",
-      "img": "https://eco.imgix.net/uploads/2022/12/cropped-cropped-cropped-suica_via-algaliada-scaled-1.jpg",
+      "date": "Tue, 30 Jun 2026 21:37:48 +0100",
+      "url": "https://www.rtp.pt/noticias/basquetebol/lebron-james-deixa-lakers-depois-de-oito-anos-e-um-titulo-da-nba_d1750499",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/97/97b3c9bac676aa049c752aa1f08eeae8?w=350&amp;q=50&amp;rect=0,0,1187,651&amp;auto=format",
       "score": 0.73
     },
     {
@@ -267,61 +311,6 @@
       "score": 0.73
     },
     {
-      "id": "f40a7018",
-      "cat": "tecnologia",
-      "title": "Quase um quarto das mulheres que trabalham alterou a vida profissional para conciliar com a familiar",
-      "summary": "A percentagem dos homens na mesma situação é de apenas 13,6%, segundo dados do INE revelados esta terça-feira.",
-      "source": "Público",
-      "date": "Tue, 30 Jun 2026 13:58:26 GMT",
-      "url": "https://www.publico.pt/2026/06/30/sociedade/noticia/quase-quarto-mulheres-trabalham-alterou-vida-profissional-conciliar-familiar-2179982",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "f3b3b93d",
-      "cat": "tecnologia",
-      "title": "Venezuela suspende por 48 horas acesso de jornalistas estrangeiros a La Guaira",
-      "summary": "Suspensão da passagem dos autocarros que transportavam jornalistas foi considerada crucial para o resgate de sobreviventes. Sindicato contesta decisão do Ministério da Comunicação da Venezuela.",
-      "source": "Público",
-      "date": "Tue, 30 Jun 2026 13:51:11 GMT",
-      "url": "https://www.publico.pt/2026/06/30/mundo/noticia/venezuela-suspende-48-horas-acesso-jornalistas-estrangeiros-guaira-2179991",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "2aead3c2",
-      "cat": "tecnologia",
-      "title": "As notícias das 15h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Tue, 30 Jun 2026 15:17:52 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2381/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "dac09d82",
-      "cat": "tecnologia",
-      "title": "Confrontos com a polícia nos Países Baixos após eliminação",
-      "summary": "As forças de segurança foram atacadas por adeptos com garrafas e artefactos pirotécnicos na cidade de Haia, num cenário de confrontos que resultou na detenção de mais de dez pessoas.",
-      "source": "Observador",
-      "date": "Tue, 30 Jun 2026 15:15:35 +0100",
-      "url": "https://observador.pt/2026/06/30/mundial-2026-confrontos-com-a-policia-nos-paises-baixos-apos-eliminacao-frente-a-marrocos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3330:1875:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/30112514/gettyimages-2283954170.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "b83c7b41",
-      "cat": "tecnologia",
-      "title": "Brasil de Ancelotti: o fim da \"Vini-dependência\"?",
-      "summary": "O \"samba\" agora fala italiano. Com Ancelotti, o Brasil deixou de ser um bando de clãs e estrelas isoladas para se tornar num bloco sólido. Ainda a Alemanha: de potência mundial a fábrica de feriados.",
-      "source": "Observador",
-      "date": "Tue, 30 Jun 2026 15:12:24 +0100",
-      "url": "https://observador.pt/programas/e-o-campeao-e/brasil-de-ancelotti-o-fim-da-vini-dependencia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
-      "score": 0.7
-    },
-    {
       "id": "c8ced442",
       "cat": "tecnologia",
       "title": "Soldados ingénuos, como formigas no Chapitô",
@@ -330,6 +319,17 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
