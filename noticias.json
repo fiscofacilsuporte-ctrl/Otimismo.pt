@@ -1,5 +1,5 @@
 {
-  "last_update": "29/06/2026 20:12 UTC",
+  "last_update": "30/06/2026 04:15 UTC",
   "total": 30,
   "news": [
     {
@@ -12,17 +12,6 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-26-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/06/iStock-1217809699-2-e1782404535426.jpeg",
       "score": 0.82
-    },
-    {
-      "id": "3c5fdb78",
-      "cat": "tecnologia",
-      "title": "Renova investe 11 milhões em descarbonização e reduz emissões em mais de metade",
-      "summary": "O investimento, apoiado pelo Plano de Recuperação e Resiliência (PRR), teve como principal componente a instalação de uma central de biomassa, que substitui grande parte do gás natural utilizado na produção de vapor por uma fonte de energia renovável, permitindo reduzir em mais de metade as emissões",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 29 Jun 2026 20:34:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/renova-investe-11-milhoes-em-descarbonizacao-e-reduz-emissoes-em-mais-de-metade",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-29-20-33-28-525840.jpg",
-      "score": 0.79
     },
     {
       "id": "5066c88b",
@@ -69,14 +58,25 @@
       "score": 0.79
     },
     {
-      "id": "1bcfdc4e",
+      "id": "ef42fcdd",
       "cat": "tecnologia",
-      "title": "UE investiu 79 mil milhões de euros em proteção ambiental em 2025",
-      "summary": "Os países da União Europeia gastaram o equivalente a 0,4% do PIB em ativos essenciais para proteger o ambiente, com o tratamento de águas residuais a liderar os investimentos.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 29 Jun 2026 19:53:32 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/ue-investiu-79-mil-milhoes-de-euros-em-protecao-ambiental-em-2025",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-29-12-41-14-525826.jpg",
+      "title": "A prata até é barata",
+      "summary": "A pergunta a fazer ao artista em potência é: “Preferes um quilo de ouro ou 66 quilos de prata?” Opinião de Miguel Esteves Cardoso",
+      "source": "Público",
+      "date": "Mon, 29 Jun 2026 23:05:00 GMT",
+      "url": "https://www.publico.pt/2026/06/30/opiniao/opiniao/prata-ate-barata-2179839",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "78cc224c",
+      "cat": "ciencia",
+      "title": "3 razões que explicam a vitória de Sócrates contra o Estado",
+      "summary": "Tribunal administrativo considerou provado que segredo de justiça foi violado por \"alguém da investigação\" e que foi posta em causa a presunção de inocência de Sócrates. MP pode recorrer da decisão.",
+      "source": "Observador",
+      "date": "Tue, 30 Jun 2026 03:32:43 +0100",
+      "url": "https://observador.pt/especiais/3-razoes-que-explicam-a-primeira-vitoria-de-jose-socrates-contra-o-estado-e-o-direito-a-uma-indemnizacao-de-15-mil-euros/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:85/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/29210148/47101408.jpg",
       "score": 0.76
     },
     {
@@ -93,7 +93,7 @@
     {
       "id": "62963284",
       "cat": "tecnologia",
-      "title": "Baixas taxas de mortalidade infantil registradas na Índia e na China",
+      "title": "Baixas taxas recordes de mortalidade infantil registradas na Índia e na China",
       "summary": "Em toda a Ásia, as crianças vivem além do primeiro aniversário a taxas recordes, o que sublinha o sucesso que a região tem tido na melhoria dos padrões de vida. Na Índia, na China e na Indonésia – as três nações mais populosas do mundo, as taxas de mortalidade infantil caíram para níveis recorde. O mais p",
       "source": "Good News Network",
       "date": "Mon, 29 Jun 2026 15:30:08 +0000",
@@ -157,58 +157,36 @@
       "score": 0.76
     },
     {
-      "id": "cbd4aa16",
+      "id": "43d9abcf",
       "cat": "tecnologia",
-      "title": "Livre defende a criação de um fundo municipal em Coimbra com as mais-valias fundiárias",
-      "summary": "Apenas três votos separaram a votação de uma recomendação do Livre no âmbito da revisão do PDM. A proposta quer que receitas criem um Fundo Municipal de Sustentabilidade Ambiental e Urbanística.",
+      "title": "Paraguai elimina Alemanha nos penáltis e está nos “oitavos” do Mundial",
+      "summary": "Já no prolongamento, a Alemanha chegou a sonhar com uma vitória por 2-1, mas o golo de Jonathan Tah foi anulado e o jogo só ficou decidido nas grandes penalidades.",
       "source": "Público",
-      "date": "Mon, 29 Jun 2026 18:26:16 GMT",
-      "url": "https://www.publico.pt/2026/06/29/local/noticia/livre-defende-criacao-fundo-municipal-coimbra-maisvalias-fundiarias-2179903",
+      "date": "Mon, 29 Jun 2026 23:54:09 GMT",
+      "url": "https://www.publico.pt/2026/06/30/desporto/noticia/paraguai-elimina-alemanha-penaltis-oitavos-mundial-2179927",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "c5353875",
+      "id": "6dd81c9e",
       "cat": "tecnologia",
-      "title": "O maior Mundial de sempre já fixou e bateu recordes",
-      "summary": "O Campeonato do Mundo que se está a realizar nos EUA, Canadá e México já teve mais jogos do que o anterior.",
+      "title": "Keiko Fujimori oficialmente declarada vencedora das presidenciais no Peru",
+      "summary": "Vitória foi confirmada, mas por uma margem mínima, como era esperado. Diferença face ao rival de esquerda foi de menos de 50 mil votos.",
       "source": "Público",
-      "date": "Mon, 29 Jun 2026 18:14:14 GMT",
-      "url": "https://www.publico.pt/2026/06/29/desporto/noticia/maior-mundial-ja-fixou-bateu-recordes-2179906",
+      "date": "Mon, 29 Jun 2026 23:01:57 GMT",
+      "url": "https://www.publico.pt/2026/06/30/mundo/noticia/keiko-fujimori-oficialmente-declarada-vencedora-presidenciais-peru-2179923",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "5229f877",
-      "cat": "geral",
-      "title": "Líbano: Ministro israelita avisa que ocupação será longa",
-      "summary": "Ministro da Defesa israelita Israel Katz garantiu que as tropas não recuam \"nem um centímetro\" e afirmou que os EUA aceitaram esta posição no anexo militar do acordo-quadro.",
-      "source": "Observador",
-      "date": "Mon, 29 Jun 2026 20:09:17 +0100",
-      "url": "https://observador.pt/2026/06/29/ministro-israelita-avisa-que-ocupacao-no-libano-e-de-longo-prazo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:74/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/29190031/47368446.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "721e39e3",
-      "cat": "cultura",
-      "title": "Livre admite ter Tavares como candidato a primeiro-ministro",
-      "summary": "Partido não exclui ter Tavares como representante nas próximas legislativas. Oposição acredita que continuará a ser o \"porta-voz informal\" do Livre e questiona a popularidade de Jorge Pinto.",
-      "source": "Observador",
-      "date": "Mon, 29 Jun 2026 19:53:29 +0100",
-      "url": "https://observador.pt/especiais/livre-admite-escolher-rui-tavares-como-candidato-a-primeiro-ministro-mesmo-fora-da-lideranca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/18192424/47131396.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "c9fd7099",
+      "id": "60994445",
       "cat": "tecnologia",
-      "title": "Pilotos europeus da Ryanair aprovam moção de desconfiança na gestão da empresa",
-      "summary": "O Ryanair Transnational Pilot Group (RTPG), que representa pilotos de vários sindicatos europeus, aponta que os profissionais não acreditam que a empresa esteja a negociar os acordos coletivos de \"boa-fé\".",
+      "title": "Sentimentos e perceções",
+      "summary": "O sentimento de confiança agora manifestado é por isso um sinal positivo, mas ainda assim obriga à prudência.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 29 Jun 2026 20:28:44 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/pilotos-europeus-da-ryanair-aprovam-mocao-de-desconfianca-na-gestao-da-empresa",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-18-09-04-40-523774.jpg",
+      "date": "Mon, 29 Jun 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/sentimentos-e-percecoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
       "score": 0.73
     },
     {
@@ -223,6 +201,17 @@
       "score": 0.73
     },
     {
+      "id": "18a27b26",
+      "cat": "desporto",
+      "title": "Wimbledon. Djokovic sofre mas avança para a segunda ronda",
+      "summary": "O sérvio Novak Djokovic, recordista de títulos do Grand Slam e sete vezes campeão na relva londrina, qualificou-se hoje para a segunda ronda em Wimbledon, ao impor-se ao tenista chinês Wu Yibing, em quatro sets.",
+      "source": "RTP",
+      "date": "Tue, 30 Jun 2026 00:02:21 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/wimbledon-djokovic-sofre-mas-avanca-para-a-segunda-ronda_d1750318",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6b0ed6cfacd140d9fd23861be44e0404?w=350&amp;q=50&amp;rect=0,133,1256,689&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "5d3731ef",
       "cat": "tecnologia",
       "title": "Wimbledon. Campeão Sinner marca encontro na segunda ronda com Nuno Borges",
@@ -234,10 +223,21 @@
       "score": 0.73
     },
     {
+      "id": "af65e7f8",
+      "cat": "tecnologia",
+      "title": "Brasil critica iniciativas unilaterais no Mercosul e pede definição sobre futuro do bloco",
+      "summary": "O ministro das Relações Exteriores do Brasil, Mauro Vieira, defendeu esta segunda-feira maior coesão no Mercosul e criticou iniciativas unilaterais de Estados-membros para negociar acordos comerciais fora do bloco, afirmando que elas enfraquecem a integração regional. Num discurso na 68.ª Reunião do",
+      "source": "ECO",
+      "date": "Mon, 29 Jun 2026 20:29:53 +0000",
+      "url": "https://eco.sapo.pt/2026/06/29/brasil-critica-iniciativas-unilaterais-no-mercosul-e-pede-definicao-sobre-futuro-do-bloco/",
+      "img": "https://eco.imgix.net/uploads/2025/09/cropped-p064920-19299.jpg",
+      "score": 0.73
+    },
+    {
       "id": "2db665ea",
       "cat": "ambiente",
       "title": "Operação Marquês. Estado condenado a pagar 15 mil euros a José Sócrates",
-      "summary": "O Tribunal Administrativo de Círculo de Lisboa condenou o Estado português a indemnizar o antigo primeiro-ministro José Sócrates (2005-2011) em 15 mil euros por má administração da justiça no processo Operação Marquês. Segundo o acórdão datado de sábado, a que a Lusa teve acesso esta segunda-feira, ",
+      "summary": "O Tribunal Administrativo de Círculo de Lisboa condenou o Estado português a indemnizar o antigo primeiro-ministro José Sócrates (2005-2011) em 15 mil euros por má administração da justiça no processo Operação Marquês. Segundo a sentença datada de sábado, a que a Lusa teve acesso, o montante visa co",
       "source": "ECO",
       "date": "Mon, 29 Jun 2026 20:06:42 +0000",
       "url": "https://eco.sapo.pt/2026/06/29/operacao-marques-estado-condenado-a-pagar-15-mil-euros-a-jose-socrates/",
@@ -289,47 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "1649d09a",
-      "cat": "saude",
-      "title": "Governo insiste que TdC é responsável pelo aumento do custo do Hospital Oriental de Lisboa",
-      "summary": "Ministro adjunto e da Reforma do Estado reitera críticas ao Tribunal de Contas sobre derrapagem nos custos e nas obras do futuro hospital de Lisboa.",
-      "source": "Público",
-      "date": "Mon, 29 Jun 2026 18:48:05 GMT",
-      "url": "https://www.publico.pt/2026/06/29/politica/noticia/governo-insiste-tdc-responsavel-aumento-custo-hospital-oriental-lisboa-2179904",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "6dc27921",
+      "id": "011cf1a3",
       "cat": "tecnologia",
-      "title": "As notícias das 20h",
+      "title": "As notícias das 4h",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Mon, 29 Jun 2026 20:11:26 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-1988/",
+      "date": "Tue, 30 Jun 2026 04:15:45 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2331/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "c8ced442",
+      "id": "ea4eefe7",
       "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "title": "3h. Steve Witkoff, enviado dos EUA, está a caminho de Doha",
+      "summary": "Donald Trump garante que há negociações agendadas para hoje com o Irão. No entanto, Teerão nega. Ainda nesta edição, análise à primeira parte do jogo do Mundial entre Marrocos e Países Baixos.",
+      "source": "Observador",
+      "date": "Tue, 30 Jun 2026 03:14:28 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2364/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "a4745361",
+      "id": "2362aa66",
       "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "title": "Brilhante Dias diz que PSD/CDS sempre \"governou mal\" e que em muitos temas \"pensa como o Chega\"",
+      "summary": "No discurso do jantar das jornadas parlamentares do PS, que decorrem até terça-feira na Área Metropolitana de Lisboa, Eurico Brilhante Dias considerou que a \"coligação com o Chega foi o elemento mais estrutural desta sessão legislativa\".",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 29 Jun 2026 23:54:14 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/brilhante-dias-diz-que-psd-cds-sempre-governou-mal-e-que-em-muitos-temas-pensa-como-o-chega",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-19-19-37-00-515025.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "908d9db2",
+      "cat": "tecnologia",
+      "title": "ERC vai instaurar processo de contraordenação à plataforma LiveMode",
+      "summary": "A plataforma , que transmite jogos de futebol do Mundial2026 em Portugal, pediu o registo na ERC esta segunda-feira enquanto serviço audiovisual a pedido (streaming), conforme exigido, apesar de continuar a opor-se à classificação atribuída pelo regulador.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 29 Jun 2026 23:43:36 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/erc-vai-instaurar-processo-de-contraordenacao-a-plataforma-livemode",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-30-16-22-58-522899.jpg",
       "score": 0.7
     }
   ]
