@@ -1,5 +1,5 @@
 {
-  "last_update": "01/07/2026 10:04 UTC",
+  "last_update": "01/07/2026 14:53 UTC",
   "total": 30,
   "news": [
     {
@@ -39,7 +39,7 @@
       "id": "0c80f094",
       "cat": "ciencia",
       "title": "A Terra pode ter semeado vida em Vênus há bilhões de anos",
-      "summary": "Um novo estudo sugere que a Terra pode ter enviado pequenos viajantes a Vénus durante milhares de milhões de anos. Os investigadores descobriram que os impactos de asteróides poderiam lançar micróbios para o espaço, onde alguns poderiam sobreviver à viagem e acabar suspensos nas nuvens de Vénus. Se missões futuras detectarem vida lá, haverá uma surpresa",
+      "summary": "Um novo estudo sugere que a Terra pode ter enviado pequenos viajantes a Vénus durante milhares de milhões de anos. Os investigadores descobriram que os impactos de asteróides podem lançar micróbios para o espaço, onde alguns podem sobreviver à viagem e acabar suspensos nas nuvens de Vénus. Se futuras missões detectarem vida lá, haverá uma surpresa",
       "source": "ScienceDaily",
       "date": "Thu, 25 Jun 2026 23:22:17 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
@@ -58,53 +58,31 @@
       "score": 0.79
     },
     {
-      "id": "c828a390",
-      "cat": "ciencia",
-      "title": "Sismos. Polícias detidos por roubarem dinheiro nos resgates",
-      "summary": "Agentes foram expulsos do Corpo de Investigação Criminal e serão presentes a tribunal. Ministro da Administração Interna prometeu \"tolerância zero\" e garantiu que vão ser julgados de acordo com a lei.",
+      "id": "e59072e6",
+      "cat": "ambiente",
+      "title": "Portugal e Espanha devem coordenar acções em defesa do lobo-ibérico, pedem ONG",
+      "summary": "O modelo a seguir deve ser o mesmo que permitiu recuperar o lince ibérico, defendem organizações portuguesas e espanholas, para proteger uma espécie cujo estatuto de conservação foi reduzido.",
+      "source": "Público",
+      "date": "Wed, 01 Jul 2026 14:06:00 GMT",
+      "url": "https://www.publico.pt/2026/07/01/azul/noticia/portugal-espanha-coordenar-accoes-defesa-loboiberico-pedem-ong-2180023",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "83c6b9c5",
+      "cat": "tecnologia",
+      "title": "Mulheres mais livres, mas menos felizes? — Debate",
+      "summary": "O regresso a papéis tradicionais de género é exposto pelo sucesso de Yesteryear e pela polémica das tradwives. Algumas feministas culpam a revolução sexual pela infelicidade das mulheres.",
       "source": "Observador",
-      "date": "Wed, 01 Jul 2026 09:25:59 +0100",
-      "url": "https://observador.pt/2026/07/01/sismos-na-venezuela-quatro-policias-detidos-por-roubarem-dinheiro-durante-as-operacoes-de-resgate/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2837:1597:nowe:826:792/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/25182557/gettyimages-2282748403-scaled.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "ff293311",
-      "cat": "tecnologia",
-      "title": "O custo invisível da Inteligência Artificial na nova corrida à energia",
-      "summary": "A explosão da inteligência artificial está a impulsionar uma nova vaga de investimentos em centros de dados e a aumentar a procura de eletricidade numa altura em que a Europa tenta reforçar a sua soberania tecnológica, descarbonizar a economia e expandir as redes elétricas, alimentando um debate sob",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 01 Jul 2026 11:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/detalhe/o-custo-invisivel-da-inteligencia-artificial-na-nova-corrida-a-energia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-06-10-57-21-510730.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "340ff118",
-      "cat": "tecnologia",
-      "title": "Fasano estreia-se em Portugal com hotel em Cascais (e lança a âncora no Mediterrâneo)",
-      "summary": "“Fasano Cascais em breve”, promete o site do Fasano. O hotel será o primeiro da marca brasileira em Portugal e a abertura está prevista para o primeiro trimestre de 2028, de acordo com a informação do grupo JHSF disponibilizada à imprensa brasileira. Terá 97 quartos e suítes e faz parte de um projet",
-      "source": "ECO",
-      "date": "Wed, 01 Jul 2026 08:48:34 +0000",
-      "url": "https://eco.sapo.pt/2026/07/01/fasano-estreia-se-em-portugal-com-hotel-em-cascais-e-lanca-a-ancora-no-mediterraneo/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-cascais-e015a39800.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "e3241c50",
-      "cat": "economia",
-      "title": "Criar riqueza: o desafio das empresas e dos trabalhadores",
-      "summary": "O debate económico em Portugal centra-se frequentemente na distribuição da riqueza, esquecendo-se que a sua criação constitui a condição prévia para qualquer política de redistribuição. Numa economia aberta e integrada nos mercados internacionais, o crescimento sustentado do rendimento das famílias ",
-      "source": "ECO",
-      "date": "Wed, 01 Jul 2026 08:30:04 +0000",
-      "url": "https://eco.sapo.pt/opiniao/criar-riqueza-o-desafio-das-empresas-e-dos-trabalhadores/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2025/06/isabel-cipriano_opiniao.jpg",
+      "date": "Wed, 01 Jul 2026 12:21:15 +0100",
+      "url": "https://observador.pt/programas/contra-corrente/mulheres-mais-livres-mas-menos-felizes-debate/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
       "score": 0.76
     },
     {
       "id": "62963284",
       "cat": "tecnologia",
-      "title": "Baixas taxas recordes de mortalidade infantil registradas na Índia e na China",
+      "title": "Baixas taxas de mortalidade infantil registradas na Índia e na China",
       "summary": "Em toda a Ásia, as crianças vivem além do primeiro aniversário a taxas recordes, o que sublinha o sucesso que a região tem tido na melhoria dos padrões de vida. Na Índia, na China e na Indonésia – as três nações mais populosas do mundo, as taxas de mortalidade infantil caíram para níveis recorde. O mais p",
       "source": "Good News Network",
       "date": "Mon, 29 Jun 2026 15:30:08 +0000",
@@ -113,36 +91,14 @@
       "score": 0.76
     },
     {
-      "id": "21519061",
-      "cat": "tecnologia",
-      "title": "Abutre-de-bico-branco criticamente ameaçado retorna ao refúgio no Camboja após anos de esforço",
-      "summary": "Uma espécie de abutre criticamente ameaçada e de importância crítica foi avistada num santuário de vida selvagem no Camboja pela primeira vez em 10 anos. Depois que um incidente de envenenamento dizimou a população local de abutres de cauda branca, foram feitos esforços substanciais para aumentar a oferta de habitat.",
-      "source": "Good News Network",
-      "date": "Mon, 29 Jun 2026 13:01:47 +0000",
-      "url": "https://www.goodnewsnetwork.org/critically-endangered-white-rumped-vulture-returns-to-cambodia-refuge-after-years-of-effort/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/A-white-rumped-vulture-in-Nepal-credit-Prasan-Shrestha-Own-work-CC-BY-SA-4.0.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "20fc0b11",
-      "cat": "tecnologia",
-      "title": "Programa de mil milhões de dólares liga 50 milhões de pessoas à rede eléctrica em toda a África",
-      "summary": "50 milhões de africanos que vivem em 40 países têm agora acesso à electricidade pela primeira vez, graças a uma iniciativa de desenvolvimento de 15 mil milhões de dólares do Banco Mundial e do Grupo do Banco Africano de Desenvolvimento (BAD). Chamada Missão 300, visa reduzir para metade o número de pessoas que vivem sem eletricidade fiável até 203",
-      "source": "Good News Network",
-      "date": "Mon, 29 Jun 2026 11:00:08 +0000",
-      "url": "https://www.goodnewsnetwork.org/billion-dollar-program-connects-50-million-people-to-the-power-grid-across-africa/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Kenyan-geothermal-utility-workers-credit-Lydur-Skulason-CC-BY-2.0-via-Flickr.jpg",
-      "score": 0.76
-    },
-    {
       "id": "43c6dc1d",
       "cat": "tecnologia",
       "title": "Amor desconectado, namoro IRL, sem os aplicativos",
-      "summary": "Esgotados pelos aplicativos, um número crescente de solteiros está buscando o amor off-line, abraçando uma nova onda de eventos de namoro “na vida real”.",
+      "summary": "Exausta com os aplicativos, Angela Garwood levou sua busca pelo amor offline e embarcou em uma série de eventos de namoro “na vida real”. Veja como ela entrou no post Love unplugged, namoro IRL, sem os aplicativos apareceu pela primeira vez no Positive News.",
       "source": "Positive News",
       "date": "Wed, 01 Jul 2026 07:00:49 +0000",
       "url": "https://www.positive.news/society/love-unplugged-the-in-person-dating-events-sparking-real-connection/",
-      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/06/other-one-.png",
+      "img": "https://www.positive.news/wp-content/uploads/2026/06/other-one-.png",
       "score": 0.76
     },
     {
@@ -157,25 +113,47 @@
       "score": 0.76
     },
     {
-      "id": "fe9357c4",
-      "cat": "economia",
-      "title": "Novas regras sobre mercado de criptoativos já estão em vigor",
-      "summary": "Em causa estão diplomas, aprovados no Parlamento no final de 2025, que reforçam a regulação e supervisão sobre as transações com criptoativos e visam prevenir atividades ilícitas relacionadas com criptoativos.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 01 Jul 2026 10:49:48 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/novas-regras-sobre-mercado-de-criptoativos-ja-estao-em-vigor",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-23-14-33-54-509813.jpg",
+      "id": "4932681d",
+      "cat": "tecnologia",
+      "title": "ONU alerta que avanço da inteligência artificial pode aprofundar desigualdades globais",
+      "summary": "Relatório preliminar de painel científico da ONU aponta riscos da inteligência artificial para a democracia, os direitos humanos e a governança global da tecnologia.",
+      "source": "Público",
+      "date": "Wed, 01 Jul 2026 13:21:38 GMT",
+      "url": "https://www.publico.pt/2026/07/01/enter/noticia/onu-alerta-avanco-inteligencia-artificial-aprofundar-desigualdades-globais-2180103",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "9da7cc9e",
+      "id": "8f6cfffa",
       "cat": "tecnologia",
-      "title": "Picos de imigração e políticas mais abertas têm impacto positivo na economia",
-      "summary": "Estudo discutido no Fórum BCE, em Sintra, conclui que, nas últimas três décadas, os imigrantes recebidos pelos países da OCDE vieram de fora do grupo e têm um nível de qualificação \"significativamente elevado\".",
+      "title": "Puma: \"Se Portugal ganhar, teremos planos emocionantes\"",
+      "summary": "Patrick O'Brien, diretor de Teamsport da Puma, diz que Portugal lidera as vendas globais da marca e, \"sem agoirar\", aponta para planos emocionantes em caso de vitória no Mundial",
+      "source": "Observador",
+      "date": "Wed, 01 Jul 2026 12:11:09 +0100",
+      "url": "https://observador.pt/especiais/se-portugal-ganhar-teremos-planos-emocionantes-patrick-obrien-diretor-da-puma-elogia-a-joia-da-coroa/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2933:1646:nowe:133:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/01010339/20260626-153049.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "7a9d1059",
+      "cat": "tecnologia",
+      "title": "Taxa de desemprego recua para 5,5% em maio",
+      "summary": "Em maio, \"a taxa de desemprego situou-se em 5,5%, valor inferior ao de abril de 2026 (0,2 p.p.), ao de fevereiro desse ano (0,5 p.p.) e ao de maio de 2025 (0,7 p.p.)\", refere o INE.",
+      "source": "Observador",
+      "date": "Wed, 01 Jul 2026 12:07:30 +0100",
+      "url": "https://observador.pt/2026/07/01/taxa-de-desemprego-recua-para-55-em-maio/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/20142032/iefp.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c33b7b86",
+      "cat": "tecnologia",
+      "title": "António Costa destaca \"grande dia\" com entrada em vigor de acordo comercial UE-EUA",
+      "summary": "A União Europeia aplica, a partir desta quarta-feira, a eliminação das tarifas aduaneiras sobre as importações industriais provenientes dos EUA e permite um acesso preferencial ao mercado comum para produtos agrícolas e mariscos norte-americanos.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 01 Jul 2026 10:04:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/picos-de-imigracao-e-politicas-mais-abertas-tem-impacto-positivo-na-economia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-01-10-05-32-525903.jpg",
+      "date": "Wed, 01 Jul 2026 14:50:01 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/antonio-costa-destaca-grande-dia-com-entrada-em-vigor-de-acordo-comercial-ue-eua",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-01-14-48-43-525926.jpg",
       "score": 0.73
     },
     {
@@ -190,25 +168,47 @@
       "score": 0.73
     },
     {
-      "id": "3ca3ab69",
+      "id": "45824ac2",
       "cat": "tecnologia",
-      "title": "LeBron James deixa Lakers depois de oito anos e um título da NBA",
-      "summary": "LeBron James, melhor marcador da história da Liga norte-americana de basquetebol (NBA), anunciou hoje que vai deixar os Los Angeles Lakers, depois de oito épocas e a conquista do título em 2019/20.",
-      "source": "RTP",
-      "date": "Tue, 30 Jun 2026 21:37:48 +0100",
-      "url": "https://www.rtp.pt/noticias/basquetebol/lebron-james-deixa-lakers-depois-de-oito-anos-e-um-titulo-da-nba_d1750499",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/97/97b3c9bac676aa049c752aa1f08eeae8?w=350&amp;q=50&amp;rect=0,0,1187,651&amp;auto=format",
+      "title": "Costa destaca “grande dia” com entrada em vigor de acordo comercial UE-EUA",
+      "summary": "O presidente do Conselho Europeu destacou esta quarta-feira o &#8220;grande dia&#8221; da entrada em vigor do acordo entre UE e Estados Unidos sobre tarifas aduaneiras e trocas comerciais, defendendo uma &#8220;relação comercial justa e previsível&#8221;. &#8220;A UE é uma potência comercial. Não go",
+      "source": "ECO",
+      "date": "Wed, 01 Jul 2026 14:43:33 +0000",
+      "url": "https://eco.sapo.pt/2026/07/01/costa-destaca-grande-dia-com-entrada-em-vigor-de-acordo-comercial-ue-eua/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47349341-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "625a5412",
+      "id": "8a84ffb1",
       "cat": "tecnologia",
-      "title": "Queda dos preços da energia abranda taxa de inflação na Zona Euro para 2,8% em junho",
-      "summary": "A taxa de inflação anual da Zona Euro registou, em junho, uma descida mensal de 0,4 pontos percentuais para os 2,8%, de acordo com a estimativa rápida divulgada esta quarta-feira pelo Eurostat. Entre os principais componentes da inflação na área da moeda única, destaca-se a queda dos preços da energ",
+      "title": "Lagarde rejeita cenário de estagflação na Europa. “É um conceito dos anos 70, associado a circunstâncias que hoje não se verificam”",
+      "summary": "A presidente do Banco Central Europeu (BCE) considerou esta quinta-feira que o conceito de estagflação, geralmente entendido como a combinação de baixo crescimento e alta inflação, está ultrapassado, recusando ser o cenário a que se assiste na Europa. Christine Lagarde justificou a sua posição com o",
       "source": "ECO",
-      "date": "Wed, 01 Jul 2026 09:10:14 +0000",
-      "url": "https://eco.sapo.pt/2026/07/01/queda-dos-precos-da-energia-abranda-inflacao-na-zona-euro-para-28-em-junho/",
-      "img": "https://eco.imgix.net/uploads/2026/04/cropped-doc202604204696384612902613-1.jpg",
+      "date": "Wed, 01 Jul 2026 13:43:51 +0000",
+      "url": "https://eco.sapo.pt/2026/07/01/lagarde-rejeita-cenario-de-estagflacao-na-europa-e-um-conceito-dos-anos-70-associado-a-circunstancias-que-hoje-nao-se-verificam/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-202601017-ecb-forum-in-sintra-9219.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "acc9db41",
+      "cat": "tecnologia",
+      "title": "Boas novas na história, 1 de Julho",
+      "summary": "Há 123 anos, soou a pistola de largada do primeiro Tour de France, a competição de ciclismo de maior prestígio da atualidade. Criado e patrocinado pelo jornal L&#8217;Auto, antecessor do atual diário L&#8217;Équipe, decorreu de 1 a 19 de julho em seis etapas ao longo de 2.428 km (1.509 mi).",
+      "source": "Good News Network",
+      "date": "Wed, 01 Jul 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060701/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/07/Maurice-Garin-who-won-the-first-Tour-de-France.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "6bf6216f",
+      "cat": "tecnologia",
+      "title": "Papai desistiu de seu velho Mustang para criar 6 filhos. Décadas depois, seu filho recuperou",
+      "summary": "Era um Mustang Mach 1 1969, Daniel Allen contaria aos seus rapazes; o melhor carro que ele já teve. E ele trocou para dar espaço para sua crescente família. Cada vez que o Sr. Allen contava a história, um de seus seis filhos ouvia atentamente. Shane Allen trocou recentemente seu próprio Mustang restaurado por [&#",
+      "source": "Good News Network",
+      "date": "Tue, 30 Jun 2026 15:30:42 +0000",
+      "url": "https://www.goodnewsnetwork.org/dad-gave-up-his-old-mustang-to-raise-6-children-decades-later-his-son-got-it-back/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/06/Shane-Allens-dad-Daniel-credit-family-photo.jpg",
       "score": 0.73
     },
     {
@@ -267,58 +267,36 @@
       "score": 0.73
     },
     {
-      "id": "c6fd55f7",
-      "cat": "tecnologia",
-      "title": "Taxa de inflação da zona euro abranda para 2,8% em Junho",
-      "summary": "Taxa de inflação homóloga abrandou face aos 3,2% de Maio, mas mantém-se acima da de 2% de Junho de 2025.",
+      "id": "203426fa",
+      "cat": "geral",
+      "title": "Três estações do metro de Lisboa abertas fora do horário para acolher sem-abrigo",
+      "summary": "A medida foi decidida como resposta à previsão de tempo quente, em que o Instituto Português do Mar e da Atmosfera emitiu aviso vermelho para o distrito de Lisboa.",
       "source": "Público",
-      "date": "Wed, 01 Jul 2026 09:53:17 GMT",
-      "url": "https://www.publico.pt/2026/07/01/economia/noticia/taxa-inflacao-zona-euro-abranda-28-junho-2180080",
+      "date": "Wed, 01 Jul 2026 14:03:42 GMT",
+      "url": "https://www.publico.pt/2026/07/01/local/noticia/tres-estacoes-metro-lisboa-abertas-horario-acolher-semabrigo-2180119",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "8db94c28",
+      "id": "2b56850d",
+      "cat": "ciencia",
+      "title": "Tribunal de Contas diz que ANAC não corrigiu deficiências no seu financiamento",
+      "summary": "A auditoria concluiu que \"não foram implementadas sete das 11 recomendações efetuadas na auditoria inicial e as restantes só parcialmente foram acatadas\".",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 01 Jul 2026 15:44:28 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/tribunal-de-contas-diz-que-anac-nao-corrigiu-deficiencias-no-seu-financiamento",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-05-14-55-05-491487.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "342dcb99",
       "cat": "tecnologia",
-      "title": "Xi vê Partido Comunista Chinês como exemplo de “uma nova forma de civilização humana”",
-      "summary": "Discursando nas comemorações do 105.º aniversário da fundação do PCC, em Pequim, Presidente da China insistiu na “missão histórica” da “reunificação” com Taiwan.",
-      "source": "Público",
-      "date": "Wed, 01 Jul 2026 09:32:51 GMT",
-      "url": "https://www.publico.pt/2026/07/01/mundo/noticia/xi-ve-partido-comunista-chines-exemplo-nova-forma-civilizacao-humana-2180077",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "809624e2",
-      "cat": "tecnologia",
-      "title": "“Limas só chegam à quarta-feira” ou os stresses de quem vive no Interior",
-      "summary": "No Interior, a vida é atravessada por uma mistura estranha de falta e excesso. Não troco estes stresses por uma fila de trânsito na Segunda Circular. Mas também não os romantizo. Crónica de Liliana Carona",
-      "source": "Público",
-      "date": "Wed, 01 Jul 2026 09:19:00 GMT",
-      "url": "https://www.publico.pt/2026/07/01/impar/cronica/limas-so-chegam-quartafeira-stresses-vive-interior-2180011",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "ad215a0f",
-      "cat": "economia",
-      "title": "Há empresas do mundo inteiro interessadas na Lisnave",
-      "summary": "Presidente do Porto de Setúbal diz que nos últimos cinco anos pelo menos 15 empresas manifestaram interesse nos estaleiros da Mitrena. Concurso avança daqui a um ano para nova concessão em 2028.",
-      "source": "Observador",
-      "date": "Wed, 01 Jul 2026 09:46:56 +0100",
-      "url": "https://observador.pt/2026/07/01/nova-concessao-da-lisnave-e-operacao-complexa-mas-ha-empresas-do-mundo-inteiro-interessadas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/20131733/jporfirio-reportagem-lisnave-19-09-01-19-scaled.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "39b88e0b",
-      "cat": "cultura",
-      "title": "CACE Centro inaugurado em Alcabideche com obras do Estado",
-      "summary": "O Centro Coleção de Arte Contemporânea do Estado dispõe de uma grande sala central, para atividades educativas, conferências e programação cultural, duas salas de exposições e uma 'black box'.",
-      "source": "Observador",
-      "date": "Wed, 01 Jul 2026 09:35:04 +0100",
-      "url": "https://observador.pt/2026/07/01/cace-centro-e-inaugurado-em-alcabideche-e-expoe-obras-recentes-da-colecao-do-estado/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/30141227/dventura-cace-28-scaled.jpg",
+      "title": "Centeno e Santos Pereira explicam novo edifício do Banco de Portugal na próxima semana",
+      "summary": "A intenção dos deputados é ouvir ambos os responsáveis no mesmo dia e como Santos Pereira não podia esta quarta-feira, por participar no Fórum do Banco Central Europeu (em Sintra), adiou-se.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 01 Jul 2026 15:02:26 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/centeno-e-santos-pereira-explicam-novo-edificio-do-banco-de-portugal-na-proxima-semana",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-06-12-41-00-510759.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +308,28 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "e3c8d26b",
+      "cat": "cultura",
+      "title": "Benfica e FC Porto exigem explicações sobre saída de Duarte Gomes",
+      "summary": "Benfica e FC Porto exigem esclarecimentos urgentes sobre a saída de Duarte Gomes da direção técnica de arbitragem, que motivou a Federação Portuguesa de Futebol a remeter para o Ministério Público factos relatados pelo ex-árbitro. O clube lisboeta pede mesmo uma reunião de emergência com a FPF.",
+      "source": "RTP",
+      "date": "Wed, 01 Jul 2026 16:46:00 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/benfica-e-fc-porto-exigem-explicacoes-sobre-saida-de-duarte-gomes_d1750672",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b92d34a99894076bac874db1ebc73230?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.7
     }
   ]
