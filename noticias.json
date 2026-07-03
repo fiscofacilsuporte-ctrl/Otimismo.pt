@@ -1,5 +1,5 @@
 {
-  "last_update": "03/07/2026 03:56 UTC",
+  "last_update": "03/07/2026 09:31 UTC",
   "total": 30,
   "news": [
     {
@@ -14,14 +14,25 @@
       "score": 0.82
     },
     {
-      "id": "5066c88b",
+      "id": "ce2fcf51",
       "cat": "tecnologia",
-      "title": "O voluntariado no estrangeiro pode construir a próxima geração de cidadãos globais?",
-      "summary": "O voluntariado no exterior oferece um caminho prático para a cidadania global – construído através de salas de aula, comunidades e intercâmbio cultural O post O voluntariado no exterior pode construir a próxima geração de cidadãos globais? apareceu primeiro em Notícias Positivas.",
-      "source": "Positive News",
-      "date": "Mon, 22 Jun 2026 09:25:05 +0000",
-      "url": "https://www.positive.news/society/youth/can-volunteering-abroad-build-the-next-generation-of-global-citizens/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/06/AIESEC_YouthVolunteer_web-image_image.jpg",
+      "title": "Depois do choque, o alívio. Petróleo vai ter excedente na oferta",
+      "summary": "A maioria das casas de investimento aponta para um grande excedente na oferta de ouro negro, já este ano e em 2027, à conta do restabelecimento dos fluxos de Ormuz e de uma queda da procura por parte de consumidores como a China.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 03 Jul 2026 08:40:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/depois-do-choque-o-alivio-petroleo-vai-ter-excedente-na-oferta",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-26-08-18-30-515243.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "0a8718ab",
+      "cat": "ciencia",
+      "title": "Um estranho sinal do LIGO pode revelar o elo perdido por trás da matéria escura",
+      "summary": "Um sinal de onda gravitacional incomum renovou as esperanças de que buracos negros primordiais, há muito considerados puramente teóricos, possam finalmente estar ao alcance da descoberta. Se confirmados, poderão resolver um dos maiores mistérios da astronomia, explicando a natureza da matéria escura.",
+      "source": "ScienceDaily",
+      "date": "Thu, 02 Jul 2026 23:56:36 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626125703.htm",
+      "img": "https://www.sciencedaily.com/images/1920/binary-black-hole-merger-illustration.webp",
       "score": 0.79
     },
     {
@@ -47,25 +58,14 @@
       "score": 0.79
     },
     {
-      "id": "1c477441",
+      "id": "cb6716f8",
       "cat": "tecnologia",
-      "title": "Sound Particles, Nutrivalley e Brainr de Leiria recebem mais de 2,7 milhões da Portugal Ventures",
-      "summary": "A Sound Particles, a Nutrivalley e a Brainr são as mais recentes startups de Leiria que receberam investimento da Portugal Ventures. O braço de capital de risco do Banco Português de Fomento (BPF) investiu mais de 2,7 milhões de euros nas três empresas, através das call Leiria Crescimento e Leiria R",
-      "source": "ECO",
-      "date": "Thu, 02 Jul 2026 19:18:06 +0000",
-      "url": "https://eco.sapo.pt/2026/07/02/sound-particles-nutrivalley-e-brainr-de-leiria-recebem-mais-de-27-milhoes-da-portugal-ventures/",
-      "img": "https://eco.imgix.net/uploads/2025/09/cropped-brainr-cofundadores-scaled-1.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "ef72f75e",
-      "cat": "tecnologia",
-      "title": "+Media Leaders: Das taxas “anacrónicas” ao bom jornalismo que “salva os modelos económicos”",
-      "summary": "Com o setor dos meios de comunicação social em &#8220;profunda transformação&#8221;, a urgência de adaptação do setor e de avançar com reformas legislativas marcou o painel da primeira edição dos prémios +Media Leaders, promovidos pelo ECO e +M, que decorreu na tarde de quarta-feira, o Estúdio ECO. ",
-      "source": "ECO",
-      "date": "Thu, 02 Jul 2026 18:23:39 +0000",
-      "url": "https://eco.sapo.pt/2026/07/02/media-leaders-das-taxas-anacronicas-ao-bom-jornalismo-que-salva-os-modelos-economicos/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-media-leaders-030.jpg",
+      "title": "Notas sobre o fundo soberano",
+      "summary": "A criação de um instrumento financeiro, como qualquer instrumento de política pública, tem de visar a resolução de um problema ou a concretização de uma visão política.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 03 Jul 2026 08:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/fernando-medina/detalhe/notas-sobre-o-fundo-soberano",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-07/img_394x514uu2024-07-24-16-17-04-481991.png",
       "score": 0.76
     },
     {
@@ -91,6 +91,17 @@
       "score": 0.76
     },
     {
+      "id": "9535e035",
+      "cat": "tecnologia",
+      "title": "O que deu certo esta semana: as boas notícias que importam",
+      "summary": "Os europeus respiraram melhor, silenciaram os cientistas dos EUA e uma dieta saudável foi associada a um menor risco de demência, e mais O post O que deu certo esta semana: as boas notícias que importam apareceu primeiro em Notícias Positivas.",
+      "source": "Positive News",
+      "date": "Fri, 03 Jul 2026 05:43:56 +0000",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-27-of-2026/",
+      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/07/iStock-2219017725.jpeg",
+      "score": 0.76
+    },
+    {
       "id": "9f11afbe",
       "cat": "tecnologia",
       "title": "As mensagens provocativas sobre o clima no OnlyFans podem eliminar o ruído das redes sociais?",
@@ -99,17 +110,6 @@
       "date": "Thu, 02 Jul 2026 07:00:00 +0000",
       "url": "https://www.positive.news/environment/can-provocative-climate-messaging-on-only-fans-cut-through-social-medias-noise/",
       "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/06/Jessica-Riches-02-copy.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "eb1c1105",
-      "cat": "ciencia",
-      "title": "Cientistas descobrem uma maneira completamente diferente de combater vírus",
-      "summary": "Os pesquisadores descobriram um sistema de defesa antiviral inesperado nas anêmonas do mar que funciona de maneira muito diferente daquele usado pelos humanos. A descoberta sugere que a evolução desenvolveu múltiplas formas de combater os vírus, desafiando ideias de longa data sobre como o sistema imunitário dos animais evoluiu.",
-      "source": "ScienceDaily",
-      "date": "Tue, 30 Jun 2026 16:18:00 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
-      "img": "https://www.sciencedaily.com/images/1920/nematostella-vectensis-sea-anemone.webp",
       "score": 0.76
     },
     {
@@ -124,80 +124,69 @@
       "score": 0.76
     },
     {
-      "id": "8fae0b91",
-      "cat": "desporto",
-      "title": "Das quatro linhas à política: a UE precisa de recuperar terreno no desporto global",
-      "summary": "Onde o poder económico está concentrado e os adeptos não têm alternativas significativas, a ideia de que o desporto se pode simplesmente autorregular já não é sustentável.",
+      "id": "8bcaab4f",
+      "cat": "tecnologia",
+      "title": "Inveja da vagina",
+      "summary": "O avanço do feminismo deu às mulheres a chance de ocupar novos lugares sociais. Cabe aos homens se interrogar quais lugares eles pretendem ocupar nesse novo rearranjo. Opinião de Fernanda Hamann",
       "source": "Público",
-      "date": "Thu, 02 Jul 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/07/03/opiniao/opiniao/quatro-linhas-politica-ue-precisa-recuperar-terreno-desporto-global-2180306",
+      "date": "Fri, 03 Jul 2026 08:14:36 GMT",
+      "url": "https://www.publico.pt/2026/07/03/publico-brasil/opiniao/inveja-vagina-2180379",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "b2e760e0",
+      "id": "020b3e46",
       "cat": "tecnologia",
-      "title": "O único toque na bola de CR7 na área foi para o penálti",
-      "summary": "A vitória de Portugal pode ser explicada pelos números: entre o único toque que Ronaldo deu na bola na área, as 5 oportunidades criadas e os 37 minutos de que Ramos precisa para marcar ou assistir.",
+      "title": "Fogo em Vouzela atinge fábrica de transformação de madeira e já causou sete feridos",
+      "summary": "Chamas lavraram durante a noite a serra do Caramulo e chegaram ao distrito de Aveiro, atingindo o concelho de Águeda. Há quase 900 operacionais no terreno.",
+      "source": "Público",
+      "date": "Fri, 03 Jul 2026 06:45:35 GMT",
+      "url": "https://www.publico.pt/2026/07/03/sociedade/noticia/fogo-vouzela-atinge-fabrica-transformacao-madeira-ja-causou-sete-feridos-2180373",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "201ea8ae",
+      "cat": "tecnologia",
+      "title": "Argentina-Cabo Verde: os “tubarões azuis” enfrentam o maior tubarão de todos",
+      "summary": "Na sua estreia em Mundiais, a selecção cabo-verdiana conseguiu chegar à fase a eliminar sem derrotas e defronta agora o campeão do mundo, em Miami. Ambos querem fazer história.",
+      "source": "Público",
+      "date": "Fri, 03 Jul 2026 06:35:00 GMT",
+      "url": "https://www.publico.pt/2026/07/03/desporto/noticia/argentinacabo-verde-tubaroes-azuis-enfrentam-maior-tubarao-2180336",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "3f38715e",
+      "cat": "tecnologia",
+      "title": "Alguma revolução sobrevive 250 anos? Apenas uma: a americana",
+      "summary": "“Consideramos estas verdades evidentes por si mesmas, que todos os homens são criados iguais.\" Esta frase tem 250 anos, abre a Declaração de Independência dos Estados Unidos e ainda hoje a celebramos.",
       "source": "Observador",
-      "date": "Fri, 03 Jul 2026 03:27:36 +0100",
-      "url": "https://observador.pt/2026/07/03/o-unico-toque-na-bola-de-ronaldo-dentro-da-area-foi-marcar-o-penalti-os-numeros-do-apuramento-de-portugal/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2207:1242:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03001429/gettyimages-2284396121.jpg",
+      "date": "Fri, 03 Jul 2026 08:35:56 +0100",
+      "url": "https://observador.pt/programas/contra-corrente/alguma-revolucao-sobrevive-250-anos-apenas-uma-a-americana/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
       "score": 0.73
     },
     {
-      "id": "d6c6f145",
+      "id": "d7bd7f77",
       "cat": "tecnologia",
-      "title": "Ronaldo não afasta despedida no dia em que recordou Jota",
-      "summary": "Ronaldo tornou-se o primeiro jogador de 41 anos a jogar numa fase a eliminar do Mundial – e marcou aí pela primeira vez, antes de ser substituído. No final, recordou Jota mas não quis falar do futuro.",
+      "title": "Imigrantes saem do sistema, mas saldo continua positivo",
+      "summary": "Custo de vida e aperto nas regras pode explicar inversão da tendência, com estrangeiros a abandonarem a Segurança Social. Mas contribuições continuam a subir, bem acima das prestações que recebem.",
       "source": "Observador",
-      "date": "Fri, 03 Jul 2026 03:16:23 +0100",
-      "url": "https://observador.pt/2026/07/03/abracos-a-modric-o-primeiro-golo-numa-fase-a-eliminar-e-a-camisola-21-no-final-ronaldo-nao-afasta-despedida-no-dia-em-que-recordou-jota/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:158/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03031245/ronaldo-3.jpg",
+      "date": "Fri, 03 Jul 2026 08:21:23 +0100",
+      "url": "https://observador.pt/2026/07/03/saida-de-imigrantes-da-seguranca-social-dispara-mas-contribuicoes-ainda-continuam-a-subir/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/17011720/arquivo-3080-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "50d9c2b5",
+      "id": "68955d58",
       "cat": "tecnologia",
-      "title": "Lajes. EUA rejeitam efeitos negativos da contaminação",
-      "summary": "Tese de doutoramento identificou metais pesados e chumbo nos residentes da Praia da Vitória. EUA ameaçaram voltar a suspender trabalhos de mitigação dos danos ambientais, que não considera graves.",
-      "source": "Observador",
-      "date": "Fri, 03 Jul 2026 01:01:20 +0100",
-      "url": "https://observador.pt/2026/07/03/eua-rejeitam-efeitos-nefastos-da-contaminacao-na-base-das-lajes-apesar-de-estudos-proprios-confirmarem-danos-desde-2003/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:227/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/07221502/2026-03-06-1753-hugomoreira-hm1-9061-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "64a09df4",
-      "cat": "tecnologia",
-      "title": "Trump e aliados renovam esforços para exercer maior influência sobre a Fed",
-      "summary": "Responsáveis de topo da Administração Trump e aliados estão a explorar ativamente formas de remover membros do atual Conselho de Governadores para darem lugar a pessoas mais próximas do Presidente dos EUA, de acordo com fontes citadas pela Bloomberg.",
+      "title": "Rent-a-car acelera mercado para melhor semestre desde 1999",
+      "summary": "O mercado automóvel nacional virou a página após as quebras devido à pandemia da covid-19 e à falta de \"chips\" que afetou a indústria do setor a nível global. A recuperação está agora mais do que consumada com as vendas a marcarem o melhor semestre deste século.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 02 Jul 2026 23:55:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica-monetaria/detalhe/trump-e-aliados-renovam-esforcos-para-exercer-maior-influencia-sobre-a-fed",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-27-17-45-30-524342.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "148536c5",
-      "cat": "tecnologia",
-      "title": "Brisa interessada na futura concessão das travessias do Tejo",
-      "summary": "António Pires de Lima adiantou que o grupo está “a trabalhar na possibilidade de formar um consórcio”, envolvendo parceiros construtores, para concorrer à concessão que até 2030 está sob gestão da Lusoponte. O novo plano estratégico da Brisa será aprovado este mês.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 02 Jul 2026 23:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/brisa-interessada-na-futura-concessao-das-travessias-do-tejo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-08/img_100x100uu2023-08-16-08-08-37-458649.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "bce5adcf",
-      "cat": "tecnologia",
-      "title": "Presidência irlandesa da UE quer promover interconexões com a Península Ibérica",
-      "summary": "A posição surge no dia em que Portugal e Espanha inauguraram uma nova interligação elétrica num investimento de 70 milhões de euros do lado português, destinada a reforçar as trocas de eletricidade entre os dois países e a integrar mais energias renováveis.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 02 Jul 2026 23:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/presidencia-irlandesa-da-ue-quer-promover-interconexoes-com-a-peninsula-iberica",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-05/img_100x100uu2025-05-07-15-00-59-500919.jpg",
+      "date": "Fri, 03 Jul 2026 10:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/rent-a-car-acelera-mercado-para-melhor-semestre-desde-1999",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-02-16-38-53-526020.jpg",
       "score": 0.73
     },
     {
@@ -212,6 +201,17 @@
       "score": 0.73
     },
     {
+      "id": "84a6fcd4",
+      "cat": "cultura",
+      "title": "Selecionador destaca primeiros 45 minutos como os melhores da seleção no Mundial",
+      "summary": "Roberto Martínez sublinhou que a primeira parte do jogo esteve entre o melhor que a seleção apresentou, até agora, no Campeonato do Mundo.",
+      "source": "RTP",
+      "date": "Fri, 03 Jul 2026 09:24:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/selecionador-destaca-primeiros-45-minutos-como-os-melhores-da-selecao-no-mundial_v1751038",
+      "img": "https://cdn-images.rtp.pt/icm/images/5b/5b0957e85c9e11da3b0606ea994e8874_N.jpg?",
+      "score": 0.73
+    },
+    {
       "id": "aab39d05",
       "cat": "tecnologia",
       "title": "Baixa do Porto volta a ser sala de estar de Portugal numa madrugada de sofrimento e festa",
@@ -223,36 +223,36 @@
       "score": 0.73
     },
     {
-      "id": "df8473d7",
+      "id": "773edfe2",
       "cat": "tecnologia",
-      "title": "Tour: Pogacar está pronto\", mas Vingegaard está \"melhor, mais forte e feliz\"",
-      "summary": "Tadej Pogacar sente que &quot;vários ciclistas&quot; podem lutar pela vitória na 113.ª Volta a França, nomeadamente o seu colega Isaac del Toro, que rivalizará com o ciclista francês Paul Seixas, pelo menos, na luta pelo título de melhor jovem.",
-      "source": "RTP",
-      "date": "Thu, 02 Jul 2026 21:32:54 +0100",
-      "url": "https://www.rtp.pt/noticias/ciclismo/tour-pogacar-esta-pronto-mas-vingegaard-esta-melhor-mais-forte-e-feliz_d1750970",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0e321ab8a1b4356fa6c189d96ecabf37?w=350&amp;q=50&amp;rect=0,34,1188,651&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "2111c3eb",
-      "cat": "desporto",
-      "title": "Clássico entre FC Porto e Benfica abre os confrontos entre grandes na I Liga",
-      "summary": "O primeiro clássico da I Liga portuguesa de futebol 2026/27 será o FC Porto-Benfica, na sétima jornada, seguindo-se um FC Porto-Sporting, na 12.ª, e um Benfica-Sporting, já na 16.ª.",
-      "source": "RTP",
-      "date": "Thu, 02 Jul 2026 21:19:53 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/classico-entre-fc-porto-e-benfica-abre-os-confrontos-entre-grandes-na-i-liga_d1750966",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c1/c1078277498f15f51c11439f25cfe28c?w=350&amp;q=50&amp;rect=0,61,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "b9d73e9d",
-      "cat": "tecnologia",
-      "title": "Microsoft cria novo negócio dedicado à IA e investe mais de dois mil milhões de euros",
-      "summary": "A gigante tecnológica Microsoft anunciou esta quinta-feira que criou uma nova unidade de negócio, chamada Microsoft Frontier Company, ligada à inteligência artificial (IA), com um investimento de 2.500 milhões de dólares (cerca de 2.187 milhões de euros) e seis mil trabalhadores trabalhadores. A Mic",
+      "title": "Falhas na avaliação eletrónica dos exames obrigam a adiar início da 2.º fase",
+      "summary": "A divulgação dos resultados e a segunda fase dos exames nacionais foram adiadas devido às falhas da avaliação eletrónica, havendo ainda professores sem receber os itens das provas para corrigir. A decisão foi anunciada pelo Ministério da Educação, Ciência e Inovação (MECI) que reconhece &#8220;as di",
       "source": "ECO",
-      "date": "Thu, 02 Jul 2026 20:01:20 +0000",
-      "url": "https://eco.sapo.pt/2026/07/02/microsoft-cria-novo-negocio-dedicado-a-ia-e-investe-mais-de-dois-mil-milhoes-de-euros/",
-      "img": "https://eco.imgix.net/uploads/2025/03/cropped-doc-20250331-44689071-12001527.jpg",
+      "date": "Fri, 03 Jul 2026 08:48:52 +0000",
+      "url": "https://eco.sapo.pt/2026/07/03/falhas-na-avaliacao-eletronica-dos-exames-obrigam-a-adiar-inicio-da-2-o-fase/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-9797986-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "fed2ba1c",
+      "cat": "tecnologia",
+      "title": "Hoje nas notícias: imigrantes, Montepio e Fundo de Resolução",
+      "summary": "Só no ano passado o Instituto da Segurança Social contabilizou a cessação da atividade de 162.252 imigrantes que trabalhavam por conta de outrem e que não voltaram a ter registo ativo. A Associação Mutualista Montepio Geral desistiu da venda das seguradoras Lusitânia. Conheça as notícias em destaque",
+      "source": "ECO",
+      "date": "Fri, 03 Jul 2026 07:08:37 +0000",
+      "url": "https://eco.sapo.pt/2026/07/03/hoje-nas-noticias-imigrantes-montepio-e-fundo-de-resolucao/",
+      "img": "https://eco.imgix.net/uploads/2020/02/cropped-cropped-revista_nacional_partilha-1-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0cdf6b95",
+      "cat": "tecnologia",
+      "title": "Três milhões de portugueses já resolvem assuntos com a Segurança Social sem ir ao balcão",
+      "summary": "Quando o atual governo chegou ao Ministério do Trabalho e da Segurança Social, em abril de 2024, não se sabia quais eram as cinco perguntas mais frequentes dos cidadãos. Esse foi o ponto de partida para o processo de transformação dos serviços e, dois anos depois, três milhões de pessoas já resolvem",
+      "source": "ECO",
+      "date": "Fri, 03 Jul 2026 07:00:32 +0000",
+      "url": "https://eco.sapo.pt/2026/07/03/tres-milhoes-de-portugueses-ja-resolvem-assuntos-com-a-seguranca-social-sem-ir-ao-balcao/",
+      "img": "https://eco.imgix.net/uploads/2026/06/800x450-41.png",
       "score": 0.73
     },
     {
@@ -300,6 +300,17 @@
       "score": 0.73
     },
     {
+      "id": "41473a4a",
+      "cat": "sociedade",
+      "title": "Nele para o longo prazo",
+      "summary": "Enquanto os Estados Unidos celebram o seu 250º aniversário neste fim de semana, muitos dos seus residentes podem sentir o grande elefante ideologicamente dividido na sala. Mas embora o país tenha em conta a sua identidade nacional, a nível local, os americanos continuam a unir-se de formas que transcendem a política, como acontece com o país.",
+      "source": "Reasons to be Cheerful",
+      "date": "Fri, 03 Jul 2026 08:00:24 +0000",
+      "url": "https://reasonstobecheerful.world/americas-250th-birthday-reader-responses/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2227481145-scaled.jpg",
+      "score": 0.73
+    },
+    {
       "id": "b00cdc4c",
       "cat": "tecnologia",
       "title": "O que estamos lendo: como consertar a bagunça do espelho d'água - naturalmente",
@@ -311,25 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "36cc42f9",
+      "id": "6c602e12",
       "cat": "tecnologia",
-      "title": "Cantando a lista de compras: como a música pode reconectar o cérebro após um derrame",
-      "summary": "Em 2023, um acidente vascular cerebral transformou Naresh Shanbhag, um profissional de vendas de fala mansa de 53 anos de Bengaluru, em alguém que era incapaz de falar palavras, muito menos frases. “Comecei a fisioterapia para recuperar as forças do lado direito paralisado, mas formando frases ou lembrando as palavras certas",
-      "source": "Reasons to be Cheerful",
-      "date": "Thu, 25 Jun 2026 08:00:36 +0000",
-      "url": "https://reasonstobecheerful.world/music-therapy-brain-injury/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/shutterstock_116964085-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ca09a42b",
-      "cat": "tecnologia",
-      "title": "Portugal 2-Croácia 1: as notas aos jogadores portugueses",
-      "summary": "De 0 a 10, o PÚBLICO pontua os jogadores da selecção no jogo frente à Croácia. O triunfo surgiu na ponta final da partida assegurado pelo suplente Gonçalo Ramos.",
-      "source": "Público",
-      "date": "Fri, 03 Jul 2026 02:01:58 GMT",
-      "url": "https://www.publico.pt/2026/07/03/desporto/noticia/portugal-2croacia-1-notas-jogadores-portugueses-2180371",
-      "img": null,
+      "title": "Dia 23 do Mundial-2026. Portugal passa aos oitavos de final",
+      "summary": "Portugal vence à Croácia por 2-1 e vai defrontar Espanha nos oitavos de final. Selecionador alemão apresenta a demissão após derrota com o Paraguai. Ronaldo garante que ainda não decidiu reforma.",
+      "source": "Observador",
+      "date": "Fri, 03 Jul 2026 09:17:21 +0100",
+      "url": "https://observador.pt/liveblogs/dia-23-do-mundial-2026-portugal-passa-aos-oitavos-de-final-selecionador-alemao-demite-se/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03054021/ilacerda-jogo-selecao-porto-6-scaled.jpg",
       "score": 0.7
     }
   ]
