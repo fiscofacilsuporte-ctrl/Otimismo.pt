@@ -1,5 +1,5 @@
 {
-  "last_update": "02/07/2026 19:43 UTC",
+  "last_update": "03/07/2026 03:56 UTC",
   "total": 30,
   "news": [
     {
@@ -45,28 +45,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
       "img": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
       "score": 0.79
-    },
-    {
-      "id": "ba6c5f51",
-      "cat": "tecnologia",
-      "title": "Governo francês vai enfrentar moção de censura devido à gestão da onda de calor",
-      "summary": "É improvável que a tentativa de derrubar o Governo minoritário do primeiro-ministro Sébastien Lecornu tenha sucesso. Mas é um sinal claro de mudança na exigência de responsabilidades políticas.",
-      "source": "Público",
-      "date": "Thu, 02 Jul 2026 19:39:26 GMT",
-      "url": "https://www.publico.pt/2026/07/02/azul/noticia/governo-frances-vai-enfrentar-mocao-censura-devido-gestao-onda-calor-2180340",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "6f588198",
-      "cat": "tecnologia",
-      "title": "Novos certificados do Tesouro chegam segunda-feira com juro a partir de 2,35%",
-      "summary": "O Governo vai levar a Conselho de Ministros um projeto de revitalização destes produtos, com o objetivo de estimular a poupança das famílias. O investimento mínimo é de mil euros e o máximo de um milhão.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 02 Jul 2026 18:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/novos-certificados-do-tesouro-chegam-segunda-feira-com-juro-a-partir-de-2-35",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-11/img_100x100uu2025-11-25-11-41-00-513520.jpg",
-      "score": 0.76
     },
     {
       "id": "1c477441",
@@ -146,58 +124,80 @@
       "score": 0.76
     },
     {
-      "id": "0e14b054",
-      "cat": "tecnologia",
-      "title": "Força Operacional portuguesa procura mais sobreviventes",
-      "summary": "Hernán Gil, 43 anos, foi retirado dos escombros em La Guaira após operação de três dias. Comandante garante: equipa vai continuar a investir \"com a mesma força\".",
-      "source": "Observador",
-      "date": "Thu, 02 Jul 2026 20:07:09 +0100",
-      "url": "https://observador.pt/2026/07/02/forca-operacional-portuguesa-vai-continuar-a-procura-de-mais-sobreviventes-na-venezuela/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/02190547/47393282.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "206637d1",
-      "cat": "tecnologia",
-      "title": "EUA avisam Irão: \"Paciência de Trump não é ilimitada\"",
-      "summary": "O embaixador norte-americano junto da ONU afirma que o encerramento do Estreito de Ormuz terá efeitos duradouros em 61 economias em desenvolvimento, destacando a urgência de responsabilizar o Irão.",
-      "source": "Observador",
-      "date": "Thu, 02 Jul 2026 20:01:29 +0100",
-      "url": "https://observador.pt/2026/07/02/eua-avisam-irao-que-paciencia-de-donald-trump-nao-e-ilimitada/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:11/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/01071820/47360955.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6523ea2a",
-      "cat": "cultura",
-      "title": "PSD acusa PS e Chega de medida que \"leva país para défice\"",
-      "summary": "Projeto de lei de devolução do valor das propinas aos recém-formados foi aprovado esta quinta-feira com o voto a favor do PS e do Chega. Hugo Carneiro acusou os partidos de \"irresponsabilidade\".",
-      "source": "Observador",
-      "date": "Thu, 02 Jul 2026 20:00:31 +0100",
-      "url": "https://observador.pt/2026/07/02/psd-acusa-ps-e-chega-de-se-unirem-para-aprovar-medida-que-arrisca-levar-pais-para-defice/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/11/29132949/43955824.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "5d40dcf3",
+      "id": "8fae0b91",
       "cat": "desporto",
-      "title": "Transportes Metropolitanos de Lisboa investe 1,36 milhões em rede de bicicletários com 57 parques",
-      "summary": "De acordo com a TML, o concurso público hoje lançado inclui o fornecimento, instalação, parametrização e manutenção dos bicicletários, assim como o desenvolvimento do sistema de controlo de acessos e monitorização da rede.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 02 Jul 2026 20:09:17 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/transportes-metropolitanos-de-lisboa-investe-1-36-milhoes-em-rede-de-bicicletarios-com-57-parques",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-07-22-50-41-491748.jpg",
+      "title": "Das quatro linhas à política: a UE precisa de recuperar terreno no desporto global",
+      "summary": "Onde o poder económico está concentrado e os adeptos não têm alternativas significativas, a ideia de que o desporto se pode simplesmente autorregular já não é sustentável.",
+      "source": "Público",
+      "date": "Thu, 02 Jul 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/07/03/opiniao/opiniao/quatro-linhas-politica-ue-precisa-recuperar-terreno-desporto-global-2180306",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "4b6c5f89",
+      "id": "b2e760e0",
       "cat": "tecnologia",
-      "title": "PRR: Comissão Europeia dá luz verde a pagamento de 2,3 mil milhões",
-      "summary": "Bruxelas emitiu uma avaliação preliminar positiva ao nono pedido de pagamento do Plano de Recuperação e Resiliência (PRR), depois de “reconhecer o cumprimento dos 51 marcos e metas submetidos”, anunciou o ministério da Economia.",
+      "title": "O único toque na bola de CR7 na área foi para o penálti",
+      "summary": "A vitória de Portugal pode ser explicada pelos números: entre o único toque que Ronaldo deu na bola na área, as 5 oportunidades criadas e os 37 minutos de que Ramos precisa para marcar ou assistir.",
+      "source": "Observador",
+      "date": "Fri, 03 Jul 2026 03:27:36 +0100",
+      "url": "https://observador.pt/2026/07/03/o-unico-toque-na-bola-de-ronaldo-dentro-da-area-foi-marcar-o-penalti-os-numeros-do-apuramento-de-portugal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2207:1242:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03001429/gettyimages-2284396121.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d6c6f145",
+      "cat": "tecnologia",
+      "title": "Ronaldo não afasta despedida no dia em que recordou Jota",
+      "summary": "Ronaldo tornou-se o primeiro jogador de 41 anos a jogar numa fase a eliminar do Mundial – e marcou aí pela primeira vez, antes de ser substituído. No final, recordou Jota mas não quis falar do futuro.",
+      "source": "Observador",
+      "date": "Fri, 03 Jul 2026 03:16:23 +0100",
+      "url": "https://observador.pt/2026/07/03/abracos-a-modric-o-primeiro-golo-numa-fase-a-eliminar-e-a-camisola-21-no-final-ronaldo-nao-afasta-despedida-no-dia-em-que-recordou-jota/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:158/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03031245/ronaldo-3.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "50d9c2b5",
+      "cat": "tecnologia",
+      "title": "Lajes. EUA rejeitam efeitos negativos da contaminação",
+      "summary": "Tese de doutoramento identificou metais pesados e chumbo nos residentes da Praia da Vitória. EUA ameaçaram voltar a suspender trabalhos de mitigação dos danos ambientais, que não considera graves.",
+      "source": "Observador",
+      "date": "Fri, 03 Jul 2026 01:01:20 +0100",
+      "url": "https://observador.pt/2026/07/03/eua-rejeitam-efeitos-nefastos-da-contaminacao-na-base-das-lajes-apesar-de-estudos-proprios-confirmarem-danos-desde-2003/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:227/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/07221502/2026-03-06-1753-hugomoreira-hm1-9061-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "64a09df4",
+      "cat": "tecnologia",
+      "title": "Trump e aliados renovam esforços para exercer maior influência sobre a Fed",
+      "summary": "Responsáveis de topo da Administração Trump e aliados estão a explorar ativamente formas de remover membros do atual Conselho de Governadores para darem lugar a pessoas mais próximas do Presidente dos EUA, de acordo com fontes citadas pela Bloomberg.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 02 Jul 2026 19:19:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/prr-comissao-europeia-da-luz-verde-a-pagamento-de-2-3-mil-milhoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-22-12-59-42-524119.jpg",
+      "date": "Thu, 02 Jul 2026 23:55:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica-monetaria/detalhe/trump-e-aliados-renovam-esforcos-para-exercer-maior-influencia-sobre-a-fed",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-27-17-45-30-524342.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "148536c5",
+      "cat": "tecnologia",
+      "title": "Brisa interessada na futura concessão das travessias do Tejo",
+      "summary": "António Pires de Lima adiantou que o grupo está “a trabalhar na possibilidade de formar um consórcio”, envolvendo parceiros construtores, para concorrer à concessão que até 2030 está sob gestão da Lusoponte. O novo plano estratégico da Brisa será aprovado este mês.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 02 Jul 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/brisa-interessada-na-futura-concessao-das-travessias-do-tejo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-08/img_100x100uu2023-08-16-08-08-37-458649.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "bce5adcf",
+      "cat": "tecnologia",
+      "title": "Presidência irlandesa da UE quer promover interconexões com a Península Ibérica",
+      "summary": "A posição surge no dia em que Portugal e Espanha inauguraram uma nova interligação elétrica num investimento de 70 milhões de euros do lado português, destinada a reforçar as trocas de eletricidade entre os dois países e a integrar mais energias renováveis.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 02 Jul 2026 23:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/presidencia-irlandesa-da-ue-quer-promover-interconexoes-com-a-peninsula-iberica",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-05/img_100x100uu2025-05-07-15-00-59-500919.jpg",
       "score": 0.73
     },
     {
@@ -209,6 +209,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "aab39d05",
+      "cat": "tecnologia",
+      "title": "Baixa do Porto volta a ser sala de estar de Portugal numa madrugada de sofrimento e festa",
+      "summary": "Milhares de adeptos celebraram hoje na baixa do Porto a passagem de Portugal aos oitavos de final do Mundial de futebol, após a vitória por 2-1 sobre a Croácia, já com Espanha no horizonte.",
+      "source": "RTP",
+      "date": "Fri, 03 Jul 2026 03:47:54 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/baixa-do-porto-volta-a-ser-sala-de-estar-de-portugal-numa-madrugada-de-sofrimento-e-festa_d1751014",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0c3069195dce7d92bd986e201b3d7f48?w=350&amp;q=50&amp;rect=0,507,4652,2550&amp;auto=format",
       "score": 0.73
     },
     {
@@ -234,25 +245,14 @@
       "score": 0.73
     },
     {
-      "id": "a5316635",
-      "cat": "desporto",
-      "title": "Samu e Vasco Sousa condicionados no primeiro treino do FC Porto",
-      "summary": "O avançado espanhol Samu e o médio português Vasco Sousa trabalharam hoje de forma condicionada, no primeiro treino de campo do FC Porto na preparação para a época futebolística 2026/27.",
-      "source": "RTP",
-      "date": "Thu, 02 Jul 2026 18:42:47 +0100",
-      "url": "https://www.rtp.pt/noticias/fc-porto/samu-e-vasco-sousa-condicionados-no-primeiro-treino-do-fc-porto_d1750938",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4c904234211f1b975e21383dd93d636f?w=350&amp;q=50&amp;rect=0,89,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "ee186cc4",
+      "id": "b9d73e9d",
       "cat": "tecnologia",
-      "title": "Há mais 382 grandes contribuintes sob supervisão especial do Fisco",
-      "summary": "O número de grandes contribuintes acompanhados pela Autoridade Tributária disparou 557% entre 2012 e 2025. No ano passado, eram 5.704 as grandes fortunas e empresas como bancos, seguradoras, sociedades gestoras de participações sociais e organismos de investimento acompanhadas pela unidade especial ",
+      "title": "Microsoft cria novo negócio dedicado à IA e investe mais de dois mil milhões de euros",
+      "summary": "A gigante tecnológica Microsoft anunciou esta quinta-feira que criou uma nova unidade de negócio, chamada Microsoft Frontier Company, ligada à inteligência artificial (IA), com um investimento de 2.500 milhões de dólares (cerca de 2.187 milhões de euros) e seis mil trabalhadores trabalhadores. A Mic",
       "source": "ECO",
-      "date": "Thu, 02 Jul 2026 18:58:13 +0000",
-      "url": "https://eco.sapo.pt/2026/07/02/ha-mais-382-grandes-contribuintes-sob-supervisao-especial-do-fisco/",
-      "img": "https://eco.imgix.net/uploads/2024/12/cropped-doc-20230302-40392538-02-03-2023_3.jpg",
+      "date": "Thu, 02 Jul 2026 20:01:20 +0000",
+      "url": "https://eco.sapo.pt/2026/07/02/microsoft-cria-novo-negocio-dedicado-a-ia-e-investe-mais-de-dois-mil-milhoes-de-euros/",
+      "img": "https://eco.imgix.net/uploads/2025/03/cropped-doc-20250331-44689071-12001527.jpg",
       "score": 0.73
     },
     {
@@ -322,13 +322,13 @@
       "score": 0.73
     },
     {
-      "id": "318c33b9",
+      "id": "ca09a42b",
       "cat": "tecnologia",
-      "title": "História dos Buraka Som Sistema vai dar um filme a partir de livro de Kalaf Epalanga",
-      "summary": "Grupo regressa este mês aos palcos e estará em digressão internacional durante o Verão. Sábado a Casa Capitão, em Lisboa, torna-se Casa Buraka com evento especial dedicado à banda.",
+      "title": "Portugal 2-Croácia 1: as notas aos jogadores portugueses",
+      "summary": "De 0 a 10, o PÚBLICO pontua os jogadores da selecção no jogo frente à Croácia. O triunfo surgiu na ponta final da partida assegurado pelo suplente Gonçalo Ramos.",
       "source": "Público",
-      "date": "Thu, 02 Jul 2026 19:34:37 GMT",
-      "url": "https://www.publico.pt/2026/07/02/culturaipsilon/noticia/historia-buraka-som-sistema-vai-dar-filme-partir-livro-kalaf-epalanga-2180346",
+      "date": "Fri, 03 Jul 2026 02:01:58 GMT",
+      "url": "https://www.publico.pt/2026/07/03/desporto/noticia/portugal-2croacia-1-notas-jogadores-portugueses-2180371",
       "img": null,
       "score": 0.7
     }
