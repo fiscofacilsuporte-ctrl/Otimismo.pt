@@ -1,5 +1,5 @@
 {
-  "last_update": "03/07/2026 09:31 UTC",
+  "last_update": "03/07/2026 14:25 UTC",
   "total": 30,
   "news": [
     {
@@ -12,17 +12,6 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-26-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/06/iStock-1217809699-2-e1782404535426.jpeg",
       "score": 0.82
-    },
-    {
-      "id": "ce2fcf51",
-      "cat": "tecnologia",
-      "title": "Depois do choque, o alívio. Petróleo vai ter excedente na oferta",
-      "summary": "A maioria das casas de investimento aponta para um grande excedente na oferta de ouro negro, já este ano e em 2027, à conta do restabelecimento dos fluxos de Ormuz e de uma queda da procura por parte de consumidores como a China.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 03 Jul 2026 08:40:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/depois-do-choque-o-alivio-petroleo-vai-ter-excedente-na-oferta",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-26-08-18-30-515243.jpg",
-      "score": 0.79
     },
     {
       "id": "0a8718ab",
@@ -58,14 +47,25 @@
       "score": 0.79
     },
     {
-      "id": "cb6716f8",
+      "id": "36a21555",
       "cat": "tecnologia",
-      "title": "Notas sobre o fundo soberano",
-      "summary": "A criação de um instrumento financeiro, como qualquer instrumento de política pública, tem de visar a resolução de um problema ou a concretização de uma visão política.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 03 Jul 2026 08:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/fernando-medina/detalhe/notas-sobre-o-fundo-soberano",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-07/img_394x514uu2024-07-24-16-17-04-481991.png",
+      "title": "Tesouro procura financiamento de até 1.500 milhões em leilão a dez e 16 anos",
+      "summary": "O IGCP &#8211; Agência de Gestão da Tesouraria e da Dívida Pública vai realizar, na próxima quarta-feira, dia 8 de julho, dois leilões de Obrigações do Tesouro, com o objetivo de colocar entre 1.250 milhões e 1.500 milhões de euros no mercado. A operação, agendada para as 10h30, contempla duas linha",
+      "source": "ECO",
+      "date": "Fri, 03 Jul 2026 13:07:23 +0000",
+      "url": "https://eco.sapo.pt/2026/07/03/tesouro-procura-financiamento-de-ate-1-500-milhoes-em-leilao-a-dez-e-16-anos/",
+      "img": "https://eco.imgix.net/uploads/2025/09/cropped-img-20250911-wa0012.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "46c31345",
+      "cat": "ciencia",
+      "title": "Basta adicionar água ao combustível diesel para reduzir a poluição do motor em 67% – sem perda de eficiência",
+      "summary": "Você pode reduzir as emissões do seu motor diesel em 60% com ESTA solução surpreendentemente simples – basta adicionar água. Com toda a seriedade, de acordo com uma revisão de estudos de todo o mundo publicada por uma equipa de investigação da Nigéria, misturar pequenas quantidades de água no gasóleo poderia reduzir drasticamente",
+      "source": "Good News Network",
+      "date": "Fri, 03 Jul 2026 13:00:53 +0000",
+      "url": "https://www.goodnewsnetwork.org/simply-add-water-to-diesel-fuel-to-cut-engine-pollution-by-67-with-no-loss-in-efficiency/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/diesel-gas-pump-credit-Rob-Wingate.jpg",
       "score": 0.76
     },
     {
@@ -98,7 +98,7 @@
       "source": "Positive News",
       "date": "Fri, 03 Jul 2026 05:43:56 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-27-of-2026/",
-      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/07/iStock-2219017725.jpeg",
+      "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-2219017725.jpeg",
       "score": 0.76
     },
     {
@@ -113,6 +113,28 @@
       "score": 0.76
     },
     {
+      "id": "acde07ed",
+      "cat": "tecnologia",
+      "title": "Nasa lança missão para salvar telescópio espacial em queda",
+      "summary": "Um robô financiado pela Nasa decolou para pegar um telescópio em queda no meio da órbita e levá-lo de volta para um local seguro antes que ele queime.",
+      "source": "BBC News",
+      "date": "Fri, 03 Jul 2026 10:28:17 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cef/live/163753a0-74c5-11f1-b3a4-17c48cb4ee82.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "63bf0982",
+      "cat": "ciencia",
+      "title": "O primeiro guarda-florestal da Escócia quer melhorar a sua imagem",
+      "summary": "O guarda-florestal de Eyemouth espera uma existência mais harmoniosa entre gaivotas e humanos.",
+      "source": "BBC News",
+      "date": "Fri, 03 Jul 2026 09:53:04 GMT",
+      "url": "https://www.bbc.co.uk/news/videos/cy9r1z3p4d0o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea1/live/66c45840-76c3-11f1-b976-0b9c15b0ccfc.jpg",
+      "score": 0.76
+    },
+    {
       "id": "25a1c000",
       "cat": "sociedade",
       "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
@@ -124,69 +146,91 @@
       "score": 0.76
     },
     {
-      "id": "8bcaab4f",
-      "cat": "tecnologia",
-      "title": "Inveja da vagina",
-      "summary": "O avanço do feminismo deu às mulheres a chance de ocupar novos lugares sociais. Cabe aos homens se interrogar quais lugares eles pretendem ocupar nesse novo rearranjo. Opinião de Fernanda Hamann",
+      "id": "bf944a7d",
+      "cat": "ambiente",
+      "title": "Desta vez, Portugal não ficou a salvo da onda de calor na Europa. Porquê?",
+      "summary": "Portugal já foi poupado ao pior do calor na Europa — mas não está imune: a “ventoinha” atlântica pode ajudar, porém o aquecimento global não deixará ninguém ileso. É a diferença entre tempo e clima.",
       "source": "Público",
-      "date": "Fri, 03 Jul 2026 08:14:36 GMT",
-      "url": "https://www.publico.pt/2026/07/03/publico-brasil/opiniao/inveja-vagina-2180379",
+      "date": "Fri, 03 Jul 2026 13:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/03/azul/noticia/portugal-nao-ficou-salvo-onda-calor-europa-2180303",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "020b3e46",
+      "id": "6ee9a843",
       "cat": "tecnologia",
-      "title": "Fogo em Vouzela atinge fábrica de transformação de madeira e já causou sete feridos",
-      "summary": "Chamas lavraram durante a noite a serra do Caramulo e chegaram ao distrito de Aveiro, atingindo o concelho de Águeda. Há quase 900 operacionais no terreno.",
+      "title": "Um belo branco de um projecto singular do Douro",
+      "summary": "Nascida em 2000, a Lavradores de Feitoria cedo se destacou na produção de brancos de castas estrangeiras. Este Três Bagos Sauvignon Blanc é um dos seus vinhos mais renomados.",
       "source": "Público",
-      "date": "Fri, 03 Jul 2026 06:45:35 GMT",
-      "url": "https://www.publico.pt/2026/07/03/sociedade/noticia/fogo-vouzela-atinge-fabrica-transformacao-madeira-ja-causou-sete-feridos-2180373",
+      "date": "Fri, 03 Jul 2026 13:18:00 GMT",
+      "url": "https://www.publico.pt/2026/07/03/terroir/noticia/belo-branco-projecto-singular-douro-2180162",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "201ea8ae",
-      "cat": "tecnologia",
-      "title": "Argentina-Cabo Verde: os “tubarões azuis” enfrentam o maior tubarão de todos",
-      "summary": "Na sua estreia em Mundiais, a selecção cabo-verdiana conseguiu chegar à fase a eliminar sem derrotas e defronta agora o campeão do mundo, em Miami. Ambos querem fazer história.",
+      "id": "f84cb12c",
+      "cat": "ciencia",
+      "title": "PJ realiza buscas na freguesia lisboeta das Avenidas Novas",
+      "summary": "Os factos em investigação dizem respeito ao anterior mandato (2021-2025) da Junta de Freguesia das Avenidas Novas, na altura já liderada pelo actual presidente, o social-democrata Daniel Gonçalves.",
       "source": "Público",
-      "date": "Fri, 03 Jul 2026 06:35:00 GMT",
-      "url": "https://www.publico.pt/2026/07/03/desporto/noticia/argentinacabo-verde-tubaroes-azuis-enfrentam-maior-tubarao-2180336",
+      "date": "Fri, 03 Jul 2026 12:57:51 GMT",
+      "url": "https://www.publico.pt/2026/07/03/local/noticia/pj-realiza-buscas-freguesia-lisboeta-avenidas-novas-2180420",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "3f38715e",
+      "id": "36cf3472",
       "cat": "tecnologia",
-      "title": "Alguma revolução sobrevive 250 anos? Apenas uma: a americana",
-      "summary": "“Consideramos estas verdades evidentes por si mesmas, que todos os homens são criados iguais.\" Esta frase tem 250 anos, abre a Declaração de Independência dos Estados Unidos e ainda hoje a celebramos.",
+      "title": "PAN nos Açores critica \"silêncio\" do ministro sobre Lajes",
+      "summary": "O partido manifestou \"perplexidade\" perante \"o silêncio\" do ministro da Defesa sobre a possível relação entre a contaminação dos solos da Praia da Vitória e a presença de metais pesados em esqueletos.",
       "source": "Observador",
-      "date": "Fri, 03 Jul 2026 08:35:56 +0100",
-      "url": "https://observador.pt/programas/contra-corrente/alguma-revolucao-sobrevive-250-anos-apenas-uma-a-americana/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
+      "date": "Fri, 03 Jul 2026 13:46:05 +0100",
+      "url": "https://observador.pt/2026/07/03/pan-nos-acores-critica-silencio-do-ministro-da-defesa-sobre-possivel-contaminacao-nas-lajes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/20191319/46238297.jpg",
       "score": 0.73
     },
     {
-      "id": "d7bd7f77",
+      "id": "bf4dfe0c",
       "cat": "tecnologia",
-      "title": "Imigrantes saem do sistema, mas saldo continua positivo",
-      "summary": "Custo de vida e aperto nas regras pode explicar inversão da tendência, com estrangeiros a abandonarem a Segurança Social. Mas contribuições continuam a subir, bem acima das prestações que recebem.",
+      "title": "Foi sorte que protegeu a Seleção das Quinas?",
+      "summary": "Vitória sobre a Croácia garante apuramento, mas persistem dúvidas sobre o rendimento na segunda parte. Diogo Costa brilhou com defesas monumentais, mas foi o sensor na bola o verdadeiro MVP do jogo?",
       "source": "Observador",
-      "date": "Fri, 03 Jul 2026 08:21:23 +0100",
-      "url": "https://observador.pt/2026/07/03/saida-de-imigrantes-da-seguranca-social-dispara-mas-contribuicoes-ainda-continuam-a-subir/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/17011720/arquivo-3080-scaled.jpg",
+      "date": "Fri, 03 Jul 2026 13:42:45 +0100",
+      "url": "https://observador.pt/programas/e-o-campeao-e/foi-sorte-que-protegeu-a-selecao-das-quinas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
       "score": 0.73
     },
     {
-      "id": "68955d58",
+      "id": "9c76def9",
       "cat": "tecnologia",
-      "title": "Rent-a-car acelera mercado para melhor semestre desde 1999",
-      "summary": "O mercado automóvel nacional virou a página após as quebras devido à pandemia da covid-19 e à falta de \"chips\" que afetou a indústria do setor a nível global. A recuperação está agora mais do que consumada com as vendas a marcarem o melhor semestre deste século.",
+      "title": "Apritel diz que proposta para renovação do espectro é \"profundamente prejudicial\" para o país",
+      "summary": "A associação dos operadores vinca que a solução proposta pela Anacom, em prolongar licenças para 2033 e 2041, é insuficiente e prejudicial para o país, especialmente depois de a Comissão Europeia ter sugerido no Digital Networks Act um prolongamento de 40 anos.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 03 Jul 2026 10:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/rent-a-car-acelera-mercado-para-melhor-semestre-desde-1999",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-02-16-38-53-526020.jpg",
+      "date": "Fri, 03 Jul 2026 15:04:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/telecomunicacoes/detalhe/apritel-diz-que-proposta-para-renovacao-do-espectro-e-profundamente-prejudicial-para-o-pais",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-15-07-09-526077.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "418cd439",
+      "cat": "ciencia",
+      "title": "PJ realiza buscas na freguesia lisboeta das Avenidas Novas",
+      "summary": "A Polícia Judiciária está a realizar buscas no âmbito de uma investigação relacionada com contratos celebrados com duas empresas.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 03 Jul 2026 14:17:36 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/pj-realiza-buscas-na-freguesia-lisboeta-das-avenidas-novas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2013-07/img_100x100uu2013-07-10-11-35-00-203713.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "3bbcaa26",
+      "cat": "economia",
+      "title": "Quatro casas de investimento cortam preço-alvo das ações da Jerónimo Martins",
+      "summary": "Desde o início do ano que as ações da Jerónimo Martins já caíram 19,1%.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 03 Jul 2026 14:01:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/quatro-casas-de-investimento-cortam-preco-alvo-das-acoes-da-jeronimo-martins",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-04/img_100x100uu2024-04-24-17-49-15-476003.jpg",
       "score": 0.73
     },
     {
@@ -201,69 +245,47 @@
       "score": 0.73
     },
     {
-      "id": "84a6fcd4",
-      "cat": "cultura",
-      "title": "Selecionador destaca primeiros 45 minutos como os melhores da seleção no Mundial",
-      "summary": "Roberto Martínez sublinhou que a primeira parte do jogo esteve entre o melhor que a seleção apresentou, até agora, no Campeonato do Mundo.",
+      "id": "e28777a3",
+      "cat": "tecnologia",
+      "title": "Massimiliano Allegri treina Nápoles",
+      "summary": "O italiano Massimiliano Allegri é o novo treinador do Nápoles, com um contrato válido por três anos, informou o vice-campeão da Liga italiana.",
       "source": "RTP",
-      "date": "Fri, 03 Jul 2026 09:24:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/selecionador-destaca-primeiros-45-minutos-como-os-melhores-da-selecao-no-mundial_v1751038",
-      "img": "https://cdn-images.rtp.pt/icm/images/5b/5b0957e85c9e11da3b0606ea994e8874_N.jpg?",
+      "date": "Fri, 03 Jul 2026 16:08:43 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/massimiliano-allegri-treina-napoles_d1751157",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8fe4053bcbb94fe4581f6f0ddcaa4c31?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "aab39d05",
-      "cat": "tecnologia",
-      "title": "Baixa do Porto volta a ser sala de estar de Portugal numa madrugada de sofrimento e festa",
-      "summary": "Milhares de adeptos celebraram hoje na baixa do Porto a passagem de Portugal aos oitavos de final do Mundial de futebol, após a vitória por 2-1 sobre a Croácia, já com Espanha no horizonte.",
+      "id": "23ed8012",
+      "cat": "saude",
+      "title": "12h30m Loucura, Portugal vence; Varandas afasta golpe arbitragem",
+      "summary": "",
       "source": "RTP",
-      "date": "Fri, 03 Jul 2026 03:47:54 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/baixa-do-porto-volta-a-ser-sala-de-estar-de-portugal-numa-madrugada-de-sofrimento-e-festa_d1751014",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0c3069195dce7d92bd986e201b3d7f48?w=350&amp;q=50&amp;rect=0,507,4652,2550&amp;auto=format",
+      "date": "Fri, 03 Jul 2026 13:56:02 +0100",
+      "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30m-loucura-portugal-vence-varandas-afasta-golpe-arbitragem_a1_1751095",
+      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "773edfe2",
+      "id": "f082c647",
       "cat": "tecnologia",
-      "title": "Falhas na avaliação eletrónica dos exames obrigam a adiar início da 2.º fase",
-      "summary": "A divulgação dos resultados e a segunda fase dos exames nacionais foram adiadas devido às falhas da avaliação eletrónica, havendo ainda professores sem receber os itens das provas para corrigir. A decisão foi anunciada pelo Ministério da Educação, Ciência e Inovação (MECI) que reconhece &#8220;as di",
+      "title": "Mundial 2026: Vitória de Portugal contra a Croácia vista, em média, por quase 2,7 milhões de telespectadores",
+      "summary": "A Seleção das Quinas garantiu a qualificação para os oitavos de final, depois de vencer a Croácia por 2-1. Estiveram 43.036 espectadores no estádio em Toronto a assistir à vitória da seleção portuguesa. Em Portugal, quase 2,7 milhões de indivíduos viram o jogo, revela a análise elaborada pela Dentsu",
       "source": "ECO",
-      "date": "Fri, 03 Jul 2026 08:48:52 +0000",
-      "url": "https://eco.sapo.pt/2026/07/03/falhas-na-avaliacao-eletronica-dos-exames-obrigam-a-adiar-inicio-da-2-o-fase/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-9797986-scaled-1.jpg",
+      "date": "Fri, 03 Jul 2026 14:20:53 +0000",
+      "url": "https://eco.sapo.pt/2026/07/03/mundial-2026-vitoria-de-portugal-contra-a-croacia-vista-em-media-por-quase-27-milhoes-de-telespectadores/",
+      "img": "https://eco.imgix.net/uploads/2026/06/audiencias-mundial-2000x1125-1.jpg",
       "score": 0.73
     },
     {
-      "id": "fed2ba1c",
+      "id": "fc13760c",
       "cat": "tecnologia",
-      "title": "Hoje nas notícias: imigrantes, Montepio e Fundo de Resolução",
-      "summary": "Só no ano passado o Instituto da Segurança Social contabilizou a cessação da atividade de 162.252 imigrantes que trabalhavam por conta de outrem e que não voltaram a ter registo ativo. A Associação Mutualista Montepio Geral desistiu da venda das seguradoras Lusitânia. Conheça as notícias em destaque",
+      "title": "“Já existe uma espécie de cultura lusófona de marketing pelo mundo”",
+      "summary": "A FCB Lisboa está a dar lugar à Edson Tech&#38;Soul, uma alteração que assinala a entrada da agência no grupo brasileiro Tech&#38;Soul e marca uma mudança de paradigma na agência liderada por Edson Athayde, que agora se diz ligado a uma estrutura mais próxima, também do ponto de vista cultural. &#82",
       "source": "ECO",
-      "date": "Fri, 03 Jul 2026 07:08:37 +0000",
-      "url": "https://eco.sapo.pt/2026/07/03/hoje-nas-noticias-imigrantes-montepio-e-fundo-de-resolucao/",
-      "img": "https://eco.imgix.net/uploads/2020/02/cropped-cropped-revista_nacional_partilha-1-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "0cdf6b95",
-      "cat": "tecnologia",
-      "title": "Três milhões de portugueses já resolvem assuntos com a Segurança Social sem ir ao balcão",
-      "summary": "Quando o atual governo chegou ao Ministério do Trabalho e da Segurança Social, em abril de 2024, não se sabia quais eram as cinco perguntas mais frequentes dos cidadãos. Esse foi o ponto de partida para o processo de transformação dos serviços e, dois anos depois, três milhões de pessoas já resolvem",
-      "source": "ECO",
-      "date": "Fri, 03 Jul 2026 07:00:32 +0000",
-      "url": "https://eco.sapo.pt/2026/07/03/tres-milhoes-de-portugueses-ja-resolvem-assuntos-com-a-seguranca-social-sem-ir-ao-balcao/",
-      "img": "https://eco.imgix.net/uploads/2026/06/800x450-41.png",
-      "score": 0.73
-    },
-    {
-      "id": "43c9a17d",
-      "cat": "sociedade",
-      "title": "Os fogos de artifício de julho incluem duas chuvas de meteoros separadas para iluminar o céu noturno no final do mês",
-      "summary": "Com muito para ver no firmamento este mês, um evento certamente se destaca para os observadores de estrelas: quando duas chuvas de meteoros bombardeiam o céu nas últimas noites de julho. O primeiro são os Aquarídeos do Delta do Sul e, embora possam ser vistos já em 12 de julho, seu pico de exibição ocorrerá em 30 de julho/",
-      "source": "Good News Network",
-      "date": "Thu, 02 Jul 2026 11:00:50 +0000",
-      "url": "https://www.goodnewsnetwork.org/july-fireworks-include-2-separate-meteor-showers-to-light-up-the-night-sky-late-in-the-month/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/The-Southern-Delta-Aquariids-credit-Diana-Robinson-CC-2.0.-via-Flickr.jpg",
+      "date": "Fri, 03 Jul 2026 14:10:42 +0000",
+      "url": "https://eco.sapo.pt/entrevista/ja-existe-uma-especie-de-cultura-lusofona-de-marketing-pelo-mundo/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-tech-soul03.jpg",
       "score": 0.73
     },
     {
@@ -275,28 +297,6 @@
       "date": "Thu, 02 Jul 2026 16:31:29 GMT",
       "url": "https://www.bbc.co.uk/weather/videos/cjdg81ejk9ro?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9699/live/352a99b0-7633-11f1-b976-0b9c15b0ccfc.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7fb83206",
-      "cat": "tecnologia",
-      "title": "Agricultura preocupa após Índia registrar junho mais seco em mais de uma década",
-      "summary": "As chuvas de monções mais fracas provavelmente afetarão a produção agrícola, mas o governo afirma ter estoques de grãos suficientes para lidar com qualquer escassez.",
-      "source": "BBC News",
-      "date": "Wed, 01 Jul 2026 07:15:15 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzk5rqyr4o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4fd/live/f9ced860-751d-11f1-adcf-e1eef1a1ef9c.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "c83e59ed",
-      "cat": "ciencia",
-      "title": "Full Strawberry Moon capturada no Reino Unido em fotos impressionantes",
-      "summary": "Skygazers capturaram fotos impressionantes da primeira lua cheia do verão brilhando acima do Reino Unido",
-      "source": "BBC News",
-      "date": "Tue, 30 Jun 2026 09:33:21 GMT",
-      "url": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d965/live/22a367a0-7461-11f1-81eb-e7f1f1b252ec.jpg",
       "score": 0.73
     },
     {
@@ -322,14 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "6c602e12",
+      "id": "27935176",
       "cat": "tecnologia",
-      "title": "Dia 23 do Mundial-2026. Portugal passa aos oitavos de final",
-      "summary": "Portugal vence à Croácia por 2-1 e vai defrontar Espanha nos oitavos de final. Selecionador alemão apresenta a demissão após derrota com o Paraguai. Ronaldo garante que ainda não decidiu reforma.",
+      "title": "As notícias das 14h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Fri, 03 Jul 2026 09:17:21 +0100",
-      "url": "https://observador.pt/liveblogs/dia-23-do-mundial-2026-portugal-passa-aos-oitavos-de-final-selecionador-alemao-demite-se/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03054021/ilacerda-jogo-selecao-porto-6-scaled.jpg",
+      "date": "Fri, 03 Jul 2026 14:15:29 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2401/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
