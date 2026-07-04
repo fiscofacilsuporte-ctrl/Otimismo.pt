@@ -1,5 +1,5 @@
 {
-  "last_update": "03/07/2026 19:41 UTC",
+  "last_update": "04/07/2026 03:50 UTC",
   "total": 30,
   "news": [
     {
@@ -12,17 +12,6 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-26-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/06/iStock-1217809699-2-e1782404535426.jpeg",
       "score": 0.82
-    },
-    {
-      "id": "14defa45",
-      "cat": "tecnologia",
-      "title": "Governo oficializa novos certificados para \"aforradores com menor necessidade de liquidez\"",
-      "summary": "Após aprovação em Conselho de Ministros, a resolução que cria os certificados do tesouro série 5 e determina a suspensão de novas subscrições dos Certificados do Tesouro Poupança Valor foi publicada esta sexta-feira em Diário da República.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 03 Jul 2026 18:24:44 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/governo-oficializa-novos-certificados-para-aforradores-com-menor-necessidade-de-liquidez",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-09/img_100x100uu2023-09-27-13-14-59-461319.jpg",
-      "score": 0.79
     },
     {
       "id": "0a8718ab",
@@ -58,14 +47,14 @@
       "score": 0.79
     },
     {
-      "id": "ff33bd8a",
-      "cat": "tecnologia",
-      "title": "Novos Certificados do Tesouro só dão juro acima de 3% no décimo ano",
-      "summary": "Governo defende que novo produto de poupança é para “aforradores com menor necessidade de liquidez”, mas resgate é possível logo ao fim do primeiro ano. Maior retorno só é conseguido em 2036.",
-      "source": "Público",
-      "date": "Fri, 03 Jul 2026 17:50:35 GMT",
-      "url": "https://www.publico.pt/2026/07/03/economia/noticia/novos-certificados-tesouro-so-dao-juro-acima-3-decimo-ano-2180497",
-      "img": null,
+      "id": "e4698a68",
+      "cat": "desporto",
+      "title": "Hamilton conquista ‘pole’ para corrida sprint do GP da Grã-Bretanha de Fórmula 1",
+      "summary": "O britânico Lewis Hamilton (Ferrari) conquistou hoje a pole position para a corrida sprint do Grande Prémio da Grã-Bretanha de Fórmula 1, em Silverstone, nona prova da temporada.",
+      "source": "RTP",
+      "date": "Sat, 04 Jul 2026 03:04:23 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/hamilton-conquista-pole-para-corrida-sprint-do-gp-da-gra-bretanha-de-formula-1_d1751289",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c5/c5fef2e01a4958f95d5ab47286c31881?w=350&amp;q=50&amp;rect=0,49,3302,1810&amp;auto=format",
       "score": 0.76
     },
     {
@@ -168,47 +157,58 @@
       "score": 0.76
     },
     {
-      "id": "3b8132be",
+      "id": "a99cfc18",
       "cat": "tecnologia",
-      "title": "Neemias Queta acerta extensão de contrato com os Boston Celtics",
-      "summary": "Poste português chegou a acordo com os Celtics para um contrato de quatro anos, no valor de 56 milhões de dólares. Novo vínculo começa em 2027-28 e dura até 2031.",
+      "title": "Cabo Verde teve tudo de todos, a Argentina teve Messi e os centrais",
+      "summary": "Selecção africana obrigou o campeão do mundo a prolongamento, mas acabou por perder por 3-2. Messi marcou um e fez duas assistências. Sydny Lopes Cabral marcou um golaço.",
       "source": "Público",
-      "date": "Fri, 03 Jul 2026 18:18:18 GMT",
-      "url": "https://www.publico.pt/2026/07/03/desporto/noticia/neemias-queta-acerta-extensao-contrato-boston-celtics-2180440",
+      "date": "Sat, 04 Jul 2026 00:52:36 GMT",
+      "url": "https://www.publico.pt/2026/07/04/desporto/noticia/cabo-verde-argentina-messi-centrais-2180523",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "d712cca1",
-      "cat": "cultura",
-      "title": "Governo mudou concurso para requalificar escolas e só depois se reuniu com a ANMP",
-      "summary": "Acordo foi celebrado no âmbito da descentralização em Julho de 2023 e Ana Abrunhosa entende estar a ser violado. Secretários de Estado reuniram-se com ANMP na quarta-feira após feitas alterações.",
+      "id": "d52f244a",
+      "cat": "tecnologia",
+      "title": "Uma revolução apadrinhada pelo Supremo Tribunal",
+      "summary": "Apesar de algumas derrotas, Donald Trump chega ao fim do ano judicial com os seus poderes reforçados. Opinião de Francisco Teixeira da Mota",
       "source": "Público",
-      "date": "Fri, 03 Jul 2026 18:01:00 GMT",
-      "url": "https://www.publico.pt/2026/07/03/politica/noticia/governo-mudou-concurso-requalificar-escolas-so-reuniu-anmp-2180442",
+      "date": "Fri, 03 Jul 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/07/04/opiniao/opiniao/revolucao-apadrinhada-supremo-tribunal-2180462",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "a01b6470",
+      "id": "eb870beb",
       "cat": "tecnologia",
-      "title": "NATO. 70 mil milhões para a Ucrânia sem os EUA",
-      "summary": "Com os EUA de fora do financiamento, aliados europeus da NATO e o Canadá preparam compromisso histórico. Zelensky deverá participar num jantar de trabalho na terça-feira.",
-      "source": "Observador",
-      "date": "Fri, 03 Jul 2026 19:40:06 +0100",
-      "url": "https://observador.pt/2026/07/03/aliados-comprometem-se-a-conceder-70-mil-milhoes-de-euros-em-ajuda-militar-a-ucrania/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03185813/46610965.jpg",
+      "title": "Nova ponte entre as ribeiras do Porto e de Gaia: a boa notícia e a notícia preocupante",
+      "summary": "É difícil de compreender o lançamento de um concurso de concepção-construção para uma ponte que ocupará nos próximos séculos talvez o lugar mais nobre das duas cidades.",
+      "source": "Público",
+      "date": "Fri, 03 Jul 2026 23:05:00 GMT",
+      "url": "https://www.publico.pt/2026/07/04/opiniao/opiniao/nova-ponte-ribeiras-porto-gaia-boa-noticia-noticia-preocupante-2180370",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "e7890521",
-      "cat": "desporto",
-      "title": "Djokovic nos oitavos de final de Wimbledon",
-      "summary": "O sérvio, sete vezes campeão em Londres e recordista com 24 títulos do Grand Slam, venceu o francês por 7-5, 6-4, 1-6 e 7-6 no court central.",
+      "id": "a36ee948",
+      "cat": "tecnologia",
+      "title": "1h. Incêndios. Vouzela e Setúbal continuam a preocupar",
+      "summary": "Fogo de Barcelos também está a evoluir favoravelmente. Ainda neste jornal, André Ventura pede ao primeiro-ministro que \"aprenda com os erros do ano passado\" na gestão dos fogos rurais.",
       "source": "Observador",
-      "date": "Fri, 03 Jul 2026 19:38:08 +0100",
-      "url": "https://observador.pt/2026/07/03/wimbledon-djokovic-supera-batalha-de-tres-horas-com-rinderknech-e-garante-os-oitavos-de-final/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1620:909:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03174244/47400876.jpg",
+      "date": "Sat, 04 Jul 2026 01:15:23 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2313/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "9fb40a22",
+      "cat": "tecnologia",
+      "title": "A Liturgia viva da Igreja",
+      "summary": "Não é correcto opor a tradição ao Vaticano II, como se o concílio tivesse interrompido o processo histórico da liturgia católica.",
+      "source": "Observador",
+      "date": "Sat, 04 Jul 2026 00:21:53 +0100",
+      "url": "https://observador.pt/opiniao/a-liturgia-viva-da-igreja/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2340%3A2340%3Anowe%3A128%3A631%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpadre-goncalo-almada.jpg",
       "score": 0.73
     },
     {
@@ -223,17 +223,6 @@
       "score": 0.73
     },
     {
-      "id": "d4b3887c",
-      "cat": "tecnologia",
-      "title": "Europa renova recordes pela segunda sessão consecutiva. Abivax dispara mais de 5%",
-      "summary": "Acompanhe, ao minuto, a evolução dos mercados nesta sexta-feira.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 03 Jul 2026 17:57:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/pracas-asiaticas-em-alta-samsung-e-sk-hynix-saltam-mais-de-8",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-05-15-46-13-491527.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -245,31 +234,9 @@
       "score": 0.73
     },
     {
-      "id": "b7e69346",
-      "cat": "desporto",
-      "title": "Postecoglou substitui Jorge Jesus no comando técnico do Al Nassr",
-      "summary": "O treinador australiano Ange Postecoglou, de 60 anos, assinou um contrato válido por duas temporadas com o Al Nassr, sucedendo ao português Jorge Jesus, anunciou hoje o campeão saudita de futebol.",
-      "source": "RTP",
-      "date": "Fri, 03 Jul 2026 19:52:23 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/postecoglou-substitui-jorge-jesus-no-comando-tecnico-do-al-nassr_d1751214",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b655b6d3e94ded78c973e293057b0b54?w=350&amp;q=50&amp;rect=0,57,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "5d6b79db",
-      "cat": "tecnologia",
-      "title": "Djokovic avança em Wimbledon",
-      "summary": "O sérvio Novak Djokovic, recordista de títulos do Grand Slam e sete vezes campeão na relva londrina, assegurou a passagem aos oitavos de final do torneio de Wimbledon, ao vencer o francês Arthur Rinderknech em quatro parciais.",
-      "source": "RTP",
-      "date": "Fri, 03 Jul 2026 18:33:41 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/djokovic-avanca-em-wimbledon_d1751200",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e45e3b6c845dd36680423b6e56c05183?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
       "id": "d6d9c9ad",
       "cat": "tecnologia",
-      "title": "Taylor Swift e Travis Kelce doam US$ 26 milhões para instituições de caridade antes do casamento blockbuster",
+      "title": "Taylor Swift e Travis Kelce doam US$ 26 milhões para instituições de caridade em homenagem ao casamento",
       "summary": "Um representante da dançarina favorita da América disse que Taylor Swift e Travis Kelce fizeram doações totalizando US$ 26 milhões para mais de uma dúzia de organizações sem fins lucrativos e instituições de caridade. Embora não esteja totalmente claro quando e onde o casal se casará, algumas investigações do",
       "source": "Good News Network",
       "date": "Fri, 03 Jul 2026 18:30:39 +0000",
@@ -278,14 +245,14 @@
       "score": 0.73
     },
     {
-      "id": "3112b9b8",
-      "cat": "ciencia",
-      "title": "Temperaturas recordes nos EUA com o início do feriado de 4 de julho",
-      "summary": "Onda de calor recorde atinge os EUA com o início do fim de semana do feriado de 4 de julho.",
+      "id": "af24edf2",
+      "cat": "ambiente",
+      "title": "Cientista apelidado de Bogfather está restaurando turfeiras para combater as mudanças climáticas",
+      "summary": "O fascínio infantil pelos pântanos levou um cientista galês a tentar ajudar a salvar o planeta.",
       "source": "BBC News",
-      "date": "Fri, 03 Jul 2026 17:10:24 GMT",
-      "url": "https://www.bbc.co.uk/news/videos/cx2v1e9dpn9o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9850/live/a4d96180-76f9-11f1-8b66-2595602b4548.jpg",
+      "date": "Fri, 03 Jul 2026 21:56:54 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4529/live/06359680-6bf9-11f1-8e1d-bbbb1017d210.jpg",
       "score": 0.73
     },
     {
@@ -311,14 +278,36 @@
       "score": 0.73
     },
     {
-      "id": "103810d7",
+      "id": "5f48be84",
       "cat": "tecnologia",
-      "title": "As notícias das 20h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Não foi preciso eficácia para a sorte estar do lado cafetero",
+      "summary": "A ameaça inicial do Gana — que fechou o bloco —, não intimidou uma Colômbia dominadora e que ficou a ganhar com a entrada de Suárez no início. Avançado desbloqueou e Jhon Arias carimbou (1-0).",
       "source": "Observador",
-      "date": "Fri, 03 Jul 2026 20:14:53 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-1992/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 04 Jul 2026 04:37:47 +0100",
+      "url": "https://observador.pt/2026/07/04/nao-foi-preciso-eficacia-para-a-sorte-estar-do-lado-de-um-cafetero-que-nao-foge-a-sua-responsabilidade-a-cronica-do-colombia-gana/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3248:1823:nowe:0:210/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/04041255/gettyimages-2283952711.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "165435da",
+      "cat": "ambiente",
+      "title": "Pego integra leilão nacional de 300 MVA para renováveis com armazenamento",
+      "summary": "O esclarecimento foi prestado pelo Ministério do Ambiente e Energia após a apresentação da Estratégia Nacional de Armazenamento, que identifica Abrantes entre os pontos da Rede Nacional de Transporte abrangidos pelo futuro procedimento concorrencial.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 03 Jul 2026 22:57:41 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/pego-integra-leilao-nacional-de-300-mva-para-renovaveis-com-armazenamento",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-01/img_100x100uu2022-01-18-20-49-13-420356.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "fd4758da",
+      "cat": "tecnologia",
+      "title": "Ministra da Saúde preocupada com onda de calor alerta para risco e dias muito difíceis",
+      "summary": "A reação de Ana Paula Martins surge após a Direção-Geral da Saúde (DGS) ativar o Nível 2 - Laranja do Plano Nacional de Preparação e Resposta Sazonal em Saúde, devido às elevadas temperaturas, que corresponde a uma situação de risco elevado para a saúde da população.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 03 Jul 2026 22:55:46 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ministra-da-saude-preocupada-com-onda-de-calor-alerta-para-risco-e-dias-muito-dificeis",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-07-14-31-48-523218.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
