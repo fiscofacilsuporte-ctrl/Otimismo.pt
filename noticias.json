@@ -1,5 +1,5 @@
 {
-  "last_update": "04/07/2026 03:50 UTC",
+  "last_update": "04/07/2026 08:48 UTC",
   "total": 30,
   "news": [
     {
@@ -83,7 +83,7 @@
       "id": "46c31345",
       "cat": "ciencia",
       "title": "Basta adicionar água ao combustível diesel para reduzir a poluição do motor em 67% – sem perda de eficiência",
-      "summary": "Você pode reduzir as emissões do seu motor diesel em 60% com ESTA solução surpreendentemente simples – basta adicionar água. Com toda a seriedade, de acordo com uma análise de estudos de todo o mundo publicada por uma equipa de investigação da Nigéria, misturar pequenas quantidades de água no combustível diesel poderia reduzir drasticamente",
+      "summary": "Você pode reduzir as emissões do seu motor diesel em 60% com ESTA solução surpreendentemente simples – basta adicionar água. Com toda a seriedade, de acordo com uma revisão de estudos de todo o mundo publicada por uma equipa de investigação da Nigéria, misturar pequenas quantidades de água no gasóleo poderia reduzir drasticamente",
       "source": "Good News Network",
       "date": "Fri, 03 Jul 2026 13:00:53 +0000",
       "url": "https://www.goodnewsnetwork.org/simply-add-water-to-diesel-fuel-to-cut-engine-pollution-by-67-with-no-loss-in-efficiency/",
@@ -124,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "5f56504a",
+      "cat": "tecnologia",
+      "title": "Turbinas transformando energia eólica em produtos sustentáveis",
+      "summary": "Milhares de toneladas de pás de turbinas eólicas não recicláveis ​​estão chegando ao fim de suas vidas.",
+      "source": "BBC News",
+      "date": "Sat, 04 Jul 2026 05:06:44 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cewqzrkvwvqo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aaf/live/e782c920-76f1-11f1-b9cc-bd5880081b3f.jpg",
+      "score": 0.76
+    },
+    {
       "id": "acde07ed",
       "cat": "tecnologia",
       "title": "Nasa lança missão para salvar telescópio espacial em queda",
@@ -157,58 +168,47 @@
       "score": 0.76
     },
     {
-      "id": "a99cfc18",
-      "cat": "tecnologia",
-      "title": "Cabo Verde teve tudo de todos, a Argentina teve Messi e os centrais",
-      "summary": "Selecção africana obrigou o campeão do mundo a prolongamento, mas acabou por perder por 3-2. Messi marcou um e fez duas assistências. Sydny Lopes Cabral marcou um golaço.",
+      "id": "5d5a326e",
+      "cat": "cultura",
+      "title": "Antes do temível quarteto ofensivo de 2026, a França teve o seu “Quadrado Mágico”",
+      "summary": "Na década de 1980, a selecção francesa deslumbrou o planeta com um meio campo de luxo liderado pelo Le Roi Michael Platini, só falhando a conquista de um Mundial.",
       "source": "Público",
-      "date": "Sat, 04 Jul 2026 00:52:36 GMT",
-      "url": "https://www.publico.pt/2026/07/04/desporto/noticia/cabo-verde-argentina-messi-centrais-2180523",
+      "date": "Sat, 04 Jul 2026 08:01:00 GMT",
+      "url": "https://www.publico.pt/2026/07/04/desporto/noticia/temivel-quarteto-ofensivo-2026-franca-quadrado-magico-2180487",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "d52f244a",
+      "id": "8f673f12",
       "cat": "tecnologia",
-      "title": "Uma revolução apadrinhada pelo Supremo Tribunal",
-      "summary": "Apesar de algumas derrotas, Donald Trump chega ao fim do ano judicial com os seus poderes reforçados. Opinião de Francisco Teixeira da Mota",
+      "title": "À espera das células CAR-T. A odisseia de Gualter para calar o mieloma múltiplo",
+      "summary": "A última década de Gualter Macedo foi passada em hospitais. Há sete meses, tornou-se o primeiro doente com mieloma múltiplo a receber a inovadora terapia com células CAR-T num hospital português.",
       "source": "Público",
-      "date": "Fri, 03 Jul 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/07/04/opiniao/opiniao/revolucao-apadrinhada-supremo-tribunal-2180462",
+      "date": "Sat, 04 Jul 2026 08:00:00 GMT",
+      "url": "https://www.publico.pt/2026/07/04/ciencia/noticia/espera-celulas-cart-odisseia-gualter-calar-mieloma-multiplo-2180330",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "eb870beb",
+      "id": "abe0a567",
       "cat": "tecnologia",
-      "title": "Nova ponte entre as ribeiras do Porto e de Gaia: a boa notícia e a notícia preocupante",
-      "summary": "É difícil de compreender o lançamento de um concurso de concepção-construção para uma ponte que ocupará nos próximos séculos talvez o lugar mais nobre das duas cidades.",
+      "title": "Contemplação luminosa da presença: Lídia Jorge, Prémio Camões 2026",
+      "summary": "A literatura de Lídia não é mero adereço, botoeira ou flor de lapela. É elogio do outro, é salvação do que vincula, não havendo lugar para a perfídia. Crónica de José C. Vieira",
       "source": "Público",
-      "date": "Fri, 03 Jul 2026 23:05:00 GMT",
-      "url": "https://www.publico.pt/2026/07/04/opiniao/opiniao/nova-ponte-ribeiras-porto-gaia-boa-noticia-noticia-preocupante-2180370",
+      "date": "Sat, 04 Jul 2026 07:38:00 GMT",
+      "url": "https://www.publico.pt/2026/07/04/p3/cronica/contemplacao-luminosa-presenca-lidia-jorge-premio-camoes-2026-2180465",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "a36ee948",
+      "id": "5bd7caa1",
       "cat": "tecnologia",
-      "title": "1h. Incêndios. Vouzela e Setúbal continuam a preocupar",
-      "summary": "Fogo de Barcelos também está a evoluir favoravelmente. Ainda neste jornal, André Ventura pede ao primeiro-ministro que \"aprenda com os erros do ano passado\" na gestão dos fogos rurais.",
+      "title": "Moda portuguesa conquista Milão, Médio Oriente e a Chanel",
+      "summary": "Ao segundo dia de desfiles há Pé de Chumbo com uma peça que pode ter inspirado a Chanel; os Ernest W. Baker a arriscar roupas femininas; e os modelos quase exclusivos de Miguel Vieira.",
       "source": "Observador",
-      "date": "Sat, 04 Jul 2026 01:15:23 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2313/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.73
-    },
-    {
-      "id": "9fb40a22",
-      "cat": "tecnologia",
-      "title": "A Liturgia viva da Igreja",
-      "summary": "Não é correcto opor a tradição ao Vaticano II, como se o concílio tivesse interrompido o processo histórico da liturgia católica.",
-      "source": "Observador",
-      "date": "Sat, 04 Jul 2026 00:21:53 +0100",
-      "url": "https://observador.pt/opiniao/a-liturgia-viva-da-igreja/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2340%3A2340%3Anowe%3A128%3A631%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpadre-goncalo-almada.jpg",
+      "date": "Sat, 04 Jul 2026 09:16:37 +0100",
+      "url": "https://observador.pt/2026/07/04/a-peca-da-pe-de-chumbo-que-inspirou-a-chanel-o-androgino-dos-ernest-w-baker-e-as-flores-e-cristais-de-miguel-vieira/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/04030449/ilacerda-portugal-fashion-dia-3-miguel-vieira-24-scaled.jpg",
       "score": 0.73
     },
     {
@@ -234,6 +234,28 @@
       "score": 0.73
     },
     {
+      "id": "a2e465be",
+      "cat": "tecnologia",
+      "title": "Cabo Verde aplaude com orgulho os Tubarões que “puseram a Argentina a chorar”",
+      "summary": "A festa já durava há vários dias em Cabo Verde e no largo de Quebra Canela, na cidade da Praia, já se sabia que ia continuar, fosse qual fosse o resultado frente à Argentina, para celebrar a notoriedade conquistada pelo país.",
+      "source": "RTP",
+      "date": "Sat, 04 Jul 2026 06:24:08 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/cabo-verde-aplaude-com-orgulho-os-tubaroes-que-puseram-a-argentina-a-chorar_d1751300",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d28d85051be200b8d8f174b2c0f45775?w=350&amp;q=50&amp;rect=0,452,6720,3684&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "ac48fade",
+      "cat": "tecnologia",
+      "title": "Mundial 2026. Colômbia - Gana",
+      "summary": "Um golo de Jhon Arias colocou na sexta-feira a Colômbia nos oitavos de final do Mundial2026 de futebol, ao assegurar a vitória sobre o Gana (1-0), no reencontro do treinador português Carlos Queiroz com os vice-campeões sul-americanos.",
+      "source": "RTP",
+      "date": "Sat, 04 Jul 2026 01:14:03 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/mundial-2026-colombia-gana_e1751275",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd4479c700b9e07ee34e528bea68bfd8?w=350&amp;q=50&amp;rect=0,268,4808,2636&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "d6d9c9ad",
       "cat": "tecnologia",
       "title": "Taylor Swift e Travis Kelce doam US$ 26 milhões para instituições de caridade em homenagem ao casamento",
@@ -242,17 +264,6 @@
       "date": "Fri, 03 Jul 2026 18:30:39 +0000",
       "url": "https://www.goodnewsnetwork.org/taylor-swift-and-travis-kelce-donate-26-million-to-charities-ahead-of-blockbuster-wedding/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/08/Taylor-Swift-in-Arlington-Texas-2023.-CC-Ronald-S-Woan-e1692307148587.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "af24edf2",
-      "cat": "ambiente",
-      "title": "Cientista apelidado de Bogfather está restaurando turfeiras para combater as mudanças climáticas",
-      "summary": "O fascínio infantil pelos pântanos levou um cientista galês a tentar ajudar a salvar o planeta.",
-      "source": "BBC News",
-      "date": "Fri, 03 Jul 2026 21:56:54 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4529/live/06359680-6bf9-11f1-8e1d-bbbb1017d210.jpg",
       "score": 0.73
     },
     {
@@ -278,14 +289,25 @@
       "score": 0.73
     },
     {
-      "id": "5f48be84",
+      "id": "95103df2",
       "cat": "tecnologia",
-      "title": "Não foi preciso eficácia para a sorte estar do lado cafetero",
-      "summary": "A ameaça inicial do Gana — que fechou o bloco —, não intimidou uma Colômbia dominadora e que ficou a ganhar com a entrada de Suárez no início. Avançado desbloqueou e Jhon Arias carimbou (1-0).",
+      "title": "Dois feridos em Vouzela, incêndio de Setúbal dominado",
+      "summary": "O combate às chama em Vouzela continuou durante a noite, com mais de mil operacionais no terreno. IPMA alarga aviso vermelho de calor a 13 distritos do país, com máximas que podem atingir os 44 graus.",
       "source": "Observador",
-      "date": "Sat, 04 Jul 2026 04:37:47 +0100",
-      "url": "https://observador.pt/2026/07/04/nao-foi-preciso-eficacia-para-a-sorte-estar-do-lado-de-um-cafetero-que-nao-foge-a-sua-responsabilidade-a-cronica-do-colombia-gana/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3248:1823:nowe:0:210/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/04041255/gettyimages-2283952711.jpg",
+      "date": "Sat, 04 Jul 2026 09:29:59 +0100",
+      "url": "https://observador.pt/liveblogs/dois-feridos-em-vouzela-fogo-em-setubal-dominado-risco-de-incendio-maximo-em-todo-o-continente/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2025:1136:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03205808/gco-dincendio-vouzela-3-julho-2026-010.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "a0519121",
+      "cat": "tecnologia",
+      "title": "Eutanásia, António Costa e os EUA",
+      "summary": "José Manuel Fernandes responde sobre a eutanásia, Helena Garrido traz à pedra António Costa e celebram-se os 250 anos dos Estados Unidos da América.",
+      "source": "Observador",
+      "date": "Sat, 04 Jul 2026 08:57:15 +0100",
+      "url": "https://observador.pt/newsletters/pontos-de-vista/eutanasia-antonio-costa-e-os-eua/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/10154921/pdv-16x9-1.jpg",
       "score": 0.7
     },
     {
@@ -308,28 +330,6 @@
       "date": "Fri, 03 Jul 2026 22:55:46 +0100",
       "url": "https://www.jornaldenegocios.pt/economia/detalhe/ministra-da-saude-preocupada-com-onda-de-calor-alerta-para-risco-e-dias-muito-dificeis",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-07-14-31-48-523218.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
