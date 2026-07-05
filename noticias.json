@@ -1,5 +1,5 @@
 {
-  "last_update": "05/07/2026 13:57 UTC",
+  "last_update": "05/07/2026 19:35 UTC",
   "total": 30,
   "news": [
     {
@@ -14,6 +14,17 @@
       "score": 0.82
     },
     {
+      "id": "e7757ee3",
+      "cat": "ciencia",
+      "title": "Rara declaração de independência de 1776 descoberta pelos arquivos nacionais no Reino Unido – uma das 11 que sobreviveram",
+      "summary": "Uma rara impressão de 1776 da Declaração de Independência dos EUA – uma das 11 que sobreviveram e a única cópia fora dos Estados Unidos – foi descoberta por um voluntário que classificava cartas e documentos históricos nos Arquivos Nacionais em Kew. Enquanto o Arquivo se preparava para abrir uma exposição",
+      "source": "Good News Network",
+      "date": "Sun, 05 Jul 2026 13:47:01 +0000",
+      "url": "https://www.goodnewsnetwork.org/rare-1776-declaration-of-independence-discovered-by-national-archives-in-uk/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Rare-1776-printing-of-Declaration-of-Independence-discovered-at-The-UK-National-Archives-in-Kew.jpg",
+      "score": 0.79
+    },
+    {
       "id": "0a8718ab",
       "cat": "ciencia",
       "title": "Um estranho sinal do LIGO pode revelar o elo perdido por trás da matéria escura",
@@ -25,6 +36,28 @@
       "score": 0.79
     },
     {
+      "id": "8432bf8b",
+      "cat": "tecnologia",
+      "title": "Pogacar “oferece” vitória a Isaac del Toro no segundo dia da Volta a França",
+      "summary": "Dupla da UAE Emirates fez primeiro e segundo na etapa. Tadej Pogacar teve força para largar Jonas Vingegaard e acompanhar del Toro até à meta, mas deixou a vitória para o jovem mexicano.",
+      "source": "Público",
+      "date": "Sun, 05 Jul 2026 16:43:49 GMT",
+      "url": "https://www.publico.pt/2026/07/05/desporto/noticia/pogacar-oferece-vitoria-isaac-del-toro-segundo-dia-volta-franca-2180617",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "072103a8",
+      "cat": "economia",
+      "title": "\"Lisbon Sustainability Week\"",
+      "summary": "A criação de valor deve ser a lógica de atuação das empresas e de funcionamento dos mercados financeiros. Só assim teremos uma economia sustentável que cuida das pessoas e do planeta.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 05 Jul 2026 18:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/deans-corner/filipe-santos/detalhe/lisbon-sustainability-week",
+      "img": "https://cdn.jornaldenegocios.pt/images/2020-04/img_394x514uu2020-04-21-15-48-00-374261.png",
+      "score": 0.76
+    },
+    {
       "id": "ec9f75da",
       "cat": "tecnologia",
       "title": "Lusíadas Saúde sobe receitas para 474 milhões em 2025 e investe 165 milhões até 2030",
@@ -33,28 +66,6 @@
       "date": "Sun, 05 Jul 2026 09:57:15 +0000",
       "url": "https://eco.sapo.pt/2026/07/05/lusiadas-saude-sobe-receitas-para-474-milhoes-em-2025-e-investe-165-milhoes-ate-2030/",
       "img": "https://eco.imgix.net/uploads/2026/07/cropped-47311615-scaled-3.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "cc7a35be",
-      "cat": "sociedade",
-      "title": "Montenegro agradece “rápida mobilização” europeia",
-      "summary": "O primeiro-ministro, Luís Montenegro, agradeceu à presidente da Comissão Europeia a &#8220;rápida mobilização&#8221; no âmbito da ajuda a Portugal para combater os incêndios, salientando que &#8220;a solidariedade europeia faz a diferença&#8221;. Numa publicação na sua conta oficial na rede social &",
-      "source": "ECO",
-      "date": "Sat, 04 Jul 2026 20:45:03 +0000",
-      "url": "https://eco.sapo.pt/2026/07/04/montenegro-agradece-rapida-mobilizacao-europeia/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47407076-scaled-1.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "46c31345",
-      "cat": "ciencia",
-      "title": "Basta adicionar água ao combustível diesel para reduzir a poluição do motor em 67% – sem perda de eficiência",
-      "summary": "Você pode reduzir as emissões do seu motor diesel em 60% com ESTA solução surpreendentemente simples – basta adicionar água. Com toda a seriedade, de acordo com uma análise de estudos de todo o mundo publicada por uma equipa de investigação da Nigéria, misturar pequenas quantidades de água no combustível diesel poderia reduzir drasticamente",
-      "source": "Good News Network",
-      "date": "Fri, 03 Jul 2026 13:00:53 +0000",
-      "url": "https://www.goodnewsnetwork.org/simply-add-water-to-diesel-fuel-to-cut-engine-pollution-by-67-with-no-loss-in-efficiency/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/diesel-gas-pump-credit-Rob-Wingate.jpg",
       "score": 0.76
     },
     {
@@ -135,69 +146,47 @@
       "score": 0.76
     },
     {
-      "id": "25a1c000",
-      "cat": "sociedade",
-      "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
-      "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada em... O pos",
-      "source": "Reasons to be Cheerful",
-      "date": "Thu, 02 Jul 2026 08:00:08 +0000",
-      "url": "https://reasonstobecheerful.world/the-spark-wildlife-care/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/Shutterstock-El-Nariz-scaled.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "8ad12172",
+      "id": "479da147",
       "cat": "tecnologia",
-      "title": "Governo transfere mais 200 milhões de euros para o SNS pagar dívidas a fornecedores",
-      "summary": "Só neste primeiro semestre, valor das injecções já ultrapassa o de todo o ano passado. Despesas com pessoal e com medicamentos são os principais factores de pressão sobre a despesa pública em saúde.",
-      "source": "Público",
-      "date": "Sun, 05 Jul 2026 11:55:42 GMT",
-      "url": "https://www.publico.pt/2026/07/05/sociedade/noticia/governo-transfere-200-milhoes-euros-sns-pagar-dividas-fornecedores-2180593",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "770930b6",
-      "cat": "tecnologia",
-      "title": "O caso da jovem que não queria ser salva",
-      "summary": "Depois de uma tentativa de suicídio e um transplante de fígado, uma paciente da psicóloga Inês Mega continuava a recusar ajuda. Uma lição sobre frustração, humildade, esperança e limites terapêuticos.",
+      "title": "Gosta de carros largos? Ponha os olhos neste BMW M3 gigante",
+      "summary": "Se a família é numerosa ou tem muitos amigos com quem quer passear, e procura um carro mais largo e espaçoso, ponha os olhos neste BMW M3 “king size”. Mas prepare-se, pois nem sempre o que parece é...",
       "source": "Observador",
-      "date": "Sun, 05 Jul 2026 14:40:12 +0100",
-      "url": "https://observador.pt/programas/dooutrolado/do-outro-lado-o-caso-da-jovem-que-fugia-de-quem-a-tentava-ajudar/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/01193002/capa-horizontal-semtitulo.jpg",
+      "date": "Sun, 05 Jul 2026 19:18:12 +0100",
+      "url": "https://observador.pt/2026/07/05/gosta-de-carros-largos-ponha-os-olhos-neste-bmw-m3-gigante/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2560:1439:nowe:0:43/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05123532/bmw-m3-squared-1aaa-copy.jpg",
       "score": 0.73
     },
     {
-      "id": "73544fc4",
+      "id": "cee45fb0",
       "cat": "tecnologia",
-      "title": "16 tascas em Lisboa para comer um bitoque até 10 euros",
-      "summary": "Um dos pratos mais comuns nas ementas pelo país resiste às modas da restauração e ainda pode ser encontrado a preços económicos mesmo nos bairros mais turísticos da capital portuguesa.",
+      "title": "AfD reafirma ambição de governar a Alemanha",
+      "summary": "No congresso de Erfurt, os dois líderes reeleitos do partido de extrema-direita prometeram conquistar três estados do leste e reclamar a chancelaria alemã já em 2027.",
       "source": "Observador",
-      "date": "Sun, 05 Jul 2026 12:14:34 +0100",
-      "url": "https://observador.pt/2026/07/05/bife-batatas-ovo-e-arroz-ate-10-euros-16-tascas-em-lisboa-para-comer-um-bitoque/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3922:2199:nowe:174:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/26192620/dventura-bitoques-3-scaled.jpg",
+      "date": "Sun, 05 Jul 2026 18:08:29 +0100",
+      "url": "https://observador.pt/2026/07/05/partido-de-extrema-direita-afd-reafirma-ambicao-de-governar-a-alemanha/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:11/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05173929/47359494.jpg",
       "score": 0.73
     },
     {
-      "id": "c060bd96",
+      "id": "4f999ef8",
       "cat": "tecnologia",
-      "title": "Uma nova (e talvez ingénua) teoria para a queda das civilizações",
-      "summary": "Em “A maldição de Golias”, Luke Kemp procura explicar porque colapsaram as sociedades e os impérios do passado, relacionando-o com concentração de poder e desigualdade, sugerindo que a sua queda pode ser benéfica. Ideias bonitas que podem suscitar reservas.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 05 Jul 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/livros/detalhe/uma-nova-e-talvez-ingenua-teoria-para-a-queda-das-civilizacoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-10-38-00-526057.jpg",
+      "title": "Betinho despede-se do Benfica após 17 títulos",
+      "summary": "O extremo luso-cabo-verdiano, de 41 anos, representou as águias em dois períodos ao longo de 10 anos. O tetracampeonato está entre as conquistas.",
+      "source": "Observador",
+      "date": "Sun, 05 Jul 2026 18:06:19 +0100",
+      "url": "https://observador.pt/2026/07/05/betinho-deixa-basquetebol-do-benfica-apos-um-total-de-10-anos-nas-aguias/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05173821/43841431.jpg",
       "score": 0.73
     },
     {
-      "id": "9245372e",
-      "cat": "tecnologia",
-      "title": "Lusíadas Saúde admite nova PPP mas parceria para ULS só com modelo melhorado",
-      "summary": "Algumas ULS (unidade local de saúde) têm lançado concursos públicos em moldes ainda \"pouco precisos\".",
+      "id": "52e68aea",
+      "cat": "economia",
+      "title": "“Vamos ter um pico de inflação talvez nos três, três e meio por cento\", antecipa Ricardo Reis",
+      "summary": "O economista Ricardo Reis considera que o acordo entre os EUA e o Irão retirou alguma pressão sobre novo aperto monetário na Zona Euro até ao final do ano, mas pelas estimativas, o pico da inflação deverá estar na casa dos 3%.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 05 Jul 2026 09:34:15 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/lusiadas-saude-admite-nova-ppp-mas-parceria-para-uls-so-com-modelo-melhorado",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-31-11-27-17-493118.jpg",
+      "date": "Sun, 05 Jul 2026 18:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/vamos-ter-um-pico-de-inflacao-talvez-nos-tres-tres-e-meio-por-cento-antecipa-ricardo-reis",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-02-15-50-40-526010.jpg",
       "score": 0.73
     },
     {
@@ -245,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "6b2075e8",
+      "cat": "tecnologia",
+      "title": "easyJet aceita oferta de seis mil milhões da Castlelake",
+      "summary": "A easyJet e a Castlelake chegaram a um princípio de acordo sobre os termos financeiros de uma eventual oferta de aquisição que avaliaria a companhia aérea britânica em cerca de seis mil milhões de euro, segundo noticia o Financial Times. A easyJet indicou este domingo que a proposta mais recente do ",
+      "source": "ECO",
+      "date": "Sun, 05 Jul 2026 17:14:08 +0000",
+      "url": "https://eco.sapo.pt/2026/07/05/easyjet-aceita-oferta-de-seis-mil-milhoes-da-castlelake/",
+      "img": "https://eco.imgix.net/uploads/2026/02/cropped-easyjet13.jpg",
+      "score": 0.73
+    },
+    {
       "id": "67cba51d",
       "cat": "tecnologia",
       "title": "Lusíadas Saúde admite nova PPP mas parceria para ULS só com modelo melhorado",
@@ -278,58 +278,58 @@
       "score": 0.73
     },
     {
-      "id": "41473a4a",
-      "cat": "sociedade",
-      "title": "Nele para o longo prazo",
-      "summary": "Enquanto os Estados Unidos celebram o seu 250º aniversário neste fim de semana, muitos dos seus residentes podem sentir o grande elefante ideologicamente dividido na sala. Mas embora o país tenha em conta a sua identidade nacional, a nível local, os americanos continuam a unir-se de formas que transcendem a política, como acontece com o país.",
-      "source": "Reasons to be Cheerful",
-      "date": "Fri, 03 Jul 2026 08:00:24 +0000",
-      "url": "https://reasonstobecheerful.world/americas-250th-birthday-reader-responses/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2227481145-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "b00cdc4c",
+      "id": "a669fa15",
       "cat": "tecnologia",
-      "title": "O que estamos lendo: como consertar a bagunça do espelho d'água - naturalmente",
-      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Não é fácil ser verde A saga do Lincoln Memorial Reflecting Pool, cheio de algas, continua, com o",
-      "source": "Reasons to be Cheerful",
-      "date": "Wed, 01 Jul 2026 08:00:28 +0000",
-      "url": "https://reasonstobecheerful.world/what-were-reading-reflecting-pool-natural-solutions/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/shutterstock_2798368341-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ed51a455",
-      "cat": "cultura",
-      "title": "Christopher Nolan não quer “educar” com A Odisseia , mas sim entreter as pessoas",
-      "summary": "Numa entrevista à Reuters, o cineasta equipara adaptar Homero e Odisseu aos comics e a Batman. Novo filme estreia-se nos cinemas a 16 de Julho.",
+      "title": "PS não descarta viabilizar inquérito sobre caso dos exames nacionais",
+      "summary": "Bancada socialista considera caso dos exames nacionais “grave” e não exclui acompanhar proposta do Bloco de Esquerda para comissão de inquérito. Votação só em Setembro.",
       "source": "Público",
-      "date": "Sun, 05 Jul 2026 13:11:18 GMT",
-      "url": "https://www.publico.pt/2026/07/05/culturaipsilon/noticia/christopher-nolan-nao-quer-educar-odisseia-sim-entreter-pessoas-2180594",
+      "date": "Sun, 05 Jul 2026 19:19:36 GMT",
+      "url": "https://www.publico.pt/2026/07/05/politica/noticia/ps-nao-descarta-viabilizar-inquerito-caso-exames-nacionais-2180641",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "318c2b31",
+      "id": "f27fc3f7",
       "cat": "tecnologia",
-      "title": "“Rap e trap já são mais ouvidos que o pop no Brasil”, diz Filipe Ret em Lisboa",
-      "summary": "O rapper carioca foi uma das estrelas do Palco Music Valley na maior edição do Rock in Rio em Portugal e relembrou a trajetória que começou vendendo seus CDs nas ruas do Rio de Janeiro.",
+      "title": "Roberto Martínez: “Seria uma final fantástica”",
+      "summary": "Numa conferência de imprensa com muitas generalidades e poucas ideias concretizadas, o seleccionador nacional falou das semelhanças de estilo entre Portugal e Espanha.",
       "source": "Público",
-      "date": "Sun, 05 Jul 2026 12:52:22 GMT",
-      "url": "https://www.publico.pt/2026/07/05/publico-brasil/noticia/rap-trap-ja-sao-ouvidos-pop-brasil-filipe-ret-lisboa-2180592",
+      "date": "Sun, 05 Jul 2026 19:08:43 GMT",
+      "url": "https://www.publico.pt/2026/07/05/desporto/noticia/roberto-martinez-final-fantastica-2180640",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "e101e650",
+      "id": "2a9966f0",
       "cat": "tecnologia",
-      "title": "Portugal perde com EUA na estreia na Nations Cup",
-      "summary": "A seleção portuguesa de râguebi estreou-se com uma derrota na primeira edição da Nations Cup, no sábado, diante dos Estados Unidos, por 30-29, num encontro disputado em Denver.",
-      "source": "Observador",
-      "date": "Sun, 05 Jul 2026 14:29:50 +0100",
-      "url": "https://observador.pt/2026/07/05/portugal-perde-com-estados-unidos-na-estreia-na-nations-cup-de-raguebi/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1125:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/11/14175114/40491486.jpg",
+      "title": "Governo de Netanyahu desafia Supremo Tribunal israelita pela primeira vez",
+      "summary": "O Governo sustenta que a sentença judicial contradiz o texto da legislação em vigor e defende que todas as autoridades do Estado, incluindo o poder judicial, devem ajustar-se estritamente à lei aprovada pelo Knesset.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 05 Jul 2026 20:29:04 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/governo-de-netanyahu-desafia-supremo-tribunal-israelita-pela-primeira-vez",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-05-20-26-58-526116.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
