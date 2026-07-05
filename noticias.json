@@ -1,5 +1,5 @@
 {
-  "last_update": "05/07/2026 09:17 UTC",
+  "last_update": "05/07/2026 13:57 UTC",
   "total": 30,
   "news": [
     {
@@ -25,14 +25,14 @@
       "score": 0.79
     },
     {
-      "id": "1523dfb6",
+      "id": "ec9f75da",
       "cat": "tecnologia",
-      "title": "Tour. Vingegaard dá vitória no `crono` por equipas à Visma-Lease a Bike e veste a amarela",
-      "summary": "O ciclista dinamarquês Jonas Vingegaard é o primeiro líder da 113.ª Volta a França, após ter sido o mais rápido nos 19,6 quilómetros de contrarrelógio por equipas nas ruas de Barcelona (Espanha), em representação da Visma-Lease a Bike.",
-      "source": "RTP",
-      "date": "Sat, 04 Jul 2026 20:59:17 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/tour-vingegaard-da-vitoria-no-crono-por-equipas-a-visma-lease-a-bike-e-veste-a-amarela_d1751438",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/63/63f4e96a81e5e3b3b5e9d0534fa2d587?w=350&amp;q=50&amp;rect=0,0,962,527&amp;auto=format",
+      "title": "Lusíadas Saúde sobe receitas para 474 milhões em 2025 e investe 165 milhões até 2030",
+      "summary": "O Grupo Lusíadas Saúde obteve vendas de 474 milhões de euros em 2025, mais 14% num ano de expansão, estimando que 2026 seja de recuperação das margens financeiras e prevendo investimentos de 165,17 milhões de euros até 2030. O ano passado foi &#8220;muito peculiar&#8221; para o Grupo detido pelos fr",
+      "source": "ECO",
+      "date": "Sun, 05 Jul 2026 09:57:15 +0000",
+      "url": "https://eco.sapo.pt/2026/07/05/lusiadas-saude-sobe-receitas-para-474-milhoes-em-2025-e-investe-165-milhoes-ate-2030/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47311615-scaled-3.jpg",
       "score": 0.76
     },
     {
@@ -146,14 +146,47 @@
       "score": 0.76
     },
     {
-      "id": "0cc94025",
+      "id": "8ad12172",
       "cat": "tecnologia",
-      "title": "María Corina Machado agradece apoio dos EUA",
-      "summary": "\"A Venezuela e os Estados Unidos partilham o mesmo ADN republicano. Somos aliados históricos e naturais, unidos pelas raízes profundas dos nossos valores democráticos\", disse.",
+      "title": "Governo transfere mais 200 milhões de euros para o SNS pagar dívidas a fornecedores",
+      "summary": "Só neste primeiro semestre, valor das injecções já ultrapassa o de todo o ano passado. Despesas com pessoal e com medicamentos são os principais factores de pressão sobre a despesa pública em saúde.",
+      "source": "Público",
+      "date": "Sun, 05 Jul 2026 11:55:42 GMT",
+      "url": "https://www.publico.pt/2026/07/05/sociedade/noticia/governo-transfere-200-milhoes-euros-sns-pagar-dividas-fornecedores-2180593",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "770930b6",
+      "cat": "tecnologia",
+      "title": "O caso da jovem que não queria ser salva",
+      "summary": "Depois de uma tentativa de suicídio e um transplante de fígado, uma paciente da psicóloga Inês Mega continuava a recusar ajuda. Uma lição sobre frustração, humildade, esperança e limites terapêuticos.",
       "source": "Observador",
-      "date": "Sun, 05 Jul 2026 09:35:41 +0100",
-      "url": "https://observador.pt/2026/07/05/lider-da-oposicao-venezuelana-maria-corina-machado-agradece-apoio-dos-eua/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05014422/47222042.jpg",
+      "date": "Sun, 05 Jul 2026 14:40:12 +0100",
+      "url": "https://observador.pt/programas/dooutrolado/do-outro-lado-o-caso-da-jovem-que-fugia-de-quem-a-tentava-ajudar/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/01193002/capa-horizontal-semtitulo.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "73544fc4",
+      "cat": "tecnologia",
+      "title": "16 tascas em Lisboa para comer um bitoque até 10 euros",
+      "summary": "Um dos pratos mais comuns nas ementas pelo país resiste às modas da restauração e ainda pode ser encontrado a preços económicos mesmo nos bairros mais turísticos da capital portuguesa.",
+      "source": "Observador",
+      "date": "Sun, 05 Jul 2026 12:14:34 +0100",
+      "url": "https://observador.pt/2026/07/05/bife-batatas-ovo-e-arroz-ate-10-euros-16-tascas-em-lisboa-para-comer-um-bitoque/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3922:2199:nowe:174:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/26192620/dventura-bitoques-3-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c060bd96",
+      "cat": "tecnologia",
+      "title": "Uma nova (e talvez ingénua) teoria para a queda das civilizações",
+      "summary": "Em “A maldição de Golias”, Luke Kemp procura explicar porque colapsaram as sociedades e os impérios do passado, relacionando-o com concentração de poder e desigualdade, sugerindo que a sua queda pode ser benéfica. Ideias bonitas que podem suscitar reservas.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 05 Jul 2026 13:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/livros/detalhe/uma-nova-e-talvez-ingenua-teoria-para-a-queda-das-civilizacoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-10-38-00-526057.jpg",
       "score": 0.73
     },
     {
@@ -168,28 +201,6 @@
       "score": 0.73
     },
     {
-      "id": "55351e97",
-      "cat": "tecnologia",
-      "title": "\"Craques\" do Mundial transformam golos em elevados prejuízos para casas de apostas",
-      "summary": "O bom desempenho de alguns dos melhores jogadores de futebol do mundo e as vitórias das equipas mais populares durante o Mundial já terão custado à DraftKings, uma das maiores casas de apostas online do mundo, até 50 milhões de dólares.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 04 Jul 2026 19:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/craques-do-mundial-transformam-golos-em-elevados-prejuizos-para-casas-de-apostas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-11-34-29-526069.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a6210e63",
-      "cat": "ciencia",
-      "title": "Cópia rara da Declaração de Independência dos EUA descoberta no Reino Unido",
-      "summary": "De valor incalculável, a cópia do documento fundador dos Estados Unidos da América - que assinalam os 250 anos da independência este sábado - foi apreendida pela Marinha Real a um navio norte-americano, no século XVIII, depois de uma perseguição ao largo da costa de Portugal.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 04 Jul 2026 16:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/copia-rara-da-declaracao-de-independencia-dos-eua-descoberta-no-reino-unido",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-20-43-55-526106.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -201,25 +212,47 @@
       "score": 0.73
     },
     {
-      "id": "ce01381e",
-      "cat": "tecnologia",
-      "title": "Tour. Clément Berthet é o primeiro desistente após queda aparatosa no `crono`",
-      "summary": "O ciclista francês Clément Berthet (Groupama-FDJ) é o primeiro desistente da 113.ª Volta a França, por ter sofrido uma comoção cerebral na sequência de uma queda no contrarrelógio por equipas da primeira etapa.",
+      "id": "89c9b3f0",
+      "cat": "desporto",
+      "title": "Andreas Samaris regressa ao Benfica para treinar equipa de sub-16",
+      "summary": "O antigo futebolista internacional grego Andreas Samaris, quatro vezes campeão nacional pelo Benfica, vai treinar a equipa de juvenis B dos ‘encarnados’, do escalão de sub-16, anunciou hoje o clube lisboeta.",
       "source": "RTP",
-      "date": "Sun, 05 Jul 2026 00:00:35 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/tour-clement-berthet-e-o-primeiro-desistente-apos-queda-aparatosa-no-crono_d1751466",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/69/691114481da49e99a9b58f34d2a3b82d?w=350&amp;q=50&amp;rect=0,682,5293,2902&amp;auto=format",
+      "date": "Sun, 05 Jul 2026 15:54:01 +0100",
+      "url": "https://www.rtp.pt/noticias/benfica/andreas-samaris-regressa-ao-benfica-para-treinar-equipa-de-sub-16_d1751545",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3c82e6c4b5b81c581b97cc8d0a2bc901?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "464e0808",
+      "id": "71d3eb27",
+      "cat": "desporto",
+      "title": "Volta a França em Bicicleta. Jonas vingegaard é o primeiro líder",
+      "summary": "Começou sábado, em Barcelona, a Volta a França em Bicicleta. Jonas vingegaard foi o primeiro líder da prova.",
+      "source": "RTP",
+      "date": "Sun, 05 Jul 2026 15:23:42 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/volta-a-franca-em-bicicleta-jonas-vingegaard-e-o-primeiro-lider_v1751529",
+      "img": "https://cdn-images.rtp.pt/icm/images/33/3381b6f99d2f01b0a6fa87b60d256915_N.jpg?",
+      "score": 0.73
+    },
+    {
+      "id": "71dee80a",
+      "cat": "desporto",
+      "title": "Brasil defronta Noruega, México testa Inglaterra",
+      "summary": "O embate entre o pentacampeão Brasil e a Noruega e o confronto entre o coanfitrião México e a Inglaterra, campeã em 1966, preenchem hoje o ‘menu’ do segundo dia dos ‘oitavos’ do Mundial de futebol de 2026.",
+      "source": "RTP",
+      "date": "Sun, 05 Jul 2026 15:20:01 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/brasil-defronta-noruega-mexico-testa-inglaterra_d1751534",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/48/48e6373ac2323e9d8838dec1ce46b0e5?w=350&amp;q=50&amp;rect=0,238,5392,2956&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "67cba51d",
       "cat": "tecnologia",
-      "title": "Porsche lidera vendas de carros de luxo em junho",
-      "summary": "A Porsche foi a marca de luxo mais vendida em junho, com 85 automóveis matriculados, de acordo com os dados de junho da ACAP &#8211; Associação Automóvel de Portugal, com origem na Autoridade Tributária. Ainda assim, a marca de origem alemã registou uma quebra de 34,6% face a maio. No segmento de ul",
+      "title": "Lusíadas Saúde admite nova PPP mas parceria para ULS só com modelo melhorado",
+      "summary": "A Lusíadas Saúde tem interesse em participar novamente numa Parceria Público-Privada (PPP) num hospital, após a experiência em Cascais, mas o presidente do grupo considera que o modelo das ULS em articulação com os privados precisa de mais enquadramento. Vasco Antunes Pereira salientou, em entrevist",
       "source": "ECO",
-      "date": "Sat, 04 Jul 2026 16:15:36 +0000",
-      "url": "https://eco.sapo.pt/2026/07/04/porsche-lidera-vendas-de-carros-de-luxo-em-junho/",
-      "img": "https://eco.imgix.net/uploads/2016/11/cropped-cropped-porsche-zoom-1.jpg",
+      "date": "Sun, 05 Jul 2026 09:32:01 +0000",
+      "url": "https://eco.sapo.pt/2026/07/05/lusiadas-saude-admite-nova-ppp-mas-parceria-para-uls-so-com-modelo-melhorado/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47311609-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -267,69 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "859f9cf0",
-      "cat": "tecnologia",
-      "title": "Ípsilon Livros & Ideias: uma revista de leitura lenta",
-      "summary": "A 6 de Julho, chega às bancas uma edição especial do suplemento de cultura do PÚBLICO. Uma revista de 100 páginas dedicada aos livros e às ideias que eles encerram.",
+      "id": "ed51a455",
+      "cat": "cultura",
+      "title": "Christopher Nolan não quer “educar” com A Odisseia , mas sim entreter as pessoas",
+      "summary": "Numa entrevista à Reuters, o cineasta equipara adaptar Homero e Odisseu aos comics e a Batman. Novo filme estreia-se nos cinemas a 16 de Julho.",
       "source": "Público",
-      "date": "Sun, 05 Jul 2026 08:00:00 GMT",
-      "url": "https://www.publico.pt/2026/07/05/edicoes-publico/noticia/ipsilon-livros-ideias-revista-leitura-lenta-2180501",
+      "date": "Sun, 05 Jul 2026 13:11:18 GMT",
+      "url": "https://www.publico.pt/2026/07/05/culturaipsilon/noticia/christopher-nolan-nao-quer-educar-odisseia-sim-entreter-pessoas-2180594",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "11af0784",
+      "id": "318c2b31",
       "cat": "tecnologia",
-      "title": "Trump exalta “a grandeza” dos EUA no 250.º aniversário da Independência",
-      "summary": "Os discursos do Presidente dos EUA focaram-se na grandeza do país, nomeadamente bélica, nas ameaças do comunismo e na reforma eleitoral.",
+      "title": "“Rap e trap já são mais ouvidos que o pop no Brasil”, diz Filipe Ret em Lisboa",
+      "summary": "O rapper carioca foi uma das estrelas do Palco Music Valley na maior edição do Rock in Rio em Portugal e relembrou a trajetória que começou vendendo seus CDs nas ruas do Rio de Janeiro.",
       "source": "Público",
-      "date": "Sun, 05 Jul 2026 07:42:41 GMT",
-      "url": "https://www.publico.pt/2026/07/05/mundo/noticia/trump-exalta-grandeza-eua-250-aniversario-independencia-2180583",
+      "date": "Sun, 05 Jul 2026 12:52:22 GMT",
+      "url": "https://www.publico.pt/2026/07/05/publico-brasil/noticia/rap-trap-ja-sao-ouvidos-pop-brasil-filipe-ret-lisboa-2180592",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "ed3c680e",
+      "id": "e101e650",
       "cat": "tecnologia",
-      "title": "Na madrugada, mais de 1300 operacionais combatiam os dois principais fogos rurais",
-      "summary": "Vouzela continua a ser foco de preocupação e Santo Tirso reunia mais de 100 operacionais. Sete distritos continuam sob aviso vermelho de calor.",
-      "source": "Público",
-      "date": "Sun, 05 Jul 2026 07:19:06 GMT",
-      "url": "https://www.publico.pt/2026/07/05/sociedade/noticia/madrugada-1300-operacionais-combatiam-dois-principais-fogos-rurais-2180581",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "ba59bc47",
-      "cat": "tecnologia",
-      "title": "A “invasão do soccer\" no aniversário da América",
-      "summary": "Os EUA celebraram mais um 4 de Julho, mas desta vez a festa foi partilhada com os adeptos do Mundial. Em Dallas, as celebrações dos 250 anos mostraram uma simbiose com o futebol fora do comum.",
+      "title": "Portugal perde com EUA na estreia na Nations Cup",
+      "summary": "A seleção portuguesa de râguebi estreou-se com uma derrota na primeira edição da Nations Cup, no sábado, diante dos Estados Unidos, por 30-29, num encontro disputado em Denver.",
       "source": "Observador",
-      "date": "Sun, 05 Jul 2026 10:01:35 +0100",
-      "url": "https://observador.pt/especiais/nunca-vi-tanto-futebol-no-nosso-feriado-a-invasao-do-soccer-no-aniversario-da-america/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2252:nowe:0:444/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05080428/20260704-1459300-rotated.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "62867359",
-      "cat": "tecnologia",
-      "title": "Venezuela anuncia medidas económicas após sismos",
-      "summary": "Foram apresentados apoios para as famílias afetadas pelos sismos de há dez dias, num momento em que se registam episódios de tensão social em La Guaira, onde se pede assistência aos resgates.",
-      "source": "Observador",
-      "date": "Sun, 05 Jul 2026 09:39:47 +0100",
-      "url": "https://observador.pt/2026/07/05/venezuela-anuncia-medidas-economicas-apos-sismos-e-em-cenario-de-descontentamento/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05032856/47397164.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "date": "Sun, 05 Jul 2026 14:29:50 +0100",
+      "url": "https://observador.pt/2026/07/05/portugal-perde-com-estados-unidos-na-estreia-na-nations-cup-de-raguebi/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1125:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/11/14175114/40491486.jpg",
       "score": 0.7
     }
   ]
