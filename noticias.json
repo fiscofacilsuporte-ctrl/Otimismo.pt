@@ -1,5 +1,5 @@
 {
-  "last_update": "04/07/2026 19:25 UTC",
+  "last_update": "05/07/2026 04:09 UTC",
   "total": 30,
   "news": [
     {
@@ -58,36 +58,25 @@
       "score": 0.76
     },
     {
-      "id": "1b60bb8a",
-      "cat": "tecnologia",
-      "title": "Kimi Antonelli vence corrida sprint e conquista ‘pole’ para o GP da Grã-Bretanha",
-      "summary": "O italiano Kimi Antonelli (Mercedes) venceu hoje a corrida sprint do Grande Prémio da Grã-Bretanha de Fórmula 1, em Silverstone, e reforçou a liderança do Mundial, antes de conquistar também a &#039;pole position&#039; para a corrida de domingo.",
-      "source": "RTP",
-      "date": "Sat, 04 Jul 2026 20:47:17 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-vence-corrida-sprint-e-conquista-pole-para-o-gp-da-gra-bretanha_d1751433",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b8586cf8a9cdcb818aede7cce50317de?w=350&amp;q=50&amp;rect=0,489,4128,2263&amp;auto=format",
+      "id": "cc7a35be",
+      "cat": "sociedade",
+      "title": "Montenegro agradece “rápida mobilização” europeia",
+      "summary": "O primeiro-ministro, Luís Montenegro, agradeceu à presidente da Comissão Europeia a &#8220;rápida mobilização&#8221; no âmbito da ajuda a Portugal para combater os incêndios, salientando que &#8220;a solidariedade europeia faz a diferença&#8221;. Numa publicação na sua conta oficial na rede social &",
+      "source": "ECO",
+      "date": "Sat, 04 Jul 2026 20:45:03 +0000",
+      "url": "https://eco.sapo.pt/2026/07/04/montenegro-agradece-rapida-mobilizacao-europeia/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47407076-scaled-1.jpg",
       "score": 0.76
     },
     {
       "id": "46c31345",
       "cat": "ciencia",
       "title": "Basta adicionar água ao combustível diesel para reduzir a poluição do motor em 67% – sem perda de eficiência",
-      "summary": "Você pode reduzir as emissões do seu motor diesel em 60% com ESTA solução surpreendentemente simples – basta adicionar água. Com toda a seriedade, de acordo com uma análise de estudos de todo o mundo publicada por uma equipa de investigação da Nigéria, misturar pequenas quantidades de água no combustível diesel poderia reduzir drasticamente",
+      "summary": "Você pode reduzir as emissões do seu motor diesel em 60% com ESTA solução surpreendentemente simples – basta adicionar água. Com toda a seriedade, de acordo com uma revisão de estudos de todo o mundo publicada por uma equipa de investigação da Nigéria, misturar pequenas quantidades de água no gasóleo poderia reduzir drasticamente",
       "source": "Good News Network",
       "date": "Fri, 03 Jul 2026 13:00:53 +0000",
       "url": "https://www.goodnewsnetwork.org/simply-add-water-to-diesel-fuel-to-cut-engine-pollution-by-67-with-no-loss-in-efficiency/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/diesel-gas-pump-credit-Rob-Wingate.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "5e98685c",
-      "cat": "tecnologia",
-      "title": "Nova tecnologia solar torna a dessalinização da água do mar mais barata do que a produção de água engarrafada",
-      "summary": "Uma equipe de cientistas de materiais na China desenvolveu um dispositivo movido a energia solar que pode produzir água doce a partir da água do mar com melhor economia do que a água engarrafada. Ao criar uma trama de nanomateriais e polímeros orgânicos que eram duráveis ​​e altamente reflexivos, eles criaram um dispositivo que poderia",
-      "source": "Good News Network",
-      "date": "Thu, 02 Jul 2026 18:30:27 +0000",
-      "url": "https://www.goodnewsnetwork.org/solar-tech-makes-desalinating-seawater-cheaper-than-producing-bottled-water/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-desalination-plant-near-Ankara-Turkiye-credit-Unsplash.jpg",
       "score": 0.76
     },
     {
@@ -157,47 +146,25 @@
       "score": 0.76
     },
     {
-      "id": "fecaa054",
+      "id": "c796073c",
       "cat": "tecnologia",
-      "title": "Os catorze pontos de Versalhes",
-      "summary": "A mudança não foi no regime iraniano, nem no seu programa nuclear, mas na assinatura de Donald Trump. Mas, como os acordos podem ser rasgados, poderá ser mais um logro para ganhar tempo. Análise de José Pedro Teixeira Fernandes",
+      "title": "A vitória de Cabo Verde",
+      "summary": "Os treinadores estão a pedir aos jogadores que adoptem, por amor de Deus, a atitude da selecção de Cabo Verde. Mas não é só a atitude. Opinião de Miguel Esteves Cardoso",
       "source": "Público",
-      "date": "Sat, 04 Jul 2026 17:47:50 GMT",
-      "url": "https://www.publico.pt/2026/07/04/mundo/analise/catorze-pontos-versalhes-2180554",
+      "date": "Sat, 04 Jul 2026 23:06:00 GMT",
+      "url": "https://www.publico.pt/2026/07/05/opiniao/opiniao/vitoria-cabo-verde-2180538",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "8fa50174",
-      "cat": "cultura",
-      "title": "Festival da Póvoa viaja da música da corte isabelina até à criação dos nossos dias",
-      "summary": "Entre o Hespèrion XXI de Jordi Savall, uma estreia com a Orquestra de Câmara Portuguesa e a atenção maior aos músicos portugueses, a Póvoa de Varzim está em festa até 25 de Julho.",
-      "source": "Público",
-      "date": "Sat, 04 Jul 2026 17:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/04/culturaipsilon/noticia/festival-povoa-viaja-musica-corte-isabelina-ate-criacao-dias-2180116",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "76087838",
-      "cat": "geral",
-      "title": "Kimi Antonelli vence corrida sprint e conquista pole position para o GP da Grã-Bretanha",
-      "summary": "",
-      "source": "Público",
-      "date": "Sat, 04 Jul 2026 16:56:50 GMT",
-      "url": "https://www.publico.pt/2026/07/04/desporto/noticia/kimi-antonelli-vence-corrida-sprint-conquista-pole-position-gp-grabretanha-2180561",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "671b70c3",
+      "id": "5a06b06c",
       "cat": "tecnologia",
-      "title": "Zverev nos oitavos de final de Wimbledon",
-      "summary": "O alemão, recente campeão de Roland Garros e 3.º do ranking ATP, afastou o norte-americano Marcos Giron (92.º) pelos parciais de 6-2, 7-6 e 6-4.",
+      "title": "O Dinheiro do Estado É Nosso",
+      "summary": "Quando um governo anuncia que \"vai investir mil milhões em habitação\"omite a parte essencial da frase. Vai fazê-lo com dinheiro que primeiro “retirou” de quem trabalha.",
       "source": "Observador",
-      "date": "Sat, 04 Jul 2026 19:56:17 +0100",
-      "url": "https://observador.pt/2026/07/04/alexander-zverev-avanca-para-os-oitavos-de-final-de-wimbledon/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:109/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/04182640/47393922.jpg",
+      "date": "Sun, 05 Jul 2026 00:12:00 +0100",
+      "url": "https://observador.pt/opiniao/o-dinheiro-do-estado-e-nosso/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A753%3A753%3Anowe%3A173%3A159%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F03%2F23193659%2Ffoto2-1.jpg",
       "score": 0.73
     },
     {
@@ -245,14 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "79a07f2b",
-      "cat": "cultura",
-      "title": "Treino de Portugal arranca com oito jogadores no ginásio, incluindo Ronaldo",
-      "summary": "A seleção portuguesa continuou hoje a preparar o duelo com a Espanha, dos oitavos de final do Mundial2026 de futebol, com um treino em que oito jogadores, incluindo Cristiano Ronaldo, fizeram apenas recuperação na parte inicial da sessão.",
+      "id": "ce01381e",
+      "cat": "tecnologia",
+      "title": "Tour. Clément Berthet é o primeiro desistente após queda aparatosa no `crono`",
+      "summary": "O ciclista francês Clément Berthet (Groupama-FDJ) é o primeiro desistente da 113.ª Volta a França, por ter sofrido uma comoção cerebral na sequência de uma queda no contrarrelógio por equipas da primeira etapa.",
       "source": "RTP",
-      "date": "Sat, 04 Jul 2026 18:40:38 +0100",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/treino-de-portugal-arranca-com-oito-jogadores-no-ginasio-incluindo-ronaldo_d1751409",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6c/6c95b11ecf408393ce176009451ea448?w=350&amp;q=50&amp;rect=0,510,4305,2360&amp;auto=format",
+      "date": "Sun, 05 Jul 2026 00:00:35 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/tour-clement-berthet-e-o-primeiro-desistente-apos-queda-aparatosa-no-crono_d1751466",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/69/691114481da49e99a9b58f34d2a3b82d?w=350&amp;q=50&amp;rect=0,682,5293,2902&amp;auto=format",
       "score": 0.73
     },
     {
@@ -267,14 +234,14 @@
       "score": 0.73
     },
     {
-      "id": "a8f70ea9",
+      "id": "62bfcbc5",
       "cat": "tecnologia",
-      "title": "José Luís Carneiro exige que Montenegro peça desculpa por situação dos exames",
-      "summary": "O secretário-geral do Partido Socialista (PS), José Luís Carneiro, exigiu este sábado um pedido de desculpas ao primeiro-ministro, Luís Montenegro, pela &#8220;situação absolutamente grave&#8221; relacionada com as falhas na segunda fase dos exames nacionais. &#8220;Quero referir-me à situação absol",
-      "source": "ECO",
-      "date": "Sat, 04 Jul 2026 13:40:47 +0000",
-      "url": "https://eco.sapo.pt/2026/07/04/jose-luis-carneiro-exige-que-montenegro-peca-desculpa-por-situacao-dos-exames/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47404857-scaled-1.jpg",
+      "title": "Giant Gorilla Maze comemora o 100º aniversário de Sir David Attenborough",
+      "summary": "Um dos maiores labirintos da Grã-Bretanha está comemorando o 100º aniversário de Sir David Attenborough criando um design espetacular na forma de um gorila da montanha. Wistow Maze, em Leicestershire, Inglaterra, criou o projeto para prestar homenagem à lendária emissora que vem de seu país local.",
+      "source": "Good News Network",
+      "date": "Sat, 04 Jul 2026 21:00:09 +0000",
+      "url": "https://www.goodnewsnetwork.org/giant-gorilla-maze-celebrates-sir-david-attenboroughs-100th-birthday/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Wistow-Maze-in-Leicestershire-England-features-mountain-gorilla-to-celebrate-Sir-David-Attenborough-100th-birthday.jpeg",
       "score": 0.73
     },
     {
@@ -311,25 +278,58 @@
       "score": 0.73
     },
     {
-      "id": "940443fe",
+      "id": "dec079d0",
       "cat": "tecnologia",
-      "title": "Corpo de jovem recuperado no Guadiana",
-      "summary": "O adolescente entrou em dificuldades na água nas Azenhas do Guadiana. Buscas mobilizaram 24 operacionais e três embarcações. Corpo foi para Évora.",
-      "source": "Observador",
-      "date": "Sat, 04 Jul 2026 20:02:10 +0100",
-      "url": "https://observador.pt/2026/07/04/encontrado-corpo-do-jovem-de-16-anos-desaparecido-no-rio-guadiana-em-mertola/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/16154533/dventura-inem-2-scaled.jpg",
+      "title": "Bolsas de nicotina: regular para reduzir riscos, não para proibir",
+      "summary": "As bolsas de nicotina merecem um debate sério e despido de alarmismo. É preocupante que a proposta legislativa em discussão em Portugal aponte, na prática, para uma proibição encapotada do produto. Opinião de Bruno Maia",
+      "source": "Público",
+      "date": "Sat, 04 Jul 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/07/05/opiniao/opiniao/bolsas-nicotina-regular-reduzir-riscos-nao-proibir-2180266",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "1fae7058",
+      "id": "156217bd",
       "cat": "tecnologia",
-      "title": "Ordem dos Médicos alerta para risco em hospitais do Norte",
-      "summary": "Nova portaria do Governo sobre produção adicional no SNS preocupa médicos do Norte: Neurorradiologia, Radiologia e Cardiologia de Intervenção estão em causa. Prazo: fim de julho.",
+      "title": "Para quê? Para atrapalhar (e muito) a França",
+      "summary": "O Paraguai ainda conseguiu enervar os franceses, mas foi incapaz de travar a marcha vitoriosa da selecção gaulesa neste Mundial.",
+      "source": "Público",
+      "date": "Sat, 04 Jul 2026 23:21:50 GMT",
+      "url": "https://www.publico.pt/2026/07/05/desporto/cronica_de_jogo/atrapalhar-franca-2180578",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "769fcb5f",
+      "cat": "tecnologia",
+      "title": "As notícias das 2h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sat, 04 Jul 2026 19:54:03 +0100",
-      "url": "https://observador.pt/2026/07/04/ordem-dos-medicos-alerta-que-novo-modelo-de-remuneracao-do-sns-pode-desestabilizar-quatro-hospitais-do-norte/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:809:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/02/16193303/ordem-dos-medicos.jpg",
+      "date": "Sun, 05 Jul 2026 02:13:28 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2341/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "189da214",
+      "cat": "tecnologia",
+      "title": "1h. Seleção Nacional chega a Dallas para defrontar Espanha",
+      "summary": "Equipa das quinas recebida por centenas de adeptos. O jogo frente à Espanha é já na próxima segunda-feira. Ainda neste jornal, incêndio em Vouzela tem duas frentes ativas.",
+      "source": "Observador",
+      "date": "Sun, 05 Jul 2026 01:17:06 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2314/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
