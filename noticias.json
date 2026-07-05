@@ -1,5 +1,5 @@
 {
-  "last_update": "05/07/2026 04:09 UTC",
+  "last_update": "05/07/2026 09:17 UTC",
   "total": 30,
   "news": [
     {
@@ -22,28 +22,6 @@
       "date": "Thu, 02 Jul 2026 23:56:36 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/06/260626125703.htm",
       "img": "https://www.sciencedaily.com/images/1920/binary-black-hole-merger-illustration.webp",
-      "score": 0.79
-    },
-    {
-      "id": "2a31cf7e",
-      "cat": "ciencia",
-      "title": "Esses minúsculos micróbios do solo poderiam resgatar colheitas de terras agrícolas salgadas",
-      "summary": "Os pesquisadores descobriram que as bactérias benéficas do solo dão às plantas uma vantagem inesperada de sobrevivência em solos salgados. Em vez de ajudar as plantas a impedir a entrada de sal, os micróbios estimulam a produção de lignina, um composto natural que fortalece as raízes e torna as plantas mais resistentes. Estufa e f",
-      "source": "ScienceDaily",
-      "date": "Sun, 28 Jun 2026 21:21:44 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
-      "img": "https://www.sciencedaily.com/images/1920/rice-paddy-neat-rows.webp",
-      "score": 0.79
-    },
-    {
-      "id": "7702e074",
-      "cat": "ciencia",
-      "title": "Cientistas descobrem uma ligação surpreendente entre a vitamina C e a saúde do cérebro",
-      "summary": "Poderia algo tão simples como a vitamina C ajudar a promover um envelhecimento mais saudável do cérebro? Num estudo com mais de 2.000 adultos mais velhos no Japão, os investigadores descobriram que as pessoas com níveis mais baixos de vitamina C no sangue também tendiam a ter menos massa cinzenta e ligações mais fracas numa rede cerebral chave envolvida no meu funcionamento.",
-      "source": "ScienceDaily",
-      "date": "Wed, 01 Jul 2026 01:22:38 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
-      "img": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
       "score": 0.79
     },
     {
@@ -72,7 +50,7 @@
       "id": "46c31345",
       "cat": "ciencia",
       "title": "Basta adicionar água ao combustível diesel para reduzir a poluição do motor em 67% – sem perda de eficiência",
-      "summary": "Você pode reduzir as emissões do seu motor diesel em 60% com ESTA solução surpreendentemente simples – basta adicionar água. Com toda a seriedade, de acordo com uma revisão de estudos de todo o mundo publicada por uma equipa de investigação da Nigéria, misturar pequenas quantidades de água no gasóleo poderia reduzir drasticamente",
+      "summary": "Você pode reduzir as emissões do seu motor diesel em 60% com ESTA solução surpreendentemente simples – basta adicionar água. Com toda a seriedade, de acordo com uma análise de estudos de todo o mundo publicada por uma equipa de investigação da Nigéria, misturar pequenas quantidades de água no combustível diesel poderia reduzir drasticamente",
       "source": "Good News Network",
       "date": "Fri, 03 Jul 2026 13:00:53 +0000",
       "url": "https://www.goodnewsnetwork.org/simply-add-water-to-diesel-fuel-to-cut-engine-pollution-by-67-with-no-loss-in-efficiency/",
@@ -135,6 +113,28 @@
       "score": 0.76
     },
     {
+      "id": "2b0fe167",
+      "cat": "ciencia",
+      "title": "Hubble da NASA detecta um diamante estelar para o 4 de Julho",
+      "summary": "O Telescópio Espacial Hubble da NASA capturou uma vista espetacular em vermelho, branco e azul de um dos aglomerados estelares mais antigos da Via Láctea para comemorar o 250º aniversário do país. Escondidas dentro do antigo aglomerado estão pistas de como a explosão de estrelas ajudou a transformar o jovem universo em um universo capaz de",
+      "source": "ScienceDaily",
+      "date": "Sun, 05 Jul 2026 00:10:58 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
+      "img": "https://www.sciencedaily.com/images/1920/hubble-ngc-6426-july-4.webp",
+      "score": 0.76
+    },
+    {
+      "id": "eb1c1105",
+      "cat": "ciencia",
+      "title": "Cientistas descobrem uma maneira completamente diferente de combater vírus",
+      "summary": "Os pesquisadores descobriram um sistema de defesa antiviral inesperado nas anêmonas do mar que funciona de maneira muito diferente daquele usado pelos humanos. A descoberta sugere que a evolução desenvolveu múltiplas formas de combater os vírus, desafiando ideias de longa data sobre como o sistema imunitário dos animais evoluiu.",
+      "source": "ScienceDaily",
+      "date": "Tue, 30 Jun 2026 16:18:00 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
+      "img": "https://www.sciencedaily.com/images/1920/nematostella-vectensis-sea-anemone.webp",
+      "score": 0.76
+    },
+    {
       "id": "25a1c000",
       "cat": "sociedade",
       "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
@@ -146,25 +146,25 @@
       "score": 0.76
     },
     {
-      "id": "c796073c",
+      "id": "0cc94025",
       "cat": "tecnologia",
-      "title": "A vitória de Cabo Verde",
-      "summary": "Os treinadores estão a pedir aos jogadores que adoptem, por amor de Deus, a atitude da selecção de Cabo Verde. Mas não é só a atitude. Opinião de Miguel Esteves Cardoso",
-      "source": "Público",
-      "date": "Sat, 04 Jul 2026 23:06:00 GMT",
-      "url": "https://www.publico.pt/2026/07/05/opiniao/opiniao/vitoria-cabo-verde-2180538",
-      "img": null,
+      "title": "María Corina Machado agradece apoio dos EUA",
+      "summary": "\"A Venezuela e os Estados Unidos partilham o mesmo ADN republicano. Somos aliados históricos e naturais, unidos pelas raízes profundas dos nossos valores democráticos\", disse.",
+      "source": "Observador",
+      "date": "Sun, 05 Jul 2026 09:35:41 +0100",
+      "url": "https://observador.pt/2026/07/05/lider-da-oposicao-venezuelana-maria-corina-machado-agradece-apoio-dos-eua/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05014422/47222042.jpg",
       "score": 0.73
     },
     {
-      "id": "5a06b06c",
+      "id": "9245372e",
       "cat": "tecnologia",
-      "title": "O Dinheiro do Estado É Nosso",
-      "summary": "Quando um governo anuncia que \"vai investir mil milhões em habitação\"omite a parte essencial da frase. Vai fazê-lo com dinheiro que primeiro “retirou” de quem trabalha.",
-      "source": "Observador",
-      "date": "Sun, 05 Jul 2026 00:12:00 +0100",
-      "url": "https://observador.pt/opiniao/o-dinheiro-do-estado-e-nosso/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A753%3A753%3Anowe%3A173%3A159%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F03%2F23193659%2Ffoto2-1.jpg",
+      "title": "Lusíadas Saúde admite nova PPP mas parceria para ULS só com modelo melhorado",
+      "summary": "Algumas ULS (unidade local de saúde) têm lançado concursos públicos em moldes ainda \"pouco precisos\".",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 05 Jul 2026 09:34:15 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/lusiadas-saude-admite-nova-ppp-mas-parceria-para-uls-so-com-modelo-melhorado",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-31-11-27-17-493118.jpg",
       "score": 0.73
     },
     {
@@ -187,17 +187,6 @@
       "date": "Sat, 04 Jul 2026 16:00:00 +0100",
       "url": "https://www.jornaldenegocios.pt/economia/detalhe/copia-rara-da-declaracao-de-independencia-dos-eua-descoberta-no-reino-unido",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-20-43-55-526106.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "c7dec7de",
-      "cat": "tecnologia",
-      "title": "Nuno Melo diz que investimento do Governo nas Forças Armadas trava saída de militares",
-      "summary": "O ministro da Defesa diz que nos últimos dois anos houve mais militares a entrar do que militares a sair, realçando os investimentos nas áreas da habitação e da saúde nas Forças Armadas.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 04 Jul 2026 15:04:55 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/nuno-melo-diz-que-investimento-do-governo-nas-forcas-armadas-trava-saida-de-militares",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-10-21-50-26-511057.jpg",
       "score": 0.73
     },
     {
@@ -278,47 +267,58 @@
       "score": 0.73
     },
     {
-      "id": "dec079d0",
+      "id": "859f9cf0",
       "cat": "tecnologia",
-      "title": "Bolsas de nicotina: regular para reduzir riscos, não para proibir",
-      "summary": "As bolsas de nicotina merecem um debate sério e despido de alarmismo. É preocupante que a proposta legislativa em discussão em Portugal aponte, na prática, para uma proibição encapotada do produto. Opinião de Bruno Maia",
+      "title": "Ípsilon Livros & Ideias: uma revista de leitura lenta",
+      "summary": "A 6 de Julho, chega às bancas uma edição especial do suplemento de cultura do PÚBLICO. Uma revista de 100 páginas dedicada aos livros e às ideias que eles encerram.",
       "source": "Público",
-      "date": "Sat, 04 Jul 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/07/05/opiniao/opiniao/bolsas-nicotina-regular-reduzir-riscos-nao-proibir-2180266",
+      "date": "Sun, 05 Jul 2026 08:00:00 GMT",
+      "url": "https://www.publico.pt/2026/07/05/edicoes-publico/noticia/ipsilon-livros-ideias-revista-leitura-lenta-2180501",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "156217bd",
+      "id": "11af0784",
       "cat": "tecnologia",
-      "title": "Para quê? Para atrapalhar (e muito) a França",
-      "summary": "O Paraguai ainda conseguiu enervar os franceses, mas foi incapaz de travar a marcha vitoriosa da selecção gaulesa neste Mundial.",
+      "title": "Trump exalta “a grandeza” dos EUA no 250.º aniversário da Independência",
+      "summary": "Os discursos do Presidente dos EUA focaram-se na grandeza do país, nomeadamente bélica, nas ameaças do comunismo e na reforma eleitoral.",
       "source": "Público",
-      "date": "Sat, 04 Jul 2026 23:21:50 GMT",
-      "url": "https://www.publico.pt/2026/07/05/desporto/cronica_de_jogo/atrapalhar-franca-2180578",
+      "date": "Sun, 05 Jul 2026 07:42:41 GMT",
+      "url": "https://www.publico.pt/2026/07/05/mundo/noticia/trump-exalta-grandeza-eua-250-aniversario-independencia-2180583",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "769fcb5f",
+      "id": "ed3c680e",
       "cat": "tecnologia",
-      "title": "As notícias das 2h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Sun, 05 Jul 2026 02:13:28 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2341/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Na madrugada, mais de 1300 operacionais combatiam os dois principais fogos rurais",
+      "summary": "Vouzela continua a ser foco de preocupação e Santo Tirso reunia mais de 100 operacionais. Sete distritos continuam sob aviso vermelho de calor.",
+      "source": "Público",
+      "date": "Sun, 05 Jul 2026 07:19:06 GMT",
+      "url": "https://www.publico.pt/2026/07/05/sociedade/noticia/madrugada-1300-operacionais-combatiam-dois-principais-fogos-rurais-2180581",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "189da214",
+      "id": "ba59bc47",
       "cat": "tecnologia",
-      "title": "1h. Seleção Nacional chega a Dallas para defrontar Espanha",
-      "summary": "Equipa das quinas recebida por centenas de adeptos. O jogo frente à Espanha é já na próxima segunda-feira. Ainda neste jornal, incêndio em Vouzela tem duas frentes ativas.",
+      "title": "A “invasão do soccer\" no aniversário da América",
+      "summary": "Os EUA celebraram mais um 4 de Julho, mas desta vez a festa foi partilhada com os adeptos do Mundial. Em Dallas, as celebrações dos 250 anos mostraram uma simbiose com o futebol fora do comum.",
       "source": "Observador",
-      "date": "Sun, 05 Jul 2026 01:17:06 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2314/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sun, 05 Jul 2026 10:01:35 +0100",
+      "url": "https://observador.pt/especiais/nunca-vi-tanto-futebol-no-nosso-feriado-a-invasao-do-soccer-no-aniversario-da-america/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2252:nowe:0:444/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05080428/20260704-1459300-rotated.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "62867359",
+      "cat": "tecnologia",
+      "title": "Venezuela anuncia medidas económicas após sismos",
+      "summary": "Foram apresentados apoios para as famílias afetadas pelos sismos de há dez dias, num momento em que se registam episódios de tensão social em La Guaira, onde se pede assistência aos resgates.",
+      "source": "Observador",
+      "date": "Sun, 05 Jul 2026 09:39:47 +0100",
+      "url": "https://observador.pt/2026/07/05/venezuela-anuncia-medidas-economicas-apos-sismos-e-em-cenario-de-descontentamento/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05032856/47397164.jpg",
       "score": 0.7
     },
     {
