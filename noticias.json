@@ -1,5 +1,5 @@
 {
-  "last_update": "06/07/2026 10:53 UTC",
+  "last_update": "06/07/2026 15:50 UTC",
   "total": 30,
   "news": [
     {
@@ -25,6 +25,17 @@
       "score": 0.79
     },
     {
+      "id": "7c1c7389",
+      "cat": "tecnologia",
+      "title": "Pessoas cegas oferecem esperança de ver novamente depois que a descoberta das células-tronco refaz os vasos sanguíneos da retina",
+      "summary": "Pessoas cegas receberam uma nova esperança de ver novamente depois que células cultivadas em laboratório restauraram a função da retina em ratos. Quando injetadas em camundongos com doença retiniana, as células sanguíneas especiais da retina integram-se ao tecido danificado para regenerar os vasos sanguíneos e restaurar a função retiniana – inclusive em um",
+      "source": "Good News Network",
+      "date": "Mon, 06 Jul 2026 13:00:19 +0000",
+      "url": "https://www.goodnewsnetwork.org/blind-people-offered-hope-of-seeing-again-after-stem-cell-breakthrough-remakes-retinal-blood-vessels/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-mouses-retina-suffering-from-conditions-similar-to-diabetic-retinopathy-both-before-right-and-after-left-being-treated-with-human-lab-grown-retinal-endothelial-cells.jpg",
+      "score": 0.79
+    },
+    {
       "id": "e7757ee3",
       "cat": "ciencia",
       "title": "Rara declaração de independência de 1776 descoberta pelos arquivos nacionais no Reino Unido – uma das 11 que sobreviveram",
@@ -34,39 +45,6 @@
       "url": "https://www.goodnewsnetwork.org/rare-1776-declaration-of-independence-discovered-by-national-archives-in-uk/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Rare-1776-printing-of-Declaration-of-Independence-discovered-at-The-UK-National-Archives-in-Kew.jpg",
       "score": 0.79
-    },
-    {
-      "id": "4ce52766",
-      "cat": "tecnologia",
-      "title": "Um fundo soberano sem fundos",
-      "summary": "Os países ricos criam fundos soberanos porque têm riqueza excedentária para investir. Portugal parece querer fazer o contrário: criar primeiro o fundo e procurar os recursos depois.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 06 Jul 2026 11:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/joao-borges-assuncao/detalhe/um-fundo-soberano-sem-fundos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-20-00-296224.png",
-      "score": 0.76
-    },
-    {
-      "id": "e547726f",
-      "cat": "economia",
-      "title": "Rendibilidade das empresas sobe para 9,5% no primeiro trimestre",
-      "summary": "A rendibilidade das empresas portuguesas atingiu 9,5% no primeiro trimestre de 2026, um valor que se aproxima do máximo histórico de 9,7%, registado no terceiro trimestre de 2023. Os dados constam da nota de informação estatística sobre as estatísticas das empresas da central de balanços, divulgada ",
-      "source": "ECO",
-      "date": "Mon, 06 Jul 2026 10:33:46 +0000",
-      "url": "https://eco.sapo.pt/2026/07/06/rendibilidade-das-empresas-sobe-para-95-no-primeiro-trimestre/",
-      "img": "https://eco.imgix.net/uploads/2025/04/cropped-fabricatransformodulares_20250303_0220_hr-scaled-4.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "b5123783",
-      "cat": "economia",
-      "title": "Portugal acelera compra e venda de casas pelo segundo ano consecutivo",
-      "summary": "Portugal voltou a registar um forte crescimento da compra e venda de habitação em 2025, com o número de casas transacionadas a aumentar 10,5% face ao ano anterior, consolidando a recuperação do mercado imobiliário iniciada em 2024. Os dados divulgados esta segunda-feira pelo Eurostat mostram que o p",
-      "source": "ECO",
-      "date": "Mon, 06 Jul 2026 10:05:56 +0000",
-      "url": "https://eco.sapo.pt/2026/07/06/portugal-acelera-compra-e-venda-de-casas-pelo-segundo-ano-consecutivo/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-41424542-scaled-1.jpg",
-      "score": 0.76
     },
     {
       "id": "bae80b52",
@@ -113,17 +91,6 @@
       "score": 0.76
     },
     {
-      "id": "63bf0982",
-      "cat": "ciencia",
-      "title": "O primeiro guarda-florestal da Escócia quer melhorar a sua imagem",
-      "summary": "O guarda-florestal de Eyemouth espera uma existência mais harmoniosa entre gaivotas e humanos.",
-      "source": "BBC News",
-      "date": "Fri, 03 Jul 2026 09:53:04 GMT",
-      "url": "https://www.bbc.co.uk/news/videos/cy9r1z3p4d0o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea1/live/66c45840-76c3-11f1-b976-0b9c15b0ccfc.jpg",
-      "score": 0.76
-    },
-    {
       "id": "2b0fe167",
       "cat": "ciencia",
       "title": "Hubble da NASA detecta um diamante estelar para o 4 de Julho",
@@ -157,91 +124,47 @@
       "score": 0.76
     },
     {
-      "id": "0f77cde5",
-      "cat": "tecnologia",
-      "title": "Prémio Suggia dividido entre exuberância e elegância",
-      "summary": "Prémio foi atribuído ex-aequo a Ziyang Zhao e Florianne Remme.",
+      "id": "09ddbff9",
+      "cat": "cultura",
+      "title": "Morreu a artista plástica Luísa Cunha aos 77 anos",
+      "summary": "Morreu internada no Hospital de São José, em Lisboa, “após uma luta contra o cancro nos últimos anos”. Foi distinguida em 2021 com o Grande Prémio Fundação EDP Arte.",
       "source": "Público",
-      "date": "Mon, 06 Jul 2026 09:58:47 GMT",
-      "url": "https://www.publico.pt/2026/07/06/culturaipsilon/critica/premio-suggia-dividido-exuberancia-elegancia-2180639",
+      "date": "Mon, 06 Jul 2026 15:07:45 GMT",
+      "url": "https://www.publico.pt/2026/07/06/culturaipsilon/noticia/morreu-artista-plastica-luisa-cunha-77-anos-2180728",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "36a900e4",
+      "id": "d2bc0909",
       "cat": "tecnologia",
-      "title": "O primeiro grande manual de culinária para todos",
-      "summary": "Publicado inicialmente em fascículos semanais, o “Tratado Completo de Cozinha e de Copa” nasceu com uma ambição simples: ensinar a cozinhar ao maior número possível de pessoas. Hoje, ainda funciona.",
-      "source": "Público",
-      "date": "Mon, 06 Jul 2026 09:23:24 GMT",
-      "url": "https://www.publico.pt/2026/07/06/edicoes-publico/noticia/manual-culinaria-2180570",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "e9921749",
-      "cat": "geral",
-      "title": "Gabriel é talento em ascensão na moda em Paris, mas veio honrar as raízes portuguesas",
-      "summary": "A marca do lusodescendente, a De Pino, está nomeada para o prémio de jovens talentos da LVMH. Estreou-se no Portugal Fashion, tal como a Malteza de Joana Maltez.",
-      "source": "Público",
-      "date": "Mon, 06 Jul 2026 09:11:00 GMT",
-      "url": "https://www.publico.pt/2026/07/06/impar/noticia/gabriel-talento-ascensao-moda-paris-veio-honrar-raizes-portuguesas-2180625",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "727b0f43",
-      "cat": "geral",
-      "title": "Certificados do Tesouro: taxa fixa com prazo de 10 anos",
-      "summary": "O Governo anunciou um novo produto de poupança, com características diferentes dos Certificados de Aforro. Os Certificados do Tesouro têm taxa fixa definida para o prazo de 10 anos.",
+      "title": "Revisão do castigo a Balogun foi negociada com a Casa Branca",
+      "summary": "A estratégia revelada pelo Politico dá conta de um lobby entre a Casa Branca e a sede da FIFA. Houve um telefonema entre Trump e Infantino, bem como uma análise do histórico do árbitro.",
       "source": "Observador",
-      "date": "Mon, 06 Jul 2026 10:54:07 +0100",
-      "url": "https://observador.pt/programas/boa-moeda-ma-moeda/certificados-do-tesouro-taxa-fixa-com-prazo-de-10-anos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg",
+      "date": "Mon, 06 Jul 2026 13:39:59 +0100",
+      "url": "https://observador.pt/2026/07/06/revisao-do-castigo-a-balogun-foi-negociada-com-a-casa-branca/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:843:nowe:0:78/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/05161632/infantino-trump.jpg",
       "score": 0.73
     },
     {
-      "id": "a27f8eeb",
-      "cat": "tecnologia",
-      "title": "MEE alerta para risco de recessão na zona euro em 2027",
-      "summary": "Mecanismo Europeu de Estabilidade estima que o crescimento da economia da zona euro deverá abrandar para 0,6% em 2026 e descer para -0,4% em 2027. Exportações devem ficar 7% abaixo do esperado.",
+      "id": "3eca5a65",
+      "cat": "cultura",
+      "title": "George Clooney vai receber Leão de Ouro de carreira",
+      "summary": "Clonney será premiado com o Leão de Ouro de carreira pelo Festival de Cinema de Veneza, que já distingiu figuras como Catherine Deneuve e Jamie Lee Curtis. O ator diz ser \"uma enorme honra\".",
       "source": "Observador",
-      "date": "Mon, 06 Jul 2026 10:54:02 +0100",
-      "url": "https://observador.pt/2026/07/06/mecanismo-europeu-de-estabilidade-alerta-para-risco-de-recessao-na-zona-euro-em-2027-por-tensoes-externas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:212/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/02/02230605/GettyImages-1236505686-scaled.jpg",
+      "date": "Mon, 06 Jul 2026 12:55:20 +0100",
+      "url": "https://observador.pt/2026/07/06/george-clooney-vai-receber-leao-de-ouro-de-carreira-do-festival-de-cinema-de-veneza/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:108/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/06121244/47047898.jpg",
       "score": 0.73
     },
     {
-      "id": "f92d6390",
+      "id": "86189051",
       "cat": "tecnologia",
-      "title": "\"Ninguém esperava que vídeo para Seleção se tornasse viral\"",
-      "summary": "Os Homens do Barco afirmam que o sucesso foi inesperado depois de criarem um hino de apoio à Seleção Nacional. Com o apoio de Diogo Piçarra, o grupo adaptou a canção de António Variações.",
-      "source": "Observador",
-      "date": "Mon, 06 Jul 2026 10:53:37 +0100",
-      "url": "https://observador.pt/programas/comissao-de-inquerito/homens-do-barco-ninguem-esperava-que-o-video-para-a-selecao-se-tornasse-viral/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151954/770-podcast-comissao-de-inquerito-2025-v2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "77f2c2e9",
-      "cat": "tecnologia",
-      "title": "EasyJet dispara 11% e \"voa\" para máximos de 2022 com proposta de compra da Castlelake",
-      "summary": "A companhia aérea chegou a disparar mais de 11% em bolsa, com a proposta da empresa de investimento norte-americana a oferecer 6,90 libras por ação.",
+      "title": "Gigante chinesa escolhe DST para construir centrais fotovoltaicas flutuantes na Europa",
+      "summary": "A bracarense DST Solar firmou uma parceria com a Sungrow, um dos principais fabricantes mundiais de tecnologia fotovoltaica flutuante, ficando responsável pelo desenvolvimento comercial, coordenação dos projetos, construção, comissionamento e entrega das instalações.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 06 Jul 2026 11:16:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/easyjet-salta-11-e-voa-para-maximos-de-2022-com-proposta-de-compra-da-castlelake",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-22-11-14-32-525508.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "244bb655",
-      "cat": "tecnologia",
-      "title": "Preços na produção industrial sobem mais de 5% em maio na Zona Euro e União Europeia",
-      "summary": "Em Portugal, o indicador avançou 5,5% na variação homóloga e 0,8% em cadeia.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 06 Jul 2026 11:01:24 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/precos-na-producao-industrial-sobem-mais-de-5-em-maio-na-zona-euro-e-uniao-europeia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-23-11-18-50-518915.jpg",
+      "date": "Mon, 06 Jul 2026 14:33:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/gigante-chinesa-escolhe-dst-para-construir-centrais-fotovoltaicas-flutuantes-na-europa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-06-14-06-19-526147.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +179,58 @@
       "score": 0.73
     },
     {
-      "id": "a6518969",
-      "cat": "sociedade",
-      "title": "Vizinhos tiram a vovó da casa em chamas, mas pareciam 'bandidos bêbados' no alerta da câmera da campainha enviado à filha",
-      "summary": "Vizinhos heróis correram para uma casa em chamas para salvar uma avó de 87 anos depois que sua filha assistiu ao terrível incêndio na câmera da campainha. Phyllis Day, que tem Alzheimer, estava dormindo quando ocorreu um incêndio na despensa de sua casa em Wigston, Leicestershire, na Inglaterra. Felizmente, os vizinhos",
-      "source": "Good News Network",
-      "date": "Sun, 05 Jul 2026 19:18:10 +0000",
-      "url": "https://www.goodnewsnetwork.org/neighbors-pull-grandma-out-of-burning-home-but-looked-like-drunk-thugs-in-doorbell-cam/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Doorbell-camera-Suzanne-Wright-SWNS.jpeg",
+      "id": "c2dcaa50",
+      "cat": "ciencia",
+      "title": "Exames em atraso devem chegar aos professores até ao final do dia, diz ministro",
+      "summary": "Cerca de 70% dos exames do secundário estão nas mãos dos professores e os restantes devem ser distribuídos até ao final do dia, antecipou esta segunda-feira o ministro da Educação, garantindo que não há classificadores sem provas para corrigir. O Ministério da Educação, Ciência e Inovação abriu, à c",
+      "source": "ECO",
+      "date": "Mon, 06 Jul 2026 15:34:05 +0000",
+      "url": "https://eco.sapo.pt/2026/07/06/exames-em-atraso-devem-chegar-aos-professores-ate-ao-final-do-dia-diz-ministro/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47415283-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "62bfcbc5",
+      "id": "2dd3d209",
+      "cat": "ciencia",
+      "title": "PR Gate entra no setor público com dois novos clientes",
+      "summary": "A agência de comunicação do Grupo Gate reforçou o portefólio de clientes com a Provedora do Animal e o Mecanismo de Monitorização da Implementação da Convenção dos Direitos das Pessoas com Deficiência (Me-CDPD). “Os últimos meses foram marcados pelo crescimento da PR Gate, com novos clientes, o refo",
+      "source": "ECO",
+      "date": "Mon, 06 Jul 2026 15:29:51 +0000",
+      "url": "https://eco.sapo.pt/2026/07/06/pr-gate-entra-no-setor-publico-com-dois-novos-clientes/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-fotografia-joana-branquinho-da-fonseca.png",
+      "score": 0.73
+    },
+    {
+      "id": "80918d27",
       "cat": "tecnologia",
-      "title": "Giant Gorilla Maze comemora o 100º aniversário de Sir David Attenborough",
-      "summary": "Um dos maiores labirintos da Grã-Bretanha está comemorando o 100º aniversário de Sir David Attenborough criando um design espetacular na forma de um gorila da montanha. Wistow Maze, em Leicestershire, Inglaterra, criou o projeto para prestar homenagem à lendária emissora que vem de seu país local.",
+      "title": "Câmara de Lisboa quer vender 10 imóveis em hasta pública pelo valor base de 59,2 milhões",
+      "summary": "A Câmara de Lisboa quer lançar uma hasta pública para alienar 10 imóveis municipais, que valem um total de 59,2 milhões de euros, pretendendo que a receita gerada seja alocada ao “ambicioso plano de investimentos” do município até 2030. “A rentabilização e valorização dos ativos imobiliários municip",
+      "source": "ECO",
+      "date": "Mon, 06 Jul 2026 15:26:05 +0000",
+      "url": "https://eco.sapo.pt/2026/07/06/camara-de-lisboa-quer-vender-10-imoveis-em-hasta-publica-pelo-valor-base-de-592-milhoes/",
+      "img": "https://eco.imgix.net/uploads/2025/09/cropped-carlos-moedas08.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "239fdd20",
+      "cat": "tecnologia",
+      "title": "Retrato de 12 milhões de euros da “musa dourada” de Picasso recuperado de ladrões após roubo em Paris",
+      "summary": "Uma operação policial contra supostos traficantes de drogas revelou uma pintura roubada de Pablo Picasso no valor de dezenas de milhões de dólares. Isso porque supostamente retrata a “musa de ouro” de Picasso. Marie-Therese Walter, modelo francesa e amante do famoso pintor a quem ele credita",
       "source": "Good News Network",
-      "date": "Sat, 04 Jul 2026 21:00:09 +0000",
-      "url": "https://www.goodnewsnetwork.org/giant-gorilla-maze-celebrates-sir-david-attenboroughs-100th-birthday/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Wistow-Maze-in-Leicestershire-England-features-mountain-gorilla-to-celebrate-Sir-David-Attenborough-100th-birthday.jpeg",
+      "date": "Mon, 06 Jul 2026 11:00:33 +0000",
+      "url": "https://www.goodnewsnetwork.org/e12-million-portrait-of-picassos-golden-muse-recovered-from-thieves-after-paris-theft/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Guests-at-the-Museo-Picasso-in-Malaga-credit-Holger-Uwe-Schmitt-via-Wikimedia-Commons-CC-BY-SA-4.0.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "633ae646",
+      "cat": "ciencia",
+      "title": "Supertufão Bavi atinge ilhas do Pacífico dos EUA com fortes rajadas de vento",
+      "summary": "A tempestade, com ventos de quase 290 km/h (180 mph) e rajadas de 350 km/h, atinge a ilha da Rota.",
+      "source": "BBC News",
+      "date": "Mon, 06 Jul 2026 00:20:20 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b57b/live/5de56ea0-7914-11f1-9510-1546718f668b.jpg",
       "score": 0.73
     },
     {
@@ -311,6 +267,61 @@
       "score": 0.73
     },
     {
+      "id": "1f817435",
+      "cat": "cultura",
+      "title": "O que fazer? Terça é dia de leques, pianos e guitarradas",
+      "summary": "Música que vai do piano ao órgão de tubos, um festival de guitarras, o heavy metal dos Iron Maiden e exposições com retratos e leques chineses.",
+      "source": "Público",
+      "date": "Mon, 06 Jul 2026 15:24:00 GMT",
+      "url": "https://www.publico.pt/2026/07/06/fugas/noticia/terca-dia-leques-pianos-guitarradas-2180698",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "568c00ed",
+      "cat": "tecnologia",
+      "title": "Chabouté regressa para nos levar numa viagem singular",
+      "summary": "Christophe Chabouté regressa à colecção “Novela Gráfica” com “Partir, Ficando”, o seu mais recente trabalho, publicado originalmente em França há pouco mais de um ano.",
+      "source": "Público",
+      "date": "Mon, 06 Jul 2026 15:23:41 GMT",
+      "url": "https://www.publico.pt/2026/07/06/edicoes-publico/noticia/chaboute-regressa-levar-viagem-singular-2180612",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "b753d063",
+      "cat": "tecnologia",
+      "title": "As notícias das 14h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Mon, 06 Jul 2026 14:15:32 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2404/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "6831b40c",
+      "cat": "tecnologia",
+      "title": "Microsoft corta 6.400 postos de trabalho. Xbox é a divisão mais afetada",
+      "summary": "O objetivo é reduzir a força laboral da divisão de videojogos e consolas da tecnológica em 20% no espaço de apenas doze meses, numa altura em que a Microsoft tem perdido bastante terreno face às rivais Sony e Nintendo.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 06 Jul 2026 16:20:40 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/microsoft-corta-6-400-postos-de-trabalho-xbox-e-a-divisao-mais-afetada",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-06-15-28-16-526153.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "47405abc",
+      "cat": "tecnologia",
+      "title": "PS pede audição do INE para debate \"com prudência\" das estimativas da população",
+      "summary": "Em causa, a atualização pelo INE do número de residentes em Portugal para 11.424.031 pessoas, graças à contabilização de 1.597.539 pessoas estrangeiras.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 06 Jul 2026 16:10:40 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/ps-pede-audicao-do-ine-para-debate-com-prudencia-das-estimativas-da-populacao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-04/img_100x100uu2025-04-29-18-04-07-500462.jpg",
+      "score": 0.7
+    },
+    {
       "id": "c8ced442",
       "cat": "tecnologia",
       "title": "Soldados ingénuos, como formigas no Chapitô",
@@ -319,17 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
