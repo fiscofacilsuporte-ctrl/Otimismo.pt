@@ -1,5 +1,5 @@
 {
-  "last_update": "05/07/2026 19:35 UTC",
+  "last_update": "06/07/2026 04:16 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,17 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-26-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/06/iStock-1217809699-2-e1782404535426.jpeg",
       "score": 0.82
+    },
+    {
+      "id": "963f179f",
+      "cat": "desporto",
+      "title": "Gabriel Albuquerque e Lucas Santos de ouro na Taça do Mundo de trampolins",
+      "summary": "Os ginastas portugueses Gabriel Albuquerque e Lucas Santos conquistaram hoje a medalha de ouro na prova de trampolim sincronizado da Taça do Mundo, que decorreu em Coimbra.",
+      "source": "RTP",
+      "date": "Mon, 06 Jul 2026 00:47:18 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/gabriel-albuquerque-e-lucas-santos-de-ouro-na-taca-do-mundo-de-trampolins_d1751605",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/39/390b565ec95a7f591d7625e6f5d06957?w=350&amp;q=50&amp;rect=0,0,506,277&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "e7757ee3",
@@ -36,36 +47,14 @@
       "score": 0.79
     },
     {
-      "id": "8432bf8b",
+      "id": "396a0f9c",
       "cat": "tecnologia",
-      "title": "Pogacar “oferece” vitória a Isaac del Toro no segundo dia da Volta a França",
-      "summary": "Dupla da UAE Emirates fez primeiro e segundo na etapa. Tadej Pogacar teve força para largar Jonas Vingegaard e acompanhar del Toro até à meta, mas deixou a vitória para o jovem mexicano.",
-      "source": "Público",
-      "date": "Sun, 05 Jul 2026 16:43:49 GMT",
-      "url": "https://www.publico.pt/2026/07/05/desporto/noticia/pogacar-oferece-vitoria-isaac-del-toro-segundo-dia-volta-franca-2180617",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "072103a8",
-      "cat": "economia",
-      "title": "\"Lisbon Sustainability Week\"",
-      "summary": "A criação de valor deve ser a lógica de atuação das empresas e de funcionamento dos mercados financeiros. Só assim teremos uma economia sustentável que cuida das pessoas e do planeta.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 05 Jul 2026 18:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/deans-corner/filipe-santos/detalhe/lisbon-sustainability-week",
-      "img": "https://cdn.jornaldenegocios.pt/images/2020-04/img_394x514uu2020-04-21-15-48-00-374261.png",
-      "score": 0.76
-    },
-    {
-      "id": "ec9f75da",
-      "cat": "tecnologia",
-      "title": "Lusíadas Saúde sobe receitas para 474 milhões em 2025 e investe 165 milhões até 2030",
-      "summary": "O Grupo Lusíadas Saúde obteve vendas de 474 milhões de euros em 2025, mais 14% num ano de expansão, estimando que 2026 seja de recuperação das margens financeiras e prevendo investimentos de 165,17 milhões de euros até 2030. O ano passado foi &#8220;muito peculiar&#8221; para o Grupo detido pelos fr",
-      "source": "ECO",
-      "date": "Sun, 05 Jul 2026 09:57:15 +0000",
-      "url": "https://eco.sapo.pt/2026/07/05/lusiadas-saude-sobe-receitas-para-474-milhoes-em-2025-e-investe-165-milhoes-ate-2030/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47311615-scaled-3.jpg",
+      "title": "Seleção de canoagem com ouro e cinco Top 10 no fim dos Mundiais sub-23 e júnior",
+      "summary": "A seleção portuguesa de canoagem despediu-se hoje dos Mundiais sub-23 e júnior com uma medalha de ouro, um quarto lugar e mais quatro resultados no Top 10 no Canadá.",
+      "source": "RTP",
+      "date": "Sun, 05 Jul 2026 22:12:06 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/selecao-de-canoagem-com-ouro-e-cinco-top-10-no-fim-dos-mundiais-sub-23-e-junior_d1751589",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/56/566ca09bf49d16b04d9675b1bc45a35e?w=350&amp;q=50&amp;rect=0,323,1600,877&amp;auto=format",
       "score": 0.76
     },
     {
@@ -146,47 +135,36 @@
       "score": 0.76
     },
     {
-      "id": "479da147",
+      "id": "25a1c000",
+      "cat": "sociedade",
+      "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
+      "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada em... O pos",
+      "source": "Reasons to be Cheerful",
+      "date": "Thu, 02 Jul 2026 08:00:08 +0000",
+      "url": "https://reasonstobecheerful.world/the-spark-wildlife-care/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/Shutterstock-El-Nariz-scaled.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "874ec9ef",
       "cat": "tecnologia",
-      "title": "Gosta de carros largos? Ponha os olhos neste BMW M3 gigante",
-      "summary": "Se a família é numerosa ou tem muitos amigos com quem quer passear, e procura um carro mais largo e espaçoso, ponha os olhos neste BMW M3 “king size”. Mas prepare-se, pois nem sempre o que parece é...",
-      "source": "Observador",
-      "date": "Sun, 05 Jul 2026 19:18:12 +0100",
-      "url": "https://observador.pt/2026/07/05/gosta-de-carros-largos-ponha-os-olhos-neste-bmw-m3-gigante/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2560:1439:nowe:0:43/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05123532/bmw-m3-squared-1aaa-copy.jpg",
+      "title": "Portugal vence na Grécia e avança na qualificação para o Mundial de basquetebol",
+      "summary": "Triunfo histórico contra os gregos, por 71-56, garantiu a passagem para a segunda fase de qualificação para o Mundial de 2027. Próxima fase com jogos contra Espanha, Ucrânia e Geórgia.",
+      "source": "Público",
+      "date": "Sun, 05 Jul 2026 22:12:21 GMT",
+      "url": "https://www.publico.pt/2026/07/05/desporto/noticia/portugal-vence-grecia-avanca-qualificacao-mundial-basquetebol-2180647",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "cee45fb0",
+      "id": "ec0fb0a9",
       "cat": "tecnologia",
-      "title": "AfD reafirma ambição de governar a Alemanha",
-      "summary": "No congresso de Erfurt, os dois líderes reeleitos do partido de extrema-direita prometeram conquistar três estados do leste e reclamar a chancelaria alemã já em 2027.",
-      "source": "Observador",
-      "date": "Sun, 05 Jul 2026 18:08:29 +0100",
-      "url": "https://observador.pt/2026/07/05/partido-de-extrema-direita-afd-reafirma-ambicao-de-governar-a-alemanha/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:11/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05173929/47359494.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "4f999ef8",
-      "cat": "tecnologia",
-      "title": "Betinho despede-se do Benfica após 17 títulos",
-      "summary": "O extremo luso-cabo-verdiano, de 41 anos, representou as águias em dois períodos ao longo de 10 anos. O tetracampeonato está entre as conquistas.",
-      "source": "Observador",
-      "date": "Sun, 05 Jul 2026 18:06:19 +0100",
-      "url": "https://observador.pt/2026/07/05/betinho-deixa-basquetebol-do-benfica-apos-um-total-de-10-anos-nas-aguias/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05173821/43841431.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "52e68aea",
-      "cat": "economia",
-      "title": "“Vamos ter um pico de inflação talvez nos três, três e meio por cento\", antecipa Ricardo Reis",
-      "summary": "O economista Ricardo Reis considera que o acordo entre os EUA e o Irão retirou alguma pressão sobre novo aperto monetário na Zona Euro até ao final do ano, mas pelas estimativas, o pico da inflação deverá estar na casa dos 3%.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 05 Jul 2026 18:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/vamos-ter-um-pico-de-inflacao-talvez-nos-tres-tres-e-meio-por-cento-antecipa-ricardo-reis",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-02-15-50-40-526010.jpg",
+      "title": "Montenegro vai a Dallas ver a selecção e falha jornadas do PSD",
+      "summary": "Primeiro-ministro marca presença no estádio para o duelo ibérico e falha jornadas parlamentares do PSD.",
+      "source": "Público",
+      "date": "Sun, 05 Jul 2026 20:46:20 GMT",
+      "url": "https://www.publico.pt/2026/07/05/politica/noticia/montenegro-vai-dallas-seleccao-falha-jornadas-psd-2180646",
+      "img": null,
       "score": 0.73
     },
     {
@@ -201,36 +179,14 @@
       "score": 0.73
     },
     {
-      "id": "89c9b3f0",
-      "cat": "desporto",
-      "title": "Andreas Samaris regressa ao Benfica para treinar equipa de sub-16",
-      "summary": "O antigo futebolista internacional grego Andreas Samaris, quatro vezes campeão nacional pelo Benfica, vai treinar a equipa de juvenis B dos ‘encarnados’, do escalão de sub-16, anunciou hoje o clube lisboeta.",
+      "id": "06050b43",
+      "cat": "tecnologia",
+      "title": "Leclerc vence GP da Grã-Bretanha de F1 que terminou com `safety car`",
+      "summary": "O piloto monegasco Charles Leclerc (Ferrari) venceu hoje o Grande Prémio da Grã-Bretanha de Fórmula 1, nona ronda da temporada, que terminou com o `safety car` à frente do pelotão devido ao despiste do neerlandês Max Verstappen (Red Bull).",
       "source": "RTP",
-      "date": "Sun, 05 Jul 2026 15:54:01 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/andreas-samaris-regressa-ao-benfica-para-treinar-equipa-de-sub-16_d1751545",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3c82e6c4b5b81c581b97cc8d0a2bc901?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "71d3eb27",
-      "cat": "desporto",
-      "title": "Volta a França em Bicicleta. Jonas vingegaard é o primeiro líder",
-      "summary": "Começou sábado, em Barcelona, a Volta a França em Bicicleta. Jonas vingegaard foi o primeiro líder da prova.",
-      "source": "RTP",
-      "date": "Sun, 05 Jul 2026 15:23:42 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/volta-a-franca-em-bicicleta-jonas-vingegaard-e-o-primeiro-lider_v1751529",
-      "img": "https://cdn-images.rtp.pt/icm/images/33/3381b6f99d2f01b0a6fa87b60d256915_N.jpg?",
-      "score": 0.73
-    },
-    {
-      "id": "71dee80a",
-      "cat": "desporto",
-      "title": "Brasil defronta Noruega, México testa Inglaterra",
-      "summary": "O embate entre o pentacampeão Brasil e a Noruega e o confronto entre o coanfitrião México e a Inglaterra, campeã em 1966, preenchem hoje o ‘menu’ do segundo dia dos ‘oitavos’ do Mundial de futebol de 2026.",
-      "source": "RTP",
-      "date": "Sun, 05 Jul 2026 15:20:01 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/brasil-defronta-noruega-mexico-testa-inglaterra_d1751534",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/48/48e6373ac2323e9d8838dec1ce46b0e5?w=350&amp;q=50&amp;rect=0,238,5392,2956&amp;auto=format",
+      "date": "Sun, 05 Jul 2026 22:05:58 +0100",
+      "url": "https://www.rtp.pt/noticias/formula-1/leclerc-vence-gp-da-gra-bretanha-de-f1-que-terminou-com-safety-car_d1751562",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/3f/3f65ba6142c074ca17d7c1e22d6f7795?w=350&amp;q=50&amp;rect=0,27,2600,1425&amp;auto=format",
       "score": 0.73
     },
     {
@@ -245,14 +201,14 @@
       "score": 0.73
     },
     {
-      "id": "67cba51d",
-      "cat": "tecnologia",
-      "title": "Lusíadas Saúde admite nova PPP mas parceria para ULS só com modelo melhorado",
-      "summary": "A Lusíadas Saúde tem interesse em participar novamente numa Parceria Público-Privada (PPP) num hospital, após a experiência em Cascais, mas o presidente do grupo considera que o modelo das ULS em articulação com os privados precisa de mais enquadramento. Vasco Antunes Pereira salientou, em entrevist",
-      "source": "ECO",
-      "date": "Sun, 05 Jul 2026 09:32:01 +0000",
-      "url": "https://eco.sapo.pt/2026/07/05/lusiadas-saude-admite-nova-ppp-mas-parceria-para-uls-so-com-modelo-melhorado/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47311609-scaled-1.jpg",
+      "id": "a6518969",
+      "cat": "sociedade",
+      "title": "Vizinhos tiram a vovó da casa em chamas, mas pareciam 'bandidos bêbados' no alerta da câmera da campainha enviado à filha",
+      "summary": "Vizinhos heróis correram para uma casa em chamas para salvar uma avó de 87 anos depois que sua filha assistiu ao terrível incêndio na câmera da campainha. Phyllis Day, que tem Alzheimer, estava dormindo quando ocorreu um incêndio na despensa de sua casa em Wigston, Leicestershire, na Inglaterra. Felizmente, os vizinhos",
+      "source": "Good News Network",
+      "date": "Sun, 05 Jul 2026 19:18:10 +0000",
+      "url": "https://www.goodnewsnetwork.org/neighbors-pull-grandma-out-of-burning-home-but-looked-like-drunk-thugs-in-doorbell-cam/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Doorbell-camera-Suzanne-Wright-SWNS.jpeg",
       "score": 0.73
     },
     {
@@ -267,47 +223,102 @@
       "score": 0.73
     },
     {
-      "id": "20db469e",
-      "cat": "tecnologia",
-      "title": "250 razões para amar a América em seu 250º aniversário",
-      "summary": "Das majestades das montanhas roxas às ondas âmbar de grãos, os 6,4 milhões de quilômetros quadrados de paisagens de cair o queixo da América são igualados apenas pela audácia de sua premissa fundadora: há 250 anos, os colonos britânicos em busca de independência lançaram uma experiência radical, apostando que um povo livre poderia governar",
-      "source": "Good News Network",
-      "date": "Sat, 04 Jul 2026 11:00:52 +0000",
-      "url": "https://www.goodnewsnetwork.org/250-reasons-to-love-america-on-her-250th-birthday/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/05/patriotic-american-flag-in-grass-pubdomain-Aaron-Burden.jpg",
+      "id": "41473a4a",
+      "cat": "sociedade",
+      "title": "Nele para o longo prazo",
+      "summary": "Enquanto os Estados Unidos celebram o seu 250º aniversário neste fim de semana, muitos dos seus residentes podem sentir o grande elefante ideologicamente dividido na sala. Mas embora o país tenha em conta a sua identidade nacional, a nível local, os americanos continuam a unir-se de formas que transcendem a política, como acontece com o país.",
+      "source": "Reasons to be Cheerful",
+      "date": "Fri, 03 Jul 2026 08:00:24 +0000",
+      "url": "https://reasonstobecheerful.world/americas-250th-birthday-reader-responses/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2227481145-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "a669fa15",
+      "id": "b00cdc4c",
       "cat": "tecnologia",
-      "title": "PS não descarta viabilizar inquérito sobre caso dos exames nacionais",
-      "summary": "Bancada socialista considera caso dos exames nacionais “grave” e não exclui acompanhar proposta do Bloco de Esquerda para comissão de inquérito. Votação só em Setembro.",
+      "title": "O que estamos lendo: como consertar a bagunça do espelho d'água - naturalmente",
+      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Não é fácil ser verde A saga do Lincoln Memorial Reflecting Pool, cheio de algas, continua, com o",
+      "source": "Reasons to be Cheerful",
+      "date": "Wed, 01 Jul 2026 08:00:28 +0000",
+      "url": "https://reasonstobecheerful.world/what-were-reading-reflecting-pool-natural-solutions/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/shutterstock_2798368341-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1aab107f",
+      "cat": "tecnologia",
+      "title": "A Inglaterra sobreviveu a tudo no melhor jogo e no melhor palco do Mundial",
+      "summary": "No Azteca, na Cidade do México, houve atrasos, penáltis, expulsões, avançados em grande, guarda-redes à altura, adeptos loucos e resultado injusto. Mexicanos fizeram mais, ingleses fizeram melhor.",
       "source": "Público",
-      "date": "Sun, 05 Jul 2026 19:19:36 GMT",
-      "url": "https://www.publico.pt/2026/07/05/politica/noticia/ps-nao-descarta-viabilizar-inquerito-caso-exames-nacionais-2180641",
+      "date": "Mon, 06 Jul 2026 03:10:46 GMT",
+      "url": "https://www.publico.pt/2026/07/06/desporto/cronica_de_jogo/inglaterra-sobreviveu-melhor-jogo-melhor-palco-mundial-2180655",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "f27fc3f7",
+      "id": "cc0ef61f",
       "cat": "tecnologia",
-      "title": "Roberto Martínez: “Seria uma final fantástica”",
-      "summary": "Numa conferência de imprensa com muitas generalidades e poucas ideias concretizadas, o seleccionador nacional falou das semelhanças de estilo entre Portugal e Espanha.",
-      "source": "Público",
-      "date": "Sun, 05 Jul 2026 19:08:43 GMT",
-      "url": "https://www.publico.pt/2026/07/05/desporto/noticia/roberto-martinez-final-fantastica-2180640",
-      "img": null,
+      "title": "As notícias das 4h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Mon, 06 Jul 2026 04:03:48 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2336/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "2a9966f0",
+      "id": "3206a383",
       "cat": "tecnologia",
-      "title": "Governo de Netanyahu desafia Supremo Tribunal israelita pela primeira vez",
-      "summary": "O Governo sustenta que a sentença judicial contradiz o texto da legislação em vigor e defende que todas as autoridades do Estado, incluindo o poder judicial, devem ajustar-se estritamente à lei aprovada pelo Knesset.",
+      "title": "3h. Portugal tenta hoje nova qualificação no Mundial",
+      "summary": "Um jogo que vai contar com a presença de Luís Montenegro. Ainda, a AD inicia hoje as jornadas parlamentares em Cascais.",
+      "source": "Observador",
+      "date": "Mon, 06 Jul 2026 03:16:25 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2369/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "6c8be232",
+      "cat": "tecnologia",
+      "title": "2h. PSP reforça aeroportos a partir de hoje",
+      "summary": "A medida visa aumentar a capacidade da PSP no controlo de passageiros. Ainda, A Seleção Portuguesa de futebol tenta esta segunda-feira chegar aos quartos de final do Campeonato do Mundo.",
+      "source": "Observador",
+      "date": "Mon, 06 Jul 2026 02:17:38 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2342/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "431a3db1",
+      "cat": "tecnologia",
+      "title": "Despesa das famílias em saúde abranda, mas ainda é 5% dos gastos",
+      "summary": "As despesas em bens e serviços de saúde que saem diretamente dos bolsos das famílias moderaram-se no ano passado, crescendo 4,4%, num mínimo de quatro anos. Mas mantêm o peso nos orçamentos, que se tem destacado até aqui como um dos mais altos da União Europeia.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 05 Jul 2026 20:29:04 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/governo-de-netanyahu-desafia-supremo-tribunal-israelita-pela-primeira-vez",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-05-20-26-58-526116.jpg",
+      "date": "Sun, 05 Jul 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/saude/detalhe/despesa-das-familias-em-saude-abranda-mas-ainda-e-5-dos-gastos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2019-12/img_100x100uu2019-12-01-11-05-49-365739.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "e157eb42",
+      "cat": "tecnologia",
+      "title": "Luís Montenegro vai aos EUA assistir ao jogo Portugal-Espanha",
+      "summary": "O também presidente do PSD já não vai estar na abertura das jornadas parlamentares da Aliança Democrática.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 05 Jul 2026 22:37:51 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/luis-montenegro-vai-aos-eua-assistir-ao-jogo-portugal-espanha",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-05-22-35-56-526117.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "5d6f8808",
+      "cat": "tecnologia",
+      "title": "A vida mudou; os partidos perceberam?",
+      "summary": "Quando as condições mudam, os cidadãos devem ter a imediata perceção do que isso significa.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 05 Jul 2026 21:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-vida-mudou-os-partidos-perceberam",
+      "img": null,
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
