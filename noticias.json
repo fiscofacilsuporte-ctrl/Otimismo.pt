@@ -1,5 +1,5 @@
 {
-  "last_update": "08/07/2026 14:32 UTC",
+  "last_update": "08/07/2026 19:45 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,17 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-26-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/06/iStock-1217809699-2-e1782404535426.jpeg",
       "score": 0.82
+    },
+    {
+      "id": "a0697e10",
+      "cat": "ciencia",
+      "title": "Canadá explorando com sucesso gás hidrogênio ‘branco’, uma fonte de energia limpa abaixo das minas existentes",
+      "summary": "Reproduzido com permissão do World at Large Cientistas do Canadá descobriram que antigas rochas subterrâneas produzem naturalmente gás hidrogénio – e muito gás, e pode estar em todo o lado – e pode ser barato. As rochas poderiam oferecer outra fonte de energia limpa conhecida pela contabilidade de emissões.",
+      "source": "Good News Network",
+      "date": "Wed, 08 Jul 2026 15:30:40 +0000",
+      "url": "https://www.goodnewsnetwork.org/canada-successfully-exploring-for-white-hydrogen-gas-a-clean-power-source-beneath-existing-mines/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-mine-worker-measuring-hydrogen-credit-Sherwood-Lollar-released-by-Univ.-of-Toronto.jpg",
+      "score": 0.79
     },
     {
       "id": "74b76aaf",
@@ -36,17 +47,6 @@
       "score": 0.79
     },
     {
-      "id": "9658c277",
-      "cat": "tecnologia",
-      "title": "Seguro espera rápida resolução dos problemas e que confiança no sistema de avaliação de exames fique “intacta”",
-      "summary": "Presidente de República espera que, findo o processo de classificação, a “relação de confiança que existe com o sistema de avaliação continue intacta”. Tema será abordado com o primeiro-ministro.",
-      "source": "Público",
-      "date": "Wed, 08 Jul 2026 12:12:30 GMT",
-      "url": "https://www.publico.pt/2026/07/08/sociedade/noticia/seguro-espera-rapida-resolucao-problemas-confianca-sistema-avaliacao-exames-fique-intacta-2180974",
-      "img": null,
-      "score": 0.76
-    },
-    {
       "id": "fb57ca96",
       "cat": "tecnologia",
       "title": "Campanha peculiar deixa boas surpresas nos carros de quem pegou táxi do bar para casa",
@@ -55,17 +55,6 @@
       "date": "Tue, 07 Jul 2026 15:30:02 +0000",
       "url": "https://www.goodnewsnetwork.org/viral-volunteer-effort-leaves-surprises-on-the-cars-of-residents-who-took-cabs-home-from-the-bar/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/credit-@the_barfairies.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "f5e43f6d",
-      "cat": "sociedade",
-      "title": "Boas novas na história, 7 de Julho",
-      "summary": "Há 36 anos, os Três Tenores se apresentaram ao vivo pela primeira vez nas Termas de Caracalla, em Roma. A gravação feita no show se tornou o álbum clássico mais vendido de todos os tempos, enquanto surpreendentes 800 milhões de pessoas em todo o mundo assistiram à transmissão ao vivo. Foi na véspera do",
-      "source": "Good News Network",
-      "date": "Tue, 07 Jul 2026 07:00:00 +0000",
-      "url": "https://www.goodnewsnetwork.org/events060707/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/07/Three_Tenors_Domingo_Carreras_conductor_Mehta_Pavarotti_-_1990.jpg",
       "score": 0.76
     },
     {
@@ -124,58 +113,58 @@
       "score": 0.76
     },
     {
-      "id": "a19c471b",
+      "id": "04552554",
+      "cat": "tecnologia",
+      "title": "George Washington , de Jon Erwin: sensaboria antes da revolução",
+      "summary": "Tudo é plano e linear nesta crónica do tempo em que George Washington era apenas um jovem oficial do exército britânico.",
+      "source": "Público",
+      "date": "Wed, 08 Jul 2026 19:14:13 GMT",
+      "url": "https://www.publico.pt/2026/07/08/culturaipsilon/critica/george-washington-jon-erwin-sensaboria-revolucao-2180899",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "333978af",
       "cat": "cultura",
-      "title": "Com investimento de 750 mil euros, MIMO Festival recebeu 50 mil pessoas em Guimarães",
-      "summary": "Festival criado pela brasileira Lu Araújo reuniu nomes como Fernanda Abreu e Alaíde Costa, além de artistas de 13 países diferentes. Forte calor foi um desafio para a organização do evento.",
-      "source": "Público",
-      "date": "Wed, 08 Jul 2026 13:23:12 GMT",
-      "url": "https://www.publico.pt/2026/07/08/publico-brasil/noticia/investimento-750-mil-euros-mimo-festival-recebeu-50-mil-pessoas-guimaraes-2180978",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "3072339b",
-      "cat": "ciencia",
-      "title": "El Niño forte + aquecimento global: estamos a viver uma combinação inédita",
-      "summary": "Programa europeu Copérnico afirma que os modelos científicos apontam para um “cenário climático extremo” . Será “uma surpresa muito grande” se não houver recordes de temperatura.",
-      "source": "Público",
-      "date": "Wed, 08 Jul 2026 12:10:05 GMT",
-      "url": "https://www.publico.pt/2026/07/08/azul/noticia/el-nino-forte-aquecimento-global-viver-combinacao-inedita-2180968",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "5f7032de",
-      "cat": "tecnologia",
-      "title": "Fenprof: Ministro não tem condições para continuar no cargo",
-      "summary": "Os secretários-gerais da Fenprof entendem que as posições \"erráticas\" de Fernando Alexandre sobre a correção dos exames devem levar à demissão do ministro. \"Não há uma boa solução\", dizem.",
+      "title": "Novas regras para passageiros nos voos. \"Acordo não é per...",
+      "summary": "O Parlamento Europeu aprovou novas regras de proteção aos passageiros. O eurodeputado Sérgio Humberto fala da mochila grátis, o fim de taxas surpresa e o direito ao bilhete em papel a partir de 2027.",
       "source": "Observador",
-      "date": "Wed, 08 Jul 2026 13:20:12 +0100",
-      "url": "https://observador.pt/2026/07/08/fenprof-acusa-ministro-da-educacao-de-amadorismo-e-entende-que-nao-tem-condicoes-politicas-para-se-manter-no-cargo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1760:988:nowe:240:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/08114829/47428362.jpg",
+      "date": "Wed, 08 Jul 2026 18:52:51 +0100",
+      "url": "https://observador.pt/programas/explicador/novas-regras-para-passageiros-nos-voos-acordo-nao-e-perfeito-mas-e-historico/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
       "score": 0.73
     },
     {
-      "id": "6c37f955",
+      "id": "66756831",
       "cat": "tecnologia",
-      "title": "Força Aérea fez mais 760 km para levar Montenegro a Ancara",
-      "summary": "Depois de assistir ao jogo da seleção, o primeiro-ministro voou para a Turquia, onde decorre a Cimeira da NATO. Em Istambul, Montenegro embarcou no Falcon 900 da Força Aérea, que o levou até Ancara.",
-      "source": "Observador",
-      "date": "Wed, 08 Jul 2026 12:25:37 +0100",
-      "url": "https://observador.pt/2026/07/08/aviao-da-forca-aerea-fez-760-quilometros-extra-para-transportar-luis-montenegro-apos-regressar-do-mundial/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:63/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/04/03190545/fa-faerea-falcon900b.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ce8d43a7",
-      "cat": "tecnologia",
-      "title": "JB Capital mais otimista para Galp. AlphaValue em sentido contrário mas ambas sobem \"target\"",
-      "summary": "A empresa ibérica de serviços financeiros espera que a petrolífera continue a valorizar nos próximos 12 meses, enquanto os franceses da AlphaValue estão pessimistas. A JB Capital também analisa as ações dos CTT e antecipa uma recuperação.",
+      "title": "Airbus entregou 351 aviões a 77 clientes no primeiro semestre",
+      "summary": "No conjunto do ano passado, a empresa entregou 793 aviões, um aumento de 4% face ao ano anterior.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 14:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/jb-capital-mais-otimista-para-galp-alphavalue-em-sentido-contrario-mas-ambas-sobem-target",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-30-15-00-13-517651.jpg",
+      "date": "Wed, 08 Jul 2026 20:22:22 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/airbus-entregou-351-avioes-a-77-clientes-no-primeiro-semestre",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-01-14-24-04-513883.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "f33ded11",
+      "cat": "tecnologia",
+      "title": "EDP suspende processo de denúncia do Acordo Coletivo de Trabalho até 31 de outubro",
+      "summary": "Para o sindicato, a decisão da suspensão \"permite que a negociação prossiga fora do quadro de pressão criado pela ameaça de caducidade do ACT\".",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 08 Jul 2026 20:19:31 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/edp-suspende-processo-de-denuncia-do-acordo-coletivo-de-trabalho-ate-31-de-outubro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-01/img_100x100uu2024-01-25-08-08-58-468986.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "69b4d761",
+      "cat": "economia",
+      "title": "Fim do acordo de cessar-fogo atira Europa para quedas expressivas. Petróleo dispara",
+      "summary": "Acompanhe, ao minuto, a evolução dos mercados nesta quarta-feira.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 08 Jul 2026 17:48:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/novos-ataques-no-medio-oriente-pintam-asia-de-vermelho-kospi-aproxima-se-de-bear-market",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-01-15-51-23-508427.jpg",
       "score": 0.73
     },
     {
@@ -190,36 +179,58 @@
       "score": 0.73
     },
     {
-      "id": "4dd5b940",
-      "cat": "tecnologia",
-      "title": "SIC garante transmissão de jogo do Benfica para a Liga Europa",
-      "summary": "A SIC assegurou os direitos de transmissão do encontro entre o Sport Lisboa e Benfica e o FC St. Gallen, da segunda mão da segunda pré-eliminatória da UEFA Europa League. No próximo 30 de julho, às 20h00, os portugueses vão poder acompanhar aquele que o canal afirma ser &#8220;o primeiro jogo decisi",
-      "source": "ECO",
-      "date": "Wed, 08 Jul 2026 14:21:41 +0000",
-      "url": "https://eco.sapo.pt/2026/07/08/sic-garante-transmissao-de-jogo-do-benfica-para-a-liga-europa/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47083910-scaled-3.jpg",
+      "id": "db327b33",
+      "cat": "cultura",
+      "title": "João Ferreira é o sucessor de Duarte Gomes como diretor técnico de arbitragem",
+      "summary": "O ex-árbitro internacional João Ferreira é o novo diretor técnico de arbitragem, após a demissão de Duarte Gomes, anunciou hoje o Conselho de Arbitragem (CA) da Federação Portuguesa de Futebol (FPF).",
+      "source": "RTP",
+      "date": "Wed, 08 Jul 2026 20:05:20 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/joao-ferreira-e-o-sucessor-de-duarte-gomes-como-diretor-tecnico-de-arbitragem_d1752157",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/98/984362bb23a11025ec223c4f8b65b72b?w=350&amp;q=50&amp;rect=0,0,1233,676&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "774fb024",
+      "id": "00b732a4",
       "cat": "tecnologia",
-      "title": "Luís Montenegro estima que Portugal atinja 3,1% do PIB em defesa já em 2026",
-      "summary": "Portugal vai atingir já este ano 3,1% do Produto Interno Bruto (PIB) em investimento na defesa, anunciou Luís Montenegro, na cimeira da NATO em Ancara. O país vai ainda reforçar o apoio à Ucrânia através do programa PURL (Prioritised Ukraine Requirements List) com um &#8220;montante que andará a vol",
-      "source": "ECO",
-      "date": "Wed, 08 Jul 2026 14:04:56 +0000",
-      "url": "https://eco.sapo.pt/2026/07/08/luis-montenegro-estima-que-portugal-atinja-31-do-pib-em-defesa-ja-em-2026/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47428043-scaled-1.jpg",
+      "title": "Mundial2026. FIFA rejeita recurso da França e mantém cartão amarelo a Michael Olise",
+      "summary": "A FIFA manteve o cartão amarelo mostrado ao futebolista Michael Olise na vitória da França frente ao Paraguai (1-0), nos oitavos de final do Mundial2026, rejeitando um recurso da federação gaulesa, anunciou o selecionador Didier Deschamps.",
+      "source": "RTP",
+      "date": "Wed, 08 Jul 2026 19:08:22 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-fifa-rejeita-recurso-da-franca-e-mantem-cartao-amarelo-a-michael-olise_d1752148",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f1/f121773acf529a156416eab35aec4c37?w=350&amp;q=50&amp;rect=0,47,1129,619&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "d634f514",
-      "cat": "tecnologia",
-      "title": "CMS Portugal assessora Atlas Copco Group na compra da LusoAr",
-      "summary": "A CMS Portugal assessorou o Atlas Copco Group na aquisição da LusoAr, empresa portuguesa especializada no fornecimento de compressores de ar, sistemas de tratamento de ar, instalações de ar comprimido e serviços de assistência a indústrias de grande e média dimensão da região do Porto. A equipa da C",
+      "id": "beda1302",
+      "cat": "cultura",
+      "title": "Alguns membros da Fed admitiram possibilidade de um aumento das taxas de juro",
+      "summary": "Alguns membros da Reserva Federal americana (Fed) admitiram a possibilidade de um aumento das taxas de juro este ano, durante a última reunião da instituição, a 16 e 17 de junho, de acordo com as minutas do encontro, publicadas esta quarta-feira. Assim, no documento, relativo à reunião do Comité Fed",
       "source": "ECO",
-      "date": "Wed, 08 Jul 2026 14:03:57 +0000",
-      "url": "https://eco.sapo.pt/2026/07/08/cms-portugal-assessora-atlas-copco-group-na-compra-da-lusoar/",
-      "img": "https://eco.imgix.net/uploads/2023/12/tiago-valente-de-oliveira_cms.jpg",
+      "date": "Wed, 08 Jul 2026 19:21:10 +0000",
+      "url": "https://eco.sapo.pt/2026/07/08/alguns-membros-da-fed-admitiram-possibilidade-de-um-aumento-das-taxas-de-juro/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc202606174730603813045051.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "b84d7fc2",
+      "cat": "economia",
+      "title": "Fórum Nacional de Seguros 2026. Seguro de caução continua subutilizado apesar das vantagens para as empresas",
+      "summary": "O crescimento do seguro de caução em Portugal e o seu potencial para substituir as garantias bancárias estiveram em debate no Fórum Nacional de Seguros 2026. João Silva, Managing Director na Specialty Risks, e Patrícia Azevedo Lopes, Founding Partner da Atlaw, defenderam durante a talk “Seguro de ca",
+      "source": "ECO",
+      "date": "Wed, 08 Jul 2026 19:17:16 +0000",
+      "url": "https://eco.sapo.pt/2026/07/08/forum-nacional-de-seguros-2026-seguro-de-caucao-continua-subutilizado-apesar-das-vantagens-para-as-empresas/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-seguros26-124.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "2ba07aaf",
+      "cat": "tecnologia",
+      "title": "EDP suspende denúncia do Acordo Coletivo de Trabalho até 31 de outubro",
+      "summary": "A EDP decidiu suspender o processo de denúncia do Acordo Coletivo de Trabalho (ACT) até 31 de outubro, indicou esta quarta-feira o Sindicato Nacional da Indústria e da Energia (Sindel), afeto à UGT, em comunicado. &#8220;O Sindel informa que, na sequência da reunião realizada no Conselho Económico e",
+      "source": "ECO",
+      "date": "Wed, 08 Jul 2026 19:14:02 +0000",
+      "url": "https://eco.sapo.pt/2026/07/08/edp-suspende-denuncia-do-acordo-coletivo-de-trabalho-ate-31-de-outubro/",
+      "img": "https://eco.imgix.net/uploads/2024/12/cropped-doc-20221104-39776968-10285888.jpg",
       "score": 0.73
     },
     {
@@ -237,7 +248,7 @@
       "id": "e9d8b7b0",
       "cat": "tecnologia",
       "title": "Dois testes que os médicos de clínica geral poderão oferecer em breve para ajudar a detectar a endometriose",
-      "summary": "Os especialistas esperam que isso mude o jogo e reduza a espera de diagnóstico de nove anos ou mais que os pacientes podem enfrentar atualmente.",
+      "summary": "Os especialistas esperam que isso mude o jogo e reduza as esperas de diagnóstico de nove anos ou mais que os pacientes podem enfrentar atualmente.",
       "source": "BBC News",
       "date": "Tue, 07 Jul 2026 09:16:09 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo?at_medium=RSS&at_campaign=rss",
@@ -278,58 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "aff9c714",
+      "id": "9834ed4b",
       "cat": "tecnologia",
-      "title": "Cabaz alimentar volta a subir 3,08 euros para 256,71 euros",
-      "summary": "Brócolos (+13%), tomate chucha (+12%) e farinha para bolos (+9%) lideram as subidas semanais. Robalo, couve-coração e cebola estão no topo das anuais. Face a 2022, cabaz já custa mais 69 euros.",
+      "title": "PSD quer ouvir numa segunda fase ex-governantes PS sobre dados da imigração do INE",
+      "summary": "Numa primeira fase, os deputados do PSD querem ouvir na Assembleia da República os responsáveis de entidades cuja área de acção abrange as questões migratórias.",
+      "source": "Público",
+      "date": "Wed, 08 Jul 2026 19:18:35 GMT",
+      "url": "https://www.publico.pt/2026/07/08/politica/noticia/psd-quer-ouvir-segunda-fase-exgovernantes-ps-dados-imigracao-ine-2181050",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "4ab25d7c",
+      "cat": "cultura",
+      "title": "João Ferreira sucede a Duarte Gomes como director técnico de arbitragem",
+      "summary": "O cargo ficou vago na sequência da demissão de Duarte Gomes, que levantou suspeitas na nomeação de árbitros.",
+      "source": "Público",
+      "date": "Wed, 08 Jul 2026 18:51:31 GMT",
+      "url": "https://www.publico.pt/2026/07/08/desporto/noticia/joao-ferreira-sucede-duarte-gomes-director-tecnico-arbitragem-2181048",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "282a0406",
+      "cat": "tecnologia",
+      "title": "O ministro imprudente reprovou nos exames",
+      "summary": "Alberto Gonçalves comenta a turbulência em curso na distribuição e a correção dos exames do ensino secundário, uma falha informática já detectada no ano passado e não corrigida entretanto",
       "source": "Observador",
-      "date": "Wed, 08 Jul 2026 13:26:24 +0100",
-      "url": "https://observador.pt/2026/07/08/deco-proteste-cabaz-alimentar-volta-a-subir-308-euros-para-25671-euros/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1254:705:nowe:0:65/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/02162958/istock-2195778780.jpg",
+      "date": "Wed, 08 Jul 2026 18:59:22 +0100",
+      "url": "https://observador.pt/programas/ideias-feitas/o-ministro-imprudente-reprovou-nos-exames/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/14123800/770-podcastideias-feitas.jpg",
       "score": 0.7
     },
     {
-      "id": "4b73fc5e",
-      "cat": "economia",
-      "title": "Proposta do Governo sobre reforma das heranças indivisas com consenso no Parlamento",
-      "summary": "O diploma do Governo, com alterações entretanto introduzidas pelo PSD, recebeu a abstenção do Chega e do Livre e, em algumas alíneas, também do PS, mas não houve votos contra.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 15:16:11 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/justica/detalhe/proposta-do-governo-sobre-reforma-das-herancas-indivisas-com-consenso-no-parlamento",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-14-38-30-526072.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "f2cccee7",
+      "id": "11af2b57",
       "cat": "tecnologia",
-      "title": "Consórcio da Mota-Engil perde segundo fornecedor de comboios para linha violeta",
-      "summary": "O fabricante polaco PESA, que tinha sido escolhido para substituir a chinesa CRRC, desistiu do contrato para fornecer 12 veículos para o metro ligeiro de superfície entre Loures e Odivelas, tendo agora o consócio da Mota-Engil de encontrar um novo fornecedor que encaixe no preço.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 15:13:54 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/consorcio-da-mota-engil-perde-segundo-fornecedor-de-comboios-para-linha-violeta",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-04/img_100x100uu2025-04-15-15-01-11-499592.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "title": "As notícias das 18h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Wed, 08 Jul 2026 18:46:23 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2090/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
