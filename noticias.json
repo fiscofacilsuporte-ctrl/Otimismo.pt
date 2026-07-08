@@ -1,5 +1,5 @@
 {
-  "last_update": "08/07/2026 08:40 UTC",
+  "last_update": "08/07/2026 14:32 UTC",
   "total": 30,
   "news": [
     {
@@ -25,17 +25,6 @@
       "score": 0.79
     },
     {
-      "id": "7c1c7389",
-      "cat": "tecnologia",
-      "title": "Pessoas cegas oferecem esperança de ver novamente depois que a descoberta das células-tronco refaz os vasos sanguíneos da retina",
-      "summary": "Pessoas cegas receberam uma nova esperança de ver novamente depois que células cultivadas em laboratório restauraram a função da retina em ratos. Quando injetadas em camundongos com doença retiniana, as células sanguíneas especiais da retina integram-se ao tecido danificado para regenerar os vasos sanguíneos e restaurar a função retiniana – inclusive em um",
-      "source": "Good News Network",
-      "date": "Mon, 06 Jul 2026 13:00:19 +0000",
-      "url": "https://www.goodnewsnetwork.org/blind-people-offered-hope-of-seeing-again-after-stem-cell-breakthrough-remakes-retinal-blood-vessels/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-mouses-retina-suffering-from-conditions-similar-to-diabetic-retinopathy-both-before-right-and-after-left-being-treated-with-human-lab-grown-retinal-endothelial-cells.jpg",
-      "score": 0.79
-    },
-    {
       "id": "1f2bd223",
       "cat": "ciencia",
       "title": "A IA acaba de turbinar a corrida para encontrar supercondutores à temperatura ambiente",
@@ -47,14 +36,14 @@
       "score": 0.79
     },
     {
-      "id": "f0d3cf5a",
-      "cat": "sociedade",
-      "title": "Devolução do IVA nos projetos PRR divide Governo e IPSS",
-      "summary": "“As Instituições Privadas de Solidariedade Social não estão a receber a devolução do IVA” dos projetos financiados pelo Plano de Recuperação e Resiliência. A denúncia taxativa é feita pelo presidente da União das Misericórdias Portuguesas, ao ECO. O Executivo de António Costa decidiu, em 2021, que t",
-      "source": "ECO",
-      "date": "Wed, 08 Jul 2026 06:03:17 +0000",
-      "url": "https://eco.sapo.pt/2026/07/08/devolucao-do-iva-nos-projetos-prr-divide-governo-e-ipss/",
-      "img": "https://eco.imgix.net/uploads/2023/12/cropped-24438980-scaled-1.jpg",
+      "id": "9658c277",
+      "cat": "tecnologia",
+      "title": "Seguro espera rápida resolução dos problemas e que confiança no sistema de avaliação de exames fique “intacta”",
+      "summary": "Presidente de República espera que, findo o processo de classificação, a “relação de confiança que existe com o sistema de avaliação continue intacta”. Tema será abordado com o primeiro-ministro.",
+      "source": "Público",
+      "date": "Wed, 08 Jul 2026 12:12:30 GMT",
+      "url": "https://www.publico.pt/2026/07/08/sociedade/noticia/seguro-espera-rapida-resolucao-problemas-confianca-sistema-avaliacao-exames-fique-intacta-2180974",
+      "img": null,
       "score": 0.76
     },
     {
@@ -69,6 +58,28 @@
       "score": 0.76
     },
     {
+      "id": "f5e43f6d",
+      "cat": "sociedade",
+      "title": "Boas novas na história, 7 de Julho",
+      "summary": "Há 36 anos, os Três Tenores se apresentaram ao vivo pela primeira vez nas Termas de Caracalla, em Roma. A gravação feita no show se tornou o álbum clássico mais vendido de todos os tempos, enquanto surpreendentes 800 milhões de pessoas em todo o mundo assistiram à transmissão ao vivo. Foi na véspera do",
+      "source": "Good News Network",
+      "date": "Tue, 07 Jul 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060707/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/07/Three_Tenors_Domingo_Carreras_conductor_Mehta_Pavarotti_-_1990.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "118e5244",
+      "cat": "tecnologia",
+      "title": "Recuperando o jogo. O que esperar da nova edição da revista Positive News",
+      "summary": "O editor Tom Pattinson apresenta a nova edição da revista Positive News, que já está disponível no post Reclaiming the Game. O que esperar da nova edição da revista Positive News apareceu primeiro no Positive News.",
+      "source": "Positive News",
+      "date": "Wed, 08 Jul 2026 10:03:04 +0000",
+      "url": "https://www.positive.news/society/media/what-to-expect-in-the-new-positive-news-magazine/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/07/PN126-tile-shot-master-5x3-main.jpeg",
+      "score": 0.76
+    },
+    {
       "id": "b2d27e2a",
       "cat": "tecnologia",
       "title": "Como a antiga arte de fazer velas está criando um futuro melhor para os refugiados",
@@ -77,17 +88,6 @@
       "date": "Tue, 07 Jul 2026 07:00:12 +0000",
       "url": "https://www.positive.news/economics/social-enterprise/refugee-candlemakers-rebuilding-lives-through-work/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/Maguno-working-2.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "bae80b52",
-      "cat": "tecnologia",
-      "title": "A companhia nacional de dança abre portas aos jovens intérpretes",
-      "summary": "Um programa nacional de dança juvenil está reunindo jovens de 16 a 24 anos de toda a Inglaterra para se apresentarem nos principais palcos. O post A companhia nacional de dança abrindo portas para jovens artistas apareceu primeiro em Notícias Positivas.",
-      "source": "Positive News",
-      "date": "Mon, 06 Jul 2026 05:00:00 +0000",
-      "url": "https://www.positive.news/lifestyle/arts/the-national-dance-company-opening-doors-for-young-performers/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/06/NYDC.EllyWelford-56.jpg",
       "score": 0.76
     },
     {
@@ -113,47 +113,69 @@
       "score": 0.76
     },
     {
-      "id": "4c005ca7",
-      "cat": "tecnologia",
-      "title": "Pensões brasileiras em Portugal: o direito que muitos desconhecem",
-      "summary": "Todo aposentado que receba pensão de segurança social pública brasileira deve declarar esse rendimento em Portugal, mas há um acordo que evita a dupla tributação. Opinião de Bruno Gutman",
+      "id": "25a1c000",
+      "cat": "sociedade",
+      "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
+      "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada em... O pos",
+      "source": "Reasons to be Cheerful",
+      "date": "Thu, 02 Jul 2026 08:00:08 +0000",
+      "url": "https://reasonstobecheerful.world/the-spark-wildlife-care/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/Shutterstock-El-Nariz-scaled.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "a19c471b",
+      "cat": "cultura",
+      "title": "Com investimento de 750 mil euros, MIMO Festival recebeu 50 mil pessoas em Guimarães",
+      "summary": "Festival criado pela brasileira Lu Araújo reuniu nomes como Fernanda Abreu e Alaíde Costa, além de artistas de 13 países diferentes. Forte calor foi um desafio para a organização do evento.",
       "source": "Público",
-      "date": "Wed, 08 Jul 2026 07:16:30 GMT",
-      "url": "https://www.publico.pt/2026/07/08/publico-brasil/opiniao/pensoes-brasileiras-portugal-direito-desconhecem-2180945",
+      "date": "Wed, 08 Jul 2026 13:23:12 GMT",
+      "url": "https://www.publico.pt/2026/07/08/publico-brasil/noticia/investimento-750-mil-euros-mimo-festival-recebeu-50-mil-pessoas-guimaraes-2180978",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "614e2fa4",
-      "cat": "tecnologia",
-      "title": "Ex-combatentes saúdam “vitória” no passe gratuito, mas pedem revisão de apoios sociais",
-      "summary": "Os deputados da Comissão de Defesa Nacional discutem e votam propostas para alargar a gratuitidade dos passes a todo o país. A Liga dos Combatentes saúda medidas, mas pede revisão de apoios sociais.",
+      "id": "3072339b",
+      "cat": "ciencia",
+      "title": "El Niño forte + aquecimento global: estamos a viver uma combinação inédita",
+      "summary": "Programa europeu Copérnico afirma que os modelos científicos apontam para um “cenário climático extremo” . Será “uma surpresa muito grande” se não houver recordes de temperatura.",
       "source": "Público",
-      "date": "Wed, 08 Jul 2026 06:01:00 GMT",
-      "url": "https://www.publico.pt/2026/07/08/politica/noticia/excombatentes-saudam-vitoria-passe-gratuito-pedem-revisao-apoios-sociais-2180905",
+      "date": "Wed, 08 Jul 2026 12:10:05 GMT",
+      "url": "https://www.publico.pt/2026/07/08/azul/noticia/el-nino-forte-aquecimento-global-viver-combinacao-inedita-2180968",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "039285e0",
+      "id": "5f7032de",
       "cat": "tecnologia",
-      "title": "Rede de casinos online ilegais usa empresa da Madeira para promover, e tornar opaco, o seu negócio",
-      "summary": "Investigação revela como a Soft2Bet tem ligações a mais de uma centena de sites de jogo não licenciados na Europa — e como uma empresa sediada na Zona Franca da Madeira recebeu quase 650 mil euros.",
-      "source": "Público",
-      "date": "Wed, 08 Jul 2026 05:32:00 GMT",
-      "url": "https://www.publico.pt/2026/07/08/sociedade/noticia/rede-casinos-online-ilegais-usa-empresa-madeira-promover-tornar-opaco-negocio-2180745",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "5b8ee03a",
-      "cat": "tecnologia",
-      "title": "Teatro Variedades celebra 100 anos, com visitas e atividades",
-      "summary": "Cláudia Pascoal recria seis canções em programa especial de celebração do centenário do Teatro Variedades. Pelas 19h15, a fachada do teatro acolhe o espetáculo de dança vertical.",
+      "title": "Fenprof: Ministro não tem condições para continuar no cargo",
+      "summary": "Os secretários-gerais da Fenprof entendem que as posições \"erráticas\" de Fernando Alexandre sobre a correção dos exames devem levar à demissão do ministro. \"Não há uma boa solução\", dizem.",
       "source": "Observador",
-      "date": "Wed, 08 Jul 2026 08:24:34 +0100",
-      "url": "https://observador.pt/2026/07/08/teatro-variedades-celebra-100-anos-com-visitas-exposicao-teatro-e-cinema/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/15123019/45619693.jpg",
+      "date": "Wed, 08 Jul 2026 13:20:12 +0100",
+      "url": "https://observador.pt/2026/07/08/fenprof-acusa-ministro-da-educacao-de-amadorismo-e-entende-que-nao-tem-condicoes-politicas-para-se-manter-no-cargo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1760:988:nowe:240:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/08114829/47428362.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "6c37f955",
+      "cat": "tecnologia",
+      "title": "Força Aérea fez mais 760 km para levar Montenegro a Ancara",
+      "summary": "Depois de assistir ao jogo da seleção, o primeiro-ministro voou para a Turquia, onde decorre a Cimeira da NATO. Em Istambul, Montenegro embarcou no Falcon 900 da Força Aérea, que o levou até Ancara.",
+      "source": "Observador",
+      "date": "Wed, 08 Jul 2026 12:25:37 +0100",
+      "url": "https://observador.pt/2026/07/08/aviao-da-forca-aerea-fez-760-quilometros-extra-para-transportar-luis-montenegro-apos-regressar-do-mundial/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:63/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/04/03190545/fa-faerea-falcon900b.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ce8d43a7",
+      "cat": "tecnologia",
+      "title": "JB Capital mais otimista para Galp. AlphaValue em sentido contrário mas ambas sobem \"target\"",
+      "summary": "A empresa ibérica de serviços financeiros espera que a petrolífera continue a valorizar nos próximos 12 meses, enquanto os franceses da AlphaValue estão pessimistas. A JB Capital também analisa as ações dos CTT e antecipa uma recuperação.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 08 Jul 2026 14:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/jb-capital-mais-otimista-para-galp-alphavalue-em-sentido-contrario-mas-ambas-sobem-target",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-30-15-00-13-517651.jpg",
       "score": 0.73
     },
     {
@@ -168,25 +190,36 @@
       "score": 0.73
     },
     {
-      "id": "00523a29",
+      "id": "4dd5b940",
       "cat": "tecnologia",
-      "title": "Montenegro espera que interesses nacionais de segurança marítima sejam “acautelados”",
-      "summary": "O primeiro-ministro, Luís Montenegro, realçou esta quarta-feira que Portugal está numa &#8220;trajetória de cumprimento&#8221; dos objetivos assumidos na NATO, esperando que os seus interesses no âmbito da &#8220;segurança marítima&#8221; do Atlântico sejam acautelados pelos restantes aliados. &#822",
+      "title": "SIC garante transmissão de jogo do Benfica para a Liga Europa",
+      "summary": "A SIC assegurou os direitos de transmissão do encontro entre o Sport Lisboa e Benfica e o FC St. Gallen, da segunda mão da segunda pré-eliminatória da UEFA Europa League. No próximo 30 de julho, às 20h00, os portugueses vão poder acompanhar aquele que o canal afirma ser &#8220;o primeiro jogo decisi",
       "source": "ECO",
-      "date": "Wed, 08 Jul 2026 08:08:39 +0000",
-      "url": "https://eco.sapo.pt/2026/07/08/montenegro-espera-que-interesses-nacionais-de-seguranca-maritima-sejam-acautelados/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47427568-scaled-1.jpg",
+      "date": "Wed, 08 Jul 2026 14:21:41 +0000",
+      "url": "https://eco.sapo.pt/2026/07/08/sic-garante-transmissao-de-jogo-do-benfica-para-a-liga-europa/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47083910-scaled-3.jpg",
       "score": 0.73
     },
     {
-      "id": "0addb3cc",
+      "id": "774fb024",
       "cat": "tecnologia",
-      "title": "Cimeira NATO. Chuva de anúncios e mais de 50 mil milhões em contratos de defesa",
-      "summary": "Mark Rutte tinha prometido que a cimeira NATO em Ancara seria rica em anúncios de contratos para a indústria de defesa dos dois lados do Atlântico e o arranque do Fórum Industrial de Defesa na Turquia cumpriu. Tudo somado são mais de 50 mil milhões de dólares de investimento dos aliados NATO em proj",
+      "title": "Luís Montenegro estima que Portugal atinja 3,1% do PIB em defesa já em 2026",
+      "summary": "Portugal vai atingir já este ano 3,1% do Produto Interno Bruto (PIB) em investimento na defesa, anunciou Luís Montenegro, na cimeira da NATO em Ancara. O país vai ainda reforçar o apoio à Ucrânia através do programa PURL (Prioritised Ukraine Requirements List) com um &#8220;montante que andará a vol",
       "source": "ECO",
-      "date": "Wed, 08 Jul 2026 06:03:00 +0000",
-      "url": "https://eco.sapo.pt/especiais/cimeira-nato-chuva-de-anuncios-e-mais-de-50-mil-milhoes-em-contratos-de-defesa/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-nato-ancara-4-scaled-1.jpg",
+      "date": "Wed, 08 Jul 2026 14:04:56 +0000",
+      "url": "https://eco.sapo.pt/2026/07/08/luis-montenegro-estima-que-portugal-atinja-31-do-pib-em-defesa-ja-em-2026/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47428043-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d634f514",
+      "cat": "tecnologia",
+      "title": "CMS Portugal assessora Atlas Copco Group na compra da LusoAr",
+      "summary": "A CMS Portugal assessorou o Atlas Copco Group na aquisição da LusoAr, empresa portuguesa especializada no fornecimento de compressores de ar, sistemas de tratamento de ar, instalações de ar comprimido e serviços de assistência a indústrias de grande e média dimensão da região do Porto. A equipa da C",
+      "source": "ECO",
+      "date": "Wed, 08 Jul 2026 14:03:57 +0000",
+      "url": "https://eco.sapo.pt/2026/07/08/cms-portugal-assessora-atlas-copco-group-na-compra-da-lusoar/",
+      "img": "https://eco.imgix.net/uploads/2023/12/tiago-valente-de-oliveira_cms.jpg",
       "score": 0.73
     },
     {
@@ -204,7 +237,7 @@
       "id": "e9d8b7b0",
       "cat": "tecnologia",
       "title": "Dois testes que os médicos de clínica geral poderão oferecer em breve para ajudar a detectar a endometriose",
-      "summary": "Os especialistas esperam que isso mude o jogo e reduza as esperas de diagnóstico de nove anos ou mais que os pacientes podem enfrentar atualmente.",
+      "summary": "Os especialistas esperam que isso mude o jogo e reduza a espera de diagnóstico de nove anos ou mais que os pacientes podem enfrentar atualmente.",
       "source": "BBC News",
       "date": "Tue, 07 Jul 2026 09:16:09 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo?at_medium=RSS&at_campaign=rss",
@@ -223,58 +256,58 @@
       "score": 0.73
     },
     {
-      "id": "aa56b006",
+      "id": "41473a4a",
+      "cat": "sociedade",
+      "title": "Nele para o longo prazo",
+      "summary": "Enquanto os Estados Unidos celebram o seu 250º aniversário neste fim de semana, muitos dos seus residentes podem sentir o grande elefante ideologicamente dividido na sala. Mas embora o país tenha em conta a sua identidade nacional, a nível local, os americanos continuam a unir-se de formas que transcendem a política, como acontece com o país.",
+      "source": "Reasons to be Cheerful",
+      "date": "Fri, 03 Jul 2026 08:00:24 +0000",
+      "url": "https://reasonstobecheerful.world/americas-250th-birthday-reader-responses/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2227481145-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "b00cdc4c",
       "cat": "tecnologia",
-      "title": "Exames: o digital tramou o ministro?",
-      "summary": "Os exames nacionais do 11º e do 12º foram digitalizados, mas o sistema informático que permite a correcção tem falhado sistematicamente. O Ministério da Educação adiou exames e a divulgação das notas.",
+      "title": "O que estamos lendo: como consertar a bagunça do espelho d'água - naturalmente",
+      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Não é fácil ser verde A saga do Lincoln Memorial Reflecting Pool, cheio de algas, continua, com o",
+      "source": "Reasons to be Cheerful",
+      "date": "Wed, 01 Jul 2026 08:00:28 +0000",
+      "url": "https://reasonstobecheerful.world/what-were-reading-reflecting-pool-natural-solutions/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/shutterstock_2798368341-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "aff9c714",
+      "cat": "tecnologia",
+      "title": "Cabaz alimentar volta a subir 3,08 euros para 256,71 euros",
+      "summary": "Brócolos (+13%), tomate chucha (+12%) e farinha para bolos (+9%) lideram as subidas semanais. Robalo, couve-coração e cebola estão no topo das anuais. Face a 2022, cabaz já custa mais 69 euros.",
       "source": "Observador",
-      "date": "Wed, 08 Jul 2026 08:35:43 +0100",
-      "url": "https://observador.pt/programas/contra-corrente/exames-o-digital-tramou-o-ministro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
+      "date": "Wed, 08 Jul 2026 13:26:24 +0100",
+      "url": "https://observador.pt/2026/07/08/deco-proteste-cabaz-alimentar-volta-a-subir-308-euros-para-25671-euros/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1254:705:nowe:0:65/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/02162958/istock-2195778780.jpg",
       "score": 0.7
     },
     {
-      "id": "9936e9e0",
-      "cat": "tecnologia",
-      "title": "Transações suspeitas nos casinos de Macau sobem 8,7%",
-      "summary": "Ministério Público de Taiwan acusou 10 pessoas de usarem casinos de Macau para branquear 33 mil milhões de dólares taiwaneses. O GIF recebeu 2.753 participações, entre janeiro e junho.",
-      "source": "Observador",
-      "date": "Wed, 08 Jul 2026 08:22:51 +0100",
-      "url": "https://observador.pt/2026/07/08/transacoes-suspeitas-nos-casinos-da-capital-mundial-do-jogo-sobem-87/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/09/10072208/28160466.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "9e7a07c9",
-      "cat": "tecnologia",
-      "title": "Portugal está no “top 10” das vendas internacionais da dona da Avène",
-      "summary": "CEO dos Laboratoires Pierre Fabre diz que Portugal desempenha um papel de relevo para a gigante francesa. Além de entregar vendas que rondam 130 milhões de euros, acolhe um “hub” de serviços de IT e emerge como um mercado “essencial” para ensaios clínicos.",
+      "id": "4b73fc5e",
+      "cat": "economia",
+      "title": "Proposta do Governo sobre reforma das heranças indivisas com consenso no Parlamento",
+      "summary": "O diploma do Governo, com alterações entretanto introduzidas pelo PSD, recebeu a abstenção do Chega e do Livre e, em algumas alíneas, também do PS, mas não houve votos contra.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 09:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/portugal-esta-no-top-10-das-vendas-internacionais-da-dona-da-avene",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-07-21-52-45-526221.jpg",
+      "date": "Wed, 08 Jul 2026 15:16:11 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/justica/detalhe/proposta-do-governo-sobre-reforma-das-herancas-indivisas-com-consenso-no-parlamento",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-14-38-30-526072.jpg",
       "score": 0.7
     },
     {
-      "id": "fcd37f67",
+      "id": "f2cccee7",
       "cat": "tecnologia",
-      "title": "Quem é que inventou a alegria no trabalho?",
-      "summary": "Quanto mais iludidos, maior a probabilidade de se tornar uma fonte de frustração, confusão e desilusão.",
+      "title": "Consórcio da Mota-Engil perde segundo fornecedor de comboios para linha violeta",
+      "summary": "O fabricante polaco PESA, que tinha sido escolhido para substituir a chinesa CRRC, desistiu do contrato para fornecer 12 veículos para o metro ligeiro de superfície entre Loures e Odivelas, tendo agora o consócio da Mota-Engil de encontrar um novo fornecedor que encaixe no preço.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 09:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/isabel-stilwell/detalhe/quem-e-que-inventou-a-alegria-no-trabalho",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-20-00-296222.png",
-      "score": 0.7
-    },
-    {
-      "id": "f945e986",
-      "cat": "tecnologia",
-      "title": "Via Verde inicia cobrança de portagens de pesados por quilómetro nos Países Baixos",
-      "summary": "A Via Verde está presente nos Países Baixos desde que em dezembro de 2024 iniciou a cobrança eletrónica de portagens na A24/Blankenburgverbinding.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 09:04:02 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/via-verde-inicia-cobranca-de-portagens-de-pesados-por-quilometro-nos-paises-baixos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-08-09-03-39-526240.jpg",
+      "date": "Wed, 08 Jul 2026 15:13:54 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/consorcio-da-mota-engil-perde-segundo-fornecedor-de-comboios-para-linha-violeta",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-04/img_100x100uu2025-04-15-15-01-11-499592.jpg",
       "score": 0.7
     },
     {
@@ -297,39 +330,6 @@
       "date": "Tue, 09 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "7c626ce4",
-      "cat": "tecnologia",
-      "title": "Pedro Proença admite que Mundial ficou \"muito aquém\" e quer novo selecionador até final da semana",
-      "summary": "O presidente da Federação Portuguesa de Futebol falou aos jornalistas na chegada da seleção a Lisboa depois de ter sido afastada do campeonato do mundo. Assumiu que a prestação ficou &quot;muito aquém do que queríamos&quot;. Pedro Proença garante que hoje mesmo vai começar a tratar do novo seleciona",
-      "source": "RTP",
-      "date": "Wed, 08 Jul 2026 07:53:59 +0100",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/pedro-proenca-admite-que-mundial-ficou-muito-aquem-e-quer-novo-selecionador-ate-final-da-semana_d1752003",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/81/8168a2e2462dcb8dead7f7b29643bc44?w=350&amp;q=50&amp;rect=0,88,1500,822&amp;auto=format",
-      "score": 0.7
-    },
-    {
-      "id": "bd11e641",
-      "cat": "tecnologia",
-      "title": "Djokovic marca encontro com Sinner nas meias-finais de Wimbledon",
-      "summary": "O sérvio Novak Djokovic saiu vencedor do mais longo duelo dos quartos de final da história de Wimbledon e marcou encontro com o líder do ranking mundial, o italiano Jannik Sinner, na sua oitava meia-final seguida.",
-      "source": "RTP",
-      "date": "Wed, 08 Jul 2026 01:33:21 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/djokovic-marca-encontro-com-sinner-nas-meias-finais-de-wimbledon_d1751990",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/66/66698760438510bcb5257a430df4a418?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.7
-    },
-    {
-      "id": "660e1260",
-      "cat": "tecnologia",
-      "title": "Farioli quer manter Diogo Costa no FC Porto e aguarda reforços para 2026/27",
-      "summary": "O treinador do FC Porto, Francesco Farioli, manifestou a vontade de manter Diogo Costa na equipa para a temporada futebolística 2026/27, após o guarda-redes ter sido destaque da seleção portuguesa no Mundial2026.",
-      "source": "RTP",
-      "date": "Tue, 07 Jul 2026 20:38:21 +0100",
-      "url": "https://www.rtp.pt/noticias/fc-porto/farioli-quer-manter-diogo-costa-no-fc-porto-e-aguarda-reforcos-para-202627_d1751924",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f7/f7b640220f87128776ffb7cf75d910d5?w=350&amp;q=50&amp;rect=0,48,1233,676&amp;auto=format",
       "score": 0.7
     }
   ]
