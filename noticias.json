@@ -1,5 +1,5 @@
 {
-  "last_update": "08/07/2026 19:45 UTC",
+  "last_update": "09/07/2026 03:59 UTC",
   "total": 30,
   "news": [
     {
@@ -36,15 +36,15 @@
       "score": 0.79
     },
     {
-      "id": "1f2bd223",
-      "cat": "ciencia",
-      "title": "A IA acaba de turbinar a corrida para encontrar supercondutores à temperatura ambiente",
-      "summary": "Os cientistas combinaram o aprendizado de máquina com a física quântica para descobrir dois novos supercondutores e criar uma maneira muito mais rápida de procurar muitos mais. A técnica pode aproximar significativamente os pesquisadores do objetivo há muito almejado de um supercondutor à temperatura ambiente.",
-      "source": "ScienceDaily",
-      "date": "Tue, 07 Jul 2026 01:39:51 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
-      "img": "https://www.sciencedaily.com/images/1920/kagome-lattice-superconductivity.webp",
-      "score": 0.79
+      "id": "24d6c089",
+      "cat": "cultura",
+      "title": "Julie , a elefanta, chegou ao sítio onde a esperavam",
+      "summary": "Julie é o último elefante de circo em Portugal. Atuou durante cerca de 40 anos. Mas está agora a salvo no primeiro grande santuário europeu para elefantes, no Alentejo. Opinião de Sandra Duarte Cardoso",
+      "source": "Público",
+      "date": "Wed, 08 Jul 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/07/09/opiniao/opiniao/julie-elefanta-chegou-sitio-onde-esperavam-2180929",
+      "img": null,
+      "score": 0.76
     },
     {
       "id": "fb57ca96",
@@ -80,6 +80,28 @@
       "score": 0.76
     },
     {
+      "id": "d7740a80",
+      "cat": "ciencia",
+      "title": "A vacina MenB não oferece proteção aos homens contra a gonorreia, afirma um grande estudo",
+      "summary": "A vacina contra a meningite B não previne infecções por gonorreia, apesar de ser oferecida a homens em risco, dizem os cientistas.",
+      "source": "BBC News",
+      "date": "Wed, 08 Jul 2026 21:06:53 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/crel4yyxwd1o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefb/live/ad332400-7ae7-11f1-9a9c-53fd8f110370.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "56e60453",
+      "cat": "ciencia",
+      "title": "Raro tubarão-duende filmado vivo pela primeira vez no fundo do mar",
+      "summary": "Pela primeira vez, os pesquisadores filmaram o esquivo tubarão-duende vivo nas profundezas do oceano, onde vive naturalmente. Os avistamentos notáveis ​​expandem enormemente o alcance e a profundidade conhecidos do tubarão, mostrando que este “fóssil vivo” de 125 milhões de anos ainda tem muitos segredos para revelar.",
+      "source": "ScienceDaily",
+      "date": "Wed, 08 Jul 2026 19:00:05 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
+      "img": "https://www.sciencedaily.com/images/1920/goblin-shark-near-tonga-trench.webp",
+      "score": 0.76
+    },
+    {
       "id": "2b0fe167",
       "cat": "ciencia",
       "title": "Hubble da NASA detecta um diamante estelar para o 4 de Julho",
@@ -88,17 +110,6 @@
       "date": "Sun, 05 Jul 2026 00:10:58 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
       "img": "https://www.sciencedaily.com/images/1920/hubble-ngc-6426-july-4.webp",
-      "score": 0.76
-    },
-    {
-      "id": "eb1c1105",
-      "cat": "ciencia",
-      "title": "Cientistas descobrem uma maneira completamente diferente de combater vírus",
-      "summary": "Os pesquisadores descobriram um sistema de defesa antiviral inesperado nas anêmonas do mar que funciona de maneira muito diferente daquele usado pelos humanos. A descoberta sugere que a evolução desenvolveu múltiplas formas de combater os vírus, desafiando ideias de longa data sobre como o sistema imunitário dos animais evoluiu.",
-      "source": "ScienceDaily",
-      "date": "Tue, 30 Jun 2026 16:18:00 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
-      "img": "https://www.sciencedaily.com/images/1920/nematostella-vectensis-sea-anemone.webp",
       "score": 0.76
     },
     {
@@ -113,58 +124,36 @@
       "score": 0.76
     },
     {
-      "id": "04552554",
+      "id": "e6cdd5bf",
       "cat": "tecnologia",
-      "title": "George Washington , de Jon Erwin: sensaboria antes da revolução",
-      "summary": "Tudo é plano e linear nesta crónica do tempo em que George Washington era apenas um jovem oficial do exército britânico.",
-      "source": "Público",
-      "date": "Wed, 08 Jul 2026 19:14:13 GMT",
-      "url": "https://www.publico.pt/2026/07/08/culturaipsilon/critica/george-washington-jon-erwin-sensaboria-revolucao-2180899",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "333978af",
-      "cat": "cultura",
-      "title": "Novas regras para passageiros nos voos. \"Acordo não é per...",
-      "summary": "O Parlamento Europeu aprovou novas regras de proteção aos passageiros. O eurodeputado Sérgio Humberto fala da mochila grátis, o fim de taxas surpresa e o direito ao bilhete em papel a partir de 2027.",
+      "title": "2h. Chega apresentou alterações à lei das burcas",
+      "summary": "O partido de André Ventura diz ter garantias de aprovação do PSD. Ainda, o ministro da Educação afasta preocupações com a correção dos exames nacionais.",
       "source": "Observador",
-      "date": "Wed, 08 Jul 2026 18:52:51 +0100",
-      "url": "https://observador.pt/programas/explicador/novas-regras-para-passageiros-nos-voos-acordo-nao-e-perfeito-mas-e-historico/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
+      "date": "Thu, 09 Jul 2026 02:14:39 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2345/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "66756831",
+      "id": "b5211c2a",
       "cat": "tecnologia",
-      "title": "Airbus entregou 351 aviões a 77 clientes no primeiro semestre",
-      "summary": "No conjunto do ano passado, a empresa entregou 793 aviões, um aumento de 4% face ao ano anterior.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 20:22:22 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/airbus-entregou-351-avioes-a-77-clientes-no-primeiro-semestre",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-01-14-24-04-513883.jpg",
+      "title": "1h. Mais de mil pessoas em protesto em Almada",
+      "summary": "Os moradores criticam a degradação da rede de abastecimento e acusam o município de falta de investimento. Ainda, Os EUA estão a atacar o Irão pela segunda noite consecutiva.",
+      "source": "Observador",
+      "date": "Thu, 09 Jul 2026 01:13:21 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2318/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "f33ded11",
-      "cat": "tecnologia",
-      "title": "EDP suspende processo de denúncia do Acordo Coletivo de Trabalho até 31 de outubro",
-      "summary": "Para o sindicato, a decisão da suspensão \"permite que a negociação prossiga fora do quadro de pressão criado pela ameaça de caducidade do ACT\".",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 20:19:31 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/edp-suspende-processo-de-denuncia-do-acordo-coletivo-de-trabalho-ate-31-de-outubro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-01/img_100x100uu2024-01-25-08-08-58-468986.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "69b4d761",
-      "cat": "economia",
-      "title": "Fim do acordo de cessar-fogo atira Europa para quedas expressivas. Petróleo dispara",
-      "summary": "Acompanhe, ao minuto, a evolução dos mercados nesta quarta-feira.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 17:48:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/novos-ataques-no-medio-oriente-pintam-asia-de-vermelho-kospi-aproxima-se-de-bear-market",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-01-15-51-23-508427.jpg",
+      "id": "51187f8d",
+      "cat": "ciencia",
+      "title": "Um Prémio Nobel para pensar Portugal",
+      "summary": "Sobre o estudo encomendado ao Prémio Nobel da Economia de 2024, James A. Robinson, acompanhado pelo economista português Nuno Palma.",
+      "source": "Observador",
+      "date": "Thu, 09 Jul 2026 00:15:22 +0100",
+      "url": "https://observador.pt/opiniao/um-premio-nobel-para-pensar-portugal/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A466%3Anowe%3A8%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F05%2F08160758%2Fbb-foto.jpg",
       "score": 0.73
     },
     {
@@ -190,14 +179,14 @@
       "score": 0.73
     },
     {
-      "id": "00b732a4",
-      "cat": "tecnologia",
-      "title": "Mundial2026. FIFA rejeita recurso da França e mantém cartão amarelo a Michael Olise",
-      "summary": "A FIFA manteve o cartão amarelo mostrado ao futebolista Michael Olise na vitória da França frente ao Paraguai (1-0), nos oitavos de final do Mundial2026, rejeitando um recurso da federação gaulesa, anunciou o selecionador Didier Deschamps.",
-      "source": "RTP",
-      "date": "Wed, 08 Jul 2026 19:08:22 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-fifa-rejeita-recurso-da-franca-e-mantem-cartao-amarelo-a-michael-olise_d1752148",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f1/f121773acf529a156416eab35aec4c37?w=350&amp;q=50&amp;rect=0,47,1129,619&amp;auto=format",
+      "id": "9c87cdf3",
+      "cat": "cultura",
+      "title": "Trump cumpre ameaça. EUA atacam Irão pela segunda noite consecutiva",
+      "summary": "Os Estados Unidos estão a atacar novamente o Irão esta quarta-feira à noite, anunciou o Comando Central dos Estados Unidos (CENTCOM), poucas horas depois de o Presidente norte-americano, Donald Trump, ter declarado que o acordo de cessar-fogo &#8220;acabou&#8221; durante a cimeira da NATO na capital",
+      "source": "ECO",
+      "date": "Wed, 08 Jul 2026 20:26:14 +0000",
+      "url": "https://eco.sapo.pt/2026/07/08/trump-cumpre-ameaca-eua-atacam-irao-pela-segunda-noite-consecutiva/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc202606044723254113015965.jpg",
       "score": 0.73
     },
     {
@@ -223,17 +212,6 @@
       "score": 0.73
     },
     {
-      "id": "2ba07aaf",
-      "cat": "tecnologia",
-      "title": "EDP suspende denúncia do Acordo Coletivo de Trabalho até 31 de outubro",
-      "summary": "A EDP decidiu suspender o processo de denúncia do Acordo Coletivo de Trabalho (ACT) até 31 de outubro, indicou esta quarta-feira o Sindicato Nacional da Indústria e da Energia (Sindel), afeto à UGT, em comunicado. &#8220;O Sindel informa que, na sequência da reunião realizada no Conselho Económico e",
-      "source": "ECO",
-      "date": "Wed, 08 Jul 2026 19:14:02 +0000",
-      "url": "https://eco.sapo.pt/2026/07/08/edp-suspende-denuncia-do-acordo-coletivo-de-trabalho-ate-31-de-outubro/",
-      "img": "https://eco.imgix.net/uploads/2024/12/cropped-doc-20221104-39776968-10285888.jpg",
-      "score": 0.73
-    },
-    {
       "id": "1497538c",
       "cat": "ciencia",
       "title": "Este plano de ação 'ambicioso' de plantio de árvores é a primeira vez para a NI",
@@ -245,25 +223,25 @@
       "score": 0.73
     },
     {
-      "id": "e9d8b7b0",
-      "cat": "tecnologia",
-      "title": "Dois testes que os médicos de clínica geral poderão oferecer em breve para ajudar a detectar a endometriose",
-      "summary": "Os especialistas esperam que isso mude o jogo e reduza as esperas de diagnóstico de nove anos ou mais que os pacientes podem enfrentar atualmente.",
+      "id": "68412270",
+      "cat": "saude",
+      "title": "Crianças continuam morrendo em um país que fez enormes progressos no combate ao sarampo",
+      "summary": "Mais de 120 mil casos suspeitos e confirmados de sarampo foram notificados em Bangladesh, onde os hospitais estão sobrecarregados.",
       "source": "BBC News",
-      "date": "Tue, 07 Jul 2026 09:16:09 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd6/live/77afef50-79e0-11f1-a400-b302bc872d47.jpg",
+      "date": "Wed, 08 Jul 2026 22:03:05 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/6fd73af0-7a98-11f1-bee8-53ce494e1abc.png",
       "score": 0.73
     },
     {
-      "id": "26608e0f",
+      "id": "3349dccd",
       "cat": "ciencia",
-      "title": "Com que frequência você se levanta da sua mesa?",
-      "summary": "Um estudo descobriu que mesmo uma caminhada de cinco minutos melhora o seu humor e reduz a fadiga.",
-      "source": "BBC News",
-      "date": "Mon, 06 Jul 2026 15:32:59 GMT",
-      "url": "https://www.bbc.co.uk/news/videos/cy8www7pv5wo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613b/live/034612d0-794e-11f1-b976-0b9c15b0ccfc.jpg",
+      "title": "Cientistas usaram IA para desvendar um dos maiores mistérios da água",
+      "summary": "O comportamento estranho da água torna-se ainda mais dramático quando ela é super-resfriada, mas os cientistas têm lutado para comparar as muitas maneiras diferentes de descrever a sua estrutura microscópica. Pesquisadores da Universidade de Osaka usaram um modelo de IA treinado em simulações de computador para avaliar 16 estruturas diferentes",
+      "source": "ScienceDaily",
+      "date": "Wed, 08 Jul 2026 18:31:30 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "img": "https://www.sciencedaily.com/images/1920/ai-decodes-water.webp",
       "score": 0.73
     },
     {
@@ -289,47 +267,69 @@
       "score": 0.73
     },
     {
-      "id": "9834ed4b",
+      "id": "ae97b230",
       "cat": "tecnologia",
-      "title": "PSD quer ouvir numa segunda fase ex-governantes PS sobre dados da imigração do INE",
-      "summary": "Numa primeira fase, os deputados do PSD querem ouvir na Assembleia da República os responsáveis de entidades cuja área de acção abrange as questões migratórias.",
+      "title": "Os agrafos dos exames e outros agrafos da política",
+      "summary": "Organizar uma operação com cinco mil polícias para recolher e transportar 300 mil provas de alunos de todo o país para um armazém da capital parece uma anedota na era da inteligência artificial. Opinião de Manuel Carvalho",
       "source": "Público",
-      "date": "Wed, 08 Jul 2026 19:18:35 GMT",
-      "url": "https://www.publico.pt/2026/07/08/politica/noticia/psd-quer-ouvir-segunda-fase-exgovernantes-ps-dados-imigracao-ine-2181050",
+      "date": "Wed, 08 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/09/opiniao/opiniao/agrafos-exames-agrafos-politica-2181037",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "4ab25d7c",
-      "cat": "cultura",
-      "title": "João Ferreira sucede a Duarte Gomes como director técnico de arbitragem",
-      "summary": "O cargo ficou vago na sequência da demissão de Duarte Gomes, que levantou suspeitas na nomeação de árbitros.",
+      "id": "c8d5f7ed",
+      "cat": "tecnologia",
+      "title": "O Amílcar não vai à bola",
+      "summary": "“Marchamos juntos”, sim, como dizia o Amílcar Cabral, mas continuamos a ter de lutar contra o colonialismo. A bola não suspende a independência. Cabo Verde não é Portugal. Viva Cabo Verde! Opinião de Luísa Semedo",
       "source": "Público",
-      "date": "Wed, 08 Jul 2026 18:51:31 GMT",
-      "url": "https://www.publico.pt/2026/07/08/desporto/noticia/joao-ferreira-sucede-duarte-gomes-director-tecnico-arbitragem-2181048",
+      "date": "Wed, 08 Jul 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/07/09/opiniao/opiniao/amilcar-nao-vai-bola-2181040",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "282a0406",
+      "id": "b699c93b",
       "cat": "tecnologia",
-      "title": "O ministro imprudente reprovou nos exames",
-      "summary": "Alberto Gonçalves comenta a turbulência em curso na distribuição e a correção dos exames do ensino secundário, uma falha informática já detectada no ano passado e não corrigida entretanto",
-      "source": "Observador",
-      "date": "Wed, 08 Jul 2026 18:59:22 +0100",
-      "url": "https://observador.pt/programas/ideias-feitas/o-ministro-imprudente-reprovou-nos-exames/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/14123800/770-podcastideias-feitas.jpg",
+      "title": "Nove das 15 concessões portuárias estarão a concurso até final de 2027",
+      "summary": "Os concursos para a maioria das novas concessões previstas no plano Portos 5+ vão avançar no próximo ano e meio. Entre eles, contam-se o terminal Vasco da Gama, em Sines, e o terminal de contentores Norte, em Leixões.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 08 Jul 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/nove-das-15-concessoes-portuarias-estarao-a-concurso-ate-final-de-2027",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-04/img_100x100uu2023-04-12-18-39-13-450624.jpg",
       "score": 0.7
     },
     {
-      "id": "11af2b57",
+      "id": "64dfbae0",
       "cat": "tecnologia",
-      "title": "As notícias das 18h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Wed, 08 Jul 2026 18:46:23 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-18h-2090/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Ligamos as campainhas?",
+      "summary": "Na Europa, a pressão sobre a dívida pública é por demais evidente, com França à cabeça, mas não esquecendo a Alemanha ou Itália.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 08 Jul 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/ligamos-as-campainhas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
+      "score": 0.7
+    },
+    {
+      "id": "e470947b",
+      "cat": "sociedade",
+      "title": "A Educação é um caso perdido",
+      "summary": "A Educação e a Saúde são dois dos antros da administração pública com mais lóbis. Desde grupos de interesse (veja-se a “Missão Escola Pública”), até sindicatos (principalmente aqueles ligados à CGTP), tudo manda no Ministério. Com um objetivo: barrar qualquer mudança.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 08 Jul 2026 21:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/a-educacao-e-um-caso-perdido",
+      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-16-00-296266.png",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
