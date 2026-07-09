@@ -1,18 +1,7 @@
 {
-  "last_update": "09/07/2026 03:59 UTC",
+  "last_update": "09/07/2026 09:53 UTC",
   "total": 30,
   "news": [
-    {
-      "id": "abe9c183",
-      "cat": "saude",
-      "title": "O que deu certo esta semana: um marco médico ‘incrível’ e muito mais",
-      "summary": "Uma vacina “quase eliminou” um tipo de câncer, a economia verde cresceu e a Índia reduziu pela metade a taxa de tabagismo, e mais",
-      "source": "Positive News",
-      "date": "Fri, 26 Jun 2026 05:00:24 +0000",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-26-of-2026/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/06/iStock-1217809699-2-e1782404535426.jpeg",
-      "score": 0.82
-    },
     {
       "id": "a0697e10",
       "cat": "ciencia",
@@ -36,14 +25,36 @@
       "score": 0.79
     },
     {
-      "id": "24d6c089",
-      "cat": "cultura",
-      "title": "Julie , a elefanta, chegou ao sítio onde a esperavam",
-      "summary": "Julie é o último elefante de circo em Portugal. Atuou durante cerca de 40 anos. Mas está agora a salvo no primeiro grande santuário europeu para elefantes, no Alentejo. Opinião de Sandra Duarte Cardoso",
+      "id": "902c70d0",
+      "cat": "ciencia",
+      "title": "Cientistas de Harvard transformam um chip de silício em uma máquina de escrever DNA",
+      "summary": "Os cientistas criaram um chip de silício que pode escrever dezenas de sequências de DNA simultaneamente usando eletricidade e enzimas à base de água, oferecendo uma alternativa mais limpa à fabricação convencional de DNA. A inovação poderia eventualmente suportar dispositivos portáteis de gravação de DNA e até mesmo grandes volumes de dados de DNA.",
+      "source": "ScienceDaily",
+      "date": "Wed, 08 Jul 2026 22:48:06 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+      "img": "https://www.sciencedaily.com/images/1920/chip-dna-writer.webp",
+      "score": 0.79
+    },
+    {
+      "id": "c6004f01",
+      "cat": "ambiente",
+      "title": "Novo centro de investigação olha para o oceano para impulsionar futuro de Viana",
+      "summary": "Investimento de cinco milhões vai abrir a porta a novas oportunidades no âmbito da energia e economia do mar. Estrutura vai promover ligação entre entidades públicas, ensino superior e empresas.",
       "source": "Público",
-      "date": "Wed, 08 Jul 2026 23:10:00 GMT",
-      "url": "https://www.publico.pt/2026/07/09/opiniao/opiniao/julie-elefanta-chegou-sitio-onde-esperavam-2180929",
+      "date": "Thu, 09 Jul 2026 08:12:00 GMT",
+      "url": "https://www.publico.pt/2026/07/09/local/noticia/novo-centro-investigacao-olha-oceano-impulsionar-futuro-viana-2181027",
       "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "5ff88938",
+      "cat": "tecnologia",
+      "title": "Philippe Aghion: \"Porque está a economia europeia a ficar aquém do esperado?\"",
+      "summary": "Com a corrida pela supremacia da inteligência artificial entre os Estados Unidos e a China, tornou-se impossível ignorar a estagnação da inovação e o declínio da competitividade europeia. Simon Johnson conversou com o também laureado com o Prémio Nobel, o economista Philippe Aghion, para examinar os",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 09 Jul 2026 10:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/inteligencia-artificial/detalhe/philippe-aghion-porque-esta-a-economia-europeia-a-ficar-aquem-do-esperado",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-09-07-40-52-526283.jpg",
       "score": 0.76
     },
     {
@@ -55,6 +66,17 @@
       "date": "Tue, 07 Jul 2026 15:30:02 +0000",
       "url": "https://www.goodnewsnetwork.org/viral-volunteer-effort-leaves-surprises-on-the-cars-of-residents-who-took-cabs-home-from-the-bar/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/credit-@the_barfairies.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "ea7b80f3",
+      "cat": "tecnologia",
+      "title": "Reveladas: as cidades mais habitáveis ​​do mundo em 2026",
+      "summary": "As cidades asiáticas dispararam no último Índice Global de Habitabilidade, que acaba de ser divulgado. Qual é a classificação da sua cidade? O post Revelado: as cidades mais habitáveis ​​do mundo em 2026 apareceu pela primeira vez no Positive News.",
+      "source": "Positive News",
+      "date": "Thu, 09 Jul 2026 08:35:38 +0000",
+      "url": "https://www.positive.news/society/revealed-the-worlds-best-cities-in-2026/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-1476147474-e1783430119191.jpeg",
       "score": 0.76
     },
     {
@@ -77,6 +99,17 @@
       "date": "Tue, 07 Jul 2026 07:00:12 +0000",
       "url": "https://www.positive.news/economics/social-enterprise/refugee-candlemakers-rebuilding-lives-through-work/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/Maguno-working-2.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "ae4c547d",
+      "cat": "ambiente",
+      "title": "Como os banhistas estão transformando fotos em ciência",
+      "summary": "Os cientistas esperam aprender mais sobre o impacto das alterações climáticas nas costas através das fotos das pessoas.",
+      "source": "BBC News",
+      "date": "Thu, 09 Jul 2026 05:06:11 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f45/live/bd57e680-7ac0-11f1-b541-536d253827b8.jpg",
       "score": 0.76
     },
     {
@@ -124,36 +157,69 @@
       "score": 0.76
     },
     {
-      "id": "e6cdd5bf",
+      "id": "338b6b74",
       "cat": "tecnologia",
-      "title": "2h. Chega apresentou alterações à lei das burcas",
-      "summary": "O partido de André Ventura diz ter garantias de aprovação do PSD. Ainda, o ministro da Educação afasta preocupações com a correção dos exames nacionais.",
-      "source": "Observador",
-      "date": "Thu, 09 Jul 2026 02:14:39 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2345/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "CCB diz estar a implementar plano de acessibilidades com investimento de 2,9 milhões",
+      "summary": "Críticas da plataforma Acesso Cultura denunciam mais de uma década de alertas à instituição sobre problemas de acessibilidade para artistas com deficiência.",
+      "source": "Público",
+      "date": "Thu, 09 Jul 2026 08:05:51 GMT",
+      "url": "https://www.publico.pt/2026/07/09/culturaipsilon/noticia/ccb-estar-implementar-plano-acessibilidades-investimento-29-milhoes-2181071",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "b5211c2a",
+      "id": "cbb5eb11",
       "cat": "tecnologia",
-      "title": "1h. Mais de mil pessoas em protesto em Almada",
-      "summary": "Os moradores criticam a degradação da rede de abastecimento e acusam o município de falta de investimento. Ainda, Os EUA estão a atacar o Irão pela segunda noite consecutiva.",
+      "title": "Quartos de final arrancam com França-Marrocos",
+      "summary": "Nova fase do Mundial começa hoje. Os primeiros a defrontarem-se nos quartos de final são França e Marrocos, às 21h. Siga aqui em direto.",
       "source": "Observador",
-      "date": "Thu, 09 Jul 2026 01:13:21 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2318/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Thu, 09 Jul 2026 09:20:45 +0100",
+      "url": "https://observador.pt/liveblogs/dia-29-do-mundial-2026-quartos-de-final-arrancam-com-franca-marrocos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/09091545/gettyimages-2284984596-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "51187f8d",
-      "cat": "ciencia",
-      "title": "Um Prémio Nobel para pensar Portugal",
-      "summary": "Sobre o estudo encomendado ao Prémio Nobel da Economia de 2024, James A. Robinson, acompanhado pelo economista português Nuno Palma.",
+      "id": "4485d3dd",
+      "cat": "tecnologia",
+      "title": "Universidade de Lisboa com mais 1.018 camas para alunos",
+      "summary": "A Universidade de Lisboa vai \"disponibilizar um total de 1.506 camas\" para alunos deslocados que, de acordo com o Ministro da Educação, alcançou os 33% de alunos do ensino superior.",
       "source": "Observador",
-      "date": "Thu, 09 Jul 2026 00:15:22 +0100",
-      "url": "https://observador.pt/opiniao/um-premio-nobel-para-pensar-portugal/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A466%3Anowe%3A8%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F05%2F08160758%2Fbb-foto.jpg",
+      "date": "Thu, 09 Jul 2026 09:10:07 +0100",
+      "url": "https://observador.pt/2026/07/09/universidade-de-lisboa-com-mais-1-018-camas-para-alunos-no-proximo-ano-letivo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/04112709/vcoelho-20260403-fotos-de-arquivo-01-1-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "dd428d2e",
+      "cat": "tecnologia",
+      "title": "Presidente da Câmara de Almada admite \"realidade difícil\"",
+      "summary": "Inês de Medeiros sublinha que o objetivo é reduzir o consumo para metade nos próximos dias, de forma a permitir a recuperação das reservas. Autarca aponta ao dedo às ruturas na rede e furtos de água.",
+      "source": "Observador",
+      "date": "Thu, 09 Jul 2026 09:06:22 +0100",
+      "url": "https://observador.pt/2026/07/09/presidente-da-camara-de-almada-admite-realidade-dificil-e-alerta-que-reservatorios-de-agua-estao-a-10-da-capacidade/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/07203026/45506650.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "3731d677",
+      "cat": "tecnologia",
+      "title": "Bolsas europeias em recuperação. AstraZeneca afunda quase 9% após ensaio clínico falhado",
+      "summary": "Acompanhe, ao minuto, a evolução dos mercados nesta quinta-feira.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 09 Jul 2026 09:36:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-e-europa-em-recuperacao-apos-abalo-do-medio-oriente-sk-hynix-dispara-4",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-05-17-54-51-508751.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "2de9af21",
+      "cat": "tecnologia",
+      "title": "Cerebras, rival da Nvidia, vai investir milhares de milhões de euros na Europa",
+      "summary": "O valor exato do investimento, que o executivo estima em \"milhares de milhões de dólares\", não foi divulgado.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 09 Jul 2026 09:15:10 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/cerebras-rival-da-nvidia-vai-investir-milhares-de-milhoes-de-euros-na-europa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-09-09-14-51-526290.jpg",
       "score": 0.73
     },
     {
@@ -179,36 +245,36 @@
       "score": 0.73
     },
     {
-      "id": "9c87cdf3",
-      "cat": "cultura",
-      "title": "Trump cumpre ameaça. EUA atacam Irão pela segunda noite consecutiva",
-      "summary": "Os Estados Unidos estão a atacar novamente o Irão esta quarta-feira à noite, anunciou o Comando Central dos Estados Unidos (CENTCOM), poucas horas depois de o Presidente norte-americano, Donald Trump, ter declarado que o acordo de cessar-fogo &#8220;acabou&#8221; durante a cimeira da NATO na capital",
+      "id": "6688c1d3",
+      "cat": "tecnologia",
+      "title": "Vai ao Nos Alive mas vive na Margem Sul? Já é possível ir de barco de Almada para Algés",
+      "summary": "A ligação fluvial entre Trafaria/Porto Brandão (Almada) e Pedrouços/Algés (Oeiras) arranca esta quinta-feira, num prolongamento do serviço já existente para Belém (Lisboa), que passa a ser assegurada todos os dias da semana, anunciou a TTSL &#8212; Transtejo Soflusa. A nova ligação, avançou a transp",
       "source": "ECO",
-      "date": "Wed, 08 Jul 2026 20:26:14 +0000",
-      "url": "https://eco.sapo.pt/2026/07/08/trump-cumpre-ameaca-eua-atacam-irao-pela-segunda-noite-consecutiva/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc202606044723254113015965.jpg",
+      "date": "Thu, 09 Jul 2026 08:40:25 +0000",
+      "url": "https://eco.sapo.pt/2026/07/09/vai-ao-alive-e-vive-na-margem-sul-ja-e-possivel-ir-de-barco-de-almada-para-alges/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc20260505470486890505rm18.jpg",
       "score": 0.73
     },
     {
-      "id": "beda1302",
-      "cat": "cultura",
-      "title": "Alguns membros da Fed admitiram possibilidade de um aumento das taxas de juro",
-      "summary": "Alguns membros da Reserva Federal americana (Fed) admitiram a possibilidade de um aumento das taxas de juro este ano, durante a última reunião da instituição, a 16 e 17 de junho, de acordo com as minutas do encontro, publicadas esta quarta-feira. Assim, no documento, relativo à reunião do Comité Fed",
+      "id": "fd5a6e21",
+      "cat": "tecnologia",
+      "title": "RTP prevê prejuízo de mais de 11 milhões de euros em 2026, resultado de novas 157 saídas voluntárias",
+      "summary": "A Rádio e Televisão de Portugal (RTP) estima fechar o ano de 2026 com um prejuízo de 11,35 milhões de euros, de acordo com o Segundo Aditamento ao Plano Anual de Atividades e Orçamento (PAO) consultado pelo +M. O valor representa um agravamento face aos 2,95 milhões negativos projetados em novembro.",
       "source": "ECO",
-      "date": "Wed, 08 Jul 2026 19:21:10 +0000",
-      "url": "https://eco.sapo.pt/2026/07/08/alguns-membros-da-fed-admitiram-possibilidade-de-um-aumento-das-taxas-de-juro/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc202606174730603813045051.jpg",
+      "date": "Thu, 09 Jul 2026 08:29:42 +0000",
+      "url": "https://eco.sapo.pt/2026/07/09/rtp-preve-prejuizo-de-mais-de-11-milhoes-de-euros-em-2026-resultado-de-novas-157-saidas-voluntarias/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-14898850-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "b84d7fc2",
-      "cat": "economia",
-      "title": "Fórum Nacional de Seguros 2026. Seguro de caução continua subutilizado apesar das vantagens para as empresas",
-      "summary": "O crescimento do seguro de caução em Portugal e o seu potencial para substituir as garantias bancárias estiveram em debate no Fórum Nacional de Seguros 2026. João Silva, Managing Director na Specialty Risks, e Patrícia Azevedo Lopes, Founding Partner da Atlaw, defenderam durante a talk “Seguro de ca",
+      "id": "8a799c83",
+      "cat": "tecnologia",
+      "title": "Prémio Autarquia do Ano – Grupo Mosqueteiros: Boas práticas e erros a evitar na candidatura",
+      "summary": "Uma candidatura sólida começa com clareza, estrutura e foco no impacto do projeto. Mais do que descrever uma iniciativa, é fundamental conseguir explicar de forma objetiva o problema que lhe deu origem, as soluções implementadas e os resultados alcançados. As candidaturas mais bem-sucedidas tendem a",
       "source": "ECO",
-      "date": "Wed, 08 Jul 2026 19:17:16 +0000",
-      "url": "https://eco.sapo.pt/2026/07/08/forum-nacional-de-seguros-2026-seguro-de-caucao-continua-subutilizado-apesar-das-vantagens-para-as-empresas/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-seguros26-124.jpg",
+      "date": "Thu, 09 Jul 2026 07:00:37 +0000",
+      "url": "https://eco.sapo.pt/2026/07/09/premio-autarquia-do-ano-grupo-mosqueteiros-boas-praticas-e-erros-a-evitar-na-candidatura/",
+      "img": "https://eco.imgix.net/uploads/2026/04/artigo-autarquia-ano-09-1200x628-1.jpg",
       "score": 0.73
     },
     {
@@ -220,28 +286,6 @@
       "date": "Tue, 07 Jul 2026 16:36:05 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cvg5xp455z8o?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e9/live/15e9cc40-7a1d-11f1-8228-eda6b31aeccd.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "68412270",
-      "cat": "saude",
-      "title": "Crianças continuam morrendo em um país que fez enormes progressos no combate ao sarampo",
-      "summary": "Mais de 120 mil casos suspeitos e confirmados de sarampo foram notificados em Bangladesh, onde os hospitais estão sobrecarregados.",
-      "source": "BBC News",
-      "date": "Wed, 08 Jul 2026 22:03:05 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/6fd73af0-7a98-11f1-bee8-53ce494e1abc.png",
-      "score": 0.73
-    },
-    {
-      "id": "3349dccd",
-      "cat": "ciencia",
-      "title": "Cientistas usaram IA para desvendar um dos maiores mistérios da água",
-      "summary": "O comportamento estranho da água torna-se ainda mais dramático quando ela é super-resfriada, mas os cientistas têm lutado para comparar as muitas maneiras diferentes de descrever a sua estrutura microscópica. Pesquisadores da Universidade de Osaka usaram um modelo de IA treinado em simulações de computador para avaliar 16 estruturas diferentes",
-      "source": "ScienceDaily",
-      "date": "Wed, 08 Jul 2026 18:31:30 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
-      "img": "https://www.sciencedaily.com/images/1920/ai-decodes-water.webp",
       "score": 0.73
     },
     {
@@ -267,58 +311,14 @@
       "score": 0.73
     },
     {
-      "id": "ae97b230",
-      "cat": "tecnologia",
-      "title": "Os agrafos dos exames e outros agrafos da política",
-      "summary": "Organizar uma operação com cinco mil polícias para recolher e transportar 300 mil provas de alunos de todo o país para um armazém da capital parece uma anedota na era da inteligência artificial. Opinião de Manuel Carvalho",
+      "id": "99cf6964",
+      "cat": "ciencia",
+      "title": "O efeito do calor no cérebro: memória, atenção e tomada de decisões são afectadas",
+      "summary": "Quando o calor é extremo, o cérebro também sofre com isso: a capacidade de concentração diminui, a irritabilidade aumenta e as doenças do foro mental pioram, afirma psiquiatra e estudos científicos.",
       "source": "Público",
-      "date": "Wed, 08 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/09/opiniao/opiniao/agrafos-exames-agrafos-politica-2181037",
+      "date": "Thu, 09 Jul 2026 08:16:14 GMT",
+      "url": "https://www.publico.pt/2026/07/09/impar/noticia/efeito-calor-cerebro-memoria-atencao-tomada-decisoes-sao-afectadas-2180988",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "c8d5f7ed",
-      "cat": "tecnologia",
-      "title": "O Amílcar não vai à bola",
-      "summary": "“Marchamos juntos”, sim, como dizia o Amílcar Cabral, mas continuamos a ter de lutar contra o colonialismo. A bola não suspende a independência. Cabo Verde não é Portugal. Viva Cabo Verde! Opinião de Luísa Semedo",
-      "source": "Público",
-      "date": "Wed, 08 Jul 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/07/09/opiniao/opiniao/amilcar-nao-vai-bola-2181040",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "b699c93b",
-      "cat": "tecnologia",
-      "title": "Nove das 15 concessões portuárias estarão a concurso até final de 2027",
-      "summary": "Os concursos para a maioria das novas concessões previstas no plano Portos 5+ vão avançar no próximo ano e meio. Entre eles, contam-se o terminal Vasco da Gama, em Sines, e o terminal de contentores Norte, em Leixões.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 23:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/nove-das-15-concessoes-portuarias-estarao-a-concurso-ate-final-de-2027",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-04/img_100x100uu2023-04-12-18-39-13-450624.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "64dfbae0",
-      "cat": "tecnologia",
-      "title": "Ligamos as campainhas?",
-      "summary": "Na Europa, a pressão sobre a dívida pública é por demais evidente, com França à cabeça, mas não esquecendo a Alemanha ou Itália.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 23:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/ligamos-as-campainhas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
-      "score": 0.7
-    },
-    {
-      "id": "e470947b",
-      "cat": "sociedade",
-      "title": "A Educação é um caso perdido",
-      "summary": "A Educação e a Saúde são dois dos antros da administração pública com mais lóbis. Desde grupos de interesse (veja-se a “Missão Escola Pública”), até sindicatos (principalmente aqueles ligados à CGTP), tudo manda no Ministério. Com um objetivo: barrar qualquer mudança.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 08 Jul 2026 21:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/a-educacao-e-um-caso-perdido",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-16-00-296266.png",
       "score": 0.7
     },
     {
