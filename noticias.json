@@ -1,5 +1,5 @@
 {
-  "last_update": "10/07/2026 09:49 UTC",
+  "last_update": "10/07/2026 14:44 UTC",
   "total": 30,
   "news": [
     {
@@ -69,36 +69,25 @@
       "score": 0.79
     },
     {
-      "id": "902c70d0",
-      "cat": "ciencia",
-      "title": "Cientistas de Harvard transformam um chip de silício em uma máquina de escrever DNA",
-      "summary": "Os cientistas criaram um chip de silício que pode escrever dezenas de sequências de DNA simultaneamente usando eletricidade e enzimas à base de água, oferecendo uma alternativa mais limpa à fabricação convencional de DNA. A inovação poderia eventualmente suportar dispositivos portáteis de gravação de DNA e até mesmo grandes volumes de dados de DNA.",
-      "source": "ScienceDaily",
-      "date": "Wed, 08 Jul 2026 22:48:06 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
-      "img": "https://www.sciencedaily.com/images/1920/chip-dna-writer.webp",
-      "score": 0.79
-    },
-    {
-      "id": "b5ddd88f",
+      "id": "45d8c3a1",
       "cat": "tecnologia",
-      "title": "Montenegro assume “esforço muito grande” para repor normalidade nos exames",
-      "summary": "O primeiro-ministro garantiu na quinta-feira à noite que está a ser feito &#8220;um esforço muito grande&#8221; para concluir a classificação dos exames nacionais da primeira fase dentro do novo prazo, mas reiterou a convicção de que o novo sistema de avaliação digital será &#8220;um avanço&#8221; n",
-      "source": "ECO",
-      "date": "Fri, 10 Jul 2026 08:53:24 +0000",
-      "url": "https://eco.sapo.pt/2026/07/10/montenegro-assume-esforco-muito-grande-para-repor-normalidade-nos-exames/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-captura-de-ecra-2026-07-10-093746.png",
+      "title": "Miranda Sarmento diz que euro digital vai afirmar moeda",
+      "summary": "Ministro das Finanças classifica aprovação da próxima fase do euro digital como \"dia histórico\". A moeda eletrónica da UE poderá substituir Visa e Mastercard e funciona com ou sem ligação à internet.",
+      "source": "Observador",
+      "date": "Fri, 10 Jul 2026 14:36:49 +0100",
+      "url": "https://observador.pt/2026/07/10/ministro-das-financas-diz-que-futuro-euro-digital-vai-permitir-afirmar-moeda-face-ao-dolar/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:92/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/09/25182233/24662250.jpg",
       "score": 0.76
     },
     {
-      "id": "711615d3",
+      "id": "c9211beb",
       "cat": "tecnologia",
-      "title": "O euro digital passou o primeiro teste político. E agora?",
-      "summary": "A aprovação, pela Comissão dos Assuntos Económicos e Monetários do Parlamento Europeu, da posição negocial sobre o euro digital marca um ponto de viragem no debate europeu sobre a soberania monetária. Embora o processo legislativo europeu ainda não esteja concluído, a existência de uma maioria parla",
-      "source": "ECO",
-      "date": "Fri, 10 Jul 2026 07:37:54 +0000",
-      "url": "https://eco.sapo.pt/opiniao/o-euro-digital-passou-o-primeiro-teste-politico-e-agora/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2020/05/helder-rosalino-opiniao.jpg",
+      "title": "Jorge Jesus soma conquistas e... gafes",
+      "summary": "Na longa carreira como treinador, Jorge Jesus soma 24 títulos. Foi campeão no Benfica, no Flamengo, no Al Hilal e mais recentemente no Al Nassr. O percurso fica marcado por muitas conquistas e também por muitas gafes.",
+      "source": "RTP",
+      "date": "Fri, 10 Jul 2026 15:05:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/jorge-jesus-soma-conquistas-e-gafes_v1752561",
+      "img": "https://cdn-images.rtp.pt/icm/images/d4/d4a05f5f17404a9b376aff76e9422e95_N.jpg?",
       "score": 0.76
     },
     {
@@ -116,7 +105,7 @@
       "id": "ae4c547d",
       "cat": "ambiente",
       "title": "Como os banhistas estão transformando fotos em ciência",
-      "summary": "Os cientistas esperam aprender mais sobre o impacto das alterações climáticas nas costas através das fotografias das pessoas.",
+      "summary": "Os cientistas esperam aprender mais sobre o impacto das alterações climáticas nas costas através das fotos das pessoas.",
       "source": "BBC News",
       "date": "Thu, 09 Jul 2026 05:06:11 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&at_campaign=rss",
@@ -135,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "20f3edf0",
+      "cat": "tecnologia",
+      "title": "A famosa aranha “cara feliz” do Havaí tem um parente surpreendente",
+      "summary": "Uma aranha Happy-Face recém-descoberta no Himalaia se assemelha muito às espécies icônicas do Havaí, mas evoluiu de forma independente, de acordo com evidências de DNA. Suas misteriosas marcas em forma de sorriso, muitas formas de cores e uma ligação inesperada com as plantas de gengibre deixaram os cientistas ansiosos para aprender como as duas espécies distantes",
+      "source": "ScienceDaily",
+      "date": "Thu, 09 Jul 2026 16:56:57 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm",
+      "img": "https://www.sciencedaily.com/images/1920/happy-face-spider.webp",
+      "score": 0.76
+    },
+    {
       "id": "25a1c000",
       "cat": "sociedade",
       "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
@@ -146,36 +146,69 @@
       "score": 0.76
     },
     {
-      "id": "e4de3b89",
-      "cat": "cultura",
-      "title": "Um Nick Cave irrepetível na estreia no Nos Alive com os Bad Seeds",
-      "summary": "No primeiro dia, Nick Cave protagonizou um concerto arrebatador que atravessou toda a sua carreira. Alabama Shakes surpreenderam. O festival continua esta sexta-feira, com Foo Fighters.",
-      "source": "Público",
-      "date": "Fri, 10 Jul 2026 08:05:48 GMT",
-      "url": "https://www.publico.pt/2026/07/10/culturaipsilon/noticia/nick-cave-irrepetivel-estreia-alive-bad-seeds-2181196",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "3a66b383",
-      "cat": "ciencia",
-      "title": "UE anuncia seis novas infra-estruturas de investigação, uma representada em Portugal",
-      "summary": "O MEDem, um dos projectos seleccionados para integrar o Roteiro do Fórum Europeu de Estratégia para as Infra-Estruturas de Investigação, visa monitorizar a democracia eleitoral.",
-      "source": "Público",
-      "date": "Fri, 10 Jul 2026 07:31:00 GMT",
-      "url": "https://www.publico.pt/2026/07/10/ciencia/noticia/ue-anuncia-seis-novas-infraestruturas-investigacao-representada-portugal-2181107",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "36c16e13",
+      "id": "ce02ddaf",
       "cat": "tecnologia",
-      "title": "O Candidato Perfeito\": Novo Podcast de Ficção no Observador",
-      "summary": "A sequela de 'O Zé Faz 25' acompanha um empresário candidato à Câmara de Lisboa enquanto enfrenta o desaparecimento do filho, numa trama de intriga política e mistério. Em parceria com a Coyote Vadio.",
+      "title": "Participação de Cabo Verde no Mundial desperta interesse turístico pelo país",
+      "summary": "Desde que os “tubarões azuis” entraram em campo no Mundial de futebol, há mais “pedidos de informação” para viagens ao arquipélago carbo-verdiano, mas o crescimento de reservas ainda é tímido.",
+      "source": "Público",
+      "date": "Fri, 10 Jul 2026 13:09:04 GMT",
+      "url": "https://www.publico.pt/2026/07/10/fugas/noticia/participacao-cabo-verde-mundial-desperta-interesse-turistico-pais-2181231",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "0f827ceb",
+      "cat": "ciencia",
+      "title": "Desenho e experiência do Facebook e Instagram viciam, conclui Comissão Europeia",
+      "summary": "A investigação centra-se em funcionalidades como o scroll infinito, a reprodução automática, as notificações push e os sistemas de recomendação altamente personalizados das plataformas.",
+      "source": "Público",
+      "date": "Fri, 10 Jul 2026 12:30:43 GMT",
+      "url": "https://www.publico.pt/2026/07/10/enter/noticia/desenho-experiencia-facebook-instagram-viciam-conclui-comissao-europeia-2181227",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "5d367b36",
+      "cat": "tecnologia",
+      "title": "O que é “Doutrina Courato” de Montenegro no Mundial 2026?",
+      "summary": "As idas e vindas do primeiro-ministro ao campeonato nos Estados Unidos e Canadá. Tem relevância para a política externa e interna? E ainda a confusão com os exames nacionais.",
       "source": "Observador",
-      "date": "Fri, 10 Jul 2026 10:03:14 +0100",
-      "url": "https://observador.pt/programas/explicador/o-candidato-perfeito-novo-podcast-de-ficcao-no-observador/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
+      "date": "Fri, 10 Jul 2026 15:00:12 +0100",
+      "url": "https://observador.pt/programas/fora-do-baralho/o-que-e-doutrina-courato-de-montenegro-no-mundial-2026/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/04160736/770-podcast-fora-do-baralho-2025.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "07324546",
+      "cat": "tecnologia",
+      "title": "Rui Tavares: Mendes Lopes podia ser ministra dos Transportes",
+      "summary": "Rui Tavares não exclui a possibilidade de ser o candidato a primeiro-ministro do Livre nas próximas legislativas. Aponta vários nomes do partido como potenciais ministros e as respetivas pastas.",
+      "source": "Observador",
+      "date": "Fri, 10 Jul 2026 14:11:24 +0100",
+      "url": "https://observador.pt/especiais/rui-tavares-em-entrevista-isabel-mendes-lopes-podia-ser-ministra-dos-transportes-e-jorge-pinto-do-ambiente/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:250/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/10122654/dventura-rui-tavares-10072026-11-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "6f809374",
+      "cat": "economia",
+      "title": "Alantra sobe \"target\" do BCP e BNP vê ação chegar aos 1,25 euros",
+      "summary": "As duas casas de investimento estão otimistas para o desempenho do banco em bolsa, numa altura em que os analistas têm vindo a atualizar as estimativas de resultados para o segundo trimestre, que são apresentados no final de julho.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 10 Jul 2026 14:45:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/alantra-sobe-target-do-bcp-e-bnp-ve-acao-chegar-aos-1-25-euros",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-21-17-14-00-524046.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1c44562d",
+      "cat": "tecnologia",
+      "title": "Sonae compra lojas de “pet care” à maior cadeia de supermercados da Suécia",
+      "summary": "Através da Musti, líder de mercado no negócio de produtos e cuidados para animais de estimação nos países nórdicos, a Sonae adquiriu as lojas Gaston à sueca ICA, com a qual está a negociar um acordo que visa a expansão do formato para perto dos seus 1.300 supermercados.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 10 Jul 2026 14:37:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/sonae-compra-lojas-de-pet-care-a-maior-cadeia-de-supermercados-da-suecia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-10-14-22-24-526391.png",
       "score": 0.73
     },
     {
@@ -198,17 +231,6 @@
       "date": "Thu, 09 Jul 2026 20:01:24 +0100",
       "url": "https://www.rtp.pt/noticias/futebol-nacional/treinador-petit-quer-santa-clara-com-identidade-e-a-jogar-futebol-positivo_d1752409",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/65/650816510c278985d53eb9a9a5529935?w=350&amp;q=50&amp;rect=0,64,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "f4d89cbb",
-      "cat": "tecnologia",
-      "title": "Combustíveis voltam a subir. Gasóleo aumenta 7 cêntimos",
-      "summary": "Os preços dos combustíveis vão voltar a subir a partir de segunda-feira. O gasóleo vai ficar 7 cêntimos mais caro e a gasolina vai aumentar 2,5 cêntimos por litro, de acordo com as estimativas da ACP. A nova escalada das tensões entre os EUA e o Irão vai, assim, fazer-se sentir no bolso dos automobi",
-      "source": "ECO",
-      "date": "Fri, 10 Jul 2026 09:10:57 +0000",
-      "url": "https://eco.sapo.pt/2026/07/10/combustiveis-voltam-a-subir-gasoleo-aumenta-7-centimos/",
-      "img": "https://eco.imgix.net/uploads/2026/04/cropped-doc2026032046793995-aps1260.jpg",
       "score": 0.73
     },
     {
@@ -256,69 +278,25 @@
       "score": 0.73
     },
     {
-      "id": "896a052a",
+      "id": "55bbcc32",
       "cat": "tecnologia",
-      "title": "Condução “autónoma” da Tesla chega à Europa, mas ainda precisa de nós",
-      "summary": "Em Amesterdão, um Model Y levou-nos quase sempre sem sobressaltos entre turistas, ciclistas e ruas estreitas. O FSD supervisionado impressiona, mas continua a exigir olhos na estrada.",
+      "title": "Após contratar no Banco de Portugal, consultora EY vai buscar ex-presidente do Banco Montepio",
+      "summary": "O antigo presidente executivo do Banco Montepio, Pedro Leitão, vai passar a liderar a área de consultoria da Ernst & Young, que receberá Luís Costa Ferreira, do Banco de Portugal, no fim do ano.",
       "source": "Público",
-      "date": "Fri, 10 Jul 2026 08:39:46 GMT",
-      "url": "https://www.publico.pt/2026/07/10/enter/noticia/conducao-autonoma-tesla-chega-europa-precisa-2181200",
+      "date": "Fri, 10 Jul 2026 14:03:47 GMT",
+      "url": "https://www.publico.pt/2026/07/10/economia/noticia/apos-contratar-banco-portugal-consultora-ey-vai-buscar-expresidente-banco-montepio-2181222",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "eaab7ba1",
+      "id": "2c1b16fb",
       "cat": "tecnologia",
-      "title": "As notícias das 10h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Fri, 10 Jul 2026 10:19:15 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2402/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "30c8797c",
-      "cat": "tecnologia",
-      "title": "\"Foreign Tongues\". The Rolling Stones lançam novo álbum",
-      "summary": "O álbum ganhou forma em menos de um mês. Inclui 12 temas originais, uma versão de \"You Know I'm No Good\", de Amy Winehouse, e uma outra de \"Beautiful Delilah\", de Chuck Berry.",
-      "source": "Observador",
-      "date": "Fri, 10 Jul 2026 09:47:39 +0100",
-      "url": "https://observador.pt/2026/07/10/novo-album-dos-the-rolling-stones-foreign-tongues-e-editado-esta-sexta-feira/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/10053117/39110651.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "47b1c68e",
-      "cat": "economia",
-      "title": "Veja o programa Negócios desta sexta-feira, 10 de julho, no canal NOW",
-      "summary": "Veja o programa Negócios no canal NOW",
+      "title": "Miranda Sarmento diz que euro digital vai permitir afirmar moeda face ao dólar",
+      "summary": "\"O euro digital é uma peça, é um instrumento muito importante na afirmação internacional do Euro, enquanto moeda a nível mundial, enquanto possível concorrente a reserva de valor e a transação face ao dólar\", diz ministro das Finanças.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 10 Jul 2026 10:30:31 +0100",
-      "url": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/veja-o-programa-negocios-desta-sexta-feira-10-de-julho-no-canal-now",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-10-10-19-26-526363.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "00ae1bfe",
-      "cat": "tecnologia",
-      "title": "Quem viaja? Para onde? E com que objetivo? Este é o perfil do turista nacional",
-      "summary": "A maioria da população portuguesa escolheu viajar em 2025, tanto dentro quanto fora do país. Faixa acima dos 45 anos continua a dominar o setor, com as viagens de lazer e férias a ganharem mais terreno.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 10 Jul 2026 10:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/quem-viaja-para-onde-e-com-que-objetivo-este-e-o-perfil-do-turista-nacional",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-06/img_100x100uu2023-06-19-21-09-13-455209.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "0609189f",
-      "cat": "tecnologia",
-      "title": "Líder da CReSAP: \"85% dos dirigentes públicos nomeados estavam em substituição\"",
-      "summary": "Presidente da Comissão de Recrutamento e Seleção para a Administração Pública rejeita que haja uma partidarização da administração pública e que os concursos estejam viciados. Mas diz que é preciso uma \"refundação da CReSAP\", com a separação entre os cargos políticos e \"os de mérito\".",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 10 Jul 2026 10:26:40 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/funcao-publica/detalhe/lider-da-cresap-85-dos-dirigentes-publicos-nomeados-estavam-em-substituicao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-14-38-30-526072.jpg",
+      "date": "Fri, 10 Jul 2026 15:19:40 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/miranda-sarmento-diz-que-euro-digital-vai-permitir-afirmar-moeda-face-ao-dolar",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-13-11-42-44-523523.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +308,28 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "8fd9c934",
+      "cat": "tecnologia",
+      "title": "Jesus \"veio para ganhar\" e Ronaldo nunca será um problema para a seleção",
+      "summary": "O novo selecionador nacional, Jorge Jesus, afirmou em conferência de imprensa de apresentação que &quot;agora viemos para vencer e com a qualidade que temos, podemos acreditar que podemos valorizar os jogadores e neste caso a seleção&quot;.",
+      "source": "RTP",
+      "date": "Fri, 10 Jul 2026 16:39:10 +0100",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/jesus-ronaldo-nunca-vai-ser-um-problema-para-a-selecao_d1752574",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/40/403eeb1567bc12605c337e553d595a2f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.7
     }
   ]
