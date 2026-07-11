@@ -1,5 +1,5 @@
 {
-  "last_update": "10/07/2026 19:43 UTC",
+  "last_update": "11/07/2026 03:27 UTC",
   "total": 30,
   "news": [
     {
@@ -80,17 +80,6 @@
       "score": 0.79
     },
     {
-      "id": "bf488aa1",
-      "cat": "tecnologia",
-      "title": "A Europa quer aparelhos de ar condicionado e a China tem todo o prazer em ajudar",
-      "summary": "Os europeus que procuram alívio das elevadas temperaturas estão a comprar aparelhos de ar condicionado chineses, um aumento nas vendas que Pequim considera uma “vitória industrial”.",
-      "source": "Público",
-      "date": "Fri, 10 Jul 2026 17:53:52 GMT",
-      "url": "https://www.publico.pt/2026/07/10/economia/noticia/europa-quer-aparelhos-ar-condicionado-china-prazer-ajudar-2181237",
-      "img": null,
-      "score": 0.76
-    },
-    {
       "id": "5ec68016",
       "cat": "tecnologia",
       "title": "Alta velocidade no Porto reacende debate sobre ponte rodoviária e estacionamento",
@@ -99,6 +88,17 @@
       "date": "Fri, 10 Jul 2026 19:45:00 +0100",
       "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/alta-velocidade-no-porto-reacende-debate-sobre-ponte-rodoviaria-e-estacionamento",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-05-16-37-01-526110.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "f2645e9a",
+      "cat": "tecnologia",
+      "title": "Dez anos depois. Éder marcou o golo mais importante do futebol luso",
+      "summary": "Faz hoje precisamente dez anos que Portugal conquistou o Campeonato da Europa. Uma vitória histórica com um golo histórico frente à França, que jogava em casa.",
+      "source": "RTP",
+      "date": "Fri, 10 Jul 2026 21:43:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/dez-anos-depois-eder-marcou-o-golo-mais-importante-do-futebol-luso_v1752634",
+      "img": "https://cdn-images.rtp.pt/icm/images/45/458a156b980c69494862b6884a30433d_N.jpg?",
       "score": 0.76
     },
     {
@@ -146,14 +146,14 @@
       "score": 0.76
     },
     {
-      "id": "d7740a80",
+      "id": "9f48b5a1",
       "cat": "ciencia",
-      "title": "A vacina MenB não oferece proteção aos homens contra a gonorreia, afirma um grande estudo",
-      "summary": "A vacina contra a meningite B não previne infecções por gonorreia, apesar de ser oferecida a homens em risco, dizem os cientistas.",
+      "title": "Nova espécie de dinossauro com pescoço tão longo quanto o campo de críquete é descoberta na Tailândia",
+      "summary": "Acredita-se que o dinossauro herbívoro, chamado Uragasaurus kalasinensis, tenha vivido há cerca de 150 milhões de anos.",
       "source": "BBC News",
-      "date": "Wed, 08 Jul 2026 21:06:53 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/crel4yyxwd1o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefb/live/ad332400-7ae7-11f1-9a9c-53fd8f110370.jpg",
+      "date": "Fri, 10 Jul 2026 21:30:57 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
       "score": 0.76
     },
     {
@@ -179,36 +179,14 @@
       "score": 0.76
     },
     {
-      "id": "a0d4a9ab",
-      "cat": "ciencia",
-      "title": "Cervejas: de Portugal aos EUA, cinco propostas à prova",
-      "summary": "Em destaque português, a Sofa, So Good da Dois Corvos, mas há mais produções recentes a provar. Uma descoberta: a polaca X Anniversary 6/10. Mas vamos de Avintes a Rio Maior, até aos EUA.",
-      "source": "Público",
-      "date": "Fri, 10 Jul 2026 18:25:00 GMT",
-      "url": "https://www.publico.pt/2026/07/10/fugas/critica/cervejas-portugal-eua-cinco-propostas-prova-2180600",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "6980589a",
+      "id": "b30c8f0c",
       "cat": "tecnologia",
-      "title": "Estes moradores lutaram contra projectos que os prejudicariam e ganharam",
-      "summary": "Há grupos de moradores que decidiram contestar projectos que trariam prejuízos para a sua vida e conseguiram que estes não avançassem. Alguns casos de vitórias cidadãs.",
-      "source": "Público",
-      "date": "Fri, 10 Jul 2026 18:09:00 GMT",
-      "url": "https://www.publico.pt/2026/07/10/local/reportagem/moradores-lutaram-projectos-prejudicariam-ganharam-2178843",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "65df87da",
-      "cat": "tecnologia",
-      "title": "Éder: \"Jorge Jesus é uma opção muito boa\"",
-      "summary": "O ex-internacional português que marcou o golo da vitória na final do Euro há exatamente uma década, celebrou a efeméride na Rádio Observador, fazendo um balanço do panorama futebolístico nacional.",
+      "title": "1h. Nova falha pode obrigar professores a reavaliar provas",
+      "summary": "O movimento MetaProf alerta que a resolução de um erro técnico na plataforma de classificação de exames pode forçar os professores a rever respostas que já tinham sido totalmente corrigidas.",
       "source": "Observador",
-      "date": "Fri, 10 Jul 2026 20:00:54 +0100",
-      "url": "https://observador.pt/2026/07/10/a-opcao-muito-boa-em-jesus-e-o-mundial-que-ficou-aquem-das-expectativas-o-balanco-de-eder-no-10-o-aniversario-do-euro2016/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:128/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/10162250/jporfirio-entrevista-eder-10-07-2026-01-1-scaled.jpg",
+      "date": "Sat, 11 Jul 2026 01:15:41 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2320/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -245,17 +223,6 @@
       "score": 0.73
     },
     {
-      "id": "14765996",
-      "cat": "tecnologia",
-      "title": "Rogers interrompe monopólio de Rafael Reis no prólogo do Troféu Joaquim Agostinho",
-      "summary": "O ciclista australiano Cameron Rogers venceu hoje o prólogo do 49.º Troféu Joaquim Agostinho, interrompendo uma série de três vitórias de Rafael Reis (Anicolor-Campicarn).",
-      "source": "RTP",
-      "date": "Fri, 10 Jul 2026 20:58:15 +0100",
-      "url": "https://www.rtp.pt/noticias/ciclismo/rogers-interrompe-monopolio-de-rafael-reis-no-prologo-do-trofeu-joaquim-agostinho_d1752627",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
       "id": "8394a28d",
       "cat": "tecnologia",
       "title": "Governo quer criar seis grandes áreas empresariais para fixar multinacionais",
@@ -269,12 +236,12 @@
     {
       "id": "f4c1929e",
       "cat": "sociedade",
-      "title": "O programa ‘Storm Smart’ da Florida Teen ensina centenas de estudantes a se preparar para furacões",
+      "title": "O programa 'Storm Smart' do Florida Teen ensina preparação para furacões aos alunos - porque as escolas não o fizeram",
       "summary": "Do sul da Flórida vem a história de um adolescente intrépido que desenvolveu um minicurrículo sobre preparação para furacões para caber nas aulas escolares. Tendo sofrido (ou talvez enriquecido) com o impacto do furacão Irma em sua comunidade, Elise Raurell, de 16 anos, criou o Storm Smart em 201",
       "source": "Good News Network",
       "date": "Fri, 10 Jul 2026 18:30:37 +0000",
       "url": "https://www.goodnewsnetwork.org/south-florida-teens-storm-smart-program-teaches-hundreds-of-students-hurricane-preparedness/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/maxresdefault-10.jpg",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/maxresdefault-11.jpg",
       "score": 0.73
     },
     {
@@ -311,25 +278,58 @@
       "score": 0.73
     },
     {
-      "id": "fbae2286",
+      "id": "4ea5286d",
       "cat": "tecnologia",
-      "title": "As notícias 19h",
+      "title": "O elogio da irreverência no país do “respeitinho”",
+      "summary": "Vou desobedecer aos meus amigos e falar de algo que os intelectuais, pequenos, médios e grandes, detestam, a música “pimba”, a música abaixo de “pimba”. Opinião de José Pacheco Pereira",
+      "source": "Público",
+      "date": "Fri, 10 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/11/opiniao/opiniao/elogio-irreverencia-pais-respeitinho-2181267",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "b6de7272",
+      "cat": "ciencia",
+      "title": "A censura nos EUA é real. Viu o vídeo dos médicos expulsos?",
+      "summary": "Um texto de opinião banal e o gesto de o distribuir levou à expulsão de cinco médicos de um congresso científico. O alerta está dado. Já não são sinais. Opinião de Bárbara Reis",
+      "source": "Público",
+      "date": "Fri, 10 Jul 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/07/11/ciencia/opiniao/censura-eua-real-viu-video-medicos-expulsos-2181293",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "c641fbf2",
+      "cat": "tecnologia",
+      "title": "Ricos, famosos e queixosos",
+      "summary": "Para bem da liberdade de imprensa, a cruzada punitiva destes famosos não conseguiu transformar ressentimentos, suspeitas e inferências em certezas judiciais. Opinião de Francisco Teixeira da Mota",
+      "source": "Público",
+      "date": "Fri, 10 Jul 2026 23:20:00 GMT",
+      "url": "https://www.publico.pt/2026/07/11/opiniao/opiniao/ricos-famosos-queixosos-2181255",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "b3d2550f",
+      "cat": "tecnologia",
+      "title": "As notícias das 3h",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Fri, 10 Jul 2026 19:57:50 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-19h-2/",
+      "date": "Sat, 11 Jul 2026 03:12:51 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2374/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "6ce8e2af",
-      "cat": "geral",
-      "title": "ANEPC garante pagamento de despesas a bombeiros este mês",
-      "summary": "Corporações de Pombal, Marinha Grande, Ourém e Pedrógão Grande acumulam despesas por pagar desde janeiro. ANEPC garante pagamento até ao fim de julho.",
+      "id": "dbf4ca41",
+      "cat": "tecnologia",
+      "title": "2h. Chega quer combustíveis colados a preços lá fora",
+      "summary": "André Ventura propõe que as descidas do petróleo no mercado internacional reflitam-se de imediato nas bombas nacionais. O líder do Chega criticou ainda Luís Montenegro por ir ao NOS Alive.",
       "source": "Observador",
-      "date": "Fri, 10 Jul 2026 19:36:19 +0100",
-      "url": "https://observador.pt/2026/07/10/bombeiros-da-regiao-de-leiria-sem-receber-despesas-anepc-garante-pagamento-este-mes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/31052413/237a8868.jpg",
+      "date": "Sat, 11 Jul 2026 02:14:30 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2347/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
