@@ -1,18 +1,7 @@
 {
-  "last_update": "11/07/2026 08:07 UTC",
+  "last_update": "11/07/2026 13:43 UTC",
   "total": 30,
   "news": [
-    {
-      "id": "fb83eab0",
-      "cat": "saude",
-      "title": "Um sistema de backup imunológico oculto pode sobrecarregar as vacinas contra o câncer de mRNA",
-      "summary": "Os investigadores descobriram que as vacinas de mRNA contra o cancro podem recrutar uma célula imunitária inesperada para lançar poderosas respostas de combate ao tumor, derrubando uma suposição de longa data sobre como as vacinas funcionam. A descoberta pode levar a vacinas contra o câncer mais eficazes e ajudar os cientistas a adaptar tratamentos para uma melhor saúde.",
-      "source": "ScienceDaily",
-      "date": "Thu, 09 Jul 2026 16:05:08 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm",
-      "img": "https://www.sciencedaily.com/images/1920/cancer-vaccine-fight.webp",
-      "score": 0.85
-    },
     {
       "id": "bc58b3fc",
       "cat": "tecnologia",
@@ -80,39 +69,6 @@
       "score": 0.79
     },
     {
-      "id": "09194973",
-      "cat": "tecnologia",
-      "title": "Brasileiros ampliam investimentos em Portugal e portugueses reduzem posição no Brasil",
-      "summary": "Investimentos brasileiros em Portugal atingiram 4,5 bilhões de euros no primeiro trimestre de 2026, o maior nível desde 2021. Já investimentos portugueses no Brasil recuaram ao patamar de 2023.",
-      "source": "Público",
-      "date": "Sat, 11 Jul 2026 06:45:00 GMT",
-      "url": "https://www.publico.pt/2026/07/11/publico-brasil/noticia/brasileiros-ampliam-investimentos-portugal-portugueses-reduzem-posicao-brasil-2181302",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "9b1cb7c9",
-      "cat": "tecnologia",
-      "title": "Milhares de milhões aceleram corrida a dois no Mundo da IA",
-      "summary": "OpenAI e Anthropic captaram quase metade de todo o investimento global em startups no primeiro semestre do ano. IA continua a crescer, mas há cada vez concentração de capital nesta corrida.",
-      "source": "Observador",
-      "date": "Sat, 11 Jul 2026 06:07:24 +0100",
-      "url": "https://observador.pt/programas/m-quinas-que-pensam/milhares-de-milhoes-aceleram-corrida-a-dois-no-mundo-da-ia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "5ec68016",
-      "cat": "tecnologia",
-      "title": "Alta velocidade no Porto reacende debate sobre ponte rodoviária e estacionamento",
-      "summary": "A ZERO vê progressos no troço Porto–Oiã, mas critica a nova capacidade rodoviária sobre o Douro e os 620 lugares previstos em Campanhã, por considerar que favorecem o automóvel.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 10 Jul 2026 19:45:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/alta-velocidade-no-porto-reacende-debate-sobre-ponte-rodoviaria-e-estacionamento",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-05-16-37-01-526110.jpg",
-      "score": 0.76
-    },
-    {
       "id": "f2645e9a",
       "cat": "tecnologia",
       "title": "Dez anos depois. Éder marcou o golo mais importante do futebol luso",
@@ -146,17 +102,6 @@
       "score": 0.76
     },
     {
-      "id": "14e43028",
-      "cat": "tecnologia",
-      "title": "Esta é a chave do Euromilhões. Jackpot é de 29 milhões de euros",
-      "summary": "Com um primeiro prémio no valor de 29 milhões de euros, decorreu sexta-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta sexta-feira, 10 de julho: Números: 2, 14, 28, 33 e",
-      "source": "ECO",
-      "date": "Fri, 10 Jul 2026 19:31:43 +0000",
-      "url": "https://eco.sapo.pt/2026/07/10/esta-e-a-chave-do-euromilhoes-jackpot-e-de-29-milhoes-de-euros-11/",
-      "img": "https://eco.imgix.net/uploads/2021/09/totoloto.jpg",
-      "score": 0.76
-    },
-    {
       "id": "ea7b80f3",
       "cat": "tecnologia",
       "title": "Reveladas: as cidades mais habitáveis ​​do mundo em 2026",
@@ -168,14 +113,14 @@
       "score": 0.76
     },
     {
-      "id": "9f48b5a1",
+      "id": "ac8a808c",
       "cat": "ciencia",
-      "title": "Nova espécie de dinossauro com pescoço tão longo quanto o campo de críquete é descoberta na Tailândia",
-      "summary": "Acredita-se que o dinossauro herbívoro, chamado Uragasaurus kalasinensis, tenha vivido há cerca de 150 milhões de anos.",
+      "title": "RSPB compra paisagem ‘mágica’ de 96 hectares para reconectar habitats",
+      "summary": "A medida ajudará os conservacionistas em Gallt-y-bere a proteger habitats de importância internacional.",
       "source": "BBC News",
-      "date": "Fri, 10 Jul 2026 21:30:57 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
+      "date": "Sat, 11 Jul 2026 12:01:34 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cdx78nk7g25o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5944/live/6a836790-79ee-11f1-af3a-6f11866b2c27.jpg",
       "score": 0.76
     },
     {
@@ -201,47 +146,47 @@
       "score": 0.76
     },
     {
-      "id": "0ac49d9c",
+      "id": "10cb76ef",
       "cat": "tecnologia",
-      "title": "Lídia Jorge, o Prêmio Camões e porque essa conquista é importante para todas nós",
-      "summary": "Embora o Prêmio Camões exista há quase quatro décadas (quase todo o tempo de carreira de Lídia Jorge), dos 38 escritores que receberam o Prêmio Camões até o presente ano, apenas 10 são mulheres. Opinião de Vivien Merciel Suarez",
+      "title": "PS pede documentação detalhada da nova solução para futura sede do Banco de Portugal",
+      "summary": "Governador revelou esta semana que o BdP vai adquirir apenas um edifício e não dois como estava previsto, poupando 35 milhões a 40 milhões de euros em relação ao projecto inicial.",
       "source": "Público",
-      "date": "Sat, 11 Jul 2026 06:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/11/publico-brasil/opiniao/lidia-jorge-premio-camoes-conquista-importante-2181258",
+      "date": "Sat, 11 Jul 2026 11:25:29 GMT",
+      "url": "https://www.publico.pt/2026/07/11/economia/noticia/ps-pede-documentacao-detalhada-nova-solucao-futura-sede-banco-portugal-2181320",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "f53fe152",
+      "id": "f92ddd93",
       "cat": "tecnologia",
-      "title": "Luís Montenegro foi “à bola” com o país em estado de alerta",
-      "summary": "O que se passou nos últimos quinze dias em Portugal criou-me dúvidas sobre se Luís Montenegro encarna mesmo os valores e os deveres que competem a um primeiro-ministro. Opinião de São José Almeida",
-      "source": "Público",
-      "date": "Sat, 11 Jul 2026 06:18:00 GMT",
-      "url": "https://www.publico.pt/2026/07/11/politica/opiniao/luis-montenegro-bola-pais-estado-alerta-2181236",
-      "img": null,
+      "title": "Amália alucina em versão chatbot (que não é suposto ser)",
+      "summary": "Lançado há uma semana, uma versão do modelo adaptada a chatbot dá respostas inusitadas. Mas esse não é o objetivo do modelo português, que ainda dá os primeiros passos.",
+      "source": "Observador",
+      "date": "Sat, 11 Jul 2026 12:24:10 +0100",
+      "url": "https://observador.pt/especiais/alucinacoes-do-modelo-amalia-dao-que-falar-mas-o-llm-portugues-nao-foi-feito-para-ser-um-chatbot-mostram-vontade-de-experimentar/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2497:1407:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/01171817/ts154a6163.jpg",
       "score": 0.73
     },
     {
-      "id": "0aface1d",
+      "id": "a1e13bb5",
       "cat": "tecnologia",
-      "title": "Delta investe perto de 10 milhões para \"salvar\" fabricante de cápsulas Mocoffee",
-      "summary": "Plano de recuperação da Mocoffee prevê perdão de 64,4% da dívida de 15,5 milhões a credores comuns. A Delta cobre o resto de imediato e injeta 3 milhões para ficar com 100% e \"salvar\" a fabricante de cápsulas de café da Azambuja.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 10 Jul 2026 19:58:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/delta-investe-perto-de-10-milhoes-para-salvar-fabricante-de-capsulas-mocoffee",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-08/img_100x100uu2023-08-02-09-59-00-457877.jpg",
+      "title": "12h. Governo vai pagar horas extra a professores",
+      "summary": "Sebastião Bugalho enaltece o esforço que está a ser feito pelos docentes. Ainda, Rui Tavares já discursou no primeiro dia de Congresso do Livre.",
+      "source": "Observador",
+      "date": "Sat, 11 Jul 2026 12:04:35 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2383/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "1dcfd13e",
+      "id": "3fcde529",
       "cat": "tecnologia",
-      "title": "Lisboa sofre com sistema \"Volta\" após fenómeno de procura de embalagens no lixo",
-      "summary": "Sem números concretos sobre este fenómeno, a CML refere que, \"em alguns casos, contentores e papeleiras são remexidos ou mesmo despejados na via pública por pessoas que procuram embalagens abrangidas pelo sistema 'Volta', com o objetivo de obter o respetivo reembolso\".",
+      "title": "PS pede documentação detalhada da nova solução para a sede do Banco de Portugal",
+      "summary": "O requerimento enviado ao supervisor bancário através do parlamento surge depois desta semana Álvaro Santos Pereira ter anunciado em audição parlamentar que o Banco de Portugal vai adquirir apenas um edifício em Entrecampos e não dois como estava previsto, alteração que custará menos 35 milhões a 40",
       "source": "Jornal de Negócios",
-      "date": "Fri, 10 Jul 2026 18:32:47 +0100",
-      "url": "https://www.jornaldenegocios.pt/lusa/detalhe/lisboa-sofre-com-sistema-volta-apos-fenomeno-de-procura-de-embalagens-no-lixo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-06/img_100x100uu2022-06-08-20-49-18-430595.jpg",
+      "date": "Sat, 11 Jul 2026 11:28:14 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/ps-pede-documentacao-detalhada-da-nova-solucao-para-a-sede-do-banco-de-portugal",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-09-11-54-30-526319.jpg",
       "score": 0.73
     },
     {
@@ -256,14 +201,36 @@
       "score": 0.73
     },
     {
-      "id": "8394a28d",
+      "id": "01f92497",
       "cat": "tecnologia",
-      "title": "Governo quer criar seis grandes áreas empresariais para fixar multinacionais",
-      "summary": "O Governo quer apostar na criação de seis grandes áreas empresariais no país para fixar empresas multinacionais, anunciou hoje em Torres Vedras o ministro da Economia e da Coesão Territorial. “Queremos construir áreas empresariais entre os três e os oito quilómetros quadrados. Queremos fazer seis no",
+      "title": "Para alcançar a independência, a Europa precisa de uma revolução da eletrificação",
+      "summary": "Podemos realmente afirmar que somos livres e independentes na Europa? Sim, no sentido em que a liberdade é um valor claramente inscrito nas nossas declarações, constituições e tratados fundadores. Não obstante, os valores inscritos nas nossas faturas de energia revelam outra realidade. Nos últimos m",
       "source": "ECO",
-      "date": "Fri, 10 Jul 2026 17:59:11 +0000",
-      "url": "https://eco.sapo.pt/2026/07/10/governo-quer-criar-seis-grandes-areas-empresariais-para-fixar-multinacionais/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-ptrr-abreu08.jpg",
+      "date": "Sat, 11 Jul 2026 10:58:55 +0000",
+      "url": "https://eco.sapo.pt/opiniao/para-alcancar-a-independencia-a-europa-precisa-de-uma-revolucao-da-eletrificacao/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/07/dan-jorgensen-opiniao.png",
+      "score": 0.73
+    },
+    {
+      "id": "43885b9d",
+      "cat": "tecnologia",
+      "title": "Irão diz ter “cumprido a palavra” perante Estados Unidos no protocolo de cessar-fogo",
+      "summary": "&#8220;Até agora, o Irão cumpriu a sua palavra&#8221;, escreveu o ministro dos Negócios Estrangeiros iraniano, Abbas Araghchi, na rede social X, acrescentando que &#8220;só pode haver respeito quando este é mútuo&#8221;. O presidente norte-americano voltou a declarar rescincido o acordo de cessar-fo",
+      "source": "ECO",
+      "date": "Sat, 11 Jul 2026 10:30:24 +0000",
+      "url": "https://eco.sapo.pt/2026/07/11/irao-diz-ter-cumprido-a-palavra-perante-estados-unidos-no-protocolo-de-cessar-fogo/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47379612-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "5f2332ae",
+      "cat": "cultura",
+      "title": "O primeiro hospital para plantas domésticas do Reino Unido – onde as plantas são colocadas em gotas e tratadas contra insetos",
+      "summary": "O hospital mais exclusivo da Grã-Bretanha já está aberto - onde os “pacientes” são atendidos. são plantas de casa. Alguns são “colocados em soro” e alguns podem entrar em quarentena, mas todos recebem o mesmo carinho de Rosanna Costello, que iniciou o negócio para ajudar os clientes a manterem vivas suas plantas de interior. Encontrado em Edin",
+      "source": "Good News Network",
+      "date": "Sat, 11 Jul 2026 11:00:23 +0000",
+      "url": "https://www.goodnewsnetwork.org/uk-hospital-where-the-patients-are-houseplants/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/houseplant-hospital-by-Katielee-Arrowsmith-SWNS.jpeg",
       "score": 0.73
     },
     {
@@ -278,14 +245,14 @@
       "score": 0.73
     },
     {
-      "id": "f4c1929e",
-      "cat": "sociedade",
-      "title": "O programa 'Storm Smart' do Florida Teen ensina preparação para furacões aos alunos - porque as escolas não o fizeram",
-      "summary": "Do sul da Flórida vem a história de um adolescente intrépido que desenvolveu um minicurrículo sobre preparação para furacões para caber nas aulas escolares. Tendo sofrido (ou talvez enriquecido) com o impacto do furacão Irma em sua comunidade, Elise Raurell, de 16 anos, criou o Storm Smart em 201",
-      "source": "Good News Network",
-      "date": "Fri, 10 Jul 2026 18:30:37 +0000",
-      "url": "https://www.goodnewsnetwork.org/south-florida-teens-storm-smart-program-teaches-hundreds-of-students-hurricane-preparedness/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/maxresdefault-11.jpg",
+      "id": "b5e017b2",
+      "cat": "ciencia",
+      "title": "Este planeta alienígena nunca tem nascer ou pôr do sol. Pode sustentar a vida",
+      "summary": "Um planeta com um lado permanentemente assando e o outro congelado em uma escuridão sem fim ainda pode ter uma chance de sustentar vida. Os investigadores descobriram que o calor dentro de um exoplaneta bloqueado pelas marés poderia circular num ciclo estável e contínuo, ajudando a moderar as temperaturas em certas regiões. Seu trabalho",
+      "source": "ScienceDaily",
+      "date": "Thu, 09 Jul 2026 17:27:22 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm",
+      "img": "https://www.sciencedaily.com/images/1920/extreme-exoplanet.webp",
       "score": 0.73
     },
     {
@@ -311,25 +278,58 @@
       "score": 0.73
     },
     {
-      "id": "477b623d",
+      "id": "2b0069c3",
       "cat": "tecnologia",
-      "title": "As notícias das 8h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Sat, 11 Jul 2026 08:14:10 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2454/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Morreram 15 turistas que seguiam a bordo de barco que virou no Vietname",
+      "summary": "Das 36 pessoas que seguiam a bodo da embarcação — 32 turistas indianos e quatro membros da tripulação — apenas 21 sobreviveram.",
+      "source": "Público",
+      "date": "Sat, 11 Jul 2026 12:26:18 GMT",
+      "url": "https://www.publico.pt/2026/07/11/mundo/noticia/morreram-15-turistas-seguiam-bordo-barco-virou-vietname-2181328",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "5ac255f7",
+      "id": "90c339ea",
+      "cat": "geral",
+      "title": "Os Espíritos das Aves , Eliot Weinberger e o mundo como outra coisa",
+      "summary": "O ensaísta norte-americano costura factos com a inventividade de um poeta.",
+      "source": "Público",
+      "date": "Sat, 11 Jul 2026 11:51:00 GMT",
+      "url": "https://www.publico.pt/2026/07/11/culturaipsilon/critica/espiritos-aves-eliot-weinberger-mundo-2179165",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "4f2ee2e8",
       "cat": "tecnologia",
-      "title": "O caso do jovem que não sabia como estar no mundo",
-      "summary": "O psicólogo Pedro Aires Fernandes acompanhou um paciente de 23 anos muito desligado e desinteressado da vida. O caso inquietou-o e levou-o a interrogar-se como terapeuta, como homem e como pai.",
+      "title": "Portugal terá de fazer grande esforço de adaptação ao calor",
+      "summary": "Nuno Sampaio, diretor executivo da Casa da Arquitetura, propõe eliminar estacionamento para criar zonas com árvores, sombras nos passeios e áreas de descanso ao ar livre.",
       "source": "Observador",
-      "date": "Sat, 11 Jul 2026 08:01:37 +0100",
-      "url": "https://observador.pt/programas/o-doente-que-me-marcou/o-caso-do-jovem-que-nao-sabia-como-estar-no-mundo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/02/11164236/770-podcast-o-doente-que-me-marcou.jpg",
+      "date": "Sat, 11 Jul 2026 13:20:38 +0100",
+      "url": "https://observador.pt/2026/07/11/portugal-tera-de-fazer-grande-esforco-para-adaptar-edificios-e-espacos-publicos-ao-calor-extremo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:53/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/02190712/gettyimages-2283725600-scaled.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "a3165e1b",
+      "cat": "cultura",
+      "title": "PSD aberto ao diálogo sobre arrendamento não vê \"portas fechadas\" noutros partidos",
+      "summary": "Na sexta-feira, o PS acusou o Governo de avançar com medidas que transformam \"o acesso ao arrendamento num leilão\" e estimulam o aumento dos preços, criticando que seja retirado \"o único mecanismo que moderava os preços dos novos contratos\".",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 11 Jul 2026 14:11:56 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/psd-aberto-ao-dialogo-sobre-arrendamento-nao-ve-portas-fechadas-noutros-partidos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-09/img_100x100uu2024-09-22-15-04-16-485765.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "77cb1887",
+      "cat": "tecnologia",
+      "title": "Galp avança para arbitragem sobre diferendo fiscal em Moçambique",
+      "summary": "A decisão da petrolífera acontece depois de vários meses de divergências entre a energética portuguesa e a Autoridade Tributária (AT) moçambicana sobre a tributação da venda da participação de 10% da Galp na Área 4 da Bacia do Rovuma, de gás natural, à petrolífera estatal dos Emirados Árabes Unidos ",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 11 Jul 2026 14:07:10 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/galp-avanca-para-arbitragem-sobre-diferendo-fiscal-em-mocambique",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-15-08-41-07-523674.jpg",
       "score": 0.7
     }
   ]
