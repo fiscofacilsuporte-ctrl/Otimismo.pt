@@ -1,5 +1,5 @@
 {
-  "last_update": "11/07/2026 03:27 UTC",
+  "last_update": "11/07/2026 08:07 UTC",
   "total": 30,
   "news": [
     {
@@ -78,6 +78,28 @@
       "url": "https://www.goodnewsnetwork.org/quebec-firm-pioneers-cyanide-free-gold-extraction-and-arsenic-capture-to-clean-up-mining-industry/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Screenshot-2026-07-10-121757.jpg",
       "score": 0.79
+    },
+    {
+      "id": "09194973",
+      "cat": "tecnologia",
+      "title": "Brasileiros ampliam investimentos em Portugal e portugueses reduzem posição no Brasil",
+      "summary": "Investimentos brasileiros em Portugal atingiram 4,5 bilhões de euros no primeiro trimestre de 2026, o maior nível desde 2021. Já investimentos portugueses no Brasil recuaram ao patamar de 2023.",
+      "source": "Público",
+      "date": "Sat, 11 Jul 2026 06:45:00 GMT",
+      "url": "https://www.publico.pt/2026/07/11/publico-brasil/noticia/brasileiros-ampliam-investimentos-portugal-portugueses-reduzem-posicao-brasil-2181302",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "9b1cb7c9",
+      "cat": "tecnologia",
+      "title": "Milhares de milhões aceleram corrida a dois no Mundo da IA",
+      "summary": "OpenAI e Anthropic captaram quase metade de todo o investimento global em startups no primeiro semestre do ano. IA continua a crescer, mas há cada vez concentração de capital nesta corrida.",
+      "source": "Observador",
+      "date": "Sat, 11 Jul 2026 06:07:24 +0100",
+      "url": "https://observador.pt/programas/m-quinas-que-pensam/milhares-de-milhoes-aceleram-corrida-a-dois-no-mundo-da-ia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg",
+      "score": 0.76
     },
     {
       "id": "5ec68016",
@@ -179,14 +201,25 @@
       "score": 0.76
     },
     {
-      "id": "b30c8f0c",
+      "id": "0ac49d9c",
       "cat": "tecnologia",
-      "title": "1h. Nova falha pode obrigar professores a reavaliar provas",
-      "summary": "O movimento MetaProf alerta que a resolução de um erro técnico na plataforma de classificação de exames pode forçar os professores a rever respostas que já tinham sido totalmente corrigidas.",
-      "source": "Observador",
-      "date": "Sat, 11 Jul 2026 01:15:41 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2320/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Lídia Jorge, o Prêmio Camões e porque essa conquista é importante para todas nós",
+      "summary": "Embora o Prêmio Camões exista há quase quatro décadas (quase todo o tempo de carreira de Lídia Jorge), dos 38 escritores que receberam o Prêmio Camões até o presente ano, apenas 10 são mulheres. Opinião de Vivien Merciel Suarez",
+      "source": "Público",
+      "date": "Sat, 11 Jul 2026 06:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/11/publico-brasil/opiniao/lidia-jorge-premio-camoes-conquista-importante-2181258",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "f53fe152",
+      "cat": "tecnologia",
+      "title": "Luís Montenegro foi “à bola” com o país em estado de alerta",
+      "summary": "O que se passou nos últimos quinze dias em Portugal criou-me dúvidas sobre se Luís Montenegro encarna mesmo os valores e os deveres que competem a um primeiro-ministro. Opinião de São José Almeida",
+      "source": "Público",
+      "date": "Sat, 11 Jul 2026 06:18:00 GMT",
+      "url": "https://www.publico.pt/2026/07/11/politica/opiniao/luis-montenegro-bola-pais-estado-alerta-2181236",
+      "img": null,
       "score": 0.73
     },
     {
@@ -234,6 +267,17 @@
       "score": 0.73
     },
     {
+      "id": "f62c25a5",
+      "cat": "tecnologia",
+      "title": "Boas novas na história, 11 de Julho",
+      "summary": "Há 90 anos, a Ponte RFK, também conhecida como Ponte Triborough, foi aberta ao tráfego na cidade de Nova York. Juntas, a série de pontes e viadutos abrangem mais de 1.500 metros e ligam os bairros de Manhattan, Queens e Bronx. A primeira seção do complexo passa sobre o rio Harlem e",
+      "source": "Good News Network",
+      "date": "Sat, 11 Jul 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060711/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/07/Fleetwood_Mac_-_Fleetwood_Mac_1975-LP-cover-fair-use-wikipedia.jpg",
+      "score": 0.73
+    },
+    {
       "id": "f4c1929e",
       "cat": "sociedade",
       "title": "O programa 'Storm Smart' do Florida Teen ensina preparação para furacões aos alunos - porque as escolas não o fizeram",
@@ -242,17 +286,6 @@
       "date": "Fri, 10 Jul 2026 18:30:37 +0000",
       "url": "https://www.goodnewsnetwork.org/south-florida-teens-storm-smart-program-teaches-hundreds-of-students-hurricane-preparedness/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/maxresdefault-11.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6607d284",
-      "cat": "tecnologia",
-      "title": "Seis novos ônibus elétricos no Colorado funcionam como baterias de reserva para a rede elétrica da área de Denver",
-      "summary": "A nova frota de ônibus escolares elétricos de uma cidade do Colorado também funciona como bateria reserva para ajudar durante os picos de demanda de energia. Carregando à noite, usando energia para pegar, deixar e depois deixar as crianças novamente, os ônibus normalmente ficariam parados em suas estações de carregamento até o amanhecer os chamar para fora.",
-      "source": "Good News Network",
-      "date": "Thu, 09 Jul 2026 18:30:11 +0000",
-      "url": "https://www.goodnewsnetwork.org/6-new-electric-buses-in-colorado-double-as-backup-batteries-for-the-denver-areas-power-grid/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-Highland-Electric-Fleets-charging-station-for-Durham-Schools-credit-Highland-Electric-Fleets-media-photo.jpg",
       "score": 0.73
     },
     {
@@ -278,58 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "4ea5286d",
+      "id": "477b623d",
       "cat": "tecnologia",
-      "title": "O elogio da irreverência no país do “respeitinho”",
-      "summary": "Vou desobedecer aos meus amigos e falar de algo que os intelectuais, pequenos, médios e grandes, detestam, a música “pimba”, a música abaixo de “pimba”. Opinião de José Pacheco Pereira",
-      "source": "Público",
-      "date": "Fri, 10 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/11/opiniao/opiniao/elogio-irreverencia-pais-respeitinho-2181267",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "b6de7272",
-      "cat": "ciencia",
-      "title": "A censura nos EUA é real. Viu o vídeo dos médicos expulsos?",
-      "summary": "Um texto de opinião banal e o gesto de o distribuir levou à expulsão de cinco médicos de um congresso científico. O alerta está dado. Já não são sinais. Opinião de Bárbara Reis",
-      "source": "Público",
-      "date": "Fri, 10 Jul 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/07/11/ciencia/opiniao/censura-eua-real-viu-video-medicos-expulsos-2181293",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "c641fbf2",
-      "cat": "tecnologia",
-      "title": "Ricos, famosos e queixosos",
-      "summary": "Para bem da liberdade de imprensa, a cruzada punitiva destes famosos não conseguiu transformar ressentimentos, suspeitas e inferências em certezas judiciais. Opinião de Francisco Teixeira da Mota",
-      "source": "Público",
-      "date": "Fri, 10 Jul 2026 23:20:00 GMT",
-      "url": "https://www.publico.pt/2026/07/11/opiniao/opiniao/ricos-famosos-queixosos-2181255",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "b3d2550f",
-      "cat": "tecnologia",
-      "title": "As notícias das 3h",
+      "title": "As notícias das 8h",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sat, 11 Jul 2026 03:12:51 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2374/",
+      "date": "Sat, 11 Jul 2026 08:14:10 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2454/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "dbf4ca41",
+      "id": "5ac255f7",
       "cat": "tecnologia",
-      "title": "2h. Chega quer combustíveis colados a preços lá fora",
-      "summary": "André Ventura propõe que as descidas do petróleo no mercado internacional reflitam-se de imediato nas bombas nacionais. O líder do Chega criticou ainda Luís Montenegro por ir ao NOS Alive.",
+      "title": "O caso do jovem que não sabia como estar no mundo",
+      "summary": "O psicólogo Pedro Aires Fernandes acompanhou um paciente de 23 anos muito desligado e desinteressado da vida. O caso inquietou-o e levou-o a interrogar-se como terapeuta, como homem e como pai.",
       "source": "Observador",
-      "date": "Sat, 11 Jul 2026 02:14:30 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2347/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 11 Jul 2026 08:01:37 +0100",
+      "url": "https://observador.pt/programas/o-doente-que-me-marcou/o-caso-do-jovem-que-nao-sabia-como-estar-no-mundo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/02/11164236/770-podcast-o-doente-que-me-marcou.jpg",
       "score": 0.7
     }
   ]
