@@ -1,16 +1,16 @@
 {
-  "last_update": "12/07/2026 13:43 UTC",
+  "last_update": "12/07/2026 19:16 UTC",
   "total": 30,
   "news": [
     {
-      "id": "615b3f18",
-      "cat": "desporto",
-      "title": "Fernando Pimenta vence em Montreal",
-      "summary": "O português Fernando Pimenta arrebatou a medalha de ouro no K1 1.000 metros da Taça do Mundo de Montreal, conquistando o segundo pódio luso no Canadá, depois da prata do K4 500 da véspera.",
-      "source": "RTP",
-      "date": "Sat, 11 Jul 2026 21:55:17 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/fernando-pimenta-vence-em-montreal_d1752766",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b69325c12060b29d25139c7b0108ff97?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "id": "3669041b",
+      "cat": "ciencia",
+      "title": "Equipe japonesa encontra bactéria em sapo que elimina tumores cancerígenos com uma dose única",
+      "summary": "Cientistas japoneses descobriram uma bactéria natural numa espécie de rã com atividade anticancerígena extraordinariamente potente – na verdade, destruiu tumores cancerígenos com uma dose. Liderada pelo professor Eijiro Miyako, a equipe do Instituto Avançado de Ciência e Tecnologia do Japão descobriu que um",
+      "source": "Good News Network",
+      "date": "Sun, 12 Jul 2026 17:21:15 +0000",
+      "url": "https://www.goodnewsnetwork.org/japanese-find-frog-bacteria-that-wipes-out-cancer-tumors-with-a-single-dose/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Japanese-Tree-Frog-Hyla-japonica-by-Greg-Peterson-CC-BY-SA-3.jpeg",
       "score": 0.82
     },
     {
@@ -91,28 +91,6 @@
       "score": 0.79
     },
     {
-      "id": "6e673b04",
-      "cat": "tecnologia",
-      "title": "Klopp a um passo da Seleção da Alemanha",
-      "summary": "A Federação Alemã de Futebol anunciou yer chegado a acordo com Jürgen Klopp para que este assuma o cargo de selecionador da Mannschaft, mas ainda precisa da aprovação do grupo Red Bull.",
-      "source": "RTP",
-      "date": "Sat, 11 Jul 2026 20:07:12 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/klopp-a-um-passo-da-selecao-da-alemanha_d1752751",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/78/78824801fe2eac3fd591c9d14b734497?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "04d62424",
-      "cat": "tecnologia",
-      "title": "Lagarde adia decisão e trava reforma da liderança do Fórum de Davos",
-      "summary": "O conselho de curadores do Fórum Económico Mundial está dividido sobre uma reforma da estrutura de governação enquanto aguarda que Christine Lagarde, presidente do Banco Central Europeu, decida se pretende candidatar-se à presidência da organização, segundo avançou o Financial Times (acesso pago, em",
-      "source": "ECO",
-      "date": "Sun, 12 Jul 2026 00:07:18 +0000",
-      "url": "https://eco.sapo.pt/2026/07/12/lagarde-adia-decisao-e-trava-reforma-da-lideranca-do-forum-de-davos/",
-      "img": "https://eco.imgix.net/uploads/2026/04/cropped-lagarde.jpg",
-      "score": 0.76
-    },
-    {
       "id": "ea7b80f3",
       "cat": "tecnologia",
       "title": "Reveladas: as cidades mais habitáveis ​​do mundo em 2026",
@@ -157,91 +135,25 @@
       "score": 0.76
     },
     {
-      "id": "d8f19769",
+      "id": "8510856f",
       "cat": "tecnologia",
-      "title": "Râguebi: Portugal impressiona com vitória clara no Canadá",
-      "summary": "Depois de ter deixado fugir o triunfo nos EUA nos últimos minutos, a selecção portuguesa de râguebi ganhou em Edmonton, por 38-14, na 2.ª jornada da Nations Cup.",
+      "title": "Israel marca eleições legislativas para 27 de Outubro",
+      "summary": "Sondagens mostram crescimento do partido de antigo chefe do Exército, com apenas dois pontos percentuais de diferença entre o bloco do Governo e o da oposição.",
       "source": "Público",
-      "date": "Sun, 12 Jul 2026 13:09:12 GMT",
-      "url": "https://www.publico.pt/2026/07/12/desporto/noticia/raguebi-portugal-impressiona-vitoria-clara-canada-2181388",
+      "date": "Sun, 12 Jul 2026 18:06:58 GMT",
+      "url": "https://www.publico.pt/2026/07/12/mundo/noticia/israel-marca-eleicoes-legislativas-27-outubro-2181407",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "260bd95e",
-      "cat": "cultura",
-      "title": "Festival que celebra artistas e empreendedores brasileiros chega ao Porto",
-      "summary": "Sucesso em Cascais, Bossa Market, evento criado pela brasileira Fabi Barcellos, acontece nos dias 18 e 19 de julho, pela primeira vez, nos jardins do WOW, em Vila Nova de Gaia.",
+      "id": "44c54515",
+      "cat": "tecnologia",
+      "title": "No Chão da Lagoa, Albuquerque avisou Montenegro de que acabou o tempo das “ilhas adjacentes”",
+      "summary": "Sem a presença de dirigentes nacionais na festa do Chão da Lagoa, o presidente do PSD-Madeira exigiu a resolução dos problemas da região e alertou que acabou a “conversa mole”.",
       "source": "Público",
-      "date": "Sun, 12 Jul 2026 12:53:38 GMT",
-      "url": "https://www.publico.pt/2026/07/12/publico-brasil/noticia/festival-celebra-artistas-empreendedores-brasileiros-chega-porto-2181315",
+      "date": "Sun, 12 Jul 2026 17:38:48 GMT",
+      "url": "https://www.publico.pt/2026/07/12/politica/noticia/chao-lagoa-albuquerque-avisou-montenegro-acabou-tempo-ilhas-adjacentes-2181405",
       "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "1f18ed3b",
-      "cat": "geral",
-      "title": "ONG de protecção do património pede “esclarecimentos urgentes” à Câmara do Porto sobre obras no centro",
-      "summary": "O Conselho Internacional de Monumentos e Sítios questionou a Câmara do Porto sobre se as obras no centro histórico “foram aprovadas e com que fundamentação”.",
-      "source": "Público",
-      "date": "Sun, 12 Jul 2026 12:06:01 GMT",
-      "url": "https://www.publico.pt/2026/07/12/local/noticia/ong-proteccao-patrimonio-pede-esclarecimentos-urgentes-camara-porto-obras-centro-2181381",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "8a490321",
-      "cat": "tecnologia",
-      "title": "ICOMOS pede esclarecimentos à Câmara do Porto sobre obras",
-      "summary": "O Conselho Internacional de Monumentos e Sítios quer \"esclarecimentos urgentes\" sobre várias empreitadas no centro histórico do Porto.",
-      "source": "Observador",
-      "date": "Sun, 12 Jul 2026 12:47:52 +0100",
-      "url": "https://observador.pt/2026/07/12/organizacao-de-protecao-do-patrimonio-pede-esclarecimentos-urgentes-a-camara-do-porto-sobre-obras-no-centro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/02/04134937/43330389.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "3c2ef2ed",
-      "cat": "tecnologia",
-      "title": "Dia 32 do Mundial. Meias-finais arrancam na terça-feira",
-      "summary": "Dia da ressaca das vitórias inglesa e argentina no Mundial. A prova está a poucos dias da final, que reúne o vencedor do duelo entre França e Espanha e o vencedor do jogo entre Inglaterra e Argentina.",
-      "source": "Observador",
-      "date": "Sun, 12 Jul 2026 11:23:19 +0100",
-      "url": "https://observador.pt/liveblogs/dia-32-do-mundial-meias-finais-arrancam-ja-na-terca-feira/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:273/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/12111733/gettyimages-2284915106-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "27beebdc",
-      "cat": "tecnologia",
-      "title": "Os exames e a lei da rolha",
-      "summary": "O Ministério da Educação, Ciência e Inovação, tutelado por Fernando Alexandre, não respondeu atempadamente a perguntas colocadas pela imprensa sobre as entidades envolvidas no processo de digitalização",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 12 Jul 2026 12:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/os-exames-e-a-lei-da-rolha",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-21-15-20-00-296329.png",
-      "score": 0.73
-    },
-    {
-      "id": "658f866e",
-      "cat": "tecnologia",
-      "title": "Consumidores trocam mais rapidamente de carro elétrico chinês do que de telemóvel",
-      "summary": "Idade média destes veículos é de apenas 1,8 anos, o que sugere uma muito mais rápida substituição por parte dos proprietários que procuram modelos novos, com mais autonomia e tecnologia.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 12 Jul 2026 11:45:33 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/consumidores-trocam-mais-rapidamente-de-carro-eletrico-chines-do-que-de-telemovel",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-01-20-01-00-524660.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "c8535767",
-      "cat": "tecnologia",
-      "title": "Potencial total da CPLP está longe de ter sido explorado, diz Rangel",
-      "summary": "Ministro dos Negócios Estrangeiros faz um balanço \"francamente positivo\" da organização ao longo destes 30 anos. Diz que a CPLP tem sido um importante instrumento da política externa de todos os Estados-membros.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 12 Jul 2026 10:18:41 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/potencial-total-da-cplp-esta-longe-de-ter-sido-explorado-diz-rangel",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-23-13-35-33-518932.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +168,47 @@
       "score": 0.73
     },
     {
-      "id": "01891b73",
+      "id": "b1aced85",
       "cat": "tecnologia",
-      "title": "FC Porto arranca com empate à porta fechada",
-      "summary": "O FC Porto empatou com os escoceses do Hibernian por 1-1, no seu primeiro jogo de pré-temporada, disputado à porta fechada, divulgaram os campeões portugueses.",
+      "title": "Tiago Antunes conquista Troféu Joaquim Agostinho",
+      "summary": "O ‘local’ Tiago Antunes conquistou o 49.º Troféu Joaquim Agostinho, subindo ao lugar mais alto de um pódio composto exclusivamente por ciclistas portugueses, após a chegada ao alto de Montejunto, onde se impôs José Neves.",
       "source": "RTP",
-      "date": "Sun, 12 Jul 2026 00:06:49 +0100",
-      "url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-arranca-com-empate-a-porta-fechada_d1752775",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca8748960ecf8fcc694e3371a38ef7c9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sun, 12 Jul 2026 19:57:43 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/tiago-antunes-conquista-trofeu-joaquim-agostinho_d1752877",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/04/04222821242ee55f4e277236896bbd16?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "ba1d3fc3",
+      "id": "0e0d6e0f",
       "cat": "tecnologia",
-      "title": "Dica ECO dos Fundos: Novos apoios para a inovação produtiva",
-      "summary": "O novo concurso para apoiar a inovação produtiva abriu no passado dia 15 de junho, um ano e um mês depois de ter sido inscrito no plano de avisos do Portugal 2030, pela primeira vez. Até 30 de setembro as PME podem candidatar-se a 182,5 milhões de euros, com taxas de comparticipação que podem ir [&#",
+      "title": "Mathieu van der Poel vence nona etapa da Volta a França",
+      "summary": "O neerlandês Mathieu van der Poel (Alpecin-Premier Tech) impôs-se aos companheiros de fuga na nona etapa da Volta a França, com Tadej Pogacar (UAE Emirates) a conservar a amarela antes do primeiro dia de descanso.",
+      "source": "RTP",
+      "date": "Sun, 12 Jul 2026 17:55:45 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/mathieu-van-der-poel-vence-nona-etapa-da-volta-a-franca_d1752863",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bf0f20886a0d151d172596c2aa1f408?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "382797bf",
+      "cat": "tecnologia",
+      "title": "Marc Márquez vence MotoGP da Alemanha",
+      "summary": "O espanhol Marc Márquez (Ducati) venceu o Grande Prémio da Alemanha de MotoGP, 11.ª prova de 22 da temporada, disputado no circuito de Sachsenring, somando o terceiro triunfo do ano e relançando-se na luta pelo título mundial.",
+      "source": "RTP",
+      "date": "Sun, 12 Jul 2026 16:13:03 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/marc-marquez-vence-motogp-da-alemanha_d1752851",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/02/02d4c7dd59b2756d9bb41beca0163714?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "321818ec",
+      "cat": "economia",
+      "title": "Espanhola Concentra compra 100% da mediadora de seguros Obimedia",
+      "summary": "O Grupo Concentra, especializado na intermediação de seguros e resseguros em Espanha e Portugal, anunciou a integração da Obimedia – Sociedade Mediadora de Seguros., agente de seguros com sede em Óbidos, distrito de Leiria. Esta operação insere-se na estratégia de crescimento do grupo no mercado por",
       "source": "ECO",
-      "date": "Sun, 12 Jul 2026 09:14:23 +0000",
-      "url": "https://eco.sapo.pt/2026/07/12/dica-eco-dos-fundos-novos-apoios-para-a-inovacao-produtiva/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-bernardo-maciel04.jpg",
+      "date": "Sun, 12 Jul 2026 14:33:04 +0000",
+      "url": "https://eco.sapo.pt/2026/07/12/espanhola-concentra-compra-100-da-mediadora-de-seguros-obimedia/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-emilio-de-navasques-torroba-cfo-grupo-concentra-e-jose-luis-oliveira-diretor-da-obimedia.jpg",
       "score": 0.73
     },
     {
@@ -286,17 +220,6 @@
       "date": "Sat, 11 Jul 2026 19:22:43 +0000",
       "url": "https://www.goodnewsnetwork.org/new-test-scan-diagnose-endometriosis-in-days-rather-than-years/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Gut-pain-cure-hot-pad-sick-by-Curated-Lifestyle-For-Unsplash-O_tZw9fO6yY.jpeg",
-      "score": 0.73
-    },
-    {
-      "id": "f5adeb1a",
-      "cat": "tecnologia",
-      "title": "Artista cria desenhos incrivelmente detalhados usando apenas teclas de máquina de escrever (LOOK)",
-      "summary": "Um artista londrino criou uma série de obras de arte incríveis – incluindo uma cena da quadra central de Wimbledon – usando apenas as teclas de uma máquina de escrever vintage. Em seu estúdio em Canning Town, no leste de Londres, James Cook diz que digita mais de um milhão de letras e símbolos no pedaço de papel para criar seu trabalho.",
-      "source": "Good News Network",
-      "date": "Sat, 11 Jul 2026 17:52:48 +0000",
-      "url": "https://www.goodnewsnetwork.org/artist-creates-amazing-detailed-drawings-using-only-typewriter-keystrokes/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/James-Cook-typewriter-artist-SWNS.jpeg",
       "score": 0.73
     },
     {
@@ -322,14 +245,91 @@
       "score": 0.73
     },
     {
-      "id": "89050291",
+      "id": "205b85a1",
       "cat": "tecnologia",
-      "title": "As notícias das 13h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "No bairro do Talude, em Loures, barracas continuam de pé, tal como a memória das demolições",
+      "summary": "Um ano após as demolições mediáticas no Talude Militar, há 70 barracas. Falta a água, a luz e uma morada. Câmara de Loures diz que mantém objectivo de “erradicar as construções precárias e ilegais”.",
+      "source": "Público",
+      "date": "Sun, 12 Jul 2026 17:43:00 GMT",
+      "url": "https://www.publico.pt/2026/07/12/local/noticia/bairro-talude-loures-barracas-continuam-pe-tal-memoria-demolicoes-2181257",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "4d0228fc",
+      "cat": "tecnologia",
+      "title": "Exames. Professores convocados a três dias do prazo",
+      "summary": "Missão Escola Pública denuncia ainda que os critérios de avaliação definitivos só deverão ser publicados um dia antes do fim do prazo para as correções.",
       "source": "Observador",
-      "date": "Sun, 12 Jul 2026 13:15:16 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2383/",
+      "date": "Sun, 12 Jul 2026 19:16:27 +0100",
+      "url": "https://observador.pt/2026/07/12/professores-convocados-para-corrigir-exames-a-tres-dias-do-final-do-processo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11114429/47415277.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "da9b4076",
+      "cat": "tecnologia",
+      "title": "19h. Livre vai apresentar pacote de medidas no Parlamento",
+      "summary": "O jornalista do Observador Ricardo Lopes esteve a acompanhar os dois dias do congresso do Livre, em Sintra. Ainda, os EUA asseguram que o Estreito de Ormuz está \"aberto para todos os navios\".",
+      "source": "Observador",
+      "date": "Sun, 12 Jul 2026 19:08:25 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2121/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "8c8a6f61",
+      "cat": "tecnologia",
+      "title": "Maus resultados nos exames",
+      "summary": "Depois dos exames do secundário, a avaliação universitária foi capturada por um facilitismo que traz os alunos até classificações que não correspondem à robustez e versatilidade dos seus conhecimentos",
+      "source": "Observador",
+      "date": "Sun, 12 Jul 2026 18:43:16 +0100",
+      "url": "https://observador.pt/opiniao/maus-resultados-nos-exames/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "4a3815f3",
+      "cat": "economia",
+      "title": "\"Durante anos não conheci essa pessoa\": Luís Neves sobre contratação polémica de amigo para obras em esquadras da PJ",
+      "summary": "Ministro da Administração Interna quebrou o silêncio sobre a polémica contratação de um empreiteiro, seu amigo pessoal, para obras na PJ.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 12 Jul 2026 19:57:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/durante-anos-nao-conheci-essa-pessoa-luis-neves-sobre-contratacao-polemica-de-amigo-para-obras-em-esquadras-da-pj",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-05-14-14-49-523088.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "1263b7f2",
+      "cat": "tecnologia",
+      "title": "Ricardo Gomes: “Construção recebeu 5 mil trabalhadores através da ‘via verde’ para a imigração”",
+      "summary": "Portugal conta, neste momento, com cerca de 100 mil trabalhadores estrangeiros no setor da construção, que são “fundamentais”, diz o presidente da AICCOPN, adiantando que a maioria dos que chegaram ao país através da “via verde” para a imigração são da Guiné-Bissau.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 12 Jul 2026 19:02:52 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/ricardo-gomes-construcao-recebeu-5-mil-trabalhadores-atraves-da-via-verde-para-a-imigracao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-10-17-33-17-526442.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "f965ee5d",
+      "cat": "economia",
+      "title": "Luís Neves quebra o silêncio sobre contratação polémica de amigo para obras em esquadras da PJ. Veja a entrevista no NOW",
+      "summary": "Não perca a entrevista conduzida por Eduarda Pires, às 19h deste domingo, no NOW.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 12 Jul 2026 18:44:01 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/luis-neves-quebra-o-silencio-sobre-contratacao-polemica-de-amigo-para-obras-em-esquadras-da-pj-veja-a-entrevista-no-now",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-12-18-43-51-526461.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
