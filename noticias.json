@@ -1,7 +1,18 @@
 {
-  "last_update": "11/07/2026 19:15 UTC",
+  "last_update": "12/07/2026 03:38 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "615b3f18",
+      "cat": "desporto",
+      "title": "Fernando Pimenta vence em Montreal",
+      "summary": "O português Fernando Pimenta arrebatou a medalha de ouro no K1 1.000 metros da Taça do Mundo de Montreal, conquistando o segundo pódio luso no Canadá, depois da prata do K4 500 da véspera.",
+      "source": "RTP",
+      "date": "Sat, 11 Jul 2026 21:55:17 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/fernando-pimenta-vence-em-montreal_d1752766",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b69325c12060b29d25139c7b0108ff97?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.82
+    },
     {
       "id": "bc58b3fc",
       "cat": "tecnologia",
@@ -47,17 +58,6 @@
       "score": 0.82
     },
     {
-      "id": "519cf55f",
-      "cat": "ciencia",
-      "title": "Uma descoberta de vitamina A está mudando o que os cientistas sabem sobre a visão",
-      "summary": "Uma descoberta surpreendente está a remodelar a compreensão dos cientistas sobre como os humanos desenvolvem uma visão central nítida antes do nascimento. Em vez de células cônicas azuis migrarem para longe do centro da retina, o estudo descobriu que elas se transformam em cones vermelhos e verdes sob a influência de sinais relacionados à vitamina A e da glândula tireóide.",
-      "source": "ScienceDaily",
-      "date": "Thu, 09 Jul 2026 01:15:15 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
-      "img": "https://www.sciencedaily.com/images/1920/robert-johnston-retinal-organoid.webp",
-      "score": 0.82
-    },
-    {
       "id": "77f8a40c",
       "cat": "tecnologia",
       "title": "Empresa de Quebec é pioneira na extração de ouro sem cianeto e na captura de arsênico para limpar a indústria de mineração",
@@ -69,15 +69,15 @@
       "score": 0.79
     },
     {
-      "id": "31d8cd56",
-      "cat": "tecnologia",
-      "title": "Jürgen Klopp tem acordo para suceder a Nagelsmann na selecção da Alemanha",
-      "summary": "Falta aprovação do grupo Red Bull para que o ex-treinador do Liverpool assuma o comando da “Mannschaft” depois da desilusão da campanha no Mundial 2026.",
-      "source": "Público",
-      "date": "Sat, 11 Jul 2026 17:51:28 GMT",
-      "url": "https://www.publico.pt/2026/07/11/desporto/noticia/jurgen-klopp-acordo-suceder-nagelsmann-seleccao-alemanha-2181347",
-      "img": null,
-      "score": 0.76
+      "id": "0b3847dd",
+      "cat": "ciencia",
+      "title": "Por que o ouro nunca mancha foi finalmente explicado",
+      "summary": "O ouro pode ter um sistema secreto de autodefesa que o ajuda a resistir a manchas. Os pesquisadores descobriram que os átomos nas superfícies do ouro se reorganizam em padrões que impedem a reação do oxigênio com o metal, suprimindo a oxidação em até um trilhão de vezes. Além de explicar por que as joias de ouro permanecem",
+      "source": "ScienceDaily",
+      "date": "Sat, 11 Jul 2026 22:36:05 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
+      "img": "https://www.sciencedaily.com/images/1920/pyramid-stack-of-shiny-gold-bars.webp",
+      "score": 0.79
     },
     {
       "id": "e52e735d",
@@ -135,14 +135,25 @@
       "score": 0.76
     },
     {
-      "id": "165d95b4",
-      "cat": "desporto",
-      "title": "Marc Márquez primeiro na sprint-race do MotoGP da Alemanha",
-      "summary": "O espanhol Marc Márquez (Ducati) venceu a corrida sprint do Grande Prémio da Alemanha de MotoGP, 11.ª prova da temporada, que decorre este fim de semana em Sachsenring.",
-      "source": "RTP",
-      "date": "Sat, 11 Jul 2026 17:18:59 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/marc-marquez-primeiro-na-sprint-race-do-motogp-da-alemanha_d1752735",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/1d/1dcaa7fb88403091782ec7d117c0fa91?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "id": "04d62424",
+      "cat": "tecnologia",
+      "title": "Lagarde adia decisão e trava reforma da liderança do Fórum de Davos",
+      "summary": "O conselho de curadores do Fórum Económico Mundial está dividido sobre uma reforma da estrutura de governação enquanto aguarda que Christine Lagarde, presidente do Banco Central Europeu, decida se pretende candidatar-se à presidência da organização, segundo avançou o Financial Times (acesso pago, em",
+      "source": "ECO",
+      "date": "Sun, 12 Jul 2026 00:07:18 +0000",
+      "url": "https://eco.sapo.pt/2026/07/12/lagarde-adia-decisao-e-trava-reforma-da-lideranca-do-forum-de-davos/",
+      "img": "https://eco.imgix.net/uploads/2026/04/cropped-lagarde.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "6c960f8b",
+      "cat": "tecnologia",
+      "title": "Nos renova parceria com o Alive e mantém-se como ‘naming sponsor’",
+      "summary": "A Nos vai manter-se como naming sponsor do Nos Alive. A renovação do patrocínio, de longo prazo, é oficializada este sábado, último dos três dias de festival que decorre no Passeio Marítimo de Algés. &#8220;A Nos é parceira do Nos Alive desde o primeiro ano. Para nós, é muito mais do que um festival",
+      "source": "ECO",
+      "date": "Sat, 11 Jul 2026 19:12:47 +0000",
+      "url": "https://eco.sapo.pt/2026/07/11/nos-renova-parceria-com-o-alive-e-mantem-se-como-naming-sponsor/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc2026070847429487ma-07038.jpg",
       "score": 0.76
     },
     {
@@ -190,6 +201,28 @@
       "score": 0.76
     },
     {
+      "id": "2a59390f",
+      "cat": "tecnologia",
+      "title": "1h. Novo furo de água em Almada arranca já este domingo",
+      "summary": "A infraestrutura, antecipada em tempo recorde, deverá aumentar em 20% a capacidade de abastecimento no concelho. O reforço surge após vários dias marcados por falhas no fornecimento de água.",
+      "source": "Observador",
+      "date": "Sun, 12 Jul 2026 01:14:17 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2321/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "b42b571c",
+      "cat": "tecnologia",
+      "title": "Culpar o país pelo falhanço do PS em Almada? Não, obrigado",
+      "summary": "A falta de água em Almada não é um exemplo do falhanço do país. O país fez progressos visíveis no abastecimento de água potável. O que falhou em Almada foi um poder municipal abaixo de medíocre",
+      "source": "Observador",
+      "date": "Sun, 12 Jul 2026 00:25:45 +0100",
+      "url": "https://observador.pt/opiniao/culpar-o-pais-pelo-falhanco-do-ps-em-almada-nao-obrigado/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A814%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170545%2Fhelena-matos.jpg",
+      "score": 0.73
+    },
+    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -201,14 +234,14 @@
       "score": 0.73
     },
     {
-      "id": "01f92497",
+      "id": "6d8e7229",
       "cat": "tecnologia",
-      "title": "Para alcançar a independência, a Europa precisa de uma revolução da eletrificação",
-      "summary": "Podemos realmente afirmar que somos livres e independentes na Europa? Sim, no sentido em que a liberdade é um valor claramente inscrito nas nossas declarações, constituições e tratados fundadores. Não obstante, os valores inscritos nas nossas faturas de energia revelam outra realidade. Nos últimos m",
-      "source": "ECO",
-      "date": "Sat, 11 Jul 2026 10:58:55 +0000",
-      "url": "https://eco.sapo.pt/opiniao/para-alcancar-a-independencia-a-europa-precisa-de-uma-revolucao-da-eletrificacao/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/07/dan-jorgensen-opiniao.png",
+      "title": "Teste de saliva ‘revolucionário’ pode diagnosticar endometriose em dias, em vez de anos",
+      "summary": "Dois novos testes rápidos, EndoSure e Endotest, podem reduzir drasticamente o tempo de espera para um diagnóstico adequado de endometriose – de uma espera média de nove anos para apenas alguns dias. O teste de saliva aprovado para uso pelo sistema nacional de saúde do Reino Unido, NHS, está sendo chamado de “revolucionário” por especialistas na área",
+      "source": "Good News Network",
+      "date": "Sat, 11 Jul 2026 19:22:43 +0000",
+      "url": "https://www.goodnewsnetwork.org/new-test-scan-diagnose-endometriosis-in-days-rather-than-years/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Gut-pain-cure-hot-pad-sick-by-Curated-Lifestyle-For-Unsplash-O_tZw9fO6yY.jpeg",
       "score": 0.73
     },
     {
@@ -220,17 +253,6 @@
       "date": "Sat, 11 Jul 2026 17:52:48 +0000",
       "url": "https://www.goodnewsnetwork.org/artist-creates-amazing-detailed-drawings-using-only-typewriter-keystrokes/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/James-Cook-typewriter-artist-SWNS.jpeg",
-      "score": 0.73
-    },
-    {
-      "id": "5f2332ae",
-      "cat": "cultura",
-      "title": "O primeiro hospital para plantas domésticas do Reino Unido – onde as plantas são colocadas em gotejamento e colocadas em quarentena para detectar insetos",
-      "summary": "O hospital mais exclusivo da Grã-Bretanha já está aberto - onde os “pacientes” são atendidos. são plantas de casa. Alguns são “colocados em soro” e alguns podem entrar em quarentena, mas todos recebem o mesmo carinho de Rosanna Costello, que iniciou o negócio para ajudar os clientes a manterem vivas suas plantas de interior. Encontrado em Edin",
-      "source": "Good News Network",
-      "date": "Sat, 11 Jul 2026 11:00:23 +0000",
-      "url": "https://www.goodnewsnetwork.org/uk-hospital-where-the-patients-are-houseplants/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/houseplant-hospital-by-Katielee-Arrowsmith-SWNS.jpeg",
       "score": 0.73
     },
     {
@@ -267,69 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "41eff5b1",
+      "id": "6c405b1f",
       "cat": "tecnologia",
-      "title": "Administração Trump intima jornalistas do New York Times a depor por reportagem sobre o Air Force One",
-      "summary": "Diário denuncia “uma escalada extraordinária nos esforços do Presidente Trump para ameaçar e intimidar os órgãos de comunicação social independentes”.",
+      "title": "A bola foi desviada por um cabo antes do golo de Inglaterra? FIFA garante que não",
+      "summary": "Lance do empate diante da Noruega, nos quartos-de-final, está a motivar alguma polémica. Organismo que rege o futebol socorre-se da tecnologia para dissipar dúvidas.",
       "source": "Público",
-      "date": "Sat, 11 Jul 2026 18:04:23 GMT",
-      "url": "https://www.publico.pt/2026/07/11/mundo/noticia/administracao-trump-intima-jornalistas-new-york-times-depor-reportagem-air-force-one-2181344",
+      "date": "Sun, 12 Jul 2026 01:19:13 GMT",
+      "url": "https://www.publico.pt/2026/07/12/desporto/noticia/bola-desviou-cabo-golo-inglaterra-fifa-garante-nao-2181367",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "f5f6c618",
-      "cat": "tecnologia",
-      "title": "Israel Galván e Mohamed El Khatib aprenderam a amar o pai para não terem de o odiar",
-      "summary": "Israel & Mohamed , que estará no Festival de Almada, é o ajuste de contas de dois filhos pródigos com os pais tiranos que, por amor, os tentaram castrar. Uma bomba: aqui hilariante, ali lacrimogénea.",
+      "id": "8c6b79b0",
+      "cat": "geral",
+      "title": "Linda Noskova triunfa em Wimbledon como se não fosse a primeira vez",
+      "summary": "A tenista checa dominou a compatriota Karolina Muchova em dois sets graças a uma actuação irrepreensível.",
       "source": "Público",
-      "date": "Sat, 11 Jul 2026 18:01:00 GMT",
-      "url": "https://www.publico.pt/2026/07/11/culturaipsilon/noticia/israel-galvan-mohamed-el-khatib-aprenderam-amar-pai-nao-terem-odiar-2180859",
+      "date": "Sun, 12 Jul 2026 00:51:55 GMT",
+      "url": "https://www.publico.pt/2026/07/12/desporto/noticia/linda-noskova-triunfa-wimbledon-nao-primeira-2181358",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "7dd29101",
+      "id": "7a22f93f",
       "cat": "tecnologia",
-      "title": "Itália. Banhistas proibidos de comer o que trouxeram de casa",
-      "summary": "Restaurantes proíbem clientes que alugam espreguiçadeiras e chapéus de sol no areal de comerem alimentos trazidos de casa. Em Vieste, uma criança foi impedida de comer uma sandes à beira-mar.",
-      "source": "Observador",
-      "date": "Sat, 11 Jul 2026 19:44:20 +0100",
-      "url": "https://observador.pt/2026/07/11/italia-concessionarios-de-praia-impedem-clientes-de-comer-refeicoes-trazidas-de-casa-mar-nao-pode-tornar-se-um-luxo-defende-governador/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2044:1149:nowe:0:1/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/11181058/beach-club-proibe-sanduiche-na-praia-em-italia.jpg",
+      "title": "Mundial 2026: Nem Kane, nem Haaland... foi de Jude o hino a pedido dos Beatles",
+      "summary": "Benfiquista Schjelderup abriu as contas para a Noruega, mas Bellingham guardou os acordes finais para colocar a Inglaterra nas meias-finais do Mundial, à espera do Argentina-Suíça.",
+      "source": "Público",
+      "date": "Sat, 11 Jul 2026 23:49:40 GMT",
+      "url": "https://www.publico.pt/2026/07/12/desporto/noticia/mundial-2026-kane-haaland-jude-hino-pedido-beatles-2181356",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "44fc4ca0",
+      "id": "ad81fee8",
       "cat": "tecnologia",
-      "title": "Estação mais funda do Metro terá acesso por super-elevadores",
-      "summary": "Há mais de dez anos que o Metro de Lisboa não abre uma nova estação. Linha circular só tem 2 quilómetros, mas promete relançar interface do Cais do Sodré e terá estação mais funda da rede, a Estrela.",
+      "title": "As notícias das 3h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sat, 11 Jul 2026 19:01:44 +0100",
-      "url": "https://observador.pt/especiais/acesso-a-estrela-vai-ser-feito-por-super-elevadores-viagem-a-estacao-mais-funda-do-metro-de-lisboa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:341/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/29192118/ilacerda-visita-obras-metro-96-scaled.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c69086c5",
-      "cat": "tecnologia",
-      "title": "Trump diz ter feito exames médicos \"perfeitos\"",
-      "summary": "Presidente dos Estados Unidos pediu ainda um teste cognitivo. Resultados ainda não foram divulgados.",
-      "source": "Observador",
-      "date": "Sat, 11 Jul 2026 18:46:37 +0100",
-      "url": "https://observador.pt/2026/07/11/donald-trump-diz-ter-realizado-novos-exames-medicos-perfeitos-e-pediu-teste-cognitivo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/06160141/47408755.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "date": "Sun, 12 Jul 2026 03:15:56 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2375/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
