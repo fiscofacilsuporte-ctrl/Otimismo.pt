@@ -1,5 +1,5 @@
 {
-  "last_update": "15/07/2026 03:16 UTC",
+  "last_update": "15/07/2026 08:27 UTC",
   "total": 30,
   "news": [
     {
@@ -69,47 +69,36 @@
       "score": 0.79
     },
     {
-      "id": "489b677d",
-      "cat": "economia",
-      "title": "Habitação: o verdadeiro teste começa agora",
-      "summary": "O verdadeiro sucesso de um pacote de medidas não se mede pelo número de diplomas aprovados, mas pelo número de casas efetivamente construídas, reabilitadas e colocadas no mercado.",
+      "id": "addec1cb",
+      "cat": "tecnologia",
+      "title": "Economia chinesa regista crescimento mais baixo desde 2022 no segundo trimestre",
+      "summary": "Apesar da desaceleração, as exportações continuaram a apresentar um desempenho robusto, impulsionadas em parte pelo crescimento da IA e pela forte procura de veículos elétricos.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 14 Jul 2026 20:35:30 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/habitacao-o-verdadeiro-teste-comeca-agora",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-03/img_394x514uu2025-03-26-07-52-08-498355.png",
+      "date": "Wed, 15 Jul 2026 07:53:48 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/economia-chinesa-regista-crescimento-mais-baixo-desde-2022-no-segundo-trimestre",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-05-12-46-29-524873.jpg",
       "score": 0.76
     },
     {
-      "id": "cc83bce7",
+      "id": "33b29f23",
       "cat": "desporto",
-      "title": "Sporting vence pentacampeões escoceses do Celtic por 4-1 em jogo particular",
-      "summary": "O Sporting venceu esta terça-feira o pentacampeão escocês, Celtic Glasgow, por 4-1, no primeiro jogo particular dos `leões` para a temporada futebolística de 2026/27, no Estádio Algarve.",
+      "title": "Campeã Argentina e Inglaterra procuram segunda vaga na final",
+      "summary": "A campeão em título Argentina e a Inglaterra disputam hoje a segunda vaga na final do Mundial de futebol de 2026, no domingo, na qual já está a Espanha, que bateu a França, por 2-0, na terça-feira.",
       "source": "RTP",
-      "date": "Tue, 14 Jul 2026 21:02:29 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/sporting-vence-pentacampeoes-escoceses-do-celtic-por-4-1-em-jogo-particular_d1753357",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b41476adfb1deb4ee2a5563506c94990?w=350&amp;q=50&amp;rect=0,0,1233,676&amp;auto=format",
+      "date": "Wed, 15 Jul 2026 09:26:12 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/campea-argentina-e-inglaterra-procuram-segunda-vaga-na-final_d1753468",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c09122f0fa8dff996adb4c07de0b6519?w=350&amp;q=50&amp;rect=0,37,3452,1893&amp;auto=format",
       "score": 0.76
     },
     {
-      "id": "9bb91b33",
-      "cat": "tecnologia",
-      "title": "Nova maternidade em Coimbra vai avançar “brevemente”, diz ministra",
-      "summary": "A ministra da Saúde afirmou esta terça-feira que o Governo está comprometido em avançar “brevemente” com a nova maternidade de Coimbra, mas recusou-se a avançar com data para lançamento do concurso público. “O compromisso está assumido, já foi assumido pelo Governo, pelo senhor primeiro-ministro, es",
+      "id": "c3f97ef4",
+      "cat": "economia",
+      "title": "5 coisas que vão marcar o dia",
+      "summary": "A agenda desta quarta-feira é marcada pelas audições de Castro Almeida, Pinto Luz e Miranda Sarmento na Assembleia da República. O IGCP realiza um leilão de Bilhetes do Tesouro e o Eurostat revela os dados atualizados do PIB e do emprego nos países da União Europeia. Os investidores nas bolsas norte",
       "source": "ECO",
-      "date": "Tue, 14 Jul 2026 20:19:38 +0000",
-      "url": "https://eco.sapo.pt/2026/07/14/nova-maternidade-em-coimbra-vai-avancar-brevemente-diz-ministra/",
-      "img": "https://eco.imgix.net/uploads/2026/03/cropped-46849858-scaled-1.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "e6783e5a",
-      "cat": "tecnologia",
-      "title": "Esta é a chave do Euromilhões. Jackpot é de 38 milhões de euros",
-      "summary": "Com um primeiro prémio no valor de 69 milhões de euros, decorreu terça-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta terça-feira, 14 de julho: Números: 10, 19, 37, 42 ",
-      "source": "ECO",
-      "date": "Tue, 14 Jul 2026 19:29:28 +0000",
-      "url": "https://eco.sapo.pt/2026/07/14/esta-e-a-chave-do-euromilhoes-jackpot-e-de-38-milhoes-de-euros-3/",
-      "img": "https://eco.imgix.net/uploads/2016/09/cropped-euromilhoesnovo-1.jpg",
+      "date": "Wed, 15 Jul 2026 06:05:12 +0000",
+      "url": "https://eco.sapo.pt/2026/07/15/5-coisas-que-vao-marcar-o-dia-2049/",
+      "img": "https://eco.imgix.net/uploads/2018/05/cropped-5_coisas_s_-patrocinio-20.png",
       "score": 0.76
     },
     {
@@ -157,17 +146,6 @@
       "score": 0.76
     },
     {
-      "id": "23c95847",
-      "cat": "tecnologia",
-      "title": "Um experimento de física de 200 anos pode ajudar a construir futuros computadores",
-      "summary": "Cientistas da Universidade Tecnológica de Nanyang, em Cingapura, descobriram uma maneira surpreendentemente simples de criar estruturas de luz exóticas chamadas skyrmions ópticos, usando um efeito óptico de 200 anos conhecido como mancha de Poisson. Em vez de depender de materiais caros e de alta engenharia, eles simplesmente",
-      "source": "ScienceDaily",
-      "date": "Mon, 13 Jul 2026 08:49:50 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
-      "img": "https://www.sciencedaily.com/images/1920/poisson-spot-four-types-of-skyrmions.webp",
-      "score": 0.76
-    },
-    {
       "id": "25a1c000",
       "cat": "sociedade",
       "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
@@ -179,36 +157,69 @@
       "score": 0.76
     },
     {
-      "id": "84839e1f",
+      "id": "f3e48b24",
       "cat": "tecnologia",
-      "title": "Um bombeiro e outras cinco pessoas detidas na sequência dos incêndios em França",
-      "summary": "Bombeiro voluntário de Fontainebleau confessou ter “ateado fogo a ramos secos, com um isqueiro e gasolina”. Outro suspeito diz ter provocado um fogo ao acidentalmente descartar um cigarro.",
+      "title": "Mais de 13 milhões de crianças não foram vacinadas em 2025 em todo o mundo",
+      "summary": "Um total de 13,5 milhões de crianças não receberam qualquer dose de vacinas, ficando vulneráveis a doenças preveníveis pela vacinação, enquanto outras 6,2 milhões obtiveram apenas protecção parcial.",
       "source": "Público",
-      "date": "Tue, 14 Jul 2026 23:23:33 GMT",
-      "url": "https://www.publico.pt/2026/07/15/mundo/noticia/bombeiro-cinco-pessoas-detidas-sequencia-incendios-franca-2181704",
+      "date": "Wed, 15 Jul 2026 07:10:31 GMT",
+      "url": "https://www.publico.pt/2026/07/15/ciencia/noticia/13-milhoes-criancas-nao-vacinadas-2025-mundo-2181710",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "42610073",
+      "id": "e07a5817",
       "cat": "tecnologia",
-      "title": "Será a inovação terapêutica um luxo em Portugal?",
-      "summary": "Portugal está no caminho certo, mas ainda há muito a percorrer em rapidez e equidade. Neste processo, terá sempre de haver um benefício para o doente, transformando inovação em benefício real. Opinião de Vítor Veloso",
+      "title": "Saiba onde estão as 10 maiores comunidades de brasileiros espalhadas pelo mundo",
+      "summary": "Número de brasileiros vivendo no exterior bateu recorde em 2025, segundo o Ministério das Relações Exteriores. Portugal agrega o segundo maior grupo de cidadãos, atrás dos Estados Unidos.",
       "source": "Público",
-      "date": "Tue, 14 Jul 2026 23:10:00 GMT",
-      "url": "https://www.publico.pt/2026/07/15/opiniao/opiniao/sera-inovacao-terapeutica-luxo-portugal-2181143",
+      "date": "Wed, 15 Jul 2026 07:04:40 GMT",
+      "url": "https://www.publico.pt/2026/07/15/publico-brasil/noticia/saiba-onde-estao-10-maiores-comunidades-brasileiros-espalhadas-mundo-2181676",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "28d095f6",
+      "id": "ee41b10a",
       "cat": "tecnologia",
-      "title": "Hovione investe 200 milhões em nova fábrica de medicamentos no Seixal até 2027",
-      "summary": "À margem da inauguração de uma nova linha de produção no 'campus' do grupo em Loures, última etapa de um ciclo de investimento de 40 milhões de euros, os co-CEO da Hovione revelaram que o desenvolvimento dos dois complexos industriais do grupo tem sido inteiramente financiado por capitais próprios.",
+      "title": "O Caminho de Santiago não pode ser apenas um corredor de passagem",
+      "summary": "Num tempo em que tanto se fala de turismo sustentável, o Caminho de Santiago oferece uma oportunidade rara: desenvolver os territórios sem perder a sua identidade. Opinião de António Fiuza",
+      "source": "Público",
+      "date": "Wed, 15 Jul 2026 06:29:09 GMT",
+      "url": "https://www.publico.pt/2026/07/15/publico-brasil/opiniao/caminho-santiago-nao-apenas-corredor-passagem-2181709",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "c2db4374",
+      "cat": "saude",
+      "title": "AD prepara embate dos exames e garante estabilidade",
+      "summary": "Na véspera do debate do estado da nação, Hugo Soares diz que atraso na correção de exames não \"mancha imagem\" do ministro da Educação. Paulo Núncio acusa oposição de procurar instabilidade.",
+      "source": "Observador",
+      "date": "Wed, 15 Jul 2026 08:42:18 +0100",
+      "url": "https://observador.pt/2026/07/15/ad-prepara-embate-dos-exames-nacionais-criticam-birras-da-oposicao-e-esperam-que-legislatura-va-ate-ao-fim/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:273/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/15134124/dventura-jornadas-parlamentares-psd-dia2-30-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "e09d3c4f",
+      "cat": "tecnologia",
+      "title": "\"Trump está a cair numa armadilha e a arriscar as eleições\"",
+      "summary": "Francisco Pereira Coutinho avisa que acordo entre EUA e Irão correu mal. O especialista em direito internacional, diz que descontrolo do preço do petróleo pode destruir hipótese de Trump nas eleições.",
+      "source": "Observador",
+      "date": "Wed, 15 Jul 2026 08:15:49 +0100",
+      "url": "https://observador.pt/programas/gabinete-de-guerra/trump-esta-a-cair-numa-armadilha-e-a-arriscar-as-eleicoes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/15124755/770-podcast-gabinete-de-guerra.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "42437b2c",
+      "cat": "tecnologia",
+      "title": "Taxas de Trump foram (outra vez) uma via para a negociação",
+      "summary": "O presidente norte-americano afirmou que os Estados Unidos iriam cobrar uma taxa pela proteção do estreito de Ormuz, mas recuaram e preferem agora acordos comerciais.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 14 Jul 2026 22:34:33 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/hovione-investe-200-milhoes-em-nova-fabrica-de-medicamentos-no-seixal-ate-2027",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-14-22-34-09-526573.jpg",
+      "date": "Wed, 15 Jul 2026 08:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/taxas-de-trump-foram-outra-vez-uma-via-para-a-negociacao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-09-07-38-05-526282.jpg",
       "score": 0.73
     },
     {
@@ -223,14 +234,14 @@
       "score": 0.73
     },
     {
-      "id": "71999f30",
+      "id": "3f7fd1a5",
       "cat": "tecnologia",
-      "title": "Câmara de Odemira está a averiguar legalidade das obras em imóvel do MAI",
-      "summary": "A Câmara de Odemira, no distrito de Beja, avançou esta terça-feira que está a verificar a legalidade das obras realizadas num imóvel particular do ministro da Administração Interna, Luís Neves, na freguesia de São Teotónio. Em resposta por escrito a questões colocadas pela agência Lusa, o município ",
+      "title": "Economia chinesa regista crescimento mais baixo desde 2022 entre abril e junho",
+      "summary": "A economia chinesa desacelerou para um crescimento homólogo de 4,3% entre abril e junho, o ritmo de crescimento mais lento desde o último trimestre de 2022, segundo dados divulgados esta quarta-feira pelas autoridades chinesas. O resultado vem depois da economia do país ter registado uma expansão de",
       "source": "ECO",
-      "date": "Tue, 14 Jul 2026 19:50:05 +0000",
-      "url": "https://eco.sapo.pt/2026/07/14/camara-de-odemira-esta-a-averiguar-legalidade-das-obras-em-imovel-do-mai/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47421772-scaled-1.jpg",
+      "date": "Wed, 15 Jul 2026 07:41:21 +0000",
+      "url": "https://eco.sapo.pt/2026/07/15/economia-chinesa-regista-crescimento-mais-baixo-desde-2022-entre-abril-e-junho/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47458117-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -239,9 +250,20 @@
       "title": "Onda de calor no Reino Unido proporciona luz solar excepcional e temperaturas persistentes de 30°C",
       "summary": "A atual onda de calor tem sido quente, seca e excepcionalmente ensolarada, com alguns locais registrando o dobro do número de horas de sol normalmente registradas neste momento do mês, como explica Darren Bett.",
       "source": "BBC News",
-      "date": "Wed, 15 Jul 2026 00:11:32 GMT",
+      "date": "Wed, 15 Jul 2026 08:06:00 GMT",
       "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f0/live/04832000-7f8b-11f1-926f-c90d1bcfbc84.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "cbf26db7",
+      "cat": "ciencia",
+      "title": "Por que os humanos coletam cristais há 780 mil anos? Os chimpanzés podem ter a resposta",
+      "summary": "Os chimpanzés demonstraram uma atração notável pelos cristais, escolhendo-os em vez de pedras comuns e estudando-os com intensa curiosidade. Os resultados sugerem que as mesmas características incomuns podem ter fascinado os primeiros humanos muito antes de os cristais terem qualquer uso prático.",
+      "source": "ScienceDaily",
+      "date": "Tue, 14 Jul 2026 22:56:14 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000813.htm",
+      "img": "https://www.sciencedaily.com/images/1920/chimpanzee-toti-examines-crystal.webp",
       "score": 0.73
     },
     {
@@ -267,58 +289,25 @@
       "score": 0.73
     },
     {
-      "id": "9798d919",
+      "id": "a412f6d3",
       "cat": "tecnologia",
-      "title": "A Grande Coligação da Europa chegou ao fim. É hora de os partidos tradicionais romperem com o PPE",
-      "summary": "Esta é a verdadeira maioria que agora molda o rumo da União: não a coligação formal do PPE, S&D, Renew e Verdes, mas uma maioria informal de direita reunida ponto por ponto e voto a voto. Opinião de Alberto Alemanno",
-      "source": "Público",
-      "date": "Tue, 14 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/15/opiniao/opiniao/coligacao-europa-chegou-fim-hora-partidos-tradicionais-romperem-ppe-2181352",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "800b366b",
-      "cat": "tecnologia",
-      "title": "1h. Donald Trump ameaça atacar infraestruturas civis no Irão",
-      "summary": "Presidente dos Estados Unidos garante que bombardeamentos ao Irão vão continuar nos próximos dias. Ainda neste noticiário, Estados Unidos anunciaram o reinício do bloqueio naval no Estreito de Ormuz.",
+      "title": "Jesus baralha as contas e o PSD não debate com veterinários",
+      "summary": "A matemática onde 12 é mais que metade de 26 e deputadas que fogem de veterinários. Até o \"limpinho\" Gustavo Santos, que nem vota, quer mandar no \"estaminé\".",
       "source": "Observador",
-      "date": "Wed, 15 Jul 2026 01:14:54 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2324/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Wed, 15 Jul 2026 08:54:28 +0100",
+      "url": "https://observador.pt/programas/momentos-de-glria/jesus-baralha-as-contas-e-o-psd-nao-debate-com-veterinarios/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/13004433/770-podcast-momentos-de-gloria-sem-rita.jpg",
       "score": 0.7
     },
     {
-      "id": "6a217b8d",
+      "id": "91f677be",
       "cat": "tecnologia",
-      "title": "O que fará um Putin derrotado?",
-      "summary": "A reação de Putin à sua derrota na Ucrânia constitui hoje o maior risco para a segurança europeia. Irá Putin ensaiar uma fuga para a frente?",
-      "source": "Observador",
-      "date": "Wed, 15 Jul 2026 00:25:58 +0100",
-      "url": "https://observador.pt/opiniao/o-que-fara-um-putin-derrotado/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A503%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170547%2Fjoao-marques-de-almeida.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "ad8a2f44",
-      "cat": "tecnologia",
-      "title": "As linhas vermelhas acabaram com o Bloco. E com o Chega?",
-      "summary": "Os 60 dissidentes do Bloco são a prova de que talvez as linhas vermelhas não conduzam fatalmente a um Chega maior. Não vou ser eu a chorar um partido, mas talvez valha a pena rever a intransigência",
-      "source": "Observador",
-      "date": "Wed, 15 Jul 2026 00:23:39 +0100",
-      "url": "https://observador.pt/opiniao/o-fim-das-linhas-vermelhas-acabou-com-o-bloco-ainda-as-querem-para-o-chega/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2644%3A2644%3Anowe%3A661%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23150527%2Fjporfirio-retratos-redacao-2026-01-16.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "b80d1ab2",
-      "cat": "tecnologia",
-      "title": "Trump ameaça atacar centrais elétricas e pontes do Irão",
-      "summary": "A não ser que Teerão volte à mesa das negociações, o Presidente dos EUA ameaça atacar alvos civis iranianos a partir da próxima semana, deixando para o final as infraestruturas petrolíferas.",
+      "title": "Governo volta à concertação social com salário mínimo por resolver",
+      "summary": "Ministra revela que não vai divulgar já relatório com propostas para a sustentabilidade das pensões e dá sinais contraditórios sobre lei laboral. \"Será o momento de devolver a palavra aos parceiros\", diz.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 14 Jul 2026 23:55:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/trump-ameaca-atacar-centrais-eletricas-e-pontes-do-irao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-09-07-38-05-526282.jpg",
+      "date": "Wed, 15 Jul 2026 09:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/governo-volta-a-concertacao-social-com-salario-minimo-por-resolver",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-14-17-30-43-526559.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
