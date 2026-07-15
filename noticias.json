@@ -1,5 +1,5 @@
 {
-  "last_update": "15/07/2026 13:59 UTC",
+  "last_update": "15/07/2026 19:23 UTC",
   "total": 30,
   "news": [
     {
@@ -36,6 +36,17 @@
       "score": 0.82
     },
     {
+      "id": "61620ff1",
+      "cat": "ciencia",
+      "title": "Tumba de 3.200 anos descoberta em Luxor da Era de Ramsés",
+      "summary": "Mais um mês, outra grande descoberta em Luxor – desta vez de um túmulo com afrescos interiores preservados que datam de cerca de 3.200 anos. A tumba em forma de T foi descoberta por uma equipe de arqueólogos holandeses-egípcios no meio de um projeto de longo prazo para combinar estratégias proativas de conservação com arqueologia.",
+      "source": "Good News Network",
+      "date": "Wed, 15 Jul 2026 15:30:22 +0000",
+      "url": "https://www.goodnewsnetwork.org/3200-yo-tomb-discovered-in-luxor-from-the-era-of-ramses/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/The-tomb-of-a-man-named-Paser-credit-Supreme-Council-of-Antiquities.jpg",
+      "score": 0.79
+    },
+    {
       "id": "25eb4efe",
       "cat": "cultura",
       "title": "Bloomberg doa US$ 260 milhões para garantir que novo tratado de alto mar se traduza em proteções oceânicas duradouras",
@@ -44,17 +55,6 @@
       "date": "Tue, 14 Jul 2026 13:00:55 +0000",
       "url": "https://www.goodnewsnetwork.org/bloomberg-stumps-up-260m-to-ensure-new-high-seas-treaty-translates-to-lasting-ocean-protections/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-coral-reef-credit-Fascinating-Universe.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "a01be9ea",
-      "cat": "sociedade",
-      "title": "Empresa inicia construção do primeiro reator nuclear de última geração na América para abastecer data centers por menos",
-      "summary": "Uma empresa de energia nuclear inaugurou a primeira usina de reator nuclear avançado do país, em Oak Ridge, Tennessee. Previsto para entrar em operação em 2030, ajudará a impedir o crescimento dos custos de energia de vários grandes data centers administrados pelo Google na área do Tennessee/Alabama. Além disso, o bem-res",
-      "source": "Good News Network",
-      "date": "Mon, 13 Jul 2026 15:30:52 +0000",
-      "url": "https://www.goodnewsnetwork.org/firm-breaks-ground-on-first-advanced-nuclear-reactor-in-america-to-power-data-centers-for-less/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/The-groundbreaking-ceremony-for-the-Hermes-2-plant-in-Tennessee-credit-Kairos-Power-released.jpg",
       "score": 0.79
     },
     {
@@ -69,69 +69,36 @@
       "score": 0.79
     },
     {
-      "id": "8978c99c",
+      "id": "0933327b",
       "cat": "tecnologia",
-      "title": "Von der Leyen anuncia acordo de produção de drones com a Ucrânia",
-      "summary": "Acordo combina a experiência ucraniana com a “escala industrial europeia” e é o primeiro do seu género: cobre vários países e empresas em toda a União Europeia.",
+      "title": "UE mantém tecto máximo do preço do petróleo russo até à próxima semana",
+      "summary": "Sem acordo para aprovar o 21.º pacote de sanções, Estados-membros encontram solução provisória para evitar que Moscovo volte a encher os cofres com as importações de crude.",
       "source": "Público",
-      "date": "Wed, 15 Jul 2026 13:15:15 GMT",
-      "url": "https://www.publico.pt/2026/07/15/mundo/noticia/von-der-leyen-anuncia-acordo-producao-drones-ucrania-2181746",
+      "date": "Wed, 15 Jul 2026 16:57:17 GMT",
+      "url": "https://www.publico.pt/2026/07/15/mundo/noticia/ue-mantem-tecto-maximo-preco-petroleo-russo-ate-proxima-semana-2181817",
       "img": null,
       "score": 0.76
     },
     {
-      "id": "d61e3ae6",
-      "cat": "ciencia",
-      "title": "O encontro da ciência e da inovação trouxe “dois amores”, mas há um de que se gosta mais",
-      "summary": "Presidente da Agência para a Investigação e Inovação considerou a ciência e a inovação como “dois amores”, mas avisou que não era preciso escolher entre eles. Os discursos, porém, mostram outra coisa.",
+      "id": "2be4e0fb",
+      "cat": "tecnologia",
+      "title": "Rodrigo, o menino que salvou a mãe ao ligar para o INEM, recebe prémio de civismo",
+      "summary": "O menino de Castelo Branco foi distinguido com o Prémio Cidadão da Nobre Casa de Cidadania e o INEM acompanhou a cerimónia. “O Rodrigo Pinto é um cidadão exemplar”, celebram.",
       "source": "Público",
-      "date": "Wed, 15 Jul 2026 12:26:38 GMT",
-      "url": "https://www.publico.pt/2026/07/15/ciencia/noticia/encontro-ciencia-inovacao-trouxe-dois-amores-ha-gosta-2181749",
+      "date": "Wed, 15 Jul 2026 16:31:09 GMT",
+      "url": "https://www.publico.pt/2026/07/15/impar/noticia/rodrigo-menino-salvou-mae-ligar-inem-recebe-premio-civismo-2181810",
       "img": null,
       "score": 0.76
     },
     {
-      "id": "f5f45827",
-      "cat": "tecnologia",
-      "title": "Atletismo. Portugal apresenta maior comitiva de sempre nos Europeus de Sub-18 em Rieti",
-      "summary": "A Seleção Nacional de atletismo já está em Rieti, Itália, para disputar os Campeonatos da Europa de Sub-18, que decorrem entre 16 e 19 de julho. Portugal participa com uma delegação recorde de 33 atletas, a maior de sempre nesta competição, reforçando as expectativas de um desempenho histórico entre",
-      "source": "RTP",
-      "date": "Wed, 15 Jul 2026 11:06:49 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/atletismo-portugal-apresenta-maior-comitiva-de-sempre-nos-europeus-de-sub-18-em-rieti_d1753481",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/43/4362f2ed281c9c6b90ddb86ad05c0427?w=350&amp;q=50&amp;rect=0,35,500,274&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "33b29f23",
-      "cat": "desporto",
-      "title": "Campeã Argentina e Inglaterra procuram segunda vaga na final",
-      "summary": "A campeão em título Argentina e a Inglaterra disputam hoje a segunda vaga na final do Mundial de futebol de 2026, no domingo, na qual já está a Espanha, que bateu a França, por 2-0, na terça-feira.",
-      "source": "RTP",
-      "date": "Wed, 15 Jul 2026 09:26:12 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/campea-argentina-e-inglaterra-procuram-segunda-vaga-na-final_d1753468",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c09122f0fa8dff996adb4c07de0b6519?w=350&amp;q=50&amp;rect=0,37,3452,1893&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "14335def",
-      "cat": "tecnologia",
-      "title": "Von der Leyen fecha parceria de produção de drones com Ucrânia",
-      "summary": "A União Europeia (UE) anunciou um acordo com a Ucrânia para a produção de drones, no âmbito de uma parceria industrial, um reconhecimento da experiência do país no campo de batalha, destaca Von der Leyen. &#8220;Todos os dias, a Ucrânia está a tornar a Europa mais forte. E é por isso que hoje digo: ",
+      "id": "9cac766d",
+      "cat": "economia",
+      "title": "Concertação social. Patrões alertam que há medidas por cumprir no acordo sobre salários. UGT quer reforço",
+      "summary": "As confederações empresariais alertaram esta quarta-feira que há medidas que constam no acordo de valorização salarial e crescimento económico que não estão a ser cumpridas, enquanto a UGT insta a um reforço, nomeadamente ao nível do salário mínimo nacional. &#8220;As empresas cumpriram, os salários",
       "source": "ECO",
-      "date": "Wed, 15 Jul 2026 13:42:49 +0000",
-      "url": "https://eco.sapo.pt/2026/07/15/von-der-leyen-fecha-parceria-de-producao-de-drones-com-ucrania/",
-      "img": "https://eco.imgix.net/uploads/2023/05/cropped-doc-20230509-40751227-10617254.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "d2e154e0",
-      "cat": "tecnologia",
-      "title": "Procura por joias faz crescer vendas da dona da Cartier e Van Cleef & Arpels",
-      "summary": "&#160; As vendas da Richemont cresceram 20% em termos orgânicos no segundo trimestre de 2026 para 6,3 mil milhões de euros, de acordo com o Financial Times (acesso pago). O resultado superou a previsão dos analistas, que apontavam para um aumento de 11%. A joalharia foi o principal motor do crescime",
-      "source": "ECO",
-      "date": "Wed, 15 Jul 2026 12:29:00 +0000",
-      "url": "https://eco.sapo.pt/2026/07/15/procura-por-joias-faz-crescer-vendas-da-dona-da-cartier-e-van-cleef-arpels/",
-      "img": "https://eco.imgix.net/uploads/2025/12/cropped-doc202305034071669110605322.jpg",
+      "date": "Wed, 15 Jul 2026 18:58:22 +0000",
+      "url": "https://eco.sapo.pt/2026/07/15/concertacao-social-patroes-alertam-que-ha-medidas-por-cumprir-no-acordo-sobre-salarios-ugt-quer-reforco/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47467108-scaled-1.jpg",
       "score": 0.76
     },
     {
@@ -157,6 +124,28 @@
       "score": 0.76
     },
     {
+      "id": "576dbb58",
+      "cat": "ciencia",
+      "title": "Esta lagartixa de estimação pode ajudar os cientistas a desvendar os segredos do câncer",
+      "summary": "Uma lagartixa leopardo incomum que desenvolve naturalmente tumores agressivos pode se tornar um novo modelo importante para a pesquisa do câncer. Os cientistas descobriram que os seus tumores partilham alterações genéticas importantes com os cancros humanos, oferecendo uma rara oportunidade de estudar a doença à medida que se desenvolve naturalmente.",
+      "source": "ScienceDaily",
+      "date": "Wed, 15 Jul 2026 09:47:30 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225525.htm",
+      "img": "https://www.sciencedaily.com/images/1920/lemon-frost-gecko.webp",
+      "score": 0.76
+    },
+    {
+      "id": "e3c36d9e",
+      "cat": "ciencia",
+      "title": "Arqueólogos encontraram a Ilíada de Homero dentro de uma múmia egípcia de 1.600 anos",
+      "summary": "Uma múmia de 1.600 anos descoberta no Egito revelou algo que os arqueólogos nunca tinham visto antes: um fragmento da Ilíada de Homero usado durante o embalsamamento. O papiro foi identificado como parte do famoso “Catálogo de Navios”, uma das seções mais conhecidas do antigo épico. Os pesquisadores dizem que é",
+      "source": "ScienceDaily",
+      "date": "Wed, 15 Jul 2026 08:21:11 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084918.htm",
+      "img": "https://www.sciencedaily.com/images/1920/egyptian-mummy-head.webp",
+      "score": 0.76
+    },
+    {
       "id": "11699ea1",
       "cat": "ciencia",
       "title": "Medicamentos populares para perda de peso Ozempic e Wegovy podem retardar o envelhecimento biológico",
@@ -168,69 +157,47 @@
       "score": 0.76
     },
     {
-      "id": "5972a6be",
-      "cat": "ciencia",
-      "title": "Cientistas de Yale encontraram uma rede escondida dentro do olho",
-      "summary": "Os pesquisadores descobriram que a retina usa uma rede de comunicação inesperada que permite que vias visuais separadas cooperem em vez de trabalharem sozinhas. Uma célula “comandante” recentemente identificada parece coordenar este sistema, ajudando o olho a detectar detalhes fracos que de outra forma poderiam passar despercebidos.",
-      "source": "ScienceDaily",
-      "date": "Mon, 13 Jul 2026 21:15:50 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713000804.htm",
-      "img": "https://www.sciencedaily.com/images/1920/eye-iris-close-up.webp",
-      "score": 0.76
-    },
-    {
-      "id": "25a1c000",
-      "cat": "sociedade",
-      "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
-      "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada em... O pos",
-      "source": "Reasons to be Cheerful",
-      "date": "Thu, 02 Jul 2026 08:00:08 +0000",
-      "url": "https://reasonstobecheerful.world/the-spark-wildlife-care/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/Shutterstock-El-Nariz-scaled.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "d8a7d422",
+      "id": "124d38c9",
       "cat": "tecnologia",
-      "title": "Inês de Medeiros: “O problema da água situa-se nas freguesias mais ricas de Almada e não nas mais pobres”",
-      "summary": "Presidente da Câmara de Almada diz que, este ano, problema das falhas no abastecimento de água se concentra na Costa de Caparica, Charneca e Sobreda e é aí que haverá “uma investigação mais profunda”.",
+      "title": "“É o que se chama pôr o carro diante dos bois”: barragem de Girabolhos avança sob contestação técnica e ambiental",
+      "summary": "O Governo recuperou antigo projecto após tempestades de Fevereiro, mas especialistas e associações dizem que a obra não é solução para cheias e exige nova avaliação ambiental.",
       "source": "Público",
-      "date": "Wed, 15 Jul 2026 12:05:00 GMT",
-      "url": "https://www.publico.pt/2026/07/15/local/entrevista/ines-medeiros-problema-agua-situase-freguesias-ricas-almada-nao-pobres-2181693",
+      "date": "Wed, 15 Jul 2026 17:31:59 GMT",
+      "url": "https://www.publico.pt/2026/07/15/azul/noticia/chama-carro-diante-bois-concurso-barragem-girabolhos-avanca-contestacao-tecnica-ambiental-2181824",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "fe762d97",
+      "id": "9f6c48cf",
       "cat": "tecnologia",
-      "title": "Sindicatos acusam administração da RTP de adiar unilateralmente assinatura do Acordo de Empresa",
-      "summary": "Os sindicatos condenam a decisão, considerando que demonstra \"falta de consideração pelas organizações sindicais e, sobretudo, pelos trabalhadores da RTP, que aguardam há meses a conclusão deste processo\".",
+      "title": "UGT quer rever em alta salário mínimo e patrões querem apoios já prometidos",
+      "summary": "Secretário-geral da UGT sugeriu que o salário mínimo pode ser revisto em alta para 1.000 euros no próximo ano, em vez dos 970 euros já previstos. Menos interessados numa revisão do acordo, patrões lembram que há contrapartidas fiscais que não foram aplicadas, como a atualização dos escalões do IRS, ",
       "source": "Jornal de Negócios",
-      "date": "Wed, 15 Jul 2026 14:47:44 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/sindicatos-acusam-administracao-da-rtp-de-adiar-unilateralmente-assinatura-do-acordo-de-empresa",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-10-13-10-51-526384.jpg",
+      "date": "Wed, 15 Jul 2026 18:46:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/ugt-quer-rever-em-alta-salario-minimo-e-patroes-querem-apoios-ja-prometidos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-15-17-07-46-526629.jpg",
       "score": 0.73
     },
     {
-      "id": "52fad3dc",
+      "id": "cb16779e",
+      "cat": "tecnologia",
+      "title": "PT2030 fecha primeiro semestre com execução nos 20% em novo ano de \"guilhotina\"",
+      "summary": "Até à primeira metade do ano, Portugal executou 20% dos fundos comunitários do PT2030. Programa das empresas é o mais atrasado e o único que continua abaixo dos dois dígitos. Governo assegura que \"regra da guilhotina\" será cumprida, após \"dificuldades\" registadas em 2025.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 15 Jul 2026 18:25:40 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/pt2030-fecha-primeiro-semestre-com-execucao-nos-20-em-novo-ano-de-guilhotina",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-26-09-07-01-524233.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "941065af",
       "cat": "economia",
-      "title": "Lucro da Blackrock aumenta 33% até junho para 3,6 mil milhões",
-      "summary": "As receitas atingiram os 13.782 milhões de dólares (cerca de 12.084 milhões de euros) no primeiro semestre do ano, um aumento de 28,8%.",
+      "title": "Stripe e fundo Advent oferecem 53 mil milhões pelo PayPal",
+      "summary": "A fintech e o fundo de investimentos vão dar seguimento aos rumores que já tinham sido apontados em abril. Oferta de 60,50 dólares por ação do PayPal supera o atual valor de mercado da empresa pioneira de pagamentos digitais.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 15 Jul 2026 13:24:13 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/lucro-da-blackrock-aumenta-33-ate-junho-para-3-6-mil-milhoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-15-13-22-48-526617.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1c04d604",
-      "cat": "tecnologia",
-      "title": "Linha violeta ainda aguarda fecho formal da investigação de Bruxelas",
-      "summary": "A Comissão Europeia autorizou em abril o Metro de Lisboa a avançar com a linha violeta depois da CRRC ter sido substituída como fornecedor do material circulante. No entanto, a secretária de Estado da Mobilidade diz que sem o fecho da averiguação formal e oficial de Bruxelas “não se pode avançar com",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 15 Jul 2026 13:19:24 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/linha-violeta-ainda-aguarda-fecho-formal-da-investigacao-de-bruxelas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-04/img_100x100uu2025-04-15-15-01-11-499592.jpg",
+      "date": "Wed, 15 Jul 2026 17:58:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/stripe-e-fundo-advent-oferecem-53-mil-milhoes-pelo-paypal",
+      "img": "https://cdn.jornaldenegocios.pt/images/2015-07/img_100x100uu2015-07-17-18-38-08-259714.jpg",
       "score": 0.73
     },
     {
@@ -245,14 +212,36 @@
       "score": 0.73
     },
     {
-      "id": "d97009c2",
+      "id": "829f5f38",
+      "cat": "desporto",
+      "title": "Erick Mendonça regressa à equipa de futsal do Sporting",
+      "summary": "O internacional português Erick Mendonça vai regressar ao Sporting em 2026/27, após três temporadas ao serviço do FC Barcelona, anunciou hoje o clube campeão europeu de futsal.",
+      "source": "RTP",
+      "date": "Wed, 15 Jul 2026 18:04:37 +0100",
+      "url": "https://www.rtp.pt/noticias/sporting/erick-mendonca-regressa-a-equipa-de-futsal-do-sporting_d1753580",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/40/40bf795f9bb815c13548c99faaaa3771?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "b03cfa96",
       "cat": "tecnologia",
-      "title": "Líder do Santander protagoniza momento de marketing espontâneo com streamer no Mundial",
-      "summary": "A passagem de Espanha para a final do Mundial contou com um momento de marketing espontâneo fora das quatro linhas. Durante o jogo que ditou a vitória da Seleção espanhola frente à França, a presidente do Banco Santander, Ana Botín, cruzou-se na bancada com o streamer norte-americano iShowSpeed, e a",
+      "title": "Ventura vai reunir órgãos nacionais e espera falar com Montenegro sobre MAI",
+      "summary": "O presidente do Chega disse esta quarta-feira esperar ter uma conversa com o primeiro-ministro sobre as alegadas ameaças do ministro da Administração Interna, negadas pelo próprio, e vai convocar os órgãos nacionais para decidir eventuais ações. Em declarações aos jornalistas, após uma audiência com",
       "source": "ECO",
-      "date": "Wed, 15 Jul 2026 13:49:53 +0000",
-      "url": "https://eco.sapo.pt/2026/07/15/lider-do-santander-protagoniza-momento-de-marketing-espontaneo-com-streamer-no-mundial/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-ishowspeed.jpg",
+      "date": "Wed, 15 Jul 2026 18:43:27 +0000",
+      "url": "https://eco.sapo.pt/2026/07/15/ventura-vai-reunir-orgaos-nacionais-e-espera-falar-com-montenegro-sobre-mai/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47468218-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "50f08907",
+      "cat": "tecnologia",
+      "title": "Porto e Gaia passam a ter duas travessias fluviais a partir de 22 de julho",
+      "summary": "A Transportes Metropolitanos do Porto (TMP) vai arrancar com duas travessias fluviais entre o Porto e Vila Nova de Gaia, com partidas a cada meia hora, a partir do dia 22 de julho, foi anunciado esta quarta-feira. Uma das travessias vai ligar o Cais do Ouro (Porto) à Afurada (Gaia) e a outra a Ribei",
+      "source": "ECO",
+      "date": "Wed, 15 Jul 2026 18:16:59 +0000",
+      "url": "https://eco.sapo.pt/2026/07/15/porto-e-gaia-passam-a-ter-duas-travessias-fluviais-a-partir-de-22-de-julho/",
+      "img": "https://eco.imgix.net/uploads/2025/09/cropped-cropped-cropped-43057132-scaled-4.jpg",
       "score": 0.73
     },
     {
@@ -267,69 +256,80 @@
       "score": 0.73
     },
     {
-      "id": "cbf26db7",
-      "cat": "ciencia",
-      "title": "Por que os humanos coletam cristais há 780 mil anos? Os chimpanzés podem ter a resposta",
-      "summary": "Os chimpanzés demonstraram uma atração notável pelos cristais, escolhendo-os em vez de pedras comuns e estudando-os com intensa curiosidade. Os resultados sugerem que as mesmas características incomuns podem ter fascinado os primeiros humanos muito antes de os cristais terem qualquer uso prático.",
-      "source": "ScienceDaily",
-      "date": "Tue, 14 Jul 2026 22:56:14 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713000813.htm",
-      "img": "https://www.sciencedaily.com/images/1920/chimpanzee-toti-examines-crystal.webp",
-      "score": 0.73
-    },
-    {
-      "id": "13512fb1",
+      "id": "3d5b04b7",
       "cat": "tecnologia",
-      "title": "A cidade que escolheu a beleza em vez dos outdoors",
-      "summary": "“Aqui costumava haver um enorme bloco de concreto, havia uma coluna publicitária, não era tão bonito”, diz Gilles Namur, acenando com a mão ao longo da Cours Lafontaine, uma rua que atravessa o centro histórico de Grenoble. Hoje, é uma visão completamente diferente. A rua tem.",
-      "source": "Reasons to be Cheerful",
-      "date": "Mon, 13 Jul 2026 08:00:40 +0000",
-      "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2576357661-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "41473a4a",
-      "cat": "sociedade",
-      "title": "Nele para o longo prazo",
-      "summary": "Enquanto os Estados Unidos celebram o seu 250º aniversário neste fim de semana, muitos dos seus residentes podem sentir o grande elefante ideologicamente dividido na sala. Mas embora o país tenha em conta a sua identidade nacional, a nível local, os americanos continuam a unir-se de formas que transcendem a política, como acontece com o país.",
-      "source": "Reasons to be Cheerful",
-      "date": "Fri, 03 Jul 2026 08:00:24 +0000",
-      "url": "https://reasonstobecheerful.world/americas-250th-birthday-reader-responses/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2227481145-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "bdc00bc2",
-      "cat": "tecnologia",
-      "title": "Conferência de Líderes condena vídeo de Ventura",
-      "summary": "Os líderes parlamentares condenaram o vídeo gravado por André Ventura a indiciar que ninguém estava no Parlamento a trabalhar. Pedro Pinto crítica postura de Aguiar-Branco.",
+      "title": "O momento Santana deste Governo",
+      "summary": "Querer reformar já não é mau, mas é preciso ganhar competência operacional no Estado para não falhar de forma caricata e trágica, minando a confiança das pessoas e aumentando a resistência à mudança.",
       "source": "Observador",
-      "date": "Wed, 15 Jul 2026 14:00:51 +0100",
-      "url": "https://observador.pt/2026/07/15/conferencia-de-lideres-condena-video-de-ventura-chega-lamenta-fait-divers/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1334:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/03192731/47401406.jpg",
+      "date": "Wed, 15 Jul 2026 18:53:10 +0100",
+      "url": "https://observador.pt/opiniao/o-momento-santana-deste-governo/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1199%3A1199%3Anowe%3A88%3A118%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F12%2F16200658%2Fil.jpeg",
       "score": 0.7
     },
     {
-      "id": "da9e161d",
+      "id": "4f012024",
       "cat": "tecnologia",
-      "title": "Juan Roig e Ana Botín no mundial e no \"live\" de youtuber",
-      "summary": "Líderes empresariais espanhóis pediram a streamer ​​​​para tirar uma fotografia. Explicaram que Mercadona “é como um Walmart espanhol” e o Banco Santander “é como o JP Morgan da Europa”.",
+      "title": "Projeto \"Alquimia\" realiza sonhos de maiores de 65 anos",
+      "summary": "Com 360 participantes, o projeto gratuito do Coliseu do Porto trouxe à vida cultural e social quem vivia isolado — e agora estuda formas de não os \"deixar desamparados\" no final dos dois anos.",
       "source": "Observador",
-      "date": "Wed, 15 Jul 2026 13:59:48 +0100",
-      "url": "https://observador.pt/2026/07/15/tens-de-abrir-conta-no-openbank-juan-roig-e-ana-botin-apareceram-na-transmissao-do-youtuber-ishowspeed-durante-jogo-espanha-franca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:721:nowe:0:9/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/15102749/captura-de-ecra-2026-07-15-as-102723.jpg",
+      "date": "Wed, 15 Jul 2026 18:49:13 +0100",
+      "url": "https://observador.pt/2026/07/15/alquimia-projeto-social-e-cultural-do-coliseu-do-porto-faz-sonhar-maiores-de-65-anos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:808:nowe:0:13/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/12152303/coliseu.jpg",
       "score": 0.7
     },
     {
-      "id": "82eed2d9",
+      "id": "858baaeb",
       "cat": "tecnologia",
-      "title": "Luís Neves está num pântano ou simplesmente num tanque?",
-      "summary": "No \"Realpolitik\", Sérgio Sousa Pinto e Miguel Pinheiro falam sobre a polémica com Luís Neves, sobre o estado do governo e sobre o combate entre Nigel Farage e o Conde Cara de Caixote do Lixo.",
+      "title": "Moradia ilegal na Caniçada vai ser demolida",
+      "summary": "Moradia foi construída numa área com mecanismos de proteção \"fortemente restritivos\", tendo entregue fotografias de \"supostas ruínas\". Os promotores da obra e o autor do projeto foram condenados.",
       "source": "Observador",
-      "date": "Wed, 15 Jul 2026 13:48:53 +0100",
-      "url": "https://observador.pt/programas/realpolitik/luis-neves-esta-num-pantano-ou-simplesmente-num-tanque/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/15164325/770-podcast-realpolitik.jpg",
+      "date": "Wed, 15 Jul 2026 18:47:43 +0100",
+      "url": "https://observador.pt/2026/07/15/tribunal-de-braga-ordena-demolicao-de-moradia-ilegal-na-albufeira-da-canicada-e-condena-promotores-a-prisao-suspensa/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1388:775:nowe:174:1183/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/14170830/jporfirio-demolicoes-bairro-talude-loures-14-07-01-30-scaled.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "75097952",
+      "cat": "desporto",
+      "title": "Colombiano Sebastián Osorio reforça formação do Sporting",
+      "summary": "O extremo esquerdo colombiano Sebastián Osorio, de 18 anos, foi contratado pelo Sporting, devendo integrar a equipa B ou os sub-23 dos ‘leões’, anunciou hoje o clube lisboeta de futebol.",
+      "source": "RTP",
+      "date": "Wed, 15 Jul 2026 21:04:00 +0100",
+      "url": "https://www.rtp.pt/noticias/sporting/colombiano-sebastian-osorio-reforca-formacao-do-sporting_d1753620",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b66e13c528be6c1d9ac5fe912399eee1?w=350&amp;q=50&amp;rect=0,53,1233,676&amp;auto=format",
+      "score": 0.7
+    },
+    {
+      "id": "15a11195",
+      "cat": "tecnologia",
+      "title": "Boavista encerra atividade após falhar pagamento aos credores",
+      "summary": "O Boavista vai encerrar a atividade, após falhar o depósito na conta da massa insolvente dos credores do clube da verba para suportar as despesas correntes dos `axadrezados` em junho, anunciou hoje a administradora de insolvência.",
+      "source": "RTP",
+      "date": "Wed, 15 Jul 2026 21:01:26 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/boavista-encerra-atividade-apos-falhar-pagamento-aos-credores_d1753619",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d83663a5ae3a5f386de472ffe5f23d71?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format",
       "score": 0.7
     }
   ]
