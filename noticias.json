@@ -1,5 +1,5 @@
 {
-  "last_update": "15/07/2026 19:23 UTC",
+  "last_update": "16/07/2026 03:22 UTC",
   "total": 30,
   "news": [
     {
@@ -22,17 +22,6 @@
       "date": "Fri, 10 Jul 2026 05:07:49 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-487525618.jpeg",
-      "score": 0.82
-    },
-    {
-      "id": "5dbf11d7",
-      "cat": "saude",
-      "title": "Tratamento pioneiro salva gêmeos no início da gravidez",
-      "summary": "As gêmeas idênticas Nancy e Margo se beneficiaram do procedimento ainda no útero, como parte de um teste médico pioneiro no mundo.",
-      "source": "BBC News",
-      "date": "Fri, 10 Jul 2026 16:04:37 GMT",
-      "url": "https://www.bbc.co.uk/news/videos/c3ry5xl4qr1o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca4/live/cf927ad0-7c74-11f1-bee8-53ce494e1abc.jpg",
       "score": 0.82
     },
     {
@@ -67,28 +56,6 @@
       "url": "https://www.bbc.co.uk/news/articles/czj8zp9e084o?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4f/live/cfcc3c30-7c37-11f1-a2fb-0b92ebfbb860.jpg",
       "score": 0.79
-    },
-    {
-      "id": "0933327b",
-      "cat": "tecnologia",
-      "title": "UE mantém tecto máximo do preço do petróleo russo até à próxima semana",
-      "summary": "Sem acordo para aprovar o 21.º pacote de sanções, Estados-membros encontram solução provisória para evitar que Moscovo volte a encher os cofres com as importações de crude.",
-      "source": "Público",
-      "date": "Wed, 15 Jul 2026 16:57:17 GMT",
-      "url": "https://www.publico.pt/2026/07/15/mundo/noticia/ue-mantem-tecto-maximo-preco-petroleo-russo-ate-proxima-semana-2181817",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "2be4e0fb",
-      "cat": "tecnologia",
-      "title": "Rodrigo, o menino que salvou a mãe ao ligar para o INEM, recebe prémio de civismo",
-      "summary": "O menino de Castelo Branco foi distinguido com o Prémio Cidadão da Nobre Casa de Cidadania e o INEM acompanhou a cerimónia. “O Rodrigo Pinto é um cidadão exemplar”, celebram.",
-      "source": "Público",
-      "date": "Wed, 15 Jul 2026 16:31:09 GMT",
-      "url": "https://www.publico.pt/2026/07/15/impar/noticia/rodrigo-menino-salvou-mae-ligar-inem-recebe-premio-civismo-2181810",
-      "img": null,
-      "score": 0.76
     },
     {
       "id": "9cac766d",
@@ -157,47 +124,91 @@
       "score": 0.76
     },
     {
-      "id": "124d38c9",
+      "id": "25a1c000",
+      "cat": "sociedade",
+      "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
+      "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada em... O pos",
+      "source": "Reasons to be Cheerful",
+      "date": "Thu, 02 Jul 2026 08:00:08 +0000",
+      "url": "https://reasonstobecheerful.world/the-spark-wildlife-care/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/Shutterstock-El-Nariz-scaled.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "432e33e0",
       "cat": "tecnologia",
-      "title": "“É o que se chama pôr o carro diante dos bois”: barragem de Girabolhos avança sob contestação técnica e ambiental",
-      "summary": "O Governo recuperou antigo projecto após tempestades de Fevereiro, mas especialistas e associações dizem que a obra não é solução para cheias e exige nova avaliação ambiental.",
+      "title": "O estado da nação com o PS calado e o Governo a arder",
+      "summary": "Bater em Montenegro em temas banais, sim, empurrá-lo para o precipício quando o primeiro-ministro se aproxima dele, nem pensar. Sim, é o combate político ao contrário. Opinião de Manuel Carvalho",
       "source": "Público",
-      "date": "Wed, 15 Jul 2026 17:31:59 GMT",
-      "url": "https://www.publico.pt/2026/07/15/azul/noticia/chama-carro-diante-bois-concurso-barragem-girabolhos-avanca-contestacao-tecnica-ambiental-2181824",
+      "date": "Wed, 15 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/16/opiniao/opiniao/estado-nacao-ps-calado-governo-arder-2181822",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "9f6c48cf",
+      "id": "000535b0",
       "cat": "tecnologia",
-      "title": "UGT quer rever em alta salário mínimo e patrões querem apoios já prometidos",
-      "summary": "Secretário-geral da UGT sugeriu que o salário mínimo pode ser revisto em alta para 1.000 euros no próximo ano, em vez dos 970 euros já previstos. Menos interessados numa revisão do acordo, patrões lembram que há contrapartidas fiscais que não foram aplicadas, como a atualização dos escalões do IRS, ",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 15 Jul 2026 18:46:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/ugt-quer-rever-em-alta-salario-minimo-e-patroes-querem-apoios-ja-prometidos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-15-17-07-46-526629.jpg",
+      "title": "A América antes do “depois”",
+      "summary": "Os EUA ainda aprendiam a andar quando já discutiam como se estivessem a desfazer-se. A Revolução não terminou quando os britânicos foram expulsos. Começou quando foi preciso governar os americanos. Opinião de Manuel Serrano",
+      "source": "Público",
+      "date": "Wed, 15 Jul 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/07/16/opiniao/opiniao/america-2181741",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "cb16779e",
-      "cat": "tecnologia",
-      "title": "PT2030 fecha primeiro semestre com execução nos 20% em novo ano de \"guilhotina\"",
-      "summary": "Até à primeira metade do ano, Portugal executou 20% dos fundos comunitários do PT2030. Programa das empresas é o mais atrasado e o único que continua abaixo dos dois dígitos. Governo assegura que \"regra da guilhotina\" será cumprida, após \"dificuldades\" registadas em 2025.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 15 Jul 2026 18:25:40 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/pt2030-fecha-primeiro-semestre-com-execucao-nos-20-em-novo-ano-de-guilhotina",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-26-09-07-01-524233.jpg",
+      "id": "b2dd07e6",
+      "cat": "geral",
+      "title": "Carneiro jura não ter pressa, mas aperta cerco a Montenegro",
+      "summary": "Na véspera do debate do Estado da Nação, Carneiro promete não força instabilidade, mas quer convencer os portugueses de que o problema já é o primeiro-ministro.",
+      "source": "Observador",
+      "date": "Thu, 16 Jul 2026 01:52:46 +0100",
+      "url": "https://observador.pt/2026/07/16/carneiro-jura-nao-ter-pressa-mas-tenta-apertar-cerco-a-montenegro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:92/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/19115006/47315359.jpg",
       "score": 0.73
     },
     {
-      "id": "941065af",
-      "cat": "economia",
-      "title": "Stripe e fundo Advent oferecem 53 mil milhões pelo PayPal",
-      "summary": "A fintech e o fundo de investimentos vão dar seguimento aos rumores que já tinham sido apontados em abril. Oferta de 60,50 dólares por ação do PayPal supera o atual valor de mercado da empresa pioneira de pagamentos digitais.",
+      "id": "a3259e88",
+      "cat": "cultura",
+      "title": "Uma direita homologada",
+      "summary": "Há anos que uma parte da direita procura legitimar-se através da validação cultural da esquerda. No fim, acaba a celebrar como referência cultural quem olha para ela como uma loucura democrática.",
+      "source": "Observador",
+      "date": "Thu, 16 Jul 2026 00:20:56 +0100",
+      "url": "https://observador.pt/opiniao/uma-direita-homologada/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A528%3A528%3Anowe%3A44%3A72%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F12%2F06182734%2Fbentes-penedo-1.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "13aa7eed",
+      "cat": "tecnologia",
+      "title": "Barragem de Girabolhos é \"essencial e estratégica\" para o país, diz ministra do Ambiente",
+      "summary": "\"É um equipamento multifacetado, com muitas valências. A primeira é garantir a segurança de abastecimento de água às populações, depois a produção e armazenamento de energia e, finalmente, o controlo de cheias no Baixo Mondego\", disse a governante na sessão de lançamento do concurso público.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 15 Jul 2026 17:58:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/stripe-e-fundo-advent-oferecem-53-mil-milhoes-pelo-paypal",
-      "img": "https://cdn.jornaldenegocios.pt/images/2015-07/img_100x100uu2015-07-17-18-38-08-259714.jpg",
+      "date": "Wed, 15 Jul 2026 23:59:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/barragem-de-girabolhos-e-essencial-e-estrategica-para-o-pais-diz-ministra-do-ambiente",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-01-12-29-41-525919.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d3ec0c95",
+      "cat": "tecnologia",
+      "title": "Eu não queria, mas vou dizer",
+      "summary": "O primeiro-ministro lá vai dizendo que não pretende “sacudir responsabilidades”, mas é precisamente isso que faz.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 15 Jul 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/eu-nao-queria-mas-vou-dizer",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
+      "score": 0.73
+    },
+    {
+      "id": "e5e1d8f2",
+      "cat": "tecnologia",
+      "title": "PS não exclui comissão de inquérito aos exames se continuarem a faltar esclarecimentos",
+      "summary": "Os socialistas consideram grave que o primeiro-ministro tenha responsabilizado alguns professores por estes problemas.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 15 Jul 2026 21:43:26 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ps-nao-exclui-comissao-de-inquerito-aos-exames-se-continuarem-a-faltar-esclarecimentos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-18-14-57-12-518667.jpg",
       "score": 0.73
     },
     {
@@ -223,25 +234,36 @@
       "score": 0.73
     },
     {
-      "id": "b03cfa96",
+      "id": "7866bd5f",
       "cat": "tecnologia",
-      "title": "Ventura vai reunir órgãos nacionais e espera falar com Montenegro sobre MAI",
-      "summary": "O presidente do Chega disse esta quarta-feira esperar ter uma conversa com o primeiro-ministro sobre as alegadas ameaças do ministro da Administração Interna, negadas pelo próprio, e vai convocar os órgãos nacionais para decidir eventuais ações. Em declarações aos jornalistas, após uma audiência com",
+      "title": "As 58 perguntas a que o Governo deveria responder",
+      "summary": "No dia 16 de julho, a Assembleia da República (AR) receberá mais um debate sobre o Estado da Nação. Como habitualmente, o Governo procurará apresentar um balanço favorável da sua atuação, enquanto os partidos da oposição destacarão os problemas que permanecem por resolver. Haverá números selecionado",
       "source": "ECO",
-      "date": "Wed, 15 Jul 2026 18:43:27 +0000",
-      "url": "https://eco.sapo.pt/2026/07/15/ventura-vai-reunir-orgaos-nacionais-e-espera-falar-com-montenegro-sobre-mai/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47468218-scaled-1.jpg",
+      "date": "Wed, 15 Jul 2026 23:01:17 +0000",
+      "url": "https://eco.sapo.pt/especiais/as-58-perguntas-a-que-o-governo-deveria-responder/",
+      "img": "https://eco.imgix.net/uploads/2026/07/artboard-1.jpg",
       "score": 0.73
     },
     {
-      "id": "50f08907",
+      "id": "45d0895c",
       "cat": "tecnologia",
-      "title": "Porto e Gaia passam a ter duas travessias fluviais a partir de 22 de julho",
-      "summary": "A Transportes Metropolitanos do Porto (TMP) vai arrancar com duas travessias fluviais entre o Porto e Vila Nova de Gaia, com partidas a cada meia hora, a partir do dia 22 de julho, foi anunciado esta quarta-feira. Uma das travessias vai ligar o Cais do Ouro (Porto) à Afurada (Gaia) e a outra a Ribei",
+      "title": "Sérgio Figueiredo abandona Conta Lá ao fim de 12 meses",
+      "summary": "No dia 17 de junho do ano passado, o ECO/+M revelou em primeira mão o regresso de Sérgio Figueiredo ao jornalismo, com o lançamento de um novo canal de televisão que, como dizia à data, era muito mais do que isso. Sérgio Figueiredo tinha saída da direção da TVI, demitido por Mário Ferreira, e esteve",
       "source": "ECO",
-      "date": "Wed, 15 Jul 2026 18:16:59 +0000",
-      "url": "https://eco.sapo.pt/2026/07/15/porto-e-gaia-passam-a-ter-duas-travessias-fluviais-a-partir-de-22-de-julho/",
-      "img": "https://eco.imgix.net/uploads/2025/09/cropped-cropped-cropped-43057132-scaled-4.jpg",
+      "date": "Wed, 15 Jul 2026 23:01:10 +0000",
+      "url": "https://eco.sapo.pt/2026/07/16/sergio-figueiredo-abandona-conta-la-ao-fim-de-12-meses/",
+      "img": "https://eco.imgix.net/uploads/2025/06/cropped-fotos-eco.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0fa10ea5",
+      "cat": "ambiente",
+      "title": "Nova espécie de macaco com lábios laranja encontrada ‘escondida’ na floresta da RDC",
+      "summary": "Os cientistas descrevem a “sensação incrível” de olhar para o rosto de um animal que tão poucas pessoas sabiam que existia.",
+      "source": "BBC News",
+      "date": "Wed, 15 Jul 2026 23:02:49 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/d37622b0-805b-11f1-bee8-53ce494e1abc.jpg",
       "score": 0.73
     },
     {
@@ -256,36 +278,47 @@
       "score": 0.73
     },
     {
-      "id": "3d5b04b7",
+      "id": "13512fb1",
       "cat": "tecnologia",
-      "title": "O momento Santana deste Governo",
-      "summary": "Querer reformar já não é mau, mas é preciso ganhar competência operacional no Estado para não falhar de forma caricata e trágica, minando a confiança das pessoas e aumentando a resistência à mudança.",
-      "source": "Observador",
-      "date": "Wed, 15 Jul 2026 18:53:10 +0100",
-      "url": "https://observador.pt/opiniao/o-momento-santana-deste-governo/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1199%3A1199%3Anowe%3A88%3A118%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F12%2F16200658%2Fil.jpeg",
+      "title": "A cidade que escolheu a beleza em vez dos outdoors",
+      "summary": "“Aqui costumava haver um enorme bloco de concreto, havia uma coluna publicitária, não era tão bonito”, diz Gilles Namur, acenando com a mão ao longo da Cours Lafontaine, uma rua que atravessa o centro histórico de Grenoble. Hoje, é uma visão completamente diferente. A rua tem.",
+      "source": "Reasons to be Cheerful",
+      "date": "Mon, 13 Jul 2026 08:00:40 +0000",
+      "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2576357661-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "41473a4a",
+      "cat": "sociedade",
+      "title": "Nele para o longo prazo",
+      "summary": "Enquanto os Estados Unidos celebram o seu 250º aniversário neste fim de semana, muitos dos seus residentes podem sentir o grande elefante ideologicamente dividido na sala. Mas embora o país tenha em conta a sua identidade nacional, a nível local, os americanos continuam a unir-se de formas que transcendem a política, como acontece com o país.",
+      "source": "Reasons to be Cheerful",
+      "date": "Fri, 03 Jul 2026 08:00:24 +0000",
+      "url": "https://reasonstobecheerful.world/americas-250th-birthday-reader-responses/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2227481145-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "93cb723e",
+      "cat": "tecnologia",
+      "title": "Taxas e taxinhas: prestação de contas",
+      "summary": "Simplificar não é apenas eliminar burocracia. É tornar o Estado mais transparente, mais responsável e, por isso mesmo, mais apto a cumprir. Opinião de Carla Castro",
+      "source": "Público",
+      "date": "Wed, 15 Jul 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/07/16/opiniao/opiniao/taxas-taxinhas-prestacao-contas-2181790",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "4f012024",
+      "id": "a8e2e102",
       "cat": "tecnologia",
-      "title": "Projeto \"Alquimia\" realiza sonhos de maiores de 65 anos",
-      "summary": "Com 360 participantes, o projeto gratuito do Coliseu do Porto trouxe à vida cultural e social quem vivia isolado — e agora estuda formas de não os \"deixar desamparados\" no final dos dois anos.",
+      "title": "3h. Rui Rio acusa o Governo de ter medo de fazer reformas",
+      "summary": "Ex-presidente do PSD afirma que classe política não faz reformas porque tem medo de ir contra interesses instalados. Ainda, o prazo de correção acabou, mas ainda há exames nacionais por classificar.",
       "source": "Observador",
-      "date": "Wed, 15 Jul 2026 18:49:13 +0100",
-      "url": "https://observador.pt/2026/07/15/alquimia-projeto-social-e-cultural-do-coliseu-do-porto-faz-sonhar-maiores-de-65-anos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:808:nowe:0:13/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/12152303/coliseu.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "858baaeb",
-      "cat": "tecnologia",
-      "title": "Moradia ilegal na Caniçada vai ser demolida",
-      "summary": "Moradia foi construída numa área com mecanismos de proteção \"fortemente restritivos\", tendo entregue fotografias de \"supostas ruínas\". Os promotores da obra e o autor do projeto foram condenados.",
-      "source": "Observador",
-      "date": "Wed, 15 Jul 2026 18:47:43 +0100",
-      "url": "https://observador.pt/2026/07/15/tribunal-de-braga-ordena-demolicao-de-moradia-ilegal-na-albufeira-da-canicada-e-condena-promotores-a-prisao-suspensa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1388:775:nowe:174:1183/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/14170830/jporfirio-demolicoes-bairro-talude-loures-14-07-01-30-scaled.jpg",
+      "date": "Thu, 16 Jul 2026 03:16:04 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2378/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
@@ -297,39 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "75097952",
-      "cat": "desporto",
-      "title": "Colombiano Sebastián Osorio reforça formação do Sporting",
-      "summary": "O extremo esquerdo colombiano Sebastián Osorio, de 18 anos, foi contratado pelo Sporting, devendo integrar a equipa B ou os sub-23 dos ‘leões’, anunciou hoje o clube lisboeta de futebol.",
-      "source": "RTP",
-      "date": "Wed, 15 Jul 2026 21:04:00 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/colombiano-sebastian-osorio-reforca-formacao-do-sporting_d1753620",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b66e13c528be6c1d9ac5fe912399eee1?w=350&amp;q=50&amp;rect=0,53,1233,676&amp;auto=format",
-      "score": 0.7
-    },
-    {
-      "id": "15a11195",
-      "cat": "tecnologia",
-      "title": "Boavista encerra atividade após falhar pagamento aos credores",
-      "summary": "O Boavista vai encerrar a atividade, após falhar o depósito na conta da massa insolvente dos credores do clube da verba para suportar as despesas correntes dos `axadrezados` em junho, anunciou hoje a administradora de insolvência.",
-      "source": "RTP",
-      "date": "Wed, 15 Jul 2026 21:01:26 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/boavista-encerra-atividade-apos-falhar-pagamento-aos-credores_d1753619",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d83663a5ae3a5f386de472ffe5f23d71?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format",
       "score": 0.7
     }
   ]
