@@ -1,5 +1,5 @@
 {
-  "last_update": "16/07/2026 14:11 UTC",
+  "last_update": "16/07/2026 19:23 UTC",
   "total": 30,
   "news": [
     {
@@ -36,14 +36,14 @@
       "score": 0.79
     },
     {
-      "id": "25eb4efe",
-      "cat": "cultura",
-      "title": "Bloomberg doa US$ 260 milhões para garantir que novo tratado de alto mar se traduza em proteções oceânicas duradouras",
-      "summary": "A Bloomberg Philanthropies identificou uma deficiência de financiamento na implementação de projetos de muitos países. planos de proteção dos oceanos e tentou preenchê-lo com uma doação de um quarto de bilhão de dólares. O objetivo em pequena escala é traduzir os ganhos de papel para a conservação e gestão dos oceanos garantidos com",
-      "source": "Good News Network",
-      "date": "Tue, 14 Jul 2026 13:00:55 +0000",
-      "url": "https://www.goodnewsnetwork.org/bloomberg-stumps-up-260m-to-ensure-new-high-seas-treaty-translates-to-lasting-ocean-protections/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-coral-reef-credit-Fascinating-Universe.jpg",
+      "id": "c138c828",
+      "cat": "ciencia",
+      "title": "Assista: O que sabemos sobre espécies de macacos recém-descobertas",
+      "summary": "Novas espécies de macacos aclamadas como “descoberta incrível” pelos conservacionistas.",
+      "source": "BBC News",
+      "date": "Thu, 16 Jul 2026 14:50:05 GMT",
+      "url": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a49/live/03630e40-8131-11f1-926f-c90d1bcfbc84.jpg",
       "score": 0.79
     },
     {
@@ -58,25 +58,47 @@
       "score": 0.79
     },
     {
-      "id": "6fce60bf",
-      "cat": "economia",
-      "title": "Culligan investe sete milhões de euros e cria 100 empregos até ao final deste ano",
-      "summary": "A empresa especializada em soluções de água Culligan anunciou, esta quinta-feira, um investimento superior a sete milhões de euros e a contratação de 110 pessoas durante este ano de 2026, nas várias delegações distribuídas pelo país. Com este reforço, a empresa antecipa ultrapassar os 44 milhões de ",
-      "source": "ECO",
-      "date": "Thu, 16 Jul 2026 11:48:20 +0000",
-      "url": "https://eco.sapo.pt/2026/07/16/culligan-investe-sete-milhoes-de-euros-e-cria-100-empregos-ate-ao-final-deste-ano/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-culligan-portugal.jpg",
+      "id": "2d40ad36",
+      "cat": "tecnologia",
+      "title": "Vacina contra cancro do pâncreas com resultados positivos",
+      "summary": "Ensaio com 20 pessoas de alto risco mostrou que a mKRAS-VAX ativou células imunitárias em 18 participantes. Nenhum desenvolveu cancro após seguimento mediano de 16,5 meses.",
+      "source": "Observador",
+      "date": "Thu, 16 Jul 2026 19:16:07 +0100",
+      "url": "https://observador.pt/2026/07/16/vacina-experimental-para-prevenir-cancro-do-pancreas-com-resultados-positivos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:171/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/07/25230008/GettyImages-1242065850-scaled.jpg",
       "score": 0.76
     },
     {
-      "id": "9d144def",
+      "id": "d9f94871",
       "cat": "tecnologia",
-      "title": "Bruxelas aprova programa de 115 milhões de euros para acelerar tecnologias disruptivas na defesa",
-      "summary": "O Parlamento e o Conselho Europeu chegaram a acordo para lançar o programa de 115 milhões de euros AGILE, destinado a acelerar a inovação no setor da defesa, levando tecnologias de defesa disruptivas do laboratório para o terreno de forma mais rápida, e aproximando startups e pequenas empresas das n",
+      "title": "Reino Unido pede à FIFA investigação a faixa sobre Malvinas exibida por jogadores argentinos",
+      "summary": "O Reino Unido pediu hoje à FIFA uma investigação à Argentina por jogadores sul-americanos terem exibido uma faixa a reivindicar as ilhas Malvinas nos festejos da vitória de quarta-feira sobre Inglaterra, no Mundial de futebol.",
+      "source": "RTP",
+      "date": "Thu, 16 Jul 2026 17:47:27 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/reino-unido-pede-a-fifa-investigacao-a-faixa-sobre-malvinas-exibida-por-jogadores-argentinos_d1753828",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d7ab027e9881e199eebdc1ffbc2c0ee0?w=350&amp;q=50&amp;rect=0,92,1234,677&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "b0cd05e1",
+      "cat": "tecnologia",
+      "title": "Mundial de 2026. Vitória da Argentina contra Inglaterra vista, em média, por quase 2,4 milhões de telespectadores",
+      "summary": "O jogo entre Inglaterra e Argentina ditou a qualificação dos La Albiceleste para a final contra a Espanha. O encontro, transmitido pelas 20h00 na TVI, Sport TV 1 e Sport TV 5 registou uma audiência média de 2.394.041 telespectadores – de acordo com a análise elaborada pela Dentsu para o +M. Na LiveM",
       "source": "ECO",
-      "date": "Thu, 16 Jul 2026 11:22:34 +0000",
-      "url": "https://eco.sapo.pt/2026/07/16/bruxelas-aprova-programa-de-115-milhoes-de-euros-para-acelerar-tecnologias-disruptivas-na-defesa/",
-      "img": "https://eco.imgix.net/uploads/2024/08/henna-virkkunen.jpg",
+      "date": "Thu, 16 Jul 2026 16:42:07 +0000",
+      "url": "https://eco.sapo.pt/2026/07/16/mundial-de-2026-vitoria-da-argentina-contra-inglaterra-vista-em-media-por-quase-24-milhoes-de-telespectadores/",
+      "img": "https://eco.imgix.net/uploads/2026/06/audiencias-mundial-2000x1125-1.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "7f79f8a7",
+      "cat": "tecnologia",
+      "title": "Engenheiros japoneses ajudam a modernizar a enorme ferrovia da Índia, lançando seu primeiro trem-bala",
+      "summary": "Para o sistema de transporte mais dependente de trens do mundo, a estreia de seu primeiro sistema de alta velocidade ou &#8220;bala&#8221; trem, agora está tentadoramente próximo. O início das operações de passageiros em fases está previsto a partir de 15 de agosto de 2027, desde que não haja mais atrasos no projeto. Definir como",
+      "source": "Good News Network",
+      "date": "Thu, 16 Jul 2026 15:30:21 +0000",
+      "url": "https://www.goodnewsnetwork.org/japanese-engineering-helping-india-modernize-massive-railway-system-starting-with-her-first-bullet-train/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Prime-ministers-of-India-and-Japan-at-the-groundbreaking-ceremony-for-the-Mumbai-Ahmedabad-high-speed-rail-project-credit-Prime-Ministers-Office-GODL-India.jpg",
       "score": 0.76
     },
     {
@@ -146,58 +168,80 @@
       "score": 0.76
     },
     {
-      "id": "3a47b7c7",
+      "id": "19ff43ac",
       "cat": "tecnologia",
-      "title": "Onde é que Christopher Nolan arranjou estes brinquedos maravilhosos?",
-      "summary": "A Odisseia é uma das estreias do ano, um épico de prestígio e espectáculo. É um avanço técnico com novas câmaras, um rolo de filme de 15 quilos e sessões esgotadas há um ano. Estreia-se hoje.",
+      "title": "Troféu do Mundial chega em grande estilo numa mala Louis Vuitton feita à medida",
+      "summary": "A mala, estilo baú, apresenta um “V” dourado, que simboliza “Vitória”. Só falta saber se vai viajar para Espanha ou para a Argentina.",
       "source": "Público",
-      "date": "Thu, 16 Jul 2026 11:12:04 GMT",
-      "url": "https://www.publico.pt/2026/07/16/culturaipsilon/noticia/onde-christopher-nolan-arranjou-brinquedos-maravilhosos-2181887",
+      "date": "Thu, 16 Jul 2026 18:01:00 GMT",
+      "url": "https://www.publico.pt/2026/07/16/impar/noticia/trofeu-mundial-chega-estilo-mala-louis-vuitton-medida-2181977",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "f6788d99",
-      "cat": "tecnologia",
-      "title": "Quando a água deixa de bater à porta…",
-      "summary": "Recuperar projetos como Girabolhos, Fagilde, Alvito, Alportel, Foupana ou Pisão porque “já estavam pensados” é um argumento fraco. Não vejo nestas obras a solução que se anuncia. Opinião de Mário Carmo",
+      "id": "6b5f8ab6",
+      "cat": "cultura",
+      "title": "Danny Boyle leva Rupert Murdoch a Veneza e Ellen Burstyn a Marilyn que nunca vimos",
+      "summary": "Ink , do cineasta britânico, abre o festival a 2 de Setembro. Já a actriz americana, 93 anos, Leão de Ouro à carreira, aparecerá como Marilyn Monroe numa curta de Maggie Gyllenhaal.",
       "source": "Público",
-      "date": "Thu, 16 Jul 2026 11:07:00 GMT",
-      "url": "https://www.publico.pt/2026/07/16/azul/opiniao/agua-deixa-bater-porta-2181840",
+      "date": "Thu, 16 Jul 2026 17:37:47 GMT",
+      "url": "https://www.publico.pt/2026/07/16/culturaipsilon/noticia/danny-boyle-leva-rupert-murdoch-veneza-ellen-burstyn-marilyn-vimos-2181949",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "92fd7204",
+      "id": "23a72743",
       "cat": "tecnologia",
-      "title": "Nova lei orgânica do INEM já foi publicada e abre a porta a acordos com o privado",
-      "summary": "INEM passa a instituto público de regime especial. Conselho directivo cresce e fica com remuneração igual à dos grandes hospitais. Aumento do financiamento do instituto depende do Orçamento do Estado.",
+      "title": "Alunos terão acesso a exames digitalizados a seu pedido ou “por iniciativa da escola”",
+      "summary": "Exames serão disponibilizados aos alunos através das escolas, que os enviarão por email . Processo é “positivo”, mas “é um trabalho inesperado para as escolas”. E não automático, como foi anunciado.",
       "source": "Público",
-      "date": "Thu, 16 Jul 2026 10:59:54 GMT",
-      "url": "https://www.publico.pt/2026/07/16/sociedade/noticia/nova-lei-organica-inem-ja-publicada-abre-porta-acordos-privado-2181881",
+      "date": "Thu, 16 Jul 2026 17:34:16 GMT",
+      "url": "https://www.publico.pt/2026/07/16/sociedade/noticia/ministro-prometeu-acesso-automatico-alunos-vao-requerer-consulta-exames-2181933",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "3989c913",
-      "cat": "saude",
-      "title": "JD Vance admite falhas na divulgação dos ficheiros Epstein",
-      "summary": "Entrevistado por Joe Rogan, vice-presidente afirmou que as falhas não se deveram a tentativa de esconder alguma coisa e que a procuradora Pam Bondi não teve \"intenções maliciosas\".",
+      "id": "535b7224",
+      "cat": "tecnologia",
+      "title": "Coimbra pede \"respostas\" para obras do PRR ainda por acabar",
+      "summary": "Ana Abrunhosa diz que Governo \"está a violar claramente os acordos\" ao não fornecer soluções para obras do PRR que não foram concluídas no prazo. Obras estão em risco de parar e perder empreiteiros.",
       "source": "Observador",
-      "date": "Thu, 16 Jul 2026 14:06:50 +0100",
-      "url": "https://observador.pt/2026/07/16/fizemos-asneira-jd-vance-admite-falhas-da-administracao-trump-na-divulgacao-dos-ficheiros-de-jeffrey-epstein/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/21054840/47311360.jpg",
+      "date": "Thu, 16 Jul 2026 19:04:04 +0100",
+      "url": "https://observador.pt/2026/07/16/regiao-de-coimbra-quer-solucoes-claras-para-obras-nao-concluidas-no-fim-do-prr/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/13080144/47076839.jpg",
       "score": 0.73
     },
     {
-      "id": "e904f06f",
+      "id": "fefeb99f",
       "cat": "tecnologia",
-      "title": "Parlamento ucraniano aprova novo primeiro-ministro",
-      "summary": "Serhiy Koretskyi vai substituir Yulia Svyrydenko, depois de a primeira-ministra ter oficializado a demissão na terça-feira. O diretor do grupo energético contou com 289 votos a favor num total de 318.",
-      "source": "Observador",
-      "date": "Thu, 16 Jul 2026 13:37:50 +0100",
-      "url": "https://observador.pt/2026/07/16/parlamento-ucraniano-aprova-gestor-publico-serhiy-koretskyi-como-novo-primeiro-ministro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/16111357/45415702.jpg",
+      "title": "PS pede demissão de Fernando Alexandre. \"Esse lugar já não devia ser ocupado por si\"",
+      "summary": "Acompanhe ao minuto as intervenções do primeiro-ministro, Luís Montenegro, e dos partidos da oposição.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 16 Jul 2026 20:09:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/contas-publicas-e-polemica-dos-exames-acompanhe-ao-minuto-o-debate-do-estado-da-nacao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-16-15-56-13-526727.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "a6c99ff2",
+      "cat": "tecnologia",
+      "title": "OMI reprova acordos comerciais propostos por Trump em troca de passagem por Ormuz",
+      "summary": "O secretário-geral da Organização Marítima Internacional (OMI) refuta assim a mais recente sugestão do Presidente dos Estados Unidos, Donald Trump, sobre eventuais acordos comerciais relacionados com a passagem de mercadorias nesta rota marítima estratégica.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 16 Jul 2026 19:21:35 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/omi-reprova-acordos-comerciais-propostos-por-trump-em-troca-de-passagem-por-ormuz",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-13-08-04-51-526470.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "25928572",
+      "cat": "tecnologia",
+      "title": "Greve geral ditou recuo de 0,2% nos aeroportos nacionais em junho",
+      "summary": "No conjunto dos primeiros seis meses deste ano passaram pelos aeroportos portugueses quase 35 milhões de passageiros. Lisboa cresceu, em termos homólogos, 1,3%, enquanto os Açores registaram uma queda de 9,3%",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 16 Jul 2026 18:22:44 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/greve-geral-ditou-recuo-de-0-2-nos-aeroportos-nacionais-em-junho",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-07/img_100x100uu2025-07-26-14-27-22-506503.jpg",
       "score": 0.73
     },
     {
@@ -212,14 +256,25 @@
       "score": 0.73
     },
     {
-      "id": "56572d82",
+      "id": "d7ecee6d",
       "cat": "tecnologia",
-      "title": "Trabalhadores do Conta Lá estão unidos na procura de soluções para o canal",
-      "summary": "Os trabalhadores do projeto Conta Lá manifestam-se preocupados com a continuidade do projeto que &#8220;defende a coesão territorial&#8221; e o &#8220;serviço público&#8221; de televisão e que o coletivo está unido e empenhado na procura de soluções. Na quarta-feira decorreu um plenário de trabalhad",
+      "title": "Boavista focado na viabilização do plano de recuperação para resgatar atividade",
+      "summary": "O Boavista disse esta quinta-feira estar focado na viabilização do plano de recuperação do clube, que foi submetido no tribunal na terça-feira, um dia antes de a administradora de insolvência ter determinado o encerramento da atividade axadrezada.",
+      "source": "RTP",
+      "date": "Thu, 16 Jul 2026 18:11:19 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/boavista-focado-na-viabilizacao-do-plano-de-recuperacao-para-resgatar-atividade_d1753842",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f0/f0c01ddcdffdc6bf1826c50e1a97716d?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "cdec56b7",
+      "cat": "ambiente",
+      "title": "Vereador do Chega em Benavente declara 33,7 milhões de euros em criptomoedas",
+      "summary": "Frederico Colaço Antunes, ou simplesmente Fred Antunes, como também é conhecido, foi um dos primeiros a investir em bitcoin em Portugal, aposta essa que lhe deu “riqueza para dez encarnações”, como admitiu ao ECO em 2021. Desde então, a sua vida mudou: o fundador da RealFevr, que entretanto encerrou",
       "source": "ECO",
-      "date": "Thu, 16 Jul 2026 13:37:43 +0000",
-      "url": "https://eco.sapo.pt/2026/07/16/trabalhadores-do-conta-la-estao-unidos-na-procura-de-solucoes-para-o-canal/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-conta-la.jpg",
+      "date": "Thu, 16 Jul 2026 19:06:22 +0000",
+      "url": "https://eco.sapo.pt/2026/07/16/vereador-do-chega-em-benavente-declara-337-milhoes-de-euros-em-criptomoedas/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-chega-benavente.png",
       "score": 0.73
     },
     {
@@ -231,17 +286,6 @@
       "date": "Thu, 16 Jul 2026 12:44:26 GMT",
       "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9403/live/b01f09c0-8110-11f1-926f-c90d1bcfbc84.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "0fa10ea5",
-      "cat": "ambiente",
-      "title": "Nova espécie de macaco com lábios laranja encontrada ‘escondida’ na floresta da República Democrática do Congo",
-      "summary": "Os cientistas descrevem a “sensação incrível” de olhar para o rosto de um animal que tão poucas pessoas sabiam que existia.",
-      "source": "BBC News",
-      "date": "Wed, 15 Jul 2026 23:02:49 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511a/live/b7e38c10-8117-11f1-b976-0b9c15b0ccfc.jpg",
       "score": 0.73
     },
     {
@@ -267,47 +311,14 @@
       "score": 0.73
     },
     {
-      "id": "03f373c5",
-      "cat": "cultura",
-      "title": "Alvaláxia: intervenção nos cinemas sem pedido de desafetação",
-      "summary": "Duas salas poderão ter \"transmissão de partidas\" e \"oferta cultural mais vasta\" associada ao museu, esclarece o clube. Alteração de uso de recintos de cinema depende de autorização da tutela.",
+      "id": "f3846eea",
+      "cat": "tecnologia",
+      "title": "Marés estreia em Matosinhos com dia esgotado",
+      "summary": "Presidente executivo da promotora do evento afirma que dia de sábado também já está \"praticamente esgotado. Jorge Lopes garante a mesma essência, apesar da mudança de local e de nome.",
       "source": "Observador",
-      "date": "Thu, 16 Jul 2026 14:25:06 +0100",
-      "url": "https://observador.pt/especiais/seis-meses-apos-fecho-do-cinema-sporting-faz-intervencoes-nas-salas-do-alvalaxia-sem-pedido-de-desafetacao-ao-ministerio-da-cultura/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3595:2029:nowe:212:705/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/16103511/gettyimages-2216736454-scaled.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "f5c78e48",
-      "cat": "tecnologia",
-      "title": "\"Sell-off\" nas tecnológicas deixa Wall Street dividida. United Airlines perde 3%",
-      "summary": "Acompanhe, ao minuto, a evolução dos mercados nesta quinta-feira.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 16 Jul 2026 14:55:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/retirada-de-mais-valias-pinta-asia-de-vermelho-kospi-afunda-6",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-04-14-51-45-524831.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "e9a18be4",
-      "cat": "tecnologia",
-      "title": "Lufthansa prevê retomar voos para a Arábia Saudita e Jordânia no outono",
-      "summary": "A companhia aérea alemã Lufthansa começará a voar para Riade (Arábia Saudita), em 10 de setembro, a partir de Frankfurt (Alemanha), com três frequências semanais.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 16 Jul 2026 14:53:10 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/lufthansa-preve-retomar-voos-para-a-arabia-saudita-e-jordania-no-outono",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-16-14-52-14-526704.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "6e628aa4",
-      "cat": "tecnologia",
-      "title": "PAN vai recorrer da decisão do TC que invalida reeleição de Inês de Sousa Real",
-      "summary": "O Tribunal Constitucional (TC) declarou ilegal parte do regulamento do último Congresso do PAN e, como consequência, invalidou a última eleição da direção do partido, na qual Inês de Sousa Real foi reeleita porta-voz.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 16 Jul 2026 14:16:39 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/justica/detalhe/pan-vai-recorrer-da-decisao-do-tc-que-invalida-reeleicao-de-ines-de-sousa-real",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-16-14-16-28-526696.jpg",
+      "date": "Thu, 16 Jul 2026 19:20:46 +0100",
+      "url": "https://observador.pt/2026/07/16/festival-mares-arranca-em-matosinhos-com-dia-esgotado-james-e-da-weasel-em-palco-na-estreia-na-praia-do-aterro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/07/21024858/24549270.jpg",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
