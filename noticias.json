@@ -1,5 +1,5 @@
 {
-  "last_update": "16/07/2026 03:22 UTC",
+  "last_update": "16/07/2026 08:26 UTC",
   "total": 30,
   "news": [
     {
@@ -58,14 +58,14 @@
       "score": 0.79
     },
     {
-      "id": "9cac766d",
-      "cat": "economia",
-      "title": "Concertação social. Patrões alertam que há medidas por cumprir no acordo sobre salários. UGT quer reforço",
-      "summary": "As confederações empresariais alertaram esta quarta-feira que há medidas que constam no acordo de valorização salarial e crescimento económico que não estão a ser cumpridas, enquanto a UGT insta a um reforço, nomeadamente ao nível do salário mínimo nacional. &#8220;As empresas cumpriram, os salários",
+      "id": "49c6161f",
+      "cat": "tecnologia",
+      "title": "“Não queremos que a AI² tenha os mesmos problemas que a FCT”",
+      "summary": "A fusão da Fundação para a Ciência e a Tecnologia (FCT) com a Agência Nacional de Inovação (ANI) deu origem à Agência para a Investigação e Inovação (AI²), um organismo que o Governo quer transformar no principal instrumento para aproximar a ciência da economia e reforçar a capacidade de Portugal co",
       "source": "ECO",
-      "date": "Wed, 15 Jul 2026 18:58:22 +0000",
-      "url": "https://eco.sapo.pt/2026/07/15/concertacao-social-patroes-alertam-que-ha-medidas-por-cumprir-no-acordo-sobre-salarios-ugt-quer-reforco/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47467108-scaled-1.jpg",
+      "date": "Thu, 16 Jul 2026 07:03:01 +0000",
+      "url": "https://eco.sapo.pt/entrevista/nao-queremos-que-a-ai%c2%b2-tenha-os-mesmos-problemas-que-a-fct/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-secs-estado16.jpg",
       "score": 0.76
     },
     {
@@ -91,6 +91,17 @@
       "score": 0.76
     },
     {
+      "id": "49381d1a",
+      "cat": "tecnologia",
+      "title": "Avanço quântico liga luz e magnetismo em materiais atomicamente finos",
+      "summary": "Uma nova revisão destaca progressos emocionantes em materiais quânticos atomicamente finos, onde a luz e o magnetismo trabalham juntos de maneiras nunca antes possíveis. Nestes materiais, os excitons gerados pela luz podem interagir diretamente com o comportamento magnético, criando oportunidades para controlar os estados magnéticos usando lig.",
+      "source": "ScienceDaily",
+      "date": "Thu, 16 Jul 2026 00:16:48 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "img": "https://www.sciencedaily.com/images/1920/quantum-magnetic-material-atomic-stacked-layers.webp",
+      "score": 0.76
+    },
+    {
       "id": "576dbb58",
       "cat": "ciencia",
       "title": "Esta lagartixa de estimação pode ajudar os cientistas a desvendar os segredos do câncer",
@@ -113,17 +124,6 @@
       "score": 0.76
     },
     {
-      "id": "11699ea1",
-      "cat": "ciencia",
-      "title": "Medicamentos populares para perda de peso Ozempic e Wegovy podem retardar o envelhecimento biológico",
-      "summary": "Os investigadores descobriram que a semaglutida, o ingrediente activo do Ozempic e do Wegovy, retardou os marcadores biológicos do envelhecimento em adultos com VIH, marcando a primeira evidência clínica de que o medicamento pode influenciar o envelhecimento humano. Embora as descobertas sejam encorajadoras, os cientistas dizem que são necessários estudos maiores antes de",
-      "source": "ScienceDaily",
-      "date": "Tue, 14 Jul 2026 05:47:41 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
-      "img": "https://www.sciencedaily.com/images/1920/ozempic-wegovy-rybelsus-semaglutide-medications.webp",
-      "score": 0.76
-    },
-    {
       "id": "25a1c000",
       "cat": "sociedade",
       "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
@@ -135,80 +135,14 @@
       "score": 0.76
     },
     {
-      "id": "432e33e0",
-      "cat": "tecnologia",
-      "title": "O estado da nação com o PS calado e o Governo a arder",
-      "summary": "Bater em Montenegro em temas banais, sim, empurrá-lo para o precipício quando o primeiro-ministro se aproxima dele, nem pensar. Sim, é o combate político ao contrário. Opinião de Manuel Carvalho",
-      "source": "Público",
-      "date": "Wed, 15 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/16/opiniao/opiniao/estado-nacao-ps-calado-governo-arder-2181822",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "000535b0",
-      "cat": "tecnologia",
-      "title": "A América antes do “depois”",
-      "summary": "Os EUA ainda aprendiam a andar quando já discutiam como se estivessem a desfazer-se. A Revolução não terminou quando os britânicos foram expulsos. Começou quando foi preciso governar os americanos. Opinião de Manuel Serrano",
-      "source": "Público",
-      "date": "Wed, 15 Jul 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/07/16/opiniao/opiniao/america-2181741",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "b2dd07e6",
-      "cat": "geral",
-      "title": "Carneiro jura não ter pressa, mas aperta cerco a Montenegro",
-      "summary": "Na véspera do debate do Estado da Nação, Carneiro promete não força instabilidade, mas quer convencer os portugueses de que o problema já é o primeiro-ministro.",
-      "source": "Observador",
-      "date": "Thu, 16 Jul 2026 01:52:46 +0100",
-      "url": "https://observador.pt/2026/07/16/carneiro-jura-nao-ter-pressa-mas-tenta-apertar-cerco-a-montenegro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:92/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/19115006/47315359.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a3259e88",
-      "cat": "cultura",
-      "title": "Uma direita homologada",
-      "summary": "Há anos que uma parte da direita procura legitimar-se através da validação cultural da esquerda. No fim, acaba a celebrar como referência cultural quem olha para ela como uma loucura democrática.",
-      "source": "Observador",
-      "date": "Thu, 16 Jul 2026 00:20:56 +0100",
-      "url": "https://observador.pt/opiniao/uma-direita-homologada/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A528%3A528%3Anowe%3A44%3A72%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F12%2F06182734%2Fbentes-penedo-1.jpeg",
-      "score": 0.73
-    },
-    {
-      "id": "13aa7eed",
-      "cat": "tecnologia",
-      "title": "Barragem de Girabolhos é \"essencial e estratégica\" para o país, diz ministra do Ambiente",
-      "summary": "\"É um equipamento multifacetado, com muitas valências. A primeira é garantir a segurança de abastecimento de água às populações, depois a produção e armazenamento de energia e, finalmente, o controlo de cheias no Baixo Mondego\", disse a governante na sessão de lançamento do concurso público.",
+      "id": "1f8e9213",
+      "cat": "economia",
+      "title": "Álvaro Santos Pereira recusa a tese do \"milagre económico\" do Governo Costa",
+      "summary": "Governador do Banco de Portugal considera que a economia tem crescido de forma \"modesta\" e que é preciso avançar com reformas para impulsionar o crescimento. Sobre a reforma laboral, defende um modelo em que haja maior flexibilidade e, ao mesmo tempo, mais proteção dos trabalhadores.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 15 Jul 2026 23:59:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/barragem-de-girabolhos-e-essencial-e-estrategica-para-o-pais-diz-ministra-do-ambiente",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-01-12-29-41-525919.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "d3ec0c95",
-      "cat": "tecnologia",
-      "title": "Eu não queria, mas vou dizer",
-      "summary": "O primeiro-ministro lá vai dizendo que não pretende “sacudir responsabilidades”, mas é precisamente isso que faz.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 15 Jul 2026 23:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/eu-nao-queria-mas-vou-dizer",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
-      "score": 0.73
-    },
-    {
-      "id": "e5e1d8f2",
-      "cat": "tecnologia",
-      "title": "PS não exclui comissão de inquérito aos exames se continuarem a faltar esclarecimentos",
-      "summary": "Os socialistas consideram grave que o primeiro-ministro tenha responsabilizado alguns professores por estes problemas.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 15 Jul 2026 21:43:26 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ps-nao-exclui-comissao-de-inquerito-aos-exames-se-continuarem-a-faltar-esclarecimentos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-18-14-57-12-518667.jpg",
+      "date": "Thu, 16 Jul 2026 08:56:58 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/alvaro-santos-pereira-recusa-a-tese-do-milagre-economico-do-governo-costa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-09-11-54-30-526319.jpg",
       "score": 0.73
     },
     {
@@ -234,36 +168,25 @@
       "score": 0.73
     },
     {
-      "id": "7866bd5f",
-      "cat": "tecnologia",
-      "title": "As 58 perguntas a que o Governo deveria responder",
-      "summary": "No dia 16 de julho, a Assembleia da República (AR) receberá mais um debate sobre o Estado da Nação. Como habitualmente, o Governo procurará apresentar um balanço favorável da sua atuação, enquanto os partidos da oposição destacarão os problemas que permanecem por resolver. Haverá números selecionado",
+      "id": "0c13b1b8",
+      "cat": "ciencia",
+      "title": "“Se a máquina administrativa menos burocrática só for conseguida daqui a cinco anos, é um fracasso”",
+      "summary": "Quando o Governo anunciou, no verão de 2025, a fusão da Fundação para a Ciência e a Tecnologia (FCT) com a Agência Nacional de Inovação (ANI), a decisão gerou forte contestação na comunidade científica. Reitores, investigadores e estudantes alertaram para os riscos da reforma e questionaram a perda ",
       "source": "ECO",
-      "date": "Wed, 15 Jul 2026 23:01:17 +0000",
-      "url": "https://eco.sapo.pt/especiais/as-58-perguntas-a-que-o-governo-deveria-responder/",
-      "img": "https://eco.imgix.net/uploads/2026/07/artboard-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "45d0895c",
-      "cat": "tecnologia",
-      "title": "Sérgio Figueiredo abandona Conta Lá ao fim de 12 meses",
-      "summary": "No dia 17 de junho do ano passado, o ECO/+M revelou em primeira mão o regresso de Sérgio Figueiredo ao jornalismo, com o lançamento de um novo canal de televisão que, como dizia à data, era muito mais do que isso. Sérgio Figueiredo tinha saída da direção da TVI, demitido por Mário Ferreira, e esteve",
-      "source": "ECO",
-      "date": "Wed, 15 Jul 2026 23:01:10 +0000",
-      "url": "https://eco.sapo.pt/2026/07/16/sergio-figueiredo-abandona-conta-la-ao-fim-de-12-meses/",
-      "img": "https://eco.imgix.net/uploads/2025/06/cropped-fotos-eco.jpg",
+      "date": "Thu, 16 Jul 2026 07:03:33 +0000",
+      "url": "https://eco.sapo.pt/entrevista/se-a-maquina-administrativa-menos-burocratica-so-for-conseguida-daqui-a-cinco-anos-e-um-fracasso/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-secs-estado05-2.jpg",
       "score": 0.73
     },
     {
       "id": "0fa10ea5",
       "cat": "ambiente",
-      "title": "Nova espécie de macaco com lábios laranja encontrada ‘escondida’ na floresta da RDC",
+      "title": "Nova espécie de macaco com lábios laranja encontrada ‘escondida’ na floresta da República Democrática do Congo",
       "summary": "Os cientistas descrevem a “sensação incrível” de olhar para o rosto de um animal que tão poucas pessoas sabiam que existia.",
       "source": "BBC News",
       "date": "Wed, 15 Jul 2026 23:02:49 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/d37622b0-805b-11f1-bee8-53ce494e1abc.jpg",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/6b309920-80e1-11f1-bee8-53ce494e1abc.jpg",
       "score": 0.73
     },
     {
@@ -300,25 +223,91 @@
       "score": 0.73
     },
     {
-      "id": "93cb723e",
+      "id": "fc93b8e1",
       "cat": "tecnologia",
-      "title": "Taxas e taxinhas: prestação de contas",
-      "summary": "Simplificar não é apenas eliminar burocracia. É tornar o Estado mais transparente, mais responsável e, por isso mesmo, mais apto a cumprir. Opinião de Carla Castro",
+      "title": "Vai viajar com crianças? Conselhos para as férias não se tornarem um pesadelo",
+      "summary": "As viagens contribuem para o desenvolvimento emocional, cognitivo e social dos mais pequenos e estimulam a coesão familiar. A antecipação de problemas e adaptação à idade das crianças é fundamental.",
       "source": "Público",
-      "date": "Wed, 15 Jul 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/07/16/opiniao/opiniao/taxas-taxinhas-prestacao-contas-2181790",
+      "date": "Thu, 16 Jul 2026 08:05:00 GMT",
+      "url": "https://www.publico.pt/2026/07/16/impar/noticia/vai-viajar-criancas-conselhos-ferias-nao-tornarem-pesadelo-2181732",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "a8e2e102",
+      "id": "9ed66be7",
+      "cat": "geral",
+      "title": "“As Malvinas são argentinas”: jogadores exibem tarja após triunfo sobre Inglaterra e arriscam castigo",
+      "summary": "Argentina arrisca castigo da FIFA por ter quebrado regulamento que impede exibição de mensagens políticas. Adepto levou pano para as bancadas, mostrando-o durante o jogo.",
+      "source": "Público",
+      "date": "Thu, 16 Jul 2026 07:25:00 GMT",
+      "url": "https://www.publico.pt/2026/07/16/desporto/noticia/malvinas-sao-argentinas-jogadores-exibem-tarja-apos-triunfo-inglaterra-arriscam-castigo-2181868",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "23b16b5c",
+      "cat": "desporto",
+      "title": "Do Desporto da Nação para uma Nação do Desporto",
+      "summary": "",
+      "source": "Público",
+      "date": "Thu, 16 Jul 2026 07:09:00 GMT",
+      "url": "https://www.publico.pt/2026/07/16/desporto/opiniao/desporto-nacao-nacao-desporto-2181797",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "d9c1eb00",
       "cat": "tecnologia",
-      "title": "3h. Rui Rio acusa o Governo de ter medo de fazer reformas",
-      "summary": "Ex-presidente do PSD afirma que classe política não faz reformas porque tem medo de ir contra interesses instalados. Ainda, o prazo de correção acabou, mas ainda há exames nacionais por classificar.",
+      "title": "GNR intensifica fiscalização durante Concentração de Motos",
+      "summary": "No âmbito da 44.ª Concentração Internacional de Motos que decorre no Vale das Almas, em Faro, a GNR vai intensificar o patrulhamento, o controlo e a fiscalização rodoviária.",
       "source": "Observador",
-      "date": "Thu, 16 Jul 2026 03:16:04 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2378/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Thu, 16 Jul 2026 08:32:29 +0100",
+      "url": "https://observador.pt/2026/07/16/gnr-intensifica-fiscalizacao-durante-concentracao-internacional-de-motos-de-faro-3/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/07/19153459/24541455.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "f60d49b0",
+      "cat": "economia",
+      "title": "O “lapso” de Neves e um governador que não crê em milagres",
+      "summary": "Luís Neves apresentou três declarações de rendimentos desde que é ministro e na primeira não declarou a empresa da mulher. Álvaro Santos Pereira recusa a tese do \"milagre económico\" do Governo Costa.",
+      "source": "Observador",
+      "date": "Thu, 16 Jul 2026 08:30:08 +0100",
+      "url": "https://observador.pt/newsletters/360/o-lapso-de-luis-neves-a-nacao-que-vai-a-exame-e-um-governador-que-nao-acredita-em-milagres/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png",
+      "score": 0.7
+    },
+    {
+      "id": "03665af3",
+      "cat": "tecnologia",
+      "title": "Recolha de painéis aumenta com tempestades no centro do país",
+      "summary": "Além de painéis solares, frigoríficos e equipamentos de informática estão entre os mais recolhidos. Electrão recolheu mais de 24 mil toneladas de artigos, mais 19% que no período homólogo.",
+      "source": "Observador",
+      "date": "Thu, 16 Jul 2026 08:29:23 +0100",
+      "url": "https://observador.pt/2026/07/16/recolha-de-paineis-solares-usados-dispara-com-tempestades-no-centro-do-pais/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/16114429/44586243.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "404d4d75",
+      "cat": "tecnologia",
+      "title": "Em estado de choque",
+      "summary": "O actual partido socialista condenou os portugueses a uma década de sacrifício, receio e redução significativa da sua qualidade de vida em termos de saúde e segurança.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 16 Jul 2026 09:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/luis-todo-bom/detalhe/em-estado-de-choque",
+      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-21-15-19-00-296324.png",
+      "score": 0.7
+    },
+    {
+      "id": "fb5e0b11",
+      "cat": "tecnologia",
+      "title": "De férias, mas pouco. Os trabalhos que vão agitar a arena política durante o verão",
+      "summary": "Reformas do PRR a fechar até ao final de agosto vão abalar férias de verão. É o caso da prestação social única e da simplificação dos benefícios fiscais. Governo, partidos e Presidente da República vão ser obrigados a fazer um esforço extra, para deixar reformas prontas e evitar corte de Bruxelas.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 16 Jul 2026 09:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/de-ferias-mas-pouco-os-trabalhos-que-vao-agitar-a-arena-politica-durante-o-verao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-14-38-30-526072.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
