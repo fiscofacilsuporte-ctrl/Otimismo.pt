@@ -1,7 +1,18 @@
 {
-  "last_update": "17/07/2026 03:25 UTC",
+  "last_update": "17/07/2026 08:21 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "d373a511",
+      "cat": "tecnologia",
+      "title": "O que deu certo esta semana: as boas notícias que importam",
+      "summary": "Heath vence para El Salvador e Camboja, progresso para o tratado oceânico global e descoberta de uma nova espécie, além de mais O post O que deu certo esta semana: as boas notícias que importam apareceu primeiro em Notícias Positivas.",
+      "source": "Positive News",
+      "date": "Fri, 17 Jul 2026 05:36:22 +0000",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-29-of-2026/",
+      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/07/iStock-1371435413.jpg",
+      "score": 0.85
+    },
     {
       "id": "bc58b3fc",
       "cat": "tecnologia",
@@ -17,34 +28,12 @@
       "id": "e6352e1c",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: a líder ecológica Estônia e mais",
-      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais The post O que correu bem esta semana: a líder ecológica Estónia, e mais apareceu primeiro em Notícias Positivas.",
+      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais",
       "source": "Positive News",
       "date": "Fri, 10 Jul 2026 05:07:49 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-487525618.jpeg",
       "score": 0.82
-    },
-    {
-      "id": "013b5bd6",
-      "cat": "tecnologia",
-      "title": "Boavista ainda procura viabilizar plano de recuperação",
-      "summary": "O clube portuense tem até 31 de julho para entregar as chaves do Bessa. Presidente rejeita falar em refundação do histórico clube, fundado em 1903.",
-      "source": "Observador",
-      "date": "Fri, 17 Jul 2026 00:31:36 +0100",
-      "url": "https://observador.pt/2026/07/17/boavista-quer-viabilizar-plano-de-recuperacao-para-travar-encerramento-ordenado-pela-administradora-de-insolvencia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/24211937/boavista-futebol-clube-bandeira-1.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "0ab90d76",
-      "cat": "economia",
-      "title": "Falsas narrativas da Economia Portuguesa nos últimos 15 anos",
-      "summary": "Portugal viveu uma espécie de equilíbrio contabilístico obtido à custa do futuro por via de excedentes construídos comprimindo o investimento e crescimento nominal sem correspondência na produtividade",
-      "source": "Observador",
-      "date": "Fri, 17 Jul 2026 00:22:21 +0100",
-      "url": "https://observador.pt/opiniao/as-falsas-narrativas-da-economia-portuguesa-nos-ultimos-15-anos/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2018%2F05%2F29094757%2Fantonio-nogueira-leite_fe481120c8b83020c9d9f567b2a97e71_467x467_acf_cropped.png",
-      "score": 0.79
     },
     {
       "id": "61620ff1",
@@ -80,17 +69,6 @@
       "score": 0.79
     },
     {
-      "id": "e735fa66",
-      "cat": "tecnologia",
-      "title": "MAI. Histórico de imagens de satélite nunca mostra tanque",
-      "summary": "Imagens pré-2024 analisadas pelo Expresso não mostram qualquer estrutura visível no local onde agora está um piscina. Propriedade está num território protegido como Reserva Agrícola e Ecológica.",
-      "source": "Observador",
-      "date": "Fri, 17 Jul 2026 00:39:48 +0100",
-      "url": "https://observador.pt/2026/07/17/historico-de-imagens-de-satelite-da-propriedade-de-luis-neves-mostram-que-nunca-houve-um-tanque-visivel-no-terreno/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/04104159/47039451.jpg",
-      "score": 0.76
-    },
-    {
       "id": "d9f94871",
       "cat": "tecnologia",
       "title": "Reino Unido pede à FIFA investigação a faixa sobre Malvinas exibida por jogadores argentinos",
@@ -102,6 +80,17 @@
       "score": 0.76
     },
     {
+      "id": "54f7cff4",
+      "cat": "tecnologia",
+      "title": "Boas novas na história, 17 de Julho",
+      "summary": "Hoje, há 70 anos, a comédia musical da MGM High Society foi lançada. Estrelado por Bing Crosby e o jovem Frank Sinatra, foi a primeira vez que a dupla colaborou. Foi um remake musical de Philadelphia Story e foi o último papel da protagonista Grace Kelly antes de ela deixar Hollywood para se tornar",
+      "source": "Good News Network",
+      "date": "Fri, 17 Jul 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060717/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/07/film-soundtrack-High-Society-LP-fairuse.jpg",
+      "score": 0.76
+    },
+    {
       "id": "7f79f8a7",
       "cat": "tecnologia",
       "title": "Engenheiros japoneses ajudam a modernizar a enorme ferrovia da Índia, lançando seu primeiro trem-bala",
@@ -110,28 +99,6 @@
       "date": "Thu, 16 Jul 2026 15:30:21 +0000",
       "url": "https://www.goodnewsnetwork.org/japanese-engineering-helping-india-modernize-massive-railway-system-starting-with-her-first-bullet-train/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Prime-ministers-of-India-and-Japan-at-the-groundbreaking-ceremony-for-the-Mumbai-Ahmedabad-high-speed-rail-project-credit-Prime-Ministers-Office-GODL-India.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "367f3115",
-      "cat": "tecnologia",
-      "title": "Você gostaria de açúcar com suas estrelas? Açúcar detectado no espaço interestelar pela primeira vez",
-      "summary": "Os cientistas detectaram um açúcar simples encontrado nas framboesas no gás e na poeira no centro da Via Láctea. É a primeira vez que uma molécula de açúcar foi identificada em meios interestelares, tendo sido anteriormente encontrada em asteróides no nosso sistema solar. Chamada eritrulose, é quatro",
-      "source": "Good News Network",
-      "date": "Thu, 16 Jul 2026 13:00:24 +0000",
-      "url": "https://www.goodnewsnetwork.org/would-you-like-sugar-with-your-stars-sugar-detected-in-interstellar-space-for-the-first-time/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/06/image-milky-way-center-released-X-ray-NASA_CXC_UMass_Q.D.-Wang.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "bb25be2a",
-      "cat": "tecnologia",
-      "title": "Como um programa agrícola na Serra Leoa ajuda amputados a reconstruir vidas",
-      "summary": "Uma iniciativa capacitadora ensina pessoas com perda de membros a cultivar de forma sustentável, permitindo que muitas iniciem negócios. A postagem Como um programa agrícola em Serra Leoa ajuda amputados a reconstruir vidas apareceu pela primeira vez em Notícias Positivas.",
-      "source": "Positive News",
-      "date": "Thu, 16 Jul 2026 11:45:01 +0000",
-      "url": "https://www.positive.news/environment/agriculture/sierra-leone-programme-helps-amputees-rebuild-lives-in-sierra-leone/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/07/20260209_171858.jpeg",
       "score": 0.76
     },
     {
@@ -179,47 +146,69 @@
       "score": 0.76
     },
     {
-      "id": "a547a0bf",
+      "id": "46ee8699",
       "cat": "tecnologia",
-      "title": "Vance acusa governantes israelitas de influenciar norte-americanos a opor-se ao acordo com o Irão",
-      "summary": "O vice-presidente dos Estados Unidos afirmou que, apesar de ter “boas relações” com alguns membros do Governo de Israel, há quem “manipule e tente alterar” a opinião pública norte-americana.",
-      "source": "Público",
-      "date": "Thu, 16 Jul 2026 23:42:43 GMT",
-      "url": "https://www.publico.pt/2026/07/17/mundo/noticia/vance-acusa-governantes-israelitas-influenciar-norteamericanos-oporse-acordo-irao-2182008",
-      "img": null,
+      "title": "No Coliseu do Porto, a criação artística não tem idade",
+      "summary": "Depois de meses de actividades, as apresentações do Alquimia acontecem este fim de semana. O presidente da sala de espectáculos e a diretora do serviço educativo explicam motivos e objetivos.",
+      "source": "Observador",
+      "date": "Fri, 17 Jul 2026 08:17:34 +0100",
+      "url": "https://observador.pt/especiais/com-o-festival-alquimia-o-coliseu-do-porto-quer-mostrar-que-a-criacao-artistica-nao-tem-idade/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1150:nowe:0:174/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/16210819/10.jpg",
       "score": 0.73
     },
     {
-      "id": "098cf85f",
-      "cat": "tecnologia",
-      "title": "SpaceX adia lançamento de teste decisivo do foguetão Starship",
-      "summary": "O Starship deveria descolar para a 13ª missão nas instalações do sul do Texas da SpaceX, a chamada Starbase, às 17:45 (hora local), mas o lançamento foi suspenso devido a um problema não especificado.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 17 Jul 2026 00:14:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/spacex-adia-lancamento-de-teste-decisivo-do-foguetao-starship",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-05-11-32-27-524871.jpg",
+      "id": "d25f21e7",
+      "cat": "saude",
+      "title": "Polémica Senegal: médico da seleção é, afinal, ginecologista",
+      "summary": "Enquanto o Senegal lida com a revelação de que o médico da seleção é ginecologista, a tensão entre Argentina e Inglaterra cresce com acusações de truques sujos e a polémica celebração de Enzo.",
+      "source": "Observador",
+      "date": "Fri, 17 Jul 2026 08:16:25 +0100",
+      "url": "https://observador.pt/programas/tres-toques/polemica-senegal-medico-da-selecao-e-afinal-ginecologista/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151953/770-podcast-tres-toques-2025-v2.jpg",
       "score": 0.73
     },
     {
-      "id": "ef8192e0",
-      "cat": "ambiente",
-      "title": "Fundo climático quadruplica capacidade de investimento sem pedir mais contribuições",
-      "summary": "O Green Climate Fund vai disponibilizar 5,65 mil milhões de dólares para novos projetos nos próximos dois anos, após rever a gestão do balanço e reduzir o capital mantido em reserva.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 16 Jul 2026 23:24:56 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/governacao/detalhe/fundo-climatico-quadruplica-capacidade-de-investimento-sem-pedir-mais-contribuicoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-08/img_100x100uu2025-08-06-16-04-56-506998.jpg",
+      "id": "9e6aff16",
+      "cat": "tecnologia",
+      "title": "O \"país caótico\" que Luís Montenegro se recusa a ver",
+      "summary": "O debate foi tenso, mas o primeiro-ministro lá se vai safando nas sondagens. Com as urgências a fechar e a oposição a morder-lhe os calcanhares, Montenegro joga à defesa para não perder o jogo.",
+      "source": "Observador",
+      "date": "Fri, 17 Jul 2026 08:10:26 +0100",
+      "url": "https://observador.pt/programas/ainda-bem-que-faz-essa-pergunta/o-pais-caotico-que-luis-montenegro-se-recusa-a-ver/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/05/14100301/770-podcast-ainda-bem-que-faz-essa-pergunta-com-bruno-vieira-amaral.jpg",
       "score": 0.73
     },
     {
-      "id": "0883aef0",
+      "id": "58e66b20",
       "cat": "tecnologia",
-      "title": "O cálice de veneno",
-      "summary": "Tal como Khomeini em 1988, que abandonou o sonho de vitória total para preservar o núcleo do regime, Trump poderá ter de “beber do cálice de veneno”.",
+      "title": "Vinte empresas portuguesas procuram oportunidades na maior feira de negócios de Angola",
+      "summary": "No ano passado, o evento gerou um volume de negócios superior a 60 milhões de dólares (52 milhões de euros).",
       "source": "Jornal de Negócios",
-      "date": "Thu, 16 Jul 2026 22:19:24 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/o-calice-de-veneno",
-      "img": "https://cdn.jornaldenegocios.pt/images/2017-11/img_394x514uu2017-11-22-15-11-00-321233.png",
+      "date": "Fri, 17 Jul 2026 08:29:53 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/vinte-empresas-portuguesas-procuram-oportunidades-na-maior-feira-de-negocios-de-angola",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-26-15-45-09-510092.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0bf9dfa4",
+      "cat": "tecnologia",
+      "title": "Bolsa de Lisboa abre em queda. Navigator lidera subidas, CTT as quedas",
+      "summary": "Sete cotadas negoceiam em terreno positivo, oito em terreno negativo. Sonae mantinha-se inalterada no arranque da sessão.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 17 Jul 2026 08:26:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-abre-em-queda-navigator-lidera-subidas-ctt-as-quedas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-02-15-05-15-508476.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "13bcf984",
+      "cat": "tecnologia",
+      "title": "Concentração de empresas bate recorde de duas décadas em Portugal",
+      "summary": "Nunca tinham sido notificadas tantas operações de concentração de empresas como em 2025, revela o relatório anual da Autoridade da Concorrência. O total chegou perto da centena.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 17 Jul 2026 08:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/concorrencia---regulacao/detalhe/concentracao-de-empresas-bate-recorde-de-duas-decadas-em-portugal",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-07/img_100x100uu2024-07-29-21-07-07-482362.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +245,36 @@
       "score": 0.73
     },
     {
-      "id": "5de6e393",
-      "cat": "ciencia",
-      "title": "Empreiteiro de Luís Neves usa atrelado apreendido pela PJ",
-      "summary": "A Polícia Judiciária abriu um inquérito para apurar como um atrelado apreendido numa investigação de tráfico de droga acabou nas instalações da Construbarcelos, empresa de João Santos Carvalho, empreiteiro e amigo do ministro da Administração Interna, Luís Neves, avança o jornal Sol. O reboque em qu",
+      "id": "09c6f46a",
+      "cat": "tecnologia",
+      "title": "Repavimentação da Avenida da Liberdade começa em agosto",
+      "summary": "A repavimentação da Avenida da Liberdade avança em agosto, avançou o Público e confirmou o ECO junto da Câmara Municipal de Lisboa, conferindo à artéria mais valiosa da cidade de Lisboa &#8220;a estima e cuidado que merece&#8221;, diz Eric van Leuven, eleito este ano presidente da Associação Avenida",
       "source": "ECO",
-      "date": "Thu, 16 Jul 2026 19:55:10 +0000",
-      "url": "https://eco.sapo.pt/2026/07/16/empreiteiro-de-luis-neves-usa-atrelado-apreendido-pela-pj/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47421772-scaled-1.jpg",
+      "date": "Fri, 17 Jul 2026 07:58:24 +0000",
+      "url": "https://eco.sapo.pt/2026/07/17/repavimentacao-da-avenida-da-liberdade-comeca-em-agosto/",
+      "img": "https://eco.imgix.net/uploads/2026/04/cropped-6p1a4820.jpg",
       "score": 0.73
     },
     {
-      "id": "cdec56b7",
-      "cat": "ambiente",
-      "title": "Vereador do Chega em Benavente declara 33,7 milhões de euros em criptomoedas",
-      "summary": "Frederico Colaço Antunes, ou simplesmente Fred Antunes, como também é conhecido, foi um dos primeiros a investir em bitcoin em Portugal, aposta essa que lhe deu “riqueza para dez encarnações”, como admitiu ao ECO em 2021. Desde então, a sua vida mudou: o ex-presidente da RealFevr, que entretanto enc",
+      "id": "66db4ca5",
+      "cat": "tecnologia",
+      "title": "‘Acampamento de milionários’ atraiu 151 voos de jato privado num dia",
+      "summary": "A conferência anual da Allen &#38; Co em Sun Valley atraiu 151 jatos executivos num só dia, terça-feira, 7 de julho, primeiro dia do evento, segundo dados divulgados pela Wingx. O secretismo em torno do evento, conhecido como &#8216;acampamento de milionários&#8217; é regra, mas o tráfego aeroportuá",
       "source": "ECO",
-      "date": "Thu, 16 Jul 2026 19:06:22 +0000",
-      "url": "https://eco.sapo.pt/2026/07/16/vereador-do-chega-em-benavente-declara-337-milhoes-de-euros-em-criptomoedas/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-chega-benavente.png",
+      "date": "Fri, 17 Jul 2026 07:06:16 +0000",
+      "url": "https://eco.sapo.pt/2026/07/17/acampamento-de-milionarios-atraiu-151-voos-de-jato-privado-num-dia/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-svr-svlodge-lodging-aerial-summer-2015-syms-kevin-2-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "f840e8d3",
+      "cat": "economia",
+      "title": "“Não vamos investir em segurança e defesa, que não seja do interesse da Europa”",
+      "summary": "Antigo diplomata, Robert de Groot é desde 2024 vice-presidente do Grupo Banco Europeu de Investimento e tem em mãos um desafio: colocar os recursos da instituição ao serviço do mercado para ajudar a Europa a ganhar soberania de defesa. Este ano, o objetivo é investir 4,5 mil milhões de euros. Ou até",
+      "source": "ECO",
+      "date": "Fri, 17 Jul 2026 06:17:37 +0000",
+      "url": "https://eco.sapo.pt/entrevista/nao-vamos-investir-em-seguranca-e-defesa-que-nao-seja-do-interesse-da-europa/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-robert-de-groot08.jpg",
       "score": 0.73
     },
     {
@@ -311,24 +311,24 @@
       "score": 0.73
     },
     {
-      "id": "78d97a93",
-      "cat": "tecnologia",
-      "title": "EUA anunciam restrição de vistos a membros de grupos terroristas de extrema-esquerda",
-      "summary": "Marco Rubio, chefe da diplomacia norte-americana, condena “ressentimento venenoso, disfarçado com a linguagem da igualdade” de movimentos de extrema-esquerda.",
+      "id": "47343eb8",
+      "cat": "geral",
+      "title": "Portuenses The Acoustic Foundation têm um novo álbum, whaTAFunk , e lançam-no Agora",
+      "summary": "",
       "source": "Público",
-      "date": "Thu, 16 Jul 2026 23:34:06 GMT",
-      "url": "https://www.publico.pt/2026/07/17/mundo/noticia/eua-anunciam-restricao-vistos-membros-grupos-terroristas-extremaesquerda-2182011",
+      "date": "Fri, 17 Jul 2026 07:00:00 GMT",
+      "url": "https://www.publico.pt/2026/07/17/video/portuenses-the-acoustic-foundation-novo-album-whatafunk-lancamno-20260716-110803",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "c05437c4",
+      "id": "c44d91e2",
       "cat": "tecnologia",
-      "title": "Como a paridade de género lixa o planeta",
-      "summary": "A paridade de género é um objetivo tão perverso que até está a lixar o planeta. Ardamos, pois, nas ondas de calor para expiarmos o pecado de querer igualdade. Opinião de Susana Peralta",
+      "title": "Despertador: Ministro da Educação acredita que notas dos exames saem hoje. A IA na música",
+      "summary": "",
       "source": "Público",
-      "date": "Thu, 16 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/17/opiniao/opiniao/paridade-genero-lixa-planeta-2181979",
+      "date": "Fri, 17 Jul 2026 06:31:36 GMT",
+      "url": "https://www.publico.pt/2026/07/17/newsletter/despertador",
       "img": null,
       "score": 0.7
     }
