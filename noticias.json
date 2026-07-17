@@ -1,5 +1,5 @@
 {
-  "last_update": "16/07/2026 19:23 UTC",
+  "last_update": "17/07/2026 03:25 UTC",
   "total": 30,
   "news": [
     {
@@ -17,12 +17,34 @@
       "id": "e6352e1c",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: a líder ecológica Estônia e mais",
-      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais",
+      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais The post O que correu bem esta semana: a líder ecológica Estónia, e mais apareceu primeiro em Notícias Positivas.",
       "source": "Positive News",
       "date": "Fri, 10 Jul 2026 05:07:49 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-487525618.jpeg",
       "score": 0.82
+    },
+    {
+      "id": "013b5bd6",
+      "cat": "tecnologia",
+      "title": "Boavista ainda procura viabilizar plano de recuperação",
+      "summary": "O clube portuense tem até 31 de julho para entregar as chaves do Bessa. Presidente rejeita falar em refundação do histórico clube, fundado em 1903.",
+      "source": "Observador",
+      "date": "Fri, 17 Jul 2026 00:31:36 +0100",
+      "url": "https://observador.pt/2026/07/17/boavista-quer-viabilizar-plano-de-recuperacao-para-travar-encerramento-ordenado-pela-administradora-de-insolvencia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/24211937/boavista-futebol-clube-bandeira-1.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "0ab90d76",
+      "cat": "economia",
+      "title": "Falsas narrativas da Economia Portuguesa nos últimos 15 anos",
+      "summary": "Portugal viveu uma espécie de equilíbrio contabilístico obtido à custa do futuro por via de excedentes construídos comprimindo o investimento e crescimento nominal sem correspondência na produtividade",
+      "source": "Observador",
+      "date": "Fri, 17 Jul 2026 00:22:21 +0100",
+      "url": "https://observador.pt/opiniao/as-falsas-narrativas-da-economia-portuguesa-nos-ultimos-15-anos/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2018%2F05%2F29094757%2Fantonio-nogueira-leite_fe481120c8b83020c9d9f567b2a97e71_467x467_acf_cropped.png",
+      "score": 0.79
     },
     {
       "id": "61620ff1",
@@ -58,14 +80,14 @@
       "score": 0.79
     },
     {
-      "id": "2d40ad36",
+      "id": "e735fa66",
       "cat": "tecnologia",
-      "title": "Vacina contra cancro do pâncreas com resultados positivos",
-      "summary": "Ensaio com 20 pessoas de alto risco mostrou que a mKRAS-VAX ativou células imunitárias em 18 participantes. Nenhum desenvolveu cancro após seguimento mediano de 16,5 meses.",
+      "title": "MAI. Histórico de imagens de satélite nunca mostra tanque",
+      "summary": "Imagens pré-2024 analisadas pelo Expresso não mostram qualquer estrutura visível no local onde agora está um piscina. Propriedade está num território protegido como Reserva Agrícola e Ecológica.",
       "source": "Observador",
-      "date": "Thu, 16 Jul 2026 19:16:07 +0100",
-      "url": "https://observador.pt/2026/07/16/vacina-experimental-para-prevenir-cancro-do-pancreas-com-resultados-positivos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:171/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/07/25230008/GettyImages-1242065850-scaled.jpg",
+      "date": "Fri, 17 Jul 2026 00:39:48 +0100",
+      "url": "https://observador.pt/2026/07/17/historico-de-imagens-de-satelite-da-propriedade-de-luis-neves-mostram-que-nunca-houve-um-tanque-visivel-no-terreno/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/04104159/47039451.jpg",
       "score": 0.76
     },
     {
@@ -77,17 +99,6 @@
       "date": "Thu, 16 Jul 2026 17:47:27 +0100",
       "url": "https://www.rtp.pt/noticias/futebol-internacional/reino-unido-pede-a-fifa-investigacao-a-faixa-sobre-malvinas-exibida-por-jogadores-argentinos_d1753828",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d7ab027e9881e199eebdc1ffbc2c0ee0?w=350&amp;q=50&amp;rect=0,92,1234,677&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "b0cd05e1",
-      "cat": "tecnologia",
-      "title": "Mundial de 2026. Vitória da Argentina contra Inglaterra vista, em média, por quase 2,4 milhões de telespectadores",
-      "summary": "O jogo entre Inglaterra e Argentina ditou a qualificação dos La Albiceleste para a final contra a Espanha. O encontro, transmitido pelas 20h00 na TVI, Sport TV 1 e Sport TV 5 registou uma audiência média de 2.394.041 telespectadores – de acordo com a análise elaborada pela Dentsu para o +M. Na LiveM",
-      "source": "ECO",
-      "date": "Thu, 16 Jul 2026 16:42:07 +0000",
-      "url": "https://eco.sapo.pt/2026/07/16/mundial-de-2026-vitoria-da-argentina-contra-inglaterra-vista-em-media-por-quase-24-milhoes-de-telespectadores/",
-      "img": "https://eco.imgix.net/uploads/2026/06/audiencias-mundial-2000x1125-1.jpg",
       "score": 0.76
     },
     {
@@ -168,80 +179,47 @@
       "score": 0.76
     },
     {
-      "id": "19ff43ac",
+      "id": "a547a0bf",
       "cat": "tecnologia",
-      "title": "Troféu do Mundial chega em grande estilo numa mala Louis Vuitton feita à medida",
-      "summary": "A mala, estilo baú, apresenta um “V” dourado, que simboliza “Vitória”. Só falta saber se vai viajar para Espanha ou para a Argentina.",
+      "title": "Vance acusa governantes israelitas de influenciar norte-americanos a opor-se ao acordo com o Irão",
+      "summary": "O vice-presidente dos Estados Unidos afirmou que, apesar de ter “boas relações” com alguns membros do Governo de Israel, há quem “manipule e tente alterar” a opinião pública norte-americana.",
       "source": "Público",
-      "date": "Thu, 16 Jul 2026 18:01:00 GMT",
-      "url": "https://www.publico.pt/2026/07/16/impar/noticia/trofeu-mundial-chega-estilo-mala-louis-vuitton-medida-2181977",
+      "date": "Thu, 16 Jul 2026 23:42:43 GMT",
+      "url": "https://www.publico.pt/2026/07/17/mundo/noticia/vance-acusa-governantes-israelitas-influenciar-norteamericanos-oporse-acordo-irao-2182008",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "6b5f8ab6",
-      "cat": "cultura",
-      "title": "Danny Boyle leva Rupert Murdoch a Veneza e Ellen Burstyn a Marilyn que nunca vimos",
-      "summary": "Ink , do cineasta britânico, abre o festival a 2 de Setembro. Já a actriz americana, 93 anos, Leão de Ouro à carreira, aparecerá como Marilyn Monroe numa curta de Maggie Gyllenhaal.",
-      "source": "Público",
-      "date": "Thu, 16 Jul 2026 17:37:47 GMT",
-      "url": "https://www.publico.pt/2026/07/16/culturaipsilon/noticia/danny-boyle-leva-rupert-murdoch-veneza-ellen-burstyn-marilyn-vimos-2181949",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "23a72743",
+      "id": "098cf85f",
       "cat": "tecnologia",
-      "title": "Alunos terão acesso a exames digitalizados a seu pedido ou “por iniciativa da escola”",
-      "summary": "Exames serão disponibilizados aos alunos através das escolas, que os enviarão por email . Processo é “positivo”, mas “é um trabalho inesperado para as escolas”. E não automático, como foi anunciado.",
-      "source": "Público",
-      "date": "Thu, 16 Jul 2026 17:34:16 GMT",
-      "url": "https://www.publico.pt/2026/07/16/sociedade/noticia/ministro-prometeu-acesso-automatico-alunos-vao-requerer-consulta-exames-2181933",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "535b7224",
-      "cat": "tecnologia",
-      "title": "Coimbra pede \"respostas\" para obras do PRR ainda por acabar",
-      "summary": "Ana Abrunhosa diz que Governo \"está a violar claramente os acordos\" ao não fornecer soluções para obras do PRR que não foram concluídas no prazo. Obras estão em risco de parar e perder empreiteiros.",
-      "source": "Observador",
-      "date": "Thu, 16 Jul 2026 19:04:04 +0100",
-      "url": "https://observador.pt/2026/07/16/regiao-de-coimbra-quer-solucoes-claras-para-obras-nao-concluidas-no-fim-do-prr/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/13080144/47076839.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "fefeb99f",
-      "cat": "tecnologia",
-      "title": "PS pede demissão de Fernando Alexandre. \"Esse lugar já não devia ser ocupado por si\"",
-      "summary": "Acompanhe ao minuto as intervenções do primeiro-ministro, Luís Montenegro, e dos partidos da oposição.",
+      "title": "SpaceX adia lançamento de teste decisivo do foguetão Starship",
+      "summary": "O Starship deveria descolar para a 13ª missão nas instalações do sul do Texas da SpaceX, a chamada Starbase, às 17:45 (hora local), mas o lançamento foi suspenso devido a um problema não especificado.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 16 Jul 2026 20:09:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/contas-publicas-e-polemica-dos-exames-acompanhe-ao-minuto-o-debate-do-estado-da-nacao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-16-15-56-13-526727.jpg",
+      "date": "Fri, 17 Jul 2026 00:14:35 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/spacex-adia-lancamento-de-teste-decisivo-do-foguetao-starship",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-05-11-32-27-524871.jpg",
       "score": 0.73
     },
     {
-      "id": "a6c99ff2",
-      "cat": "tecnologia",
-      "title": "OMI reprova acordos comerciais propostos por Trump em troca de passagem por Ormuz",
-      "summary": "O secretário-geral da Organização Marítima Internacional (OMI) refuta assim a mais recente sugestão do Presidente dos Estados Unidos, Donald Trump, sobre eventuais acordos comerciais relacionados com a passagem de mercadorias nesta rota marítima estratégica.",
+      "id": "ef8192e0",
+      "cat": "ambiente",
+      "title": "Fundo climático quadruplica capacidade de investimento sem pedir mais contribuições",
+      "summary": "O Green Climate Fund vai disponibilizar 5,65 mil milhões de dólares para novos projetos nos próximos dois anos, após rever a gestão do balanço e reduzir o capital mantido em reserva.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 16 Jul 2026 19:21:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/omi-reprova-acordos-comerciais-propostos-por-trump-em-troca-de-passagem-por-ormuz",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-13-08-04-51-526470.jpg",
+      "date": "Thu, 16 Jul 2026 23:24:56 +0100",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/governacao/detalhe/fundo-climatico-quadruplica-capacidade-de-investimento-sem-pedir-mais-contribuicoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-08/img_100x100uu2025-08-06-16-04-56-506998.jpg",
       "score": 0.73
     },
     {
-      "id": "25928572",
+      "id": "0883aef0",
       "cat": "tecnologia",
-      "title": "Greve geral ditou recuo de 0,2% nos aeroportos nacionais em junho",
-      "summary": "No conjunto dos primeiros seis meses deste ano passaram pelos aeroportos portugueses quase 35 milhões de passageiros. Lisboa cresceu, em termos homólogos, 1,3%, enquanto os Açores registaram uma queda de 9,3%",
+      "title": "O cálice de veneno",
+      "summary": "Tal como Khomeini em 1988, que abandonou o sonho de vitória total para preservar o núcleo do regime, Trump poderá ter de “beber do cálice de veneno”.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 16 Jul 2026 18:22:44 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/greve-geral-ditou-recuo-de-0-2-nos-aeroportos-nacionais-em-junho",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-07/img_100x100uu2025-07-26-14-27-22-506503.jpg",
+      "date": "Thu, 16 Jul 2026 22:19:24 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/o-calice-de-veneno",
+      "img": "https://cdn.jornaldenegocios.pt/images/2017-11/img_394x514uu2017-11-22-15-11-00-321233.png",
       "score": 0.73
     },
     {
@@ -256,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "a97b15c6",
+      "cat": "tecnologia",
+      "title": "Camisola de Pelé na final do Mundial1958 vendida por 4,9 milhões de dólares",
+      "summary": "A camisola usada pelo histórico avançado brasileiro Pelé na final do Mundial1958 de futebol foi hoje vendida em leilão por 4,9 milhões de dólares (4,3 milhões de euros, ao câmbio atual), em Nova Iorque, anunciou a leiloeira Sotheby&#039;s.",
+      "source": "RTP",
+      "date": "Thu, 16 Jul 2026 23:04:12 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/camisola-de-pele-na-final-do-mundial1958-vendida-por-49-milhoes-de-dolares_d1753927",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/64/64cde027ffe21471e3e6f4b0f0bd78a9?w=350&amp;q=50&amp;rect=0,62,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "d7ecee6d",
       "cat": "tecnologia",
       "title": "Boavista focado na viabilização do plano de recuperação para resgatar atividade",
@@ -267,10 +256,21 @@
       "score": 0.73
     },
     {
+      "id": "5de6e393",
+      "cat": "ciencia",
+      "title": "Empreiteiro de Luís Neves usa atrelado apreendido pela PJ",
+      "summary": "A Polícia Judiciária abriu um inquérito para apurar como um atrelado apreendido numa investigação de tráfico de droga acabou nas instalações da Construbarcelos, empresa de João Santos Carvalho, empreiteiro e amigo do ministro da Administração Interna, Luís Neves, avança o jornal Sol. O reboque em qu",
+      "source": "ECO",
+      "date": "Thu, 16 Jul 2026 19:55:10 +0000",
+      "url": "https://eco.sapo.pt/2026/07/16/empreiteiro-de-luis-neves-usa-atrelado-apreendido-pela-pj/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47421772-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
       "id": "cdec56b7",
       "cat": "ambiente",
       "title": "Vereador do Chega em Benavente declara 33,7 milhões de euros em criptomoedas",
-      "summary": "Frederico Colaço Antunes, ou simplesmente Fred Antunes, como também é conhecido, foi um dos primeiros a investir em bitcoin em Portugal, aposta essa que lhe deu “riqueza para dez encarnações”, como admitiu ao ECO em 2021. Desde então, a sua vida mudou: o fundador da RealFevr, que entretanto encerrou",
+      "summary": "Frederico Colaço Antunes, ou simplesmente Fred Antunes, como também é conhecido, foi um dos primeiros a investir em bitcoin em Portugal, aposta essa que lhe deu “riqueza para dez encarnações”, como admitiu ao ECO em 2021. Desde então, a sua vida mudou: o ex-presidente da RealFevr, que entretanto enc",
       "source": "ECO",
       "date": "Thu, 16 Jul 2026 19:06:22 +0000",
       "url": "https://eco.sapo.pt/2026/07/16/vereador-do-chega-em-benavente-declara-337-milhoes-de-euros-em-criptomoedas/",
@@ -311,25 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "f3846eea",
+      "id": "78d97a93",
       "cat": "tecnologia",
-      "title": "Marés estreia em Matosinhos com dia esgotado",
-      "summary": "Presidente executivo da promotora do evento afirma que dia de sábado também já está \"praticamente esgotado. Jorge Lopes garante a mesma essência, apesar da mudança de local e de nome.",
-      "source": "Observador",
-      "date": "Thu, 16 Jul 2026 19:20:46 +0100",
-      "url": "https://observador.pt/2026/07/16/festival-mares-arranca-em-matosinhos-com-dia-esgotado-james-e-da-weasel-em-palco-na-estreia-na-praia-do-aterro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/07/21024858/24549270.jpg",
+      "title": "EUA anunciam restrição de vistos a membros de grupos terroristas de extrema-esquerda",
+      "summary": "Marco Rubio, chefe da diplomacia norte-americana, condena “ressentimento venenoso, disfarçado com a linguagem da igualdade” de movimentos de extrema-esquerda.",
+      "source": "Público",
+      "date": "Thu, 16 Jul 2026 23:34:06 GMT",
+      "url": "https://www.publico.pt/2026/07/17/mundo/noticia/eua-anunciam-restricao-vistos-membros-grupos-terroristas-extremaesquerda-2182011",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "c8ced442",
+      "id": "c05437c4",
       "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "title": "Como a paridade de género lixa o planeta",
+      "summary": "A paridade de género é um objetivo tão perverso que até está a lixar o planeta. Ardamos, pois, nas ondas de calor para expiarmos o pecado de querer igualdade. Opinião de Susana Peralta",
+      "source": "Público",
+      "date": "Thu, 16 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/17/opiniao/opiniao/paridade-genero-lixa-planeta-2181979",
+      "img": null,
       "score": 0.7
     }
   ]
