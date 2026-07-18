@@ -1,5 +1,5 @@
 {
-  "last_update": "18/07/2026 08:03 UTC",
+  "last_update": "18/07/2026 13:38 UTC",
   "total": 30,
   "news": [
     {
@@ -43,7 +43,7 @@
       "source": "BBC News",
       "date": "Sat, 18 Jul 2026 07:05:19 GMT",
       "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d67c/live/812402b0-81c4-11f1-926f-c90d1bcfbc84.jpg",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56eb/live/beb0cb10-82a8-11f1-84ea-29e7008b1ad8.png",
       "score": 0.82
     },
     {
@@ -69,14 +69,14 @@
       "score": 0.79
     },
     {
-      "id": "46bb4573",
+      "id": "65602695",
       "cat": "tecnologia",
-      "title": "Presidente moçambicano reitera abertura para dialogar com Galp sobre diferendo fiscal",
-      "summary": "A posição foi assumida por Daniel Chapo, em Lisboa, quando questionado sobre o recurso da Galp para o Centro Internacional para a Resolução de Diferendos relativos a Investimentos (ICSID) sobre a Área 4 do Rovuma.",
+      "title": "Plataforma de visitas virtuais a museus e monumentos já está disponível",
+      "summary": "O portal permite fazer pesquisas por tema, localização ou período histórico, apresenta 232 tesouros nacionais e disponibiliza 67 visitas virtuais a 90 espaços patrimoniais em 45 concelhos de 17 distritos do país.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 17 Jul 2026 20:30:16 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/presidente-mocambicano-reitera-abertura-para-dialogar-com-galp-sobre-diferendo-fiscal",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-29-08-00-39-517523.jpg",
+      "date": "Sat, 18 Jul 2026 12:36:48 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/plataforma-de-visitas-virtuais-a-museus-e-monumentos-ja-esta-disponivel",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-11/img_100x100uu2025-11-04-13-27-03-512450.jpg",
       "score": 0.76
     },
     {
@@ -88,28 +88,6 @@
       "date": "Fri, 17 Jul 2026 21:38:11 +0100",
       "url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-didier-deschamps-vai-sentir-saudades-de-orientar-franca_d1754216",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/12/1269c87232f36bf77b46cd3823900efb?w=350&amp;q=50&amp;rect=0,48,1323,725&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "d540a7b3",
-      "cat": "tecnologia",
-      "title": "Esta é a chave do Euromilhões. Jackpot é de 50 milhões de euros",
-      "summary": "Com um primeiro prémio no valor de 50 milhões de euros, decorreu sexta-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta sexta-feira, 17 de julho: Números: 12, 21, 23, 34 ",
-      "source": "ECO",
-      "date": "Fri, 17 Jul 2026 19:40:16 +0000",
-      "url": "https://eco.sapo.pt/2026/07/17/esta-e-a-chave-do-euromilhoes-jackpot-e-de-50-milhoes-de-euros-5/",
-      "img": "https://eco.imgix.net/uploads/2016/09/cropped-mg_2903.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "d2bc0592",
-      "cat": "tecnologia",
-      "title": "Barcelos investe 3,2 milhões em centros tecnológicos direcionados ao mercado de trabalho",
-      "summary": "Num investimento superior a 3,2 milhões de euros, os alunos da Escola de Tecnologia e Gestão (ETG) de Barcelos passam agora a dispor de dois novos Centros Tecnológicos Especializados (CTE) nas áreas industrial e informática, preparando-os para os desafios da transformação digital e da evolução tecno",
-      "source": "ECO",
-      "date": "Fri, 17 Jul 2026 17:21:48 +0000",
-      "url": "https://eco.sapo.pt/2026/07/17/barcelos-investe-32-milhoes-em-centros-tecnologicos-direcionados-ao-mercado-de-trabalho/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-emec-scaled-1.jpg",
       "score": 0.76
     },
     {
@@ -157,6 +135,17 @@
       "score": 0.76
     },
     {
+      "id": "49381d1a",
+      "cat": "tecnologia",
+      "title": "Avanço quântico liga luz e magnetismo em materiais atomicamente finos",
+      "summary": "Uma nova revisão destaca progressos emocionantes em materiais quânticos atomicamente finos, onde a luz e o magnetismo trabalham juntos de maneiras nunca antes possíveis. Nestes materiais, os excitons gerados pela luz podem interagir diretamente com o comportamento magnético, criando oportunidades para controlar os estados magnéticos usando lig.",
+      "source": "ScienceDaily",
+      "date": "Thu, 16 Jul 2026 00:16:48 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "img": "https://www.sciencedaily.com/images/1920/quantum-magnetic-material-atomic-stacked-layers.webp",
+      "score": 0.76
+    },
+    {
       "id": "25a1c000",
       "cat": "sociedade",
       "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
@@ -168,47 +157,69 @@
       "score": 0.76
     },
     {
-      "id": "03602d79",
-      "cat": "cultura",
-      "title": "Como Pero Vaz de Caminha ensinou o primeiro drible à AIMA",
-      "summary": "A mesma herança cultural que transformou o futebol brasileiro em arte ajuda a explicar o atual e confuso labirinto migratório entre Brasil e Portugal. Opinião de Sérgio Ignácio",
+      "id": "a16c0aa8",
+      "cat": "tecnologia",
+      "title": "Novo primeiro-ministro britânico deverá dar luz verde a explorações de petróleo e gás no mar do Norte",
+      "summary": "Andy Burnham, o novo líder trabalhista, que será convidado pelo rei Carlos III a formar governo na segunda-feira, assumiu o compromisso de não conceder mais licenças, mas quer honrar as existentes.",
       "source": "Público",
-      "date": "Sat, 18 Jul 2026 06:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/18/publico-brasil/opiniao/pero-vaz-caminha-ensinou-drible-aima-2182100",
+      "date": "Sat, 18 Jul 2026 13:22:31 GMT",
+      "url": "https://www.publico.pt/2026/07/18/mundo/noticia/novo-primeiroministro-britanico-devera-dar-luz-verde-exploracoes-petroleo-gas-mar-norte-2182209",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "b163d491",
+      "id": "5915a392",
       "cat": "tecnologia",
-      "title": "AMALIA à prova: A IA portuguesa alucina assim tanto?",
-      "summary": "\"Alucinações\" bizarras do AMALIA marcaram arranque do modelo de IA português. Testes mostram que ainda é preciso treino numa Inteligência Artificial a dar os primeiros passos no fabuloso mundo da IA.",
+      "title": "Surfista Teresa Bonvalot vence final portuguesa",
+      "summary": "Teresa Bonvalot conquistou a sua segunda vitória no circuito Challenge Series de surf, ao vencer o Ballito Pro, na África do Sul, onde se impôs na final à também portuguesa Francisca Veselko.",
       "source": "Observador",
-      "date": "Sat, 18 Jul 2026 07:09:16 +0100",
-      "url": "https://observador.pt/programas/m-quinas-que-pensam/amalia-a-prova-a-ia-portuguesa-alucina-assim-tanto/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg",
+      "date": "Sat, 18 Jul 2026 13:32:00 +0100",
+      "url": "https://observador.pt/2026/07/18/surfista-teresa-bonvalot-vence-final-portuguesa-do-ballito-pro-na-africa-do-sul/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/07/25101806/33984984.jpg",
       "score": 0.73
     },
     {
-      "id": "e1863770",
-      "cat": "saude",
-      "title": "\"O sucesso de uma unidade de dor hospitalar é o doente re...",
-      "summary": "Todos os doentes com dor crónica são encaminhados do centro de saúde para o hospital? O médico de família Bruno Pedrosa e a anestesiologista Ana Pedro explicam como e quando se faz esta ligação.",
+      "id": "34a2816d",
+      "cat": "tecnologia",
+      "title": "Museu Gulbenkian reabre com entrada gratuita",
+      "summary": "A reabertura do Museu Gulbenkian, com entrada gratuita até dia 26, e a realização de um concerto do Coro e da Orquestra assinalam a celebração dos 70 anos da Fundação Calouste Gulbenkian.",
       "source": "Observador",
-      "date": "Sat, 18 Jul 2026 07:04:15 +0100",
-      "url": "https://observador.pt/programas/conversas-sobre-dor/o-sucesso-de-uma-unidade-de-dor-hospitalar-e-o-doente-regressar-ao-medico-de-familia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/16210620/770-podcastconsulta-informal.jpg",
+      "date": "Sat, 18 Jul 2026 13:08:34 +0100",
+      "url": "https://observador.pt/2026/07/18/museu-gulbenkian-reabre-com-entrada-gratuita-e-atividades-de-celebracao-2/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18054744/47466435.jpg",
       "score": 0.73
     },
     {
-      "id": "49b83aef",
-      "cat": "sociedade",
-      "title": "PR diz que processo dos exames \"não correu bem\" e diz estar atento a situação de Luís Neves",
-      "summary": "António José Seguro dirigiu \"uma palavra de compreensão e de solidariedade para as famílias, para os alunos e para os professores\" devido aos atrasos na divulgação das notas. Sobre as polémicas do ministro da Admiistração Interna, respondeu que \"está sempre muito atento\" a tudo o que se passa.",
+      "id": "00382cd4",
+      "cat": "tecnologia",
+      "title": "Benfica tem estrutura para conseguir reabilitar Jhon Durán?",
+      "summary": "França e Inglaterra lutam pelo bronze num jogo que parece pouco para duas grandes seleções. Durán consegue voltar aos tempos de glória no Benfica? Hwang veste dragão, Hornicek pisca o olho ao Bayern.",
+      "source": "Observador",
+      "date": "Sat, 18 Jul 2026 12:50:08 +0100",
+      "url": "https://observador.pt/programas/e-o-campeao-e/benfica-tem-estrutura-para-conseguir-reabilitar-jhon-duran/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "8494d043",
+      "cat": "cultura",
+      "title": "Greenleap: um gin português entre os melhores",
+      "summary": "Criado no Douro por Ana Cerqueira, o gin artesanal une território, memória e ambição portuguesa. O ouro abre o caminho.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 17 Jul 2026 21:23:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/pr-diz-que-processo-dos-exames-nao-correu-bem-e-diz-estar-atento-a-situacao-de-luis-neves",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-16-10-33-00-525219.jpg",
+      "date": "Sat, 18 Jul 2026 13:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/greenleap-um-gin-portugues-entre-os-melhores",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-17-08-04-00-526778.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0c5b7bbe",
+      "cat": "tecnologia",
+      "title": "Angola investe hoje mais em Portugal do que o inverso",
+      "summary": "Entre 2021 e 2025, Angola subiu do 14.º para o 9.º lugar entre os 62 países considerados pelo Banco de Portugal como investidores em Portugal, enquanto Portugal caiu do terceiro para o sétimo lugar entre os destinos do investimento direto português no exterior.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 18 Jul 2026 11:26:12 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/angola-investe-hoje-mais-em-portugal-do-que-o-inverso",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-08-02-29-12-491909.jpg",
       "score": 0.73
     },
     {
@@ -223,25 +234,58 @@
       "score": 0.73
     },
     {
-      "id": "a21b23dc",
+      "id": "abdf3ff5",
       "cat": "tecnologia",
-      "title": "Benfica vence Villarreal por 2-0 no segundo jogo particular no Algarve",
-      "summary": "Os golos de Rafa Silva e Pavlidis deram sexta-feira a vitória por 2-0 ao Benfica frente aos espanhóis do Villarreal, no segundo jogo particular dos `encarnados` no Estádio Algarve, tendo em vista a época futebolística 2026/27.",
+      "title": "Mundial2026. França e Inglaterra disputam terceiro e quarto lugar",
+      "summary": "França e Inglaterra decidem hoje o 3º e 4º lugares do campeonato Mundial de Futebol. Um prémio de consolação que vale muito pouco para os dois selecionadores.",
       "source": "RTP",
-      "date": "Fri, 17 Jul 2026 23:09:59 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/benfica-vence-villarreal-por-2-0-no-segundo-jogo-particular-no-algarve_d1754230",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9aab750ff66b0d45e9eb9e0e948fbfa4?w=350&amp;q=50&amp;rect=0,81,1184,649&amp;auto=format",
+      "date": "Sat, 18 Jul 2026 15:34:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/mundial2026-franca-e-inglaterra-disputam-terceiro-e-quarto-lugar_v1754325",
+      "img": "https://cdn-images.rtp.pt/icm/images/bb/bb862b5640aec7ac7d42ac8b5f5a370d_N.jpg?",
       "score": 0.73
     },
     {
-      "id": "00092d9c",
+      "id": "deae1246",
       "cat": "tecnologia",
-      "title": "Notas dos exames do nono ano já não serão afixadas esta sexta-feira",
-      "summary": "Os resultados das provas do 9º ano não serão afixados nas escolas esta sexta-feira, avançou a RTP e confirmou o ECO. &#8220;Tendo em consideração o atraso verificado no processo de classificação, vem o EduQA, através do Júri Nacional de Exames, informar que a afixação de pautas das Provas Finais do ",
+      "title": "Nos penhascos do Mondego nasce a solução para as cheias. Recuo de Girabolhos em 2016 custa 300 milhões",
+      "summary": "Mais de um milhão de euros de custo acrescido por mês, ao longo de 20 anos. Contas por alto, este é o acréscimo no custo da Barragem de Girabolhos, empreendimento no Rio Mondego que, afiança a Agência Portuguesa do Ambiente, teria evitado vários episódios de cheias na bacia do maior rio português. E",
       "source": "ECO",
-      "date": "Fri, 17 Jul 2026 17:50:07 +0000",
-      "url": "https://eco.sapo.pt/2026/07/17/notas-dos-exames-do-nono-ano-ja-nao-serao-afixadas-esta-sexta-feira/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc2026061747301409pet-0043.jpg",
+      "date": "Sat, 18 Jul 2026 11:56:22 +0000",
+      "url": "https://eco.sapo.pt/reportagem/nos-penhascos-do-mondego-nasce-a-solucao-para-as-cheias-recuo-de-girabolhos-em-2016-custa-300-milhoes/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-girabolhos03.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "5d9d1bb2",
+      "cat": "tecnologia",
+      "title": "Angola já investe quase o dobro do que Portugal em Angola",
+      "summary": "O investimento angolano em Portugal mais do que duplicou desde 2021 e é hoje quase o dobro do investimento português em Angola, segundo dados do Banco de Portugal consultados pela Lusa. O stock de investimento direto de Angola em Portugal ascendia, no final de 2025, a 4.525,7 milhões de euros, um au",
+      "source": "ECO",
+      "date": "Sat, 18 Jul 2026 08:43:17 +0000",
+      "url": "https://eco.sapo.pt/2026/07/18/angola-ja-investe-quase-o-dobro-do-que-portugal-em-angola/",
+      "img": "https://eco.imgix.net/uploads/2025/07/cropped-45382136-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "b63d8f7a",
+      "cat": "tecnologia",
+      "title": "Seus dedos podem conter um segredo da evolução do cérebro humano",
+      "summary": "Um estudo realizado com 225 recém-nascidos sugere que o estrogênio pré-natal pode ter desempenhado um papel na evolução de cérebros humanos maiores. Os meninos com padrões de comprimento dos dedos associados a uma maior exposição ao estrogênio antes do nascimento tendem a ter perímetros cefálicos maiores, que estão fortemente associados ao tamanho do cérebro. O mesmo cone",
+      "source": "ScienceDaily",
+      "date": "Fri, 17 Jul 2026 08:02:39 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
+      "img": "https://www.sciencedaily.com/images/1920/different-finger-length-ring-index.webp",
+      "score": 0.73
+    },
+    {
+      "id": "8056bf28",
+      "cat": "tecnologia",
+      "title": "Estrela parecida com o Sol é capturada após comer um de seus próprios planetas",
+      "summary": "Uma estrela distante semelhante ao Sol parece ter devorado um dos seus planetas, deixando para trás uma surpreendente impressão digital química. Os investigadores encontraram uma concentração invulgarmente elevada de lítio, um forte sinal de que material planetário estava misturado na estrela. Comparações cuidadosas com dezenas de estrelas semelhantes confirmam",
+      "source": "ScienceDaily",
+      "date": "Thu, 16 Jul 2026 06:52:02 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
+      "img": "https://www.sciencedaily.com/images/1920/illustration-of-planetary-engulfment.webp",
       "score": 0.73
     },
     {
@@ -267,69 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "f1f9bc90",
+      "id": "eddfe64e",
       "cat": "tecnologia",
-      "title": "Cientistas acreditam estar a assistir ao nascimento de uma nova fronteira tectónica em África",
-      "summary": "A África subsariana pode dividir-se dentro de alguns milhões de anos, e os cientistas acreditam que estão a assistir aos estágios iniciais deste processo geológico.",
+      "title": "Trump diz que vai somar às tarifas o custo do fumo dos incêndios no Canadá",
+      "summary": "Presidente dos EUA diz que o seu país está a ser “invadido por ar imundo”. Canadá afasta acusações de negligência e insta Washington a fazer mais contra as alterações climáticas.",
       "source": "Público",
-      "date": "Sat, 18 Jul 2026 07:01:00 GMT",
-      "url": "https://www.publico.pt/2026/07/18/ciencia/noticia/cientistas-acreditam-estar-assistir-nascimento-nova-fronteira-tectonica-africa-2181596",
+      "date": "Sat, 18 Jul 2026 13:18:17 GMT",
+      "url": "https://www.publico.pt/2026/07/18/mundo/noticia/trump-vai-somar-tarifas-custo-fumo-incendios-canada-2182193",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "0244d661",
-      "cat": "ciencia",
-      "title": "A ciência existe para produzir conhecimento. Ponto",
-      "summary": "O valor económico da ciência é imenso. Mas é consequência da sua liberdade, nunca a sua finalidade. Opinião de António Teodoro",
+      "id": "bd22b252",
+      "cat": "tecnologia",
+      "title": "Meteorito que caiu nos EUA fornece pistas cruciais sobre a origem da vida na Terra",
+      "summary": "O meteorito é composto por um material raro e primitivo, sendo apenas a segunda vez que se observa a queda de uma rocha espacial deste tipo. A sua queda provocou um buraco no tecto de uma casa.",
       "source": "Público",
-      "date": "Sat, 18 Jul 2026 07:01:00 GMT",
-      "url": "https://www.publico.pt/2026/07/18/ciencia/opiniao/ciencia-existe-produzir-conhecimento-ponto-2182032",
+      "date": "Sat, 18 Jul 2026 13:00:00 GMT",
+      "url": "https://www.publico.pt/2026/07/18/ciencia/noticia/meteorito-caiu-eua-fornece-pistas-cruciais-origem-vida-terra-2182026",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "68c07c48",
-      "cat": "tecnologia",
-      "title": "As notícias das 8h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Sat, 18 Jul 2026 08:15:06 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2461/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "1ad91d33",
-      "cat": "economia",
-      "title": "Resultados dos exames foram divulgados mas nem todos souberam as notas",
-      "summary": "Alguns alunos estavam desde das 15:00 à espera de ver as notas que só chegaram às 21:00, aguardando pelos resultados com amigos e esperando que as classificações atingissem as expectativas.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 17 Jul 2026 23:50:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/resultados-dos-exames-foram-divulgados-mas-nem-todos-souberam-as-notas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-18-00-06-35-526854.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
