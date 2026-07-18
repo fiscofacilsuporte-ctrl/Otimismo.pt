@@ -1,5 +1,5 @@
 {
-  "last_update": "18/07/2026 03:14 UTC",
+  "last_update": "18/07/2026 08:03 UTC",
   "total": 30,
   "news": [
     {
@@ -28,11 +28,22 @@
       "id": "e6352e1c",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: a líder ecológica Estônia e mais",
-      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais",
+      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais The post O que correu bem esta semana: a líder ecológica Estónia, e mais apareceu primeiro em Positive News.",
       "source": "Positive News",
       "date": "Fri, 10 Jul 2026 05:07:49 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-487525618.jpeg",
+      "score": 0.82
+    },
+    {
+      "id": "6a1bdf34",
+      "cat": "tecnologia",
+      "title": "Diamantes e ‘táxi em órbita’: foguete com o objetivo de transformar as ambições espaciais da Índia decola",
+      "summary": "O primeiro unicórnio de tecnologia espacial da Índia, Skyroot Aerospace, lançou com sucesso o Vikram-1 no sábado.",
+      "source": "BBC News",
+      "date": "Sat, 18 Jul 2026 07:05:19 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d67c/live/812402b0-81c4-11f1-926f-c90d1bcfbc84.jpg",
       "score": 0.82
     },
     {
@@ -55,17 +66,6 @@
       "date": "Fri, 17 Jul 2026 18:30:00 +0000",
       "url": "https://www.goodnewsnetwork.org/homegrown-catnip-lotion-proves-to-be-an-effective-mosquito-repellent-in-rural-uganda/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Catnip-flowers-credit-Gordon-Robertson-CC-3.0.-via-Wikimedia.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "6a1bdf34",
-      "cat": "tecnologia",
-      "title": "Diamantes e ‘táxi em órbita’: o foguete que visa transformar as ambições espaciais da Índia",
-      "summary": "O primeiro unicórnio de tecnologia espacial da Índia, Skyroot Aerospace, deve lançar o Vikram-1 no sábado.",
-      "source": "BBC News",
-      "date": "Sat, 18 Jul 2026 00:39:18 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d67c/live/812402b0-81c4-11f1-926f-c90d1bcfbc84.jpg",
       "score": 0.79
     },
     {
@@ -116,7 +116,7 @@
       "id": "54f7cff4",
       "cat": "tecnologia",
       "title": "Boas novas na história, 17 de Julho",
-      "summary": "Hoje, há 70 anos, a comédia musical da MGM High Society foi lançada. Estrelado por Bing Crosby e o jovem Frank Sinatra, foi a primeira vez que a dupla colaborou. Foi um remake musical de Philadelphia Story e foi o último papel da protagonista Grace Kelly antes de ela deixar Hollywood para se tornar",
+      "summary": "Hoje, há 70 anos, a comédia musical da MGM High Society foi lançada. Estrelado por Bing Crosby e um jovem Frank Sinatra, foi a primeira vez que a dupla colaborou. Foi um remake musical de Philadelphia Story e foi o último papel da protagonista Grace Kelly antes de ela deixar Hollywood para se tornar",
       "source": "Good News Network",
       "date": "Fri, 17 Jul 2026 07:00:00 +0000",
       "url": "https://www.goodnewsnetwork.org/events060717/",
@@ -168,25 +168,36 @@
       "score": 0.76
     },
     {
-      "id": "f3b1a2af",
-      "cat": "tecnologia",
-      "title": "Ver o que está e o que não está nas fotografias",
-      "summary": "O Núcleo de Fotografia do Arquivo Ephemera lida com várias dezenas de milhares de fotografias. O que aprendemos só de olhar para elas é imenso, lúdico, estético, antropológico, histórico e não acaba. Opinião de José Pacheco Pereira",
+      "id": "03602d79",
+      "cat": "cultura",
+      "title": "Como Pero Vaz de Caminha ensinou o primeiro drible à AIMA",
+      "summary": "A mesma herança cultural que transformou o futebol brasileiro em arte ajuda a explicar o atual e confuso labirinto migratório entre Brasil e Portugal. Opinião de Sérgio Ignácio",
       "source": "Público",
-      "date": "Fri, 17 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/18/opiniao/opiniao/nao-fotografias-2182170",
+      "date": "Sat, 18 Jul 2026 06:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/18/publico-brasil/opiniao/pero-vaz-caminha-ensinou-drible-aima-2182100",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "ce4e9522",
+      "id": "b163d491",
       "cat": "tecnologia",
-      "title": "Justiça e democracia, o único petróleo de Cabo Verde",
-      "summary": "O processo judicial agora aberto contra o primeiro-ministro Francisco Carvalho vai ser, provavelmente, o maior teste que as instituições cabo-verdianas enfrentaram desde a abertura democrática. Opinião de Paulo Mendes",
-      "source": "Público",
-      "date": "Fri, 17 Jul 2026 23:10:00 GMT",
-      "url": "https://www.publico.pt/2026/07/18/opiniao/opiniao/justica-democracia-unico-petroleo-cabo-verde-2182045",
-      "img": null,
+      "title": "AMALIA à prova: A IA portuguesa alucina assim tanto?",
+      "summary": "\"Alucinações\" bizarras do AMALIA marcaram arranque do modelo de IA português. Testes mostram que ainda é preciso treino numa Inteligência Artificial a dar os primeiros passos no fabuloso mundo da IA.",
+      "source": "Observador",
+      "date": "Sat, 18 Jul 2026 07:09:16 +0100",
+      "url": "https://observador.pt/programas/m-quinas-que-pensam/amalia-a-prova-a-ia-portuguesa-alucina-assim-tanto/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "e1863770",
+      "cat": "saude",
+      "title": "\"O sucesso de uma unidade de dor hospitalar é o doente re...",
+      "summary": "Todos os doentes com dor crónica são encaminhados do centro de saúde para o hospital? O médico de família Bruno Pedrosa e a anestesiologista Ana Pedro explicam como e quando se faz esta ligação.",
+      "source": "Observador",
+      "date": "Sat, 18 Jul 2026 07:04:15 +0100",
+      "url": "https://observador.pt/programas/conversas-sobre-dor/o-sucesso-de-uma-unidade-de-dor-hospitalar-e-o-doente-regressar-ao-medico-de-familia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/16210620/770-podcastconsulta-informal.jpg",
       "score": 0.73
     },
     {
@@ -256,47 +267,36 @@
       "score": 0.73
     },
     {
-      "id": "119dc0fb",
-      "cat": "geral",
-      "title": "Grandiosas Festas do Mártir São Sebastião evacuadas devido a fuga de amoníaco",
-      "summary": "A fuga de amoníaco, entretanto controlada, deu-se num tanque na Docapesca em Matosinhos e fez um ferido ligeiro.",
+      "id": "f1f9bc90",
+      "cat": "tecnologia",
+      "title": "Cientistas acreditam estar a assistir ao nascimento de uma nova fronteira tectónica em África",
+      "summary": "A África subsariana pode dividir-se dentro de alguns milhões de anos, e os cientistas acreditam que estão a assistir aos estágios iniciais deste processo geológico.",
       "source": "Público",
-      "date": "Sat, 18 Jul 2026 01:46:02 GMT",
-      "url": "https://www.publico.pt/2026/07/18/local/noticia/grandiosas-festas-martir-sao-sebastiao-evacuadas-devido-fuga-amoniaco-2182186",
+      "date": "Sat, 18 Jul 2026 07:01:00 GMT",
+      "url": "https://www.publico.pt/2026/07/18/ciencia/noticia/cientistas-acreditam-estar-assistir-nascimento-nova-fronteira-tectonica-africa-2181596",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "62328521",
+      "id": "0244d661",
+      "cat": "ciencia",
+      "title": "A ciência existe para produzir conhecimento. Ponto",
+      "summary": "O valor económico da ciência é imenso. Mas é consequência da sua liberdade, nunca a sua finalidade. Opinião de António Teodoro",
+      "source": "Público",
+      "date": "Sat, 18 Jul 2026 07:01:00 GMT",
+      "url": "https://www.publico.pt/2026/07/18/ciencia/opiniao/ciencia-existe-produzir-conhecimento-ponto-2182032",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "68c07c48",
       "cat": "tecnologia",
-      "title": "1h. Fuga de amoníaco em festa nas Docas de Leixões",
-      "summary": "Há registo de um ferido ligeiro. Recinto do evento foi evacuado. Ainda, PCP critica a falta de respostas do ministro da Educação sobre os alunos com as notas dos exames nacionais suspensas.",
+      "title": "As notícias das 8h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sat, 18 Jul 2026 01:14:03 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2327/",
+      "date": "Sat, 18 Jul 2026 08:15:06 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2461/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "e89cc6bc",
-      "cat": "tecnologia",
-      "title": "PS: MAI deve dar explicações \"de forma clara e inequívoca\"",
-      "summary": "O secretário-geral do PS diz que a autoridade do ministro da Administração Interna \"não pode estar maculada\" e que os factos recentes \"têm gravidade\".",
-      "source": "Observador",
-      "date": "Sat, 18 Jul 2026 00:41:33 +0100",
-      "url": "https://observador.pt/2026/07/18/carneiro-diz-que-luis-neves-deve-dar-explicacoes-de-forma-clara-e-inequivoca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:96/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15125511/47268256.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "bfca4e16",
-      "cat": "tecnologia",
-      "title": "PR moçambicano reitera abertura para dialogar com a Galp",
-      "summary": "Presidente moçambicano diz, na sua visita oficial a Portugal, considerar o diálogo a melhor maneira de resolver o litígio. Afirmou ainda respeitar \"as leis e as decisões das instituições\" como a Galp.",
-      "source": "Observador",
-      "date": "Sat, 18 Jul 2026 00:32:28 +0100",
-      "url": "https://observador.pt/2026/07/18/presidente-mocambicano-reitera-abertura-para-dialogar-com-a-galp-face-ao-diferendo-fiscal/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17202153/47465360.jpg",
       "score": 0.7
     },
     {
