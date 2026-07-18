@@ -1,5 +1,5 @@
 {
-  "last_update": "18/07/2026 13:38 UTC",
+  "last_update": "18/07/2026 19:14 UTC",
   "total": 30,
   "news": [
     {
@@ -47,14 +47,14 @@
       "score": 0.82
     },
     {
-      "id": "ae6650a2",
+      "id": "e0b7e870",
       "cat": "tecnologia",
-      "title": "Mundial2026. Campeão recebe prémio recorde de 50 milhões de dólares",
-      "summary": "O vencedor da final do Mundial2026 de futebol entre Espanha e Argentina, que se disputa no domingo, nos Estados Unidos, vai receber um prémio recorde de 50 milhões de dólares (43,71 milhões de euros, ao câmbio atual).",
-      "source": "RTP",
-      "date": "Fri, 17 Jul 2026 21:35:46 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-campeao-recebe-premio-recorde-de-50-milhoes-de-dolares_d1754211",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d5fd86dd01ec1fc043a39f73ea2a175f?w=350&amp;q=50&amp;rect=0,87,1294,709&amp;auto=format",
+      "title": "União Europeia proibiu a destruição de roupa não vendida",
+      "summary": "De acordo com as novas regras, as empresas terão de privilegiar a manutenção dos produtos em utilização, através da venda, doação a instituições de solidariedade social ou empresas sociais.",
+      "source": "Público",
+      "date": "Sat, 18 Jul 2026 18:02:00 GMT",
+      "url": "https://www.publico.pt/2026/07/18/azul/noticia/uniao-europeia-proibiu-destruicao-roupa-nao-vendida-2182089",
+      "img": null,
       "score": 0.79
     },
     {
@@ -80,14 +80,14 @@
       "score": 0.76
     },
     {
-      "id": "a29e6932",
+      "id": "98e24fd4",
       "cat": "tecnologia",
-      "title": "Mundial2026. Didier Deschamps vai sentir saudades de orientar França",
-      "summary": "O treinador Didier Deschamps admitiu que vai sentir saudades da seleção francesa, da qual se despedirá ao fim de 14 anos no sábado, frente à Inglaterra, no jogo da medalha de bronze do Mundial2026 de futebol.",
+      "title": "Kimi Antonelli conquista pole position para o GP da Bélgica de Fórmula 1",
+      "summary": "O italiano Kimi Antonelli (Mercedes) conquistou hoje a pole position para o Grande Prémio da Bélgica de Fórmula 1, ao ser o mais rápido na qualificação disputada no circuito de Spa-Francorchamps.",
       "source": "RTP",
-      "date": "Fri, 17 Jul 2026 21:38:11 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-didier-deschamps-vai-sentir-saudades-de-orientar-franca_d1754216",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/12/1269c87232f36bf77b46cd3823900efb?w=350&amp;q=50&amp;rect=0,48,1323,725&amp;auto=format",
+      "date": "Sat, 18 Jul 2026 18:26:00 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-conquista-pole-position-para-o-gp-da-belgica-de-formula-1_d1754357",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ed/edab3c0942cf3094ecc971cefcccb5e6?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
@@ -99,17 +99,6 @@
       "date": "Fri, 17 Jul 2026 07:00:00 +0000",
       "url": "https://www.goodnewsnetwork.org/events060717/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/07/film-soundtrack-High-Society-LP-fairuse.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "7f79f8a7",
-      "cat": "tecnologia",
-      "title": "Engenheiros japoneses ajudam a modernizar a enorme ferrovia da Índia, lançando seu primeiro trem-bala",
-      "summary": "Para o sistema de transporte mais dependente de trens do mundo, a estreia de seu primeiro sistema de alta velocidade ou &#8220;bala&#8221; trem, agora está tentadoramente próximo. O início das operações de passageiros em fases está previsto a partir de 15 de agosto de 2027, desde que não haja mais atrasos no projeto. Definir como",
-      "source": "Good News Network",
-      "date": "Thu, 16 Jul 2026 15:30:21 +0000",
-      "url": "https://www.goodnewsnetwork.org/japanese-engineering-helping-india-modernize-massive-railway-system-starting-with-her-first-bullet-train/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Prime-ministers-of-India-and-Japan-at-the-groundbreaking-ceremony-for-the-Mumbai-Ahmedabad-high-speed-rail-project-credit-Prime-Ministers-Office-GODL-India.jpg",
       "score": 0.76
     },
     {
@@ -135,17 +124,6 @@
       "score": 0.76
     },
     {
-      "id": "49381d1a",
-      "cat": "tecnologia",
-      "title": "Avanço quântico liga luz e magnetismo em materiais atomicamente finos",
-      "summary": "Uma nova revisão destaca progressos emocionantes em materiais quânticos atomicamente finos, onde a luz e o magnetismo trabalham juntos de maneiras nunca antes possíveis. Nestes materiais, os excitons gerados pela luz podem interagir diretamente com o comportamento magnético, criando oportunidades para controlar os estados magnéticos usando lig.",
-      "source": "ScienceDaily",
-      "date": "Thu, 16 Jul 2026 00:16:48 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
-      "img": "https://www.sciencedaily.com/images/1920/quantum-magnetic-material-atomic-stacked-layers.webp",
-      "score": 0.76
-    },
-    {
       "id": "25a1c000",
       "cat": "sociedade",
       "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
@@ -157,47 +135,14 @@
       "score": 0.76
     },
     {
-      "id": "a16c0aa8",
+      "id": "5d1ce98c",
       "cat": "tecnologia",
-      "title": "Novo primeiro-ministro britânico deverá dar luz verde a explorações de petróleo e gás no mar do Norte",
-      "summary": "Andy Burnham, o novo líder trabalhista, que será convidado pelo rei Carlos III a formar governo na segunda-feira, assumiu o compromisso de não conceder mais licenças, mas quer honrar as existentes.",
-      "source": "Público",
-      "date": "Sat, 18 Jul 2026 13:22:31 GMT",
-      "url": "https://www.publico.pt/2026/07/18/mundo/noticia/novo-primeiroministro-britanico-devera-dar-luz-verde-exploracoes-petroleo-gas-mar-norte-2182209",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "5915a392",
-      "cat": "tecnologia",
-      "title": "Surfista Teresa Bonvalot vence final portuguesa",
-      "summary": "Teresa Bonvalot conquistou a sua segunda vitória no circuito Challenge Series de surf, ao vencer o Ballito Pro, na África do Sul, onde se impôs na final à também portuguesa Francisca Veselko.",
+      "title": "19h. Exames. Provedoria da Justiça pede ponto de situação",
+      "summary": "A Provedoria querer também saber quais as medidas pensadas para contornar os problemas na segunda fase das provas. Ainda, PCP culpa primeiro-ministro pelos problemas registados na correção dos exames.",
       "source": "Observador",
-      "date": "Sat, 18 Jul 2026 13:32:00 +0100",
-      "url": "https://observador.pt/2026/07/18/surfista-teresa-bonvalot-vence-final-portuguesa-do-ballito-pro-na-africa-do-sul/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/07/25101806/33984984.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "34a2816d",
-      "cat": "tecnologia",
-      "title": "Museu Gulbenkian reabre com entrada gratuita",
-      "summary": "A reabertura do Museu Gulbenkian, com entrada gratuita até dia 26, e a realização de um concerto do Coro e da Orquestra assinalam a celebração dos 70 anos da Fundação Calouste Gulbenkian.",
-      "source": "Observador",
-      "date": "Sat, 18 Jul 2026 13:08:34 +0100",
-      "url": "https://observador.pt/2026/07/18/museu-gulbenkian-reabre-com-entrada-gratuita-e-atividades-de-celebracao-2/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18054744/47466435.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "00382cd4",
-      "cat": "tecnologia",
-      "title": "Benfica tem estrutura para conseguir reabilitar Jhon Durán?",
-      "summary": "França e Inglaterra lutam pelo bronze num jogo que parece pouco para duas grandes seleções. Durán consegue voltar aos tempos de glória no Benfica? Hwang veste dragão, Hornicek pisca o olho ao Bayern.",
-      "source": "Observador",
-      "date": "Sat, 18 Jul 2026 12:50:08 +0100",
-      "url": "https://observador.pt/programas/e-o-campeao-e/benfica-tem-estrutura-para-conseguir-reabilitar-jhon-duran/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
+      "date": "Sat, 18 Jul 2026 19:15:33 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2126/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -212,17 +157,6 @@
       "score": 0.73
     },
     {
-      "id": "0c5b7bbe",
-      "cat": "tecnologia",
-      "title": "Angola investe hoje mais em Portugal do que o inverso",
-      "summary": "Entre 2021 e 2025, Angola subiu do 14.º para o 9.º lugar entre os 62 países considerados pelo Banco de Portugal como investidores em Portugal, enquanto Portugal caiu do terceiro para o sétimo lugar entre os destinos do investimento direto português no exterior.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 18 Jul 2026 11:26:12 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/angola-investe-hoje-mais-em-portugal-do-que-o-inverso",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-08-02-29-12-491909.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -234,14 +168,36 @@
       "score": 0.73
     },
     {
-      "id": "abdf3ff5",
-      "cat": "tecnologia",
-      "title": "Mundial2026. França e Inglaterra disputam terceiro e quarto lugar",
-      "summary": "França e Inglaterra decidem hoje o 3º e 4º lugares do campeonato Mundial de Futebol. Um prémio de consolação que vale muito pouco para os dois selecionadores.",
+      "id": "98678ec0",
+      "cat": "desporto",
+      "title": "Josh Kerr bate recorde do mundo da milha que vigorava desde 1999",
+      "summary": "O britânico Josh Kerr estabeleceu sábado em 03.42,66 minutos o novo recorde da milha, em Londres, batendo a histórica marca do marroquino Hicham El Guerrouj, que remontava a 07 de julho de 1999.",
       "source": "RTP",
-      "date": "Sat, 18 Jul 2026 15:34:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/mundial2026-franca-e-inglaterra-disputam-terceiro-e-quarto-lugar_v1754325",
-      "img": "https://cdn-images.rtp.pt/icm/images/bb/bb862b5640aec7ac7d42ac8b5f5a370d_N.jpg?",
+      "date": "Sat, 18 Jul 2026 18:41:10 +0100",
+      "url": "https://www.rtp.pt/noticias/atletismo/josh-kerr-bate-recorde-do-mundo-da-milha-que-vigorava-desde-1999_d1754358",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/36/3665379a11fc2756f548123ce6fcba2f?w=350&amp;q=50&amp;rect=0,120,1281,702&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "f736ec3f",
+      "cat": "tecnologia",
+      "title": "Tadej Pogacar já tem quatro vitórias de etapa na 113.ª edição do Tour",
+      "summary": "Tadej Pogacar (UAE Emirates) somou sábado a quarta vitória na 113.ª Volta a França em bicicleta, ao atacar a mais de sete quilómetros da meta para impor-se na 14.ª etapa e aumentar a distância na liderança da geral.",
+      "source": "RTP",
+      "date": "Sat, 18 Jul 2026 17:54:32 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/tadej-pogacar-ja-tem-quatro-vitorias-de-etapa-na-113a-edicao-do-tour_d1754353",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6ec03daecb5a1c3c037e13f2ed6d84c8?w=350&amp;q=50&amp;rect=0,39,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "1658cbbf",
+      "cat": "ciencia",
+      "title": "“Trump já provocou muitos danos ao comércio mundial. Não devemos permitir que continue a fazê-lo”",
+      "summary": "Marcel Fratzscher, presidente do German Institute for Economic Research, conhecido por DIW Berlin, alerta para a dependência da China e dos Estados Unidos e diz que a prioridade da Europa deve ser investir nas pessoas, na inovação e numa política energética comum, mas considera que os governos conti",
+      "source": "ECO",
+      "date": "Sat, 18 Jul 2026 15:54:50 +0000",
+      "url": "https://eco.sapo.pt/entrevista/trump-ja-provocou-muitos-danos-ao-comercio-mundial-nao-devemos-permitir-que-continue-a-faze-lo/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-detail-1.jpg",
       "score": 0.73
     },
     {
@@ -256,14 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "5d9d1bb2",
+      "id": "5e466623",
       "cat": "tecnologia",
-      "title": "Angola já investe quase o dobro do que Portugal em Angola",
-      "summary": "O investimento angolano em Portugal mais do que duplicou desde 2021 e é hoje quase o dobro do investimento português em Angola, segundo dados do Banco de Portugal consultados pela Lusa. O stock de investimento direto de Angola em Portugal ascendia, no final de 2025, a 4.525,7 milhões de euros, um au",
-      "source": "ECO",
-      "date": "Sat, 18 Jul 2026 08:43:17 +0000",
-      "url": "https://eco.sapo.pt/2026/07/18/angola-ja-investe-quase-o-dobro-do-que-portugal-em-angola/",
-      "img": "https://eco.imgix.net/uploads/2025/07/cropped-45382136-scaled-1.jpg",
+      "title": "Filha salva a difícil sapataria do pai com apelo do TikTok - e filas de clientes na porta",
+      "summary": "Uma filha ajudou a salvar a sapataria italiana vintage de seu pai postando sobre um par de saltos gatinho Y2K no TikTok - e agora há filas do lado de fora da porta. Há mais de 30 anos, Rachid Lazraq é proprietário da Rich Collection Italia, mas o surgimento de práticas de compras on-line e uma clientela envelhecida deixaram a Rich Collection Italia.",
+      "source": "Good News Network",
+      "date": "Sat, 18 Jul 2026 19:09:08 +0000",
+      "url": "https://www.goodnewsnetwork.org/daughter-saves-dads-struggling-shoe-shop-with-tiktok-appeal-and-customer-lines-out-the-door/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Line-on-block-by-shoe-store-Rich-Collection-Italia-credit-Zineb-Lazraq-SWNS.jpeg",
       "score": 0.73
     },
     {
@@ -311,25 +267,69 @@
       "score": 0.73
     },
     {
-      "id": "eddfe64e",
+      "id": "0862cf1b",
       "cat": "tecnologia",
-      "title": "Trump diz que vai somar às tarifas o custo do fumo dos incêndios no Canadá",
-      "summary": "Presidente dos EUA diz que o seu país está a ser “invadido por ar imundo”. Canadá afasta acusações de negligência e insta Washington a fazer mais contra as alterações climáticas.",
+      "title": "Roças são-tomenses, do inferno de onde não se saía até ao reconhecimento mundial?",
+      "summary": "A partir deste domingo e até 29 de Julho reúne-se na Coreia do Sul o Comité do Património Mundial da UNESCO. Em Busan decidir-se-á se as roças são-tomenses são inscritas na lista.",
       "source": "Público",
-      "date": "Sat, 18 Jul 2026 13:18:17 GMT",
-      "url": "https://www.publico.pt/2026/07/18/mundo/noticia/trump-vai-somar-tarifas-custo-fumo-incendios-canada-2182193",
+      "date": "Sat, 18 Jul 2026 18:12:37 GMT",
+      "url": "https://www.publico.pt/2026/07/18/culturaipsilon/noticia/rocas-saotomenses-inferno-onde-nao-saia-ate-reconhecimento-mundial-2182207",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "bd22b252",
+      "id": "18eae436",
       "cat": "tecnologia",
-      "title": "Meteorito que caiu nos EUA fornece pistas cruciais sobre a origem da vida na Terra",
-      "summary": "O meteorito é composto por um material raro e primitivo, sendo apenas a segunda vez que se observa a queda de uma rocha espacial deste tipo. A sua queda provocou um buraco no tecto de uma casa.",
+      "title": "Exames: Provedora de Justiça pede ao ministério ponto de situação sobre as notas",
+      "summary": "Provedoria salientou que as “circunstâncias e o contexto” que envolvem a realização das provas “têm sido objecto de várias queixas”, em particular sobre as condições de igualdade de acesso à 2.ª fase.",
       "source": "Público",
-      "date": "Sat, 18 Jul 2026 13:00:00 GMT",
-      "url": "https://www.publico.pt/2026/07/18/ciencia/noticia/meteorito-caiu-eua-fornece-pistas-cruciais-origem-vida-terra-2182026",
+      "date": "Sat, 18 Jul 2026 18:06:14 GMT",
+      "url": "https://www.publico.pt/2026/07/18/sociedade/noticia/exames-provedora-justica-pede-ministerio-ponto-situacao-notas-2182239",
       "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "9b10dfab",
+      "cat": "tecnologia",
+      "title": "Espanha resgata 86 migrantes que chegaram às Baleares",
+      "summary": "Guarda Civil, bombeiros e Cruz Vermelha mobilizados em operações distintas ao largo de Formentera, Cabrera e Maiorca. Chegadas irregulares ao arquipélago subiram 24,5% em 2025.",
+      "source": "Observador",
+      "date": "Sat, 18 Jul 2026 19:33:48 +0100",
+      "url": "https://observador.pt/2026/07/18/tres-embarcacoes-com-86-migrantes-subsaarianos-intercetadas-nas-baleares-numa-so-noite-arquipelago-ja-recebeu-3-385-este-ano/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18170752/47428128.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "44836f45",
+      "cat": "tecnologia",
+      "title": "Reservas de água nos 40% podem reduzir cortes em Almada",
+      "summary": "SMAS de Almada calculam a reserva média com base em sete reservatórios. Dois novos furos já reforçam a rede com mais 120 m³ de água por hora.",
+      "source": "Observador",
+      "date": "Sat, 18 Jul 2026 19:11:05 +0100",
+      "url": "https://observador.pt/2026/07/18/reservas-de-agua-em-almada-atingem-40-e-permitem-avaliar-reducao-dos-cortes-no-abastecimento/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:59/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18182431/47443870.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "993efe9b",
+      "cat": "tecnologia",
+      "title": "SpaceX já perdeu 1 bilião de dólares em valor de mercado",
+      "summary": "A empresa espacial de Elon Musk tem caído gradualmente em bolsa desde que atingiu um pico de valorização a 16 de junho nos 2,64 biliões de dólares, depois de ter concretizado a maior oferta pública inicial de todos os tempos, e está a negociar abaixo do valor de entrada no Nasdaq.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 18 Jul 2026 19:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/spacex-ja-perdeu-1-biliao-de-dolares-em-valor-de-mercado",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-04-14-45-36-524830.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
