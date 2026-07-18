@@ -1,5 +1,5 @@
 {
-  "last_update": "17/07/2026 19:21 UTC",
+  "last_update": "18/07/2026 03:14 UTC",
   "total": 30,
   "news": [
     {
@@ -28,12 +28,23 @@
       "id": "e6352e1c",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: a líder ecológica Estônia e mais",
-      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais The post O que correu bem esta semana: a líder ecológica Estónia, e mais apareceu primeiro em Positive News.",
+      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais",
       "source": "Positive News",
       "date": "Fri, 10 Jul 2026 05:07:49 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-487525618.jpeg",
       "score": 0.82
+    },
+    {
+      "id": "ae6650a2",
+      "cat": "tecnologia",
+      "title": "Mundial2026. Campeão recebe prémio recorde de 50 milhões de dólares",
+      "summary": "O vencedor da final do Mundial2026 de futebol entre Espanha e Argentina, que se disputa no domingo, nos Estados Unidos, vai receber um prémio recorde de 50 milhões de dólares (43,71 milhões de euros, ao câmbio atual).",
+      "source": "RTP",
+      "date": "Fri, 17 Jul 2026 21:35:46 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-campeao-recebe-premio-recorde-de-50-milhoes-de-dolares_d1754211",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d5fd86dd01ec1fc043a39f73ea2a175f?w=350&amp;q=50&amp;rect=0,87,1294,709&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "0072ee89",
@@ -47,25 +58,47 @@
       "score": 0.79
     },
     {
-      "id": "10f63fe3",
+      "id": "6a1bdf34",
       "cat": "tecnologia",
-      "title": "Um milhão para serviços educativos dos museus",
-      "summary": "Um \"ProMuseus extraordinário\" vai financiar a criação e melhoria de serviços educativos em museus da Rede Portuguesa de Museus, com majoração para territórios de baixa densidade.",
-      "source": "Observador",
-      "date": "Fri, 17 Jul 2026 18:28:10 +0100",
-      "url": "https://observador.pt/2026/07/17/governo-lanca-linha-de-um-milhao-de-euros-para-servicos-educativos-dos-museus-em-outubro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2016/01/27091841/506944140.jpg",
+      "title": "Diamantes e ‘táxi em órbita’: o foguete que visa transformar as ambições espaciais da Índia",
+      "summary": "O primeiro unicórnio de tecnologia espacial da Índia, Skyroot Aerospace, deve lançar o Vikram-1 no sábado.",
+      "source": "BBC News",
+      "date": "Sat, 18 Jul 2026 00:39:18 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d67c/live/812402b0-81c4-11f1-926f-c90d1bcfbc84.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "46bb4573",
+      "cat": "tecnologia",
+      "title": "Presidente moçambicano reitera abertura para dialogar com Galp sobre diferendo fiscal",
+      "summary": "A posição foi assumida por Daniel Chapo, em Lisboa, quando questionado sobre o recurso da Galp para o Centro Internacional para a Resolução de Diferendos relativos a Investimentos (ICSID) sobre a Área 4 do Rovuma.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 17 Jul 2026 20:30:16 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/presidente-mocambicano-reitera-abertura-para-dialogar-com-galp-sobre-diferendo-fiscal",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-29-08-00-39-517523.jpg",
       "score": 0.76
     },
     {
-      "id": "d26c1f82",
+      "id": "a29e6932",
       "cat": "tecnologia",
-      "title": "Prémio de risco da dívida francesa ronda recordes face a Portugal",
-      "summary": "Com os juros das obrigações gaulesas em máximos de junho de 2009, devido a um misto de receios entre uma inflação elevada e a trajetória da política orçamental, o \"spread\" face à \"yield\" nacional tem vindo a aumentar. Na comparação com a dívida espanhola está em máximos de sempre.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 17 Jul 2026 18:10:05 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/premio-de-risco-da-divida-francesa-ronda-recordes-face-a-portugal",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-17-14-37-44-526824.jpg",
+      "title": "Mundial2026. Didier Deschamps vai sentir saudades de orientar França",
+      "summary": "O treinador Didier Deschamps admitiu que vai sentir saudades da seleção francesa, da qual se despedirá ao fim de 14 anos no sábado, frente à Inglaterra, no jogo da medalha de bronze do Mundial2026 de futebol.",
+      "source": "RTP",
+      "date": "Fri, 17 Jul 2026 21:38:11 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-didier-deschamps-vai-sentir-saudades-de-orientar-franca_d1754216",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/12/1269c87232f36bf77b46cd3823900efb?w=350&amp;q=50&amp;rect=0,48,1323,725&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "d540a7b3",
+      "cat": "tecnologia",
+      "title": "Esta é a chave do Euromilhões. Jackpot é de 50 milhões de euros",
+      "summary": "Com um primeiro prémio no valor de 50 milhões de euros, decorreu sexta-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta sexta-feira, 17 de julho: Números: 12, 21, 23, 34 ",
+      "source": "ECO",
+      "date": "Fri, 17 Jul 2026 19:40:16 +0000",
+      "url": "https://eco.sapo.pt/2026/07/17/esta-e-a-chave-do-euromilhoes-jackpot-e-de-50-milhoes-de-euros-5/",
+      "img": "https://eco.imgix.net/uploads/2016/09/cropped-mg_2903.jpg",
       "score": 0.76
     },
     {
@@ -80,21 +113,10 @@
       "score": 0.76
     },
     {
-      "id": "4276ac35",
-      "cat": "tecnologia",
-      "title": "Diploma aprovado no Parlamento pode clarificar prescrições, afirma Autoridade da Concorrência",
-      "summary": "A Autoridade da Concorrência (AdC) considerou esta sexta-feira que a aprovação da alteração à Lei da Concorrência no parlamento, por iniciativa do PCP, poderá &#8220;clarificar o quadro jurídico aplicável quanto à prescrição&#8221; dos processos pendentes. &#8220;A AdC sempre defendeu que o atual re",
-      "source": "ECO",
-      "date": "Fri, 17 Jul 2026 16:52:22 +0000",
-      "url": "https://eco.sapo.pt/2026/07/17/diploma-aprovado-no-parlamento-pode-clarificar-prescricoes-afirma-autoridade-da-concorrencia/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47393267-scaled-1.jpg",
-      "score": 0.76
-    },
-    {
       "id": "54f7cff4",
       "cat": "tecnologia",
       "title": "Boas novas na história, 17 de Julho",
-      "summary": "Hoje, há 70 anos, a comédia musical da MGM High Society foi lançada. Estrelado por Bing Crosby e um jovem Frank Sinatra, foi a primeira vez que a dupla colaborou. Foi um remake musical de Philadelphia Story e foi o último papel da protagonista Grace Kelly antes de ela deixar Hollywood para se tornar",
+      "summary": "Hoje, há 70 anos, a comédia musical da MGM High Society foi lançada. Estrelado por Bing Crosby e o jovem Frank Sinatra, foi a primeira vez que a dupla colaborou. Foi um remake musical de Philadelphia Story e foi o último papel da protagonista Grace Kelly antes de ela deixar Hollywood para se tornar",
       "source": "Good News Network",
       "date": "Fri, 17 Jul 2026 07:00:00 +0000",
       "url": "https://www.goodnewsnetwork.org/events060717/",
@@ -146,36 +168,36 @@
       "score": 0.76
     },
     {
-      "id": "6ee8824d",
+      "id": "f3b1a2af",
       "cat": "tecnologia",
-      "title": "Greve no matadouro do Cachão por atrasos salariais",
-      "summary": "Trabalhadores queixam-se de salários e subsídios de férias atrasados na sequência de um processo de insolvência por um dos credores. O administrador do matadouro nega atrasos nos pagamentos.",
-      "source": "Observador",
-      "date": "Fri, 17 Jul 2026 18:19:24 +0100",
-      "url": "https://observador.pt/2026/07/17/greve-no-matadouro-do-cachao-a-27-e-28-de-julho-por-atrasos-salariais-e-falta-de-subsidio-de-ferias-em-processo-de-insolvencia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:75/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/05/25185238/12702904.jpg",
+      "title": "Ver o que está e o que não está nas fotografias",
+      "summary": "O Núcleo de Fotografia do Arquivo Ephemera lida com várias dezenas de milhares de fotografias. O que aprendemos só de olhar para elas é imenso, lúdico, estético, antropológico, histórico e não acaba. Opinião de José Pacheco Pereira",
+      "source": "Público",
+      "date": "Fri, 17 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/18/opiniao/opiniao/nao-fotografias-2182170",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "3278fdd9",
+      "id": "ce4e9522",
       "cat": "tecnologia",
-      "title": "\"Sell-off\" nas tecnológicas pinta Europa de vermelho. Burberry afunda mais de 6%",
-      "summary": "Sentimento negativo dos investidores relativamente aos investimentos em inteligência artificial está a influenciar a negociação. Praças asiáticas registaram forte desvalorização. Petróleo a caminho de subida de 10% na semana.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 17 Jul 2026 18:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/bolsas-asiaticas-afundam-com-pressao-da-ia-tsmc-cai-7-kioxia-tomba-16",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-09/img_100x100uu2024-09-10-15-01-14-484970.jpg",
+      "title": "Justiça e democracia, o único petróleo de Cabo Verde",
+      "summary": "O processo judicial agora aberto contra o primeiro-ministro Francisco Carvalho vai ser, provavelmente, o maior teste que as instituições cabo-verdianas enfrentaram desde a abertura democrática. Opinião de Paulo Mendes",
+      "source": "Público",
+      "date": "Fri, 17 Jul 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/07/18/opiniao/opiniao/justica-democracia-unico-petroleo-cabo-verde-2182045",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "62297bf5",
-      "cat": "economia",
-      "title": "Melhorar saúde das mulheres pode devolver um bilião de dólares por ano à economia global",
-      "summary": "Falhas nos cuidados prestados e falta de investimento em prevenção colocam a população feminina em desvantagem, revela estudo da McKinsey e do Fórum Económico Mundial.",
+      "id": "49b83aef",
+      "cat": "sociedade",
+      "title": "PR diz que processo dos exames \"não correu bem\" e diz estar atento a situação de Luís Neves",
+      "summary": "António José Seguro dirigiu \"uma palavra de compreensão e de solidariedade para as famílias, para os alunos e para os professores\" devido aos atrasos na divulgação das notas. Sobre as polémicas do ministro da Admiistração Interna, respondeu que \"está sempre muito atento\" a tudo o que se passa.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 17 Jul 2026 17:52:48 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/social/detalhe/melhorar-saude-das-mulheres-pode-devolver-um-biliao-de-dolares-por-ano-a-economia-global",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-10/img_100x100uu2022-10-26-09-01-15-438961.jpg",
+      "date": "Fri, 17 Jul 2026 21:23:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/pr-diz-que-processo-dos-exames-nao-correu-bem-e-diz-estar-atento-a-situacao-de-luis-neves",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-16-10-33-00-525219.jpg",
       "score": 0.73
     },
     {
@@ -190,14 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "81076de6",
-      "cat": "desporto",
-      "title": "Mundial2026. FIFA vai entregar anéis personalizados aos campeões",
-      "summary": "A seleção vencedora do Mundial2026 de futebol vai receber, pela primeira vez na história das competições da FIFA, anéis de campeão, numa iniciativa inspirada na tradição das principais ligas desportivas norte-americanas, anunciou o organismo.",
+      "id": "a21b23dc",
+      "cat": "tecnologia",
+      "title": "Benfica vence Villarreal por 2-0 no segundo jogo particular no Algarve",
+      "summary": "Os golos de Rafa Silva e Pavlidis deram sexta-feira a vitória por 2-0 ao Benfica frente aos espanhóis do Villarreal, no segundo jogo particular dos `encarnados` no Estádio Algarve, tendo em vista a época futebolística 2026/27.",
       "source": "RTP",
-      "date": "Fri, 17 Jul 2026 18:12:25 +0100",
-      "url": "https://www.rtp.pt/noticias/mundial-2026/mundial2026-fifa-vai-entregar-aneis-personalizados-aos-campeoes_d1754152",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a0/a057f4eba85687a678c15e580240dd02?w=350&amp;q=50&amp;rect=62,0,1159,635&amp;auto=format",
+      "date": "Fri, 17 Jul 2026 23:09:59 +0100",
+      "url": "https://www.rtp.pt/noticias/benfica/benfica-vence-villarreal-por-2-0-no-segundo-jogo-particular-no-algarve_d1754230",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9aab750ff66b0d45e9eb9e0e948fbfa4?w=350&amp;q=50&amp;rect=0,81,1184,649&amp;auto=format",
       "score": 0.73
     },
     {
@@ -209,17 +231,6 @@
       "date": "Fri, 17 Jul 2026 17:50:07 +0000",
       "url": "https://eco.sapo.pt/2026/07/17/notas-dos-exames-do-nono-ano-ja-nao-serao-afixadas-esta-sexta-feira/",
       "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc2026061747301409pet-0043.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8c33c019",
-      "cat": "ciencia",
-      "title": "Que tipo de procrastinador você é – e como consertar isso agora (não mais tarde)",
-      "summary": "Os nove tipos de estagnação que os pesquisadores dizem podem revelar algo mais profundo sobre nós e por que nem sempre é ruim.",
-      "source": "BBC News",
-      "date": "Fri, 17 Jul 2026 11:09:00 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cpv3eky4w2do?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00b0/live/f29dcd70-7bae-11f1-9b70-93a7d5047ee3.jpg",
       "score": 0.73
     },
     {
@@ -245,47 +256,58 @@
       "score": 0.73
     },
     {
-      "id": "42a89e53",
-      "cat": "tecnologia",
-      "title": "Governo sem estado de graça no debate sobre o estado da governação",
-      "summary": "Sónia Sapage modera o último episódio antes das férias do Verão, no qual participam Susete Francisco, David Santiago, São José Almeida.",
+      "id": "119dc0fb",
+      "cat": "geral",
+      "title": "Grandiosas Festas do Mártir São Sebastião evacuadas devido a fuga de amoníaco",
+      "summary": "A fuga de amoníaco, entretanto controlada, deu-se num tanque na Docapesca em Matosinhos e fez um ferido ligeiro.",
       "source": "Público",
-      "date": "Fri, 17 Jul 2026 17:28:00 GMT",
-      "url": "https://www.publico.pt/2026/07/17/politica/noticia/governo-estado-graca-debate-estado-governacao-2182041",
+      "date": "Sat, 18 Jul 2026 01:46:02 GMT",
+      "url": "https://www.publico.pt/2026/07/18/local/noticia/grandiosas-festas-martir-sao-sebastiao-evacuadas-devido-fuga-amoniaco-2182186",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "d143fac8",
-      "cat": "cultura",
-      "title": "Cultas e Vinho Verde com Mariana Duarte Silva",
-      "summary": "Duas mulheres e um copo de vinho. O início perfeito para uma conversa sobre a vida, cultura, histórias e pensamento.",
-      "source": "Público",
-      "date": "Fri, 17 Jul 2026 17:26:06 GMT",
-      "url": "https://www.publico.pt/2026/07/17/impar/noticia/cultas-vinho-verde-mariana-duarte-silva-2182153",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "48630965",
+      "id": "62328521",
       "cat": "tecnologia",
-      "title": "À porta de uma escola em Matosinhos, os alunos não acreditam que as notas cheguem hoje",
-      "summary": "Alunos vão passando pelas escolas na expectativa de ver as notas publicadas. Mas ainda nada. E há quem já não acredite que sejam afixadas hoje. Director admite manter portões abertos até à meia-noite.",
-      "source": "Público",
-      "date": "Fri, 17 Jul 2026 17:07:46 GMT",
-      "url": "https://www.publico.pt/2026/07/17/sociedade/reportagem/porta-escola-matosinhos-alunos-nao-acreditam-notas-cheguem-hoje-2182127",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "b0951880",
-      "cat": "tecnologia",
-      "title": "\"Tenho dúvidas que ministro tenha condições para continuar\"",
-      "summary": "Alexandra Leitão diz que problema dos exames nacionais é situação mais grave em 30 anos e sugere que ministro deve sair no fim do processo dos exames. Diz ser prematuro dizer se é candidata em 2029.",
+      "title": "1h. Fuga de amoníaco em festa nas Docas de Leixões",
+      "summary": "Há registo de um ferido ligeiro. Recinto do evento foi evacuado. Ainda, PCP critica a falta de respostas do ministro da Educação sobre os alunos com as notas dos exames nacionais suspensas.",
       "source": "Observador",
-      "date": "Fri, 17 Jul 2026 18:30:44 +0100",
-      "url": "https://observador.pt/especiais/alexandra-leitao-tenho-muitas-duvidas-que-fernando-alexandre-tenha-condicoes-para-continuar/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:288/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/19115123/jporfirio-debate-radio-observador-cmlisboa-autarquicas-19-09-01-27-scaled.jpg",
+      "date": "Sat, 18 Jul 2026 01:14:03 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2327/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "e89cc6bc",
+      "cat": "tecnologia",
+      "title": "PS: MAI deve dar explicações \"de forma clara e inequívoca\"",
+      "summary": "O secretário-geral do PS diz que a autoridade do ministro da Administração Interna \"não pode estar maculada\" e que os factos recentes \"têm gravidade\".",
+      "source": "Observador",
+      "date": "Sat, 18 Jul 2026 00:41:33 +0100",
+      "url": "https://observador.pt/2026/07/18/carneiro-diz-que-luis-neves-deve-dar-explicacoes-de-forma-clara-e-inequivoca/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:96/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15125511/47268256.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "bfca4e16",
+      "cat": "tecnologia",
+      "title": "PR moçambicano reitera abertura para dialogar com a Galp",
+      "summary": "Presidente moçambicano diz, na sua visita oficial a Portugal, considerar o diálogo a melhor maneira de resolver o litígio. Afirmou ainda respeitar \"as leis e as decisões das instituições\" como a Galp.",
+      "source": "Observador",
+      "date": "Sat, 18 Jul 2026 00:32:28 +0100",
+      "url": "https://observador.pt/2026/07/18/presidente-mocambicano-reitera-abertura-para-dialogar-com-a-galp-face-ao-diferendo-fiscal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17202153/47465360.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "1ad91d33",
+      "cat": "economia",
+      "title": "Resultados dos exames foram divulgados mas nem todos souberam as notas",
+      "summary": "Alguns alunos estavam desde das 15:00 à espera de ver as notas que só chegaram às 21:00, aguardando pelos resultados com amigos e esperando que as classificações atingissem as expectativas.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 17 Jul 2026 23:50:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/resultados-dos-exames-foram-divulgados-mas-nem-todos-souberam-as-notas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-18-00-06-35-526854.jpg",
       "score": 0.7
     },
     {
@@ -308,28 +330,6 @@
       "date": "Tue, 09 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "5bee7b7b",
-      "cat": "tecnologia",
-      "title": "Pogacar confirma que há \"muitas possibilidades\" de estar na Volta a Espanha",
-      "summary": "Tadej Pogacar confirmou que há &quot;muitas possibilidades&quot; que esteja na Volta a Espanha em bicicleta, à qual regressaria depois de ter sido terceiro em 2019 e na qual teria a companhia do seu colega português João Almeida.",
-      "source": "RTP",
-      "date": "Fri, 17 Jul 2026 20:17:01 +0100",
-      "url": "https://www.rtp.pt/noticias/ciclismo/pogacar-confirma-que-ha-muitas-possibilidades-de-estar-na-volta-a-espanha_d1754186",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/13/1384e171dde40af3046634a4659671a9?w=350&amp;q=50&amp;rect=0,86,1175,644&amp;auto=format",
-      "score": 0.7
-    },
-    {
-      "id": "7e51cb47",
-      "cat": "tecnologia",
-      "title": "18h30 Jhon Durán negociado pelo Benfica",
-      "summary": "",
-      "source": "RTP",
-      "date": "Fri, 17 Jul 2026 19:52:02 +0100",
-      "url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-jhon-duran-negociado-pelo-benfica_a1_1754183",
-      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.7
     }
   ]
