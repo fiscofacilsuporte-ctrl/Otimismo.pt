@@ -1,5 +1,5 @@
 {
-  "last_update": "19/07/2026 13:40 UTC",
+  "last_update": "19/07/2026 19:16 UTC",
   "total": 30,
   "news": [
     {
@@ -28,7 +28,7 @@
       "id": "e6352e1c",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: a líder ecológica Estônia e mais",
-      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais The post O que correu bem esta semana: a líder ecológica Estónia, e mais apareceu primeiro em Positive News.",
+      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais",
       "source": "Positive News",
       "date": "Fri, 10 Jul 2026 05:07:49 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
@@ -47,28 +47,6 @@
       "score": 0.82
     },
     {
-      "id": "5a409a98",
-      "cat": "tecnologia",
-      "title": "Mundial2026: Campeão recebe prémio recorde de 50 milhões de dólares",
-      "summary": "A final do campeonato do mundo disputa-se este domingo entre Espanha e Argentina. O segundo classificado receberá 33 milhões de dólares (28,8 milhões de euros), o terceiro classificado 29 milhões de dólares.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 19 Jul 2026 10:29:42 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/mundial2026-campeao-recebe-premio-recorde-de-50-milhoes-de-dolares",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-19-10-27-50-526860.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "e68eb18b",
-      "cat": "tecnologia",
-      "title": "Inglaterra vence a França e conquista o bronze no Mundial2026",
-      "summary": "Numa das partidas mais eletrizantes da história do futebol, a Inglaterra venceu a França por 6-4 no Estádio de Miami, nos Estados Unidos, conquistando a medalha de bronze do Mundial de 2026.",
-      "source": "RTP",
-      "date": "Sat, 18 Jul 2026 21:29:29 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/inglaterra-vence-a-franca-e-conquista-o-bronze-no-mundial2026_e1754367",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/20/2093fdef1294248ff88828c60f19021b?w=350&amp;q=50&amp;rect=0,116,1232,675&amp;auto=format",
-      "score": 0.79
-    },
-    {
       "id": "0072ee89",
       "cat": "ciencia",
       "title": "Loção caseira de erva-de-gato prova ser um repelente eficaz de mosquitos na zona rural de Uganda",
@@ -80,6 +58,17 @@
       "score": 0.79
     },
     {
+      "id": "3480c39c",
+      "cat": "ciencia",
+      "title": "Um pequeno universo numa garrafa revela pistas sobre as origens da vida",
+      "summary": "Os pesquisadores criaram poeira cósmica do zero, recriando condições semelhantes às do espaço dentro de tubos de vidro. A poeira contém moléculas complexas ricas em carbono construídas a partir de elementos essenciais à vida e produz sinais infravermelhos semelhantes aos materiais reais encontrados no espaço. Ao estudar essas amostras de laboratório,",
+      "source": "ScienceDaily",
+      "date": "Sun, 19 Jul 2026 09:10:21 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
+      "img": "https://www.sciencedaily.com/images/1920/universe-in-bottle.webp",
+      "score": 0.79
+    },
+    {
       "id": "c76c0323",
       "cat": "tecnologia",
       "title": "Espanha quer conquistar o Mundial pela segunda vez",
@@ -88,17 +77,6 @@
       "date": "Sun, 19 Jul 2026 14:13:47 +0100",
       "url": "https://www.rtp.pt/noticias/desporto/espanha-quer-conquistar-o-mundial-pela-segunda-vez_v1754452",
       "img": "https://cdn-images.rtp.pt/icm/images/fe/fe4edf364c8bbe89e222b5770943b0fe_N.jpg?",
-      "score": 0.76
-    },
-    {
-      "id": "98e24fd4",
-      "cat": "tecnologia",
-      "title": "Kimi Antonelli conquista pole position para o GP da Bélgica de Fórmula 1",
-      "summary": "O italiano Kimi Antonelli (Mercedes) conquistou hoje a pole position para o Grande Prémio da Bélgica de Fórmula 1, ao ser o mais rápido na qualificação disputada no circuito de Spa-Francorchamps.",
-      "source": "RTP",
-      "date": "Sat, 18 Jul 2026 18:26:00 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-conquista-pole-position-para-o-gp-da-belgica-de-formula-1_d1754357",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ed/edab3c0942cf3094ecc971cefcccb5e6?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
@@ -135,47 +113,69 @@
       "score": 0.76
     },
     {
-      "id": "8819c00e",
-      "cat": "cultura",
-      "title": "Espanha consegue contornar a garra da Argentina?",
-      "summary": "Espanha quer surpreender a Argentina num jogo que se espera “amarrado”. França lamenta péssima primeira parte com Mbappé a quebrar recordes e Saka inspirado. Sporting perde o cérebro do “tiki-tasca”.",
-      "source": "Observador",
-      "date": "Sun, 19 Jul 2026 12:40:34 +0100",
-      "url": "https://observador.pt/programas/e-o-campeao-e/espanha-consegue-contornar-a-garra-da-argentina/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1c6e588a",
+      "id": "69eda273",
       "cat": "tecnologia",
-      "title": "12h. Estudantes lançam movimento crítico do Ministério",
-      "summary": "O movimento “Isto é Gozar com Quem Estuda” vai para além dos recentes problemas em torno dos exames nacionais. Ainda, Keir Starmer deve apresentar amanhã a demissão do cargo de primeiro-ministro.",
-      "source": "Observador",
-      "date": "Sun, 19 Jul 2026 12:11:58 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2391/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "“Se o primeiro-ministro pôs a cabeça no cepo, sujeita-se”: Raimundo não descarta moção de censura ao Governo",
+      "summary": "Raimundo disse que as recentes polémicas envolvendo os ministros da Educação e da Administração Interna se juntam ao desempenho de outros membros do Governo",
+      "source": "Público",
+      "date": "Sun, 19 Jul 2026 16:13:43 GMT",
+      "url": "https://www.publico.pt/2026/07/19/politica/noticia/primeiroministro-pos-cabeca-cepo-sujeitase-raimundo-nao-descarta-mocao-censura-governo-2182288",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "5e9d2d9c",
-      "cat": "economia",
-      "title": "Fundos ativos cotados em bolsa a são nova coqueluche do investimento",
-      "summary": "Os ETF de gestão passiva, que apenas replicam desempenhos, já quase são “coisa do passado”. A grande aposta está agora em gerir ativamente estes fundos, de modo a que superem a performance do mercado visado.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 19 Jul 2026 14:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/fundos-ativos-cotados-em-bolsa-a-sao-nova-coqueluche-do-investimento",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-11-07-46-26-518206.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ab77172b",
+      "id": "7804eca7",
       "cat": "tecnologia",
-      "title": "Disputa fiscal de Shakira em Espanha coloca bónus do Fisco sob escrutínio",
-      "summary": "Fisco espanhol solicitou ao Supremo Tribunal do país que revisse a decisão de anular 63 milhões de dívidas fiscais. Cantora colombiana dedicou a vitória aos cidadãos e abriu um intenso debate.",
+      "title": "Milhares de euros e loucuras: o preço da presença no Mundial",
+      "summary": "Nem todo o sacrifício se mede em euros. Houve quem vendesse o carro e percorresse 14 mil quilómetros de mota sem bilhete garantido e quem ainda vendesse uma casa para financiar a sua presença nos EUA.",
+      "source": "Observador",
+      "date": "Sun, 19 Jul 2026 19:59:00 +0100",
+      "url": "https://observador.pt/2026/07/19/seis-cartoes-esgotados-uma-casa-vendida-e-a-avo-no-pensamento-o-verdadeiro-preco-da-final-do-mundial/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:311/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19192508/gettyimages-2286695988-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "b38272e7",
+      "cat": "geral",
+      "title": "Concentração motard de Faro com 17 mil com balanço positivo",
+      "summary": "A 44.ª Concentração Internacional de Motos de Faro, que começou na quinta-feira, no Vale das Almas, em Faro, chegou ao fim com o tradicional desfile de motos, na manhã deste domingo.",
+      "source": "Observador",
+      "date": "Sun, 19 Jul 2026 18:41:10 +0100",
+      "url": "https://observador.pt/2026/07/19/concentracao-de-motos-de-faro-com-17-mil-pessoas-encerra-com-balanco-positivo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:129/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/17133013/43250549.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "2620098f",
+      "cat": "tecnologia",
+      "title": "CEO do Vila Galé: “O licenciamento demora mais do que a execução de um hotel”",
+      "summary": "A vontade de expandir a pegada do Vila Galé é grande, seja em Portugal ou noutros pontos do globo. Por cá, a demora nos licenciamentos é um “constrangimento” e lá fora há projetos em andamento, nomeadamente no Brasil. Em Espanha não há procura ativa, mas entrada em Cabo Verde seria “o sonho”.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 19 Jul 2026 13:30:04 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/disputa-fiscal-de-shakira-em-espanha-coloca-bonus-do-fisco-sob-escrutinio",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-19-13-28-56-526861.jpg",
+      "date": "Sun, 19 Jul 2026 18:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/ceo-do-vila-gale-o-licenciamento-demora-mais-do-que-a-execucao-de-um-hotel",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-17-16-56-11-526837.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0e5dc473",
+      "cat": "tecnologia",
+      "title": "A amizade aguenta um contrato?",
+      "summary": "Uma parceria pode terminar sem que uma amizade tenha de acabar. Porque um contrato organiza trabalho. Não devia definir relações.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 19 Jul 2026 18:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-amizade-aguenta-um-contrato",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-01/img_394x514uu2025-01-07-15-32-00-493636.png",
+      "score": 0.73
+    },
+    {
+      "id": "ada72f43",
+      "cat": "tecnologia",
+      "title": "A sua semana dia a dia: Juros do BCE, uma parede de dívida, novas contas e o “fim” das taxas de Trump",
+      "summary": "A semana está repleta de novos dados e contas, tanto por cá – com as cotadas do PSI a começarem a divulgar resultados – como lá fora. Portugal devolve 9 mil milhões em dívida e, no Reino Unido, Burnham deverá tomar posse como primeiro-ministro. E termina prazo para tarifas globais de 10% da Administ",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 19 Jul 2026 18:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/a-sua-semana-dia-a-dia-juros-do-bce-uma-parede-de-divida-novas-contas-e-o-fim-das-taxas-de-trump",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-14-18-19-00-522025.png",
       "score": 0.73
     },
     {
@@ -190,6 +190,50 @@
       "score": 0.73
     },
     {
+      "id": "f3ac6103",
+      "cat": "tecnologia",
+      "title": "Borges abre com Luz, Rocha com Martinez e Pereira com Bueno",
+      "summary": "Os tenistas portugueses Nuno Borges, Henrique Rocha e Tiago Pereira ficaram hoje a conhecer os primeiros adversários da ronda inaugural da 11.ª edição do Estoril Open, a decorrer até domingo no Clube de Ténis do Estoril.",
+      "source": "RTP",
+      "date": "Sun, 19 Jul 2026 19:17:27 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/borges-abre-com-luz-rocha-com-martinez-e-pereira-com-bueno_d1754486",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/62/62bce7d9fe557f0336c6e61499d1ed4b?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "661ab34f",
+      "cat": "desporto",
+      "title": "Tour. Jonas Vingegaard desiste após queda aparatosa na 15.ª etapa",
+      "summary": "Jonas Vingegaard, segundo classificado da geral e campeão em 2022 e 2023, desistiu este domingo da 113.ª Volta a França em bicicleta, após sofrer uma queda durante a 15.ª etapa.",
+      "source": "RTP",
+      "date": "Sun, 19 Jul 2026 17:20:40 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/tour-jonas-vingegaard-desiste-apos-queda-aparatosa-na-15a-etapa_d1754474",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/42/42dc5b169756a019ca3495b17cb64a32?w=350&amp;q=50&amp;rect=0,31,1211,664&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "11f2a16f",
+      "cat": "tecnologia",
+      "title": "Mulemba Re: Primeira resseguradora de Angola junta 12 companhias e fundo soberano",
+      "summary": "A Mulemba Re – Companhia Angolana de Resseguros tornou-se a primeira resseguradora nacional de Angola, um passo considerado histórico para o desenvolvimento do mercado segurador do país. Com um capital social de 15 mil milhões de kwanzas (14,3 milhões de euros) e uma estrutura acionista dominada pel",
+      "source": "ECO",
+      "date": "Sun, 19 Jul 2026 15:14:51 +0000",
+      "url": "https://eco.sapo.pt/2026/07/19/mulemba-re-primeira-resseguradora-de-angola-junta-12-companhias-e-fundo-soberano/",
+      "img": "https://eco.imgix.net/uploads/2020/10/cropped-carlosduarte_ensasegurosangola-3.png",
+      "score": 0.73
+    },
+    {
+      "id": "a7f33bfb",
+      "cat": "tecnologia",
+      "title": "Carneiro sugere prazo alargado para acesso ao Superior",
+      "summary": "O secretário-geral do PS considerou urgente que o primeiro-ministro e o Governo se reúnam com o Conselho de Reitores e defendeu que, perante &#8220;a atual instabilidade&#8221;, deverá ponderar-se um prolongamento do prazo de candidatura ao Ensino Superior. Em declarações à agência Lusa, José Luís C",
+      "source": "ECO",
+      "date": "Sun, 19 Jul 2026 15:11:44 +0000",
+      "url": "https://eco.sapo.pt/2026/07/19/carneiro-sugere-prazo-alargado-para-acesso-ao-superior/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47405327-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
       "id": "af2bb6ee",
       "cat": "tecnologia",
       "title": "Chubb e Hispania lançam seguro para habitações de luxo",
@@ -198,28 +242,6 @@
       "date": "Sun, 19 Jul 2026 11:30:08 +0000",
       "url": "https://eco.sapo.pt/2026/07/19/chubb-e-hispania-lancam-seguro-para-habitacoes-de-luxo/",
       "img": "https://eco.imgix.net/uploads/2024/12/luxo2-800.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "2c28a3d2",
-      "cat": "tecnologia",
-      "title": "Mundial chega ao fim no domingo com duelo Espanha X Argentina. Saiba onde o pode ver",
-      "summary": "Após mais de um mês de competição, o Mundial de futebol despede-se este fim de semana. Esta edição &#8212; a primeira com 48 seleções, um recorde absoluto de 104 jogos e que já acumula mais de 41 milhões de telespectadores em Portugal &#8212; culmina num duelo de países de língua espanhola: Espanha,",
-      "source": "ECO",
-      "date": "Sun, 19 Jul 2026 08:47:05 +0000",
-      "url": "https://eco.sapo.pt/2026/07/19/mundial-chega-ao-fim-no-domingo-com-duelo-espanha-x-argentina-saiba-onde-o-pode-ver/",
-      "img": "https://eco.imgix.net/uploads/2026/07/final-mundial-2000x1125-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1258d62f",
-      "cat": "tecnologia",
-      "title": "Novo PM britânico abandona cartão cidadão digital",
-      "summary": "O futuro primeiro-ministro britânico, Andy Burnham, vai abandonar o projeto de cartão de cidadão digital à escala nacional, o qual tinha sido anunciado em setembro pelo seu antecessor, indicou um porta-voz. Keir Starmer, que deixa as suas funções na segunda-feira, tinha anunciado este projeto para c",
-      "source": "ECO",
-      "date": "Sun, 19 Jul 2026 08:03:09 +0000",
-      "url": "https://eco.sapo.pt/2026/07/19/novo-pm-britanico-abandona-cartao-cidadao-digital/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47478154-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +278,14 @@
       "score": 0.73
     },
     {
-      "id": "b63d8f7a",
-      "cat": "tecnologia",
-      "title": "Seus dedos podem conter um segredo da evolução do cérebro humano",
-      "summary": "Um estudo realizado com 225 recém-nascidos sugere que o estrogênio pré-natal pode ter desempenhado um papel na evolução de cérebros humanos maiores. Os meninos com padrões de comprimento dos dedos associados a uma maior exposição ao estrogênio antes do nascimento tendem a ter perímetros cefálicos maiores, que estão fortemente associados ao tamanho do cérebro. O mesmo cone",
+      "id": "b1321a7a",
+      "cat": "ciencia",
+      "title": "O misterioso zumbido ouvido em todo o mundo pode finalmente ter uma explicação",
+      "summary": "O misterioso som conhecido como The Hum tem sido relatado em todo o mundo há décadas, mas a sua fonte muitas vezes permanece impossível de encontrar. Os pesquisadores testaram se as pessoas que ouvem têm uma audição excepcional de baixa frequência ou sons mensuráveis ​​produzidos dentro de seus ouvidos, mas nenhuma explicação se encaixa na maioria das partes.",
       "source": "ScienceDaily",
-      "date": "Fri, 17 Jul 2026 08:02:39 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
-      "img": "https://www.sciencedaily.com/images/1920/different-finger-length-ring-index.webp",
-      "score": 0.73
-    },
-    {
-      "id": "0532f9b5",
-      "cat": "tecnologia",
-      "title": "Cientistas acabam de descobrir um ramo perdido dos marsupiais da Austrália",
-      "summary": "Fósseis de Queensland sugerem que uma ordem marsupial recentemente reconhecida pode ter sobrevivido na Austrália durante cerca de 35 milhões de anos, reescrevendo parte da história de como evoluíram os mamíferos únicos do continente. A descoberta desafia a ideia de que todos os marsupiais da Austrália vieram de uma única espécie.",
-      "source": "ScienceDaily",
-      "date": "Sun, 19 Jul 2026 01:53:59 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083546.htm",
-      "img": "https://www.sciencedaily.com/images/1920/keeunamorphia.webp",
+      "date": "Sun, 19 Jul 2026 08:07:13 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+      "img": "https://www.sciencedaily.com/images/1920/the-hum-phenomenon.webp",
       "score": 0.73
     },
     {
@@ -300,35 +311,24 @@
       "score": 0.73
     },
     {
-      "id": "b8d1d533",
+      "id": "21c87ffc",
       "cat": "tecnologia",
-      "title": "Presidente da Hungria assinou a revisão constitucional que o afasta do cargo",
-      "summary": "A revisão constitucional determina a cessação imediata do mandato de Tamás Sulyok, alegando “grave perda de confiança”. A presidente do Parlamento, Ágnes Forsthoffer, assumirá o cargo interinamente.",
+      "title": "MP diz que promotor do Hilton anexou terreno com rua pública em Cascais para manter sete pisos. E câmara aceitou",
+      "summary": "Acção que deu entrada em tribunal pede a nulidade dos actos administrativos e contratos que permitiram a construção do hotel. MP pede a demolição de três pisos. Câmara diz que não foi citada.",
       "source": "Público",
-      "date": "Sun, 19 Jul 2026 12:44:05 GMT",
-      "url": "https://www.publico.pt/2026/07/19/mundo/noticia/presidente-hungria-assinou-revisao-constitucional-afasta-cargo-2182268",
+      "date": "Sun, 19 Jul 2026 18:40:27 GMT",
+      "url": "https://www.publico.pt/2026/07/19/sociedade/noticia/ministerio-publico-promotor-hilton-anexou-terreno-rua-publica-manter-sete-pisos-camara-aceitou-2182297",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "7993ead7",
-      "cat": "geral",
-      "title": "A grande final",
-      "summary": "Na final da Copa, EUA e Israel substituem misteriosamente Espanha e Argentina. Entre a censura e o espanto, o espetáculo vence o absurdo. Crónica de Mário Araújo",
-      "source": "Público",
-      "date": "Sun, 19 Jul 2026 12:04:16 GMT",
-      "url": "https://www.publico.pt/2026/07/19/publico-brasil/cronica/final-2182256",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "23ae6e6f",
+      "id": "8123cb45",
       "cat": "tecnologia",
-      "title": "J.D. Vance vai mudar-se para enclave de luxo perto de Washington e os vizinhos já se estão a queixar",
-      "summary": "Middleburg, o subúrbio tranquilo onde os Kennedy tinham casa, Elizabeth Taylor viveu e onde o actor Robert Duvall morreu temem a chegada do reboliço dos serviços secretos e a atenção mediática.",
+      "title": "Caixa Geral de Depósitos mantém ritmo de contratações com a IA",
+      "summary": "Macedo anunciou contratação de 1000 trabalhadores em cinco anos, o que segue a média anual até aqui. Saídas também são para continuar. Inteligência artificial e dados são áreas de aposta.",
       "source": "Público",
-      "date": "Sun, 19 Jul 2026 12:02:38 GMT",
-      "url": "https://www.publico.pt/2026/07/19/mundo/reportagem/jd-vance-vai-mudarse-enclave-luxo-perto-washington-vizinhos-ja-estao-queixar-2182265",
+      "date": "Sun, 19 Jul 2026 18:00:00 GMT",
+      "url": "https://www.publico.pt/2026/07/19/economia/noticia/caixa-geral-depositos-mantem-ritmo-contratacoes-ia-2181982",
       "img": null,
       "score": 0.7
     }
