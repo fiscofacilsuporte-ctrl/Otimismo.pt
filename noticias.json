@@ -1,5 +1,5 @@
 {
-  "last_update": "18/07/2026 19:14 UTC",
+  "last_update": "19/07/2026 03:35 UTC",
   "total": 30,
   "news": [
     {
@@ -28,7 +28,7 @@
       "id": "e6352e1c",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: a líder ecológica Estônia e mais",
-      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais The post O que correu bem esta semana: a líder ecológica Estónia, e mais apareceu primeiro em Positive News.",
+      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais",
       "source": "Positive News",
       "date": "Fri, 10 Jul 2026 05:07:49 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
@@ -47,14 +47,14 @@
       "score": 0.82
     },
     {
-      "id": "e0b7e870",
+      "id": "e68eb18b",
       "cat": "tecnologia",
-      "title": "União Europeia proibiu a destruição de roupa não vendida",
-      "summary": "De acordo com as novas regras, as empresas terão de privilegiar a manutenção dos produtos em utilização, através da venda, doação a instituições de solidariedade social ou empresas sociais.",
-      "source": "Público",
-      "date": "Sat, 18 Jul 2026 18:02:00 GMT",
-      "url": "https://www.publico.pt/2026/07/18/azul/noticia/uniao-europeia-proibiu-destruicao-roupa-nao-vendida-2182089",
-      "img": null,
+      "title": "Inglaterra vence a França e conquista o bronze no Mundial2026",
+      "summary": "Numa das partidas mais eletrizantes da história do futebol, a Inglaterra venceu a França por 6-4 no Estádio de Miami, nos Estados Unidos, conquistando a medalha de bronze do Mundial de 2026.",
+      "source": "RTP",
+      "date": "Sat, 18 Jul 2026 21:29:29 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/inglaterra-vence-a-franca-e-conquista-o-bronze-no-mundial2026_e1754367",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/20/2093fdef1294248ff88828c60f19021b?w=350&amp;q=50&amp;rect=0,116,1232,675&amp;auto=format",
       "score": 0.79
     },
     {
@@ -69,14 +69,14 @@
       "score": 0.79
     },
     {
-      "id": "65602695",
+      "id": "5fac22b5",
       "cat": "tecnologia",
-      "title": "Plataforma de visitas virtuais a museus e monumentos já está disponível",
-      "summary": "O portal permite fazer pesquisas por tema, localização ou período histórico, apresenta 232 tesouros nacionais e disponibiliza 67 visitas virtuais a 90 espaços patrimoniais em 45 concelhos de 17 distritos do país.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 18 Jul 2026 12:36:48 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/plataforma-de-visitas-virtuais-a-museus-e-monumentos-ja-esta-disponivel",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-11/img_100x100uu2025-11-04-13-27-03-512450.jpg",
+      "title": "1h. Mundial 2026. Inglaterra conquista o terceiro lugar",
+      "summary": "Seleção inglesa venceu França por 6-4 e conquista o bronze no Mundial. Ainda, Júri Nacional de Exames e EduQA garantem que as pautas completas estão prontas e serão afixadas a partir deste domingo.",
+      "source": "Observador",
+      "date": "Sun, 19 Jul 2026 01:17:49 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2328/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.76
     },
     {
@@ -94,7 +94,7 @@
       "id": "54f7cff4",
       "cat": "tecnologia",
       "title": "Boas novas na história, 17 de Julho",
-      "summary": "Hoje, há 70 anos, a comédia musical da MGM High Society foi lançada. Estrelado por Bing Crosby e um jovem Frank Sinatra, foi a primeira vez que a dupla colaborou. Foi um remake musical de Philadelphia Story e foi o último papel da protagonista Grace Kelly antes de ela deixar Hollywood para se tornar",
+      "summary": "Hoje, há 70 anos, a comédia musical da MGM High Society foi lançada. Estrelado por Bing Crosby e o jovem Frank Sinatra, foi a primeira vez que a dupla colaborou. Foi um remake musical de Philadelphia Story e foi o último papel da protagonista Grace Kelly antes de ela deixar Hollywood para se tornar",
       "source": "Good News Network",
       "date": "Fri, 17 Jul 2026 07:00:00 +0000",
       "url": "https://www.goodnewsnetwork.org/events060717/",
@@ -124,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "2be64b86",
+      "cat": "tecnologia",
+      "title": "Antidepressivo comum pode aliviar a fadiga esmagadora do COVID",
+      "summary": "Um antidepressivo de baixo custo pode oferecer uma nova esperança para as pessoas que lutam contra a fadiga prolongada do COVID. Num ensaio clínico randomizado envolvendo 399 adultos, a fluvoxamina reduziu significativamente a fadiga e melhorou a qualidade de vida em comparação com um placebo, tornando-se um dos primeiros medicamentos a mostrar benefícios significativos.",
+      "source": "ScienceDaily",
+      "date": "Sat, 18 Jul 2026 21:55:33 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
+      "img": "https://www.sciencedaily.com/images/1920/tired-woman-long-term-illness-fatigue.webp",
+      "score": 0.76
+    },
+    {
       "id": "25a1c000",
       "cat": "sociedade",
       "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
@@ -135,14 +146,58 @@
       "score": 0.76
     },
     {
-      "id": "5d1ce98c",
+      "id": "ca9be9a9",
+      "cat": "geral",
+      "title": "José Carlos Pinto bate recorde nacional dos 5000 metros",
+      "summary": "Fundista de 29 anos superou uma marca que vigorava desde 1998, ao ganhar o meeting Nacht van de Atletiek, na Bélgica.",
+      "source": "Público",
+      "date": "Sun, 19 Jul 2026 01:46:23 GMT",
+      "url": "https://www.publico.pt/2026/07/19/desporto/noticia/jose-carlos-pinto-bate-recorde-nacional-5000-metros-2182252",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "5d31c888",
       "cat": "tecnologia",
-      "title": "19h. Exames. Provedoria da Justiça pede ponto de situação",
-      "summary": "A Provedoria querer também saber quais as medidas pensadas para contornar os problemas na segunda fase das provas. Ainda, PCP culpa primeiro-ministro pelos problemas registados na correção dos exames.",
+      "title": "Râguebi: Portugal soma a segunda vitória na Nations Cup",
+      "summary": "Num jogo disputado no Canadá, a selecção portuguesa derrotou Tonga, por 32-28, na terceira jornada da nova competição da World Rugby.",
+      "source": "Público",
+      "date": "Sun, 19 Jul 2026 01:35:54 GMT",
+      "url": "https://www.publico.pt/2026/07/19/desporto/noticia/raguebi-portugal-soma-segunda-vitoria-nations-cup-2182251",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "7d33f1ad",
+      "cat": "tecnologia",
+      "title": "A Inglaterra saiu consolada, a França salvou a face",
+      "summary": "Britânicos vencem por 6-4 e conseguem a sua segunda melhor classificação de sempre. “Bleus” inexistentes na primeira parte deram espectáculo na segunda e Mbappé ficou perto de ser o melhor marcador.",
+      "source": "Público",
+      "date": "Sat, 18 Jul 2026 23:09:20 GMT",
+      "url": "https://www.publico.pt/2026/07/19/desporto/cronica_de_jogo/inglaterra-saiu-consolada-franca-salvou-face-2182248",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "7bbafc7d",
+      "cat": "tecnologia",
+      "title": "Luís Neves: dissolução de um ministro",
+      "summary": "A casinha, mais as pequenas obras, transformavam Luís Neves em um de nós. O atrelado e o bidões fizeram dele uma pessoa com a qual não queremos ter nada a ver.",
       "source": "Observador",
-      "date": "Sat, 18 Jul 2026 19:15:33 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2126/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sun, 19 Jul 2026 00:25:38 +0100",
+      "url": "https://observador.pt/opiniao/luis-neves-dissolucao-de-um-ministro/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A814%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170545%2Fhelena-matos.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "2a87a482",
+      "cat": "sociedade",
+      "title": "Sem palavras",
+      "summary": "A previsão de uma sociedade pós-letrada não é nova. Está connosco desde os anos 60 e fundamentalmente pelas mesmas razões que temos hoje. Primeiro, a televisão; depois, a comunicação electrónica.",
+      "source": "Observador",
+      "date": "Sun, 19 Jul 2026 00:24:36 +0100",
+      "url": "https://observador.pt/opiniao/sem-palavras-3/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1843%3A1838%3Anowe%3A1084%3A166%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F06%2F23181612%2Fdventura-miguel-morgado-4-scaled.jpg",
       "score": 0.73
     },
     {
@@ -168,25 +223,14 @@
       "score": 0.73
     },
     {
-      "id": "98678ec0",
-      "cat": "desporto",
-      "title": "Josh Kerr bate recorde do mundo da milha que vigorava desde 1999",
-      "summary": "O britânico Josh Kerr estabeleceu sábado em 03.42,66 minutos o novo recorde da milha, em Londres, batendo a histórica marca do marroquino Hicham El Guerrouj, que remontava a 07 de julho de 1999.",
-      "source": "RTP",
-      "date": "Sat, 18 Jul 2026 18:41:10 +0100",
-      "url": "https://www.rtp.pt/noticias/atletismo/josh-kerr-bate-recorde-do-mundo-da-milha-que-vigorava-desde-1999_d1754358",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/36/3665379a11fc2756f548123ce6fcba2f?w=350&amp;q=50&amp;rect=0,120,1281,702&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "f736ec3f",
+      "id": "5c4acf04",
       "cat": "tecnologia",
-      "title": "Tadej Pogacar já tem quatro vitórias de etapa na 113.ª edição do Tour",
-      "summary": "Tadej Pogacar (UAE Emirates) somou sábado a quarta vitória na 113.ª Volta a França em bicicleta, ao atacar a mais de sete quilómetros da meta para impor-se na 14.ª etapa e aumentar a distância na liderança da geral.",
+      "title": "Sami Pajari perto da primeira vitória no WRC",
+      "summary": "O finlandês Sami Pajari (Toyota Yaris) terminou hoje o penúltimo dia do Rali da Estónia, nona prova do Mundial de ralis, na liderança, ficando mais perto de alcançar a primeira vitória da carreira no WRC.",
       "source": "RTP",
-      "date": "Sat, 18 Jul 2026 17:54:32 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/tadej-pogacar-ja-tem-quatro-vitorias-de-etapa-na-113a-edicao-do-tour_d1754353",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6ec03daecb5a1c3c037e13f2ed6d84c8?w=350&amp;q=50&amp;rect=0,39,1233,676&amp;auto=format",
+      "date": "Sat, 18 Jul 2026 23:24:13 +0100",
+      "url": "https://www.rtp.pt/noticias/ralis/sami-pajari-perto-da-primeira-vitoria-no-wrc_d1754392",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
@@ -267,47 +311,14 @@
       "score": 0.73
     },
     {
-      "id": "0862cf1b",
+      "id": "046c4718",
       "cat": "tecnologia",
-      "title": "Roças são-tomenses, do inferno de onde não se saía até ao reconhecimento mundial?",
-      "summary": "A partir deste domingo e até 29 de Julho reúne-se na Coreia do Sul o Comité do Património Mundial da UNESCO. Em Busan decidir-se-á se as roças são-tomenses são inscritas na lista.",
-      "source": "Público",
-      "date": "Sat, 18 Jul 2026 18:12:37 GMT",
-      "url": "https://www.publico.pt/2026/07/18/culturaipsilon/noticia/rocas-saotomenses-inferno-onde-nao-saia-ate-reconhecimento-mundial-2182207",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "18eae436",
-      "cat": "tecnologia",
-      "title": "Exames: Provedora de Justiça pede ao ministério ponto de situação sobre as notas",
-      "summary": "Provedoria salientou que as “circunstâncias e o contexto” que envolvem a realização das provas “têm sido objecto de várias queixas”, em particular sobre as condições de igualdade de acesso à 2.ª fase.",
-      "source": "Público",
-      "date": "Sat, 18 Jul 2026 18:06:14 GMT",
-      "url": "https://www.publico.pt/2026/07/18/sociedade/noticia/exames-provedora-justica-pede-ministerio-ponto-situacao-notas-2182239",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "9b10dfab",
-      "cat": "tecnologia",
-      "title": "Espanha resgata 86 migrantes que chegaram às Baleares",
-      "summary": "Guarda Civil, bombeiros e Cruz Vermelha mobilizados em operações distintas ao largo de Formentera, Cabrera e Maiorca. Chegadas irregulares ao arquipélago subiram 24,5% em 2025.",
-      "source": "Observador",
-      "date": "Sat, 18 Jul 2026 19:33:48 +0100",
-      "url": "https://observador.pt/2026/07/18/tres-embarcacoes-com-86-migrantes-subsaarianos-intercetadas-nas-baleares-numa-so-noite-arquipelago-ja-recebeu-3-385-este-ano/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18170752/47428128.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "44836f45",
-      "cat": "tecnologia",
-      "title": "Reservas de água nos 40% podem reduzir cortes em Almada",
-      "summary": "SMAS de Almada calculam a reserva média com base em sete reservatórios. Dois novos furos já reforçam a rede com mais 120 m³ de água por hora.",
-      "source": "Observador",
-      "date": "Sat, 18 Jul 2026 19:11:05 +0100",
-      "url": "https://observador.pt/2026/07/18/reservas-de-agua-em-almada-atingem-40-e-permitem-avaliar-reducao-dos-cortes-no-abastecimento/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:59/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18182431/47443870.jpg",
+      "title": "\"O verão no Algarve não está mais caro do que no ano passado\", afirma CEO do Vila Galé",
+      "summary": "O CEO do grupo hoteleiro aponta uma estabilização ao preço do turismo e que o Algarve sofreu um ajuste, embora não demasiado caro, devido ao \"reposicionamento\".",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 18 Jul 2026 21:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/o-verao-no-algarve-nao-esta-mais-caro-do-que-no-ano-passado-afirma-ceo-do-vila-gale",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-18-21-20-02-526857.jpg",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Sat, 18 Jul 2026 19:00:00 +0100",
       "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/spacex-ja-perdeu-1-biliao-de-dolares-em-valor-de-mercado",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-04-14-45-36-524830.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
