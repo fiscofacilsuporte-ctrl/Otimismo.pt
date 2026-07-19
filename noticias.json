@@ -1,5 +1,5 @@
 {
-  "last_update": "19/07/2026 08:29 UTC",
+  "last_update": "19/07/2026 13:40 UTC",
   "total": 30,
   "news": [
     {
@@ -47,6 +47,17 @@
       "score": 0.82
     },
     {
+      "id": "5a409a98",
+      "cat": "tecnologia",
+      "title": "Mundial2026: Campeão recebe prémio recorde de 50 milhões de dólares",
+      "summary": "A final do campeonato do mundo disputa-se este domingo entre Espanha e Argentina. O segundo classificado receberá 33 milhões de dólares (28,8 milhões de euros), o terceiro classificado 29 milhões de dólares.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 19 Jul 2026 10:29:42 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/mundial2026-campeao-recebe-premio-recorde-de-50-milhoes-de-dolares",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-19-10-27-50-526860.jpg",
+      "score": 0.79
+    },
+    {
       "id": "e68eb18b",
       "cat": "tecnologia",
       "title": "Inglaterra vence a França e conquista o bronze no Mundial2026",
@@ -69,14 +80,14 @@
       "score": 0.79
     },
     {
-      "id": "ccb8fe3c",
-      "cat": "ciencia",
-      "title": "A ciência ainda não dispensa os animais",
-      "summary": "O biotério, casa dos animais usados em investigação científica, não é o sombrio local tantas vezes imaginado. Os animais ainda são imprescindíveis, mas procura-se reduzir cada vez mais o seu uso.",
-      "source": "Público",
-      "date": "Sun, 19 Jul 2026 07:31:00 GMT",
-      "url": "https://www.publico.pt/2026/07/19/ciencia/noticia/ciencia-nao-dispensa-animais-2181467",
-      "img": null,
+      "id": "c76c0323",
+      "cat": "tecnologia",
+      "title": "Espanha quer conquistar o Mundial pela segunda vez",
+      "summary": "O título pode ser o culminar de um trajeto de sucesso nos últimos três anos.",
+      "source": "RTP",
+      "date": "Sun, 19 Jul 2026 14:13:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/espanha-quer-conquistar-o-mundial-pela-segunda-vez_v1754452",
+      "img": "https://cdn-images.rtp.pt/icm/images/fe/fe4edf364c8bbe89e222b5770943b0fe_N.jpg?",
       "score": 0.76
     },
     {
@@ -124,47 +135,47 @@
       "score": 0.76
     },
     {
-      "id": "4811d27e",
+      "id": "8819c00e",
       "cat": "cultura",
-      "title": "Com flamenco, A Garota Não e cantigas medievais, Monsaraz faz a festa",
-      "summary": "Na sua 26ª edição, a Bienal Cultural de Monsaraz começou uma nova vida, com programação de Miguel Abreu, do festival Todos. É o Alentejo à procura de construir novos públicos.",
-      "source": "Público",
-      "date": "Sun, 19 Jul 2026 07:36:00 GMT",
-      "url": "https://www.publico.pt/2026/07/19/culturaipsilon/reportagem/flamenco-garota-nao-cantigas-medievais-monsaraz-faz-festa-2182205",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "880b6957",
-      "cat": "tecnologia",
-      "title": "Dirigente da UP terá enviado caderno de encargo a concorrente meses antes de concurso ser lançado",
-      "summary": "Acusação da Procuradoria Europeia revela como antigo responsável da unidade de redes da Universidade do Porto terá favorecido uma teia de amigos com concursos feitos à medida.",
-      "source": "Público",
-      "date": "Sun, 19 Jul 2026 06:38:00 GMT",
-      "url": "https://www.publico.pt/2026/07/19/sociedade/noticia/dirigente-up-tera-enviado-caderno-encargo-concorrente-meses-concurso-lancado-2181857",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "1094dc66",
-      "cat": "tecnologia",
-      "title": "Como se calcula o cabaz de produtos essenciais? - Ouvintes",
-      "summary": "Nuno Garoupa, economista, responde às perguntas de dois ouvintes relacionadas com o desemprego jovem, o chamado cabaz de bens, que sobe e desce e ainda os números do INE sobre a população.",
+      "title": "Espanha consegue contornar a garra da Argentina?",
+      "summary": "Espanha quer surpreender a Argentina num jogo que se espera “amarrado”. França lamenta péssima primeira parte com Mbappé a quebrar recordes e Saka inspirado. Sporting perde o cérebro do “tiki-tasca”.",
       "source": "Observador",
-      "date": "Sun, 19 Jul 2026 06:02:45 +0100",
-      "url": "https://observador.pt/programas/fora-do-baralho/como-se-calcula-o-cabaz-de-produtos-essenciais-ouvintes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/04160736/770-podcast-fora-do-baralho-2025.jpg",
+      "date": "Sun, 19 Jul 2026 12:40:34 +0100",
+      "url": "https://observador.pt/programas/e-o-campeao-e/espanha-consegue-contornar-a-garra-da-argentina/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
       "score": 0.73
     },
     {
-      "id": "8494d043",
-      "cat": "cultura",
-      "title": "Greenleap: um gin português entre os melhores",
-      "summary": "Criado no Douro por Ana Cerqueira, o gin artesanal une território, memória e ambição portuguesa. O ouro abre o caminho.",
+      "id": "1c6e588a",
+      "cat": "tecnologia",
+      "title": "12h. Estudantes lançam movimento crítico do Ministério",
+      "summary": "O movimento “Isto é Gozar com Quem Estuda” vai para além dos recentes problemas em torno dos exames nacionais. Ainda, Keir Starmer deve apresentar amanhã a demissão do cargo de primeiro-ministro.",
+      "source": "Observador",
+      "date": "Sun, 19 Jul 2026 12:11:58 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2391/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "5e9d2d9c",
+      "cat": "economia",
+      "title": "Fundos ativos cotados em bolsa a são nova coqueluche do investimento",
+      "summary": "Os ETF de gestão passiva, que apenas replicam desempenhos, já quase são “coisa do passado”. A grande aposta está agora em gerir ativamente estes fundos, de modo a que superem a performance do mercado visado.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 18 Jul 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/greenleap-um-gin-portugues-entre-os-melhores",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-17-08-04-00-526778.jpg",
+      "date": "Sun, 19 Jul 2026 14:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/fundos-ativos-cotados-em-bolsa-a-sao-nova-coqueluche-do-investimento",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-11-07-46-26-518206.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ab77172b",
+      "cat": "tecnologia",
+      "title": "Disputa fiscal de Shakira em Espanha coloca bónus do Fisco sob escrutínio",
+      "summary": "Fisco espanhol solicitou ao Supremo Tribunal do país que revisse a decisão de anular 63 milhões de dívidas fiscais. Cantora colombiana dedicou a vitória aos cidadãos e abriu um intenso debate.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 19 Jul 2026 13:30:04 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/disputa-fiscal-de-shakira-em-espanha-coloca-bonus-do-fisco-sob-escrutinio",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-19-13-28-56-526861.jpg",
       "score": 0.73
     },
     {
@@ -179,14 +190,25 @@
       "score": 0.73
     },
     {
-      "id": "aa27a2be",
+      "id": "af2bb6ee",
       "cat": "tecnologia",
-      "title": "Memórias dos mundiais deste século",
-      "summary": "A história dos Campeonatos do Mundo de futebol no século XXI é marcada pelo surgimento de novos campeões, o domínio das seleções europeias e a transformação de Portugal numa presença constante na elite do futebol mundial.",
-      "source": "RTP",
-      "date": "Sun, 19 Jul 2026 08:43:19 +0100",
-      "url": "https://www.rtp.pt/noticias/mundial-2026/memorias-dos-mundiais-deste-seculo_d1754351",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/21/21bc10a9b6abe6ba4123841fc2e12cb4?w=350&amp;q=50&amp;rect=0,61,1157,634&amp;auto=format",
+      "title": "Chubb e Hispania lançam seguro para habitações de luxo",
+      "summary": "A Chubb fechou um acordo com a agência de subscrição Hispania para lançar em Portugal e Espanha o Masterpiece, produto que tem como alvo o segmento dos seguros para grandes patrimónios, para clientes com casas e bens de elevado valor. O objetivo do produto é acabar com a fragmentação: em vez de apól",
+      "source": "ECO",
+      "date": "Sun, 19 Jul 2026 11:30:08 +0000",
+      "url": "https://eco.sapo.pt/2026/07/19/chubb-e-hispania-lancam-seguro-para-habitacoes-de-luxo/",
+      "img": "https://eco.imgix.net/uploads/2024/12/luxo2-800.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "2c28a3d2",
+      "cat": "tecnologia",
+      "title": "Mundial chega ao fim no domingo com duelo Espanha X Argentina. Saiba onde o pode ver",
+      "summary": "Após mais de um mês de competição, o Mundial de futebol despede-se este fim de semana. Esta edição &#8212; a primeira com 48 seleções, um recorde absoluto de 104 jogos e que já acumula mais de 41 milhões de telespectadores em Portugal &#8212; culmina num duelo de países de língua espanhola: Espanha,",
+      "source": "ECO",
+      "date": "Sun, 19 Jul 2026 08:47:05 +0000",
+      "url": "https://eco.sapo.pt/2026/07/19/mundial-chega-ao-fim-no-domingo-com-duelo-espanha-x-argentina-saiba-onde-o-pode-ver/",
+      "img": "https://eco.imgix.net/uploads/2026/07/final-mundial-2000x1125-1.jpg",
       "score": 0.73
     },
     {
@@ -198,28 +220,6 @@
       "date": "Sun, 19 Jul 2026 08:03:09 +0000",
       "url": "https://eco.sapo.pt/2026/07/19/novo-pm-britanico-abandona-cartao-cidadao-digital/",
       "img": "https://eco.imgix.net/uploads/2026/07/cropped-47478154-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1658cbbf",
-      "cat": "ciencia",
-      "title": "“Trump já provocou muitos danos ao comércio mundial. Não devemos permitir que continue a fazê-lo”",
-      "summary": "Marcel Fratzscher, presidente do German Institute for Economic Research, conhecido por DIW Berlin, alerta para a dependência da China e dos Estados Unidos e diz que a prioridade da Europa deve ser investir nas pessoas, na inovação e numa política energética comum, mas considera que os governos conti",
-      "source": "ECO",
-      "date": "Sat, 18 Jul 2026 15:54:50 +0000",
-      "url": "https://eco.sapo.pt/entrevista/trump-ja-provocou-muitos-danos-ao-comercio-mundial-nao-devemos-permitir-que-continue-a-faze-lo/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-detail-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "deae1246",
-      "cat": "tecnologia",
-      "title": "Nos penhascos do Mondego nasce a solução para as cheias. Recuo de Girabolhos em 2016 custa 300 milhões",
-      "summary": "Mais de um milhão de euros de custo acrescido por mês, ao longo de 20 anos. Contas por alto, este é o acréscimo no custo da Barragem de Girabolhos, empreendimento no Rio Mondego que, afiança a Agência Portuguesa do Ambiente, teria evitado vários episódios de cheias na bacia do maior rio português. E",
-      "source": "ECO",
-      "date": "Sat, 18 Jul 2026 11:56:22 +0000",
-      "url": "https://eco.sapo.pt/reportagem/nos-penhascos-do-mondego-nasce-a-solucao-para-as-cheias-recuo-de-girabolhos-em-2016-custa-300-milhoes/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-girabolhos03.jpg",
       "score": 0.73
     },
     {
@@ -245,14 +245,14 @@
       "score": 0.73
     },
     {
-      "id": "8c33c019",
-      "cat": "ciencia",
-      "title": "Que tipo de procrastinador você é – e como consertar isso agora (não mais tarde)",
-      "summary": "Os nove tipos de estagnação que os pesquisadores dizem podem revelar algo mais profundo sobre nós e por que nem sempre é ruim.",
+      "id": "c8212b8a",
+      "cat": "desporto",
+      "title": "Da borra de café à cama de porquinhos-da-índia - os compostores mantêm tudo local",
+      "summary": "O desperdício de alimentos é um recurso como a água e deve ser mantido nas comunidades, dizem os defensores da compostagem.",
       "source": "BBC News",
-      "date": "Fri, 17 Jul 2026 11:09:00 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cpv3eky4w2do?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00b0/live/f29dcd70-7bae-11f1-9b70-93a7d5047ee3.jpg",
+      "date": "Sun, 19 Jul 2026 11:33:19 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c78y2q6ve04o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffa/live/58979d00-8031-11f1-926f-c90d1bcfbc84.png",
       "score": 0.73
     },
     {
@@ -300,36 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "cb94a9e5",
+      "id": "b8d1d533",
+      "cat": "tecnologia",
+      "title": "Presidente da Hungria assinou a revisão constitucional que o afasta do cargo",
+      "summary": "A revisão constitucional determina a cessação imediata do mandato de Tamás Sulyok, alegando “grave perda de confiança”. A presidente do Parlamento, Ágnes Forsthoffer, assumirá o cargo interinamente.",
+      "source": "Público",
+      "date": "Sun, 19 Jul 2026 12:44:05 GMT",
+      "url": "https://www.publico.pt/2026/07/19/mundo/noticia/presidente-hungria-assinou-revisao-constitucional-afasta-cargo-2182268",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "7993ead7",
       "cat": "geral",
-      "title": "Objetivos de Janeiro vs meio ano depois",
-      "summary": "Estamos a meio do ano e achámos que era altura de fazer um balanço honesto dos objetivos que definimos em janeiro.",
-      "source": "Observador",
-      "date": "Sun, 19 Jul 2026 08:05:48 +0100",
-      "url": "https://observador.pt/programas/amiga-faz-parte/objetivos-de-janeiro-vs-meio-ano-depois/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/16185608/770-podcast-amiga-faz-parte.jpg",
+      "title": "A grande final",
+      "summary": "Na final da Copa, EUA e Israel substituem misteriosamente Espanha e Argentina. Entre a censura e o espanto, o espetáculo vence o absurdo. Crónica de Mário Araújo",
+      "source": "Público",
+      "date": "Sun, 19 Jul 2026 12:04:16 GMT",
+      "url": "https://www.publico.pt/2026/07/19/publico-brasil/cronica/final-2182256",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "3b4b743c",
+      "id": "23ae6e6f",
       "cat": "tecnologia",
-      "title": "\"Não há nenhum chef de cozinha que não tenha um ego grande\"",
-      "summary": "Nunca está satisfeito, dorme mal quando as coisas não correm bem e diz que o silêncio também faz barulho. Kiko Martins abre a porta ao lado mais humano numa vida marcada pela exigência e pela ambição.",
-      "source": "Observador",
-      "date": "Sun, 19 Jul 2026 07:39:15 +0100",
-      "url": "https://observador.pt/programas/em-40-minutos/kiko-martins-eu-sou-vaidoso-nao-ha-nenhum-chef-de-cozinha-que-nao-tenha-um-ego-grande/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/17121121/770-podcast-em-40-minutos-kiko-martin.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "046c4718",
-      "cat": "tecnologia",
-      "title": "\"O verão no Algarve não está mais caro do que no ano passado\", afirma CEO do Vila Galé",
-      "summary": "O CEO do grupo hoteleiro aponta uma estabilização ao preço do turismo e que o Algarve sofreu um ajuste, embora não demasiado caro, devido ao \"reposicionamento\".",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 18 Jul 2026 21:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/o-verao-no-algarve-nao-esta-mais-caro-do-que-no-ano-passado-afirma-ceo-do-vila-gale",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-18-21-20-02-526857.jpg",
+      "title": "J.D. Vance vai mudar-se para enclave de luxo perto de Washington e os vizinhos já se estão a queixar",
+      "summary": "Middleburg, o subúrbio tranquilo onde os Kennedy tinham casa, Elizabeth Taylor viveu e onde o actor Robert Duvall morreu temem a chegada do reboliço dos serviços secretos e a atenção mediática.",
+      "source": "Público",
+      "date": "Sun, 19 Jul 2026 12:02:38 GMT",
+      "url": "https://www.publico.pt/2026/07/19/mundo/reportagem/jd-vance-vai-mudarse-enclave-luxo-perto-washington-vizinhos-ja-estao-queixar-2182265",
+      "img": null,
       "score": 0.7
     }
   ]
