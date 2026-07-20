@@ -1,5 +1,5 @@
 {
-  "last_update": "20/07/2026 03:49 UTC",
+  "last_update": "20/07/2026 09:29 UTC",
   "total": 30,
   "news": [
     {
@@ -47,14 +47,25 @@
       "score": 0.82
     },
     {
-      "id": "0072ee89",
+      "id": "4e442c30",
+      "cat": "tecnologia",
+      "title": "Rodri `Bola de Ouro`, à frente de Messi e Mbappé",
+      "summary": "Os espanhóis monopolizaram os prémios da edição 2026 do Mundial de futebol de 2026, com o médio Rodri a conquistar a ‘Bola de Ouro’, para o melhor jogador da competição, conquistada no domingo pela Espanha.",
+      "source": "RTP",
+      "date": "Mon, 20 Jul 2026 09:43:18 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/rodri-bola-de-ouro-a-frente-de-messi-e-mbappe_d1754535",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d4/d4cf8b6666e6ff893060faa1dd899170?w=350&amp;q=50&amp;rect=0,120,5162,2830&amp;auto=format",
+      "score": 0.79
+    },
+    {
+      "id": "a6585b98",
       "cat": "ciencia",
-      "title": "Loção caseira de erva-de-gato prova ser um repelente eficaz de mosquitos na zona rural de Uganda",
-      "summary": "As plantas de erva-dos-gatos cultivadas localmente provaram ser tão eficazes quanto o DEET para repelir mosquitos na zona rural de Uganda. Apresentado numa conferência científica internacional em Florença, Itália, uma equipa colaborativa de investigadores galeses e ugandenses acredita ter encontrado uma solução de menor custo para o controlo de mosquitos que",
-      "source": "Good News Network",
-      "date": "Fri, 17 Jul 2026 18:30:00 +0000",
-      "url": "https://www.goodnewsnetwork.org/homegrown-catnip-lotion-proves-to-be-an-effective-mosquito-repellent-in-rural-uganda/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Catnip-flowers-credit-Gordon-Robertson-CC-3.0.-via-Wikimedia.jpg",
+      "title": "Seguindo o fluxo: avanço em baterias de energia renovável",
+      "summary": "Uma bateria impressa em 3D projetada na Queen's University Belfast poderia acelerar a pesquisa sobre armazenamento de energia.",
+      "source": "BBC News",
+      "date": "Mon, 20 Jul 2026 08:20:07 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2de3/live/19e368b0-811b-11f1-96bf-6155b9f8d82a.jpg",
       "score": 0.79
     },
     {
@@ -69,36 +80,47 @@
       "score": 0.79
     },
     {
-      "id": "f171f87a",
+      "id": "59dac8b6",
       "cat": "tecnologia",
-      "title": "Prémios a rodos para Espanha, com Rodri (o melhor do torneio) à cabeça",
-      "summary": "Só Messi e Mbappé se intrometeram (em lugares mais discretos) no festival de prémios espanhóis que acompanhou a entrega das medalhas.",
+      "title": "Movimento Metaprof constitui bolsa de reapreciação de exames para apoiar alunos",
+      "summary": "A bolsa de reapreciação foi constituída, esclarece o movimento, “em tempo recorde, sem qualquer subsídio, sem apoio institucional de qualquer espécie e sem o reconhecimento das entidades tutelares”.",
       "source": "Público",
-      "date": "Sun, 19 Jul 2026 22:53:17 GMT",
-      "url": "https://www.publico.pt/2026/07/19/desporto/noticia/premios-rodos-espanha-rodri-melhor-torneio-cabeca-2182307",
+      "date": "Mon, 20 Jul 2026 08:01:39 GMT",
+      "url": "https://www.publico.pt/2026/07/20/sociedade/noticia/movimento-metaprof-constitui-bolsa-reapreciacao-exames-apoiar-alunos-2182317",
       "img": null,
       "score": 0.76
     },
     {
-      "id": "bc874914",
+      "id": "862d32be",
       "cat": "tecnologia",
-      "title": "Messi, Yamal, Mbappé, Rodri. As contas da Bola de Ouro",
-      "summary": "A vitória de Espanha e a derrota da Argentina acabaram por deixar Messi longe da nona Bola de Ouro. Yamal e Mbappé surgem como óbvios candidatos, mas Rodri pode voltar a ser a opção mais segura.",
-      "source": "Observador",
-      "date": "Mon, 20 Jul 2026 01:17:20 +0100",
-      "url": "https://observador.pt/2026/07/20/messi-fora-da-equacao-yamal-na-corrida-mbappe-a-baralhar-a-logica-e-rodri-a-tornar-se-evidente-como-ficaram-as-contas-da-bola-de-ouro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:341/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20010856/gettyimages-2286814189-scaled.jpg",
+      "title": "Comissão Europeia “está a colocar a investigação e a inovação no centro da economia”",
+      "summary": "Ekaterina Zaharieva, comissária europeia para as Startups , Investigação e Inovação, explica ao PÚBLICO quais as prioridades da União Europeia no que diz respeito à ciência e tecnologia.",
+      "source": "Público",
+      "date": "Mon, 20 Jul 2026 06:31:00 GMT",
+      "url": "https://www.publico.pt/2026/07/20/ciencia/entrevista/comissao-europeia-colocar-investigacao-inovacao-centro-economia-2182148",
+      "img": null,
       "score": 0.76
     },
     {
-      "id": "c76c0323",
+      "id": "f260e6b9",
       "cat": "tecnologia",
-      "title": "Espanha quer conquistar o Mundial pela segunda vez",
-      "summary": "O título pode ser o culminar de um trajeto de sucesso nos últimos três anos.",
-      "source": "RTP",
-      "date": "Sun, 19 Jul 2026 14:13:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/espanha-quer-conquistar-o-mundial-pela-segunda-vez_v1754452",
-      "img": "https://cdn-images.rtp.pt/icm/images/fe/fe4edf364c8bbe89e222b5770943b0fe_N.jpg?",
+      "title": "Loucura nas ruas de Madrid para celebrar vitória de Espanha no Mundial",
+      "summary": "Espanha sagrou-se campeã do Mundo de Futebol, este domingo, e as ruas da capital, Madrid, encheram-se para celebrar a vitória. A Espanha venceu a Argentina por 1-0, com um golo de Ferran Torres.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 20 Jul 2026 09:56:55 +0100",
+      "url": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/loucura-nas-ruas-de-madrid-para-celebrar-vitoria-de-espanha-no-mundial",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-20-09-56-12-526896.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "33b16ec3",
+      "cat": "tecnologia",
+      "title": "Fábrica de biometano em Torres Novas aprovada em contra-relógio esbarra na atual câmara",
+      "summary": "A unidade de produção da empresa Gasdaterra viu o pedido de informação prévia ser aprovado no último dia disponível. No entanto, o plano diretor municipal de Torres Novas já impedia a viabilização e aprovação deste pedido, uma vez que os projetos renováveis estão sujeitos a avaliação de impacte ambi",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 20 Jul 2026 09:25:56 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/fabrica-de-biometano-em-torres-novas-aprovada-em-contra-relogio-esbarra-na-atual-camara",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-07-15-39-22-491655.jpg",
       "score": 0.76
     },
     {
@@ -135,47 +157,47 @@
       "score": 0.76
     },
     {
-      "id": "bb5877b8",
-      "cat": "cultura",
-      "title": "Qual é o papel de Portugal na nova geoeconomia?",
-      "summary": "Passou relativamente despercebida em Portugal a aprovação, por parte do Conselho Europeu, de um novo modelo de escrutínio do IDE a aplicar por todos os Estados-membros. Opinião de Ricardo Arroja",
-      "source": "Público",
-      "date": "Sun, 19 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/20/opiniao/opiniao/papel-portugal-nova-geoeconomia-2182275",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "9586ba95",
-      "cat": "geral",
-      "title": "Luis de la Fuente, o obreiro do renascimento espanhol",
-      "summary": "Sem sucesso como jogador, demorou a encontrar a luz chamada RFEF. É um ás num desenvolvimento de jovens e chegou ao topo com títulos em todos as equipas. Aghegou ao topo do mundo e superou Del Bosque.",
-      "source": "Observador",
-      "date": "Mon, 20 Jul 2026 01:37:25 +0100",
-      "url": "https://observador.pt/2026/07/20/professor-de-scaloni-sobreviveu-ao-terramoto-de-2023-e-o-percurso-a-pulso-ate-ao-topo-de-la-fuente-o-treinador-mais-titulado-da-roja/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1684:nowe:0:127/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20012621/gettyimages-2286230174.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "608743c7",
+      "id": "938342c4",
       "cat": "tecnologia",
-      "title": "Fotogaleria. A \"fiesta\" espanhola no Terreiro do Paço",
-      "summary": "A língua espanhola encheu o Terreiro do Paço e no final a vitória sorriu à La Roja. Um golo solitário do avançado espanhol Ferran Torres selou o jogo de sentido único na final do Mundial-2026.",
+      "title": "Burnham toma posse como primeiro-ministro do Reino Unido",
+      "summary": "Keir Starmer discursa pela última vez como chefe de Governo, antes de entregar a demissão ao Rei. Depois, é a vez e Burnham entrar em Downing Street. Durante a tarde, deverá anunciar o seu Governo.",
       "source": "Observador",
-      "date": "Mon, 20 Jul 2026 01:19:19 +0100",
-      "url": "https://observador.pt/2026/07/20/espanhois-e-argentinos-encheram-o-terreiro-do-paco-mas-no-final-a-vitoria-foi-roja-as-imagens-da-fiesta-espanhola-em-lisboa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1403:nowe:0:92/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20010803/ts154a5808.jpg",
+      "date": "Mon, 20 Jul 2026 09:53:58 +0100",
+      "url": "https://observador.pt/liveblogs/andy-burnham-toma-hoje-posse-como-primeiro-ministro-do-reino-unido-starmer-fala-pela-ultima-vez-em-downing-street/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3859:2173:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22194213/gettyimages-2282766751.jpg",
       "score": 0.73
     },
     {
-      "id": "1496a691",
+      "id": "7b8199ab",
       "cat": "tecnologia",
-      "title": "“Esforço para aumentar os salários é inglório”, critica CEO do grupo Vila Galé",
-      "summary": "Sobre a estratégia do turismo, anunciada e que nunca avançou, Gonçalo Rebelo de Almeida diz ao Negócios e à Antena 1 que o Governo tem de fazer cidades para os residentes, e que os turistas virão.",
+      "title": "9h. Mundial. Seleção espanhola já está a caminho de Madrid",
+      "summary": "O voo em que seguem os novos campeões mundiais deve aterrar na capital espanhola ao início da tarde. Ainda, Portugal registou no ano passado máximos históricos de transplantes cardíacos e pulmonares.",
+      "source": "Observador",
+      "date": "Mon, 20 Jul 2026 09:16:50 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2415/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "0d15d8af",
+      "cat": "ciencia",
+      "title": "Smartphone e IA ajudam a controlar doenças em crianças",
+      "summary": "É o primeiro estudo a aplicar um modelo de IA para detetar ruído respiratório, através do microfone do telemóvel. Com 87% de precisão, tem \"potencial importância\" para o SNS, dizem investigadores.",
+      "source": "Observador",
+      "date": "Mon, 20 Jul 2026 08:55:46 +0100",
+      "url": "https://observador.pt/2026/07/20/smartphone-combinado-com-ia-ajuda-a-controlar-doencas-respiratorias-em-criancas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2015/11/57326899.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "a24cae10",
+      "cat": "tecnologia",
+      "title": "BES — Quando a exceção virou regra",
+      "summary": "A arquitetura da resolução foi tão agressiva que obriga o sistema a corrigir, anos depois, aquilo que em tese deveria ter sido evitado à partida.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 19 Jul 2026 21:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/esforco-para-aumentar-os-salarios-e-inglorio-critica-ceo-do-grupo-vila-gale",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-19-22-03-30-526885.jpg",
+      "date": "Mon, 20 Jul 2026 10:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/luis-miguel-henrique/detalhe/bes-quando-a-excecao-virou-regra",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-07/img_394x514uu2022-07-07-18-54-48-431976.png",
       "score": 0.73
     },
     {
@@ -190,58 +212,69 @@
       "score": 0.73
     },
     {
-      "id": "199092c6",
+      "id": "7ebf1591",
       "cat": "tecnologia",
-      "title": "Borges abre com Luz, Rocha com Martinez e Pereira com Bueno",
-      "summary": "Os tenistas portugueses Nuno Borges, Henrique Rocha e Tiago Pereira ficaram hoje a conhecer os primeiros adversários da ronda inaugural da 11.ª edição do Estoril Open, a decorrer até domingo no Clube de Ténis do Estoril.",
+      "title": "Mundial2026. Trump nega qualquer tensão com Espanha e diz que felicitou a equipa",
+      "summary": "O Presidente dos Estados Unidos, Donald Trump, disse que felicitou a Espanha pela vitória na final do Mundial de futebol &quot;por ter uma grande equipa&quot;, negando ter &quot;qualquer tensão com alguém&quot;.",
       "source": "RTP",
-      "date": "Sun, 19 Jul 2026 19:17:27 +0100",
-      "url": "https://www.rtp.pt/noticias/tenis/borges-abre-com-luz-rocha-com-martinez-e-pereira-com-bueno_d1754486",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/62/62bce7d9fe557f0336c6e61499d1ed4b?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format",
+      "date": "Mon, 20 Jul 2026 09:55:22 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundial2026-trump-nega-qualquer-tensao-com-espanha-e-diz-que-felicitou-a-equipa_d1754541",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/09/0970900e0abe0bc44fb5bcc24ba67c06?w=350&amp;q=50&amp;rect=0,60,1024,561&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "661ab34f",
-      "cat": "desporto",
-      "title": "Tour. Jonas Vingegaard desiste após queda aparatosa na 15.ª etapa",
-      "summary": "Jonas Vingegaard, segundo classificado da geral e campeão em 2022 e 2023, desistiu este domingo da 113.ª Volta a França em bicicleta, após sofrer uma queda durante a 15.ª etapa.",
+      "id": "f4d46386",
+      "cat": "tecnologia",
+      "title": "Estoril Open. Rocha defronta finalista de 2024 no fecho do primeiro dia",
+      "summary": "O tenista português Henrique Rocha defronta hoje o espanhol Pedro Martínez no fecho do primeiro dia do quadro principal do Estoril Open, numa jornada em que os compatriotas Tiago Torres e Frederico Silva também jogam.",
       "source": "RTP",
-      "date": "Sun, 19 Jul 2026 17:20:40 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/tour-jonas-vingegaard-desiste-apos-queda-aparatosa-na-15a-etapa_d1754474",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/42/42dc5b169756a019ca3495b17cb64a32?w=350&amp;q=50&amp;rect=0,31,1211,664&amp;auto=format",
+      "date": "Mon, 20 Jul 2026 09:51:06 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/estoril-open-rocha-defronta-finalista-de-2024-no-fecho-do-primeiro-dia_d1754539",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e30e1c187573991f6c487c3c32db858d?w=350&amp;q=50&amp;rect=0,70,898,492&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "11f2a16f",
+      "id": "125ddf06",
       "cat": "tecnologia",
-      "title": "Mulemba Re: Primeira resseguradora de Angola junta 12 companhias e fundo soberano",
-      "summary": "A Mulemba Re – Companhia Angolana de Resseguros tornou-se a primeira resseguradora nacional de Angola, um passo considerado histórico para o desenvolvimento do mercado segurador do país. Com um capital social de 15 mil milhões de kwanzas (14,3 milhões de euros) e uma estrutura acionista dominada pel",
+      "title": "Ryanair lucra menos com combustível mais caro e bilhetes mais baixos",
+      "summary": "A companhia aérea Ryanair obteve um lucro de 538 milhões de euros no primeiro trimestre fiscal, entre abril e junho, menos 34% do que no mesmo período do exercício anterior. Embora o tráfego de passageiros tenha aumentado 6% no período em análise, atingindo os 61,3 milhões, a companhia atribuiu a qu",
       "source": "ECO",
-      "date": "Sun, 19 Jul 2026 15:14:51 +0000",
-      "url": "https://eco.sapo.pt/2026/07/19/mulemba-re-primeira-resseguradora-de-angola-junta-12-companhias-e-fundo-soberano/",
-      "img": "https://eco.imgix.net/uploads/2020/10/cropped-carlosduarte_ensasegurosangola-3.png",
+      "date": "Mon, 20 Jul 2026 08:51:44 +0000",
+      "url": "https://eco.sapo.pt/2026/07/20/ryanair-lucra-menos-com-combustivel-mais-caro-e-bilhetes-mais-baixos/",
+      "img": "https://eco.imgix.net/uploads/2025/12/cropped-45589186-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "a7f33bfb",
+      "id": "748dd6f0",
       "cat": "tecnologia",
-      "title": "Carneiro sugere prazo alargado para acesso ao Superior",
-      "summary": "O secretário-geral do PS considerou urgente que o primeiro-ministro e o Governo se reúnam com o Conselho de Reitores e defendeu que, perante &#8220;a atual instabilidade&#8221;, deverá ponderar-se um prolongamento do prazo de candidatura ao Ensino Superior. Em declarações à agência Lusa, José Luís C",
+      "title": "Romão Braz: “Eu acho que é muito difícil ser empresário em Portugal”",
+      "summary": "Romão Braz, CEO do Grupo Finançor, é o 87º convidado do podcast &#8220;E Se Corre Bem?&#8221;. Nasceu nos Açores e admite sempre ter sentido muito orgulho da sua &#8220;ilha natal&#8221;. No entanto, à semelhança do resto dos jovens açorianos, decidiu voar para Lisboa à procura de um futuro melhor e",
       "source": "ECO",
-      "date": "Sun, 19 Jul 2026 15:11:44 +0000",
-      "url": "https://eco.sapo.pt/2026/07/19/carneiro-sugere-prazo-alargado-para-acesso-ao-superior/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47405327-scaled-1.jpg",
+      "date": "Mon, 20 Jul 2026 08:09:14 +0000",
+      "url": "https://eco.sapo.pt/2026/07/20/romao-braz-eu-acho-que-e-muito-dificil-ser-empresario-em-portugal/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-romao-braz01-2.jpg",
       "score": 0.73
     },
     {
-      "id": "af2bb6ee",
+      "id": "b86cfe76",
       "cat": "tecnologia",
-      "title": "Chubb e Hispania lançam seguro para habitações de luxo",
-      "summary": "A Chubb fechou um acordo com a agência de subscrição Hispania para lançar em Portugal e Espanha o Masterpiece, produto que tem como alvo o segmento dos seguros para grandes patrimónios, para clientes com casas e bens de elevado valor. O objetivo do produto é acabar com a fragmentação: em vez de apól",
+      "title": "Apenas 27% das camas previstas no PRR para estudantes estão concluídas",
+      "summary": "A pouco mais de um mês do fim do prazo do Plano Nacional para o Alojamento no Ensino Superior (PNAES), a execução das residências universitárias continua longe da meta definida. Dos 134 projetos financiados pelo Plano de Recuperação e Resiliência (PRR), 81 permanecem em obra e apenas 5.014 das 18.75",
       "source": "ECO",
-      "date": "Sun, 19 Jul 2026 11:30:08 +0000",
-      "url": "https://eco.sapo.pt/2026/07/19/chubb-e-hispania-lancam-seguro-para-habitacoes-de-luxo/",
-      "img": "https://eco.imgix.net/uploads/2024/12/luxo2-800.jpg",
+      "date": "Mon, 20 Jul 2026 06:55:44 +0000",
+      "url": "https://eco.sapo.pt/2026/07/20/apenas-27-das-camas-previstas-no-prr-para-estudantes-estao-concluidas/",
+      "img": "https://eco.imgix.net/uploads/2025/12/cropped-doc2025092545728367nv2020250925.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1fe83423",
+      "cat": "sociedade",
+      "title": "Boas novas na história, 20 de Julho",
+      "summary": "Há 57 anos, o homem pisou pela primeira vez na Lua durante a missão Apollo 11 da NASA; Neil Armstrong primeiro, às 22h56 EST, porque estava mais próximo da porta e Buzz Aldrin em segundo. ASSISTA uma retrospectiva do 50º aniversário & # 8230; (1969) Quando o módulo lunar finalmente pousou na Lua às 16h17,",
+      "source": "Good News Network",
+      "date": "Mon, 20 Jul 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060720/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/07/apollo-11-footprint-on-the-moon-NASA.jpg",
       "score": 0.73
     },
     {
@@ -267,17 +300,6 @@
       "score": 0.73
     },
     {
-      "id": "c8212b8a",
-      "cat": "desporto",
-      "title": "Da borra de café à cama de porquinhos-da-índia - os compostores mantêm tudo local",
-      "summary": "O desperdício de alimentos é um recurso como a água e deve ser mantido nas comunidades, dizem os defensores da compostagem.",
-      "source": "BBC News",
-      "date": "Sun, 19 Jul 2026 11:33:19 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c78y2q6ve04o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffa/live/58979d00-8031-11f1-926f-c90d1bcfbc84.png",
-      "score": 0.73
-    },
-    {
       "id": "b1321a7a",
       "cat": "ciencia",
       "title": "O misterioso zumbido ouvido em todo o mundo pode finalmente ter uma explicação",
@@ -286,6 +308,17 @@
       "date": "Sun, 19 Jul 2026 08:07:13 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
       "img": "https://www.sciencedaily.com/images/1920/the-hum-phenomenon.webp",
+      "score": 0.73
+    },
+    {
+      "id": "92bcf351",
+      "cat": "ambiente",
+      "title": "E se nunca construíssemos outro novo edifício?",
+      "summary": "A arquiteta suíça Barbara Buser passou décadas provando que o edifício mais verde é muitas vezes aquele que já existe. Quando se desparafusa uma seção da fachada de chapa vermelha brilhante da K.118, uma antiga fábrica de carpintaria em Winterthur, na Suíça, o interior revela algo que poucas pessoas esperam ver.",
+      "source": "Reasons to be Cheerful",
+      "date": "Mon, 20 Jul 2026 08:00:40 +0000",
+      "url": "https://reasonstobecheerful.world/what-if-we-never-built-another-new-building/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/DSC06804-scaled.jpg",
       "score": 0.73
     },
     {
@@ -298,39 +331,6 @@
       "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2576357661-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "41473a4a",
-      "cat": "sociedade",
-      "title": "Nele para o longo prazo",
-      "summary": "Enquanto os Estados Unidos celebram o seu 250º aniversário neste fim de semana, muitos dos seus residentes podem sentir o grande elefante ideologicamente dividido na sala. Mas embora o país tenha em conta a sua identidade nacional, a nível local, os americanos continuam a unir-se de formas que transcendem a política, como acontece com o país.",
-      "source": "Reasons to be Cheerful",
-      "date": "Fri, 03 Jul 2026 08:00:24 +0000",
-      "url": "https://reasonstobecheerful.world/americas-250th-birthday-reader-responses/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2227481145-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "61db347f",
-      "cat": "tecnologia",
-      "title": "Espanha: o triunfo do futebol e o balanço deste Mundial",
-      "summary": "Neste P24 ouvimos a análise dos jornalistas do PÚBLICO Nuno Sousa, Marco Vaza e Diogo Cardoso Oliveira.",
-      "source": "Público",
-      "date": "Mon, 20 Jul 2026 02:29:09 GMT",
-      "url": "https://www.publico.pt/2026/07/20/desporto/noticia/espanha-triunfo-futebol-balanco-mundial-2181963",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "04c9326e",
-      "cat": "tecnologia",
-      "title": "Bruxelas quer medidas restritivas no Orçamento do Estado para 2027",
-      "summary": "Com Portugal em risco de furar os limites da despesa líquida, a Comissão Europeia quer que a proposta de OE inclua medidas restritivas. Sem efeito do fim do PRR e em políticas invariantes, Portugal está em contraciclo face ao recomendado.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 19 Jul 2026 23:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/bruxelas-quer-medidas-restritivas-no-orcamento-do-estado-para-2027",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-09-14-07-41-510966.jpg",
-      "score": 0.7
     }
   ]
 }
