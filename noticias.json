@@ -1,12 +1,12 @@
 {
-  "last_update": "20/07/2026 09:29 UTC",
+  "last_update": "20/07/2026 14:24 UTC",
   "total": 30,
   "news": [
     {
       "id": "abe9dc06",
       "cat": "ciencia",
       "title": "Em imagens: como a ciência forense está ajudando a combater a caça ilegal de animais selvagens",
-      "summary": "Os avanços na ciência forense estão a perturbar o comércio ilegal de vida selvagem – e estão documentados numa nova série de fotografias. O post Em imagens: Como a ciência forense está a ajudar a combater a caça furtiva de vida selvagem apareceu pela primeira vez em Notícias Positivas.",
+      "summary": "Os avanços na ciência forense estão a perturbar o comércio ilegal de vida selvagem – e estão documentados numa nova série de fotografias. O post Em imagens: como a ciência forense está a ajudar a combater a caça furtiva de vida selvagem apareceu pela primeira vez em Notícias Positivas.",
       "source": "Positive News",
       "date": "Fri, 17 Jul 2026 09:48:22 +0000",
       "url": "https://www.positive.news/society/how-forensic-science-is-helping-tackle-poaching/",
@@ -47,14 +47,14 @@
       "score": 0.82
     },
     {
-      "id": "4e442c30",
-      "cat": "tecnologia",
-      "title": "Rodri `Bola de Ouro`, à frente de Messi e Mbappé",
-      "summary": "Os espanhóis monopolizaram os prémios da edição 2026 do Mundial de futebol de 2026, com o médio Rodri a conquistar a ‘Bola de Ouro’, para o melhor jogador da competição, conquistada no domingo pela Espanha.",
-      "source": "RTP",
-      "date": "Mon, 20 Jul 2026 09:43:18 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/rodri-bola-de-ouro-a-frente-de-messi-e-mbappe_d1754535",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d4/d4cf8b6666e6ff893060faa1dd899170?w=350&amp;q=50&amp;rect=0,120,5162,2830&amp;auto=format",
+      "id": "54ee9d36",
+      "cat": "economia",
+      "title": "Generali vai investir 300 milhões em programa de reindustrialização da Europa",
+      "summary": "A Generali acaba de lançar o Programa de Soberania Europeia, um programa de investimento destinado a reforçar a resiliência da economia europeia, apoiar as pequenas e médias empresas (PME) e promover um crescimento sustentável, em linha com as prioridades estratégicas da União Europeia, anunciou a s",
+      "source": "ECO",
+      "date": "Mon, 20 Jul 2026 11:26:41 +0000",
+      "url": "https://eco.sapo.pt/2026/07/20/generali-vai-investir-300-milhoes-em-programa-de-reindustrializacao-da-europa/",
+      "img": "https://eco.imgix.net/uploads/2019/07/cropped-cropped-generali-france-3.jpg",
       "score": 0.79
     },
     {
@@ -69,6 +69,17 @@
       "score": 0.79
     },
     {
+      "id": "ac0f3296",
+      "cat": "tecnologia",
+      "title": "Avanço do Alzheimer: os cientistas restauram duas horas de sono sem limpar as placas cerebrais",
+      "summary": "Os pesquisadores descobriram um culpado surpreendente por trás da perda de sono na doença de Alzheimer: as próprias células imunológicas do cérebro. Em camundongos com placas amilóides, a microglia hiperativa desencadeou uma inflamação que impediu o cérebro de obter um sono profundo e restaurador o suficiente. Removendo temporariamente a maioria dessas células",
+      "source": "ScienceDaily",
+      "date": "Mon, 20 Jul 2026 06:05:34 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+      "img": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
+      "score": 0.79
+    },
+    {
       "id": "3480c39c",
       "cat": "ciencia",
       "title": "Um pequeno universo numa garrafa revela pistas sobre as origens da vida",
@@ -80,47 +91,25 @@
       "score": 0.79
     },
     {
-      "id": "59dac8b6",
+      "id": "e1c95fd6",
       "cat": "tecnologia",
-      "title": "Movimento Metaprof constitui bolsa de reapreciação de exames para apoiar alunos",
-      "summary": "A bolsa de reapreciação foi constituída, esclarece o movimento, “em tempo recorde, sem qualquer subsídio, sem apoio institucional de qualquer espécie e sem o reconhecimento das entidades tutelares”.",
-      "source": "Público",
-      "date": "Mon, 20 Jul 2026 08:01:39 GMT",
-      "url": "https://www.publico.pt/2026/07/20/sociedade/noticia/movimento-metaprof-constitui-bolsa-reapreciacao-exames-apoiar-alunos-2182317",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "862d32be",
-      "cat": "tecnologia",
-      "title": "Comissão Europeia “está a colocar a investigação e a inovação no centro da economia”",
-      "summary": "Ekaterina Zaharieva, comissária europeia para as Startups , Investigação e Inovação, explica ao PÚBLICO quais as prioridades da União Europeia no que diz respeito à ciência e tecnologia.",
-      "source": "Público",
-      "date": "Mon, 20 Jul 2026 06:31:00 GMT",
-      "url": "https://www.publico.pt/2026/07/20/ciencia/entrevista/comissao-europeia-colocar-investigacao-inovacao-centro-economia-2182148",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "f260e6b9",
-      "cat": "tecnologia",
-      "title": "Loucura nas ruas de Madrid para celebrar vitória de Espanha no Mundial",
-      "summary": "Espanha sagrou-se campeã do Mundo de Futebol, este domingo, e as ruas da capital, Madrid, encheram-se para celebrar a vitória. A Espanha venceu a Argentina por 1-0, com um golo de Ferran Torres.",
+      "title": "Portugal vai comprar três fragatas italianas de 3,9 mil milhões para reforçar a Marinha",
+      "summary": "O primeiro-ministro anunciou esta segunda-feira que Portugal comprou três fragatas de nova geração de construção italiana à Fincantieri, num investimento de 3,9 mil milhões de euros.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 20 Jul 2026 09:56:55 +0100",
-      "url": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/loucura-nas-ruas-de-madrid-para-celebrar-vitoria-de-espanha-no-mundial",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-20-09-56-12-526896.jpg",
+      "date": "Mon, 20 Jul 2026 14:46:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/defesa/detalhe/portugal-vai-comprar-tres-fragatas-italianas-de-3-9-mil-milhoes-para-reforcar-a-marinha",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-20-14-38-46-526920.jpg",
       "score": 0.76
     },
     {
-      "id": "33b16ec3",
+      "id": "ae16e08b",
       "cat": "tecnologia",
-      "title": "Fábrica de biometano em Torres Novas aprovada em contra-relógio esbarra na atual câmara",
-      "summary": "A unidade de produção da empresa Gasdaterra viu o pedido de informação prévia ser aprovado no último dia disponível. No entanto, o plano diretor municipal de Torres Novas já impedia a viabilização e aprovação deste pedido, uma vez que os projetos renováveis estão sujeitos a avaliação de impacte ambi",
+      "title": "Desemprego cai pelo quinto mês seguido em junho. Menos 30 mil inscritos do que há um ano",
+      "summary": "No final do primeiro trimestre, estavam inscritas no IEFP 264.517 pessoas, representando mínimos de várias décadas. Queda de 10% em termos homólogos é generalizada a todas as regiões.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 20 Jul 2026 09:25:56 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/fabrica-de-biometano-em-torres-novas-aprovada-em-contra-relogio-esbarra-na-atual-camara",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-07-15-39-22-491655.jpg",
+      "date": "Mon, 20 Jul 2026 14:32:29 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/emprego/mercado-de-trabalho/detalhe/desemprego-cai-pelo-quinto-mes-seguido-em-junho-menos-30-mil-inscritos-do-que-ha-um-ano",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-22-14-50-00-509743.jpg",
       "score": 0.76
     },
     {
@@ -157,47 +146,25 @@
       "score": 0.76
     },
     {
-      "id": "938342c4",
+      "id": "b944eb87",
       "cat": "tecnologia",
-      "title": "Burnham toma posse como primeiro-ministro do Reino Unido",
-      "summary": "Keir Starmer discursa pela última vez como chefe de Governo, antes de entregar a demissão ao Rei. Depois, é a vez e Burnham entrar em Downing Street. Durante a tarde, deverá anunciar o seu Governo.",
-      "source": "Observador",
-      "date": "Mon, 20 Jul 2026 09:53:58 +0100",
-      "url": "https://observador.pt/liveblogs/andy-burnham-toma-hoje-posse-como-primeiro-ministro-do-reino-unido-starmer-fala-pela-ultima-vez-em-downing-street/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3859:2173:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/22194213/gettyimages-2282766751.jpg",
+      "title": "Após 12 anos fora do tatame, campeão luta no Brasil defendendo as cores de Portugal",
+      "summary": "Aos 51 anos, o lutador de jiu-jitsu luso-brasileiro Fábio Dórea fala sobre jornada para disputar o Master Sul-Americano da IBJJF, no Brasil, e o Mundial Master em Las Vegas representando Portugal.",
+      "source": "Público",
+      "date": "Mon, 20 Jul 2026 13:17:52 GMT",
+      "url": "https://www.publico.pt/2026/07/20/publico-brasil/noticia/apos-12-anos-tatame-campeao-luta-brasil-defendendo-cores-portugal-2182282",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "7b8199ab",
+      "id": "a42b02a9",
       "cat": "tecnologia",
-      "title": "9h. Mundial. Seleção espanhola já está a caminho de Madrid",
-      "summary": "O voo em que seguem os novos campeões mundiais deve aterrar na capital espanhola ao início da tarde. Ainda, Portugal registou no ano passado máximos históricos de transplantes cardíacos e pulmonares.",
-      "source": "Observador",
-      "date": "Mon, 20 Jul 2026 09:16:50 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2415/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.73
-    },
-    {
-      "id": "0d15d8af",
-      "cat": "ciencia",
-      "title": "Smartphone e IA ajudam a controlar doenças em crianças",
-      "summary": "É o primeiro estudo a aplicar um modelo de IA para detetar ruído respiratório, através do microfone do telemóvel. Com 87% de precisão, tem \"potencial importância\" para o SNS, dizem investigadores.",
-      "source": "Observador",
-      "date": "Mon, 20 Jul 2026 08:55:46 +0100",
-      "url": "https://observador.pt/2026/07/20/smartphone-combinado-com-ia-ajuda-a-controlar-doencas-respiratorias-em-criancas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2015/11/57326899.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a24cae10",
-      "cat": "tecnologia",
-      "title": "BES — Quando a exceção virou regra",
-      "summary": "A arquitetura da resolução foi tão agressiva que obriga o sistema a corrigir, anos depois, aquilo que em tese deveria ter sido evitado à partida.",
+      "title": "Houthis vão fazer bloqueio marítimo à Arábia Saudita",
+      "summary": "O Mar Vermelho tem sido usado como uma via alternativa para fazer circular o \"ouro negro\", com os sauditas a usarem grandes oleodutos para passar o petróleo de uma ponta à outra do país.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 20 Jul 2026 10:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/luis-miguel-henrique/detalhe/bes-quando-a-excecao-virou-regra",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-07/img_394x514uu2022-07-07-18-54-48-431976.png",
+      "date": "Mon, 20 Jul 2026 13:58:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/houthis-vao-fazer-bloqueio-maritimo-a-arabia-saudita",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-20-13-57-57-526915.jpg",
       "score": 0.73
     },
     {
@@ -212,58 +179,58 @@
       "score": 0.73
     },
     {
-      "id": "7ebf1591",
+      "id": "68df3e3a",
       "cat": "tecnologia",
-      "title": "Mundial2026. Trump nega qualquer tensão com Espanha e diz que felicitou a equipa",
-      "summary": "O Presidente dos Estados Unidos, Donald Trump, disse que felicitou a Espanha pela vitória na final do Mundial de futebol &quot;por ter uma grande equipa&quot;, negando ter &quot;qualquer tensão com alguém&quot;.",
+      "title": "O regresso dos campeões mundiais",
+      "summary": "A seleção espanhola de futebol voltou hoje a casa, depois de no domingo se ter tornado na nova campeã do mundo, e os jogadores iniciam agora horas de celebração nas ruas de Madrid e com as máximas autoridades do país.",
       "source": "RTP",
-      "date": "Mon, 20 Jul 2026 09:55:22 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundial2026-trump-nega-qualquer-tensao-com-espanha-e-diz-que-felicitou-a-equipa_d1754541",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/09/0970900e0abe0bc44fb5bcc24ba67c06?w=350&amp;q=50&amp;rect=0,60,1024,561&amp;auto=format",
+      "date": "Mon, 20 Jul 2026 16:20:47 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/o-regresso-dos-campeoes-mundiais_d1754646",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc09c8bbe06eefceaeaccba5853dba0d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "f4d46386",
+      "id": "2aa4e4e9",
       "cat": "tecnologia",
-      "title": "Estoril Open. Rocha defronta finalista de 2024 no fecho do primeiro dia",
-      "summary": "O tenista português Henrique Rocha defronta hoje o espanhol Pedro Martínez no fecho do primeiro dia do quadro principal do Estoril Open, numa jornada em que os compatriotas Tiago Torres e Frederico Silva também jogam.",
+      "title": "Vitória de Espanha causou terramoto de alegria registado por sismógrafos",
+      "summary": "Espanha conquistou no domingo o seu segundo campeonato do mundo de futebol com um golo de Ferran Torres que provocou um terramoto de alegria nacional, com vibrações registadas por sismógrafos em todo o país.",
       "source": "RTP",
-      "date": "Mon, 20 Jul 2026 09:51:06 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/estoril-open-rocha-defronta-finalista-de-2024-no-fecho-do-primeiro-dia_d1754539",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e30e1c187573991f6c487c3c32db858d?w=350&amp;q=50&amp;rect=0,70,898,492&amp;auto=format",
+      "date": "Mon, 20 Jul 2026 15:05:28 +0100",
+      "url": "https://www.rtp.pt/noticias/mundial-2026/vitoria-de-espanha-causou-terramoto-de-alegria-registado-por-sismografos_d1754626",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/83/83084b62ee1c989f9086901cf175461b?w=350&amp;q=50&amp;rect=0,61,1024,561&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "125ddf06",
+      "id": "d53bc71c",
       "cat": "tecnologia",
-      "title": "Ryanair lucra menos com combustível mais caro e bilhetes mais baixos",
-      "summary": "A companhia aérea Ryanair obteve um lucro de 538 milhões de euros no primeiro trimestre fiscal, entre abril e junho, menos 34% do que no mesmo período do exercício anterior. Embora o tráfego de passageiros tenha aumentado 6% no período em análise, atingindo os 61,3 milhões, a companhia atribuiu a qu",
+      "title": "Burnham promete “um novo modelo político e económico” para o Reino Unido que tem “muitos desafios”",
+      "summary": "Andy Burnham tomou posse esta segunda-feira como novo primeiro-ministro britânico e, no discurso de estreia à porta do número 10 de Downing Street, afirmou estar &#8220;consciente&#8221; de que é o sétimo chefe de Governo do Reino Unido desde 2016, defendendo que o país precisa de um &#8220;novo mod",
       "source": "ECO",
-      "date": "Mon, 20 Jul 2026 08:51:44 +0000",
-      "url": "https://eco.sapo.pt/2026/07/20/ryanair-lucra-menos-com-combustivel-mais-caro-e-bilhetes-mais-baixos/",
-      "img": "https://eco.imgix.net/uploads/2025/12/cropped-45589186-scaled-1.jpg",
+      "date": "Mon, 20 Jul 2026 12:53:40 +0000",
+      "url": "https://eco.sapo.pt/2026/07/20/burnham-promete-um-novo-modelo-politico-e-economico-para-o-reino-unido-que-tem-muitos-desafios/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc202607204749106313122829-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "748dd6f0",
+      "id": "01923b71",
       "cat": "tecnologia",
-      "title": "Romão Braz: “Eu acho que é muito difícil ser empresário em Portugal”",
-      "summary": "Romão Braz, CEO do Grupo Finançor, é o 87º convidado do podcast &#8220;E Se Corre Bem?&#8221;. Nasceu nos Açores e admite sempre ter sentido muito orgulho da sua &#8220;ilha natal&#8221;. No entanto, à semelhança do resto dos jovens açorianos, decidiu voar para Lisboa à procura de um futuro melhor e",
+      "title": "Andy Burnham declarado oficialmente primeiro-ministro britânico",
+      "summary": "O novo líder do Partido Trabalhista, Andy Burnham, foi designado hoje oficialmente primeiro-ministro britânico pelo Rei Carlos III durante uma audiência no Palácio de Buckingham em Londres. &#8220;Sua Majestade concedeu audiência ao Excelentíssimo Senhor Andrew Burnham, deputado, e solicitou-lhe que",
       "source": "ECO",
-      "date": "Mon, 20 Jul 2026 08:09:14 +0000",
-      "url": "https://eco.sapo.pt/2026/07/20/romao-braz-eu-acho-que-e-muito-dificil-ser-empresario-em-portugal/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-romao-braz01-2.jpg",
+      "date": "Mon, 20 Jul 2026 11:52:13 +0000",
+      "url": "https://eco.sapo.pt/2026/07/20/andy-burnham-declarado-oficialmente-primeiro-ministro-britanico/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47478151-scaled-2.jpg",
       "score": 0.73
     },
     {
-      "id": "b86cfe76",
+      "id": "5a4e4f15",
       "cat": "tecnologia",
-      "title": "Apenas 27% das camas previstas no PRR para estudantes estão concluídas",
-      "summary": "A pouco mais de um mês do fim do prazo do Plano Nacional para o Alojamento no Ensino Superior (PNAES), a execução das residências universitárias continua longe da meta definida. Dos 134 projetos financiados pelo Plano de Recuperação e Resiliência (PRR), 81 permanecem em obra e apenas 5.014 das 18.75",
-      "source": "ECO",
-      "date": "Mon, 20 Jul 2026 06:55:44 +0000",
-      "url": "https://eco.sapo.pt/2026/07/20/apenas-27-das-camas-previstas-no-prr-para-estudantes-estao-concluidas/",
-      "img": "https://eco.imgix.net/uploads/2025/12/cropped-doc2025092545728367nv2020250925.jpg",
+      "title": "Funcionário sênior do centro comemora 50 anos em um único emprego, sem faltar por doença",
+      "summary": "Tom McKievick diz que seu trabalho é desafiador, mas divertido, uma boa combinação para uma carreira com perspectiva. No entanto, quando viu o anúncio de jornal para o emprego na comunidade de idosos Fredericka Manor, em Chula Vista, Califórnia, em 1976, ele não pretendia embarcar em uma carreira. Agora",
+      "source": "Good News Network",
+      "date": "Mon, 20 Jul 2026 13:00:36 +0000",
+      "url": "https://www.goodnewsnetwork.org/senior-center-worker-celebrates-50-years-at-a-single-job-without-taking-any-sick-days/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/maxresdefault-5.jpg",
       "score": 0.73
     },
     {
@@ -289,28 +256,6 @@
       "score": 0.73
     },
     {
-      "id": "5e466623",
-      "cat": "tecnologia",
-      "title": "Filha salva a difícil sapataria do pai com apelo do TikTok - e filas de clientes na porta",
-      "summary": "Uma filha ajudou a salvar a sapataria italiana vintage de seu pai postando sobre um par de saltos gatinho Y2K no TikTok - e agora há filas do lado de fora da porta. Há mais de 30 anos, Rachid Lazraq é proprietário da Rich Collection Italia, mas o surgimento de práticas de compras on-line e uma clientela envelhecida deixaram a Rich Collection Italia.",
-      "source": "Good News Network",
-      "date": "Sat, 18 Jul 2026 19:09:08 +0000",
-      "url": "https://www.goodnewsnetwork.org/daughter-saves-dads-struggling-shoe-shop-with-tiktok-appeal-and-customer-lines-out-the-door/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Line-on-block-by-shoe-store-Rich-Collection-Italia-credit-Zineb-Lazraq-SWNS.jpeg",
-      "score": 0.73
-    },
-    {
-      "id": "b1321a7a",
-      "cat": "ciencia",
-      "title": "O misterioso zumbido ouvido em todo o mundo pode finalmente ter uma explicação",
-      "summary": "O misterioso som conhecido como The Hum tem sido relatado em todo o mundo há décadas, mas a sua fonte muitas vezes permanece impossível de encontrar. Os pesquisadores testaram se as pessoas que ouvem têm uma audição excepcional de baixa frequência ou sons mensuráveis ​​produzidos dentro de seus ouvidos, mas nenhuma explicação se encaixa na maioria das partes.",
-      "source": "ScienceDaily",
-      "date": "Sun, 19 Jul 2026 08:07:13 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
-      "img": "https://www.sciencedaily.com/images/1920/the-hum-phenomenon.webp",
-      "score": 0.73
-    },
-    {
       "id": "92bcf351",
       "cat": "ambiente",
       "title": "E se nunca construíssemos outro novo edifício?",
@@ -331,6 +276,61 @@
       "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2576357661-scaled.jpg",
       "score": 0.73
+    },
+    {
+      "id": "a2a86d3d",
+      "cat": "tecnologia",
+      "title": "João Maria Jonet: “As câmaras gastam dinheiro em coisas absurdas. Há uma festa a toda a hora”",
+      "summary": "João Maria Jonet é crítico dos gastos das câmaras em “coisas absurdas”. Recentemente, uma proposta sua evitou que a Câmara de Cascais continuasse a dar “borlas fiscais” a empreendimentos de luxo.",
+      "source": "Público",
+      "date": "Mon, 20 Jul 2026 14:02:00 GMT",
+      "url": "https://www.publico.pt/2026/07/20/politica/noticia/joao-maria-jonet-camaras-gastam-dinheiro-absurdas-ha-festa-hora-2182196",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "d3163270",
+      "cat": "tecnologia",
+      "title": "Na Burmester, há conteúdos novos, fotografias antigas que ganharam vida e uma garrafeira privada",
+      "summary": "A cave, junto à Ponte D. Luís, esteve fechada meio ano e reabriu, recentemente, renovada e com uma nova forma, mais imersiva, de contar a sua história.",
+      "source": "Público",
+      "date": "Mon, 20 Jul 2026 13:45:00 GMT",
+      "url": "https://www.publico.pt/2026/07/20/terroir/noticia/burmester-ha-conteudos-novos-fotografias-antigas-ganharam-vida-garrafeira-privada-2182042",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "7a8a7ee5",
+      "cat": "tecnologia",
+      "title": "Primeira autarca a usar licença de maternidade gera polémica",
+      "summary": "Shoko Kawata, de 35 anos, presidente da Câmara de Yawata, vai ficar de licença até novembro, com salário integral, o que acendeu alguma controvérsia no país.",
+      "source": "Observador",
+      "date": "Mon, 20 Jul 2026 13:55:29 +0100",
+      "url": "https://observador.pt/2026/07/20/autarca-japonesa-torna-se-oficialmente-na-primeira-presidente-de-camara-a-tirar-licenca-de-maternidade/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1479:833:nowe:0:62/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/28170403/f6yqlpsbiaae0jp.jpeg",
+      "score": 0.7
+    },
+    {
+      "id": "ac7cea07",
+      "cat": "tecnologia",
+      "title": "Acionistas do canal Conta Lá reúnem-se a 6 de agosto",
+      "summary": "Menos de um mês depois da saída de Sérgio Figueiredo, realiza-se Assembleia Geral de acionistas para nomear a Comissão de Gestão, entre outros pontos. Projeto \"defende a coesão territorial\".",
+      "source": "Observador",
+      "date": "Mon, 20 Jul 2026 13:52:10 +0100",
+      "url": "https://observador.pt/2026/07/20/assembleia-geral-de-acionistas-do-canal-conta-la-convocada-para-6-de-agosto/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/02/20162755/dsc0480.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "275f5ea8",
+      "cat": "tecnologia",
+      "title": "Invasão terrestre? Irão diz-se preparado para \"infiltração\"",
+      "summary": "Perante esta ameaça, os iranianos garantem, num comunicado citado pela Aljazeera, que as forças terrestres contam com “equipamentos modernos, treino contínuo e capacidade operacional aprimorada”.",
+      "source": "Observador",
+      "date": "Mon, 20 Jul 2026 13:43:40 +0100",
+      "url": "https://observador.pt/programas/a-guerra-traduzida/invasao-terrestre-irao-diz-se-preparado-para-infiltracao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg",
+      "score": 0.7
     }
   ]
 }
