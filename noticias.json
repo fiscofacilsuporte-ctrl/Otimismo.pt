@@ -1,5 +1,5 @@
 {
-  "last_update": "19/07/2026 19:16 UTC",
+  "last_update": "20/07/2026 03:49 UTC",
   "total": 30,
   "news": [
     {
@@ -28,7 +28,7 @@
       "id": "e6352e1c",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: a líder ecológica Estônia e mais",
-      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais",
+      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais The post O que correu bem esta semana: a líder ecológica Estónia, e mais apareceu primeiro em Positive News.",
       "source": "Positive News",
       "date": "Fri, 10 Jul 2026 05:07:49 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
@@ -67,6 +67,28 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
       "img": "https://www.sciencedaily.com/images/1920/universe-in-bottle.webp",
       "score": 0.79
+    },
+    {
+      "id": "f171f87a",
+      "cat": "tecnologia",
+      "title": "Prémios a rodos para Espanha, com Rodri (o melhor do torneio) à cabeça",
+      "summary": "Só Messi e Mbappé se intrometeram (em lugares mais discretos) no festival de prémios espanhóis que acompanhou a entrega das medalhas.",
+      "source": "Público",
+      "date": "Sun, 19 Jul 2026 22:53:17 GMT",
+      "url": "https://www.publico.pt/2026/07/19/desporto/noticia/premios-rodos-espanha-rodri-melhor-torneio-cabeca-2182307",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "bc874914",
+      "cat": "tecnologia",
+      "title": "Messi, Yamal, Mbappé, Rodri. As contas da Bola de Ouro",
+      "summary": "A vitória de Espanha e a derrota da Argentina acabaram por deixar Messi longe da nona Bola de Ouro. Yamal e Mbappé surgem como óbvios candidatos, mas Rodri pode voltar a ser a opção mais segura.",
+      "source": "Observador",
+      "date": "Mon, 20 Jul 2026 01:17:20 +0100",
+      "url": "https://observador.pt/2026/07/20/messi-fora-da-equacao-yamal-na-corrida-mbappe-a-baralhar-a-logica-e-rodri-a-tornar-se-evidente-como-ficaram-as-contas-da-bola-de-ouro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:341/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20010856/gettyimages-2286814189-scaled.jpg",
+      "score": 0.76
     },
     {
       "id": "c76c0323",
@@ -113,69 +135,47 @@
       "score": 0.76
     },
     {
-      "id": "69eda273",
-      "cat": "tecnologia",
-      "title": "“Se o primeiro-ministro pôs a cabeça no cepo, sujeita-se”: Raimundo não descarta moção de censura ao Governo",
-      "summary": "Raimundo disse que as recentes polémicas envolvendo os ministros da Educação e da Administração Interna se juntam ao desempenho de outros membros do Governo",
+      "id": "bb5877b8",
+      "cat": "cultura",
+      "title": "Qual é o papel de Portugal na nova geoeconomia?",
+      "summary": "Passou relativamente despercebida em Portugal a aprovação, por parte do Conselho Europeu, de um novo modelo de escrutínio do IDE a aplicar por todos os Estados-membros. Opinião de Ricardo Arroja",
       "source": "Público",
-      "date": "Sun, 19 Jul 2026 16:13:43 GMT",
-      "url": "https://www.publico.pt/2026/07/19/politica/noticia/primeiroministro-pos-cabeca-cepo-sujeitase-raimundo-nao-descarta-mocao-censura-governo-2182288",
+      "date": "Sun, 19 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/20/opiniao/opiniao/papel-portugal-nova-geoeconomia-2182275",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "7804eca7",
-      "cat": "tecnologia",
-      "title": "Milhares de euros e loucuras: o preço da presença no Mundial",
-      "summary": "Nem todo o sacrifício se mede em euros. Houve quem vendesse o carro e percorresse 14 mil quilómetros de mota sem bilhete garantido e quem ainda vendesse uma casa para financiar a sua presença nos EUA.",
-      "source": "Observador",
-      "date": "Sun, 19 Jul 2026 19:59:00 +0100",
-      "url": "https://observador.pt/2026/07/19/seis-cartoes-esgotados-uma-casa-vendida-e-a-avo-no-pensamento-o-verdadeiro-preco-da-final-do-mundial/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:311/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19192508/gettyimages-2286695988-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "b38272e7",
+      "id": "9586ba95",
       "cat": "geral",
-      "title": "Concentração motard de Faro com 17 mil com balanço positivo",
-      "summary": "A 44.ª Concentração Internacional de Motos de Faro, que começou na quinta-feira, no Vale das Almas, em Faro, chegou ao fim com o tradicional desfile de motos, na manhã deste domingo.",
+      "title": "Luis de la Fuente, o obreiro do renascimento espanhol",
+      "summary": "Sem sucesso como jogador, demorou a encontrar a luz chamada RFEF. É um ás num desenvolvimento de jovens e chegou ao topo com títulos em todos as equipas. Aghegou ao topo do mundo e superou Del Bosque.",
       "source": "Observador",
-      "date": "Sun, 19 Jul 2026 18:41:10 +0100",
-      "url": "https://observador.pt/2026/07/19/concentracao-de-motos-de-faro-com-17-mil-pessoas-encerra-com-balanco-positivo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:129/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/17133013/43250549.jpg",
+      "date": "Mon, 20 Jul 2026 01:37:25 +0100",
+      "url": "https://observador.pt/2026/07/20/professor-de-scaloni-sobreviveu-ao-terramoto-de-2023-e-o-percurso-a-pulso-ate-ao-topo-de-la-fuente-o-treinador-mais-titulado-da-roja/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1684:nowe:0:127/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20012621/gettyimages-2286230174.jpg",
       "score": 0.73
     },
     {
-      "id": "2620098f",
+      "id": "608743c7",
       "cat": "tecnologia",
-      "title": "CEO do Vila Galé: “O licenciamento demora mais do que a execução de um hotel”",
-      "summary": "A vontade de expandir a pegada do Vila Galé é grande, seja em Portugal ou noutros pontos do globo. Por cá, a demora nos licenciamentos é um “constrangimento” e lá fora há projetos em andamento, nomeadamente no Brasil. Em Espanha não há procura ativa, mas entrada em Cabo Verde seria “o sonho”.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 19 Jul 2026 18:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/ceo-do-vila-gale-o-licenciamento-demora-mais-do-que-a-execucao-de-um-hotel",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-17-16-56-11-526837.jpg",
+      "title": "Fotogaleria. A \"fiesta\" espanhola no Terreiro do Paço",
+      "summary": "A língua espanhola encheu o Terreiro do Paço e no final a vitória sorriu à La Roja. Um golo solitário do avançado espanhol Ferran Torres selou o jogo de sentido único na final do Mundial-2026.",
+      "source": "Observador",
+      "date": "Mon, 20 Jul 2026 01:19:19 +0100",
+      "url": "https://observador.pt/2026/07/20/espanhois-e-argentinos-encheram-o-terreiro-do-paco-mas-no-final-a-vitoria-foi-roja-as-imagens-da-fiesta-espanhola-em-lisboa/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1403:nowe:0:92/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/20010803/ts154a5808.jpg",
       "score": 0.73
     },
     {
-      "id": "0e5dc473",
+      "id": "1496a691",
       "cat": "tecnologia",
-      "title": "A amizade aguenta um contrato?",
-      "summary": "Uma parceria pode terminar sem que uma amizade tenha de acabar. Porque um contrato organiza trabalho. Não devia definir relações.",
+      "title": "“Esforço para aumentar os salários é inglório”, critica CEO do grupo Vila Galé",
+      "summary": "Sobre a estratégia do turismo, anunciada e que nunca avançou, Gonçalo Rebelo de Almeida diz ao Negócios e à Antena 1 que o Governo tem de fazer cidades para os residentes, e que os turistas virão.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 19 Jul 2026 18:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-amizade-aguenta-um-contrato",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-01/img_394x514uu2025-01-07-15-32-00-493636.png",
-      "score": 0.73
-    },
-    {
-      "id": "ada72f43",
-      "cat": "tecnologia",
-      "title": "A sua semana dia a dia: Juros do BCE, uma parede de dívida, novas contas e o “fim” das taxas de Trump",
-      "summary": "A semana está repleta de novos dados e contas, tanto por cá – com as cotadas do PSI a começarem a divulgar resultados – como lá fora. Portugal devolve 9 mil milhões em dívida e, no Reino Unido, Burnham deverá tomar posse como primeiro-ministro. E termina prazo para tarifas globais de 10% da Administ",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 19 Jul 2026 18:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/a-sua-semana-dia-a-dia-juros-do-bce-uma-parede-de-divida-novas-contas-e-o-fim-das-taxas-de-trump",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-14-18-19-00-522025.png",
+      "date": "Sun, 19 Jul 2026 21:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/esforco-para-aumentar-os-salarios-e-inglorio-critica-ceo-do-grupo-vila-gale",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-19-22-03-30-526885.jpg",
       "score": 0.73
     },
     {
@@ -190,13 +190,13 @@
       "score": 0.73
     },
     {
-      "id": "f3ac6103",
+      "id": "199092c6",
       "cat": "tecnologia",
       "title": "Borges abre com Luz, Rocha com Martinez e Pereira com Bueno",
       "summary": "Os tenistas portugueses Nuno Borges, Henrique Rocha e Tiago Pereira ficaram hoje a conhecer os primeiros adversários da ronda inaugural da 11.ª edição do Estoril Open, a decorrer até domingo no Clube de Ténis do Estoril.",
       "source": "RTP",
       "date": "Sun, 19 Jul 2026 19:17:27 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/borges-abre-com-luz-rocha-com-martinez-e-pereira-com-bueno_d1754486",
+      "url": "https://www.rtp.pt/noticias/tenis/borges-abre-com-luz-rocha-com-martinez-e-pereira-com-bueno_d1754486",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/62/62bce7d9fe557f0336c6e61499d1ed4b?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format",
       "score": 0.73
     },
@@ -311,25 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "21c87ffc",
+      "id": "61db347f",
       "cat": "tecnologia",
-      "title": "MP diz que promotor do Hilton anexou terreno com rua pública em Cascais para manter sete pisos. E câmara aceitou",
-      "summary": "Acção que deu entrada em tribunal pede a nulidade dos actos administrativos e contratos que permitiram a construção do hotel. MP pede a demolição de três pisos. Câmara diz que não foi citada.",
+      "title": "Espanha: o triunfo do futebol e o balanço deste Mundial",
+      "summary": "Neste P24 ouvimos a análise dos jornalistas do PÚBLICO Nuno Sousa, Marco Vaza e Diogo Cardoso Oliveira.",
       "source": "Público",
-      "date": "Sun, 19 Jul 2026 18:40:27 GMT",
-      "url": "https://www.publico.pt/2026/07/19/sociedade/noticia/ministerio-publico-promotor-hilton-anexou-terreno-rua-publica-manter-sete-pisos-camara-aceitou-2182297",
+      "date": "Mon, 20 Jul 2026 02:29:09 GMT",
+      "url": "https://www.publico.pt/2026/07/20/desporto/noticia/espanha-triunfo-futebol-balanco-mundial-2181963",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "8123cb45",
+      "id": "04c9326e",
       "cat": "tecnologia",
-      "title": "Caixa Geral de Depósitos mantém ritmo de contratações com a IA",
-      "summary": "Macedo anunciou contratação de 1000 trabalhadores em cinco anos, o que segue a média anual até aqui. Saídas também são para continuar. Inteligência artificial e dados são áreas de aposta.",
-      "source": "Público",
-      "date": "Sun, 19 Jul 2026 18:00:00 GMT",
-      "url": "https://www.publico.pt/2026/07/19/economia/noticia/caixa-geral-depositos-mantem-ritmo-contratacoes-ia-2181982",
-      "img": null,
+      "title": "Bruxelas quer medidas restritivas no Orçamento do Estado para 2027",
+      "summary": "Com Portugal em risco de furar os limites da despesa líquida, a Comissão Europeia quer que a proposta de OE inclua medidas restritivas. Sem efeito do fim do PRR e em políticas invariantes, Portugal está em contraciclo face ao recomendado.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 19 Jul 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/bruxelas-quer-medidas-restritivas-no-orcamento-do-estado-para-2027",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-09-14-07-41-510966.jpg",
       "score": 0.7
     }
   ]
