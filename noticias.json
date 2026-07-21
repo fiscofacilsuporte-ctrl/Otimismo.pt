@@ -1,5 +1,5 @@
 {
-  "last_update": "20/07/2026 19:51 UTC",
+  "last_update": "21/07/2026 03:29 UTC",
   "total": 30,
   "news": [
     {
@@ -28,22 +28,11 @@
       "id": "e6352e1c",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: a líder ecológica Estônia e mais",
-      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais The post O que correu bem esta semana: a líder ecológica Estónia, e mais apareceu primeiro em Positive News.",
+      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais",
       "source": "Positive News",
       "date": "Fri, 10 Jul 2026 05:07:49 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-487525618.jpeg",
-      "score": 0.82
-    },
-    {
-      "id": "6a1bdf34",
-      "cat": "tecnologia",
-      "title": "Diamantes e ‘táxi em órbita’: foguete com o objetivo de transformar as ambições espaciais da Índia decola",
-      "summary": "O primeiro unicórnio de tecnologia espacial da Índia, Skyroot Aerospace, lançou com sucesso o Vikram-1 no sábado.",
-      "source": "BBC News",
-      "date": "Sat, 18 Jul 2026 07:05:19 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56eb/live/beb0cb10-82a8-11f1-84ea-29e7008b1ad8.png",
       "score": 0.82
     },
     {
@@ -80,14 +69,14 @@
       "score": 0.79
     },
     {
-      "id": "047fea38",
-      "cat": "cultura",
-      "title": "Morreu João Marques Pinto, coleccionador de arte e primeiro presidente de Serralves",
-      "summary": "O empresário portuense dirigiu a Fundação de Serralves desde a sua criação, em 1989, até ao final do ano 2000. Foi uma figura marcante na gestão e na consolidação da instituição.",
-      "source": "Público",
-      "date": "Mon, 20 Jul 2026 19:20:34 GMT",
-      "url": "https://www.publico.pt/2026/07/20/culturaipsilon/noticia/morreu-joao-marques-pinto-coleccionador-arte-presidente-serralves-2182425",
-      "img": null,
+      "id": "a9e6e8f6",
+      "cat": "tecnologia",
+      "title": "1h. PCP defende gratuitidade na reapreciação dos exames",
+      "summary": "Paula Santos considera ainda que as questões levantadas por todo este processo continuam sem solução. Ainda, Donald Trump diz que teve uma conversa \"produtiva\" com o novo primeiro-ministro britânico.",
+      "source": "Observador",
+      "date": "Tue, 21 Jul 2026 01:13:30 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2329/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.76
     },
     {
@@ -146,80 +135,36 @@
       "score": 0.76
     },
     {
-      "id": "67b4292e",
+      "id": "46e9296b",
       "cat": "tecnologia",
-      "title": "Ventura diz que caso Luís Neves põe em causa “regular funcionamento das instituições”",
-      "summary": "Líder do Chega já tinha defendido, numa carta enviada ao primeiro-ministro, que a manutenção do ministro da Administração Interna no cargo arrasta o Governo para a “cumplicidade criminosa”",
+      "title": "Será que a PSU(nha) tem cura?",
+      "summary": "Por baixo do apregoado lenço da modernidade, persiste uma ideia velha e caduca sobre a finalidade das prestações sociais e os seus beneficiários, vistos, por defeito, como suspeitos e infratores.",
       "source": "Público",
-      "date": "Mon, 20 Jul 2026 19:11:28 GMT",
-      "url": "https://www.publico.pt/2026/07/20/politica/noticia/ventura-caso-luis-neves-poe-causa-regular-funcionamento-instituicoes-2182403",
+      "date": "Mon, 20 Jul 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/07/21/opiniao/opiniao/sera-psunha-cura-2182149",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "5da424e0",
+      "id": "b8b0c8f2",
       "cat": "tecnologia",
-      "title": "Coimbra: Quinta das Bicas começa a realojar primeiros inquilinos. “Não é nenhum gueto”",
-      "summary": "É o maior projecto de habitação social financiado pelo PRR em todo o país. Nos próximos dias começam a mudar-se 298 pessoas para casas T1 e T2. Maioria são famílias monoparentais.",
-      "source": "Público",
-      "date": "Mon, 20 Jul 2026 18:16:43 GMT",
-      "url": "https://www.publico.pt/2026/07/20/local/noticia/coimbra-quinta-bicas-comeca-realojar-inquilinos-nao-gueto-2182420",
-      "img": null,
+      "title": "Sem carga ou dramatismo",
+      "summary": "Quem na política se prepara para dramatizar o discurso como forma de chantagem sobre quem governa saiba que aos portugueses pouco diz se o OE de 2027 é aprovado pelo PS ou pelo Chega.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 20 Jul 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/sem-carga-ou-dramatismo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
       "score": 0.73
     },
     {
-      "id": "aa0c9b33",
-      "cat": "tecnologia",
-      "title": "CCB: Estado reconhece exoneração sem fundamento",
-      "summary": "Francisca Carneiro Fernandes, afastada por Dalila Rodrigues sem direito a indemnização, chegou a acordo com a tutela em maio. Estado reconhece que a exoneração foi injustificada.",
-      "source": "Observador",
-      "date": "Mon, 20 Jul 2026 18:35:12 +0100",
-      "url": "https://observador.pt/2026/07/20/estado-reconhece-que-nao-havia-fundamento-para-exoneracao-da-ex-presidente-do-ccb/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/16102245/ccb-geral.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1f07e4b6",
-      "cat": "tecnologia",
-      "title": "É justo que os alunos paguem pela reapreciação das provas?",
-      "summary": "PS e Chega de acordo: reapreciação deve ser gratuita e a existência de uma época especial é sinal de falha do Governo. Já o PSD acredita que é a garantia de que nenhum aluno vai sair prejudicado.",
-      "source": "Observador",
-      "date": "Mon, 20 Jul 2026 18:35:04 +0100",
-      "url": "https://observador.pt/programas/explicador/e-justo-que-os-alunos-paguem-pela-reapreciacao-das-provas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
-      "score": 0.73
-    },
-    {
-      "id": "73130798",
+      "id": "5db3efcc",
       "cat": "economia",
-      "title": "Estabilização de talude na EN 17 obriga a desvio de trânsito",
-      "summary": "A Infraestruturas de Portugal intervém no quilómetro 41,800, em São Martinho da Cortiça. Obras integram investimento de 1,2 milhões de euros na Estrada da Beira.",
-      "source": "Observador",
-      "date": "Mon, 20 Jul 2026 18:26:04 +0100",
-      "url": "https://observador.pt/2026/07/20/desvio-de-transito-na-en-17-em-arganil-ate-7-de-agosto-para-estabilizacao-de-talude-na-estrada-da-beira/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:978:550:nowe:86:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/09104906/concluida-a-empreitada-de-reabilitacao-de-estruturas-de-contencao-e-taludes-na-en8.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1910f65c",
-      "cat": "tecnologia",
-      "title": "Nova plataforma digital para financiamento de projetos de investigação em embalagens",
-      "summary": "Iniciativa vai centralizar candidaturas ao programa que já apoiou 69 ideias sobre embalagens e economia circular, com mais de 6 milhões de euros investidos até agora.",
+      "title": "Navio atingido por projétil ao largo dos Emirados Árabes Unidos",
+      "summary": "\"O navio reportou ter sido atingido por um projétil desconhecido, causando danos no seu sistema de direção. Toda a tripulação está a salvo. Não há impacto ambiental\", sublinhou a Autoridade de Segurança Marítima do Reino Unido (UKMTO) em comunicado.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 20 Jul 2026 20:32:15 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/nova-plataforma-digital-para-financiamento-de-projetos-de-investigacao-em-embalagens",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-09/img_100x100uu2022-09-07-19-49-25-435580.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "f0e16777",
-      "cat": "tecnologia",
-      "title": "Ventura avisa PM e PR que manutenção do MAI coloca em causa \"regular funcionamento das instituições\"",
-      "summary": "O líder do Chega considera que o primeiro-ministro e até Luís Neves têm a capacidade de compreender que a demissão do ministro \"é a melhor forma de salvaguardar a integridade do Estado e das instituições\". Caso tal não aconteça, Ventura defende que António José Seguro deve ter uma palavra.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 20 Jul 2026 20:18:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ventura-avisa-pm-e-pr-que-manutencao-do-mai-coloca-em-causa-regular-funcionamento-das-instituicoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-10-17-19-03-523350.jpg",
+      "date": "Mon, 20 Jul 2026 22:18:45 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/navio-atingido-por-projetil-ao-largo-dos-emirados-arabes-unidos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-13-08-04-51-526470.jpg",
       "score": 0.73
     },
     {
@@ -231,6 +176,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "71ffb553",
+      "cat": "tecnologia",
+      "title": "FC Porto apresenta sul-coreano Hwang In-beom",
+      "summary": "O internacional sul-coreano Hwang In-beom é reforço do FC Porto, vindo do vice-campeão neerlandês Feyenoord, numa transferência que custou 4,5 milhões de euros aos cofres portistas, confirmou o emblema &#039;azul e branco&#039;.",
+      "source": "RTP",
+      "date": "Mon, 20 Jul 2026 23:42:04 +0100",
+      "url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-apresenta-sul-coreano-hwang-in-beom_d1754726",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/07/07be59482ca61229a9c0d00725acf52a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -256,14 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "27868a86",
-      "cat": "ciencia",
-      "title": "Novo líder britânico inicia remodelação e dispensa ministra das Finanças",
-      "summary": "O novo primeiro-ministro britânico, Andy Burnham, que assumiu funções esta segunda-feira, dispensou o vice-primeiro-ministro e ministro da Justiça, David Lammy, bem como Rachel Reeves, Liz Kendall e Steve Reed, até agora ministros das Finanças, Ciência e Habitação, respetivamente. &#8220;Teria orgul",
+      "id": "4f52ee0b",
+      "cat": "tecnologia",
+      "title": "Burnham afasta aliados de Starmer durante remodelação governamental",
+      "summary": "O novo primeiro-ministro britânico, o trabalhista Andy Burnham, apresentou esta segunda-feira o seu Governo, marcado pelo afastamento de várias figuras próximas do seu antecessor, Keir Starmer, após prometer &#8220;mudar a política&#8221;. Entre as principais decisões, destaca-se a nomeação surpresa",
       "source": "ECO",
-      "date": "Mon, 20 Jul 2026 16:51:42 +0000",
-      "url": "https://eco.sapo.pt/2026/07/20/novo-lider-britanico-inicia-remodelacao-e-dispensa-ministra-das-financas/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47333774-scaled-1.jpg",
+      "date": "Mon, 20 Jul 2026 20:55:50 +0000",
+      "url": "https://eco.sapo.pt/2026/07/20/burnham-afasta-aliados-de-starmer-durante-remodelacao-governamental/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47493120-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -300,6 +256,17 @@
       "score": 0.73
     },
     {
+      "id": "55bfaebd",
+      "cat": "tecnologia",
+      "title": "Controverso esquema de subsídio agrícola obtém orçamento de bilhões de libras",
+      "summary": "O Esquema de Agricultura Sustentável, atingido por protestos, foi introduzido após quase uma década em desenvolvimento.",
+      "source": "BBC News",
+      "date": "Mon, 20 Jul 2026 05:49:38 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kn49y3vdo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b9/live/03604bf0-839e-11f1-8c34-fb0b540950a3.jpg",
+      "score": 0.73
+    },
+    {
       "id": "92bcf351",
       "cat": "ambiente",
       "title": "E se nunca construíssemos outro novo edifício?",
@@ -322,14 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "c8ced442",
+      "id": "48f961eb",
       "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "title": "Fernado Alexandre disse que correu tudo bem nos exames, mas riu-se",
+      "summary": "“Se isto tivesse corrido muito mal, sim, a minha posição não havia dúvidas de que estaria em causa, mas não é isso que estamos a ver”, disse o ministro da Educação.",
+      "source": "Público",
+      "date": "Tue, 21 Jul 2026 00:35:29 GMT",
+      "url": "https://www.publico.pt/2026/07/21/politica/noticia/fernado-alexandre-correu-bem-exames-riuse-2182438",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "2d0808bd",
+      "cat": "tecnologia",
+      "title": "A cabeça de Fernando Alexandre e outros escritos",
+      "summary": "A demissão do ministro da Educação teria um preço equivalente a um tiro no porta-aviões de toda e qualquer reforma minimamente ambiciosa que Montenegro ainda sonhasse fazer. Opinião de Pedro Norton",
+      "source": "Público",
+      "date": "Mon, 20 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/21/opiniao/opiniao/cabeca-fernando-alexandre-escritos-2182404",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "575f7106",
+      "cat": "tecnologia",
+      "title": "2h. Donald Trump diz que conversou com Andy Burnham",
+      "summary": "Donald Trump adianta que ambos os líderes vão-se encontrar em breve para “tratar de temas de interesse mútuo”. Ainda, a Fenprof acusa o Governo de lançar um clima de suspeição sobre os professores.",
+      "source": "Observador",
+      "date": "Tue, 21 Jul 2026 02:14:50 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2355/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "3864b8cd",
+      "cat": "geral",
+      "title": "O futuro é uma boa obsessão",
+      "summary": "Se há obsessões boas, uma delas é essa: um futuro melhor, em vez de um presente ou de um futuro perfeitos.",
+      "source": "Observador",
+      "date": "Tue, 21 Jul 2026 00:24:54 +0100",
+      "url": "https://observador.pt/opiniao/o-futuro-e-uma-boa-obsessao/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A4%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F07%2F15145446%2Fnunogpocas.jpg",
       "score": 0.7
     }
   ]
