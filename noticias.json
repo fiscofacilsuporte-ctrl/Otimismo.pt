@@ -1,7 +1,18 @@
 {
-  "last_update": "21/07/2026 03:29 UTC",
+  "last_update": "21/07/2026 08:40 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "ce5f07ce",
+      "cat": "tecnologia",
+      "title": "‘Um lugar de esperança e soluções’: o edifício que promete um futuro melhor",
+      "summary": "Um novo edifício ousado na Holanda promete apresentar soluções para problemas globais – e encorajar ações positivas O post ‘Um lugar de esperança e soluções’: o edifício que promete um futuro melhor apareceu primeiro em Notícias Positivas.",
+      "source": "Positive News",
+      "date": "Tue, 21 Jul 2026 06:00:51 +0000",
+      "url": "https://www.positive.news/society/the-rotterdam-building-promising-a-better-future/",
+      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/07/0_Tidal-Park-Elevation_Final-e1784558750826.jpeg",
+      "score": 0.82
+    },
     {
       "id": "abe9dc06",
       "cat": "ciencia",
@@ -25,15 +36,15 @@
       "score": 0.82
     },
     {
-      "id": "e6352e1c",
+      "id": "7b613df7",
       "cat": "tecnologia",
-      "title": "O que deu certo esta semana: a líder ecológica Estônia e mais",
-      "summary": "A “maior recuperação florestal” do mundo, um novo teste para o cancro do útero e o progresso ambiental da Europa, e muito mais",
-      "source": "Positive News",
-      "date": "Fri, 10 Jul 2026 05:07:49 +0000",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-487525618.jpeg",
-      "score": 0.82
+      "title": "PTRR: boa ideia que precisa de provar que é mais do que anúncio",
+      "summary": "Portugal necessita de investimento. Necessita de mais produtividade, mais competitividade, mais inovação e mais capacidade para criar riqueza. Nesse contexto, qualquer programa que procure mobilizar recursos para transformar a economia merece ser saudado. O PTRR &#8211; Plano de Transformação, Recup",
+      "source": "ECO",
+      "date": "Tue, 21 Jul 2026 08:30:54 +0000",
+      "url": "https://eco.sapo.pt/opiniao/ptrr-boa-ideia-que-precisa-de-provar-que-e-mais-do-que-anuncio/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2025/06/virgilio-macedo_opiniao-2.jpg",
+      "score": 0.79
     },
     {
       "id": "a6585b98",
@@ -69,36 +80,25 @@
       "score": 0.79
     },
     {
-      "id": "a9e6e8f6",
+      "id": "4cdd01f3",
       "cat": "tecnologia",
-      "title": "1h. PCP defende gratuitidade na reapreciação dos exames",
-      "summary": "Paula Santos considera ainda que as questões levantadas por todo este processo continuam sem solução. Ainda, Donald Trump diz que teve uma conversa \"produtiva\" com o novo primeiro-ministro britânico.",
+      "title": "Trincão a ganhar mais do que os campeões mundiais?",
+      "summary": "Com a Federação Espanhola a lucrar milhões, o contrato de Trincão consegue ser mais impressionante. Entre recordes de Rodri e fiascos musicais, a corrida pela Bola de Ouro nunca esteve tão renhida.",
       "source": "Observador",
-      "date": "Tue, 21 Jul 2026 01:13:30 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2329/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Tue, 21 Jul 2026 08:28:03 +0100",
+      "url": "https://observador.pt/programas/tres-toques/trincao-a-ganhar-mais-do-que-os-campeoes-mundiais/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151953/770-podcast-tres-toques-2025-v2.jpg",
       "score": 0.76
     },
     {
-      "id": "8c07d521",
-      "cat": "economia",
-      "title": "Sete primeiros-ministros em 10 anos!!!",
-      "summary": "Nas eleições de 2024 no Reino Unido, todos os recordes no que toca a diversidade foram batidos. Dois anos depois, o país está pior. A culpa não será da diversidade, mas da igualdade na asneira.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 20 Jul 2026 20:28:04 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/jose-bento-da-silva/detalhe/sete-primeiros-ministros-em-10-anos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-01/img_394x514uu2025-01-20-11-09-32-494297.png",
-      "score": 0.76
-    },
-    {
-      "id": "20eadd65",
+      "id": "7ec56269",
       "cat": "tecnologia",
-      "title": "Final do Mundial 2026 vista, em média, por mais de três milhões de telespectadores",
-      "summary": "A final do Mundial de 2026, que ditou a vitória da Espanha contra a Argentina, foi acompanhada, em média, por mais de três milhões de telespectadores em Portugal &#8212; de acordo com a análise elaborada pela Dentsu para o +M. O encontro, transmitido pelas 20h00 na RTP1, Sport TV 1 e Sport TV 5 regi",
+      "title": "O tabu do debate da imigração",
+      "summary": "Quando falamos de imigração, a primeira intuição económica seria pensar que a curva da procura de trabalho tem inclinação negativa, pelo que um aumento da oferta aumentaria o emprego, mas diminuiria o salário. Esta interpretação peca pela simplificação, porque a realidade é mais complexa. Os imigran",
       "source": "ECO",
-      "date": "Mon, 20 Jul 2026 17:25:59 +0000",
-      "url": "https://eco.sapo.pt/2026/07/20/final-do-mundial-2026-vista-em-media-por-mais-de-tres-milhoes-de-telespectadores/",
-      "img": "https://eco.imgix.net/uploads/2026/06/audiencias-mundial-2000x1125-1.jpg",
+      "date": "Tue, 21 Jul 2026 06:34:57 +0000",
+      "url": "https://eco.sapo.pt/opiniao/o-tabu-do-debate-da-imigracao/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2024/10/jose-paulo-soares_opiniao.png",
       "score": 0.76
     },
     {
@@ -135,36 +135,47 @@
       "score": 0.76
     },
     {
-      "id": "46e9296b",
-      "cat": "tecnologia",
-      "title": "Será que a PSU(nha) tem cura?",
-      "summary": "Por baixo do apregoado lenço da modernidade, persiste uma ideia velha e caduca sobre a finalidade das prestações sociais e os seus beneficiários, vistos, por defeito, como suspeitos e infratores.",
+      "id": "29529b87",
+      "cat": "ciencia",
+      "title": "FIFA anuncia investigação aos distúrbios após o apito final do Espanha-Argentina",
+      "summary": "Não foi indicado prazo para a conclusão da investigação, que pode resultar na suspensão de qualquer envolvido, além de multa à Federação Argentina de Futebol.",
       "source": "Público",
-      "date": "Mon, 20 Jul 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/07/21/opiniao/opiniao/sera-psunha-cura-2182149",
+      "date": "Tue, 21 Jul 2026 06:47:09 GMT",
+      "url": "https://www.publico.pt/2026/07/21/desporto/noticia/fifa-anuncia-investigacao-disturbios-apos-apito-final-espanhaargentina-2182451",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "b8b0c8f2",
+      "id": "8c5fb534",
       "cat": "tecnologia",
-      "title": "Sem carga ou dramatismo",
-      "summary": "Quem na política se prepara para dramatizar o discurso como forma de chantagem sobre quem governa saiba que aos portugueses pouco diz se o OE de 2027 é aprovado pelo PS ou pelo Chega.",
+      "title": "China quer limitar exportação de semicondutores e tecnologias de IA",
+      "summary": "Lançamento do modelo Kimi K3, da startup Moonshot AI, relançou o debate interno na China sobre o protecionismo tecnológico.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 20 Jul 2026 23:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/sem-carga-ou-dramatismo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
+      "date": "Tue, 21 Jul 2026 08:36:46 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/china-quer-limitar-exportacao-de-semicondutores-e-tecnologias-de-ia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-21-08-36-07-526942.jpg",
       "score": 0.73
     },
     {
-      "id": "5db3efcc",
-      "cat": "economia",
-      "title": "Navio atingido por projétil ao largo dos Emirados Árabes Unidos",
-      "summary": "\"O navio reportou ter sido atingido por um projétil desconhecido, causando danos no seu sistema de direção. Toda a tripulação está a salvo. Não há impacto ambiental\", sublinhou a Autoridade de Segurança Marítima do Reino Unido (UKMTO) em comunicado.",
+      "id": "35d20114",
+      "cat": "tecnologia",
+      "title": "Bolsa de Lisboa abre em alta. BCP avança quase 1%, Impresa sobe outros 5%",
+      "summary": "O início da sessão é marcado por uma negociação dividida no índice principal, com sete cotadas em terreno positivo, sete em terreno negativo e duas (Navigator e Ren) ainda inalteradas.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 20 Jul 2026 22:18:45 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/navio-atingido-por-projetil-ao-largo-dos-emirados-arabes-unidos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-13-08-04-51-526470.jpg",
+      "date": "Tue, 21 Jul 2026 08:24:40 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-abre-em-alta-bcp-avanca-quase-1-impresa-sobe-outros-5",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-02-15-05-15-508478.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "dc43d166",
+      "cat": "economia",
+      "title": "China reforça compras de soja brasileira e corta importações dos EUA",
+      "summary": "As importações chinesas de soja atingiram 13,55 milhões de toneladas em junho, um máximo histórico para este mês.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 21 Jul 2026 07:47:41 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/china-reforca-compras-de-soja-brasileira-e-corta-importacoes-dos-eua",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-01-14-02-42-508423.jpg",
       "score": 0.73
     },
     {
@@ -179,6 +190,17 @@
       "score": 0.73
     },
     {
+      "id": "df892133",
+      "cat": "tecnologia",
+      "title": "Portugal desce ao sétimo lugar do ranking da FIFA, campeã mundial Espanha sobe à liderança",
+      "summary": "Portugal desceu do quinto para o sétimo lugar do ranking da FIFA, que foi divulgado hoje e passou a ser liderado pela Espanha, ao ultrapassar a Argentina, após a vitória sobre os sul-americanos na final do Mundial2026.",
+      "source": "RTP",
+      "date": "Tue, 21 Jul 2026 09:35:22 +0100",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-desce-ao-setimo-lugar-do-ranking-da-fifa-campea-mundial-espanha-sobe-a-lideranca_d1754794",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/22/22b28a086390a77bfb3391de0edbd1c7?w=350&amp;q=50&amp;rect=0,264,1771,971&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "71ffb553",
       "cat": "tecnologia",
       "title": "FC Porto apresenta sul-coreano Hwang In-beom",
@@ -190,36 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "4a2864c5",
+      "id": "313c80f3",
       "cat": "tecnologia",
-      "title": "Vitória de Guimarães inicia estágio sem o guarda-redes Charles",
-      "summary": "O Vitória de Guimarães iniciou hoje, no Algarve, o estágio de pré-temporada sem o guarda-redes Charles no lote de 25 jogadores às ordens do treinador Tiago Margarido.",
-      "source": "RTP",
-      "date": "Mon, 20 Jul 2026 20:54:13 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/vitoria-de-guimaraes-inicia-estagio-sem-o-guarda-redes-charles_d1754688",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/29/295e0dc81b0052e63630a4cb9ec2fd29?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "5a482ad4",
-      "cat": "tecnologia",
-      "title": "Estrela da Amadora rescinde por mútuo acordo com defesa Yahya Kalley",
-      "summary": "O Estrela da Amadora rescindiu o contrato, por mútuo acordo, com o defesa sueco Yahya Kalley, que havia chegado ao clube em janeiro, anunciou hoje o clube da I Liga portuguesa de futebol no seu site oficial.",
-      "source": "RTP",
-      "date": "Mon, 20 Jul 2026 20:51:20 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/estrela-da-amadora-rescinde-por-mutuo-acordo-com-defesa-yahya-kalley_d1754686",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "4f52ee0b",
-      "cat": "tecnologia",
-      "title": "Burnham afasta aliados de Starmer durante remodelação governamental",
-      "summary": "O novo primeiro-ministro britânico, o trabalhista Andy Burnham, apresentou esta segunda-feira o seu Governo, marcado pelo afastamento de várias figuras próximas do seu antecessor, Keir Starmer, após prometer &#8220;mudar a política&#8221;. Entre as principais decisões, destaca-se a nomeação surpresa",
+      "title": "Brisa exige 1,12 mil milhões de euros ao Estado na renegociação da concessão",
+      "summary": "A Brisa está a reclamar ao Estado compensações de 1.122,5 milhões de euros no âmbito da renegociação do contrato de concessão, um processo que decorre desde o primeiro trimestre de 2025 e que deverá ficar concluído após o verão. O valor é revelado pela Unidade Técnica de Acompanhamento de Projetos (",
       "source": "ECO",
-      "date": "Mon, 20 Jul 2026 20:55:50 +0000",
-      "url": "https://eco.sapo.pt/2026/07/20/burnham-afasta-aliados-de-starmer-durante-remodelacao-governamental/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47493120-scaled-1.jpg",
+      "date": "Tue, 21 Jul 2026 06:31:05 +0000",
+      "url": "https://eco.sapo.pt/2026/07/21/brisa-exige-112-mil-milhoes-de-euros-ao-estado-na-renegociacao-da-concessao/",
+      "img": "https://eco.imgix.net/uploads/2023/04/cropped-grupo-brisa_1-1-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -258,12 +258,23 @@
     {
       "id": "55bfaebd",
       "cat": "tecnologia",
-      "title": "Controverso esquema de subsídio agrícola obtém orçamento de bilhões de libras",
+      "title": "Controverso esquema de subsídios agrícolas obtém orçamento de bilhões de libras",
       "summary": "O Esquema de Agricultura Sustentável, atingido por protestos, foi introduzido após quase uma década em desenvolvimento.",
       "source": "BBC News",
       "date": "Mon, 20 Jul 2026 05:49:38 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cr7kn49y3vdo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b9/live/03604bf0-839e-11f1-8c34-fb0b540950a3.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "349d7930",
+      "cat": "saude",
+      "title": "Os carros elétricos estão nos tornando mais saudáveis?",
+      "summary": "Esta história foi co-publicada pela Reasons to be Cheerful e pela Outrider Foundation. Na virada do século, Pequim tinha um milhão de veículos. Em 2010, apenas uma década depois, a capital chinesa tinha registado cinco vezes mais. E com esta gigantesca frota de queima de combustíveis fósseis vieram grandes nuvens",
+      "source": "Reasons to be Cheerful",
+      "date": "Tue, 21 Jul 2026 08:00:26 +0000",
+      "url": "https://reasonstobecheerful.world/electric-vehicles-air-quality-health/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_1863688690-scaled.jpg",
       "score": 0.73
     },
     {
@@ -278,58 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "13512fb1",
+      "id": "d5412eb5",
       "cat": "tecnologia",
-      "title": "A cidade que escolheu a beleza em vez dos outdoors",
-      "summary": "“Aqui costumava haver um enorme bloco de concreto, havia uma coluna publicitária, não era tão bonito”, diz Gilles Namur, acenando com a mão ao longo da Cours Lafontaine, uma rua que atravessa o centro histórico de Grenoble. Hoje, é uma visão completamente diferente. A rua tem.",
-      "source": "Reasons to be Cheerful",
-      "date": "Mon, 13 Jul 2026 08:00:40 +0000",
-      "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2576357661-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "48f961eb",
-      "cat": "tecnologia",
-      "title": "Fernado Alexandre disse que correu tudo bem nos exames, mas riu-se",
-      "summary": "“Se isto tivesse corrido muito mal, sim, a minha posição não havia dúvidas de que estaria em causa, mas não é isso que estamos a ver”, disse o ministro da Educação.",
+      "title": "Carlos Peninha volta ao seu “chão” inicial, a poesia, com um Chão Ardente neste Verão",
+      "summary": "Guitarrista, multi-instrumentista e compositor, Carlos Peninha tem um novo álbum onde a poesia e o estado do mundo são os principais motores. Ao vivo, vê-lo-emos em Agosto.",
       "source": "Público",
-      "date": "Tue, 21 Jul 2026 00:35:29 GMT",
-      "url": "https://www.publico.pt/2026/07/21/politica/noticia/fernado-alexandre-correu-bem-exames-riuse-2182438",
+      "date": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "url": "https://www.publico.pt/2026/07/21/culturaipsilon/noticia/carlos-peninha-volta-chao-inicial-poesia-chao-ardente-neste-verao-2182331",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "2d0808bd",
+      "id": "a9bbf53a",
       "cat": "tecnologia",
-      "title": "A cabeça de Fernando Alexandre e outros escritos",
-      "summary": "A demissão do ministro da Educação teria um preço equivalente a um tiro no porta-aviões de toda e qualquer reforma minimamente ambiciosa que Montenegro ainda sonhasse fazer. Opinião de Pedro Norton",
+      "title": "De São Paulo à cozinha japonesa, o chef Maurício Varela reencontra Aveiro no fogo",
+      "summary": "No Chefs on Fire , Maurício Varela coloca Japão e Bairrada no mesmo prato: o “Yakitori à Bairrada” cruza frango, leitão e uma técnica que o chef conheceu ainda no Brasil e aprofundou no Japão.",
       "source": "Público",
-      "date": "Mon, 20 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/21/opiniao/opiniao/cabeca-fernando-alexandre-escritos-2182404",
+      "date": "Tue, 21 Jul 2026 06:45:00 GMT",
+      "url": "https://www.publico.pt/2026/07/21/publico-brasil/noticia/sao-paulo-cozinha-japonesa-chef-mauricio-varela-reencontra-aveiro-fogo-2182426",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "575f7106",
+      "id": "bcdaf257",
       "cat": "tecnologia",
-      "title": "2h. Donald Trump diz que conversou com Andy Burnham",
-      "summary": "Donald Trump adianta que ambos os líderes vão-se encontrar em breve para “tratar de temas de interesse mútuo”. Ainda, a Fenprof acusa o Governo de lançar um clima de suspeição sobre os professores.",
+      "title": "Vá lá: cá está uma coisa que o ministro da Educação fez bem",
+      "summary": "O ministro da Educação (que não acredita em borlas), o ministro da Educação (que teve mais trapalhadas) e os entraves à concorrência (que são muitos) são o Bom, o Mau e o Vilão.",
       "source": "Observador",
-      "date": "Tue, 21 Jul 2026 02:14:50 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2355/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Tue, 21 Jul 2026 08:34:34 +0100",
+      "url": "https://observador.pt/programas/o-bom-o-mau-e-o-vilao/va-la-ca-esta-uma-coisa-que-o-ministro-da-educacao-fez-bem/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/29102001/770-podcast-o-bom-o-mau-e-o-vilao-2025.jpg",
       "score": 0.7
     },
     {
-      "id": "3864b8cd",
+      "id": "588f4891",
       "cat": "geral",
-      "title": "O futuro é uma boa obsessão",
-      "summary": "Se há obsessões boas, uma delas é essa: um futuro melhor, em vez de um presente ou de um futuro perfeitos.",
+      "title": "Segunda fase dos exames arranca: alunos continuam incertos",
+      "summary": "Prova de Português do 9.º e 12.º ano decorre às 9h30, apesar do ceticismo dos alunos: \"As notas que foram lançadas, muito provavelmente, estão erradas\". Segunda fase termina sexta-feira.",
       "source": "Observador",
-      "date": "Tue, 21 Jul 2026 00:24:54 +0100",
-      "url": "https://observador.pt/opiniao/o-futuro-e-uma-boa-obsessao/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A4%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F07%2F15145446%2Fnunogpocas.jpg",
+      "date": "Tue, 21 Jul 2026 08:33:15 +0100",
+      "url": "https://observador.pt/2026/07/21/segunda-fase-dos-exames-comeca-esta-terca-feira-com-incerteza-dos-alunos-sobre-notas-na-primeira/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19102037/47480811.jpg",
       "score": 0.7
     }
   ]
