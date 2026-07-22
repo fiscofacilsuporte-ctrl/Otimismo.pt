@@ -1,5 +1,5 @@
 {
-  "last_update": "21/07/2026 19:43 UTC",
+  "last_update": "22/07/2026 03:27 UTC",
   "total": 30,
   "news": [
     {
@@ -47,17 +47,6 @@
       "score": 0.79
     },
     {
-      "id": "18b1e370",
-      "cat": "tecnologia",
-      "title": "Residência universitária dos CVDB Arquitectos entre finalistas dos prémios WAF",
-      "summary": "Nas categorias principais, prémios do World Architecture Festival têm também entre os finalistas o Oriente Green Campus, colaboração entre atelier norte-americano KPF e gabinete Saraiva+Associados.",
-      "source": "Público",
-      "date": "Tue, 21 Jul 2026 17:15:48 GMT",
-      "url": "https://www.publico.pt/2026/07/21/culturaipsilon/noticia/residencia-universitaria-cvdb-arquitectos-finalistas-premios-waf-2182533",
-      "img": null,
-      "score": 0.76
-    },
-    {
       "id": "980c1f8e",
       "cat": "tecnologia",
       "title": "Esta é a chave do Euromilhões. Jackpot é de 59 milhões de euros",
@@ -66,17 +55,6 @@
       "date": "Tue, 21 Jul 2026 19:28:04 +0000",
       "url": "https://eco.sapo.pt/2026/07/21/esta-e-a-chave-do-euromilhoes-jackpot-e-de-59-milhoes-de-euros/",
       "img": "https://eco.imgix.net/uploads/2020/05/cropped-pndr1637-2.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "ccc05c6e",
-      "cat": "tecnologia",
-      "title": "Investigação continua. Chanel e outras marcas de luxo na mira de autoridades italianas por condições laborais",
-      "summary": "A polícia italiana realizou buscas às sedes de pelo menos nove marcas de luxo, incluindo Chanel, Moncler e Brunello Cucinelli, no âmbito de uma investigação por alegadas violações laborais por parte de empresas subcontratadas pelas detentoras destas marcas de luxo, de acordo com a agência Reuters e ",
-      "source": "ECO",
-      "date": "Tue, 21 Jul 2026 17:58:11 +0000",
-      "url": "https://eco.sapo.pt/2026/07/21/investigacao-continua-chanel-e-outras-marcas-de-luxo-na-mira-de-autoridades-italianas-por-condicoes-laborais/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc202401234219862111098161.jpg",
       "score": 0.76
     },
     {
@@ -146,91 +124,58 @@
       "score": 0.76
     },
     {
-      "id": "7bc79ee3",
-      "cat": "tecnologia",
-      "title": "Representação feminina no Parlamento não vai além dos “30 e pouco por cento”, como disse Isabel Mendes Lopes? Verdadeiro",
-      "summary": "De acordo com dados do site da Assembleia da República, existem 81 deputadas e 149 deputados. Elas ocupam, portanto, 35,2% do total, tal como afirmou a co-porta-voz do Livre, Isabel Mendes Lopes.",
+      "id": "0210c655",
+      "cat": "geral",
+      "title": "O cabelo de Kevin Keegan",
+      "summary": "Cinquenta anos depois, compreendo: para ter o cabelo à Kevin Keegan, primeiro era preciso deixar crescer um ouriço como o meu, onde se pudesse esculpir o famoso capacete. Crónica de Miguel Esteves Cardoso",
       "source": "Público",
-      "date": "Tue, 21 Jul 2026 18:00:08 GMT",
-      "url": "https://www.publico.pt/2026/07/21/politica/noticia/representacao-feminina-parlamento-nao-vai-alem-30-cento-isabel-mendes-lopes-verdadeiro-2182547",
+      "date": "Tue, 21 Jul 2026 23:05:00 GMT",
+      "url": "https://www.publico.pt/2026/07/22/opiniao/cronica/cabelo-kevin-keegan-2182482",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "7be1ea14",
-      "cat": "tecnologia",
-      "title": "Operação contra rinhas de galo mira cunhado de Cristiano Ronaldo no Brasil",
-      "summary": "Alexandre Bertolucci, marido da cantora Kátia Aveiro, irmã do jogador Cristiano Ronaldo, é suspeito de ser responsável por um dos criadouros de galos. Ele é investigado no Rio Grande do Sul.",
-      "source": "Público",
-      "date": "Tue, 21 Jul 2026 17:38:42 GMT",
-      "url": "https://www.publico.pt/2026/07/21/publico-brasil/noticia/operacao-rinhas-galo-mira-cunhado-cristiano-ronaldo-brasil-2182551",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "2bc97081",
-      "cat": "economia",
-      "title": "Menos 30% de empresas recorreram ao lay-off em 2025",
-      "summary": "Na apresentação de relatório sobre emprego, Maria do Rosário Palma Ramalho defendeu que \"rigidez da lei laboral\" é um entrave ao aumento da produtividade, que está \"estagnada\".",
+      "id": "b7ba8ffa",
+      "cat": "cultura",
+      "title": "Casa-Museu Amália celebra 25 anos de portas abertas",
+      "summary": "A programação da celebração dos 25 anos conta com uma sessão de fados e leitura de poesia de Amália Rodrigues, oficinas criativas e visitas guiadas. A sessão coincide com o aniversário da artista.",
       "source": "Observador",
-      "date": "Tue, 21 Jul 2026 19:02:32 +0100",
-      "url": "https://observador.pt/2026/07/21/menos-30-de-empresas-recorreram-ao-lay-off-em-2025-produtividade-manteve-se-estagnada/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/13141333/46625099.jpg",
+      "date": "Wed, 22 Jul 2026 00:26:21 +0100",
+      "url": "https://observador.pt/2026/07/22/fado-e-poesia-no-arranque-das-celebracoes-dos-25-anos-da-casa-museu-amalia-rodrigues/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/05/16911322.jpg",
       "score": 0.73
     },
     {
-      "id": "22b3e3bc",
-      "cat": "saude",
-      "title": "O PS poupa o dr. Neves porque o dr. Neves é o PS",
-      "summary": "Alberto Gonçalves constata e comenta a diferença de tratamento que o PS dedica ao ministro da Educação e ao ministro da Administração Interna",
-      "source": "Observador",
-      "date": "Tue, 21 Jul 2026 19:02:27 +0100",
-      "url": "https://observador.pt/programas/ideias-feitas/o-ps-poupa-o-dr-neves-porque-o-dr-neves-e-o-ps/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/14123800/770-podcastideias-feitas.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "db966e8e",
+      "id": "df781cdf",
       "cat": "tecnologia",
-      "title": "Seguro vai receber a mais alta distinção de Cabo Verde",
-      "summary": "O Presidente português chega esta terça-feira à Praia numa visita de Estado de três dias. A Ordem Amílcar Cabral é justificada com o seu percurso democrático e o reforço da parceria estratégica.",
-      "source": "Observador",
-      "date": "Tue, 21 Jul 2026 18:28:10 +0100",
-      "url": "https://observador.pt/2026/07/21/seguro-condecorado-com-a-mais-alta-distincao-de-cabo-verde-durante-visita-de-estado-ao-arquipelago/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:129/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/21180319/47292099.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1819dd51",
-      "cat": "tecnologia",
-      "title": "Carney e Trump vão aprofundar negociações comerciais após conversa telefónica",
-      "summary": "\"Chegámos a acordo para intensificar as negociações nas próximas semanas e a equipa e eu esperamos fazê-lo\", afirmou Mark Carney, depois de uma conversa telefónica com Donald Trump realizada esta terça-feira.",
+      "title": "Correios confirmam manifestação de interesse no Banco CTT",
+      "summary": "Os CTT referem que é prematuro considerar que esta manifestação de interesse não solicitada e não vinculativa possa resultar numa transação, depois de ter sido noticiado que o banco espanhol Cajamar estaria interessado numa parceria entre as duas instituições bancárias.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 21 Jul 2026 20:26:23 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carney-e-trump-vao-aprofundar-negociacoes-comerciais-apos-conversa-telefonica",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-21-07-10-55-526938.jpg",
+      "date": "Tue, 21 Jul 2026 23:47:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/correios-confirmam-manifestacao-de-interesse-no-banco-ctt",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-09/img_100x100uu2023-09-27-20-19-21-461364.jpg",
       "score": 0.73
     },
     {
-      "id": "c1e7b8f3",
+      "id": "d0777696",
       "cat": "tecnologia",
-      "title": "Novo Nordisk processa Eli Lilly nos EUA devido a alegações sobre fármacos para obesidade",
-      "summary": "A farmacêutica dinamarquesa processou a congénere norte-americana devido ao que diz serem alegações falsas sobre a menor eficácia do seu tratamento para a obesidade Wegovy, em comparação com o rival Zepbound.",
+      "title": "Bancos fecharam metade da rede de balcões em apenas 15 anos",
+      "summary": "Desapareceram milhares de agências, em vários pontos do país, muitas delas levando consigo as caixas automáticas, que encolheram em 20%. Há um aumento do número de trabalhadores no setor, mas esse crescimento é explicado apenas e só pelo francês BNP Paribas.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 21 Jul 2026 20:11:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/novo-nordisk-processa-eli-lilly-nos-eua-por-alegada-publicidade-enganosa-sobre-farmacos-para-obesidade",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-24-16-30-20-519048.jpg",
+      "date": "Tue, 21 Jul 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/bancos-fecharam-metade-da-rede-de-balcoes-em-apenas-15-anos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2014-04/img_100x100uu2014-04-10-21-49-00-220163.jpg",
       "score": 0.73
     },
     {
-      "id": "f27958cc",
-      "cat": "tecnologia",
-      "title": "Google e Meo amarram Nuvem em Sines, que só se liga em 2027",
-      "summary": "O Nuvem já chegou, mas o cabo que vai transportar dados dos EUA para a Europa, com passagem por dois territórios portugueses, só se vai ligar no próximo ano. Depois do investimento da Google e da Meo, o embaixador dos EUA revelou que Portugal está no caminho de mais investimentos.",
+      "id": "357b0743",
+      "cat": "ciencia",
+      "title": "Época especial de exames decorre entre 3 e 8 de setembro e inclui alunos elegíveis para 2.ª fase",
+      "summary": "Em comunicado, o Ministério da Educação, Ciência e Inovação detalhou que as inscrições decorrem de 27 a 31 de julho.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 21 Jul 2026 18:42:26 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/telecomunicacoes/detalhe/google-e-meo-amarram-nuvem-em-sines-que-so-se-liga-em-2027",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-21-16-31-06-526965.jpg",
+      "date": "Tue, 21 Jul 2026 22:46:05 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/epoca-especial-de-exames-decorre-entre-3-e-8-de-setembro-e-inclui-alunos-elegiveis-para-2-fase",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-17-08-52-48-526785.jpg",
       "score": 0.73
     },
     {
@@ -331,6 +276,61 @@
       "url": "https://reasonstobecheerful.world/what-if-we-never-built-another-new-building/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/DSC06804-scaled.jpg",
       "score": 0.73
+    },
+    {
+      "id": "2808806d",
+      "cat": "tecnologia",
+      "title": "Luís Neves não tem pressa em esclarecer o país",
+      "summary": "Luís Neves prometeu dar mais explicações, mas tarda-o em fazer.",
+      "source": "Público",
+      "date": "Wed, 22 Jul 2026 00:52:00 GMT",
+      "url": "https://www.publico.pt/2026/07/22/politica/noticia/luis-neves-nao-pressa-esclarecer-pais-2182576",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "82e1996b",
+      "cat": "tecnologia",
+      "title": "Mundial 2026: teatro do mundo",
+      "summary": "Agora que terminou o Mundial de 2026, vale a pena olhar para o que ele nos diz sobre o mundo em que vivemos. E diz-nos muita coisa. Opinião de Nuno Severiano Teixeira",
+      "source": "Público",
+      "date": "Tue, 21 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/22/opiniao/opiniao/mundial-2026-teatro-mundo-2182491",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "feeb8d38",
+      "cat": "tecnologia",
+      "title": "As notícias das 3h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Wed, 22 Jul 2026 03:12:09 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2383/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "acd78491",
+      "cat": "tecnologia",
+      "title": "2h. PJ celebrou 17 contratos com Construbarcelos",
+      "summary": "Os contratos formalizados entre 2019 e 2025 com a Construbarcelos atingiram um valor superior a 2 milhões e 230 mil euros. Ainda, médias das classificações dos exames nacionais desceram a Português.",
+      "source": "Observador",
+      "date": "Wed, 22 Jul 2026 02:13:53 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2356/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
     }
   ]
 }
