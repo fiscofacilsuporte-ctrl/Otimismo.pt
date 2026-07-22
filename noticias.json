@@ -1,5 +1,5 @@
 {
-  "last_update": "22/07/2026 08:39 UTC",
+  "last_update": "22/07/2026 14:12 UTC",
   "total": 30,
   "news": [
     {
@@ -36,25 +36,14 @@
       "score": 0.82
     },
     {
-      "id": "e5353e49",
-      "cat": "tecnologia",
-      "title": "Sumol Compal planeia ter produção nos EUA até 2028",
-      "summary": "A Sumol Compal tem “planos ambiciosos” para os EUA, onde procura lançar-se com uma parceria para produção e distribuição de sumos. A Europa também está na mira, esperando-se “novidades em breve” sobre um novo mercado no âmbito de uma estratégia para elevar o peso das vendas fora de Portugal.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 22 Jul 2026 09:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/sumol-compal-planeia-ter-producao-nos-eua-ate-2028",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-21-21-44-00-526981.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "26570594",
-      "cat": "tecnologia",
-      "title": "Compra de 3,9 mil milhões das fragatas com retorno “assinalável”, mas indústria ainda às escuras",
-      "summary": "A compra de três fragatas FREMM EVO à italiana Fincantieri por cerca de 3,9 mil milhões de euros vai ter um retorno &#8220;assinalável&#8221; para a economia portuguesa, mas no setor de defesa nacional não é claro quanto desse investimento se vai refletir na indústria, nem há informação oficial sobr",
+      "id": "32f17e01",
+      "cat": "economia",
+      "title": "Seguro quer mais alianças empresariais entre Portugal e Cabo Verde e aponta quatro desafios",
+      "summary": "O Presidente da República, António José Seguro, desafiou esta quarta-feira empresas portuguesas e cabo-verdianas a aprofundarem a cooperação económica e a criarem mais parcerias estratégicas, defendendo que a relação bilateral deve evoluir do comércio para o investimento produtivo. Na abertura do Fó",
       "source": "ECO",
-      "date": "Wed, 22 Jul 2026 05:27:10 +0000",
-      "url": "https://eco.sapo.pt/2026/07/22/compra-de-39-mil-milhoes-das-fragatas-com-retorno-assinalavel-mas-industria-ainda-as-escuras/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-defesa-fragatas-2.jpg",
+      "date": "Wed, 22 Jul 2026 13:28:58 +0000",
+      "url": "https://eco.sapo.pt/2026/07/22/seguro-quer-mais-aliancas-empresariais-entre-portugal-e-cabo-verde-e-aponta-quatro-desafios-para-a-cooperacao-economica/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-whatsapp-image-2026-07-22-at-135846.jpeg",
       "score": 0.76
     },
     {
@@ -74,7 +63,7 @@
       "title": "O maior parque eólico do Reino Unido será reconstruído com menos turbinas maiores",
       "summary": "O Whitelee Windfarm produz eletricidade há cerca de 20 anos em um trecho de charneca perto de Eaglesham, mas está chegando ao fim de sua vida útil.",
       "source": "BBC News",
-      "date": "Wed, 22 Jul 2026 06:12:32 GMT",
+      "date": "Wed, 22 Jul 2026 09:28:47 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cvgl9vp4vqvo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d04/live/ccd6e420-8502-11f1-8b9b-a724b687bb3b.jpg",
       "score": 0.76
@@ -102,6 +91,28 @@
       "score": 0.76
     },
     {
+      "id": "cac1b0ec",
+      "cat": "ciencia",
+      "title": "Um estranho efeito quântico aumenta dramaticamente a transferência de energia",
+      "summary": "Os pesquisadores descobriram um mecanismo assistido por prótons que melhora muito a forma como a energia tripla se move entre pontos quânticos e moléculas próximas. O próton muda brevemente de posição, ajuda a coordenar o movimento dos elétrons e depois retorna ao ponto de partida. Este ônibus movido a energia quântica poderia oferecer um poderoso",
+      "source": "ScienceDaily",
+      "date": "Wed, 22 Jul 2026 08:17:00 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "img": "https://www.sciencedaily.com/images/1920/proton-shuttle-assisted-triplet-energy-transfer.webp",
+      "score": 0.76
+    },
+    {
+      "id": "508f4084",
+      "cat": "tecnologia",
+      "title": "Cientistas revivem um poderoso antibiótico que as superbactérias derrotaram",
+      "summary": "Os cientistas descobriram uma maneira de reviver a vancomicina, um poderoso antibiótico ao qual algumas bactérias perigosas aprenderam a resistir. Em vez de criar um medicamento inteiramente novo, os investigadores associaram a vancomicina a uma pequena molécula chamada pghi-4, que bloqueia uma enzima bacteriana ligada à resistência. A combinação",
+      "source": "ScienceDaily",
+      "date": "Wed, 22 Jul 2026 03:21:08 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+      "img": "https://www.sciencedaily.com/images/1920/antibiotic-resistance-fighting-bacteria.webp",
+      "score": 0.76
+    },
+    {
       "id": "137276ec",
       "cat": "ciencia",
       "title": "Astrônomos encontram a primeira atmosfera em um mundo rochoso na zona habitável",
@@ -110,28 +121,6 @@
       "date": "Tue, 21 Jul 2026 06:57:41 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
       "img": "https://www.sciencedaily.com/images/1920/exoplanet-lhs-1140-b.webp",
-      "score": 0.76
-    },
-    {
-      "id": "55ba6a12",
-      "cat": "ciencia",
-      "title": "Um sinal oculto de “desligamento” poderia prever tempestades solares com sete anos de antecedência",
-      "summary": "Um ponto de viragem recentemente descoberto no ciclo de 11 anos do Sol poderá permitir aos cientistas prever a actividade solar futura anos mais cedo do que antes. Neste ponto de “desligamento”, o clima espacial mais violento termina abruptamente e o número restante de manchas solares oferece pistas sobre a força do próximo ciclo.",
-      "source": "ScienceDaily",
-      "date": "Tue, 21 Jul 2026 04:08:25 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000818.htm",
-      "img": "https://www.sciencedaily.com/images/1920/nasa-solar-dynamics-observatory-coronal-mass-ejection-sun-eruption.webp",
-      "score": 0.76
-    },
-    {
-      "id": "05d8b092",
-      "cat": "ciencia",
-      "title": "Novo mapa molecular revela como o vírus da gripe sequestra células humanas",
-      "summary": "Os cientistas descobriram como a gripe A comanda as células humanas, incluindo uma estratégia surpreendente que dissolve pequenas estruturas no núcleo e liberta proteínas que o vírus pode utilizar para se reproduzir. O mapa molecular detalhado pode revelar novos alvos de medicamentos e ajudar os pesquisadores a estudar cepas perigosas de gripe",
-      "source": "ScienceDaily",
-      "date": "Tue, 21 Jul 2026 00:59:11 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
-      "img": "https://www.sciencedaily.com/images/1920/influenza-a-virus-interactions.webp",
       "score": 0.76
     },
     {
@@ -146,47 +135,102 @@
       "score": 0.76
     },
     {
-      "id": "9025ae9b",
+      "id": "393f471f",
       "cat": "tecnologia",
-      "title": "Despertador: Vagas em centros de emprego por preencher, alunos da 2 fase podem ir à época especial",
-      "summary": "",
+      "title": "Pinto Luz: “Ao meu colega de Governo, Luís Neves, o meu sincero obrigado”",
+      "summary": "Ministro das Infra-estruturas preparou discurso em que elogiou o trabalho de Luís Neves na redução da espera nas filas dos aeroportos. A melhoria “deve-se” a ele, quis sublinhar Pinto Luz.",
       "source": "Público",
-      "date": "Wed, 22 Jul 2026 07:42:59 GMT",
-      "url": "https://www.publico.pt/2026/07/22/newsletter/despertador",
+      "date": "Wed, 22 Jul 2026 13:00:20 GMT",
+      "url": "https://www.publico.pt/2026/07/22/politica/noticia/pinto-luz-colega-governo-luis-neves-sincero-obrigado-2182625",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "585d18b8",
+      "id": "110a3b83",
       "cat": "tecnologia",
-      "title": "4h. Tecnologia nuclear.Acordo entre EUA e Arábia Saudita",
-      "summary": "Notícia avançada pela Reuters e pela Associated Press que citam fontes que revela que o acordo deve durar 30 anos. Ainda, época extraordinária dos Exames Nacionais vai realizar-se em setembro.",
+      "title": "Trump pode ver em Infantino o sucessor de Guterres para evitar vermelhos na ONU",
+      "summary": "Depois de um Mundial de futebol que consolidou a relação, Donald Trump pretenderá apoiar Gianni Infantino, o presidente da FIFA, para ocupar o cargo de secretário-geral das Nações Unidas.",
+      "source": "Público",
+      "date": "Wed, 22 Jul 2026 12:50:04 GMT",
+      "url": "https://www.publico.pt/2026/07/22/mundo/noticia/trump-infantino-sucessor-guterres-evitar-vermelhos-onu-2182591",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "1605bda0",
+      "cat": "tecnologia",
+      "title": "Ministro garante que Governo vai cumprir acordo da descentralização e financiar obras em 451 escolas",
+      "summary": "O ministro da Economia e Coesão Territorial, Manuel Castro Almeida, referiu que a dotação financeira de um dos avisos foi “estritamente formal” e não muda o financiamento às autarquias.",
+      "source": "Público",
+      "date": "Wed, 22 Jul 2026 12:38:30 GMT",
+      "url": "https://www.publico.pt/2026/07/22/politica/noticia/ministro-garante-governo-vai-cumprir-acordo-descentralizacao-financiar-obras-451-escolas-2182630",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "367d8171",
+      "cat": "tecnologia",
+      "title": "A nova era do Reino Unido. O que mudou ou não mudou — Debate",
+      "summary": "Andy Burnham é o novo primeiro-ministro do Reino Unido e se é visto à esquerda como um \"messias\" à direita há quem tema um regresso dos anos 1970. Mas afinal, o que podemos esperar?",
       "source": "Observador",
-      "date": "Wed, 22 Jul 2026 04:13:30 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2349/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Wed, 22 Jul 2026 12:26:44 +0100",
+      "url": "https://observador.pt/programas/contra-corrente/a-nova-era-do-reino-unido-o-que-mudou-ou-nao-mudou-debate/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
       "score": 0.73
     },
     {
-      "id": "f8317726",
+      "id": "7653e987",
       "cat": "tecnologia",
-      "title": "Bolsa de Lisboa em alta. CTT sobem mais 1,5%, Galp em máximos de dois meses",
-      "summary": "Fora do índice principal, as ações da Pharol caem 0,23% para os 0,0883 euros por título, com mais de 125 mil títulos transacionados aos primeiros minutos da manhã.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 22 Jul 2026 08:25:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-em-alta-ctt-sobem-mais-1-5-galp-em-maximos-de-dois-meses",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-02-15-05-15-508477.jpg",
+      "title": "PSP entregou 70 mil pulseiras e encontrou duas crianças",
+      "summary": "A pulseira permite localizar crianças perdidas indicando o seu código ao 112. Desde 2012 foram atribuídas, no total, mais de 769.900 pulseiras, 70.035 destas no primeiro semestre de 2026.",
+      "source": "Observador",
+      "date": "Wed, 22 Jul 2026 11:23:50 +0100",
+      "url": "https://observador.pt/2026/07/22/psp-entregou-70-mil-pulseiras-e-encontrou-duas-criancas-no-primeiro-semestre-deste-ano/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/08/11144400/19619045_1280x720_acf_cropped_770x433_acf_cropped.jpg",
       "score": 0.73
     },
     {
-      "id": "84b04a64",
-      "cat": "economia",
-      "title": "Lucros do espanhol Santander disparam 31% no primeiro semestre",
-      "summary": "As receitas do grupo cresceram 6% no primeiro semestre comparando com os mesmos meses de 2025, para 30.847 milhões de euros.",
+      "id": "c861aa0a",
+      "cat": "tecnologia",
+      "title": "Lucros do Santander sobem para 8.973 milhões de euros",
+      "summary": "Resultados incluem venda da filial polaca do banco com mais valia de 1.895 milhões de euros. \"A nossa estratégia continuará a impulsionar um crescimento rentável\", diz CEO Ana Botín.",
+      "source": "Observador",
+      "date": "Wed, 22 Jul 2026 11:20:17 +0100",
+      "url": "https://observador.pt/2026/07/22/lucros-do-santander-sobem-313-no-primeiro-semestre-para-8-973-milhoes-de-euros/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:56/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/22090356/44614723.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "b6917cbe",
+      "cat": "tecnologia",
+      "title": "Wall Street negoceia mista pressionada pelo petróleo. Ações da AMD sobem após acordo com Anthropic",
+      "summary": "Acompanhe a evolução, ao minuto, dos mercados desta quarta-feira.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 22 Jul 2026 07:59:17 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/lucros-do-espanhol-santander-disparam-31-no-primeiro-semestre",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-22-07-58-14-526995.jpg",
+      "date": "Wed, 22 Jul 2026 14:59:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/mediatek-dispara-5-e-brilha-em-sessao-mista-na-asia-japao-reduz-defice-comercial",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-30-20-35-38-525894.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "376d5cab",
+      "cat": "tecnologia",
+      "title": "Samsung pode investir até mil milhões na francesa Mistral",
+      "summary": "A Mistral conseguiu o segundo acordo de milhões em apenas dois dias. Depois da Microsoft, a Samsung pode voltar a investir na startup de IA francesa, liderando a ronda de financiamento que Arthur Mensch está a angariar.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 22 Jul 2026 14:01:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/samsung-pode-investir-ate-mil-milhoes-na-francesa-mistral",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-22-11-45-12-527009.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "29be2d54",
+      "cat": "tecnologia",
+      "title": "Healthcare Activos compra edifícios da Lusíadas Saúde em Lisboa, Porto e Albufeira",
+      "summary": "Gestora imobiliária de ativos de saúde, que já tinha feito compras de hospitais e clínicas no mercado nacional, reforça a aposta com três novas unidades que, no global, representam um investimento de cerca de 250 milhões de euros.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 22 Jul 2026 13:30:04 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/healthcare-activos-compra-edificios-da-lusiadas-saude-em-lisboa-porto-e-albufeira",
+      "img": "https://cdn.jornaldenegocios.pt/images/2021-12/img_100x100uu2021-12-23-18-10-31-419018.jpg",
       "score": 0.73
     },
     {
@@ -201,6 +245,17 @@
       "score": 0.73
     },
     {
+      "id": "d831c4b2",
+      "cat": "tecnologia",
+      "title": "Bicampeão olímpico de remo Olaf Tufte morreu aos 50 anos",
+      "summary": "O norueguês Olaf Tufte, bicampeão olímpico de remo, em skiff simples, em Atenas2004 e Pequim2008, morreu na terça-feira, aos 50 anos, informou hoje a imprensa norueguesa, citando a família.",
+      "source": "RTP",
+      "date": "Wed, 22 Jul 2026 13:53:45 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/bicampeao-olimpico-de-remo-olaf-tufte-morreu-aos-50-anos_d1755127",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e54f68eaaf9d8b0d4496358613684d0c?w=350&amp;q=50&amp;rect=0,85,2200,1206&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "d4fa26fb",
       "cat": "tecnologia",
       "title": "Estoril Open. Nuno Borges tenta chegar pela segunda vez aos quartos de final",
@@ -212,36 +267,36 @@
       "score": 0.73
     },
     {
-      "id": "0779dcc2",
-      "cat": "tecnologia",
-      "title": "Andebol do Benfica contrata sueco Bogojevic, terceiro reforço do dia",
-      "summary": "O Benfica contratou o lateral-esquerdo sueco William Bogojevic, que assinou contrato até 2028 e constitui o terceiro reforço da equipa de andebol anunciado hoje pelo clube lisboeta, que se sagrou campeão português pela última vez em 2008.",
-      "source": "RTP",
-      "date": "Tue, 21 Jul 2026 21:18:28 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/andebol-do-benfica-contrata-sueco-bogojevic-terceiro-reforco-do-dia_d1754987",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c9/c9942a018e635e5743a79627b254a8f2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "id": "041df889",
+      "cat": "sociedade",
+      "title": "Câmara de Lisboa reforça educação com 44,3 milhões de euros",
+      "summary": "A Câmara Municipal de Lisboa vai reforçar o investimento na área da Educação em 44,3 milhões de euros, dotando com as maiores verbas &#8212; superiores a 15 milhões de euros &#8212; o fornecimento de refeições escolares e a gestão dos refeitórios nas escolas públicas da cidade, assim como as Ativida",
+      "source": "ECO",
+      "date": "Wed, 22 Jul 2026 13:54:53 +0000",
+      "url": "https://eco.sapo.pt/2026/07/22/camara-de-lisboa-reforca-educacao-com-443-milhoes-de-euros/",
+      "img": "https://eco.imgix.net/uploads/2026/01/cropped-6p1a5541.jpg",
       "score": 0.73
     },
     {
-      "id": "857abc50",
+      "id": "f0841b8d",
       "cat": "tecnologia",
-      "title": "Hoje nas notícias: bancos, emprego e combustíveis",
-      "summary": "O fecho de metade dos balcões bancários em 15 anos, a dificuldade dos centros de emprego em preencher um terço das vagas e o apelo dos portugueses a uma maior intervenção do Governo nos preços dos combustíveis marcam a atualidade. Conheça estas e outras notícias em destaque na imprensa nacional esta",
+      "title": "Governo vai alienar ações da Nos e CTT. Venda do Hospital da Cruz Vermelha relançada",
+      "summary": "O Governo vai vender participações “absolutamente residuais” do Estado em várias empresas, como a Nos e os CTT, anunciou esta quarta-feira o ministro das Finanças, Joaquim Miranda Sarmento. Para breve está também o relançamento do processo de alienação da sociedade gestora do Hospital da Cruz Vermel",
       "source": "ECO",
-      "date": "Wed, 22 Jul 2026 06:59:55 +0000",
-      "url": "https://eco.sapo.pt/2026/07/22/hoje-nas-noticias-bancos-emprego-e-combustiveis/",
-      "img": "https://eco.imgix.net/uploads/2020/02/cropped-cropped-cropped-revista_nacional_manchete-01-9-1.png",
+      "date": "Wed, 22 Jul 2026 12:24:41 +0000",
+      "url": "https://eco.sapo.pt/2026/07/22/governo-vai-alienar-acoes-da-nos-e-ctt-venda-do-hospital-da-cruz-vermelha-relancada/",
+      "img": "https://eco.imgix.net/uploads/2024/11/cropped-doc-20241028-43812513-akr39005.jpg",
       "score": 0.73
     },
     {
-      "id": "6a4c082c",
-      "cat": "tecnologia",
-      "title": "Trump pode apoiar líder da FIFA para suceder a Guterres como secretário-geral da ONU",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, poderá apoiar o líder da FIFA, Gianni Infantino, como candidato a próximo secretário-geral das Nações Unidas. De acordo com o New York Post, Trump considera que Infantino, de 56 anos, é uma figura respeitada internacionalmente e com capacidade para unir",
-      "source": "ECO",
-      "date": "Wed, 22 Jul 2026 06:46:31 +0000",
-      "url": "https://eco.sapo.pt/2026/07/22/trump-pode-apoiar-lider-da-fifa-para-suceder-a-guterres-como-secretario-geral-da-onu/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47488957-scaled-1.jpg",
+      "id": "71f46228",
+      "cat": "ciencia",
+      "title": "Homem chocado ao descobrir que a mesa da cozinha da família era na verdade o ‘diploma’ da dinastia Qing do ancestral",
+      "summary": "Em alguns desses países realmente antigos: Grécia, Turquia, China, a história tem uma forma engraçada de se acumular e perder alguma da sua intriga. Veja esta mesa de cozinha, por exemplo - na verdade, é uma espécie de diploma emitido na Dinastia Qing, mas o Sr. Xu, da província de Anhui, não sabia, embora ele e",
+      "source": "Good News Network",
+      "date": "Wed, 22 Jul 2026 13:00:19 +0000",
+      "url": "https://www.goodnewsnetwork.org/man-shocked-to-discover-familys-kitchen-table-was-actually-ancestors-qing-dynasty-diploma/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Xu-plans-to-restore-the-lacquer-and-preserve-as-family-heirloom-Credit-Handout.jpg",
       "score": 0.73
     },
     {
@@ -253,17 +308,6 @@
       "date": "Tue, 21 Jul 2026 18:30:23 +0000",
       "url": "https://www.goodnewsnetwork.org/off-duty-north-texas-firefighter-saves-3-children-trapped-under-boat-on-4th-of-july/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/capsize-drowning-boat-overboard-unsplash.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "e554b30b",
-      "cat": "tecnologia",
-      "title": "Corredor britânico ‘Calls His Shot’ e quebra recorde mundial na milha – depois de permanecer por 27 anos",
-      "summary": "O corredor escocês Josh Kerr acabou de fazer o tempo de milha mais rápido da história da humanidade, quebrando um recorde que permanecia por 27 anos após marcar 3m42s66. Ambientado no recente encontro de atletismo da London Diamond League, Kerr terminou meio segundo mais rápido que o lendário corredor marroquino Hicham El Guerrouj, que correu",
-      "source": "Good News Network",
-      "date": "Tue, 21 Jul 2026 13:00:37 +0000",
-      "url": "https://www.goodnewsnetwork.org/british-runner-calls-his-shot-and-breaks-world-record-in-the-mile-after-it-stood-for-27-years/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Josh-Kerr-at-the-2023-World-Athletics-Championship-credit.jpg",
       "score": 0.73
     },
     {
@@ -287,50 +331,6 @@
       "url": "https://reasonstobecheerful.world/what-if-we-never-built-another-new-building/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/DSC06804-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "8929f7b1",
-      "cat": "tecnologia",
-      "title": "Almada: moção de censura a Inês de Medeiros é chumbada, mas gritou-se “demissão”",
-      "summary": "Assembleia Municipal de Almada foi marcada pela tensão, com vários munícipes a não conseguirem entrar na sala e a gritar “demissão” para Inês de Medeiros. Moção proposta pelo PSD foi rejeitada.",
-      "source": "Público",
-      "date": "Wed, 22 Jul 2026 08:11:23 GMT",
-      "url": "https://www.publico.pt/2026/07/22/local/noticia/almada-mocao-censura-ines-medeiros-chumbada-gritouse-demissao-2182581",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "b8c3660c",
-      "cat": "geral",
-      "title": "Morreu Luís Represas, a voz dos Trovante, cantor de Feiticeira ou Timor",
-      "summary": "",
-      "source": "Público",
-      "date": "Wed, 22 Jul 2026 08:07:43 GMT",
-      "url": "https://www.publico.pt/2026/07/22/culturaipsilon/noticia/morreu-luis-represas-voz-trovante-cantor-feiticeira-timor-2182588",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "8650a461",
-      "cat": "tecnologia",
-      "title": "As notícias das 6h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Wed, 22 Jul 2026 06:11:29 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2441/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "a97805fb",
-      "cat": "tecnologia",
-      "title": "Concorrência quer comparador das taxas de depósitos",
-      "summary": "Autoridade da Concorrência sugere ao Banco de Portugal comparador das taxas de remuneração dos depósitos pagas pelos bancos para incentivar mobilidade dos clientes e melhorar a concorrência",
-      "source": "Observador",
-      "date": "Wed, 22 Jul 2026 06:02:24 +0100",
-      "url": "https://observador.pt/programas/boa-moeda-ma-moeda/concorrencia-quer-comparador-das-taxas-de-depositos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg",
-      "score": 0.7
     }
   ]
 }
