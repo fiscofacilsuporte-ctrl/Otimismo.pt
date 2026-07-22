@@ -1,5 +1,5 @@
 {
-  "last_update": "22/07/2026 03:27 UTC",
+  "last_update": "22/07/2026 08:39 UTC",
   "total": 30,
   "news": [
     {
@@ -36,25 +36,25 @@
       "score": 0.82
     },
     {
-      "id": "a6585b98",
-      "cat": "ciencia",
-      "title": "Seguindo o fluxo: avanço em baterias de energia renovável",
-      "summary": "Uma bateria impressa em 3D projetada na Queen's University Belfast poderia acelerar a pesquisa sobre armazenamento de energia.",
-      "source": "BBC News",
-      "date": "Mon, 20 Jul 2026 08:20:07 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2de3/live/19e368b0-811b-11f1-96bf-6155b9f8d82a.jpg",
-      "score": 0.79
+      "id": "e5353e49",
+      "cat": "tecnologia",
+      "title": "Sumol Compal planeia ter produção nos EUA até 2028",
+      "summary": "A Sumol Compal tem “planos ambiciosos” para os EUA, onde procura lançar-se com uma parceria para produção e distribuição de sumos. A Europa também está na mira, esperando-se “novidades em breve” sobre um novo mercado no âmbito de uma estratégia para elevar o peso das vendas fora de Portugal.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 22 Jul 2026 09:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/sumol-compal-planeia-ter-producao-nos-eua-ate-2028",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-21-21-44-00-526981.jpg",
+      "score": 0.76
     },
     {
-      "id": "980c1f8e",
+      "id": "26570594",
       "cat": "tecnologia",
-      "title": "Esta é a chave do Euromilhões. Jackpot é de 59 milhões de euros",
-      "summary": "Com um primeiro prémio no valor de 59 milhões de euros, decorreu terça-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta terça-feira, 21 de julho: Números: 2, 3, 8, 28 e 3",
+      "title": "Compra de 3,9 mil milhões das fragatas com retorno “assinalável”, mas indústria ainda às escuras",
+      "summary": "A compra de três fragatas FREMM EVO à italiana Fincantieri por cerca de 3,9 mil milhões de euros vai ter um retorno &#8220;assinalável&#8221; para a economia portuguesa, mas no setor de defesa nacional não é claro quanto desse investimento se vai refletir na indústria, nem há informação oficial sobr",
       "source": "ECO",
-      "date": "Tue, 21 Jul 2026 19:28:04 +0000",
-      "url": "https://eco.sapo.pt/2026/07/21/esta-e-a-chave-do-euromilhoes-jackpot-e-de-59-milhoes-de-euros/",
-      "img": "https://eco.imgix.net/uploads/2020/05/cropped-pndr1637-2.jpg",
+      "date": "Wed, 22 Jul 2026 05:27:10 +0000",
+      "url": "https://eco.sapo.pt/2026/07/22/compra-de-39-mil-milhoes-das-fragatas-com-retorno-assinalavel-mas-industria-ainda-as-escuras/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-defesa-fragatas-2.jpg",
       "score": 0.76
     },
     {
@@ -66,6 +66,28 @@
       "date": "Tue, 21 Jul 2026 15:30:34 +0000",
       "url": "https://www.goodnewsnetwork.org/new-species-of-monkey-with-orange-lips-found-in-dr-congo-for-just-the-5th-time-in-75-years/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Colobus-congolensis-credit-released-by-Daniel-Rosengren-Frankfurt-Zoological-Society.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "93cae9e5",
+      "cat": "ciencia",
+      "title": "O maior parque eólico do Reino Unido será reconstruído com menos turbinas maiores",
+      "summary": "O Whitelee Windfarm produz eletricidade há cerca de 20 anos em um trecho de charneca perto de Eaglesham, mas está chegando ao fim de sua vida útil.",
+      "source": "BBC News",
+      "date": "Wed, 22 Jul 2026 06:12:32 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl9vp4vqvo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d04/live/ccd6e420-8502-11f1-8b9b-a724b687bb3b.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "374bbbd1",
+      "cat": "ciencia",
+      "title": "Como os agricultores poderiam consertar os rios poluídos do País de Gales e economizar dinheiro",
+      "summary": "Os agricultores têm um papel crucial na limpeza de um dos sistemas fluviais mais poluídos do Reino Unido, mostra um estudo.",
+      "source": "BBC News",
+      "date": "Wed, 22 Jul 2026 05:23:44 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj2vdl8r2o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef3/live/4394b1d0-858c-11f1-b106-61783e9e0f97.jpg",
       "score": 0.76
     },
     {
@@ -124,58 +146,47 @@
       "score": 0.76
     },
     {
-      "id": "0210c655",
-      "cat": "geral",
-      "title": "O cabelo de Kevin Keegan",
-      "summary": "Cinquenta anos depois, compreendo: para ter o cabelo à Kevin Keegan, primeiro era preciso deixar crescer um ouriço como o meu, onde se pudesse esculpir o famoso capacete. Crónica de Miguel Esteves Cardoso",
+      "id": "9025ae9b",
+      "cat": "tecnologia",
+      "title": "Despertador: Vagas em centros de emprego por preencher, alunos da 2 fase podem ir à época especial",
+      "summary": "",
       "source": "Público",
-      "date": "Tue, 21 Jul 2026 23:05:00 GMT",
-      "url": "https://www.publico.pt/2026/07/22/opiniao/cronica/cabelo-kevin-keegan-2182482",
+      "date": "Wed, 22 Jul 2026 07:42:59 GMT",
+      "url": "https://www.publico.pt/2026/07/22/newsletter/despertador",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "b7ba8ffa",
-      "cat": "cultura",
-      "title": "Casa-Museu Amália celebra 25 anos de portas abertas",
-      "summary": "A programação da celebração dos 25 anos conta com uma sessão de fados e leitura de poesia de Amália Rodrigues, oficinas criativas e visitas guiadas. A sessão coincide com o aniversário da artista.",
+      "id": "585d18b8",
+      "cat": "tecnologia",
+      "title": "4h. Tecnologia nuclear.Acordo entre EUA e Arábia Saudita",
+      "summary": "Notícia avançada pela Reuters e pela Associated Press que citam fontes que revela que o acordo deve durar 30 anos. Ainda, época extraordinária dos Exames Nacionais vai realizar-se em setembro.",
       "source": "Observador",
-      "date": "Wed, 22 Jul 2026 00:26:21 +0100",
-      "url": "https://observador.pt/2026/07/22/fado-e-poesia-no-arranque-das-celebracoes-dos-25-anos-da-casa-museu-amalia-rodrigues/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/05/16911322.jpg",
+      "date": "Wed, 22 Jul 2026 04:13:30 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2349/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "df781cdf",
+      "id": "f8317726",
       "cat": "tecnologia",
-      "title": "Correios confirmam manifestação de interesse no Banco CTT",
-      "summary": "Os CTT referem que é prematuro considerar que esta manifestação de interesse não solicitada e não vinculativa possa resultar numa transação, depois de ter sido noticiado que o banco espanhol Cajamar estaria interessado numa parceria entre as duas instituições bancárias.",
+      "title": "Bolsa de Lisboa em alta. CTT sobem mais 1,5%, Galp em máximos de dois meses",
+      "summary": "Fora do índice principal, as ações da Pharol caem 0,23% para os 0,0883 euros por título, com mais de 125 mil títulos transacionados aos primeiros minutos da manhã.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 21 Jul 2026 23:47:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/correios-confirmam-manifestacao-de-interesse-no-banco-ctt",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-09/img_100x100uu2023-09-27-20-19-21-461364.jpg",
+      "date": "Wed, 22 Jul 2026 08:25:35 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-em-alta-ctt-sobem-mais-1-5-galp-em-maximos-de-dois-meses",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-02-15-05-15-508477.jpg",
       "score": 0.73
     },
     {
-      "id": "d0777696",
-      "cat": "tecnologia",
-      "title": "Bancos fecharam metade da rede de balcões em apenas 15 anos",
-      "summary": "Desapareceram milhares de agências, em vários pontos do país, muitas delas levando consigo as caixas automáticas, que encolheram em 20%. Há um aumento do número de trabalhadores no setor, mas esse crescimento é explicado apenas e só pelo francês BNP Paribas.",
+      "id": "84b04a64",
+      "cat": "economia",
+      "title": "Lucros do espanhol Santander disparam 31% no primeiro semestre",
+      "summary": "As receitas do grupo cresceram 6% no primeiro semestre comparando com os mesmos meses de 2025, para 30.847 milhões de euros.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 21 Jul 2026 23:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/bancos-fecharam-metade-da-rede-de-balcoes-em-apenas-15-anos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2014-04/img_100x100uu2014-04-10-21-49-00-220163.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "357b0743",
-      "cat": "ciencia",
-      "title": "Época especial de exames decorre entre 3 e 8 de setembro e inclui alunos elegíveis para 2.ª fase",
-      "summary": "Em comunicado, o Ministério da Educação, Ciência e Inovação detalhou que as inscrições decorrem de 27 a 31 de julho.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 21 Jul 2026 22:46:05 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/epoca-especial-de-exames-decorre-entre-3-e-8-de-setembro-e-inclui-alunos-elegiveis-para-2-fase",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-17-08-52-48-526785.jpg",
+      "date": "Wed, 22 Jul 2026 07:59:17 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/lucros-do-espanhol-santander-disparam-31-no-primeiro-semestre",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-22-07-58-14-526995.jpg",
       "score": 0.73
     },
     {
@@ -190,6 +201,17 @@
       "score": 0.73
     },
     {
+      "id": "d4fa26fb",
+      "cat": "tecnologia",
+      "title": "Estoril Open. Nuno Borges tenta chegar pela segunda vez aos quartos de final",
+      "summary": "O tenista português Nuno Borges procura hoje qualificar-se pela segunda vez para os quartos de final do Estoril Open, num terceiro dia do torneio em que Tiago Torres vai tentar consumar mais uma surpresa.",
+      "source": "RTP",
+      "date": "Wed, 22 Jul 2026 09:14:00 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/estoril-open-nuno-borges-tenta-chegar-pela-segunda-vez-aos-quartos-de-final_d1755075",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5f/5fd9d2c1aee329efce5d46b88552e438?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "0779dcc2",
       "cat": "tecnologia",
       "title": "Andebol do Benfica contrata sueco Bogojevic, terceiro reforço do dia",
@@ -201,25 +223,25 @@
       "score": 0.73
     },
     {
-      "id": "1e5aa4d3",
+      "id": "857abc50",
       "cat": "tecnologia",
-      "title": "Rublev com `boas vibrações` para o Estoril Open",
-      "summary": "O russo Andrey Rublev assume-se com boa energia e com um bom nível de ténis antes de começar a competir no Estoril Open, no qual surge como primeiro cabeça de série.",
-      "source": "RTP",
-      "date": "Tue, 21 Jul 2026 21:00:35 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/rublev-com-boas-vibracoes-para-o-estoril-open_d1754981",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6f/6f027ab83567cc0b0c39f89d5110e419?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "title": "Hoje nas notícias: bancos, emprego e combustíveis",
+      "summary": "O fecho de metade dos balcões bancários em 15 anos, a dificuldade dos centros de emprego em preencher um terço das vagas e o apelo dos portugueses a uma maior intervenção do Governo nos preços dos combustíveis marcam a atualidade. Conheça estas e outras notícias em destaque na imprensa nacional esta",
+      "source": "ECO",
+      "date": "Wed, 22 Jul 2026 06:59:55 +0000",
+      "url": "https://eco.sapo.pt/2026/07/22/hoje-nas-noticias-bancos-emprego-e-combustiveis/",
+      "img": "https://eco.imgix.net/uploads/2020/02/cropped-cropped-cropped-revista_nacional_manchete-01-9-1.png",
       "score": 0.73
     },
     {
-      "id": "de676f9c",
+      "id": "6a4c082c",
       "cat": "tecnologia",
-      "title": "França proíbe acesso às redes sociais a menores de 15 anos",
-      "summary": "O parlamento francês aprovou esta terça-feira, em definitivo, uma proposta de lei que proíbe o acesso às redes sociais a menores de 15 anos, tornando-se o primeiro país da União Europeia a aplicar esta interdição a adolescentes desta idade. A medida, que entrará em vigor em setembro, foi aprovada co",
+      "title": "Trump pode apoiar líder da FIFA para suceder a Guterres como secretário-geral da ONU",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, poderá apoiar o líder da FIFA, Gianni Infantino, como candidato a próximo secretário-geral das Nações Unidas. De acordo com o New York Post, Trump considera que Infantino, de 56 anos, é uma figura respeitada internacionalmente e com capacidade para unir",
       "source": "ECO",
-      "date": "Tue, 21 Jul 2026 18:57:20 +0000",
-      "url": "https://eco.sapo.pt/2026/07/21/franca-proibe-acesso-as-redes-sociais-a-menores-de-15-anos/",
-      "img": "https://eco.imgix.net/uploads/2026/03/cropped-46412503-scaled-1.jpg",
+      "date": "Wed, 22 Jul 2026 06:46:31 +0000",
+      "url": "https://eco.sapo.pt/2026/07/22/trump-pode-apoiar-lider-da-fifa-para-suceder-a-guterres-como-secretario-geral-da-onu/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47488957-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -245,17 +267,6 @@
       "score": 0.73
     },
     {
-      "id": "f1c62988",
-      "cat": "tecnologia",
-      "title": "Amazônia brasileira vê declínio acentuado no tamanho da área queimada em 2025",
-      "summary": "A quantidade de terra queimada na maior floresta tropical do mundo foi a menor desde que os registros do MapBiomas começaram em 1985.",
-      "source": "BBC News",
-      "date": "Tue, 21 Jul 2026 15:57:29 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cbf/live/3257b150-84de-11f1-8a1f-271692b35cb6.jpg",
-      "score": 0.73
-    },
-    {
       "id": "349d7930",
       "cat": "saude",
       "title": "Os carros elétricos estão nos tornando mais saudáveis?",
@@ -278,58 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "2808806d",
+      "id": "8929f7b1",
       "cat": "tecnologia",
-      "title": "Luís Neves não tem pressa em esclarecer o país",
-      "summary": "Luís Neves prometeu dar mais explicações, mas tarda-o em fazer.",
+      "title": "Almada: moção de censura a Inês de Medeiros é chumbada, mas gritou-se “demissão”",
+      "summary": "Assembleia Municipal de Almada foi marcada pela tensão, com vários munícipes a não conseguirem entrar na sala e a gritar “demissão” para Inês de Medeiros. Moção proposta pelo PSD foi rejeitada.",
       "source": "Público",
-      "date": "Wed, 22 Jul 2026 00:52:00 GMT",
-      "url": "https://www.publico.pt/2026/07/22/politica/noticia/luis-neves-nao-pressa-esclarecer-pais-2182576",
+      "date": "Wed, 22 Jul 2026 08:11:23 GMT",
+      "url": "https://www.publico.pt/2026/07/22/local/noticia/almada-mocao-censura-ines-medeiros-chumbada-gritouse-demissao-2182581",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "82e1996b",
-      "cat": "tecnologia",
-      "title": "Mundial 2026: teatro do mundo",
-      "summary": "Agora que terminou o Mundial de 2026, vale a pena olhar para o que ele nos diz sobre o mundo em que vivemos. E diz-nos muita coisa. Opinião de Nuno Severiano Teixeira",
+      "id": "b8c3660c",
+      "cat": "geral",
+      "title": "Morreu Luís Represas, a voz dos Trovante, cantor de Feiticeira ou Timor",
+      "summary": "",
       "source": "Público",
-      "date": "Tue, 21 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/22/opiniao/opiniao/mundial-2026-teatro-mundo-2182491",
+      "date": "Wed, 22 Jul 2026 08:07:43 GMT",
+      "url": "https://www.publico.pt/2026/07/22/culturaipsilon/noticia/morreu-luis-represas-voz-trovante-cantor-feiticeira-timor-2182588",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "feeb8d38",
+      "id": "8650a461",
       "cat": "tecnologia",
-      "title": "As notícias das 3h",
+      "title": "As notícias das 6h",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Wed, 22 Jul 2026 03:12:09 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2383/",
+      "date": "Wed, 22 Jul 2026 06:11:29 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2441/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "acd78491",
+      "id": "a97805fb",
       "cat": "tecnologia",
-      "title": "2h. PJ celebrou 17 contratos com Construbarcelos",
-      "summary": "Os contratos formalizados entre 2019 e 2025 com a Construbarcelos atingiram um valor superior a 2 milhões e 230 mil euros. Ainda, médias das classificações dos exames nacionais desceram a Português.",
+      "title": "Concorrência quer comparador das taxas de depósitos",
+      "summary": "Autoridade da Concorrência sugere ao Banco de Portugal comparador das taxas de remuneração dos depósitos pagas pelos bancos para incentivar mobilidade dos clientes e melhorar a concorrência",
       "source": "Observador",
-      "date": "Wed, 22 Jul 2026 02:13:53 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2356/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "date": "Wed, 22 Jul 2026 06:02:24 +0100",
+      "url": "https://observador.pt/programas/boa-moeda-ma-moeda/concorrencia-quer-comparador-das-taxas-de-depositos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg",
       "score": 0.7
     }
   ]
