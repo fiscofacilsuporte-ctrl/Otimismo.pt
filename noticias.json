@@ -1,7 +1,18 @@
 {
-  "last_update": "23/07/2026 08:41 UTC",
+  "last_update": "23/07/2026 14:23 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "b599365a",
+      "cat": "ciencia",
+      "title": "A descoberta de novos tipos de abacate pode levar a mais opções e resiliência de superalimentos",
+      "summary": "Cientistas que caminham pela floresta tropical da Nicarágua identificaram um &#8220;viveiro&#8221; da diversidade de espécies de abacate. A fruta foi transportada pela primeira vez por centenas de quilômetros da América do Sul para a América Central, há cerca de 5.000 anos, e os pesquisadores americanos descobriram vestígios genéticos desta fruta.",
+      "source": "Good News Network",
+      "date": "Thu, 23 Jul 2026 11:00:24 +0000",
+      "url": "https://www.goodnewsnetwork.org/discovery-of-new-avocado-types-could-lead-to-more-superfood-choices-and-resilience/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-close-up-of-the-new-avocado-species-credit-Kevin-Wann-SWNS.jpg",
+      "score": 0.82
+    },
     {
       "id": "ce5f07ce",
       "cat": "tecnologia",
@@ -36,25 +47,58 @@
       "score": 0.82
     },
     {
-      "id": "08b907b6",
+      "id": "f50b8ec9",
       "cat": "tecnologia",
-      "title": "Agência Internacional de Energia prevê aumentos na procura global de eletricidade",
-      "summary": "A Agência Internacional de Energia (AIE) previu que a procura global de eletricidade cresça 3,6% em 2026 e mais 3,8% em 2027, face ao crescimento de 3% registado em 2025, indicou um relatório publicado pelo organismo. O diretor executivo da AIE, Fatih Birol, sublinha que a indústria, o ar condiciona",
-      "source": "ECO",
-      "date": "Thu, 23 Jul 2026 08:22:12 +0000",
-      "url": "https://eco.sapo.pt/2026/07/23/agencia-internacional-de-energia-preve-aumentos-na-procura-global-de-eletricidade/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-24903899-scaled-1.jpg",
+      "title": "Itália quer Pep, mas milhões e uma promessa devem afastá-los",
+      "summary": "A revolução do futebol italiano começou com Giovanni Malagò e Paolo Maldini, mas ainda não tem selecionador. Guardiola é o favorito e tem uma proposta, mas o acordo parece estar cada vez mais longe.",
+      "source": "Observador",
+      "date": "Thu, 23 Jul 2026 13:06:57 +0100",
+      "url": "https://observador.pt/2026/07/23/italia-chama-por-guardiola-mas-20-milhoes-e-uma-promessa-a-familia-devem-mante-los-afastados/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4066:2281:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/23130225/gettyimages-2277501116.jpg",
       "score": 0.76
     },
     {
-      "id": "4c083d33",
+      "id": "d1646699",
       "cat": "tecnologia",
-      "title": "Portugal dá contributo de 13,4% para as contas do grupo Bankinter com lucro de 110 milhões antes de impostos",
-      "summary": "O Grupo Bankinter fechou o primeiro semestre com um resultado antes de impostos de 853 milhões de euros, mais 11,4% do que há um ano, e um resultado líquido de 605 milhões, que representa um crescimento de 11,7% em relação ao mesmo período do ano anterior. Segundo os resultados apresentados esta qui",
+      "title": "Shortlist. Mesas de verão, cinema ao ar livre e novos perfumes",
+      "summary": "A Shortlist desta semana começa no renovado lounge La Première da Air France, em Paris, e passa pela segunda loja da Hermès em Sydney. Na perfumaria, a Acqua di Parma apresenta uma coleção de verão desenhada por Laura Gonzalez, enquanto a Jean Paul Gaultier prepara o seu primeiro grande lançamento f",
       "source": "ECO",
-      "date": "Thu, 23 Jul 2026 07:13:37 +0000",
-      "url": "https://eco.sapo.pt/2026/07/23/portugal-da-contributo-de-134-para-as-contas-do-grupo-bankinter-com-lucro-de-110-milhoes-antes-de-impostos/",
-      "img": "https://eco.imgix.net/uploads/2025/07/cropped-doc-20250424-44830535-_ps00081.jpg",
+      "date": "Thu, 23 Jul 2026 14:08:05 +0000",
+      "url": "https://eco.sapo.pt/2026/07/23/shortlist-mesas-de-verao-cinema-ao-ar-livre-e-novos-perfumes/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-la-premiere.png",
+      "score": 0.76
+    },
+    {
+      "id": "45951699",
+      "cat": "tecnologia",
+      "title": "Portugal vai receber 65,37 milhões de euros da UE para recuperar das tempestades",
+      "summary": "Portugal vai receber um adiantamento de 65,37 milhões de euros do Fundo de Solidariedade da União Europeia (FSUE) para apoiar financeiramente os trabalhos de recuperação dos danos causados pelo chamado comboio de tempestades que, entre 22 de janeiro e 15 de fevereiro deste ano, devastou sobretudo a ",
+      "source": "ECO",
+      "date": "Thu, 23 Jul 2026 13:28:25 +0000",
+      "url": "https://eco.sapo.pt/2026/07/23/portugal-vai-receber-6537-milhoes-de-euros-da-ue-para-recuperar-das-tempestades/",
+      "img": "https://eco.imgix.net/uploads/2026/02/cropped-doc2026020846517054akr69342.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "fc1b89f6",
+      "cat": "ciencia",
+      "title": "Inovar exige conhecimento. Mas também exige capital",
+      "summary": "O recente fim da componente indireta do SIFIDE trouxe para o centro do debate uma questão que vai muito além de uma alteração legislativa: como pretende Portugal continuar a mobilizar investimento privado para investigação e desenvolvimento? A resposta a esta pergunta é determinante para o futuro da",
+      "source": "ECO",
+      "date": "Thu, 23 Jul 2026 12:44:52 +0000",
+      "url": "https://eco.sapo.pt/opiniao/inovar-exige-conhecimento-mas-tambem-exige-capital/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/07/sandra-sousa-joanes-opiniao.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "e80885f5",
+      "cat": "ambiente",
+      "title": "5 novas reservas marinhas para proteger golfinhos e florestas de algas marinhas na Ilha Sul da Nova Zelândia",
+      "summary": "No que está sendo descrito como um “primeiro passo importante”, para proteções marinhas na nação insular da Nova Zelândia, 5 novas reservas marinhas entrarão em vigor no próximo mês. Ao redor de um distrito chamado Otago, perto da ponta sudeste da Ilha Sul, 308 milhas quadradas de importantes áreas marinhas",
+      "source": "Good News Network",
+      "date": "Thu, 23 Jul 2026 13:00:23 +0000",
+      "url": "https://www.goodnewsnetwork.org/5-new-marine-reserves-to-protect-dolphins-and-kelp-forests-off-new-zealands-south-island/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Hectors-dolphin-a-species-set-to-benefit-from-the-new-marine-protections-credit-Anjanette-Baker-CC-4.0.-BY-SA.jpg",
       "score": 0.76
     },
     {
@@ -72,7 +116,7 @@
       "id": "93cae9e5",
       "cat": "ciencia",
       "title": "O maior parque eólico onshore do Reino Unido será reconstruído com menos turbinas maiores",
-      "summary": "O Parque Eólico Whitelee produz eletricidade há cerca de 20 anos em um trecho de charneca perto de Eaglesham, mas está chegando ao fim de sua vida útil.",
+      "summary": "O Whitelee Windfarm produz eletricidade há cerca de 20 anos em um trecho de charneca perto de Eaglesham, mas está chegando ao fim de sua vida útil.",
       "source": "BBC News",
       "date": "Wed, 22 Jul 2026 09:28:47 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cvgl9vp4vqvo?at_medium=RSS&at_campaign=rss",
@@ -91,6 +135,17 @@
       "score": 0.76
     },
     {
+      "id": "abc17322",
+      "cat": "saude",
+      "title": "Tratamento direcionado ao câncer de próstata reduz risco de efeitos colaterais, sugere estudo",
+      "summary": "Um ensaio do NHS durante 10 anos acompanhou quase 3.500 homens que receberam terapia focal, um tratamento menos invasivo.",
+      "source": "BBC News",
+      "date": "Thu, 16 Jul 2026 23:36:40 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0410/live/9245adf0-80fc-11f1-926f-c90d1bcfbc84.jpg",
+      "score": 0.76
+    },
+    {
       "id": "cac1b0ec",
       "cat": "ciencia",
       "title": "Um estranho efeito quântico aumenta dramaticamente a transferência de energia",
@@ -102,25 +157,25 @@
       "score": 0.76
     },
     {
+      "id": "790d5a8f",
+      "cat": "ciencia",
+      "title": "Cientistas descobrem o interruptor cerebral oculto que atribui às abelhas seus empregos",
+      "summary": "Os pesquisadores descobriram que circuitos cerebrais específicos ajudam a decidir quais tarefas as abelhas realizam à medida que envelhecem. Quando esses circuitos foram desligados, as abelhas operárias mais velhas começaram a cuidar da rainha novamente, em vez de realizarem suas tarefas normais na vida adulta. As descobertas revelam que a complexa divisão de uma colônia de abelhas",
+      "source": "ScienceDaily",
+      "date": "Wed, 22 Jul 2026 21:10:39 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
+      "img": "https://www.sciencedaily.com/images/1920/queen-and-worker-bees.webp",
+      "score": 0.76
+    },
+    {
       "id": "508f4084",
       "cat": "tecnologia",
       "title": "Cientistas revivem um poderoso antibiótico que as superbactérias derrotaram",
-      "summary": "Os cientistas encontraram uma maneira de reviver a vancomicina, um poderoso antibiótico ao qual algumas bactérias perigosas aprenderam a resistir. Em vez de criar um medicamento inteiramente novo, os investigadores associaram a vancomicina a uma pequena molécula chamada pghi-4, que bloqueia uma enzima bacteriana ligada à resistência. A combinação",
+      "summary": "Os cientistas descobriram uma maneira de reviver a vancomicina, um poderoso antibiótico ao qual algumas bactérias perigosas aprenderam a resistir. Em vez de criar um medicamento inteiramente novo, os investigadores associaram a vancomicina a uma pequena molécula chamada pghi-4, que bloqueia uma enzima bacteriana ligada à resistência. A combinação",
       "source": "ScienceDaily",
       "date": "Wed, 22 Jul 2026 03:21:08 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
       "img": "https://www.sciencedaily.com/images/1920/antibiotic-resistance-fighting-bacteria.webp",
-      "score": 0.76
-    },
-    {
-      "id": "137276ec",
-      "cat": "ciencia",
-      "title": "Astrônomos encontram a primeira atmosfera em um mundo rochoso na zona habitável",
-      "summary": "Os astrónomos encontraram a primeira atmosfera confirmada em torno de um planeta rochoso na zona habitável de outra estrela. O planeta, LHS 1140 b, revelou a sua atmosfera através do vazamento lento de hélio para o espaço. Localizado a 48 anos-luz de distância, o mundo pode ter preservado a sua atmosfera durante milhares de milhões de anos, maki",
-      "source": "ScienceDaily",
-      "date": "Tue, 21 Jul 2026 06:57:41 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
-      "img": "https://www.sciencedaily.com/images/1920/exoplanet-lhs-1140-b.webp",
       "score": 0.76
     },
     {
@@ -135,58 +190,58 @@
       "score": 0.76
     },
     {
-      "id": "1a6aa915",
-      "cat": "tecnologia",
-      "title": "Burnham “tem uma visão da economia e da sociedade que é relevante neste momento de mudança”",
-      "summary": "O último episódio da temporada do podcast Diplomatas foi dedicado aos desafios domésticos e de política externa do novo primeiro-ministro trabalhista do Reino Unido e à teoria das médias potências.",
+      "id": "42fde78a",
+      "cat": "saude",
+      "title": "Governo incentiva japoneses a usar calções. Mulheres queixam-se de “assédio dos pêlos”",
+      "summary": "Culturalmente é expectável que as mulheres usem collants, enquanto os homens estão autorizados a levar calções para o escritório. Medida está a gerar divisão e levou à procura da depilação a laser.",
       "source": "Público",
-      "date": "Thu, 23 Jul 2026 07:08:00 GMT",
-      "url": "https://www.publico.pt/2026/07/23/mundo/noticia/burnham-visao-economia-sociedade-relevante-neste-momento-mudanca-2182685",
+      "date": "Thu, 23 Jul 2026 09:58:01 GMT",
+      "url": "https://www.publico.pt/2026/07/23/impar/noticia/governo-incentiva-japoneses-usar-calcoes-mulheres-queixamse-assedio-2182756",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "c28aa8b9",
+      "id": "8a5314c9",
       "cat": "tecnologia",
-      "title": "Benfica parte à conquista de um lugar ao sol na Liga Europa",
-      "summary": "Barreiro é baixa de última hora para Marco Silva, que ainda espera por Lukebakio, Schjelderup, Aursnes e não pode contar com Prestianni, Índio e com o reforço Jhon Durán para o jogo com o St. Gallen.",
-      "source": "Público",
-      "date": "Thu, 23 Jul 2026 06:12:00 GMT",
-      "url": "https://www.publico.pt/2026/07/23/desporto/noticia/benfica-parte-conquista-lugar-sol-liga-europa-2182719",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "c6c24f1c",
-      "cat": "ciencia",
-      "title": "Sindicato quer investigação a centro de sangue no Porto",
-      "summary": "Médicos sujeitos a semanas de trabalho sem remuneração de trabalho suplementar. Fizeram participação à IGAS para \"denunciar degradação\". IPST quis organizar atividade clínica.",
+      "title": "Primeiro Ferrari Luce vai a leilão por 1 milhão de euros",
+      "summary": "Arrancou a produção do Luce, o eléctrico da Ferrari. A primeira unidade vai ser leiloada, com a RM Sotheby’s a prever licitações de 1 milhão de euros que reverterão para caridade.",
       "source": "Observador",
-      "date": "Thu, 23 Jul 2026 08:31:32 +0100",
-      "url": "https://observador.pt/2026/07/23/sindicato-pede-investigacao-as-condicoes-de-trabalho-no-centro-de-sangue-do-porto/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/07/29070125/34016742.jpg",
+      "date": "Thu, 23 Jul 2026 13:40:53 +0100",
+      "url": "https://observador.pt/2026/07/23/primeiro-ferrari-luce-vai-a-leilao-por-cerca-de-1-milhao-de-euros/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:448/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/23105917/ferrari-luce-rm-sothebys-auction-jul-26-00003-2048x2048-1.webp",
       "score": 0.73
     },
     {
-      "id": "267c239e",
+      "id": "10cc9037",
+      "cat": "cultura",
+      "title": "Moretti, Herzog, Koreeda e Brizé com Danny Boyle em Veneza",
+      "summary": "O festival anunciou esta quinta-feira os 20 filmes que vão disputar o Leão de Ouro da 83ª edição. De 2 a 12 de Setembro.",
+      "source": "Observador",
+      "date": "Thu, 23 Jul 2026 12:21:33 +0100",
+      "url": "https://observador.pt/2026/07/23/moretti-herzog-koreeda-e-brize-juntam-se-a-danny-boyle-em-veneza-2026/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1684:nowe:0:38/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/23122024/2succedera.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "12d134da",
       "cat": "tecnologia",
-      "title": "Além dos CTT e da Nos, Estado também vai sair da Navigator",
-      "summary": "Miranda Sarmento decidiu avançar com a venda dos títulos que tem em algumas empresas cotadas. Entre elas está a Navigator, havendo ainda mais 19 participações residuais na Entidade do Tesouro e Finanças que devem ser vendidas.",
+      "title": "SATA quer rever acordo de empresa dos tripulantes para \"aumentar flexibilidade\"",
+      "summary": "SATA pretende que um tripulante de cabine seja ativado a \"partir de hotéis nas bases operacionais Lisboa ou Ponta Delgada\", sendo o regime de reserva limitado a um máximo de 10 dias por mês.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 23 Jul 2026 09:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/alem-dos-ctt-e-da-nos-estado-tambem-vai-sair-da-navigator",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-01/img_100x100uu2024-01-10-07-57-01-467899.jpg",
+      "date": "Thu, 23 Jul 2026 14:37:28 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/sata-quer-rever-acordo-de-empresa-dos-tripulantes-para-aumentar-flexibilidade",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-02-08-29-23-513908.jpg",
       "score": 0.73
     },
     {
-      "id": "d0628125",
+      "id": "cb8883cc",
       "cat": "economia",
-      "title": "Bankinter com lucro de 605 milhões no primeiro semestre. Portugal lucra 110 milhões antes de impostos",
-      "summary": "Lucros antes de impostos na operação portuguesa subiram 9%, enquanto as receitas subiram 10%. Mercado português mostra \"evolução muito positiva\".",
+      "title": "Novos pedidos de subsídio de desemprego nos EUA caem para nível mais baixo desde 1969",
+      "summary": "Dados revelados esta quinta-feira mostram um mercado de trabalho que está a dispensar menos trabalhadores do que o esperado.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 23 Jul 2026 07:36:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/bankinter-com-lucro-de-605-milhoes-no-primeiro-semestre-portugal-lucra-110-milhoes-antes-de-impostos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-05/img_100x100uu2023-05-11-09-48-23-452473.jpg",
+      "date": "Thu, 23 Jul 2026 14:19:45 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/novos-pedidos-de-subsidio-de-desemprego-nos-eua-caem-para-nivel-mais-baixo-desde-1969",
+      "img": "https://cdn.jornaldenegocios.pt/images/2021-04/img_100x100uu2021-04-23-10-12-22-401497.jpg",
       "score": 0.73
     },
     {
@@ -201,13 +256,13 @@
       "score": 0.73
     },
     {
-      "id": "d677daac",
+      "id": "c6b987a3",
       "cat": "tecnologia",
       "title": "Benfica ainda a meio gás enfrenta primeiro teste de nova época",
       "summary": "O Benfica, ainda com muitas indefinições, tem hoje o primeiro teste oficial da época, com a visita aos suíços do St.Gallen, em jogo de apuramento da segunda pré-eliminatória da Liga Europa de futebol.",
       "source": "RTP",
       "date": "Thu, 23 Jul 2026 09:23:30 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/benfica-ainda-a-meio-gas-enfrenta-primeiro-teste-de-nova-epoca_d1755311",
+      "url": "https://www.rtp.pt/noticias/liga-europa/benfica-ainda-a-meio-gas-enfrenta-primeiro-teste-de-nova-epoca_d1755311",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/15/15f7870d91e81b7535bb7bdab811b73a?w=350&amp;q=50&amp;rect=0,180,3035,1664&amp;auto=format",
       "score": 0.73
     },
@@ -220,50 +275,6 @@
       "date": "Thu, 23 Jul 2026 09:19:35 +0100",
       "url": "https://www.rtp.pt/noticias/outras-modalidades/estoril-open-jaime-faria-tenta-juntar-se-a-tiago-torres-nos-quartos-de-final_d1755310",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b8cdcef772e267746d1f1ea2b23d9861?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "8dc65997",
-      "cat": "tecnologia",
-      "title": "Governo avança com tribunais especializados em imigração",
-      "summary": "Depois de, na última semana, a Comissão Europeia ter alertado para a degradação da justiça administrativa portuguesa, o Governo vai discutir esta quinta-feira, em Conselho de Ministros, uma proposta de reforma da justiça administrativa e fiscal que prevê a criação de juízos especializados em imigraç",
-      "source": "ECO",
-      "date": "Thu, 23 Jul 2026 08:35:58 +0000",
-      "url": "https://eco.sapo.pt/2026/07/23/governo-avanca-com-tribunais-especializados-em-imigracao/",
-      "img": "https://eco.imgix.net/uploads/2026/04/cropped-44731055-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "71f46228",
-      "cat": "ciencia",
-      "title": "Homem chocado ao descobrir que a mesa da cozinha da família era na verdade o ‘diploma’ de seu ancestral da dinastia Qing",
-      "summary": "Em alguns desses países realmente antigos: Grécia, Turquia, China, a história tem uma forma engraçada de se acumular e perder alguma da sua intriga. Veja esta mesa de cozinha, por exemplo - na verdade, é uma espécie de diploma emitido na Dinastia Qing, mas o Sr. Xu, da província de Anhui, não sabia, embora ele e",
-      "source": "Good News Network",
-      "date": "Wed, 22 Jul 2026 13:00:19 +0000",
-      "url": "https://www.goodnewsnetwork.org/man-shocked-to-discover-familys-kitchen-table-was-actually-ancestors-qing-dynasty-diploma/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Xu-plans-to-restore-the-lacquer-and-preserve-as-family-heirloom-Credit-Handout.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "15f5d59d",
-      "cat": "tecnologia",
-      "title": "Bombeiro fora de serviço do norte do Texas salva três crianças presas sob um barco em 4 de julho",
-      "summary": "Do Dallas Morning News vem a história de um bombeiro que foi além do seu dever, mesmo estando de folga. No barco da família, no dia 4 de julho, Jason Horne resgatou três crianças que estavam se afogando, presas sob um pontão no Lago Alvarado, em Midlothian. O artigo referenciado",
-      "source": "Good News Network",
-      "date": "Tue, 21 Jul 2026 18:30:23 +0000",
-      "url": "https://www.goodnewsnetwork.org/off-duty-north-texas-firefighter-saves-3-children-trapped-under-boat-on-4th-of-july/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/capsize-drowning-boat-overboard-unsplash.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "512b74ef",
-      "cat": "ciencia",
-      "title": "Grandes macacos se beijam e abraçam para manter a paz, diz estudo",
-      "summary": "Abraçar antes de eventos estressantes pode ser uma forma antiga de construir confiança, dizem cientistas que estudam macacos.",
-      "source": "BBC News",
-      "date": "Tue, 21 Jul 2026 23:48:38 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c5y045vprg5o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e13/live/bc1c77b0-8531-11f1-bee8-53ce494e1abc.jpg",
       "score": 0.73
     },
     {
@@ -289,47 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "d0c60433",
+      "id": "6c35bea4",
       "cat": "tecnologia",
-      "title": "Irlanda inicia exames forenses a restos mortais de 100 bebés encontrados em vala comum",
-      "summary": "Vala comum no oeste da Irlanda, junto a um antigo lar religioso para mães solteiras e seus filhos, foi encontrada em 2017. Restos mortais serão examinados num laboratório forense.",
+      "title": "Consegue distinguir a variedade da azeitona num gelado de azeite?",
+      "summary": "Vinhos do Alentejo lançam, com o jornalista Edgardo Pacheco, a iniciativa Provar é Saber, com uma série de provas que juntam vinhos e outros produtos da região.",
       "source": "Público",
-      "date": "Thu, 23 Jul 2026 07:02:25 GMT",
-      "url": "https://www.publico.pt/2026/07/23/mundo/noticia/irlanda-inicia-exames-forenses-restos-mortais-100-bebes-encontrados-vala-comum-2182740",
+      "date": "Thu, 23 Jul 2026 12:00:00 GMT",
+      "url": "https://www.publico.pt/2026/07/23/fugas/noticia/consegue-distinguir-variedade-azeitona-gelado-azeite-2182478",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "bd20e655",
+      "id": "f2dbb314",
       "cat": "tecnologia",
-      "title": "As notícias das 9h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Thu, 23 Jul 2026 09:13:01 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2418/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Novo aeroporto de Lisboa afinal só vem em 2037 e precisa de mais ligações por comboio",
+      "summary": "O novo aeroporto da capital terá duas pistas e o terminal ficará no centro para facilitar futuras expansões. Ocupará cinco vezes a área do actual aeroporto. Ligação ferroviária não satisfaz ANA.",
+      "source": "Público",
+      "date": "Thu, 23 Jul 2026 11:44:56 GMT",
+      "url": "https://www.publico.pt/2026/07/23/economia/noticia/novo-aeroporto-lisboa-afinal-so-vem-2037-precisa-ligacoes-comboio-2182764",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "4214c88f",
+      "id": "6ebfecf1",
       "cat": "tecnologia",
-      "title": "ULisboa investe 20 milhões de euros em centros de dados",
-      "summary": "Novos datacenters, localizados no Taguspark e na Cidade Universitária, vão integrar o projeto que criará uma das maiores infraestruturas digitais do ensino superior português, com prazo para 2028.",
-      "source": "Observador",
-      "date": "Thu, 23 Jul 2026 08:51:20 +0100",
-      "url": "https://observador.pt/2026/07/23/ulisboa-investe-20-milhoes-de-euros-em-dois-novos-centros-de-dados-de-computacao-avancada-e-ia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:129/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/03/04204406/13905388.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "bfd28b06",
-      "cat": "cultura",
-      "title": "Cartoon SA 23-07-2026",
-      "summary": "Cartoon de Luís Afonso",
+      "title": "Wall Street em queda. Ações da Tesla afundam 10%, dona da Google cai mais de 6%",
+      "summary": "Acompanhe, ao minuto, a evolução dos mercados desta quinta-feira.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 23 Jul 2026 09:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-23-07-2026",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-22-19-59-32-527036.jpg",
+      "date": "Thu, 23 Jul 2026 14:59:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/praca-sul-coreana-sobe-4-com-apostas-na-ia-otimismo-espalhou-se-pela-asia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-29-14-32-16-525829.jpg",
       "score": 0.7
     }
   ]
