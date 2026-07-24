@@ -1,5 +1,5 @@
 {
-  "last_update": "24/07/2026 03:28 UTC",
+  "last_update": "24/07/2026 08:37 UTC",
   "total": 30,
   "news": [
     {
@@ -36,17 +36,6 @@
       "score": 0.82
     },
     {
-      "id": "bc58b3fc",
-      "cat": "tecnologia",
-      "title": "As crianças são extremamente positivas em relação ao futuro, diz pesquisa",
-      "summary": "Os jovens não estão apenas otimistas em relação ao mundo, mas também cheios de ideias para torná-lo mais gentil, mais justo e mais verde, revela a pesquisa The post As crianças são extremamente positivas para o futuro, diz a pesquisa apareceu pela primeira vez em Notícias Positivas.",
-      "source": "Positive News",
-      "date": "Fri, 10 Jul 2026 07:37:44 +0000",
-      "url": "https://www.positive.news/society/children-are-overwhelmingly-positive-for-the-future-says-survey/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/07/fares-hamouche-aOoetTjMrko-unsplash.jpg",
-      "score": 0.82
-    },
-    {
       "id": "bba063c3",
       "cat": "tecnologia",
       "title": "Maiden Rocket lança ‘um grande sucesso’ para a primeira empresa privada de voos espaciais da Índia",
@@ -58,14 +47,36 @@
       "score": 0.79
     },
     {
-      "id": "de96f12d",
+      "id": "6d08a9cc",
       "cat": "tecnologia",
-      "title": "Governo revê carreira de trabalhadores de reinserção social",
-      "summary": "Dois decretos-lei aprovados em Conselho de Ministros concretizam acordo com sindicatos fechado em dezembro de 2025. Há novas tabelas salariais e suplemento de risco.",
+      "title": "O que deu certo esta semana: as boas notícias que importam",
+      "summary": "As estradas do mundo ficaram muito mais seguras, os níveis globais de fome diminuíram e o Brasil estabeleceu um recorde bem-vindo de desmatamento, e mais O post O que deu certo esta semana: as boas notícias que importam apareceu primeiro no Positive News.",
+      "source": "Positive News",
+      "date": "Fri, 24 Jul 2026 05:35:31 +0000",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-1302682520.jpeg",
+      "score": 0.79
+    },
+    {
+      "id": "e9084e3e",
+      "cat": "tecnologia",
+      "title": "Dos milhões nas contas de Pinto da Costa aos investimentos de sucesso: a luta pela herança",
+      "summary": "Filho de ex-dirigente diz que pai foi pressionado a candidatar-se contra Villas-Boas, acusando viúva de esvaziar contas milionárias. Cláudia Campo nega, acusando Alexandre de fabricar mentiras.",
+      "source": "Público",
+      "date": "Fri, 24 Jul 2026 06:00:00 GMT",
+      "url": "https://www.publico.pt/2026/07/24/desporto/noticia/milhoes-contas-pinto-costa-investimentos-sucesso-luta-heranca-2182705",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "811c14bd",
+      "cat": "ambiente",
+      "title": "Investigadores pedem oceano como domínio estratégico",
+      "summary": "Manifesto junta centros de investigação para reivindicar \"lugar para o oceano\". Agência procura áreas prioritárias para financiamento público. Investigadores lembram extensão da ZEE.",
       "source": "Observador",
-      "date": "Fri, 24 Jul 2026 00:25:20 +0100",
-      "url": "https://observador.pt/2026/07/24/governo-cria-duas-novas-carreiras-de-reintegracao-social-e-extingue-a-de-administrador-prisional/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/05/25193007/22434957.jpg",
+      "date": "Fri, 24 Jul 2026 07:31:19 +0100",
+      "url": "https://observador.pt/2026/07/24/centros-de-investigacao-juntam-se-para-pedir-o-oceano-como-dominio-estrategico/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/11110547/gettyimages-549040295-scaled.jpg",
       "score": 0.76
     },
     {
@@ -80,17 +91,6 @@
       "score": 0.76
     },
     {
-      "id": "954df2fe",
-      "cat": "economia",
-      "title": "Lucros do grupo Ramada sobem 31,6% até junho, mas receitas caem 12%",
-      "summary": "O grupo Ramada encerrou o primeiro semestre com um resultado líquido consolidado atribuível aos acionistas de 2,9 milhões de euros, um aumento de 31,6% face ao período homólogo, segundo comunicado à Comissão do Mercado de Valores Mobiliários (CMVM). As receitas totais do grupo Ramada Investimentos e",
-      "source": "ECO",
-      "date": "Thu, 23 Jul 2026 18:52:16 +0000",
-      "url": "https://eco.sapo.pt/2026/07/23/lucros-do-grupo-ramada-sobem-316-ate-junho-mas-receitas-caem-12/",
-      "img": "https://eco.imgix.net/uploads/2024/03/cropped-ramada.png",
-      "score": 0.76
-    },
-    {
       "id": "e80885f5",
       "cat": "ambiente",
       "title": "5 novas reservas marinhas para proteger golfinhos e florestas de algas marinhas na Ilha Sul da Nova Zelândia",
@@ -99,28 +99,6 @@
       "date": "Thu, 23 Jul 2026 13:00:23 +0000",
       "url": "https://www.goodnewsnetwork.org/5-new-marine-reserves-to-protect-dolphins-and-kelp-forests-off-new-zealands-south-island/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Hectors-dolphin-a-species-set-to-benefit-from-the-new-marine-protections-credit-Anjanette-Baker-CC-4.0.-BY-SA.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "93cae9e5",
-      "cat": "ciencia",
-      "title": "O maior parque eólico onshore do Reino Unido será reconstruído com menos turbinas maiores",
-      "summary": "O Whitelee Windfarm produz eletricidade há cerca de 20 anos em um trecho de charneca perto de Eaglesham, mas está chegando ao fim de sua vida útil.",
-      "source": "BBC News",
-      "date": "Wed, 22 Jul 2026 09:28:47 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl9vp4vqvo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d04/live/ccd6e420-8502-11f1-8b9b-a724b687bb3b.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "abc17322",
-      "cat": "saude",
-      "title": "Tratamento direcionado ao câncer de próstata reduz risco de efeitos colaterais, sugere estudo",
-      "summary": "Um ensaio do NHS durante 10 anos acompanhou quase 3.500 homens que receberam terapia focal, um tratamento menos invasivo.",
-      "source": "BBC News",
-      "date": "Thu, 16 Jul 2026 23:36:40 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0410/live/9245adf0-80fc-11f1-926f-c90d1bcfbc84.jpg",
       "score": 0.76
     },
     {
@@ -149,7 +127,7 @@
       "id": "508f4084",
       "cat": "tecnologia",
       "title": "Cientistas revivem um poderoso antibiótico que as superbactérias derrotaram",
-      "summary": "Os cientistas descobriram uma maneira de reviver a vancomicina, um poderoso antibiótico ao qual algumas bactérias perigosas aprenderam a resistir. Em vez de criar um medicamento inteiramente novo, os investigadores associaram a vancomicina a uma pequena molécula chamada pghi-4, que bloqueia uma enzima bacteriana ligada à resistência. A combinação",
+      "summary": "Os cientistas encontraram uma maneira de reviver a vancomicina, um poderoso antibiótico ao qual algumas bactérias perigosas aprenderam a resistir. Em vez de criar um medicamento inteiramente novo, os investigadores associaram a vancomicina a uma pequena molécula chamada pghi-4, que bloqueia uma enzima bacteriana ligada à resistência. A combinação",
       "source": "ScienceDaily",
       "date": "Wed, 22 Jul 2026 03:21:08 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
@@ -157,69 +135,36 @@
       "score": 0.76
     },
     {
-      "id": "25a1c000",
-      "cat": "sociedade",
-      "title": "The Spark: Você dirigiria seis horas para salvar um beija-flor?",
-      "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada em... O pos",
-      "source": "Reasons to be Cheerful",
-      "date": "Thu, 02 Jul 2026 08:00:08 +0000",
-      "url": "https://reasonstobecheerful.world/the-spark-wildlife-care/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/06/Shutterstock-El-Nariz-scaled.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "15ba59fb",
-      "cat": "tecnologia",
-      "title": "Campeão e vice-campeão mundial, Otamendi despede-se da selecção argentina",
-      "summary": "Aos 38 anos, Nicolás Otamendi retira-se da carreira internacional, agora que regressou a Buenos Aires para representar o River Plate.",
-      "source": "Público",
-      "date": "Thu, 23 Jul 2026 23:19:56 GMT",
-      "url": "https://www.publico.pt/2026/07/24/desporto/noticia/campeao-vicecampeao-mundial-otamendi-despedese-seleccao-argentina-2182859",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "8e3e5448",
-      "cat": "tecnologia",
-      "title": "O rei vai nu! A ação do Governo não serve para baixar, mas para aumentar, os preços na habitação",
-      "summary": "Em Portugal, com o apoio ativo do Estado, a habitação transformou-se num bem de investimento com fortes perspetivas de valorização e múltiplas garantias de rentabilidade. Opinião de Rita Silva",
-      "source": "Público",
-      "date": "Thu, 23 Jul 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/07/24/opiniao/opiniao/rei-vai-nu-acao-governo-nao-serve-baixar-aumentar-precos-habitacao-2182678",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "a1907569",
-      "cat": "tecnologia",
-      "title": "Menos automóveis e velocidade: é preciso coragem, Porto!",
-      "summary": "Nas 70 medidas do novo Plano de Mobilidade Sustentável do Porto não se vislumbra uma linha sobre a redução de espaço aos automóveis, que cada vez mais são a opção preferencial de mobilidade na cidade.",
-      "source": "Público",
-      "date": "Thu, 23 Jul 2026 23:05:00 GMT",
-      "url": "https://www.publico.pt/2026/07/24/opiniao/opiniao/menos-automoveis-velocidade-preciso-coragem-porto-2182647",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "56172efd",
-      "cat": "tecnologia",
-      "title": "Uma espécie de pornografia motivacional",
-      "summary": "A meritocracia funciona maravilhosamente em apresentações de PowerPoint porque os gráficos não adoecem, os pais dos gráficos não têm cancro e as colunas dos gráficos não precisam de faltar ao trabalho para acompanhar familiares ao hospital.",
+      "id": "4077480c",
+      "cat": "saude",
+      "title": "Eficiência na saúde: nem tudo o que parece é",
+      "summary": "A busca pelo objetivo de maximizar o lucro não existe enquanto mecanismo automático de garantia da procura da eficiência.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 23 Jul 2026 22:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/edson-athayde/detalhe/uma-especie-de-pornografia-motivacional",
-      "img": "https://cdn.jornaldenegocios.pt/images/2017-03/img_394x514uu2017-03-06-19-30-00-304721.png",
+      "date": "Fri, 24 Jul 2026 09:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/eficiencia-na-saude-nem-tudo-o-que-parece-e",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_394x514uu2026-07-23-17-47-34-527110.png",
       "score": 0.73
     },
     {
-      "id": "0560e824",
+      "id": "28c62823",
       "cat": "tecnologia",
-      "title": "Lucros do grupo Ramada sobem 31,6% para 2,9 milhões até junho",
-      "summary": "As receitas totais do grupo Ramada Investimentos e Indústria ascenderam a 5,7 milhões de euros até junho, o que representa um recuo de 12,2% face a igual período do ano passado.",
+      "title": "Bolsa de Lisboa abre em queda. Nos cai mais de 3% e grupo EDP também pressiona",
+      "summary": "Numa negociação dividida, com oito cotadas em terreno positivo e outras oito em terreno negativo, o peso das cotadas energéticas acaba por fazer diferença no sentido das quedas.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 23 Jul 2026 21:41:52 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/lucros-do-grupo-ramada-sobem-31-6-para-2-9-milhoes-ate-junho",
-      "img": "https://cdn.jornaldenegocios.pt/images/2019-03/img_100x100uu2019-03-17-17-11-13-350474.jpg",
+      "date": "Fri, 24 Jul 2026 08:27:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-abre-em-queda-nos-cai-mais-de-3-e-grupo-edp-tambem-pressiona",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-09/img_100x100uu2024-09-27-23-24-13-486247.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ce7c4de8",
+      "cat": "tecnologia",
+      "title": "Reformar aos 65?",
+      "summary": "Viver mais tempo é uma conquista civilizacional; financiar mais anos de pensão, porém, não é um milagre.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 24 Jul 2026 08:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/luis-miguel-henrique/detalhe/reformar-aos-65",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-07/img_394x514uu2022-07-07-18-54-48-431976.png",
       "score": 0.73
     },
     {
@@ -234,47 +179,36 @@
       "score": 0.73
     },
     {
-      "id": "c6b987a3",
+      "id": "de73349f",
       "cat": "tecnologia",
-      "title": "Benfica ainda a meio gás enfrenta primeiro teste de nova época",
-      "summary": "O Benfica, ainda com muitas indefinições, tem hoje o primeiro teste oficial da época, com a visita aos suíços do St.Gallen, em jogo de apuramento da segunda pré-eliminatória da Liga Europa de futebol.",
+      "title": "Estoril Open. Jaime Faria e Tiago Torres procuram as meias-finais",
+      "summary": "Os tenistas portugueses Jaime Faria e Tiago Torres tentam hoje chegar às meias-finais de singulares do Estoril Open, a mesma fase que Nuno Borges e Francisco Cabral, campeões em 2022, podem alcançar nos pares.",
       "source": "RTP",
-      "date": "Thu, 23 Jul 2026 09:23:30 +0100",
-      "url": "https://www.rtp.pt/noticias/liga-europa/benfica-ainda-a-meio-gas-enfrenta-primeiro-teste-de-nova-epoca_d1755311",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/15/15f7870d91e81b7535bb7bdab811b73a?w=350&amp;q=50&amp;rect=0,180,3035,1664&amp;auto=format",
+      "date": "Fri, 24 Jul 2026 09:04:30 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/estoril-open-jaime-faria-e-tiago-torres-procuram-as-meias-finais_d1755550",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3bb38f17b555e48562bfe2c185f46b98?w=350&amp;q=50&amp;rect=0,19,1024,561&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "8ddb4b86",
+      "id": "090d5918",
       "cat": "tecnologia",
-      "title": "Estoril Open. Jaime Faria tenta juntar-se a Tiago Torres nos quartos de final",
-      "summary": "O tenista português Jaime Faria vai tentar hoje juntar-se a Tiago Torres nos quartos de final do Estoril Open, no dia da estreia dos dois primeiros cabeças de série, o russo Andrey Rublev e o italiano Luciano Darderi.",
-      "source": "RTP",
-      "date": "Thu, 23 Jul 2026 09:19:35 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/estoril-open-jaime-faria-tenta-juntar-se-a-tiago-torres-nos-quartos-de-final_d1755310",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b8cdcef772e267746d1f1ea2b23d9861?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "9e90745e",
-      "cat": "tecnologia",
-      "title": "Guiné-Bissau. Portugal confirma que vai acolher Domingos Simões Pereira para tratamento médico",
-      "summary": "O Governo português confirmou que Portugal vai acolher &#8220;por razões médicas e humanitárias&#8221; o opositor guineense Domingos Simões Pereira, que saiu esta quinta-feira da cadeia. &#8220;Portugal acolhe Domingos Simões Pereira, conforme solicitado pelos seus familiares, depois da libertação h",
+      "title": "Lucros do grupo Volkswagen travam mais de 30% na primeira metade do ano",
+      "summary": "Os lucros do grupo Volkswagen caíram 30,7%, para 3.103 milhões, no primeiro semestre do ano, em comparação com o mesmo período de 2025, informou a empresa, num comunicado divulgado esta sexta-feira. A receita da empresa, que está a concretizar um plano de redução de pessoal que afeta milhares de fun",
       "source": "ECO",
-      "date": "Thu, 23 Jul 2026 19:26:08 +0000",
-      "url": "https://eco.sapo.pt/2026/07/23/guine-bissau-portugal-confirma-que-vai-acolher-domingos-simoes-pereira-para-tratamento-medico/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-40895811-scaled-1.jpg",
+      "date": "Fri, 24 Jul 2026 08:16:51 +0000",
+      "url": "https://eco.sapo.pt/2026/07/24/lucros-do-grupo-volkswagen-travam-mais-de-30-na-primeira-metade-do-ano/",
+      "img": "https://eco.imgix.net/uploads/2021/03/cropped-doc-20210326-31023885-09098483-1.jpg",
       "score": 0.73
     },
     {
-      "id": "c9481bd7",
+      "id": "5c4ad41a",
       "cat": "tecnologia",
-      "title": "De Beers extrai mais diamantes, mas receitas afundam 44% no segundo trimestre",
-      "summary": "&#160; A produção de diamantes em bruto da companhia De Beers aumentou 88% no segundo trimestre, para 7,8 milhões de quilates. O salto, porém, não corresponde a uma fase fulgurante no mercado. As receitas das vendas recuaram 44% e o preço médio caiu 37%, de acordo com os resultados divulgados pela e",
+      "title": "No futebol e na governação, o individual acima do coletivo",
+      "summary": "A eliminação da Seleção nacional no Campeonato do Mundo de Futebol pela Espanha, que revelou uma qualidade de jogo coletivo incomparavelmente superior e manteve esse padrão até conquistar a prova, e a evolução recente da economia portuguesa parecem, à primeira vista, pertencer a universos distintos.",
       "source": "ECO",
-      "date": "Thu, 23 Jul 2026 19:16:15 +0000",
-      "url": "https://eco.sapo.pt/2026/07/23/de-beers-extrai-mais-diamantes-mas-receitas-afundam-44-no-segundo-trimestre/",
-      "img": "https://eco.imgix.net/uploads/2025/10/cropped-35684664-scaled-1.jpg",
+      "date": "Fri, 24 Jul 2026 08:13:56 +0000",
+      "url": "https://eco.sapo.pt/especiais/no-futebol-e-na-governacao-o-individual-acima-do-coletivo/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-montenegro-2.jpg",
       "score": 0.73
     },
     {
@@ -286,6 +220,28 @@
       "date": "Fri, 24 Jul 2026 00:05:55 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c174/live/c6425de0-851d-11f1-97e8-4f50dea2b016.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c021858a",
+      "cat": "ciencia",
+      "title": "Cientistas descobrem o segredo da “diversidade espetacular” do canto dos pássaros",
+      "summary": "Um estudo científico revelou o segredo acústico que conecta todos os cantos dos pássaros – e é surpreendentemente simples",
+      "source": "BBC News",
+      "date": "Thu, 23 Jul 2026 23:55:29 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53b1/live/6fe7bfe0-8684-11f1-b60e-a7e0943a9c78.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "e8bee7be",
+      "cat": "tecnologia",
+      "title": "Incêndios florestais e condições recordes de seca provocam seca em partes do País de Gales",
+      "summary": "O País de Gales registou cerca de 5% da precipitação média de julho, após uma série de ondas de calor consecutivas.",
+      "source": "BBC News",
+      "date": "Thu, 23 Jul 2026 14:00:51 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad1f/live/d80c2c40-8653-11f1-8bc3-95f8c3a93002.jpg",
       "score": 0.73
     },
     {
@@ -311,25 +267,69 @@
       "score": 0.73
     },
     {
-      "id": "8fe6b872",
+      "id": "13512fb1",
       "cat": "tecnologia",
-      "title": "As notícias das 3h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Fri, 24 Jul 2026 03:15:57 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2385/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "A cidade que escolheu a beleza em vez dos outdoors",
+      "summary": "“Aqui costumava haver um enorme bloco de concreto, havia uma coluna publicitária, não era tão bonito”, diz Gilles Namur, acenando com a mão ao longo da Cours Lafontaine, uma rua que atravessa o centro histórico de Grenoble. Hoje, é uma visão completamente diferente. A rua tem.",
+      "source": "Reasons to be Cheerful",
+      "date": "Mon, 13 Jul 2026 08:00:40 +0000",
+      "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2576357661-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "3d80c177",
+      "cat": "tecnologia",
+      "title": "Ex-líder da oposição de Hong Kong pediu asilo no Reino Unido após ser detido em aeroporto",
+      "summary": "Wu Chi-wai saiu da prisão de Hong Kong no mês passado, após cumprir pena por conspiração para subversão no âmbito do processo conhecido como “Hong Kong 47”.",
+      "source": "Público",
+      "date": "Fri, 24 Jul 2026 06:48:43 GMT",
+      "url": "https://www.publico.pt/2026/07/24/mundo/noticia/exlider-oposicao-hong-kong-pediu-asilo-reino-unido-apos-detido-aeroporto-2182865",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "e9c38bbd",
+      "id": "0593a222",
       "cat": "tecnologia",
-      "title": "2h. Luís Neves não entregou ao TC declaração de património",
-      "summary": "O ministro da Administração Interna não entregou declarações nem em 2018 nem quando foi reconduzido no cargo, em 2021. Ainda, CODU Norte registou uma falha no sistema informático durante esta noite.",
+      "title": "Espanha declara estado de emergência em Madrid e Ávila devido a incêndios florestais",
+      "summary": "Incêndios em Villa del Prado e San Martín de Valdeiglesias (Madrid) e Burgohondo (Ávila) não dão tréguas, numa altura em que as condições meteorológicas vão continuar “particularmente adversas”.",
+      "source": "Público",
+      "date": "Fri, 24 Jul 2026 06:39:06 GMT",
+      "url": "https://www.publico.pt/2026/07/24/mundo/noticia/espanha-declara-estado-emergencia-madrid-avila-devido-incendios-florestais-2182863",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "6b96168d",
+      "cat": "tecnologia",
+      "title": "Admnistração Trump muda de estratégia legal em novas tarifas",
+      "summary": "As taxas, entre 10% e 12,5%, entram em vigor às 7h01 de Lisboa e recaem sobre novos países, entre os quais os membros da União Europeia. Impostos não se aplicam a produtos como petróleo e gás.",
       "source": "Observador",
-      "date": "Fri, 24 Jul 2026 02:11:35 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2358/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Fri, 24 Jul 2026 07:43:31 +0100",
+      "url": "https://observador.pt/2026/07/24/admnistracao-trump-muda-de-estrategia-legal-em-novas-tarifas-contra-mais-de-80-paises/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:51/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/24035823/47510377.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "b13be880",
+      "cat": "tecnologia",
+      "title": "Milton Hatoum: \"As desgraças começaram na Ditadura Militar\"",
+      "summary": "A publicação do segundo volume da trilogia “O Lugar Mais Sombrio” serviu de mote para uma conversa sobre as memórias do autor da ditadura e sobre o impacto do regime na história moderna brasileira.",
+      "source": "Observador",
+      "date": "Fri, 24 Jul 2026 07:32:36 +0100",
+      "url": "https://observador.pt/especiais/milton-hatoum-os-anos-70-e-a-ditadura-militar-no-brasil-tudo-comecou-ali-todas-as-nossas-desgracas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1403:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/09172510/ts154a6074.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
