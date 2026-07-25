@@ -1,7 +1,18 @@
 {
-  "last_update": "25/07/2026 13:51 UTC",
+  "last_update": "25/07/2026 19:19 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "830bd580",
+      "cat": "tecnologia",
+      "title": "Cientistas descobrem que o Sol contém 55% mais prata do que o esperado",
+      "summary": "Uma nova análise sugere que o Sol contém muito mais prata do que as estimativas anteriores indicavam. Modelos mais avançados da atmosfera solar aumentaram o valor calculado em 55%, aproximando-o muito mais dos meteoritos antigos. A técnica também pode ajudar os cientistas a rastrear a origem cósmica",
+      "source": "ScienceDaily",
+      "date": "Fri, 24 Jul 2026 21:55:27 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
+      "img": "https://www.sciencedaily.com/images/1920/close-up-sun-surface-solar-flares.webp",
+      "score": 0.85
+    },
     {
       "id": "4d0a84ef",
       "cat": "ciencia",
@@ -11,17 +22,6 @@
       "date": "Fri, 24 Jul 2026 13:00:26 +0000",
       "url": "https://www.goodnewsnetwork.org/the-real-way-to-save-bees-during-a-drought-expert-corrects-sugar-water-myth/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-bumble-bee-on-a-daisy-credit-SWNS.jpg",
-      "score": 0.82
-    },
-    {
-      "id": "b599365a",
-      "cat": "ciencia",
-      "title": "A descoberta de novos tipos de abacate pode levar a mais opções e resiliência de superalimentos",
-      "summary": "Cientistas que caminham pela floresta tropical da Nicarágua identificaram um &#8220;viveiro&#8221; da diversidade de espécies de abacate. A fruta foi transportada pela primeira vez por centenas de quilômetros da América do Sul para a América Central, há cerca de 5.000 anos, e os pesquisadores americanos descobriram vestígios genéticos desta fruta.",
-      "source": "Good News Network",
-      "date": "Thu, 23 Jul 2026 11:00:24 +0000",
-      "url": "https://www.goodnewsnetwork.org/discovery-of-new-avocado-types-could-lead-to-more-superfood-choices-and-resilience/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-close-up-of-the-new-avocado-species-credit-Kevin-Wann-SWNS.jpg",
       "score": 0.82
     },
     {
@@ -69,6 +69,28 @@
       "score": 0.79
     },
     {
+      "id": "0b8e0f7a",
+      "cat": "tecnologia",
+      "title": "Lando Norris conquista primeira pole da temporada de F1",
+      "summary": "Campeão do Mundo bateu Lewis Hamilton por 0,012s, surpreendendo os Ferrari numa classificação muito disputada. Inglês da Ferrari recebeu penalização de três lugares por impedir Oscar Piastri.",
+      "source": "Público",
+      "date": "Sat, 25 Jul 2026 17:30:42 GMT",
+      "url": "https://www.publico.pt/2026/07/25/desporto/noticia/lando-norris-conquista-primeira-pole-temporada-f1-2183028",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "488ef480",
+      "cat": "sociedade",
+      "title": "Guterres visita a Síria no primeiro regresso de um líder da ONU ao país em 17 anos",
+      "summary": "O secretário-geral das Nações Unidas foi a Damasco para “uma visita de solidariedade” e pede à comunidade internacional que não deixe de apoiar a Síria.",
+      "source": "Público",
+      "date": "Sat, 25 Jul 2026 14:29:29 GMT",
+      "url": "https://www.publico.pt/2026/07/25/mundo/noticia/guterres-visita-siria-regresso-lider-onu-pais-17-anos-2183016",
+      "img": null,
+      "score": 0.76
+    },
+    {
       "id": "d2fd4373",
       "cat": "tecnologia",
       "title": "Borba conquista a chef do ano",
@@ -77,6 +99,39 @@
       "date": "Sat, 25 Jul 2026 13:00:00 +0100",
       "url": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/borba-conquista-a-chef-do-ano",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-25-12-04-00-527196.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "02513891",
+      "cat": "tecnologia",
+      "title": "Norris surpreende Mercedes e conquista primeira ‘pole’ da temporada na Fórmula 1",
+      "summary": "O britânico Lando Norris (McLaren) conquistou hoje a ‘pole position’ para o Grande Prémio da Hungria de Fórmula 1, a primeira da temporada, numa sessão de qualificação decidida nos instantes finais.",
+      "source": "RTP",
+      "date": "Sat, 25 Jul 2026 20:05:56 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/norris-surpreende-mercedes-e-conquista-primeira-pole-da-temporada-na-formula-1_d1755854",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c35811f66a00ff7976d10ec0ef207bf4?w=350&amp;q=50&amp;rect=0,506,4677,2564&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "b1294120",
+      "cat": "tecnologia",
+      "title": "Lampsy, o candeeiro português que vigia a epilepsia",
+      "summary": "Um candeeiro que ajuda as pessoas a vigiar a epilepsia durante a noite. Esta é a ideia de Vicente Mayer Garção, CEO da Lampsy Health, que conseguiu um apoio do pré-acelerador do Conselho Europeu para a Inovação. São 350 mil euros que vão ajudar a startup no desenvolvimento e investigação e cujo cont",
+      "source": "ECO",
+      "date": "Sat, 25 Jul 2026 14:08:15 +0000",
+      "url": "https://eco.sapo.pt/2026/07/25/lampsy-o-candeeiro-portugues-que-vigia-a-epilepsia/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-lampsy-kpmg05.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "884ba98f",
+      "cat": "tecnologia",
+      "title": "O primeiro filhote de papagaio-do-mar avistado em mais de 30 anos surge ao longo dos penhascos na costa sul da Inglaterra",
+      "summary": "Os conservacionistas prenderam a respiração nesta primavera, pois a última colónia de papagaios-do-mar corria o risco de se perder completamente, mas o alívio transformou-se em alegria, pois não só os papagaios-do-mar adultos regressaram, como também nasceu um bebé. Pela primeira vez em 30 anos, um pássaro recém-nascido – chamado PUFFLING – foi avistado",
+      "source": "Good News Network",
+      "date": "Sat, 25 Jul 2026 18:10:18 +0000",
+      "url": "https://www.goodnewsnetwork.org/first-puffin-chick-spotted-in-over-30-years-emerges-along-cliffs-at-englands-south-coast/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Puffin-chick-at-Dancing-Ledge-cliffs-in-Purbeck-by-Martin-Shaw-via-SWNS.jpeg",
       "score": 0.76
     },
     {
@@ -91,6 +146,17 @@
       "score": 0.76
     },
     {
+      "id": "ff581a00",
+      "cat": "ambiente",
+      "title": "Cientistas colocam à prova a afirmação de que “reciclagem é uma distração”",
+      "summary": "A reciclagem, dietas mais ecológicas e outras escolhas climáticas pessoais não parecem distrair as pessoas do apoio a grandes reformas ambientais. Um estudo de quatro anos com quase 2.800 australianos descobriu que estes hábitos não aumentaram nem reduziram o envolvimento político posterior.",
+      "source": "ScienceDaily",
+      "date": "Sat, 25 Jul 2026 10:00:35 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
+      "img": "https://www.sciencedaily.com/images/1920/confused-asian-woman-plasatic-trash-recycling.webp",
+      "score": 0.76
+    },
+    {
       "id": "3355f7d1",
       "cat": "ciencia",
       "title": "Fóssil de macaco antigo no Egito desafia a história das origens humanas",
@@ -102,69 +168,58 @@
       "score": 0.76
     },
     {
-      "id": "dbc7e2df",
-      "cat": "tecnologia",
-      "title": "Os depósitos ocultos de terras raras da Suécia podem ajudar a quebrar o domínio da China",
-      "summary": "A Suécia poderá tornar-se uma fonte importante de elementos de terras raras necessários para ímanes e tecnologias verdes. Em vez de extrair um metal alvo, os investigadores estão catalogando tudo o que está contido nos depósitos minerais suecos. Eles então desenvolverão ímãs usando as combinações disponíveis naturalmente,",
-      "source": "ScienceDaily",
-      "date": "Fri, 24 Jul 2026 04:30:52 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
-      "img": "https://www.sciencedaily.com/images/1920/rare-earth-minerals.webp",
-      "score": 0.76
-    },
-    {
-      "id": "cac1b0ec",
-      "cat": "ciencia",
-      "title": "Um estranho efeito quântico aumenta dramaticamente a transferência de energia",
-      "summary": "Os pesquisadores descobriram um mecanismo assistido por prótons que melhora muito a forma como a energia tripla se move entre pontos quânticos e moléculas próximas. O próton muda brevemente de posição, ajuda a coordenar o movimento dos elétrons e depois retorna ao ponto de partida. Este ônibus movido a energia quântica poderia oferecer um poderoso",
-      "source": "ScienceDaily",
-      "date": "Wed, 22 Jul 2026 08:17:00 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
-      "img": "https://www.sciencedaily.com/images/1920/proton-shuttle-assisted-triplet-energy-transfer.webp",
-      "score": 0.76
-    },
-    {
-      "id": "f6b8c8bc",
-      "cat": "tecnologia",
-      "title": "“Partido da Barata” consegue demissão do ministro da Educação da Índia após polémica com exames",
-      "summary": "Ao fim de vários dias de protestos, os militantes do Cockroach Janta Party (CJP) reclamam “vitória das baratas e da democracia”, mas avisam que a demissão do ministro não é suficiente.",
+      "id": "ae18969e",
+      "cat": "economia",
+      "title": "Com o Tour no bolso, Pogacar mudou de emprego durante cinco horas",
+      "summary": "O esloveno trabalhou durante largos quilómetros para proteger Isaac del Toro, numa inversão de papéis que permitiu ao mexicano segurar o lugar no pódio da Volta a França.",
       "source": "Público",
-      "date": "Sat, 25 Jul 2026 11:01:43 GMT",
-      "url": "https://www.publico.pt/2026/07/25/mundo/noticia/partido-barata-consegue-demissao-ministro-educacao-india-apos-polemica-exames-2183004",
+      "date": "Sat, 25 Jul 2026 14:47:56 GMT",
+      "url": "https://www.publico.pt/2026/07/25/desporto/noticia/tadej-pogacar-mudou-emprego-durante-cinco-horas-2183021",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "c9b11613",
+      "id": "0b44d1f3",
       "cat": "tecnologia",
-      "title": "12h. Ensino Superior. Quase 20 mil inscritos",
-      "summary": "Nos primeiros cinco dias de concurso ao ensino superior registaram-se menos 9 mil inscritos do que no ano passado. Ainda, o presidente do Benfica está na 'lista negra' do Banco de Portugal.",
+      "title": "ONU procura novo líder, mas arrisca \"tornar-se numa sombra\"",
+      "summary": "Com o processo a decorrer, corrida continua morna e nenhum dos seis candidatos reúne apoio dos membros permanentes do Conselho de Segurança. Trump pode agitar corrida, mas ONU tem problemas maiores.",
       "source": "Observador",
-      "date": "Sat, 25 Jul 2026 12:14:26 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2396/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 25 Jul 2026 19:20:23 +0100",
+      "url": "https://observador.pt/especiais/falta-de-fundos-mundo-em-crise-e-pressao-de-trump-onu-procura-novo-secretario-geral-mas-arrisca-tornar-se-uma-sombra/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/25173913/45713089.jpg",
       "score": 0.73
     },
     {
-      "id": "700d2819",
+      "id": "f300398d",
       "cat": "tecnologia",
-      "title": "Rui Rio considera que caso Luís Neves “abala profundamente” credibilidade do PSD e do Governo",
-      "summary": "O ex-presidente do PSD disse que, se fosse primeiro-ministro, teria pedido rápidos esclarecimentos ao ministro da Administração Interna e, se não fossem satisfatórios, já o teria demitido.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 25 Jul 2026 12:38:33 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/rui-rio-considera-que-caso-luis-neves-abala-profundamente-credibilidade-do-psd-e-do-governo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-01/img_100x100uu2022-01-23-20-14-05-420760.jpg",
+      "title": "António Carlos Cortez com Prémio Ensaio Jacinto Prado Coelho",
+      "summary": "O Prémio, com o valor de 4.000 euros, é atribuído pela Associação Portuguesa dos Críticos Literários (APCL), e foi uma escolha por unanimidade do júri.",
+      "source": "Observador",
+      "date": "Sat, 25 Jul 2026 19:03:21 +0100",
+      "url": "https://observador.pt/2026/07/25/antonio-carlos-cortez-venceu-o-premio-de-ensaio-jacinto-prado-coelho-2026/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3543:1992:nowe:0:325/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/07/12131407/antonio-carlos-cortez.jpeg",
       "score": 0.73
     },
     {
-      "id": "672dfd73",
+      "id": "3d7e8da1",
       "cat": "tecnologia",
-      "title": "Erling Kagge: “O silêncio é mais exclusivo e duradouro do que outros luxos”",
-      "summary": "Quase dez anos depois da publicação do livro “Silêncio na Era do Ruído”, perguntámos ao seu autor se o mundo está hoje ainda mais ruidoso e como podemos resistir à cacofonia que nos rodeia. Erling Kagge diz que o silêncio mais interessante é aquele que existe dentro de nós – mas muitas vezes temos m",
+      "title": "Lewis Capaldi mete têxtil de Barcelos no bolso",
+      "summary": "O cantor de “Someone You Loved” e “Before You Go” foi uma das personalidades que receberam, num espaço VIP do último Grande Prémio de Fórmula 1 em Silverstone, um lenço de bolso exclusivo da Carmafil, à boleia da presença da também portuguesa empresa de mobiliário de luxo MainGuilty.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 25 Jul 2026 11:46:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/erling-kagge-o-silencio-e-mais-exclusivo-e-duradouro-do-que-outros-luxos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-25-11-32-00-527195.jpg",
+      "date": "Sat, 25 Jul 2026 17:54:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/cantor-de-someone-you-loved-e-before-you-go-mete-no-bolso-textil-de-barcelos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-25-17-46-31-527208.png",
+      "score": 0.73
+    },
+    {
+      "id": "90b7d7d5",
+      "cat": "tecnologia",
+      "title": "Vendas online no Reino Unido batem recorde de cinco anos, e calor é culpado",
+      "summary": "Desde 2021 que as vendas online não ocupavam uma fatia tão grande do volume total de transações no país.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 25 Jul 2026 16:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/vendas-online-no-reino-unido-batem-recorde-de-cinco-anos-e-calor-e-culpado",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-24-15-47-27-527155.jpg",
       "score": 0.73
     },
     {
@@ -179,58 +234,47 @@
       "score": 0.73
     },
     {
-      "id": "ab9103ee",
-      "cat": "tecnologia",
-      "title": "Campeão mundial Rodri submetido a cirurgia nas costas na segunda-feira",
-      "summary": "O futebolista Rodri, recém-campeão mundial de seleções pela Espanha, vai ser submetido a uma intervenção cirúrgica nas costas na segunda-feira, anunciou hoje o novo treinador dos ingleses do Manchester City, o italiano Enzo Maresca.",
+      "id": "abecce6d",
+      "cat": "desporto",
+      "title": "Tatjana Pinto melhora recorde nacional dos 100 metros",
+      "summary": "A atleta Tatjana Pinto melhorou hoje o recorde nacional dos 100 metros, com 11,02 segundos, e conquistou um inédito título nos Campeonatos de Portugal ao ar livre, em Lisboa, sucedendo a Lorène Bazolo, que vinha de 10 triunfos.",
       "source": "RTP",
-      "date": "Fri, 24 Jul 2026 18:04:12 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/campeao-mundial-rodri-submetido-a-cirurgia-nas-costas-na-segunda-feira_d1755675",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7e/7e24fefdb5a2a732c2e5b48fbfaa6687?w=350&amp;q=50&amp;rect=0,46,1219,668&amp;auto=format",
+      "date": "Sat, 25 Jul 2026 20:15:15 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/tatjana-pinto-melhora-recorde-nacional-dos-100-metros_d1755859",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f2/f20d890e3d7166e4b38e8a6b813318ee?w=350&amp;q=50&amp;rect=0,5,739,405&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "2732a18c",
+      "id": "2e401a61",
       "cat": "tecnologia",
-      "title": "Pogacar inscreveu o nome no Alpe d`Huez e somou quinta vitória na 113.ª edição",
-      "summary": "Tadej Pogacar (UAE Emirates) conquistou esta sexta-feira a quinta vitória na 113.ª Volta a França em bicicleta, ao impor-se no Alpe d`Huez, no final da 19.ª etapa, consolidando ainda mais a sua `virtual` quinta vitória final na prova.",
+      "title": "Toque afasta Félix da Costa da luta pela vitória na Fórmula E em Tóquio",
+      "summary": "O piloto português António Félix da Costa (Jaguar) viu-se hoje afastado da luta pela vitória na 14.ª ronda do Mundial de Fórmula E, em Tóquio, depois de um toque com o alemão Pascal Wehrlein (Porsche).",
       "source": "RTP",
-      "date": "Fri, 24 Jul 2026 17:47:08 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/pogacar-inscreveu-o-nome-no-alpe-dhuez-e-somou-quinta-vitoria-na-113a-edicao_d1755672",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/63/63cdd9d4e156c426c163d7309a27316d?w=350&amp;q=50&amp;rect=0,9,1233,676&amp;auto=format",
+      "date": "Sat, 25 Jul 2026 20:12:03 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/toque-afasta-felix-da-costa-da-luta-pela-vitoria-na-formula-e-em-toquio_d1755858",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/62/62d7f04bc0422a91b8ab29f4226794ad?w=350&amp;q=50&amp;rect=0,348,5700,3125&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "46e8ec6c",
-      "cat": "cultura",
-      "title": "Andrey Rublev eliminado nos quartos de final por Van Assche",
-      "summary": "O tenista russo Andrey Rublev, primeiro cabeça de série, foi hoje eliminado nos quartos de final do Estoril Open, depois de perder com o francês Luca Van Assche, em três sets.",
-      "source": "RTP",
-      "date": "Fri, 24 Jul 2026 17:35:40 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/andrey-rublev-eliminado-nos-quartos-de-final-por-van-assche_d1755669",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/4c/4c5f40d82083c4c220291bc324519116?w=350&amp;q=50&amp;rect=0,18,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "62db268f",
+      "id": "49d26678",
       "cat": "tecnologia",
-      "title": "A nova era de ouro do betão e do alcatrão",
-      "summary": "Nicolas Notebaert, CEO da Vinci Concessions e presidente da Vinci Airports, a empresa francesa que é dona da ANA, marcou presença no evento que a concessionária e o Governo promoveram esta semana sobre o novo aeroporto. E deixou uma frase que ajuda a colocar em perspetiva a obra que aí vem: “não há ",
+      "title": "Dona da Tabaqueira fez um parceiro e amigo (improvável) que só fumou 15 segundos na vida",
+      "summary": "Con te partirò Paesi che non ho mai Veduto e vissuto con te Adesso, sì, li vivròo Con te partirò O fenómeno musical do tenor Andrea Bocelli podia ser perfeitamente cantado para a empresa com a qual o artista decidiu este verão fazer uma parceria estratégica internacional, a Philip Morris Internation",
       "source": "ECO",
-      "date": "Sat, 25 Jul 2026 10:39:50 +0000",
-      "url": "https://eco.sapo.pt/opiniao/a-nova-era-de-ouro-do-betao-e-do-alcatrao/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2021/06/andre-verissimo-opiniao-01-01-versao-final-01.png",
+      "date": "Sat, 25 Jul 2026 15:52:24 +0000",
+      "url": "https://eco.sapo.pt/2026/07/25/dona-da-tabaqueira-fez-um-parceiro-e-amigo-improvavel-que-so-fumou-15-segundos-na-vida/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-andrea-bocelli-massimo-andolina.jpg",
       "score": 0.73
     },
     {
-      "id": "38d24cc9",
+      "id": "67a23468",
       "cat": "tecnologia",
-      "title": "Rui Costa na ‘lista negra’ do Banco de Portugal",
-      "summary": "Rui Costa, presidente do Benfica, passou a estar sinalizado na Central de Responsabilidades de Crédito do Banco de Portugal por incumprimento em crédito vencido ligado ao empreendimento imobiliário Dream Living, em Carnaxide, num projeto avaliado em 45 milhões de euros, segundo avançou o Observador,",
+      "title": "Portugal perto de amarrar 20 cabos submarinos e tornar-se ‘hub’ digital",
+      "summary": "A 8 de junho de 1870, Portugal entrou na era das telecomunicações globais com a entrada em funcionamento do primeiro cabo telegráfico submarino, que ligava Carcavelos a Porthcurno, na costa sul do Reino Unido. Mais de século e meio depois, o país continua a desempenhar um papel estratégico nas comun",
       "source": "ECO",
-      "date": "Sat, 25 Jul 2026 08:54:27 +0000",
-      "url": "https://eco.sapo.pt/2026/07/25/rui-costa-na-lista-negra-do-banco-de-portugal/",
-      "img": "https://eco.imgix.net/uploads/2025/09/cropped-doc2025091945692727rcl190925ruicosta10.jpg",
+      "date": "Sat, 25 Jul 2026 14:37:08 +0000",
+      "url": "https://eco.sapo.pt/especiais/portugal-perto-de-amarrar-20-cabos-submarinos-e-tornar-se-hub-digital/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-underwater-scene-with-large-cable-lying-seafloor-illuminated-by-rays-sunlight-piercing-through-water-showcasing-technologyis-depths.jpg",
       "score": 0.73
     },
     {
@@ -287,50 +331,6 @@
       "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2576357661-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "d176149a",
-      "cat": "tecnologia",
-      "title": "Rui Rio diz que caso Luís Neves “abala profundamente” credibilidade do Governo e do PS",
-      "summary": "Para o ex-líder social-democrata, o caso Luís Neves “está a abalar profundamente a credibilidade do PSD – e também do PS, mas agora estou preocupado com o PSD”.",
-      "source": "Público",
-      "date": "Sat, 25 Jul 2026 12:23:45 GMT",
-      "url": "https://www.publico.pt/2026/07/25/politica/noticia/rui-rio-caso-luis-neves-abala-profundamente-credibilidade-governo-ps-2183013",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "f3bb2df3",
-      "cat": "cultura",
-      "title": "Estagiária canadiana no quartel-general da NATO detida por suspeitas de espionagem",
-      "summary": "Ministério Público da Bélgica diz que a mulher, de ascendência chinesa, é suspeita de espiar para “um país terceiro” e de ser “membro de uma organização criminosa”.",
-      "source": "Público",
-      "date": "Sat, 25 Jul 2026 11:31:39 GMT",
-      "url": "https://www.publico.pt/2026/07/25/mundo/noticia/estagiaria-canadiana-quartelgeneral-nato-detida-suspeitas-espionagem-2183008",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "4ecae7cb",
-      "cat": "tecnologia",
-      "title": "13h. Ministra da Justiça sai em defesa de Luís Neves",
-      "summary": "Rita Alarcão Júdice diz que as explicações de Luís Neves devem ser dadas no momento certo. Ainda, Missão Escola Pública considera difícil o pagamento de horas extra aos professores.",
-      "source": "Observador",
-      "date": "Sat, 25 Jul 2026 13:13:45 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2395/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "960bf12e",
-      "cat": "economia",
-      "title": "Declarado ilícito despedimento de contratado por EOR",
-      "summary": "Juízo do Trabalho do Porto declarou ilícito o despedimento de um trabalhador contratado através de uma estrutura internacional de Employer of Record, modelo crescentemente utilizado por empresas.",
-      "source": "Observador",
-      "date": "Sat, 25 Jul 2026 12:43:21 +0100",
-      "url": "https://observador.pt/2026/07/25/tribunal-portugues-declara-ilicito-despedimento-em-modelo-de-contratacao-internacional/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/14180832/jporfirio-sala-audiencia-bes-ges-processo-11-scaled.jpg",
-      "score": 0.7
     }
   ]
 }
