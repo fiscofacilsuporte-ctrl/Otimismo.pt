@@ -1,18 +1,7 @@
 {
-  "last_update": "26/07/2026 08:36 UTC",
+  "last_update": "26/07/2026 13:44 UTC",
   "total": 30,
   "news": [
-    {
-      "id": "830bd580",
-      "cat": "tecnologia",
-      "title": "Cientistas descobrem que o Sol contém 55% mais prata do que o esperado",
-      "summary": "Uma nova análise sugere que o Sol contém muito mais prata do que as estimativas anteriores indicavam. Modelos mais avançados da atmosfera solar aumentaram o valor calculado em 55%, aproximando-o muito mais dos meteoritos antigos. A técnica também pode ajudar os cientistas a rastrear a origem cósmica",
-      "source": "ScienceDaily",
-      "date": "Fri, 24 Jul 2026 21:55:27 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
-      "img": "https://www.sciencedaily.com/images/1920/close-up-sun-surface-solar-flares.webp",
-      "score": 0.85
-    },
     {
       "id": "4d0a84ef",
       "cat": "ciencia",
@@ -58,17 +47,6 @@
       "score": 0.79
     },
     {
-      "id": "d2fd4373",
-      "cat": "tecnologia",
-      "title": "Borba conquista a chef do ano",
-      "summary": "Francisca Dias, que arrecadou o primeiro lugar do concurso Chef do Ano, deixou Lisboa para abrir o seu espaço no Alentejo.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 25 Jul 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/borba-conquista-a-chef-do-ano",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-25-12-04-00-527196.jpg",
-      "score": 0.76
-    },
-    {
       "id": "23a616d9",
       "cat": "desporto",
       "title": "Marítimo empata sem golos com AD Machico em encontro particular",
@@ -77,17 +55,6 @@
       "date": "Sat, 25 Jul 2026 22:54:40 +0100",
       "url": "https://www.rtp.pt/noticias/futebol-nacional/maritimo-empata-sem-golos-com-ad-machico-em-encontro-particular_d1755895",
       "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "b1294120",
-      "cat": "tecnologia",
-      "title": "Lampsy, o candeeiro português que vigia a epilepsia",
-      "summary": "Um candeeiro que ajuda as pessoas a vigiar a epilepsia durante a noite. Esta é a ideia de Vicente Mayer Garção, CEO da Lampsy Health, que conseguiu um apoio do pré-acelerador do Conselho Europeu para a Inovação. São 350 mil euros que vão ajudar a startup no desenvolvimento e investigação e cujo cont",
-      "source": "ECO",
-      "date": "Sat, 25 Jul 2026 14:08:15 +0000",
-      "url": "https://eco.sapo.pt/2026/07/25/lampsy-o-candeeiro-portugues-que-vigia-a-epilepsia/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-lampsy-kpmg05.jpg",
       "score": 0.76
     },
     {
@@ -124,6 +91,17 @@
       "score": 0.76
     },
     {
+      "id": "62f804d3",
+      "cat": "ciencia",
+      "title": "A diversidade genética oculta ajudou cobras arbóreas endogâmicas marrons a conquistar Guam",
+      "summary": "Uma notória invasão de cobras que devastou as aves nativas de Guam pode ter tido sucesso porque os répteis carregavam vantagens genéticas ocultas. Usando sequenciamento avançado de DNA de longa leitura, os pesquisadores descobriram mais de 19.000 grandes diferenças genéticas em cobras arbóreas marrons, muitas delas concentradas em genes ligados a",
+      "source": "ScienceDaily",
+      "date": "Sun, 26 Jul 2026 03:15:38 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
+      "img": "https://www.sciencedaily.com/images/1920/brown-tree-snake.webp",
+      "score": 0.76
+    },
+    {
       "id": "ff581a00",
       "cat": "ambiente",
       "title": "Cientistas colocam à prova a afirmação de que “reciclagem é uma distração”",
@@ -146,80 +124,58 @@
       "score": 0.76
     },
     {
-      "id": "88640c8f",
+      "id": "ae5ab3d7",
       "cat": "tecnologia",
-      "title": "António Mendonça: “Descoberta de que temos mais residentes do que pensávamos é ridícula”",
-      "summary": "Bastonário da Ordem dos Economistas defende que Portugal precisa de recuperar o pensamento estratégico para aumentar a produtividade, reforçar a indústria e voltar a crescer.",
-      "source": "Público",
-      "date": "Sun, 26 Jul 2026 08:05:59 GMT",
-      "url": "https://www.publico.pt/2026/07/26/economia/entrevista/antonio-mendonca-descoberta-residentes-pensavamos-ridicula-2180835",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "cd4161e8",
-      "cat": "tecnologia",
-      "title": "Kevin Keegan (1951-2026): o homem que fez Inglaterra sonhar",
-      "summary": "Duas vezes vencedor da Bola de Ouro, ídolo do Liverpool e eterno rei de Newcastle, Kevin Keegan morreu aos 75 anos. Recordamos a vida de um dos maiores nomes do futebol inglês.",
-      "source": "Público",
-      "date": "Sun, 26 Jul 2026 06:32:00 GMT",
-      "url": "https://www.publico.pt/2026/07/26/desporto/noticia/kevin-keegan-19512026-homem-fez-inglaterra-sonhar-2182456",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "70e97de0",
-      "cat": "tecnologia",
-      "title": "Todos falam da IA. Que cursos me permitem mergulhar nesse mundo?",
-      "summary": "A inteligência artificial está a transformar o mercado de trabalho e a criar novas oportunidades. Dois profissionais da área explicam que cursos, competências e perfis serão mais procurados no futuro.",
-      "source": "Público",
-      "date": "Sun, 26 Jul 2026 06:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/26/sociedade/noticia/falam-ia-cursos-permitem-mergulhar-nesse-mundo-2182676",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "66f9a359",
-      "cat": "tecnologia",
-      "title": "Pedro, o pescador que se tornou o primeiro líder cristão",
-      "summary": "Foi um pescador que, ao longo da vida, duvidou, hesitou e negou Jesus — e mesmo assim foi escolhido para liderar os primeiros cristãos. Quem foi Pedro? O novo episódio de \"As Histórias da Bíblia\".",
+      "title": "Princesa de Vix. Joia do século V a.C roubada de museu",
+      "summary": "Tesouro celta com 2500 anos, o colar com meio quilo de ouro, descoberto em 1953, foi roubado em plena luz do dia de um discreto museu na Borgonha, reavivando o saque do Louvre.",
       "source": "Observador",
-      "date": "Sun, 26 Jul 2026 06:05:28 +0100",
-      "url": "https://observador.pt/programas/as-historias-da-biblia/pedro-o-pescador-que-se-tornou-o-primeiro-lider-cristao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/04120201/770-podcast-as-historias-da-biblia.jpg",
+      "date": "Sun, 26 Jul 2026 13:46:08 +0100",
+      "url": "https://observador.pt/2026/07/26/torque-da-princesa-de-vix-depois-de-duas-tentativas-em-oito-meses-joia-do-seculo-v-a-c-e-roubada-de-museu-frances/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:673:nowe:0:531/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/26130732/torque-en-or.jpg",
       "score": 0.73
     },
     {
-      "id": "f29d8edc",
+      "id": "27f18843",
       "cat": "tecnologia",
-      "title": "5h. PS pede consciência ao Primeiro-Ministro nas explicaç...",
-      "summary": "José Luís Carneiro quer garantir com isto a salvaguarda das instituições do Estado de Direito democrático. Ainda, Luís Neves promete dar explicações \"ponto por ponto\" e \"o quanto antes\".",
+      "title": "Pote diz adeus. Alvalade aguenta esta revolução silenciosa?",
+      "summary": "FC Porto e Sporting dão show na apresentação e convencem os adeptos. Pote parece ter as malas feitas para a Arábia. Rafael Leão vai conseguir ser feliz na Turquia? Ivanovic interessa ao Galatasaray.",
       "source": "Observador",
-      "date": "Sun, 26 Jul 2026 05:15:39 +0100",
-      "url": "https://observador.pt/programas/noticiario/5h-ps-pede-consciencia-ao-primeiro-ministro-nas-explicacoes-sobre-mai/",
+      "date": "Sun, 26 Jul 2026 12:14:46 +0100",
+      "url": "https://observador.pt/programas/e-o-campeao-e/pote-diz-adeus-alvalade-aguenta-esta-revolucao-silenciosa/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "06c8b5d0",
+      "cat": "tecnologia",
+      "title": "12h. Combustíveis. PS acusa Governo de lucrar",
+      "summary": "Declarações de José Luís Carneiro esta manhã, Ainda neste jornal, novo primeiro-ministro do Reino Unido afasta a hipótese de eleições antecipadas no país.",
+      "source": "Observador",
+      "date": "Sun, 26 Jul 2026 12:13:15 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2397/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "3d7e8da1",
+      "id": "27d822fd",
       "cat": "tecnologia",
-      "title": "Lewis Capaldi mete têxtil de Barcelos no bolso",
-      "summary": "O cantor de “Someone You Loved” e “Before You Go” foi uma das personalidades que receberam, num espaço VIP do último Grande Prémio de Fórmula 1 em Silverstone, um lenço de bolso exclusivo da Carmafil, à boleia da presença da também portuguesa empresa de mobiliário de luxo MainGuilty.",
+      "title": "Voltar ao tempo da revolução industrial em Vale de Milhaços",
+      "summary": "Há uma relíquia arqueológica industrial “escondida” num bosque, no município do Seixal. A Fábrica de Pólvora de Vale de Milhaços remonta a 1894 e o seu ex-líbris é uma máquina a vapor do século XIX que dava energia a todo o circuito da pólvora negra, que ali era produzida para fins não militares. O ",
       "source": "Jornal de Negócios",
-      "date": "Sat, 25 Jul 2026 17:54:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/cantor-de-someone-you-loved-e-before-you-go-mete-no-bolso-textil-de-barcelos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-25-17-46-31-527208.png",
+      "date": "Sun, 26 Jul 2026 12:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/voltar-ao-tempo-da-revolucao-industrial-em-vale-de-milhacos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-26-02-21-34-527213.jpg",
       "score": 0.73
     },
     {
-      "id": "90b7d7d5",
+      "id": "55184a7e",
       "cat": "tecnologia",
-      "title": "Vendas online no Reino Unido batem recorde de cinco anos, e calor é culpado",
-      "summary": "Desde 2021 que as vendas online não ocupavam uma fatia tão grande do volume total de transações no país.",
+      "title": "Novo primeiro-ministro britânico promete desafiar Trump, se for necessário",
+      "summary": "Andy Burnham afirma que a prioridade são os interesses nacionais e que confrontará o Presidente norte-americano se tal fica em causa. O novo inquilino de Downing Street descarta eleições antecipadas.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 25 Jul 2026 16:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/vendas-online-no-reino-unido-batem-recorde-de-cinco-anos-e-calor-e-culpado",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-24-15-47-27-527155.jpg",
+      "date": "Sun, 26 Jul 2026 11:11:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/europa/detalhe/novo-primeiro-ministro-britanico-promete-desafiar-trump-se-for-necessario",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-20-12-54-00-526911.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "49d26678",
-      "cat": "tecnologia",
-      "title": "Dona da Tabaqueira fez um parceiro e amigo (improvável) que só fumou 15 segundos na vida",
-      "summary": "Con te partirò Paesi che non ho mai Veduto e vissuto con te Adesso, sì, li vivròo Con te partirò O fenómeno musical do tenor Andrea Bocelli podia ser perfeitamente cantado para a empresa com a qual o artista decidiu este verão fazer uma parceria estratégica internacional, a Philip Morris Internation",
+      "id": "e1a92979",
+      "cat": "economia",
+      "title": "Lucro da Mapfre sobe 9,4% no primeiro semestre para 624 milhões de euros",
+      "summary": "A seguradora Mapfre teve lucros de 624 milhões de euros até junho, mais 9,4% do que no primeiro semestre do ano passado, revelou a empresa espanhola, que está presente em Portugal. Segundo os resultados que comunicou à Comissão Nacional do Mercado de Valores (CNMV) de Espanha, as receitas da Mapfre ",
       "source": "ECO",
-      "date": "Sat, 25 Jul 2026 15:52:24 +0000",
-      "url": "https://eco.sapo.pt/2026/07/25/dona-da-tabaqueira-fez-um-parceiro-e-amigo-improvavel-que-so-fumou-15-segundos-na-vida/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-andrea-bocelli-massimo-andolina.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "67a23468",
-      "cat": "tecnologia",
-      "title": "Portugal perto de amarrar 20 cabos submarinos e tornar-se ‘hub’ digital",
-      "summary": "A 8 de junho de 1870, Portugal entrou na era das telecomunicações globais com a entrada em funcionamento do primeiro cabo telegráfico submarino, que ligava Carcavelos a Porthcurno, na costa sul do Reino Unido. Mais de século e meio depois, o país continua a desempenhar um papel estratégico nas comun",
-      "source": "ECO",
-      "date": "Sat, 25 Jul 2026 14:37:08 +0000",
-      "url": "https://eco.sapo.pt/especiais/portugal-perto-de-amarrar-20-cabos-submarinos-e-tornar-se-hub-digital/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-underwater-scene-with-large-cable-lying-seafloor-illuminated-by-rays-sunlight-piercing-through-water-showcasing-technologyis-depths.jpg",
+      "date": "Sun, 26 Jul 2026 11:44:03 +0000",
+      "url": "https://eco.sapo.pt/2026/07/26/lucro-da-mapfre-sobe-94-no-primeiro-semestre-para-624-milhoes-de-euros/",
+      "img": "https://eco.imgix.net/uploads/2026/01/cropped-af-mapfre-logotype-ver-1-rgb-red-bg-scaled-1.png",
       "score": 0.73
     },
     {
@@ -322,14 +267,69 @@
       "score": 0.73
     },
     {
-      "id": "0954e8ad",
+      "id": "a73cd152",
       "cat": "tecnologia",
-      "title": "As notícias das 8h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Sun, 26 Jul 2026 08:11:32 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2468/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Descida de IRS em 2027 ainda não é garantida, IRS Jovem mantém-se no ano que vem",
+      "summary": "A secretária de Estado dos Assuntos Fiscais, Cláudia Reis Duarte, não se compromete com uma nova descida de IRS em 2027 e adianta que o Governo vai manter o IRS Jovem no próximo ano.",
+      "source": "Público",
+      "date": "Sun, 26 Jul 2026 11:25:05 GMT",
+      "url": "https://www.publico.pt/2026/07/26/economia/noticia/descida-irs-2027-nao-garantida-irs-jovem-mantemse-ano-vem-2183053",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "2aae8e00",
+      "cat": "tecnologia",
+      "title": "No TikTok, jovens cruzam o culto do corpo com misoginia e anti-semitismo",
+      "summary": "O P&Uacute;BLICO mapeou cem contas portuguesas no TikTok que revelam novos &acirc;ngulos da manosfera .",
+      "source": "Público",
+      "date": "Sun, 26 Jul 2026 10:44:00 GMT",
+      "url": "https://www.publico.pt/2026/07/26/video/tiktok-jovens-cruzam-culto-corpo-misogina-antisemitismo-20260724-194243",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "aec0c8e9",
+      "cat": "tecnologia",
+      "title": "A arquitectura social levou este prédio das Fontainhas da ruína à habitação colectiva",
+      "summary": "Foi a paix&atilde;o pelo aspecto social da arquitectura a guiar o trabalho de Andr&eacute; Camelo, que transformou um pr&eacute;dio comprometido das Fontainhas, no Porto, numa habita&ccedil;&atilde;o colectiva, social e &quot;l&uacute;dica&quot;.",
+      "source": "Público",
+      "date": "Sun, 26 Jul 2026 10:23:09 GMT",
+      "url": "https://www.publico.pt/2026/07/26/fotogaleria/fontainhas-415770",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "30d0adbb",
+      "cat": "tecnologia",
+      "title": "Das figuras da cultura europeia às aves: presidente do BCE apresenta designs finalistas para as futuras notas de euro",
+      "summary": "A presidente do Banco Central Europeu (BCE), Christine Lagarde, apresentou quinta-feira passada as propostas dos finalistas para o design das novas notas da moeda única europeia.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 26 Jul 2026 14:29:44 +0100",
+      "url": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/das-figuras-da-cultura-europeia-as-aves-presidente-do-bce-apresenta-designs-finalistas-para-as-futuras-notas-de-euro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-24-12-55-21-527152.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
