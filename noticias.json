@@ -1,5 +1,5 @@
 {
-  "last_update": "25/07/2026 19:19 UTC",
+  "last_update": "26/07/2026 03:39 UTC",
   "total": 30,
   "news": [
     {
@@ -47,17 +47,6 @@
       "score": 0.82
     },
     {
-      "id": "bba063c3",
-      "cat": "tecnologia",
-      "title": "Maiden Rocket lança ‘um grande sucesso’ para a primeira empresa privada de voos espaciais da Índia",
-      "summary": "Em 2022, a Índia derrotou a Rússia, um viajante espacial de longa data, para se tornar a terceira nação a ver um foguete projetado e construído de forma privada chegar ao espaço com sucesso. Agora, apenas 4 anos depois, a Skyroot Aerospace, com sede em Hyderabad, se superou. O novo foguete Vikram-1 de 4 estágios da empresa, capaz de transportar",
-      "source": "Good News Network",
-      "date": "Thu, 23 Jul 2026 15:30:16 +0000",
-      "url": "https://www.goodnewsnetwork.org/maiden-rocket-launch-a-grand-success-for-indias-first-private-spaceflight-company/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Skyroot-Aerospace.jpg",
-      "score": 0.79
-    },
-    {
       "id": "6d08a9cc",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: as boas notícias que importam",
@@ -67,28 +56,6 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-1302682520.jpeg",
       "score": 0.79
-    },
-    {
-      "id": "0b8e0f7a",
-      "cat": "tecnologia",
-      "title": "Lando Norris conquista primeira pole da temporada de F1",
-      "summary": "Campeão do Mundo bateu Lewis Hamilton por 0,012s, surpreendendo os Ferrari numa classificação muito disputada. Inglês da Ferrari recebeu penalização de três lugares por impedir Oscar Piastri.",
-      "source": "Público",
-      "date": "Sat, 25 Jul 2026 17:30:42 GMT",
-      "url": "https://www.publico.pt/2026/07/25/desporto/noticia/lando-norris-conquista-primeira-pole-temporada-f1-2183028",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "488ef480",
-      "cat": "sociedade",
-      "title": "Guterres visita a Síria no primeiro regresso de um líder da ONU ao país em 17 anos",
-      "summary": "O secretário-geral das Nações Unidas foi a Damasco para “uma visita de solidariedade” e pede à comunidade internacional que não deixe de apoiar a Síria.",
-      "source": "Público",
-      "date": "Sat, 25 Jul 2026 14:29:29 GMT",
-      "url": "https://www.publico.pt/2026/07/25/mundo/noticia/guterres-visita-siria-regresso-lider-onu-pais-17-anos-2183016",
-      "img": null,
-      "score": 0.76
     },
     {
       "id": "d2fd4373",
@@ -102,14 +69,14 @@
       "score": 0.76
     },
     {
-      "id": "02513891",
-      "cat": "tecnologia",
-      "title": "Norris surpreende Mercedes e conquista primeira ‘pole’ da temporada na Fórmula 1",
-      "summary": "O britânico Lando Norris (McLaren) conquistou hoje a ‘pole position’ para o Grande Prémio da Hungria de Fórmula 1, a primeira da temporada, numa sessão de qualificação decidida nos instantes finais.",
+      "id": "23a616d9",
+      "cat": "desporto",
+      "title": "Marítimo empata sem golos com AD Machico em encontro particular",
+      "summary": "O Marítimo empatou hoje 0-0 com a AD Machico, do Campeonato de Portugal, em jogo de preparação disputado à porta fechada, no recinto do emblema campeão da II Liga e recém-promovido ao primeiro escalão.",
       "source": "RTP",
-      "date": "Sat, 25 Jul 2026 20:05:56 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/norris-surpreende-mercedes-e-conquista-primeira-pole-da-temporada-na-formula-1_d1755854",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c35811f66a00ff7976d10ec0ef207bf4?w=350&amp;q=50&amp;rect=0,506,4677,2564&amp;auto=format",
+      "date": "Sat, 25 Jul 2026 22:54:40 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/maritimo-empata-sem-golos-com-ad-machico-em-encontro-particular_d1755895",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.76
     },
     {
@@ -124,9 +91,20 @@
       "score": 0.76
     },
     {
+      "id": "86d170a3",
+      "cat": "ciencia",
+      "title": "Heatwave revela projeto de jardim ‘perdido’ do século 17 sob grama ressecada",
+      "summary": "O esboço de uma história &#8216;perdida&#8217; Um jardim do século 17 foi revelado em uma imponente casa britânica após a onda de calor recorde e a longa seca. Sob a grama seca havia um jardim ornamentado sendo redescoberto depois de mais de 350 anos em Chatsworth House, em Derbyshire. Acontece que o",
+      "source": "Good News Network",
+      "date": "Sun, 26 Jul 2026 02:52:23 +0000",
+      "url": "https://www.goodnewsnetwork.org/heatwave-reveals-lost-17th-century-garden-under-parched-grass/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Heatwave-reveals-historic-garden-design-Chatsworth-House-SWNS.jpeg",
+      "score": 0.76
+    },
+    {
       "id": "884ba98f",
       "cat": "tecnologia",
-      "title": "O primeiro filhote de papagaio-do-mar avistado em mais de 30 anos surge ao longo dos penhascos na costa sul da Inglaterra",
+      "title": "Primeiro filhote de papagaio-do-mar em 30 anos é avistado emergindo de penhascos ao longo da costa sul da Inglaterra",
       "summary": "Os conservacionistas prenderam a respiração nesta primavera, pois a última colónia de papagaios-do-mar corria o risco de se perder completamente, mas o alívio transformou-se em alegria, pois não só os papagaios-do-mar adultos regressaram, como também nasceu um bebé. Pela primeira vez em 30 anos, um pássaro recém-nascido – chamado PUFFLING – foi avistado",
       "source": "Good News Network",
       "date": "Sat, 25 Jul 2026 18:10:18 +0000",
@@ -168,36 +146,25 @@
       "score": 0.76
     },
     {
-      "id": "ae18969e",
-      "cat": "economia",
-      "title": "Com o Tour no bolso, Pogacar mudou de emprego durante cinco horas",
-      "summary": "O esloveno trabalhou durante largos quilómetros para proteger Isaac del Toro, numa inversão de papéis que permitiu ao mexicano segurar o lugar no pódio da Volta a França.",
+      "id": "aecaeafe",
+      "cat": "desporto",
+      "title": "FC Porto apresentou-se aos sócios com um triunfo",
+      "summary": "Campeão português defrontou uma versão incompleta do vencedor da Liga Europa e mostrou virtudes e defeitos numa altura em que já pensa na Supertaça.",
       "source": "Público",
-      "date": "Sat, 25 Jul 2026 14:47:56 GMT",
-      "url": "https://www.publico.pt/2026/07/25/desporto/noticia/tadej-pogacar-mudou-emprego-durante-cinco-horas-2183021",
+      "date": "Sat, 25 Jul 2026 20:57:32 GMT",
+      "url": "https://www.publico.pt/2026/07/25/desporto/cronica_de_jogo/fc-porto-apresentouse-socios-triunfo-2183035",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "0b44d1f3",
+      "id": "976c97b6",
       "cat": "tecnologia",
-      "title": "ONU procura novo líder, mas arrisca \"tornar-se numa sombra\"",
-      "summary": "Com o processo a decorrer, corrida continua morna e nenhum dos seis candidatos reúne apoio dos membros permanentes do Conselho de Segurança. Trump pode agitar corrida, mas ONU tem problemas maiores.",
-      "source": "Observador",
-      "date": "Sat, 25 Jul 2026 19:20:23 +0100",
-      "url": "https://observador.pt/especiais/falta-de-fundos-mundo-em-crise-e-pressao-de-trump-onu-procura-novo-secretario-geral-mas-arrisca-tornar-se-uma-sombra/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/25173913/45713089.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "f300398d",
-      "cat": "tecnologia",
-      "title": "António Carlos Cortez com Prémio Ensaio Jacinto Prado Coelho",
-      "summary": "O Prémio, com o valor de 4.000 euros, é atribuído pela Associação Portuguesa dos Críticos Literários (APCL), e foi uma escolha por unanimidade do júri.",
-      "source": "Observador",
-      "date": "Sat, 25 Jul 2026 19:03:21 +0100",
-      "url": "https://observador.pt/2026/07/25/antonio-carlos-cortez-venceu-o-premio-de-ensaio-jacinto-prado-coelho-2026/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3543:1992:nowe:0:325/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/07/12131407/antonio-carlos-cortez.jpeg",
+      "title": "Vitória sobre o Mónaco e já com boas pistas sobre um Sporting em mutação",
+      "summary": "A equipa de Rui Borges mostrou, em geral, um nível bastante aceitável para esta fase da temporada. Houve boas soluções ofensivas e solidez e coordenação sem bola numa equipa com várias caras novas.",
+      "source": "Público",
+      "date": "Sat, 25 Jul 2026 20:28:25 GMT",
+      "url": "https://www.publico.pt/2026/07/25/desporto/cronica_de_jogo/ja-ha-boas-pistas-sporting-construcao-2183032",
+      "img": null,
       "score": 0.73
     },
     {
@@ -234,25 +201,25 @@
       "score": 0.73
     },
     {
-      "id": "abecce6d",
-      "cat": "desporto",
-      "title": "Tatjana Pinto melhora recorde nacional dos 100 metros",
-      "summary": "A atleta Tatjana Pinto melhorou hoje o recorde nacional dos 100 metros, com 11,02 segundos, e conquistou um inédito título nos Campeonatos de Portugal ao ar livre, em Lisboa, sucedendo a Lorène Bazolo, que vinha de 10 triunfos.",
+      "id": "db1fab4d",
+      "cat": "tecnologia",
+      "title": "Portugal sagra-se tricampeão europeu masculino de hóquei em patins de sub-17",
+      "summary": "A seleção portuguesa masculina de hóquei em patins de sub-17 sagrou-se hoje tricampeã europeia da categoria, ao vencer a Espanha (3-2), recordista de títulos, na final disputada em Braga.",
       "source": "RTP",
-      "date": "Sat, 25 Jul 2026 20:15:15 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/tatjana-pinto-melhora-recorde-nacional-dos-100-metros_d1755859",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f2/f20d890e3d7166e4b38e8a6b813318ee?w=350&amp;q=50&amp;rect=0,5,739,405&amp;auto=format",
+      "date": "Sun, 26 Jul 2026 00:06:59 +0100",
+      "url": "https://www.rtp.pt/noticias/hoquei/portugal-sagra-se-tricampeao-europeu-masculino-de-hoquei-em-patins-de-sub-17_d1755906",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b2f8ab2804c598ea02ca9cc4143b9692?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "2e401a61",
+      "id": "82994322",
       "cat": "tecnologia",
-      "title": "Toque afasta Félix da Costa da luta pela vitória na Fórmula E em Tóquio",
-      "summary": "O piloto português António Félix da Costa (Jaguar) viu-se hoje afastado da luta pela vitória na 14.ª ronda do Mundial de Fórmula E, em Tóquio, depois de um toque com o alemão Pascal Wehrlein (Porsche).",
+      "title": "Regressado Nelson Évora domina triplo",
+      "summary": "Pouco mais de um mês depois de ter regressado à competição, findando três épocas de ausência, Nelson Évora (Juventude Ilha Verde), de 42 anos, dominou o triplo salto, ao rubricar 16,03 metros no terceiro ensaio, e deixou Tiago Luís Pereira, heptacampeão em título, no segundo lugar, com 15,93.",
       "source": "RTP",
-      "date": "Sat, 25 Jul 2026 20:12:03 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/toque-afasta-felix-da-costa-da-luta-pela-vitoria-na-formula-e-em-toquio_d1755858",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/62/62d7f04bc0422a91b8ab29f4226794ad?w=350&amp;q=50&amp;rect=0,348,5700,3125&amp;auto=format",
+      "date": "Sat, 25 Jul 2026 23:17:53 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/regressado-nelson-evora-domina-triplo_d1755900",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/79/79922a12ec7192fa598bbd88de91c78c?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format",
       "score": 0.73
     },
     {
@@ -331,6 +298,39 @@
       "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2576357661-scaled.jpg",
       "score": 0.73
+    },
+    {
+      "id": "7bad60f2",
+      "cat": "geral",
+      "title": "O risco de escalada",
+      "summary": "Desde Janeiro de 2025, Trump e a sua América provocaram um terramoto a nível internacional que se tornou incontornável. Basta olhar para a semana que hoje termina. Análise de Teresa de Sousa",
+      "source": "Público",
+      "date": "Sat, 25 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/26/opiniao/analise/risco-escalada-2183022",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "1ea9cd07",
+      "cat": "tecnologia",
+      "title": "2h. IL diz que Luís Neves está a contaminar imagem da PJ",
+      "summary": "Presidente da Iniciativa Liberal, Mariana Leitão, pede esclarecimentos urgentes ao Ministro da Administração Interna. Ainda, autoridades espanholas estão otimistas para o combate às chamas esta noite.",
+      "source": "Observador",
+      "date": "Sun, 26 Jul 2026 02:15:10 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2360/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "eae5eae9",
+      "cat": "tecnologia",
+      "title": "1h. Incêndios em Espanha \"não estão sob controlo\"",
+      "summary": "Autoridades estão otimistas para o combate às chamas esta noite, depois de um sábado marcado por condições adversas. Ainda, morreu uma pessoa num atropelamento durante uma marcha LGBTQ, em Berlim.",
+      "source": "Observador",
+      "date": "Sun, 26 Jul 2026 01:21:26 +0100",
+      "url": "https://observador.pt/programas/noticiario/1h-incendios-em-espanha-nao-estao-sob-controlo-mas-situacao-esta/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
     }
   ]
 }
