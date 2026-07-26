@@ -1,5 +1,5 @@
 {
-  "last_update": "26/07/2026 03:39 UTC",
+  "last_update": "26/07/2026 08:36 UTC",
   "total": 30,
   "news": [
     {
@@ -146,25 +146,58 @@
       "score": 0.76
     },
     {
-      "id": "aecaeafe",
-      "cat": "desporto",
-      "title": "FC Porto apresentou-se aos sócios com um triunfo",
-      "summary": "Campeão português defrontou uma versão incompleta do vencedor da Liga Europa e mostrou virtudes e defeitos numa altura em que já pensa na Supertaça.",
+      "id": "88640c8f",
+      "cat": "tecnologia",
+      "title": "António Mendonça: “Descoberta de que temos mais residentes do que pensávamos é ridícula”",
+      "summary": "Bastonário da Ordem dos Economistas defende que Portugal precisa de recuperar o pensamento estratégico para aumentar a produtividade, reforçar a indústria e voltar a crescer.",
       "source": "Público",
-      "date": "Sat, 25 Jul 2026 20:57:32 GMT",
-      "url": "https://www.publico.pt/2026/07/25/desporto/cronica_de_jogo/fc-porto-apresentouse-socios-triunfo-2183035",
+      "date": "Sun, 26 Jul 2026 08:05:59 GMT",
+      "url": "https://www.publico.pt/2026/07/26/economia/entrevista/antonio-mendonca-descoberta-residentes-pensavamos-ridicula-2180835",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "976c97b6",
+      "id": "cd4161e8",
       "cat": "tecnologia",
-      "title": "Vitória sobre o Mónaco e já com boas pistas sobre um Sporting em mutação",
-      "summary": "A equipa de Rui Borges mostrou, em geral, um nível bastante aceitável para esta fase da temporada. Houve boas soluções ofensivas e solidez e coordenação sem bola numa equipa com várias caras novas.",
+      "title": "Kevin Keegan (1951-2026): o homem que fez Inglaterra sonhar",
+      "summary": "Duas vezes vencedor da Bola de Ouro, ídolo do Liverpool e eterno rei de Newcastle, Kevin Keegan morreu aos 75 anos. Recordamos a vida de um dos maiores nomes do futebol inglês.",
       "source": "Público",
-      "date": "Sat, 25 Jul 2026 20:28:25 GMT",
-      "url": "https://www.publico.pt/2026/07/25/desporto/cronica_de_jogo/ja-ha-boas-pistas-sporting-construcao-2183032",
+      "date": "Sun, 26 Jul 2026 06:32:00 GMT",
+      "url": "https://www.publico.pt/2026/07/26/desporto/noticia/kevin-keegan-19512026-homem-fez-inglaterra-sonhar-2182456",
       "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "70e97de0",
+      "cat": "tecnologia",
+      "title": "Todos falam da IA. Que cursos me permitem mergulhar nesse mundo?",
+      "summary": "A inteligência artificial está a transformar o mercado de trabalho e a criar novas oportunidades. Dois profissionais da área explicam que cursos, competências e perfis serão mais procurados no futuro.",
+      "source": "Público",
+      "date": "Sun, 26 Jul 2026 06:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/26/sociedade/noticia/falam-ia-cursos-permitem-mergulhar-nesse-mundo-2182676",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "66f9a359",
+      "cat": "tecnologia",
+      "title": "Pedro, o pescador que se tornou o primeiro líder cristão",
+      "summary": "Foi um pescador que, ao longo da vida, duvidou, hesitou e negou Jesus — e mesmo assim foi escolhido para liderar os primeiros cristãos. Quem foi Pedro? O novo episódio de \"As Histórias da Bíblia\".",
+      "source": "Observador",
+      "date": "Sun, 26 Jul 2026 06:05:28 +0100",
+      "url": "https://observador.pt/programas/as-historias-da-biblia/pedro-o-pescador-que-se-tornou-o-primeiro-lider-cristao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/04120201/770-podcast-as-historias-da-biblia.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "f29d8edc",
+      "cat": "tecnologia",
+      "title": "5h. PS pede consciência ao Primeiro-Ministro nas explicaç...",
+      "summary": "José Luís Carneiro quer garantir com isto a salvaguarda das instituições do Estado de Direito democrático. Ainda, Luís Neves promete dar explicações \"ponto por ponto\" e \"o quanto antes\".",
+      "source": "Observador",
+      "date": "Sun, 26 Jul 2026 05:15:39 +0100",
+      "url": "https://observador.pt/programas/noticiario/5h-ps-pede-consciencia-ao-primeiro-ministro-nas-explicacoes-sobre-mai/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -245,17 +278,6 @@
       "score": 0.73
     },
     {
-      "id": "c021858a",
-      "cat": "ciencia",
-      "title": "Cientistas descobrem o segredo da “diversidade espetacular” do canto dos pássaros",
-      "summary": "Um estudo científico revelou o segredo acústico que conecta todos os cantos dos pássaros – e é surpreendentemente simples",
-      "source": "BBC News",
-      "date": "Thu, 23 Jul 2026 23:55:29 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7114/live/53ffa350-874d-11f1-b8ee-9b3c26ad07bb.jpg",
-      "score": 0.73
-    },
-    {
       "id": "ae35e375",
       "cat": "ciencia",
       "title": "A ansiedade das ondas de calor pode fazer você se sentir “incrivelmente desamparado” – veja como lidar com isso",
@@ -300,35 +322,13 @@
       "score": 0.73
     },
     {
-      "id": "7bad60f2",
-      "cat": "geral",
-      "title": "O risco de escalada",
-      "summary": "Desde Janeiro de 2025, Trump e a sua América provocaram um terramoto a nível internacional que se tornou incontornável. Basta olhar para a semana que hoje termina. Análise de Teresa de Sousa",
-      "source": "Público",
-      "date": "Sat, 25 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/26/opiniao/analise/risco-escalada-2183022",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "1ea9cd07",
+      "id": "0954e8ad",
       "cat": "tecnologia",
-      "title": "2h. IL diz que Luís Neves está a contaminar imagem da PJ",
-      "summary": "Presidente da Iniciativa Liberal, Mariana Leitão, pede esclarecimentos urgentes ao Ministro da Administração Interna. Ainda, autoridades espanholas estão otimistas para o combate às chamas esta noite.",
+      "title": "As notícias das 8h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sun, 26 Jul 2026 02:15:10 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2360/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "eae5eae9",
-      "cat": "tecnologia",
-      "title": "1h. Incêndios em Espanha \"não estão sob controlo\"",
-      "summary": "Autoridades estão otimistas para o combate às chamas esta noite, depois de um sábado marcado por condições adversas. Ainda, morreu uma pessoa num atropelamento durante uma marcha LGBTQ, em Berlim.",
-      "source": "Observador",
-      "date": "Sun, 26 Jul 2026 01:21:26 +0100",
-      "url": "https://observador.pt/programas/noticiario/1h-incendios-em-espanha-nao-estao-sob-controlo-mas-situacao-esta/",
+      "date": "Sun, 26 Jul 2026 08:11:32 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2468/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
