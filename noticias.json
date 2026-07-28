@@ -1,5 +1,5 @@
 {
-  "last_update": "27/07/2026 19:45 UTC",
+  "last_update": "28/07/2026 03:19 UTC",
   "total": 30,
   "news": [
     {
@@ -25,17 +25,6 @@
       "score": 0.82
     },
     {
-      "id": "6bc14716",
-      "cat": "tecnologia",
-      "title": "Tour. Oliveira vê recorde como reconhecimento e etapa da Vuelta2015 como `a` memória",
-      "summary": "Nelson Oliveira tornou-se hoje no primeiro ciclista a cumprir 24 grandes Voltas sem desistências, com o português a resumir o feito a “um reconhecimento” pelo seu trabalho e a apontar a vitória na Vuelta2015 como a melhor memória.",
-      "source": "RTP",
-      "date": "Sun, 26 Jul 2026 20:10:48 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/tour-oliveira-ve-recorde-como-reconhecimento-e-etapa-da-vuelta2015-como-a-memoria_d1756012",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/28/28ad3fbd5004551c7018232bc50d489f?w=350&amp;q=50&amp;rect=0,2,1024,561&amp;auto=format",
-      "score": 0.79
-    },
-    {
       "id": "154fc402",
       "cat": "ciencia",
       "title": "Os cientistas acabaram de detectar a primeira ‘Exo-Lua’ conhecida?",
@@ -49,7 +38,7 @@
     {
       "id": "5b6de1da",
       "cat": "tecnologia",
-      "title": "Espécies de calau desaparecidas se reproduzindo novamente após 60 anos entre árvores velhas",
+      "title": "Espécies de calau desaparecidas estão se reproduzindo novamente entre as árvores velhas após 60 anos",
       "summary": "Pelo quarto ano consecutivo, os calaus cinzentos indianos procriaram com sucesso no estado de Gujarat, onde estiveram ausentes por mais de 50 anos. Apesar de ser listada como uma espécie de &#8220;menos preocupante&#8221; pela IUCN, o animal tem requisitos de habitat que podem fazer com que ele sucumba rapidamente ao deslocamento",
       "source": "Good News Network",
       "date": "Mon, 27 Jul 2026 11:00:57 +0000",
@@ -69,15 +58,15 @@
       "score": 0.79
     },
     {
-      "id": "dee4d6ee",
-      "cat": "tecnologia",
-      "title": "Omã discute com países do Golfo Pérsico e Teerão um \"acordo justo\" para Ormuz",
-      "summary": "Omã terá proposto a criação de uma aliança regional com o objetivo de prestar serviços ao estreito de Ormuz, à semelhança do que acontece no estreito de Malaca, sem fornecer mais detalhes.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 27 Jul 2026 18:23:52 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/oma-discute-com-paises-do-golfo-persico-e-teerao-um-acordo-justo-para-ormuz",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-13-08-04-51-526470.jpg",
-      "score": 0.76
+      "id": "71730487",
+      "cat": "ciencia",
+      "title": "As espécies pré-históricas lutando pela sobrevivência em Lough Neagh",
+      "summary": "Foram impostas restrições à pesca da enguia europeia, criticamente ameaçada, no Lough Neagh, para tentar restaurar a espécie.",
+      "source": "BBC News",
+      "date": "Mon, 27 Jul 2026 23:01:36 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nze240vo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecad/live/9a9fabc0-85e0-11f1-9837-c51febdbeb82.jpg",
+      "score": 0.79
     },
     {
       "id": "c9075b13",
@@ -124,69 +113,69 @@
       "score": 0.76
     },
     {
-      "id": "e7b40457",
+      "id": "816ce2ca",
       "cat": "tecnologia",
-      "title": "A portuguesa Mota-Engil avança no Brasil e negocia a compra de 40% da Odebrecht",
-      "summary": "Maior empreiteira de Portugal, a Mota-Engil, que tem capital chinês, está prestes a fechar a compra de 40% da Odebrecht Engenharia & Construção, que saiu da recuperação judicial em março.",
+      "title": "Zelensky foi o primeiro visitante internacional de Andy Burnham",
+      "summary": "Os dois líderes reuniram-se numa base naval, onde conheceram de que forma os programas de treino liderados pelo Reino Unido estão a ajudar a reforçar as forças armadas ucranianas.",
       "source": "Público",
-      "date": "Mon, 27 Jul 2026 18:44:48 GMT",
-      "url": "https://www.publico.pt/2026/07/27/publico-brasil/noticia/portuguesa-motaengil-avanca-brasil-negocia-compra-40-odebrecht-2183194",
+      "date": "Mon, 27 Jul 2026 22:34:04 GMT",
+      "url": "https://www.publico.pt/2026/07/27/mundo/noticia/zelensky-visitante-internacional-andy-burnham-2183209",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "4854917f",
+      "id": "0c51e63b",
       "cat": "tecnologia",
-      "title": "Parlamento não vai ouvir Luís Neves. AD travou audição",
-      "summary": "IL tinha pedido para ouvir Luís Neves sobre polémicas que têm assombrado o ministro, sem sucesso. Aguiar-Branco diz que não houve consenso \"inequívoco\" para audição especial.",
+      "title": "2h. Alentejo. Incêndio de Mourão em fase de resolução",
+      "summary": "Chamas consumiam zona de pinhal junto à barragem do Alqueva. Ainda, Missão Escola Pública denuncia que há escolas onde ainda não foi possível convocar professores para avaliar exames da 2.ª fase.",
       "source": "Observador",
-      "date": "Mon, 27 Jul 2026 19:46:22 +0100",
-      "url": "https://observador.pt/2026/07/27/parlamento-nao-vai-ouvir-luis-neves-psd-e-cds-pronunciaram-se-contra-audicao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/16164401/47473310.jpg",
+      "date": "Tue, 28 Jul 2026 02:12:15 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2362/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "b08952f4",
+      "id": "a48c3d0f",
       "cat": "tecnologia",
-      "title": "Nersant reclama apoios por desbloquear depois de tempestades",
-      "summary": "Presidente da associação empresarial afirma que recuperação \"não pode ficar limitada a linhas de crédito de baixa intensidade\". Há empresas afetadas que precisam de empréstimos a fundo perdido.",
+      "title": "O poder do ministro Luís Neves",
+      "summary": "À medida que o tempo passa e as explicações de Luís Neves escasseiam, os danos vão contaminando o primeiro-ministro e a Polícia Judiciária. O que legitima a pergunta: de onde vem o seu poder?",
       "source": "Observador",
-      "date": "Mon, 27 Jul 2026 19:33:56 +0100",
-      "url": "https://observador.pt/2026/07/27/nersant-alerta-para-empresas-com-apoios-por-desbloquear-seis-meses-apos-intemperies/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/09151600/46645659.jpg",
+      "date": "Tue, 28 Jul 2026 00:25:51 +0100",
+      "url": "https://observador.pt/opiniao/o-poder-do-ministro-luis-neves/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2385%3A2384%3Anowe%3A266%3A399%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Fhelena-garrido.jpg",
       "score": 0.73
     },
     {
-      "id": "f8fbb2cb",
+      "id": "967e0cac",
       "cat": "tecnologia",
-      "title": "Médio Tejo recebe mais 10 milhões do Centro 2030",
-      "summary": "Habitação acessível e habitação social são o principal alvo do investimento, mas Comunidade Intermunicipal assume que preferia reforço noutras áreas. Apoio a fundo perdido do Centro 2030 será de 25%.",
-      "source": "Observador",
-      "date": "Mon, 27 Jul 2026 19:32:58 +0100",
-      "url": "https://observador.pt/2026/07/27/medio-tejo-recebe-reforco-de-10-milhoes-do-centro-2030-sobretudo-para-habitacao-social-e-acessivel/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/06162130/dventura-habitacao-social-vale-formoso-11-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "b2eb5972",
-      "cat": "tecnologia",
-      "title": "Contratação pública bate recorde de 24,8 mil milhões em 2025",
-      "summary": "Os contratos públicos reportados ao portal Base aumentaram no ano passado 14% em número e 33% em valor, atingindo o montante mais elevado desde que há registo do IMPIC.",
+      "title": "Netanyahu vai discutir Irão e defender segurança de Israel com Trump",
+      "summary": "O primeiro-ministro israelita vai até Washington para o funeral do senador Lindsey Graham, que descreveu como \"um dos melhores amigos que o Estado de Israel já teve\", uma cerimónia que vai reunir líderes mundiais, como o Presidente ucraniano, Volodymyr Zelensky.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 27 Jul 2026 20:33:05 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/contratacao-publica-bate-recorde-de-24-8-mil-milhoes-em-2025",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-07/img_100x100uu2024-07-15-19-59-12-481379.jpg",
+      "date": "Mon, 27 Jul 2026 23:45:51 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/netanyahu-vai-discutir-irao-e-defender-seguranca-de-israel-com-trump",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-29-20-12-30-510223.jpg",
       "score": 0.73
     },
     {
-      "id": "fa9186c0",
+      "id": "bd219db3",
       "cat": "tecnologia",
-      "title": "LVMH abranda na moda, mas joalharia e EUA sustentam recuperação",
-      "summary": "Vendas orgânicas da divisão de moda e artigos em pele, a maior e mais lucrativa do grupo francês de luxo, subiram 1%, contra expectativa de 1,52%.",
+      "title": "Namoros de verão",
+      "summary": "As férias adiadas do primeiro-ministro são como os namoros de verão, produzem um efeito intenso mas são de curta duração.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 27 Jul 2026 18:41:25 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/lvmh-abranda-na-moda-mas-joalharia-e-eua-sustentam-recuperacao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-03-15-42-30-514063.jpg",
+      "date": "Mon, 27 Jul 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/namoros-de-verao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
+      "score": 0.73
+    },
+    {
+      "id": "4325777d",
+      "cat": "tecnologia",
+      "title": "Procuradoria francesa pede julgamento para filhos de ex-PR gabonês e BNP Paribas",
+      "summary": "A PNF pediu o julgamento de 23 pessoas singulares ou coletivas: cinco empresas - o BNP Paribas e quatro imobiliárias - e 18 pessoas singulares, entre elas os filhos de Omar Bongo, e Antoinette Sassou Nguesso, mulher do Presidente congolês.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 27 Jul 2026 22:18:38 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/procuradoria-francesa-pede-julgamento-para-filhos-de-ex-pr-gabones-e-bnp-paribas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-20-11-38-35-511476.jpg",
       "score": 0.73
     },
     {
@@ -274,7 +263,7 @@
       "source": "Reasons to be Cheerful",
       "date": "Tue, 21 Jul 2026 08:00:26 +0000",
       "url": "https://reasonstobecheerful.world/electric-vehicles-air-quality-health/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_1863688690-scaled.jpg",
+      "img": null,
       "score": 0.73
     },
     {
@@ -296,29 +285,40 @@
       "source": "Reasons to be Cheerful",
       "date": "Mon, 13 Jul 2026 08:00:40 +0000",
       "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2576357661-scaled.jpg",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "2684286d",
-      "cat": "tecnologia",
-      "title": "O antropólogo que nasceu num não-lugar",
-      "summary": "Quando se viaja muito e durante bastante tempo, a ideia de não-lugar acaba por se dissolver, como se todos os espaços fossem habitáveis, casas provisórias onde o corpo aprende a descansar. Crónica de Cláudia Lucas Chéu",
+      "id": "bbf41bed",
+      "cat": "geral",
+      "title": "Fernando Alexandre e Luís Neves devem ser postos no mesmo saco?",
+      "summary": "Arrisco uma orientação que só a mim me compromete: estabeleço uma distinção clara entre erros de governação e falhas éticas. Opinião de Pedro Norton",
       "source": "Público",
-      "date": "Mon, 27 Jul 2026 19:29:09 GMT",
-      "url": "https://www.publico.pt/2026/07/27/p3/cronica/antropologo-nasceu-naolugar-2183137",
+      "date": "Mon, 27 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/28/opiniao/opiniao/fernando-alexandre-luis-neves-postos-saco-2183061",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "af3fbbc8",
-      "cat": "tecnologia",
-      "title": "Vistos de trabalho: o contrato deixa de ser mercadoria",
-      "summary": "A regularidade documental não é obstáculo à migração. É a melhor proteção do próprio trabalhador. Quem chega com documentos verdadeiros, chega com direitos. Opinião de Catarina Zuccaro",
+      "id": "3e2a345b",
+      "cat": "geral",
+      "title": "A “ameaça” comunista",
+      "summary": "Desengane-se quem julgava que isto era tudo deles e que a esquerda desapareceu do horizonte de futuro. Opinião de Manuel Loff",
       "source": "Público",
-      "date": "Mon, 27 Jul 2026 19:09:40 GMT",
-      "url": "https://www.publico.pt/2026/07/27/publico-brasil/opiniao/vistos-trabalho-contrato-deixa-mercadoria-2183200",
+      "date": "Mon, 27 Jul 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/07/28/opiniao/opiniao/ameaca-comunista-2183201",
       "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "993ab8b7",
+      "cat": "tecnologia",
+      "title": "3h. Exames. Dificuldades com classificadores na 2.ª fase",
+      "summary": "Problema deve-se a dificuldades no acesso à nova plataforma criada para gerir a disponibilidade dos professores. Ainda nesta edição, sete operacionais feridos nos fogos da Guarda e de Vila Verde.",
+      "source": "Observador",
+      "date": "Tue, 28 Jul 2026 03:13:34 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2388/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
