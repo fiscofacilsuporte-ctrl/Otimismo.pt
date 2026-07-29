@@ -1,18 +1,7 @@
 {
-  "last_update": "29/07/2026 03:21 UTC",
+  "last_update": "29/07/2026 08:52 UTC",
   "total": 30,
   "news": [
-    {
-      "id": "a5fae448",
-      "cat": "tecnologia",
-      "title": "Gucci apresenta sinais positivos e o grupo Kering volta ao crescimento (com recuo nos lucros)",
-      "summary": "A Kering, grupo que detém a Gucci, entre outras marcas, fechou o primeiro semestre de 2026, com receitas de 7,22 mil milhões de euros. A margem operacional subiu, mas o lucro líquido recuou para 189 milhões, isto é, 60%, de acordo com o comunicado da companhia francesa. &#8220;É um regresso ao cresc",
-      "source": "ECO",
-      "date": "Tue, 28 Jul 2026 17:43:41 +0000",
-      "url": "https://eco.sapo.pt/2026/07/28/gucci-apresenta-sinais-positivos-e-o-grupo-kering-volta-ao-crescimento-com-recuo-nos-lucros/",
-      "img": "https://eco.imgix.net/uploads/2026/04/cropped-6p1a4567-3.jpg",
-      "score": 0.82
-    },
     {
       "id": "ce5f07ce",
       "cat": "tecnologia",
@@ -34,6 +23,17 @@
       "url": "https://www.positive.news/society/how-forensic-science-is-helping-tackle-poaching/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/©B.Jaschinski_Forensics_Finger_Prints-on-Ivory--e1784281061958.jpg",
       "score": 0.82
+    },
+    {
+      "id": "6c72cba8",
+      "cat": "cultura",
+      "title": "Boas novas na história, 29 de Julho",
+      "summary": "Neste dia de 1958, foi criada a Administração Nacional de Aeronáutica e Espaço (NASA). O Congresso dos EUA foi estimulado a criar a agência federal pelo lançamento do Sputnik pela União Soviética, o primeiro satélite orbital. Dois dos objetivos eram expandir o conhecimento humano sobre a atmosfera da Terra",
+      "source": "Good News Network",
+      "date": "Wed, 29 Jul 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060729/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2016/12/John-Glenn-NASA.jpg",
+      "score": 0.79
     },
     {
       "id": "154fc402",
@@ -80,6 +80,39 @@
       "score": 0.79
     },
     {
+      "id": "854cd535",
+      "cat": "ambiente",
+      "title": "Portugal quer parceria com Brasil, incluindo capital, para produzir biocombustíveis",
+      "summary": "Maria da Graça Carvalho, ministra do Ambiente e Energia, diz que a meta é instalar uma ou duas usinas em território luso também para fabricar combustível sustentável de aviação (SAF).",
+      "source": "Público",
+      "date": "Wed, 29 Jul 2026 06:13:00 GMT",
+      "url": "https://www.publico.pt/2026/07/29/publico-brasil/noticia/portugal-quer-parceria-brasil-incluindo-capital-produzir-biocombustiveis-2183328",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "2a2c0d5b",
+      "cat": "tecnologia",
+      "title": "Década digital: entre o progresso e o desafio da IA",
+      "summary": "A ambição existe, o problema reside noutra dimensão deste retrato. É fundamental que as empresas acelerem a sua transformação digital, adotando tecnologias avançadas, como a inteligência artificial, “cloud” ou a análise de dados.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 29 Jul 2026 09:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/detalhe/decada-digital-entre-o-progresso-e-o-desafio-da-ia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_394x514uu2025-09-05-12-07-00-508733.png",
+      "score": 0.76
+    },
+    {
+      "id": "a8fac9fa",
+      "cat": "tecnologia",
+      "title": "Johnson & Johnson propõe 5,5 mil milhões de dólares para resolver polémico processo do pó talco",
+      "summary": "É necessária a aprovação de pelo menos 95% dos queixosos para que o acordo entre em vigor, após 15 anos de litígio.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 29 Jul 2026 07:45:59 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/johnson-johnson-propoe-5-5-mil-milhoes-de-dolares-para-resolver-polemico-processo-do-po-talco",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_100x100uu2022-11-01-17-00-51-439346.jpg",
+      "score": 0.76
+    },
+    {
       "id": "14ac4ee0",
       "cat": "desporto",
       "title": "Benfica inicia defesa do título feminino de futebol com Racing Power",
@@ -91,14 +124,14 @@
       "score": 0.76
     },
     {
-      "id": "93bbf30a",
-      "cat": "tecnologia",
-      "title": "Esta é a chave do Euromilhões. Jackpot é de 78 milhões de euros",
-      "summary": "Com um primeiro prémio no valor de 78 milhões de euros, decorreu terça-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta terça-feira, 28 de julho: Números: 5, 7, 24, 30 e ",
+      "id": "06453af1",
+      "cat": "economia",
+      "title": "Barómetro CIP/ISEG prevê crescimento de 2% no segundo trimestre",
+      "summary": "A economia portuguesa deverá ter crescido 2% em termos homólogos e 0,4% em cadeia no segundo trimestre, estima o Barómetro CIP/ISEG, de acordo com a nota divulgada esta quarta-feira. &#8220;O Barómetro de Conjuntura Económica CIP – Confederação Empresarial de Portugal/ISEG de julho de 2026 estima qu",
       "source": "ECO",
-      "date": "Tue, 28 Jul 2026 19:24:25 +0000",
-      "url": "https://eco.sapo.pt/2026/07/28/esta-e-a-chave-do-euromilhoes-jackpot-e-de-78-milhoes-de-euros/",
-      "img": "https://eco.imgix.net/uploads/2016/09/cropped-MG_3519.jpg",
+      "date": "Wed, 29 Jul 2026 07:32:29 +0000",
+      "url": "https://eco.sapo.pt/2026/07/29/barometro-cip-iseg-preve-crescimento-de-2-no-segundo-trimestre/",
+      "img": "https://eco.imgix.net/uploads/2024/07/pib_site-1.jpg",
       "score": 0.76
     },
     {
@@ -124,80 +157,47 @@
       "score": 0.76
     },
     {
-      "id": "e1266524",
+      "id": "37577a0b",
       "cat": "tecnologia",
-      "title": "Longevidade – Como vai a nossa saúde?",
-      "summary": "É necessário reorientar as políticas para o investimento na promoção da saúde e prevenção da doença, o que significa cuidados mais personalizados e prolongados no tempo. Opinião de Maria Margarida Corrêa de Aguiar",
+      "title": "O canto e a covardia — a música que uma sociedade escolhe cantar",
+      "summary": "As plataformas digitais deveriam ser um espaço divino de comunicação, criação e aprendizado, mas muitos as usam para fabricar mentiras e destruir o que temos de melhor em nós. São covardes. Opinião de Sérgio Ignácio",
       "source": "Público",
-      "date": "Tue, 28 Jul 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/07/29/opiniao/opiniao/longevidade-vai-saude-2182779",
+      "date": "Wed, 29 Jul 2026 07:25:09 GMT",
+      "url": "https://www.publico.pt/2026/07/29/publico-brasil/opiniao/canto-covardia-musica-sociedade-escolhe-cantar-2183336",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "e880a98e",
+      "id": "b57c9888",
       "cat": "tecnologia",
-      "title": "Gastos de brasileiros com viagens ao exterior batem recorde no 1º semestre",
-      "summary": "Despesas somaram 12,6 bilhões de dólares entre janeiro e junho, ante 10,3 bilhões de dólares no mesmo período de 2025. Queda de quase 7% no valor do dólar em 2026 barateia viagens internacionais.",
+      "title": "Incêndio na Guarda dominado e em fase de resolução, Valpaços é o único fogo activo",
+      "summary": "Era o que mais preocupava as autoridades na terça-feira e foi dominado, restando agora um fogo activo. Mas oito distritos continuam em perigo máximo de incêndio. A25 e EN16 reabertas.",
       "source": "Público",
-      "date": "Tue, 28 Jul 2026 23:04:53 GMT",
-      "url": "https://www.publico.pt/2026/07/29/publico-brasil/noticia/gastos-brasileiros-viagens-exterior-batem-recorde-1-semestre-2183331",
+      "date": "Wed, 29 Jul 2026 06:44:23 GMT",
+      "url": "https://www.publico.pt/2026/07/29/sociedade/noticia/incendio-guarda-dominado-fase-resolucao-valpacos-unico-fogo-activo-2183334",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "f8fe1ffa",
+      "id": "2e49fac2",
       "cat": "tecnologia",
-      "title": "Crescer em número não basta: Portugal precisa de mais valor",
-      "summary": "O crescimento demográfico pode ser uma oportunidade relevante para Portugal. Mas só o será plenamente se vier acompanhado de empresas mais fortes, trabalho mais qualificado e maior valor criado.",
+      "title": "Ronaldo, o novo \"menino prodígio\" do cinema",
+      "summary": "Cristiano Ronaldo estreia-se no cinema, Vozinha altera o nome para jogar no Chile e Etson Barros inicia recuperação no Algarve após cinquenta dias em coma.",
       "source": "Observador",
-      "date": "Wed, 29 Jul 2026 00:23:15 +0100",
-      "url": "https://observador.pt/opiniao/crescer-em-numero-nao-basta-portugal-precisa-de-criar-mais-valor/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A544%3A544%3Anowe%3A211%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F12%2F02164516%2Fvasco-de-mello1.jpeg",
+      "date": "Wed, 29 Jul 2026 08:25:54 +0100",
+      "url": "https://observador.pt/programas/tres-toques/ronaldo-o-novo-menino-prodigio-do-cinema/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151953/770-podcast-tres-toques-2025-v2.jpg",
       "score": 0.73
     },
     {
-      "id": "a2b54306",
+      "id": "cfa31f59",
       "cat": "tecnologia",
-      "title": "00h. Incêndio na Guarda \"praticamente dominado\"",
-      "summary": "Na sequência dos progressos no combate ao incêndio na Guarda, a autoestrada A25 foi reaberta e a Estrada Nacional 26 está prestes a reabrir. Ainda, IL pediu audiência ao Presidente da República.",
-      "source": "Observador",
-      "date": "Wed, 29 Jul 2026 00:18:25 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2375/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.73
-    },
-    {
-      "id": "69f71a3f",
-      "cat": "cultura",
-      "title": "Alemanha defende corte significativo no próximo orçamento da UE",
-      "summary": "O chanceler alemão manifestou esta posição depois de se reunir em Dublin, na Irlanda, com o primeiro-ministro irlandês, Micheál Martin, cujo país preside este semestre ao Conselho da UE.",
+      "title": "Lucro da Endesa sobe 41,2% até junho para 1.470 milhões de euros",
+      "summary": "As receitas da Endesa ascenderam a 10.995 milhões de euros no primeiro semestre (mais 1,1% do que em 2025).",
       "source": "Jornal de Negócios",
-      "date": "Wed, 29 Jul 2026 00:08:41 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/alemanha-defende-corte-significativo-no-proximo-orcamento-da-ue",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-15-14-24-32-526623.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "5776ae86",
-      "cat": "cultura",
-      "title": "Teerão rejeita reabertura de estreito de Ormuz com rota de Omã",
-      "summary": "O vice-ministro Kazem Gharibabadi anunciou que a retoma das rotas de entrada e saída do estreito por águas iranianas faz parte dos termos de um acordo provisório proposto a Omã para reabertura da via de navegação e alertou que esta permanecerá fechada caso a proposta não seja aceite.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 28 Jul 2026 22:51:20 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/teerao-rejeita-reabertura-de-estreito-de-ormuz-com-rota-de-oma",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-13-08-04-51-526470.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "d95b9bbc",
-      "cat": "ciencia",
-      "title": "Shein enfrenta investigação federal nos EUA antes de IPO em Hong Kong",
-      "summary": "Não é conhecida a natureza da investigação da Comissão Federal do Comércio, que acontece numa altura em que a gigante chinesa se prepara para lançar uma oferta pública inicial (IPO) em Hong Kong.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 28 Jul 2026 22:18:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/shein-enfrenta-investigacao-federal-nos-eua-antes-de-ipo-em-hong-kong",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-06-16-56-24-491613.jpg",
+      "date": "Wed, 29 Jul 2026 08:56:17 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/lucro-da-endesa-sobe-41-2-ate-junho-para-1-470-milhoes-de-euros",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-08-01-37-26-491872.jpg",
       "score": 0.73
     },
     {
@@ -212,25 +212,25 @@
       "score": 0.73
     },
     {
-      "id": "8e6ccd45",
+      "id": "44f822cb",
       "cat": "tecnologia",
-      "title": "CTT aumentam recompra de ações, mas lucro semestral cai quase 42%",
-      "summary": "O lucro dos CTT no primeiro semestre encolheu 41,6% face ao mesmo período do ano passado e cifrou-se em 12,9 milhões de euros. Para esta quebra contribuíram custos incorridos na conclusão do negócio com a DHL e &#8220;encargos de reestruturação&#8221; relacionados com &#8220;medidas de eficiência&#8",
+      "title": "Da diversidade à inclusão: os facilitadores que transformam políticas em resultados",
+      "summary": "A diversidade já é reconhecida como um fator de criação de valor mensurável. No entanto, há uma dimensão que não pode ser ignorada: as condições organizacionais que permitem que a inclusão aconteça na prática. São os facilitadores organizacionais que transformam intenções em comportamentos e polític",
       "source": "ECO",
-      "date": "Tue, 28 Jul 2026 19:15:25 +0000",
-      "url": "https://eco.sapo.pt/2026/07/28/ctt-aumentam-recompra-de-acoes-mas-lucro-semestral-cai-34/",
-      "img": "https://eco.imgix.net/uploads/2024/01/cropped-ctt02.jpg",
+      "date": "Wed, 29 Jul 2026 08:30:29 +0000",
+      "url": "https://eco.sapo.pt/opiniao/da-diversidade-a-inclusao-os-facilitadores-que-transformam-politicas-em-resultados/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2025/10/marta-almeida-opiniao.png",
       "score": 0.73
     },
     {
-      "id": "0470f5cb",
+      "id": "c2540263",
       "cat": "tecnologia",
-      "title": "Pequenas pontes de bambu feitas por voluntários ajudaram a duplicar as populações migratórias de caranguejos em Taiwan",
-      "summary": "No ano passado, a GNN informou sobre o kit de ferramentas de paciência e ancinhos de jardim necessários para passar pela temporada de migração de 100 milhões de caranguejos na Ilha Christmas. Taiwan, também uma ilha, descobriu que uma dose saudável de compaixão e materiais básicos pode proteger os seus próprios caranguejos durante a migração, disse Runni.",
-      "source": "Good News Network",
-      "date": "Tue, 28 Jul 2026 18:30:33 +0000",
-      "url": "https://www.goodnewsnetwork.org/volunteers-tiny-bamboo-bridges-have-helped-double-migratory-crab-populations-on-taiwan/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/maxresdefault-7.jpg",
+      "title": "Hermès fatura mais no primeiro semestre apesar de França e do Médio Oriente",
+      "summary": "A Hermès registou 8,2 mil milhões de receitas no primeiro semestre de 2026, mais de metade do que tinha conseguido no total de 2025 e quando ainda falta o período de vendas mais importante do ano, as épocas festivas. Segundo os dados da casa francesa, divulgados esta quarta-feira, a empresa aumentou",
+      "source": "ECO",
+      "date": "Wed, 29 Jul 2026 08:30:05 +0000",
+      "url": "https://eco.sapo.pt/2026/07/29/hermes-fatura-mais-no-primeiro-semestre-apesar-de-franca-e-do-medio-oriente/",
+      "img": "https://eco.imgix.net/uploads/2026/02/cropped-cropped-hermes-1-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -274,7 +274,7 @@
       "source": "Reasons to be Cheerful",
       "date": "Tue, 21 Jul 2026 08:00:26 +0000",
       "url": "https://reasonstobecheerful.world/electric-vehicles-air-quality-health/",
-      "img": null,
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_1863688690-scaled.jpg",
       "score": 0.73
     },
     {
@@ -289,36 +289,25 @@
       "score": 0.73
     },
     {
-      "id": "13512fb1",
+      "id": "d7843abb",
       "cat": "tecnologia",
-      "title": "A cidade que escolheu a beleza em vez dos outdoors",
-      "summary": "“Aqui costumava haver um enorme bloco de concreto, havia uma coluna publicitária, não era tão bonito”, diz Gilles Namur, acenando com a mão ao longo da Cours Lafontaine, uma rua que atravessa o centro histórico de Grenoble. Hoje, é uma visão completamente diferente. A rua tem.",
-      "source": "Reasons to be Cheerful",
-      "date": "Mon, 13 Jul 2026 08:00:40 +0000",
-      "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "9dce64ae",
-      "cat": "cultura",
-      "title": "Amanhã chega a Lisboa um economista que sabe porque falha Portugal",
-      "summary": "No pensamento destes economistas, e acredito que no de todos os portugueses, está a convicção de que há sempre tempo para começar a fazer bem. Opinião de Martim Avillez Figueiredo",
-      "source": "Público",
-      "date": "Tue, 28 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/29/opiniao/opiniao/amanha-chega-lisboa-economista-sabe-falha-portugal-2183247",
-      "img": null,
+      "title": "As notícias das 9h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Wed, 29 Jul 2026 09:12:03 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2424/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "9f4359f6",
+      "id": "61b0cf4b",
       "cat": "tecnologia",
-      "title": "As notícias da 1h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Tensão política no governo: aquece, arrefece ou... apodrece?",
+      "summary": "As explicações de Luís Neves ainda não chegaram, os problemas nos exames estão de partida, mas quando o país político e mediático fica preso nesta teia que tempo sobra para Montenegro... “trabalhar”?",
       "source": "Observador",
-      "date": "Wed, 29 Jul 2026 01:16:00 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2336/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Wed, 29 Jul 2026 08:32:25 +0100",
+      "url": "https://observador.pt/programas/contra-corrente/tensao-politica-no-governo-aquece-arrefece-ou-apodrece/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
