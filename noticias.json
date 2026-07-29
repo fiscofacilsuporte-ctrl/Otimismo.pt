@@ -1,5 +1,5 @@
 {
-  "last_update": "29/07/2026 08:52 UTC",
+  "last_update": "29/07/2026 14:25 UTC",
   "total": 30,
   "news": [
     {
@@ -47,17 +47,6 @@
       "score": 0.79
     },
     {
-      "id": "5b6de1da",
-      "cat": "tecnologia",
-      "title": "Espécies de calau desaparecidas estão se reproduzindo novamente entre as árvores velhas após 60 anos",
-      "summary": "Pelo quarto ano consecutivo, os calaus cinzentos indianos procriaram com sucesso no estado de Gujarat, onde estiveram ausentes por mais de 50 anos. Apesar de ser listada como uma espécie de &#8220;menos preocupante&#8221; pela IUCN, o animal tem requisitos de habitat que podem fazer com que ele sucumba rapidamente ao deslocamento",
-      "source": "Good News Network",
-      "date": "Mon, 27 Jul 2026 11:00:57 +0000",
-      "url": "https://www.goodnewsnetwork.org/vanished-hornbill-species-reintroduced-4-years-ago-now-self-sustaining-again/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-pair-of-Indian-grey-hornbills-in-northern-India-credit-Munish-Jauhar-Own-work-CC-BY-SA-3.0.jpg",
-      "score": 0.79
-    },
-    {
       "id": "f276196c",
       "cat": "tecnologia",
       "title": "Leopardos recuperam na Zâmbia enquanto comunidades trocam peles por sintéticas",
@@ -80,36 +69,36 @@
       "score": 0.79
     },
     {
-      "id": "854cd535",
+      "id": "da34c2e6",
       "cat": "ambiente",
-      "title": "Portugal quer parceria com Brasil, incluindo capital, para produzir biocombustíveis",
-      "summary": "Maria da Graça Carvalho, ministra do Ambiente e Energia, diz que a meta é instalar uma ou duas usinas em território luso também para fabricar combustível sustentável de aviação (SAF).",
-      "source": "Público",
-      "date": "Wed, 29 Jul 2026 06:13:00 GMT",
-      "url": "https://www.publico.pt/2026/07/29/publico-brasil/noticia/portugal-quer-parceria-brasil-incluindo-capital-produzir-biocombustiveis-2183328",
-      "img": null,
+      "title": "A busca por vida na lua gelada de Júpiter, Europa, ficou ainda mais complicada",
+      "summary": "O oceano oculto de Europa fez da lua gelada um dos locais mais promissores do sistema solar para procurar condições habitáveis. Os cientistas esperavam que a água deste oceano profundo pudesse subir através de fendas e formar reservatórios rasos que futuras naves espaciais pudessem estudar mais facilmente. Novas simulações",
+      "source": "ScienceDaily",
+      "date": "Wed, 29 Jul 2026 01:06:39 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214604.htm",
+      "img": "https://www.sciencedaily.com/images/1920/nasa-europa-clipper-explores-an-icy-ocean-world.webp",
+      "score": 0.79
+    },
+    {
+      "id": "eac92a33",
+      "cat": "tecnologia",
+      "title": "\"Ninguém é dono do futebol\". FIFA sob fogo por causa de plano para vender negócio a privados",
+      "summary": "A FIFA avançou com a ideia de criar uma nova sociedade para gerir as suas competições, com o objetivo de atrair investidores privados. A ideia está a ser altamente criticada pelas organizações que representam o futebol europeu e norte-americano - e até o primeiro-ministro britânico e a Comissão Euro",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 29 Jul 2026 14:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/ninguem-e-dono-do-futebol-fifa-debaixo-de-fogo-por-querer-vender-negocio-a-privados",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-29-12-09-00-527418.jpg",
       "score": 0.76
     },
     {
-      "id": "2a2c0d5b",
+      "id": "75a8f437",
       "cat": "tecnologia",
-      "title": "Década digital: entre o progresso e o desafio da IA",
-      "summary": "A ambição existe, o problema reside noutra dimensão deste retrato. É fundamental que as empresas acelerem a sua transformação digital, adotando tecnologias avançadas, como a inteligência artificial, “cloud” ou a análise de dados.",
+      "title": "Fosun antecipa lucros até 233 milhões de euros no primeiro semestre. Fidelidade cresce a \"dois dígitos\"",
+      "summary": "Melhoria nas operações e lucros gerados no setor industrial ajudam a explicar subida superior a 100% nos resultados líquidos.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 29 Jul 2026 09:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/detalhe/decada-digital-entre-o-progresso-e-o-desafio-da-ia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_394x514uu2025-09-05-12-07-00-508733.png",
-      "score": 0.76
-    },
-    {
-      "id": "a8fac9fa",
-      "cat": "tecnologia",
-      "title": "Johnson & Johnson propõe 5,5 mil milhões de dólares para resolver polémico processo do pó talco",
-      "summary": "É necessária a aprovação de pelo menos 95% dos queixosos para que o acordo entre em vigor, após 15 anos de litígio.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 29 Jul 2026 07:45:59 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/johnson-johnson-propoe-5-5-mil-milhoes-de-dolares-para-resolver-polemico-processo-do-po-talco",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_100x100uu2022-11-01-17-00-51-439346.jpg",
+      "date": "Wed, 29 Jul 2026 14:07:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/fosun-antecipa-lucros-ate-233-milhoes-de-euros-no-primeiro-semestre-fidelidade-cresce-a-dois-digitos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_100x100uu2022-11-02-10-34-19-439371.jpg",
       "score": 0.76
     },
     {
@@ -124,14 +113,14 @@
       "score": 0.76
     },
     {
-      "id": "06453af1",
-      "cat": "economia",
-      "title": "Barómetro CIP/ISEG prevê crescimento de 2% no segundo trimestre",
-      "summary": "A economia portuguesa deverá ter crescido 2% em termos homólogos e 0,4% em cadeia no segundo trimestre, estima o Barómetro CIP/ISEG, de acordo com a nota divulgada esta quarta-feira. &#8220;O Barómetro de Conjuntura Económica CIP – Confederação Empresarial de Portugal/ISEG de julho de 2026 estima qu",
-      "source": "ECO",
-      "date": "Wed, 29 Jul 2026 07:32:29 +0000",
-      "url": "https://eco.sapo.pt/2026/07/29/barometro-cip-iseg-preve-crescimento-de-2-no-segundo-trimestre/",
-      "img": "https://eco.imgix.net/uploads/2024/07/pib_site-1.jpg",
+      "id": "2442be92",
+      "cat": "tecnologia",
+      "title": "É um ano recorde de reprodução para a ave nacional da Sérvia: a águia imperial oriental",
+      "summary": "Os programas de proteção e conservação registaram um ano excepcional para a águia imperial oriental, a ave mais majestosa que se pode ver na Europa, e a ave nacional da Sérvia. Estampado na bandeira da nação dos Balcãs, foram contados 29 casais reprodutores, dos quais 16 ajudaram 25 filhotes",
+      "source": "Good News Network",
+      "date": "Tue, 28 Jul 2026 13:00:20 +0000",
+      "url": "https://www.goodnewsnetwork.org/its-a-record-breeding-year-for-national-bird-of-serbia-the-eastern-imperial-eagle/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/An-eastern-imperial-eagle-in-captivity-credit-AngMoKio-CC-3.0.-BY-SA.jpg",
       "score": 0.76
     },
     {
@@ -146,6 +135,17 @@
       "score": 0.76
     },
     {
+      "id": "e1d2c6d9",
+      "cat": "ciencia",
+      "title": "A “cozinha de ouro” escondida da Terra fica abaixo do fundo do mar",
+      "summary": "Nas profundezas dos vulcões submarinos, a Terra pode estar a gerir uma “cozinha de ouro” natural. Ao analisar o vidro vulcânico do arco da ilha Kermadec, a norte da Nova Zelândia, os investigadores descobriram que o manto rico em água derrete repetidamente sob zonas de subducção, concentrando gradualmente o ouro no magma ascendente. O processo",
+      "source": "ScienceDaily",
+      "date": "Wed, 29 Jul 2026 00:14:05 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214628.htm",
+      "img": "https://www.sciencedaily.com/images/1920/island-volcano-magma-seafloor.webp",
+      "score": 0.76
+    },
+    {
       "id": "25034bd9",
       "cat": "ciencia",
       "title": "Carvão escondido revela a verdadeira idade das pinturas rupestres antigas",
@@ -157,47 +157,47 @@
       "score": 0.76
     },
     {
-      "id": "37577a0b",
-      "cat": "tecnologia",
-      "title": "O canto e a covardia — a música que uma sociedade escolhe cantar",
-      "summary": "As plataformas digitais deveriam ser um espaço divino de comunicação, criação e aprendizado, mas muitos as usam para fabricar mentiras e destruir o que temos de melhor em nós. São covardes. Opinião de Sérgio Ignácio",
+      "id": "c4f26e59",
+      "cat": "economia",
+      "title": "Taxa de subutilização do trabalho atinge mínimo de 15 anos",
+      "summary": "Em Junho, taxa de desemprego manteve-se pelo segundo mês consecutivo em 5,6%. Isolando o desemprego dos homens, a taxa está em mínimos de 28 anos.",
       "source": "Público",
-      "date": "Wed, 29 Jul 2026 07:25:09 GMT",
-      "url": "https://www.publico.pt/2026/07/29/publico-brasil/opiniao/canto-covardia-musica-sociedade-escolhe-cantar-2183336",
+      "date": "Wed, 29 Jul 2026 11:31:36 GMT",
+      "url": "https://www.publico.pt/2026/07/29/economia/noticia/taxa-subutilizacao-trabalho-atinge-minimo-15-anos-2183366",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "b57c9888",
-      "cat": "tecnologia",
-      "title": "Incêndio na Guarda dominado e em fase de resolução, Valpaços é o único fogo activo",
-      "summary": "Era o que mais preocupava as autoridades na terça-feira e foi dominado, restando agora um fogo activo. Mas oito distritos continuam em perigo máximo de incêndio. A25 e EN16 reabertas.",
+      "id": "56e8e769",
+      "cat": "geral",
+      "title": "CPI: Chega quer apurar responsabilidades de Costa e Montenegro na nomeação de Luís Neves",
+      "summary": "André Ventura já tinha admitido chamar o primeiro-ministro e o seu antecessor à comissão de inquérito potestativa aos mandatos de Luís Neves à frente da PJ, que deverá começar em Setembro.",
       "source": "Público",
-      "date": "Wed, 29 Jul 2026 06:44:23 GMT",
-      "url": "https://www.publico.pt/2026/07/29/sociedade/noticia/incendio-guarda-dominado-fase-resolucao-valpacos-unico-fogo-activo-2183334",
+      "date": "Wed, 29 Jul 2026 11:10:29 GMT",
+      "url": "https://www.publico.pt/2026/07/29/politica/noticia/cpi-chega-quer-apurar-responsabilidades-costa-montenegro-nomeacao-luis-neves-2183339",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "2e49fac2",
+      "id": "0fe7b689",
       "cat": "tecnologia",
-      "title": "Ronaldo, o novo \"menino prodígio\" do cinema",
-      "summary": "Cristiano Ronaldo estreia-se no cinema, Vozinha altera o nome para jogar no Chile e Etson Barros inicia recuperação no Algarve após cinquenta dias em coma.",
+      "title": "Irão vai receber 400 lançadores de mísseis da China",
+      "summary": "Nas próximas semanas o Irão deve receber primeiro lote de até 400 lançadores de mísseis antiaéreos portáteis de fabricação chinesa. Ainda, PM iraquiano decidiu adiar visita à Arábia Saudita.",
       "source": "Observador",
-      "date": "Wed, 29 Jul 2026 08:25:54 +0100",
-      "url": "https://observador.pt/programas/tres-toques/ronaldo-o-novo-menino-prodigio-do-cinema/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151953/770-podcast-tres-toques-2025-v2.jpg",
+      "date": "Wed, 29 Jul 2026 12:37:02 +0100",
+      "url": "https://observador.pt/programas/a-guerra-traduzida/irao-vai-receber-400-lancadores-de-misseis-da-china/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/03112352/770-podcast-a-guerra-traduzida.jpg",
       "score": 0.73
     },
     {
-      "id": "cfa31f59",
-      "cat": "tecnologia",
-      "title": "Lucro da Endesa sobe 41,2% até junho para 1.470 milhões de euros",
-      "summary": "As receitas da Endesa ascenderam a 10.995 milhões de euros no primeiro semestre (mais 1,1% do que em 2025).",
+      "id": "8789cf94",
+      "cat": "economia",
+      "title": "\"Handling\" da SATA com prejuízos estimados de 6,25 milhões em 2025",
+      "summary": "De acordo com as estimativas, as receitas de atividade têm vindo a crescer e situaram-se nos 16,18 milhões de euros no ano passado.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 29 Jul 2026 08:56:17 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/lucro-da-endesa-sobe-41-2-ate-junho-para-1-470-milhoes-de-euros",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-08-01-37-26-491872.jpg",
+      "date": "Wed, 29 Jul 2026 14:44:18 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/handling-da-sata-com-prejuizos-estimados-de-6-25-milhoes-em-2025",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-05-14-38-41-491474.jpg",
       "score": 0.73
     },
     {
@@ -212,58 +212,25 @@
       "score": 0.73
     },
     {
-      "id": "44f822cb",
+      "id": "fa21ab38",
       "cat": "tecnologia",
-      "title": "Da diversidade à inclusão: os facilitadores que transformam políticas em resultados",
-      "summary": "A diversidade já é reconhecida como um fator de criação de valor mensurável. No entanto, há uma dimensão que não pode ser ignorada: as condições organizacionais que permitem que a inclusão aconteça na prática. São os facilitadores organizacionais que transformam intenções em comportamentos e polític",
+      "title": "Já há regras para definir projetos com “conclusão substancial” no PRR",
+      "summary": "Na penúltima reprogramação do Plano de Recuperação e Resiliência (PRR) foi introduzido o conceito de “conclusão substancial” a aplicar a alguns projetos como escolas e centros de saúde. Obras que não vão ficar completamente prontas a 31 de agosto, mas que apresentam um grau de execução bastante elev",
       "source": "ECO",
-      "date": "Wed, 29 Jul 2026 08:30:29 +0000",
-      "url": "https://eco.sapo.pt/opiniao/da-diversidade-a-inclusao-os-facilitadores-que-transformam-politicas-em-resultados/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2025/10/marta-almeida-opiniao.png",
+      "date": "Wed, 29 Jul 2026 13:18:38 +0000",
+      "url": "https://eco.sapo.pt/2026/07/29/ja-ha-regras-para-definir-projetos-com-conclusao-substancial-no-prr/",
+      "img": "https://eco.imgix.net/uploads/2026/03/cropped-castro-almeida03.jpg",
       "score": 0.73
     },
     {
-      "id": "c2540263",
-      "cat": "tecnologia",
-      "title": "Hermès fatura mais no primeiro semestre apesar de França e do Médio Oriente",
-      "summary": "A Hermès registou 8,2 mil milhões de receitas no primeiro semestre de 2026, mais de metade do que tinha conseguido no total de 2025 e quando ainda falta o período de vendas mais importante do ano, as épocas festivas. Segundo os dados da casa francesa, divulgados esta quarta-feira, a empresa aumentou",
-      "source": "ECO",
-      "date": "Wed, 29 Jul 2026 08:30:05 +0000",
-      "url": "https://eco.sapo.pt/2026/07/29/hermes-fatura-mais-no-primeiro-semestre-apesar-de-franca-e-do-medio-oriente/",
-      "img": "https://eco.imgix.net/uploads/2026/02/cropped-cropped-hermes-1-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ae35e375",
+      "id": "44e38cc5",
       "cat": "ciencia",
-      "title": "A ansiedade das ondas de calor pode fazer você se sentir “incrivelmente desamparado” – veja como lidar com isso",
-      "summary": "O calor extremo pode prejudicar a saúde mental – e os jovens e as mulheres estão entre os grupos de maior risco, de acordo com um estudo.",
+      "title": "Mais da metade da Inglaterra está oficialmente em seca, diz Agência Ambiental",
+      "summary": "As declarações de seca seguem-se a um período excepcionalmente quente e seco, que atingiu os rios, as culturas e a natureza.",
       "source": "BBC News",
-      "date": "Fri, 24 Jul 2026 00:05:55 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c174/live/c6425de0-851d-11f1-97e8-4f50dea2b016.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "c0db3f11",
-      "cat": "ciencia",
-      "title": "Insulina mal dobrada pode estar causando diabetes silenciosamente",
-      "summary": "Os pesquisadores descobriram que as células produtoras de insulina dependem de uma equipe de proteínas auxiliares para manter a produção de insulina sob controle. Quando faltava um parceiro-chave, acumulavam-se proteínas danificadas e as células produziam menos insulina. O fortalecimento deste sistema poderia oferecer uma nova maneira de proteger o pâncreas, uma vez que os profissionais do diabetes",
-      "source": "ScienceDaily",
-      "date": "Tue, 28 Jul 2026 07:48:04 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
-      "img": "https://www.sciencedaily.com/images/1920/glucose-and-insulin-molecules-in-blood.webp",
-      "score": 0.73
-    },
-    {
-      "id": "eb3f4aa6",
-      "cat": "tecnologia",
-      "title": "Luz laser torcida pode distinguir moléculas de imagem espelhada",
-      "summary": "Os cientistas criaram feixes de laser torcidos que interagem de maneira diferente com moléculas destras e canhotas, revelando sua identidade através dos fragmentos que produzem. A abordagem poderia fornecer uma maneira mais rápida, simples e sensível de analisar moléculas importantes usadas em química e ph.",
-      "source": "ScienceDaily",
-      "date": "Tue, 28 Jul 2026 00:18:08 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
-      "img": "https://www.sciencedaily.com/images/1920/twisted-laser-light-mirror-image-molecules.webp",
+      "date": "Wed, 29 Jul 2026 12:55:03 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b0f/live/24b2aaa0-8b41-11f1-b2d7-b96c6bc9d7f5.jpg",
       "score": 0.73
     },
     {
@@ -289,25 +256,36 @@
       "score": 0.73
     },
     {
-      "id": "d7843abb",
+      "id": "90a1cf63",
       "cat": "tecnologia",
-      "title": "As notícias das 9h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Wed, 29 Jul 2026 09:12:03 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2424/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "O novo romance de Leonardo Padura, os hereges de Durango e a vida sexual dos animais",
+      "summary": "Morrer na Praia , do escritor cubano, o Dicionário Global das Heresias , com direcção de José Eduardo Franco e Porfírio Pinto, e Trinta Milhões de Orgasmos já estão nas livrarias.",
+      "source": "Público",
+      "date": "Wed, 29 Jul 2026 12:00:00 GMT",
+      "url": "https://www.publico.pt/2026/07/29/culturaipsilon/noticia/novo-romance-leonardo-padura-hereges-durango-vida-sexual-animais-2183054",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "61b0cf4b",
+      "id": "a26ca91f",
       "cat": "tecnologia",
-      "title": "Tensão política no governo: aquece, arrefece ou... apodrece?",
-      "summary": "As explicações de Luís Neves ainda não chegaram, os problemas nos exames estão de partida, mas quando o país político e mediático fica preso nesta teia que tempo sobra para Montenegro... “trabalhar”?",
+      "title": "Corpos de bebés em caixas de papel: mulher foi detida",
+      "summary": "Marie B. deu à luz um bebé saudável no domingo, que permanecerá sob cuidados do hospital local. Ministério Público de Carpentras informou que marido também poderá vir a ser detido esta quarta-feira.",
       "source": "Observador",
-      "date": "Wed, 29 Jul 2026 08:32:25 +0100",
-      "url": "https://observador.pt/programas/contra-corrente/tensao-politica-no-governo-aquece-arrefece-ou-apodrece/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
+      "date": "Wed, 29 Jul 2026 13:36:49 +0100",
+      "url": "https://observador.pt/2026/07/29/mae-detida-apos-descoberta-de-corpos-de-cinco-bebes-em-caixas-de-cartao-em-franca/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/20104619/45876038.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "61baa895",
+      "cat": "tecnologia",
+      "title": "A nova geografia do fogo. Até onde vai arder a Europa?",
+      "summary": "A zona do Mediterrâneo continua a concentrar os grandes incêndios, mas há terras mais a norte, a maiores altitudes e durante períodos mais longos, onde o fogo começa a ganhar dimensão. Havia alertas.",
+      "source": "Observador",
+      "date": "Wed, 29 Jul 2026 13:28:26 +0100",
+      "url": "https://observador.pt/especiais/a-nova-geografia-do-fogo-cada-vez-mais-a-norte-cada-vez-maiores-e-ate-em-altitude-ate-onde-vai-arder-a-europa/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2802:1576:nowe:44:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/10070636/captura-de-ecra-2026-07-10-as-070611.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +308,28 @@
       "date": "Tue, 09 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "624e600c",
+      "cat": "tecnologia",
+      "title": "Liga Conferência. Braga em vantagem para a segunda mão",
+      "summary": "O Braga vai receber o %u017Delezni%u010Dar na segunda mão da 2.ª pré-eliminatória da Liga Conferência.",
+      "source": "RTP",
+      "date": "Wed, 29 Jul 2026 14:56:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/liga-conferencia-braga-em-vantagem-para-a-segunda-mao_v1756518",
+      "img": "https://cdn-images.rtp.pt/icm/images/67/67646fc6dd1df70a759ab3d3b50ff11c_N.jpg?",
+      "score": 0.7
+    },
+    {
+      "id": "c056c5f9",
+      "cat": "tecnologia",
+      "title": "12h30 Proença e APAF reunidos; FC Porto negoceia Souza",
+      "summary": "",
+      "source": "RTP",
+      "date": "Wed, 29 Jul 2026 14:05:03 +0100",
+      "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-proenca-e-apaf-reunidos-fc-porto-negoceia-souza_a1_1756505",
+      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.7
     }
   ]
