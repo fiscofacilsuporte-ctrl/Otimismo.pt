@@ -1,5 +1,5 @@
 {
-  "last_update": "28/07/2026 19:43 UTC",
+  "last_update": "29/07/2026 03:21 UTC",
   "total": 30,
   "news": [
     {
@@ -80,17 +80,6 @@
       "score": 0.79
     },
     {
-      "id": "9e7773a2",
-      "cat": "tecnologia",
-      "title": "PRR português teve \"progressos muito substanciais\", diz representante da Comissão Europeia",
-      "summary": "A um mês de terminar o PRR, a representante da Comissão Europeia em Portugal destacou que foram dados \"passos importantes\" para concluir o plano com sucesso. Bruxelas está a analisar nova proposta de revisão do PRR e alerta que a prioridade é garantir que fica tudo concluído até agosto.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 28 Jul 2026 18:53:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/prr-portugues-teve-progressos-muito-substanciais-diz-representante-da-comissao-europeia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-28-18-51-16-527349.jpg",
-      "score": 0.76
-    },
-    {
       "id": "14ac4ee0",
       "cat": "desporto",
       "title": "Benfica inicia defesa do título feminino de futebol com Racing Power",
@@ -135,47 +124,80 @@
       "score": 0.76
     },
     {
-      "id": "00702de2",
-      "cat": "economia",
-      "title": "Kristin: apoios ao emprego já superam 287 milhões",
-      "summary": "Montante inclui mais de 53 milhões de euros pagos através do incentivo extraordinário à manutenção dos postos de trabalho. Medida beneficiou quase 130 mil trabalhadores e mais de 10 mil empresas.",
-      "source": "Observador",
-      "date": "Tue, 28 Jul 2026 19:18:22 +0100",
-      "url": "https://observador.pt/2026/07/28/apoios-ao-emprego-nos-concelhos-afetados-pela-tempestade-kristin-ultrapassam-287-milhoes-de-euros-seis-meses-depois/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/17011728/arquivo-3222-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "04131a64",
+      "id": "e1266524",
       "cat": "tecnologia",
-      "title": "Independência americana: uma nova Constituição",
-      "summary": "Os Estados Unidos nasceram sob a luz de duas estrelas brilhantes: a Constituição e o primeiro presidente eleito, George Washington. Este é o quarto e último programa dedicado à independência americana",
+      "title": "Longevidade – Como vai a nossa saúde?",
+      "summary": "É necessário reorientar as políticas para o investimento na promoção da saúde e prevenção da doença, o que significa cuidados mais personalizados e prolongados no tempo. Opinião de Maria Margarida Corrêa de Aguiar",
+      "source": "Público",
+      "date": "Tue, 28 Jul 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/07/29/opiniao/opiniao/longevidade-vai-saude-2182779",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "e880a98e",
+      "cat": "tecnologia",
+      "title": "Gastos de brasileiros com viagens ao exterior batem recorde no 1º semestre",
+      "summary": "Despesas somaram 12,6 bilhões de dólares entre janeiro e junho, ante 10,3 bilhões de dólares no mesmo período de 2025. Queda de quase 7% no valor do dólar em 2026 barateia viagens internacionais.",
+      "source": "Público",
+      "date": "Tue, 28 Jul 2026 23:04:53 GMT",
+      "url": "https://www.publico.pt/2026/07/29/publico-brasil/noticia/gastos-brasileiros-viagens-exterior-batem-recorde-1-semestre-2183331",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "f8fe1ffa",
+      "cat": "tecnologia",
+      "title": "Crescer em número não basta: Portugal precisa de mais valor",
+      "summary": "O crescimento demográfico pode ser uma oportunidade relevante para Portugal. Mas só o será plenamente se vier acompanhado de empresas mais fortes, trabalho mais qualificado e maior valor criado.",
       "source": "Observador",
-      "date": "Tue, 28 Jul 2026 19:00:05 +0100",
-      "url": "https://observador.pt/programas/e-o-resto-e-historia/e-o-resto-e-historia-em-video-independencia-americana-uma-nova-constituicao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/28153602/capa.jpg",
+      "date": "Wed, 29 Jul 2026 00:23:15 +0100",
+      "url": "https://observador.pt/opiniao/crescer-em-numero-nao-basta-portugal-precisa-de-criar-mais-valor/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A544%3A544%3Anowe%3A211%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F12%2F02164516%2Fvasco-de-mello1.jpeg",
       "score": 0.73
     },
     {
-      "id": "0f17214a",
+      "id": "a2b54306",
+      "cat": "tecnologia",
+      "title": "00h. Incêndio na Guarda \"praticamente dominado\"",
+      "summary": "Na sequência dos progressos no combate ao incêndio na Guarda, a autoestrada A25 foi reaberta e a Estrada Nacional 26 está prestes a reabrir. Ainda, IL pediu audiência ao Presidente da República.",
+      "source": "Observador",
+      "date": "Wed, 29 Jul 2026 00:18:25 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2375/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "69f71a3f",
       "cat": "cultura",
-      "title": "FIFA quer vender parte do negócio do futebol a privados e captar 4,2 mil milhões de dólares",
-      "summary": "Projeto prevê a criação de uma empresa, com ligações a Trump, que assumiria a gestão do Campeonato do Mundo de futebol - masculino e feminino - e o Mundial de Clubes. UEFA está contra.",
+      "title": "Alemanha defende corte significativo no próximo orçamento da UE",
+      "summary": "O chanceler alemão manifestou esta posição depois de se reunir em Dublin, na Irlanda, com o primeiro-ministro irlandês, Micheál Martin, cujo país preside este semestre ao Conselho da UE.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 28 Jul 2026 19:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/fifa-quer-vender-parte-do-negocio-do-futebol-a-privados-e-captar-4-2-mil-milhoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-23-18-02-00-525590.jpg",
+      "date": "Wed, 29 Jul 2026 00:08:41 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/alemanha-defende-corte-significativo-no-proximo-orcamento-da-ue",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-15-14-24-32-526623.jpg",
       "score": 0.73
     },
     {
-      "id": "665c7377",
-      "cat": "economia",
-      "title": "Carneiro pede reunião com primeiro-ministro para esclarecer polémicas com Luís Neves",
-      "summary": "O líder do PS disse já ter formalizado o pedido ao primeiro-ministro, Luís Montenegro, e que aguarda resposta.",
+      "id": "5776ae86",
+      "cat": "cultura",
+      "title": "Teerão rejeita reabertura de estreito de Ormuz com rota de Omã",
+      "summary": "O vice-ministro Kazem Gharibabadi anunciou que a retoma das rotas de entrada e saída do estreito por águas iranianas faz parte dos termos de um acordo provisório proposto a Omã para reabertura da via de navegação e alertou que esta permanecerá fechada caso a proposta não seja aceite.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 28 Jul 2026 18:38:18 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-pede-reuniao-com-primeiro-ministro-para-esclarecer-polemicas-com-luis-neves",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-15-01-00-524387.jpg",
+      "date": "Tue, 28 Jul 2026 22:51:20 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/teerao-rejeita-reabertura-de-estreito-de-ormuz-com-rota-de-oma",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-13-08-04-51-526470.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d95b9bbc",
+      "cat": "ciencia",
+      "title": "Shein enfrenta investigação federal nos EUA antes de IPO em Hong Kong",
+      "summary": "Não é conhecida a natureza da investigação da Comissão Federal do Comércio, que acontece numa altura em que a gigante chinesa se prepara para lançar uma oferta pública inicial (IPO) em Hong Kong.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 28 Jul 2026 22:18:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/shein-enfrenta-investigacao-federal-nos-eua-antes-de-ipo-em-hong-kong",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-06-16-56-24-491613.jpg",
       "score": 0.73
     },
     {
@@ -252,7 +274,7 @@
       "source": "Reasons to be Cheerful",
       "date": "Tue, 21 Jul 2026 08:00:26 +0000",
       "url": "https://reasonstobecheerful.world/electric-vehicles-air-quality-health/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_1863688690-scaled.jpg",
+      "img": null,
       "score": 0.73
     },
     {
@@ -274,51 +296,29 @@
       "source": "Reasons to be Cheerful",
       "date": "Mon, 13 Jul 2026 08:00:40 +0000",
       "url": "https://reasonstobecheerful.world/grenoble-beauty-over-billboards/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2576357661-scaled.jpg",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "7dac60e6",
-      "cat": "geral",
-      "title": "Trump e Netanyahu reúnem-se na Casa Branca com o Irão no centro das conversações",
-      "summary": "Netanyahu deslocou-se a Washington para o adeus fúnebre a Lindsey Graham e aproveitou a ocasião para se debruçar sobre a agenda bilateral com Trump na Casa Branca.",
+      "id": "9dce64ae",
+      "cat": "cultura",
+      "title": "Amanhã chega a Lisboa um economista que sabe porque falha Portugal",
+      "summary": "No pensamento destes economistas, e acredito que no de todos os portugueses, está a convicção de que há sempre tempo para começar a fazer bem. Opinião de Martim Avillez Figueiredo",
       "source": "Público",
-      "date": "Tue, 28 Jul 2026 18:47:56 GMT",
-      "url": "https://www.publico.pt/2026/07/28/mundo/noticia/trump-netanyahu-reunemse-casa-branca-irao-centro-conversacoes-2183319",
+      "date": "Tue, 28 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/29/opiniao/opiniao/amanha-chega-lisboa-economista-sabe-falha-portugal-2183247",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "5ebd0c86",
+      "id": "9f4359f6",
       "cat": "tecnologia",
-      "title": "Há mais de 200 mil casas afectadas pela tempestade Kristin , o dobro do previsto",
-      "summary": "Entre o anúncio à abertura do Fundo de Emergência Municipal, nos próximos dias, e muitos milhões para pagar prejuízos, há um número novo: as casas directamente afectadas são mais de 200 mil.",
-      "source": "Público",
-      "date": "Tue, 28 Jul 2026 18:33:35 GMT",
-      "url": "https://www.publico.pt/2026/07/28/politica/noticia/ha-200-mil-casas-afectadas-tempestade-kristin-dobro-previsto-2183322",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "7519c486",
-      "cat": "tecnologia",
-      "title": "A inteligência artificial já chegou à “singularidade”, defende Sam Altman",
-      "summary": "O director executivo da OpenAI diz que a inteligência artificial já inaugurou uma nova era da humanidade: “Esperei por isto toda a minha vida e acredito que vai ser algo extraordinário para o mundo.”",
-      "source": "Público",
-      "date": "Tue, 28 Jul 2026 18:17:48 GMT",
-      "url": "https://www.publico.pt/2026/07/28/enter/noticia/inteligencia-artificial-ja-chegou-singularidade-defende-sam-altman-2183278",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "d13299f9",
-      "cat": "tecnologia",
-      "title": "Lições da Spinumviva confortam Governo e dão força a Neves",
-      "summary": "Ciclo mediático está a abrandar e primeiras notícias favoráveis a Neves a surgir. Silêncio foi premeditado para evitar correr atrás do prejuízo. Spinumviva ensinou que apostar contra a bolha compensa.",
+      "title": "As notícias da 1h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Tue, 28 Jul 2026 19:53:19 +0100",
-      "url": "https://observador.pt/especiais/licoes-da-spinumviva-confortam-governo-e-dao-forca-a-luis-neves/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2852:1608:nowe:826:265/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/23111156/jporfirio-tomada-de-posse-luis-neves-23-02-01-21-scaled.jpg",
+      "date": "Wed, 29 Jul 2026 01:16:00 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2336/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
