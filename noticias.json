@@ -1,5 +1,5 @@
 {
-  "last_update": "29/07/2026 14:25 UTC",
+  "last_update": "29/07/2026 19:34 UTC",
   "total": 30,
   "news": [
     {
@@ -36,17 +36,6 @@
       "score": 0.79
     },
     {
-      "id": "154fc402",
-      "cat": "ciencia",
-      "title": "Os cientistas acabaram de detectar a primeira ‘Exo-Lua’ conhecida?",
-      "summary": "Assim que Aleksander Wolszczan confirmou a observação do primeiro planeta fora do nosso sistema solar, ele imediatamente concluiu que milhares de outros seriam descobertos nas próximas décadas. Nessa previsão, o astrónomo, agora com 80 anos, estava eminentemente correcto, e a tendência expandiu-se ao ponto",
-      "source": "Good News Network",
-      "date": "Mon, 27 Jul 2026 15:30:14 +0000",
-      "url": "https://www.goodnewsnetwork.org/did-scientists-just-detect-the-first-known-exomoon/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/Artists-impression-of-the-CD-35-2722-system.jpg",
-      "score": 0.79
-    },
-    {
       "id": "f276196c",
       "cat": "tecnologia",
       "title": "Leopardos recuperam na Zâmbia enquanto comunidades trocam peles por sintéticas",
@@ -55,17 +44,6 @@
       "date": "Mon, 27 Jul 2026 11:53:11 +0000",
       "url": "https://www.positive.news/environment/leopards-recover-in-zambia-as-communities-swap-skins-for-synthetics/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/zambia4-1.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "71730487",
-      "cat": "ciencia",
-      "title": "As espécies pré-históricas lutando pela sobrevivência em Lough Neagh",
-      "summary": "Foram impostas restrições à pesca da enguia europeia, criticamente ameaçada, no Lough Neagh, para tentar restaurar a espécie.",
-      "source": "BBC News",
-      "date": "Mon, 27 Jul 2026 23:01:36 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nze240vo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68a7/live/594f2130-8a79-11f1-b7a2-89c39e80e970.jpg",
       "score": 0.79
     },
     {
@@ -80,36 +58,36 @@
       "score": 0.79
     },
     {
-      "id": "eac92a33",
+      "id": "cc1d0a5b",
       "cat": "tecnologia",
-      "title": "\"Ninguém é dono do futebol\". FIFA sob fogo por causa de plano para vender negócio a privados",
-      "summary": "A FIFA avançou com a ideia de criar uma nova sociedade para gerir as suas competições, com o objetivo de atrair investidores privados. A ideia está a ser altamente criticada pelas organizações que representam o futebol europeu e norte-americano - e até o primeiro-ministro britânico e a Comissão Euro",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 29 Jul 2026 14:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/ninguem-e-dono-do-futebol-fifa-debaixo-de-fogo-por-querer-vender-negocio-a-privados",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-29-12-09-00-527418.jpg",
+      "title": "BCP tem novo lucro recorde e pede novo modelo para financiar Fundo de Resolução",
+      "summary": "Lucro semestral do BCP atingiu os 566 milhões de euros com a ajuda da Polónia. BCP usa mais garantia estatal que a média do sector e antevê impacto limitado com novas regras.",
+      "source": "Público",
+      "date": "Wed, 29 Jul 2026 18:19:32 GMT",
+      "url": "https://www.publico.pt/2026/07/29/economia/noticia/bcp-novo-lucro-recorde-pede-novo-modelo-financiar-fundo-resolucao-2183442",
+      "img": null,
       "score": 0.76
     },
     {
-      "id": "75a8f437",
+      "id": "f75e457f",
       "cat": "tecnologia",
-      "title": "Fosun antecipa lucros até 233 milhões de euros no primeiro semestre. Fidelidade cresce a \"dois dígitos\"",
-      "summary": "Melhoria nas operações e lucros gerados no setor industrial ajudam a explicar subida superior a 100% nos resultados líquidos.",
+      "title": "EDP aumenta lucro em 3% com ajuda da procura, redes e distribuição",
+      "summary": "O CEO da energética elenca a procura, as redes e a distribuição como fatores de crescimento. Miguel Stilwell d’Andrade realça que Portugal é o país europeu que mais cresce em termos de procura elétrica.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 29 Jul 2026 14:07:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/fosun-antecipa-lucros-ate-233-milhoes-de-euros-no-primeiro-semestre-fidelidade-cresce-a-dois-digitos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_100x100uu2022-11-02-10-34-19-439371.jpg",
+      "date": "Wed, 29 Jul 2026 18:21:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/edp-aumenta-lucro-em-3-com-ajuda-da-procura-redes-e-distribuicao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-26-10-56-31-519194.jpg",
       "score": 0.76
     },
     {
-      "id": "14ac4ee0",
-      "cat": "desporto",
-      "title": "Benfica inicia defesa do título feminino de futebol com Racing Power",
-      "summary": "O Benfica, hexacampeão feminino de futebol, vai iniciar a defesa do título frente ao Racing Power, enquanto o Sporting e o estreante FC Porto enfrentam Vitória de Guimarães e Valadares Gaia na ronda inaugural, ditou hoje o sorteio.",
-      "source": "RTP",
-      "date": "Tue, 28 Jul 2026 21:06:12 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/benfica-inicia-defesa-do-titulo-feminino-de-futebol-com-racing-power_d1756393",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bfd11c1d2151951f7bf934797597fde4?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "id": "aea7689d",
+      "cat": "ambiente",
+      "title": "A temporada de incêndios florestais na África está realmente ficando mais curta, os cientistas acham que sabem por quê",
+      "summary": "As mudanças climáticas parecem estar a encurtar a estação seca de África, resultando em menos terras queimadas durante a época de incêndios florestais, de acordo com a nova ciência. Apesar de todas as colunas dedicadas às épocas recorde de incêndios florestais em França, Espanha ou na Amazónia, ainda é e sempre foi a África que",
+      "source": "Good News Network",
+      "date": "Wed, 29 Jul 2026 15:30:43 +0000",
+      "url": "https://www.goodnewsnetwork.org/africas-wildfire-season-is-actually-getting-shorter-scientists-think-they-know-why/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/africa-wild-fire-unsplash.jpg",
       "score": 0.76
     },
     {
@@ -157,47 +135,80 @@
       "score": 0.76
     },
     {
-      "id": "c4f26e59",
-      "cat": "economia",
-      "title": "Taxa de subutilização do trabalho atinge mínimo de 15 anos",
-      "summary": "Em Junho, taxa de desemprego manteve-se pelo segundo mês consecutivo em 5,6%. Isolando o desemprego dos homens, a taxa está em mínimos de 28 anos.",
-      "source": "Público",
-      "date": "Wed, 29 Jul 2026 11:31:36 GMT",
-      "url": "https://www.publico.pt/2026/07/29/economia/noticia/taxa-subutilizacao-trabalho-atinge-minimo-15-anos-2183366",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "56e8e769",
-      "cat": "geral",
-      "title": "CPI: Chega quer apurar responsabilidades de Costa e Montenegro na nomeação de Luís Neves",
-      "summary": "André Ventura já tinha admitido chamar o primeiro-ministro e o seu antecessor à comissão de inquérito potestativa aos mandatos de Luís Neves à frente da PJ, que deverá começar em Setembro.",
-      "source": "Público",
-      "date": "Wed, 29 Jul 2026 11:10:29 GMT",
-      "url": "https://www.publico.pt/2026/07/29/politica/noticia/cpi-chega-quer-apurar-responsabilidades-costa-montenegro-nomeacao-luis-neves-2183339",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "0fe7b689",
+      "id": "b697e7d4",
       "cat": "tecnologia",
-      "title": "Irão vai receber 400 lançadores de mísseis da China",
-      "summary": "Nas próximas semanas o Irão deve receber primeiro lote de até 400 lançadores de mísseis antiaéreos portáteis de fabricação chinesa. Ainda, PM iraquiano decidiu adiar visita à Arábia Saudita.",
-      "source": "Observador",
-      "date": "Wed, 29 Jul 2026 12:37:02 +0100",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/irao-vai-receber-400-lancadores-de-misseis-da-china/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/03112352/770-podcast-a-guerra-traduzida.jpg",
+      "title": "UEFA vê oposição significativa e crescente ao plano de comercialização da FIFA",
+      "summary": "Primeiro-ministro britânico, Andy Burnham, diz que o futebol não pertence aos investidores. Comissário europeu Glenn Micaleff lembra que as propostas levantam questões sobre a lei da concorrência.",
+      "source": "Público",
+      "date": "Wed, 29 Jul 2026 18:20:28 GMT",
+      "url": "https://www.publico.pt/2026/07/29/desporto/noticia/uefa-ve-oposicao-significativa-crescente-plano-comercializacao-fifa-2183452",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "8789cf94",
-      "cat": "economia",
-      "title": "\"Handling\" da SATA com prejuízos estimados de 6,25 milhões em 2025",
-      "summary": "De acordo com as estimativas, as receitas de atividade têm vindo a crescer e situaram-se nos 16,18 milhões de euros no ano passado.",
+      "id": "7175c49f",
+      "cat": "cultura",
+      "title": "Mulheres negras: com diploma, mas longe do topo de empresas no Brasil e em Portugal",
+      "summary": "Apesar da elevada formação educacional, a maior parte das profissionais não consegue ocupar cargos executivos, muito menos em conselhos de administração. Mesmo leis fixando cotas, pouco se avançou..",
+      "source": "Público",
+      "date": "Wed, 29 Jul 2026 18:01:14 GMT",
+      "url": "https://www.publico.pt/2026/07/29/publico-brasil/noticia/mulheres-negras-diploma-longe-topo-empresas-brasil-portugal-2183425",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "a9e5e7a5",
+      "cat": "tecnologia",
+      "title": "74 casas a renda acessível aprovadas em Matosinhos",
+      "summary": "A câmara avançou sem esperar por financiamento nacional. Luísa Salgueiro garante que o empréstimo será amortizado quando chegar verba pública.",
+      "source": "Observador",
+      "date": "Wed, 29 Jul 2026 19:48:15 +0100",
+      "url": "https://observador.pt/2026/07/29/matosinhos-aprova-construcao-de-74-habitacoes-a-renda-acessivel-por-89-milhoes-financiados-com-emprestimo-bancario/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1297:729:nowe:0:67/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/30133430/matosinhos-alojamento-local.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0450374e",
+      "cat": "tecnologia",
+      "title": "Lucros da EDP sobem 3% para 732 milhões no primeiro semestre",
+      "summary": "A EDP registou no 1.º semestre lucros de 732 milhões de euros, um aumento de 3%, após \"forte desempenho das energias renováveis e início do novo período regulatório das redes na Península Ibérica\".",
+      "source": "Observador",
+      "date": "Wed, 29 Jul 2026 19:27:20 +0100",
+      "url": "https://observador.pt/2026/07/29/lucros-da-edp-sobem-3-para-732-milhoes-no-primeiro-semestre/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:63/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06124924/ceo-edp-2.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "7d0325bb",
+      "cat": "tecnologia",
+      "title": "CML admite atrasos no subsídio ao arrendamento",
+      "summary": "\"Vice\" da autarquia afirma que atrasos estão \"em vias de resolução\". Em causa estão denúncias reportadas por Carla Rothes, da junta de Benfica. Autarca justifica com \"temas processuais\".",
+      "source": "Observador",
+      "date": "Wed, 29 Jul 2026 19:19:44 +0100",
+      "url": "https://observador.pt/2026/07/29/camara-de-lisboa-admite-atrasos-de-seis-meses-no-subsidio-ao-arrendamento-e-garante-que-nao-houve-nenhuma-restricao-financeira/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/12112749/45445322.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "6930d627",
+      "cat": "tecnologia",
+      "title": "Airbus reforça lucro em 47% para 2,2 mil milhões no primeiro semestre",
+      "summary": "A empresa justifica esta evolução com um ritmo mais acelerado nas entregas de aviões comerciais no segundo trimestre.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 29 Jul 2026 14:44:18 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/handling-da-sata-com-prejuizos-estimados-de-6-25-milhoes-em-2025",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-05-14-38-41-491474.jpg",
+      "date": "Wed, 29 Jul 2026 19:47:53 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/airbus-reforca-lucro-em-47-para-2-2-mil-milhoes-no-primeiro-semestre",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-01-14-24-04-513883.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "adcbd7cb",
+      "cat": "tecnologia",
+      "title": "Carneiro disse ao PM que autoridade do MAI \"está fragilizada\" e que a continuidade deve ser avaliada",
+      "summary": "Líder socialista reuniu-se com o primeiro-ministro na residência oficial de São Bento, para pedir esclarecimentos sobre as polémicas a envolver o ministro da Administração Interna.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 29 Jul 2026 19:17:25 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-disse-ao-pm-que-autoridade-do-mai-esta-fragilizada-e-que-a-continuidade-deve-ser-avaliada",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-15-01-00-524387.jpg",
       "score": 0.73
     },
     {
@@ -212,25 +223,58 @@
       "score": 0.73
     },
     {
-      "id": "fa21ab38",
+      "id": "0a472873",
       "cat": "tecnologia",
-      "title": "Já há regras para definir projetos com “conclusão substancial” no PRR",
-      "summary": "Na penúltima reprogramação do Plano de Recuperação e Resiliência (PRR) foi introduzido o conceito de “conclusão substancial” a aplicar a alguns projetos como escolas e centros de saúde. Obras que não vão ficar completamente prontas a 31 de agosto, mas que apresentam um grau de execução bastante elev",
+      "title": "Aviões comerciais, espaço e defesa impulsionam lucros da Airbus para 2,2 mil milhões",
+      "summary": "A Airbus registou um resultado líquido consolidado de 2.243 milhões de euros até junho, uma subida de 47% face aos 1.525 milhões de euros assinalados no primeiro semestre do ano passado. O aumento das receitas do segmento de aeronaves comerciais e da unidade de espaço e defesa impulsionaram os resul",
       "source": "ECO",
-      "date": "Wed, 29 Jul 2026 13:18:38 +0000",
-      "url": "https://eco.sapo.pt/2026/07/29/ja-ha-regras-para-definir-projetos-com-conclusao-substancial-no-prr/",
-      "img": "https://eco.imgix.net/uploads/2026/03/cropped-castro-almeida03.jpg",
+      "date": "Wed, 29 Jul 2026 18:15:21 +0000",
+      "url": "https://eco.sapo.pt/2026/07/29/avioes-comerciais-espaco-e-defesa-impulsionam-lucros-da-airbus-para-22-mil-milhoes/",
+      "img": "https://eco.imgix.net/uploads/2024/01/cropped-airbus.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0109cf0f",
+      "cat": "tecnologia",
+      "title": "Carneiro diz que autoridade de Luís Neves “está fragilizada”",
+      "summary": "O secretário-geral do PS afirmou esta quarta-feira que transmitiu ao primeiro-ministro que a autoridade política do ministro da Administração Interna &#8220;está fragilizada&#8221; e que Luís Neves e Luís Montenegro devem avaliar as condições do governante para continuar no Governo. &#8220;Transmiti",
+      "source": "ECO",
+      "date": "Wed, 29 Jul 2026 17:53:13 +0000",
+      "url": "https://eco.sapo.pt/2026/07/29/carneiro-diz-que-autoridade-de-luis-neves-esta-fragilizada/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-45684110-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "176fee78",
+      "cat": "tecnologia",
+      "title": "EDP aponta concurso para ligar consumidores à rede como “o que vai ser relevante” para o país",
+      "summary": "O CEO da EDP e EDP Renováveis, Miguel Stilwell d&#8217;Andrade, considera que &#8220;o que vai ser relevante&#8221; em Portugal nos próximos tempos é conhecer-se o resultado do concurso para as Zonas de Grande Procura, que vai definir que projetos deverão ligar-se à rede elétrica nacional. O referid",
+      "source": "ECO",
+      "date": "Wed, 29 Jul 2026 17:29:06 +0000",
+      "url": "https://eco.sapo.pt/2026/07/29/edp-aponta-concurso-para-ligar-consumidores-a-rede-como-o-que-vai-ser-relevante-para-o-pais/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-doc200904219578411mmmg0157.jpg",
       "score": 0.73
     },
     {
       "id": "44e38cc5",
       "cat": "ciencia",
-      "title": "Mais da metade da Inglaterra está oficialmente em seca, diz Agência Ambiental",
+      "title": "Mais da metade da Inglaterra em seca, declara Agência Ambiental",
       "summary": "As declarações de seca seguem-se a um período excepcionalmente quente e seco, que atingiu os rios, as culturas e a natureza.",
       "source": "BBC News",
-      "date": "Wed, 29 Jul 2026 12:55:03 GMT",
+      "date": "Wed, 29 Jul 2026 14:37:30 GMT",
       "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b0f/live/24b2aaa0-8b41-11f1-b2d7-b96c6bc9d7f5.jpg",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc76/live/f8213680-8b65-11f1-a7ab-8b30adf0800a.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "dd65754d",
+      "cat": "tecnologia",
+      "title": "Incêndios florestais devastadores na Europa em mapas - e como estão sendo combatidos",
+      "summary": "A Espanha e a França suportaram até agora as queimadas dos incêndios florestais deste verão, causados ​​por uma sucessão de ondas de calor e períodos de seca prolongados.",
+      "source": "BBC News",
+      "date": "Wed, 29 Jul 2026 11:53:40 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6786/live/a29902f0-89c7-11f1-a501-d9a9d2e9b6c1.jpg",
       "score": 0.73
     },
     {
@@ -256,39 +300,6 @@
       "score": 0.73
     },
     {
-      "id": "90a1cf63",
-      "cat": "tecnologia",
-      "title": "O novo romance de Leonardo Padura, os hereges de Durango e a vida sexual dos animais",
-      "summary": "Morrer na Praia , do escritor cubano, o Dicionário Global das Heresias , com direcção de José Eduardo Franco e Porfírio Pinto, e Trinta Milhões de Orgasmos já estão nas livrarias.",
-      "source": "Público",
-      "date": "Wed, 29 Jul 2026 12:00:00 GMT",
-      "url": "https://www.publico.pt/2026/07/29/culturaipsilon/noticia/novo-romance-leonardo-padura-hereges-durango-vida-sexual-animais-2183054",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "a26ca91f",
-      "cat": "tecnologia",
-      "title": "Corpos de bebés em caixas de papel: mulher foi detida",
-      "summary": "Marie B. deu à luz um bebé saudável no domingo, que permanecerá sob cuidados do hospital local. Ministério Público de Carpentras informou que marido também poderá vir a ser detido esta quarta-feira.",
-      "source": "Observador",
-      "date": "Wed, 29 Jul 2026 13:36:49 +0100",
-      "url": "https://observador.pt/2026/07/29/mae-detida-apos-descoberta-de-corpos-de-cinco-bebes-em-caixas-de-cartao-em-franca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/20104619/45876038.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "61baa895",
-      "cat": "tecnologia",
-      "title": "A nova geografia do fogo. Até onde vai arder a Europa?",
-      "summary": "A zona do Mediterrâneo continua a concentrar os grandes incêndios, mas há terras mais a norte, a maiores altitudes e durante períodos mais longos, onde o fogo começa a ganhar dimensão. Havia alertas.",
-      "source": "Observador",
-      "date": "Wed, 29 Jul 2026 13:28:26 +0100",
-      "url": "https://observador.pt/especiais/a-nova-geografia-do-fogo-cada-vez-mais-a-norte-cada-vez-maiores-e-ate-em-altitude-ate-onde-vai-arder-a-europa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2802:1576:nowe:44:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/10070636/captura-de-ecra-2026-07-10-as-070611.jpg",
-      "score": 0.7
-    },
-    {
       "id": "c8ced442",
       "cat": "tecnologia",
       "title": "Soldados ingénuos, como formigas no Chapitô",
@@ -311,25 +322,14 @@
       "score": 0.7
     },
     {
-      "id": "624e600c",
-      "cat": "tecnologia",
-      "title": "Liga Conferência. Braga em vantagem para a segunda mão",
-      "summary": "O Braga vai receber o %u017Delezni%u010Dar na segunda mão da 2.ª pré-eliminatória da Liga Conferência.",
+      "id": "26cd27b9",
+      "cat": "desporto",
+      "title": "Eduardo Quaresma renova com o Sporting",
+      "summary": "O defesa-central Eduardo Quaresma renovou contrato com o Sporting até junho de 2031, acrescentando três anos ao anterior vínculo, anunciou o clube lisboeta.",
       "source": "RTP",
-      "date": "Wed, 29 Jul 2026 14:56:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/liga-conferencia-braga-em-vantagem-para-a-segunda-mao_v1756518",
-      "img": "https://cdn-images.rtp.pt/icm/images/67/67646fc6dd1df70a759ab3d3b50ff11c_N.jpg?",
-      "score": 0.7
-    },
-    {
-      "id": "c056c5f9",
-      "cat": "tecnologia",
-      "title": "12h30 Proença e APAF reunidos; FC Porto negoceia Souza",
-      "summary": "",
-      "source": "RTP",
-      "date": "Wed, 29 Jul 2026 14:05:03 +0100",
-      "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-proenca-e-apaf-reunidos-fc-porto-negoceia-souza_a1_1756505",
-      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
+      "date": "Wed, 29 Jul 2026 21:04:39 +0100",
+      "url": "https://www.rtp.pt/noticias/sporting/eduardo-quaresma-renova-com-o-sporting_d1756601",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8bb976b04ce0e72b69a09b1ef1b3a58d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.7
     }
   ]
