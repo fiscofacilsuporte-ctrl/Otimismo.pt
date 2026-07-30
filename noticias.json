@@ -1,5 +1,5 @@
 {
-  "last_update": "29/07/2026 19:34 UTC",
+  "last_update": "30/07/2026 02:55 UTC",
   "total": 30,
   "news": [
     {
@@ -58,32 +58,10 @@
       "score": 0.79
     },
     {
-      "id": "cc1d0a5b",
-      "cat": "tecnologia",
-      "title": "BCP tem novo lucro recorde e pede novo modelo para financiar Fundo de Resolução",
-      "summary": "Lucro semestral do BCP atingiu os 566 milhões de euros com a ajuda da Polónia. BCP usa mais garantia estatal que a média do sector e antevê impacto limitado com novas regras.",
-      "source": "Público",
-      "date": "Wed, 29 Jul 2026 18:19:32 GMT",
-      "url": "https://www.publico.pt/2026/07/29/economia/noticia/bcp-novo-lucro-recorde-pede-novo-modelo-financiar-fundo-resolucao-2183442",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "f75e457f",
-      "cat": "tecnologia",
-      "title": "EDP aumenta lucro em 3% com ajuda da procura, redes e distribuição",
-      "summary": "O CEO da energética elenca a procura, as redes e a distribuição como fatores de crescimento. Miguel Stilwell d’Andrade realça que Portugal é o país europeu que mais cresce em termos de procura elétrica.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 29 Jul 2026 18:21:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/edp-aumenta-lucro-em-3-com-ajuda-da-procura-redes-e-distribuicao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-26-10-56-31-519194.jpg",
-      "score": 0.76
-    },
-    {
       "id": "aea7689d",
       "cat": "ambiente",
       "title": "A temporada de incêndios florestais na África está realmente ficando mais curta, os cientistas acham que sabem por quê",
-      "summary": "As mudanças climáticas parecem estar a encurtar a estação seca de África, resultando em menos terras queimadas durante a época de incêndios florestais, de acordo com a nova ciência. Apesar de todas as colunas dedicadas às épocas recorde de incêndios florestais em França, Espanha ou na Amazónia, ainda é e sempre foi a África que",
+      "summary": "As mudanças climáticas parecem estar a encurtar a estação seca de África, resultando em menos terras queimadas durante a época de incêndios florestais, de acordo com a nova ciência. Apesar de todas as colunas dedicadas às temporadas recordes de incêndios florestais na França, na Espanha ou na Amazônia, ainda é e sempre foi a África que",
       "source": "Good News Network",
       "date": "Wed, 29 Jul 2026 15:30:43 +0000",
       "url": "https://www.goodnewsnetwork.org/africas-wildfire-season-is-actually-getting-shorter-scientists-think-they-know-why/",
@@ -135,80 +113,36 @@
       "score": 0.76
     },
     {
-      "id": "b697e7d4",
+      "id": "e8294997",
       "cat": "tecnologia",
-      "title": "UEFA vê oposição significativa e crescente ao plano de comercialização da FIFA",
-      "summary": "Primeiro-ministro britânico, Andy Burnham, diz que o futebol não pertence aos investidores. Comissário europeu Glenn Micaleff lembra que as propostas levantam questões sobre a lei da concorrência.",
+      "title": "Trabalhadores do sector da IA pedem esforços para controlar riscos da tecnologia",
+      "summary": "Numa declaração dirigida ao Governo dos EUA, mais de mil trabalhadores da big tech apelam à desaceleração da IA e à criação de ferramentas e salvaguardas para controlar riscos da tecnologia.",
       "source": "Público",
-      "date": "Wed, 29 Jul 2026 18:20:28 GMT",
-      "url": "https://www.publico.pt/2026/07/29/desporto/noticia/uefa-ve-oposicao-significativa-crescente-plano-comercializacao-fifa-2183452",
+      "date": "Thu, 30 Jul 2026 00:51:34 GMT",
+      "url": "https://www.publico.pt/2026/07/30/enter/noticia/trabalhadores-sector-ia-pedem-esforcos-controlar-riscos-tecnologia-2183421",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "7175c49f",
-      "cat": "cultura",
-      "title": "Mulheres negras: com diploma, mas longe do topo de empresas no Brasil e em Portugal",
-      "summary": "Apesar da elevada formação educacional, a maior parte das profissionais não consegue ocupar cargos executivos, muito menos em conselhos de administração. Mesmo leis fixando cotas, pouco se avançou..",
-      "source": "Público",
-      "date": "Wed, 29 Jul 2026 18:01:14 GMT",
-      "url": "https://www.publico.pt/2026/07/29/publico-brasil/noticia/mulheres-negras-diploma-longe-topo-empresas-brasil-portugal-2183425",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "a9e5e7a5",
+      "id": "f5d1968c",
       "cat": "tecnologia",
-      "title": "74 casas a renda acessível aprovadas em Matosinhos",
-      "summary": "A câmara avançou sem esperar por financiamento nacional. Luísa Salgueiro garante que o empréstimo será amortizado quando chegar verba pública.",
-      "source": "Observador",
-      "date": "Wed, 29 Jul 2026 19:48:15 +0100",
-      "url": "https://observador.pt/2026/07/29/matosinhos-aprova-construcao-de-74-habitacoes-a-renda-acessivel-por-89-milhoes-financiados-com-emprestimo-bancario/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1297:729:nowe:0:67/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/30133430/matosinhos-alojamento-local.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "0450374e",
-      "cat": "tecnologia",
-      "title": "Lucros da EDP sobem 3% para 732 milhões no primeiro semestre",
-      "summary": "A EDP registou no 1.º semestre lucros de 732 milhões de euros, um aumento de 3%, após \"forte desempenho das energias renováveis e início do novo período regulatório das redes na Península Ibérica\".",
-      "source": "Observador",
-      "date": "Wed, 29 Jul 2026 19:27:20 +0100",
-      "url": "https://observador.pt/2026/07/29/lucros-da-edp-sobem-3-para-732-milhoes-no-primeiro-semestre/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:63/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06124924/ceo-edp-2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7d0325bb",
-      "cat": "tecnologia",
-      "title": "CML admite atrasos no subsídio ao arrendamento",
-      "summary": "\"Vice\" da autarquia afirma que atrasos estão \"em vias de resolução\". Em causa estão denúncias reportadas por Carla Rothes, da junta de Benfica. Autarca justifica com \"temas processuais\".",
-      "source": "Observador",
-      "date": "Wed, 29 Jul 2026 19:19:44 +0100",
-      "url": "https://observador.pt/2026/07/29/camara-de-lisboa-admite-atrasos-de-seis-meses-no-subsidio-ao-arrendamento-e-garante-que-nao-houve-nenhuma-restricao-financeira/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/12112749/45445322.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6930d627",
-      "cat": "tecnologia",
-      "title": "Airbus reforça lucro em 47% para 2,2 mil milhões no primeiro semestre",
-      "summary": "A empresa justifica esta evolução com um ritmo mais acelerado nas entregas de aviões comerciais no segundo trimestre.",
+      "title": "Trump quer que Congresso vá além de sanções e imponha tarifas ao Irão",
+      "summary": "O Senado deu um passo significativo no sentido da aprovação de novas sanções contra a Rússia e o Irão. Contudo, o Presidente dos EUA pensa que isso não é suficiente e quer que sejam aplicadas tarifas sobre Teerão.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 29 Jul 2026 19:47:53 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/airbus-reforca-lucro-em-47-para-2-2-mil-milhoes-no-primeiro-semestre",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-01-14-24-04-513883.jpg",
+      "date": "Wed, 29 Jul 2026 23:59:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/trump-quer-que-congresso-va-alem-de-sancoes-e-imponha-tarifas-ao-irao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-24-07-28-36-527121.jpg",
       "score": 0.73
     },
     {
-      "id": "adcbd7cb",
+      "id": "05eef111",
       "cat": "tecnologia",
-      "title": "Carneiro disse ao PM que autoridade do MAI \"está fragilizada\" e que a continuidade deve ser avaliada",
-      "summary": "Líder socialista reuniu-se com o primeiro-ministro na residência oficial de São Bento, para pedir esclarecimentos sobre as polémicas a envolver o ministro da Administração Interna.",
+      "title": "Receitas trimestrais sobem mas Meta dececiona nas previsões",
+      "summary": "As vendas dispararam 28%, mas os lucros da dona do Facebook e Instagram recuaram 14% no segundo trimestre. Receios com investimentos em IA e fracas projeções de vendas desiludiram investidores.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 29 Jul 2026 19:17:25 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-disse-ao-pm-que-autoridade-do-mai-esta-fragilizada-e-que-a-continuidade-deve-ser-avaliada",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-15-01-00-524387.jpg",
+      "date": "Wed, 29 Jul 2026 22:29:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/receitas-sobem-mas-meta-dececiona-nas-previsoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-07/img_100x100uu2025-07-16-12-15-37-505961.jpg",
       "score": 0.73
     },
     {
@@ -223,36 +157,36 @@
       "score": 0.73
     },
     {
-      "id": "0a472873",
+      "id": "1b927ef5",
       "cat": "tecnologia",
-      "title": "Aviões comerciais, espaço e defesa impulsionam lucros da Airbus para 2,2 mil milhões",
-      "summary": "A Airbus registou um resultado líquido consolidado de 2.243 milhões de euros até junho, uma subida de 47% face aos 1.525 milhões de euros assinalados no primeiro semestre do ano passado. O aumento das receitas do segmento de aeronaves comerciais e da unidade de espaço e defesa impulsionaram os resul",
+      "title": "EDP compromete-se a manter preços da eletricidade até ao final do ano",
+      "summary": "A EDP Comercial revelou esta quarta-feira o seu compromisso em manter os preços da eletricidade até ao final do ano. A novidade surge no dia em que o grupo EDP revelou ter registado um lucro de 732 milhões de euros no primeiro semestre do ano, ultrapassando em 3% o obtido no mesmo período do ano [&#",
       "source": "ECO",
-      "date": "Wed, 29 Jul 2026 18:15:21 +0000",
-      "url": "https://eco.sapo.pt/2026/07/29/avioes-comerciais-espaco-e-defesa-impulsionam-lucros-da-airbus-para-22-mil-milhoes/",
-      "img": "https://eco.imgix.net/uploads/2024/01/cropped-airbus.jpg",
+      "date": "Wed, 29 Jul 2026 20:40:01 +0000",
+      "url": "https://eco.sapo.pt/2026/07/29/edp-compromete-se-a-manter-precos-da-eletricidade-ate-ao-final-do-ano/",
+      "img": "https://eco.imgix.net/uploads/2024/01/conta-da-luz.jpg",
       "score": 0.73
     },
     {
-      "id": "0109cf0f",
+      "id": "83435281",
       "cat": "tecnologia",
-      "title": "Carneiro diz que autoridade de Luís Neves “está fragilizada”",
-      "summary": "O secretário-geral do PS afirmou esta quarta-feira que transmitiu ao primeiro-ministro que a autoridade política do ministro da Administração Interna &#8220;está fragilizada&#8221; e que Luís Neves e Luís Montenegro devem avaliar as condições do governante para continuar no Governo. &#8220;Transmiti",
+      "title": "BCP insiste em novo modelo de contribuições para Fundo de Resolução",
+      "summary": "O BCP espera que a última decisão judicial sobre as contribuições dos bancos para o Fundo de Resolução (FdR) possa trazer um novo desenho desse mecanismo, que seja mais &#8220;justo&#8221; e que até pode, em última análise, aumentar as receitas do Fundo. O Tribunal Constitucional (TC) deu parcialmen",
       "source": "ECO",
-      "date": "Wed, 29 Jul 2026 17:53:13 +0000",
-      "url": "https://eco.sapo.pt/2026/07/29/carneiro-diz-que-autoridade-de-luis-neves-esta-fragilizada/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-45684110-scaled-1.jpg",
+      "date": "Wed, 29 Jul 2026 19:47:42 +0000",
+      "url": "https://eco.sapo.pt/2026/07/29/bcp-insiste-em-novo-modelo-de-contribuicoes-para-fundo-de-resolucao/",
+      "img": "https://eco.imgix.net/uploads/2025/05/cropped-doc-20250226-44486620-20250226filipeamorim0966.jpg",
       "score": 0.73
     },
     {
-      "id": "176fee78",
-      "cat": "tecnologia",
-      "title": "EDP aponta concurso para ligar consumidores à rede como “o que vai ser relevante” para o país",
-      "summary": "O CEO da EDP e EDP Renováveis, Miguel Stilwell d&#8217;Andrade, considera que &#8220;o que vai ser relevante&#8221; em Portugal nos próximos tempos é conhecer-se o resultado do concurso para as Zonas de Grande Procura, que vai definir que projetos deverão ligar-se à rede elétrica nacional. O referid",
+      "id": "c43fdca3",
+      "cat": "economia",
+      "title": "Portuguesa Futrifer anuncia joint-venture em Marrocos para manutenção ferroviária",
+      "summary": "A portuguesa Futrifer e a francesa Vossloh Services France anunciaram a criação de uma empresa conjunta em Marrocos para prestar serviços de manutenção ferroviária, reforçando a internacionalização do grupo e a presença no mercado ferroviário marroquino, em rápida expansão. Segundo o comunicado divu",
       "source": "ECO",
-      "date": "Wed, 29 Jul 2026 17:29:06 +0000",
-      "url": "https://eco.sapo.pt/2026/07/29/edp-aponta-concurso-para-ligar-consumidores-a-rede-como-o-que-vai-ser-relevante-para-o-pais/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-doc200904219578411mmmg0157.jpg",
+      "date": "Wed, 29 Jul 2026 18:32:00 +0000",
+      "url": "https://eco.sapo.pt/2026/07/29/portuguesa-futrifer-anuncia-joint-venture-em-marrocos-para-manutencao-ferroviaria/",
+      "img": "https://eco.imgix.net/uploads/2018/03/cropped-railway-2795137_1280.jpg",
       "score": 0.73
     },
     {
@@ -300,6 +234,72 @@
       "score": 0.73
     },
     {
+      "id": "0af88920",
+      "cat": "tecnologia",
+      "title": "Rússia estará a recorrer à IA para alegar ganhos territoriais na Ucrânia",
+      "summary": "Vídeos incongruentes partilhados em canais pró-russos do Telegram chamaram a atenção de analistas para a prática de manipulação digital com recurso à inteligência artificial.",
+      "source": "Público",
+      "date": "Wed, 29 Jul 2026 23:51:02 GMT",
+      "url": "https://www.publico.pt/2026/07/30/mundo/noticia/russia-estara-recorrer-ia-alegar-ganhos-territoriais-ucrania-2183476",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "31af5325",
+      "cat": "geral",
+      "title": "O caso Luís Neves: a montanha não pariu um rato",
+      "summary": "Apesar de todas as explicações de Luís Neves, nada apaga o mal que o seu silêncio causou ao país. Opinião de Manuel Carvalho",
+      "source": "Público",
+      "date": "Wed, 29 Jul 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/07/30/opiniao/opiniao/caso-luis-neves-montanha-nao-pariu-rato-2183466",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "ba83a663",
+      "cat": "tecnologia",
+      "title": "As notícias das 3h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Thu, 30 Jul 2026 03:14:45 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2390/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "01e3561b",
+      "cat": "tecnologia",
+      "title": "Os 12 disparos de Luís Neves, o fogo amigo e tiros nos pés",
+      "summary": "O ministro da Administração Interna tentou justificar o caso do atrelado. Disse que não sabia que tinha de entregar a declaração de rendimentos. E jurou que a piscina vai voltar a ser um... tanque.",
+      "source": "Observador",
+      "date": "Thu, 30 Jul 2026 01:12:04 +0100",
+      "url": "https://observador.pt/especiais/os-12-disparos-de-luis-neves-para-se-defender-o-fogo-amigo-os-tiros-nos-pes-e-os-alvos-falhados/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3232:1817:nowe:0:169/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29192358/jporfirio-conf-imprensa-luis-neves-29-07-2026-02-26.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "5aff7214",
+      "cat": "tecnologia",
+      "title": "Tempo de Atenas: o ativismo vê-se grego",
+      "summary": "A “Odisseia” segundo Christopher Nolan, o filme mais aguardado dos últimos tempos. E, com o supremo arquétipo do herói, o que faz a fita? Transforma-o num fiteiro.",
+      "source": "Observador",
+      "date": "Thu, 30 Jul 2026 00:24:36 +0100",
+      "url": "https://observador.pt/opiniao/tempo-de-atenas-o-ativismo-ve-se-grego/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1280%3A1280%3Anowe%3A141%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F11175627%2Fpaulo-nogueira-2026-fevereiro.jpeg",
+      "score": 0.7
+    },
+    {
+      "id": "de929585",
+      "cat": "tecnologia",
+      "title": "Gigantes usam trunfo da manutenção na corrida à privatização da TAP",
+      "summary": "Depois da Lufthansa, também a Air France-KLM admite criar instalações de manutenção em zonas-chave do país. A Parpública vai agora analisar as ofertas vinculativas, mas os dois grupos de aviação esperam ser convidados a melhorar as ofertas em setembro.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 29 Jul 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/gigantes-usam-trunfo-da-manutencao-na-corrida-a-privatizacao-da-tap",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-01-14-54-25-521463.jpg",
+      "score": 0.7
+    },
+    {
       "id": "c8ced442",
       "cat": "tecnologia",
       "title": "Soldados ingénuos, como formigas no Chapitô",
@@ -322,14 +322,14 @@
       "score": 0.7
     },
     {
-      "id": "26cd27b9",
-      "cat": "desporto",
-      "title": "Eduardo Quaresma renova com o Sporting",
-      "summary": "O defesa-central Eduardo Quaresma renovou contrato com o Sporting até junho de 2031, acrescentando três anos ao anterior vínculo, anunciou o clube lisboeta.",
+      "id": "75eb726e",
+      "cat": "tecnologia",
+      "title": "Benfica tenta inverter resultado face ao St.Gallen",
+      "summary": "O Benfica vai tentar inverter amanhã o mau resultado frente ao St. Gallen no Estádio da Luz em jogo da Liga Europa.",
       "source": "RTP",
-      "date": "Wed, 29 Jul 2026 21:04:39 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/eduardo-quaresma-renova-com-o-sporting_d1756601",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8bb976b04ce0e72b69a09b1ef1b3a58d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Wed, 29 Jul 2026 22:23:53 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/benfica-tenta-inverter-resultado-face-ao-stgallen_v1756625",
+      "img": "https://cdn-images.rtp.pt/icm/images/39/39876c1fe77bbe90fff1d2db0b6a19bc_N.jpg?",
       "score": 0.7
     }
   ]
