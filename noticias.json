@@ -1,5 +1,5 @@
 {
-  "last_update": "31/07/2026 09:12 UTC",
+  "last_update": "31/07/2026 14:26 UTC",
   "total": 30,
   "news": [
     {
@@ -39,7 +39,7 @@
       "id": "8eb14acb",
       "cat": "tecnologia",
       "title": "A primeira reintrodução do tamanduá-bandeira do mundo parece estar tendo sucesso no Brasil",
-      "summary": "Já se passaram quase 20 anos desde que a Argentina lançou o que era na época a primeira tentativa do mundo de reintroduzir o tamanduá-bandeira em uma paisagem da qual ele havia desaparecido. 19 anos depois, e a iniciativa não foi nada senão um sucesso, com a população local a crescer de 0 para",
+      "summary": "Já se passaram quase 20 anos desde que a Argentina lançou o que era na época a primeira tentativa do mundo de reintroduzir o tamanduá-bandeira em uma paisagem da qual ele havia desaparecido. 19 anos depois, e a iniciativa não foi senão um sucesso, com a população local a crescer de 0 para",
       "source": "Good News Network",
       "date": "Thu, 30 Jul 2026 18:30:45 +0000",
       "url": "https://www.goodnewsnetwork.org/the-worlds-first-giant-anteater-reintroduction-appears-to-be-succeeding-in-brazil/",
@@ -47,10 +47,43 @@
       "score": 0.79
     },
     {
+      "id": "e1f5da3f",
+      "cat": "ambiente",
+      "title": "Défice do Estado reduz-se para 121,6 milhões de euros no primeiro semestre",
+      "summary": "O Estado registou um défice de 216,6 milhões de euros no primeiro semestre do ano, em contabilidade pública, uma redução de 2.230,4 milhões de euros face ao período homólogo, de acordo com os dados divulgados esta sexta-feira pela Entidade Orçamental. Uma evolução que resulta de uma subida da despes",
+      "source": "ECO",
+      "date": "Fri, 31 Jul 2026 14:09:25 +0000",
+      "url": "https://eco.sapo.pt/2026/07/31/defice-do-estado-reduz-se-para-1216-milhoes-de-euros-no-primeiro-semestre/",
+      "img": "https://eco.imgix.net/uploads/2026/04/governo-uniao-europeia-energia-guerra-2000x1125-1.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "2b5aee89",
+      "cat": "economia",
+      "title": "Fórum para a Competitividade mantém previsão de crescimento do PIB entre 1,7% a 1,9%",
+      "summary": "O Fórum para a Competitividade mantém a previsão de crescimento anual da economia portuguesa entre 1,7% e 1,9%, apesar do desempenho positivo e surpreendente no segundo trimestre, alertando para o aumento da incerteza relativo à segunda metade do ano. Na nota de conjuntura, divulgada esta sexta-feir",
+      "source": "ECO",
+      "date": "Fri, 31 Jul 2026 13:38:01 +0000",
+      "url": "https://eco.sapo.pt/2026/07/31/forum-para-a-competitividade-mantem-previsao-de-crescimento-do-pib-entre-17-a-19/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-6p1a6723.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "dbca327d",
+      "cat": "tecnologia",
+      "title": "Mais de 4.400 pessoas utilizaram as novas travessias fluviais no rio Douro numa semana",
+      "summary": "Mais de 4.400 pessoas utilizaram as novas travessias fluviais do rio Douro entre Porto e Gaia na primeira semana do serviço, sobretudo no trajeto Afurada &#8211; Cais do Ouro, divulgou esta sexta-feira à Lusa a Transportes Metropolitanos do Porto (TMP). De acordo com números da TMP, desde a retoma d",
+      "source": "ECO",
+      "date": "Fri, 31 Jul 2026 13:31:55 +0000",
+      "url": "https://eco.sapo.pt/2026/07/31/mais-de-4-400-pessoas-utilizaram-as-novas-travessias-fluviais-no-rio-douro-numa-semana/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-43057156-scaled-1.jpg",
+      "score": 0.76
+    },
+    {
       "id": "aea7689d",
       "cat": "ambiente",
       "title": "A temporada de incêndios florestais na África está realmente ficando mais curta, os cientistas acham que sabem por quê",
-      "summary": "As mudanças climáticas parecem estar a encurtar a estação seca de África, resultando em menos terras queimadas durante a época de incêndios florestais, de acordo com a nova ciência. Apesar de todas as colunas dedicadas às épocas recorde de incêndios florestais em França, Espanha ou na Amazónia, ainda é e sempre foi a África que",
+      "summary": "As mudanças climáticas parecem estar a encurtar a estação seca de África, resultando em menos terras queimadas durante a época de incêndios florestais, de acordo com a nova ciência. Apesar de todas as colunas dedicadas às temporadas recordes de incêndios florestais na França, na Espanha ou na Amazônia, ainda é e sempre foi a África que",
       "source": "Good News Network",
       "date": "Wed, 29 Jul 2026 15:30:43 +0000",
       "url": "https://www.goodnewsnetwork.org/africas-wildfire-season-is-actually-getting-shorter-scientists-think-they-know-why/",
@@ -80,13 +113,24 @@
       "score": 0.76
     },
     {
-      "id": "b707dc2c",
+      "id": "7d1c948f",
       "cat": "tecnologia",
-      "title": "Trump anuncia acordo de desarmamento do Hamas, Israel sinaliza reservas",
-      "summary": "Presidente dos EUA diz haver plano acordado para o “desarmamento completo” do grupo palestiniano. Fontes israelitas manifestam cepticismo.",
+      "title": "Para sobreviver ao Verão em Lisboa, o Ajitama tem pratos para partilhar",
+      "summary": "Com elevadas temperaturas na rua, para muitos, não apetece comer um prato quente e, por isso, ao longo dos anos, o Ajitama tem procurado responder com propostas mais frescas nesta altura do ano.",
       "source": "Público",
-      "date": "Thu, 30 Jul 2026 23:46:40 GMT",
-      "url": "https://www.publico.pt/2026/07/31/mundo/noticia/trump-anuncia-acordo-desarmamento-hamas-israel-sinaliza-reservas-2183615",
+      "date": "Fri, 31 Jul 2026 14:01:00 GMT",
+      "url": "https://www.publico.pt/2026/07/31/fugas/noticia/sobreviver-verao-lisboa-ajitama-pratos-partilhar-2182759",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "6b10bb29",
+      "cat": "cultura",
+      "title": "Esta sexta, Portugal celebra o seu primeiro Dia Nacional da Vinha e do Vinho",
+      "summary": "“A vinha e o vinho acompanham a formação de Portugal enquanto Estado-nação e são parte inseparável da sua identidade civilizacional”, lê-se no despacho publicado nesta quinta em Diário da República.",
+      "source": "Público",
+      "date": "Fri, 31 Jul 2026 12:51:03 GMT",
+      "url": "https://www.publico.pt/2026/07/31/fugas/noticia/sexta-portugal-celebra-dia-nacional-vinha-vinho-2183664",
       "img": null,
       "score": 0.73
     },
@@ -102,36 +146,36 @@
       "score": 0.73
     },
     {
-      "id": "1d5d0ef9",
-      "cat": "tecnologia",
-      "title": "Petróleo volta a cair para os 85 dólares por barril. Ouro vai fechar mês com valorização",
-      "summary": "Acompanhe, ao minuto, a evolução dos mercados desta sexta-feira.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 31 Jul 2026 09:04:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/indice-da-coreia-do-sul-arrasa-em-sessao-mista-na-asia-europa-aponta-para-abertura-em-alta",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-26-08-18-30-515243.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8473ea8e",
+      "id": "fe0420a7",
       "cat": "economia",
-      "title": "Lucro líquido da Sony cresceu 32,1% no primeiro trimestre fiscal",
-      "summary": "O relatório financeiro da Sony refere também uma \"revisão em alta da previsão para o ano fiscal completo\", impulsionada pelo segmento dos videojogos.",
+      "title": "\"Com o aumento da população ativa, economia devia ter crescido muito mais\", diz Borges de Assunção",
+      "summary": "O crescimento de 0,8% da economia portuguesa no segundo trimestre apanhou o economista de surpresa, mas o efeito do crescimento da população ativa está a dificultar uma análise dos fatores que estão a impulsionar o crescimento do PIB.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 31 Jul 2026 08:36:47 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/lucro-liquido-da-sony-cresceu-32-1-no-primeiro-trimestre-fiscal",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-05-07-13-35-517875.jpg",
+      "date": "Fri, 31 Jul 2026 15:15:27 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/com-o-aumento-da-populacao-ativa-economia-devia-ter-crescido-muito-mais-diz-borges-de-assuncao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-11-03-24-527541.jpg",
       "score": 0.73
     },
     {
-      "id": "3c60eaff",
+      "id": "87955d28",
       "cat": "tecnologia",
-      "title": "Grupo EDP e BCP animam bolsa de Lisboa. Ren cai após apresentação de resultados",
-      "summary": "Fora do índice principal, os títulos da Pharol seguem em queda após a apresentação de um milhão de euros de prejuízo no primeiro semestre.",
+      "title": "Como pode Burnham fazer com que a descentralização no Reino Unido funcione?",
+      "summary": "Quando a Grã-Bretanha assumir a presidência do G20, em dezembro de 2026, terá a oportunidade de demonstrar como as políticas locais e as estratégias industriais nacionais podem impulsionar, em conjunto, o crescimento inclusivo.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 31 Jul 2026 08:27:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/grupo-edp-e-bcp-animam-bolsa-de-lisboa-ren-cai-apos-apresentacao-de-resultados",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-09/img_100x100uu2024-09-27-23-24-13-486247.jpg",
+      "date": "Fri, 31 Jul 2026 14:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/economistas/detalhe/como-pode-burnham-fazer-com-que-a-descentralizacao-no-reino-unido-funcione",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_394x514uu2026-07-07-18-01-34-526212.png",
+      "score": 0.73
+    },
+    {
+      "id": "676627e6",
+      "cat": "economia",
+      "title": "Soam os alertas nos Açores. São nove meses consecutivos de quebra no turismo",
+      "summary": "No conjunto do primeiro semestre de 2026, a região acumula uma quebra de 4,6% nas dormidas e de 3,6% nos hóspedes.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 31 Jul 2026 13:56:04 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/soam-os-alertas-nos-acores-sao-nove-meses-consecutivos-de-quebra-no-turismo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-13-50-59-527553.jpg",
       "score": 0.73
     },
     {
@@ -157,25 +201,36 @@
       "score": 0.73
     },
     {
-      "id": "6615778f",
-      "cat": "economia",
-      "title": "Grupo Mello abandona projeto de 492 milhões para refinaria de lítio",
-      "summary": "O grupo José de Mello desistiu do projeto industrial para instalar uma refinaria de lítio em Estarreja, um investimento que deveria rondar os 492 milhões de euros e que já tinha assegurados 180 milhões de euros em apoios públicos no início deste ano. Salvador de Mello, CEO da empresa, anunciou ao Ex",
-      "source": "ECO",
-      "date": "Fri, 31 Jul 2026 08:57:16 +0000",
-      "url": "https://eco.sapo.pt/2026/07/31/grupo-mello-abandona-projeto-de-492-milhoes-para-refinaria-de-litio/",
-      "img": "https://eco.imgix.net/uploads/2024/10/cropped-salvador-de-mello-1578.jpg",
-      "score": 0.73
-    },
-    {
       "id": "19e5463a",
       "cat": "sociedade",
       "title": "A fome global cai abaixo de 8% pela primeira vez desde a pandemia",
-      "summary": "Pelo terceiro ano consecutivo, a fome global, medida pela desnutrição entre as populações continentais, diminuiu. É também a primeira vez que a percentagem de subnutridos na população mundial cai para menos de 8% desde que o encerramento de empresas imposto pelo governo e as interrupções no fornecimento resultaram em",
+      "summary": "Pelo terceiro ano consecutivo, a fome global, medida pela desnutrição entre as populações continentais, diminuiu. É também a primeira vez que a percentagem de pessoas subnutridas na população mundial cai para menos de 8% desde que o encerramento de empresas imposto pelo governo e as interrupções no fornecimento resultaram em",
       "source": "Good News Network",
       "date": "Thu, 30 Jul 2026 13:00:30 +0000",
       "url": "https://www.goodnewsnetwork.org/global-hunger-falls-below-8-for-the-first-time-since-the-pandemic/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/The-most-impressive-reductions-in-hunger-were-observed-in-Central-Asia-credit-Far-Chinberdiev-via-Unsplash.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0adc09e3",
+      "cat": "ciencia",
+      "title": "Inglaterra e País de Gales a caminho do julho mais seco já registrado",
+      "summary": "Os registros do Met Office indicam que a Inglaterra e o País de Gales provavelmente terão o julho mais seco desde que os registros começaram, há 190 anos.",
+      "source": "BBC News",
+      "date": "Fri, 31 Jul 2026 14:25:08 GMT",
+      "url": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4802/live/67853de0-8c25-11f1-bdac-871e920411eb.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c9895dce",
+      "cat": "ambiente",
+      "title": "Onde ver o maior eclipse solar desde 1999",
+      "summary": "O maior eclipse solar do Reino Unido desde 1999 chega em 12 de agosto. Veja onde vê-lo com segurança.",
+      "source": "BBC News",
+      "date": "Fri, 31 Jul 2026 05:09:42 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0040/live/ba1ceac0-8b5e-11f1-b422-3b36120ef864.jpg",
       "score": 0.73
     },
     {
@@ -187,28 +242,6 @@
       "date": "Thu, 30 Jul 2026 17:55:24 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/97441f30-8c37-11f1-b2ab-0dd01740f9f6.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a1da6ce8",
-      "cat": "ciencia",
-      "title": "Seca declarada em todo o País de Gales à medida que as condições se deterioram",
-      "summary": "O País de Gales está a caminho do julho mais seco já registrado em quase 190 anos.",
-      "source": "BBC News",
-      "date": "Thu, 30 Jul 2026 14:15:09 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bee/live/83ddad50-8cad-11f1-a1f4-f50057266998.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "fe426714",
-      "cat": "tecnologia",
-      "title": "Dashcam captura tornado derrubando linhas de energia em carro",
-      "summary": "O vídeo obtido pela BBC fornece uma visão em primeira mão do poderoso sistema de tempestades que atingiu partes do leste de Wisconsin em 27 de julho.",
-      "source": "BBC News",
-      "date": "Thu, 30 Jul 2026 13:44:23 GMT",
-      "url": "https://www.bbc.co.uk/news/videos/cj631p14gpjo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb08/live/19495d00-8c1b-11f1-a7ab-8b30adf0800a.jpg",
       "score": 0.73
     },
     {
@@ -256,24 +289,13 @@
       "score": 0.73
     },
     {
-      "id": "9258bf42",
+      "id": "cc9ad36f",
       "cat": "tecnologia",
-      "title": "O \"assalto\" ao Chega é um assalto à democracia",
-      "summary": "",
+      "title": "Cultas e Vinho Verde com Rita Carmo",
+      "summary": "Duas mulheres e um copo de vinho. O início perfeito para uma conversa sobre a vida, cultura, histórias e pensamento.",
       "source": "Público",
-      "date": "Thu, 30 Jul 2026 23:51:50 GMT",
-      "url": "https://www.publico.pt/2026/07/31/newsletter/diarios-republica",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "807f00b3",
-      "cat": "tecnologia",
-      "title": "O lado do mal",
-      "summary": "Talvez já seja demasiado tarde, mas só a demissão de Luís Neves pode mitigar o risco institucional que enfrentamos neste momento. Opinião de Susana Peralta",
-      "source": "Público",
-      "date": "Thu, 30 Jul 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/07/31/opiniao/opiniao/lado-mal-2183593",
+      "date": "Fri, 31 Jul 2026 14:00:00 GMT",
+      "url": "https://www.publico.pt/2026/07/31/impar/noticia/cultas-vinho-verde-rita-carmo-2182966",
       "img": null,
       "score": 0.7
     },
@@ -308,28 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "0ee88c49",
-      "cat": "tecnologia",
-      "title": "Académico de Viseu com plantel “coeso e humilde” para iniciar na I Liga",
-      "summary": "O treinador do Académico de Viseu defendeu hoje, na apresentação pública dos atletas, que tem um “plantel coeso e humilde” para enfrentar a I Liga de futebol, escalão a que o clube regressa após 37 anos.",
-      "source": "RTP",
-      "date": "Fri, 31 Jul 2026 09:43:49 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/academico-de-viseu-com-plantel-coeso-e-humilde-para-iniciar-na-i-liga_d1756938",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.7
     }
   ]
