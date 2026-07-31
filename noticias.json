@@ -1,5 +1,5 @@
 {
-  "last_update": "31/07/2026 03:37 UTC",
+  "last_update": "31/07/2026 09:12 UTC",
   "total": 30,
   "news": [
     {
@@ -44,17 +44,6 @@
       "date": "Thu, 30 Jul 2026 18:30:45 +0000",
       "url": "https://www.goodnewsnetwork.org/the-worlds-first-giant-anteater-reintroduction-appears-to-be-succeeding-in-brazil/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-mother-anteater-carrying-a-baby-on-her-back-credit-DJ-Cooker-iNaturalist-via-CC-4.0.-BY-e1785408829145.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "6c72cba8",
-      "cat": "cultura",
-      "title": "Boas novas na história, 29 de Julho",
-      "summary": "Neste dia de 1958, foi criada a Administração Nacional de Aeronáutica e Espaço (NASA). O Congresso dos EUA foi estimulado a criar a agência federal pelo lançamento do Sputnik pela União Soviética, o primeiro satélite orbital. Dois dos objetivos eram expandir o conhecimento humano sobre a atmosfera da Terra",
-      "source": "Good News Network",
-      "date": "Wed, 29 Jul 2026 07:00:00 +0000",
-      "url": "https://www.goodnewsnetwork.org/events060729/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2016/12/John-Glenn-NASA.jpg",
       "score": 0.79
     },
     {
@@ -113,36 +102,36 @@
       "score": 0.73
     },
     {
-      "id": "0e43f56a",
+      "id": "1d5d0ef9",
       "cat": "tecnologia",
-      "title": "Trump anuncia acordo para desarmamento total do Hamas",
-      "summary": "O Presidente dos EUA adiantou que \"o acordo será implementado em fases cuidadosamente estruturadas\" e que, uma vez concluído o desarmamento, \"as forças israelitas retirarão\" de Gaza.",
+      "title": "Petróleo volta a cair para os 85 dólares por barril. Ouro vai fechar mês com valorização",
+      "summary": "Acompanhe, ao minuto, a evolução dos mercados desta sexta-feira.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 31 Jul 2026 00:30:27 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/trump-anuncia-acordo-para-desarmamento-total-do-hamas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-17-07-09-56-526772.jpg",
+      "date": "Fri, 31 Jul 2026 09:04:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/indice-da-coreia-do-sul-arrasa-em-sessao-mista-na-asia-europa-aponta-para-abertura-em-alta",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-26-08-18-30-515243.jpg",
       "score": 0.73
     },
     {
-      "id": "6d8743d6",
-      "cat": "tecnologia",
-      "title": "Ainda se lembra de 2014?",
-      "summary": "Para quem já não tem memória, houve um mecanismo desenhado para financiar as medidas de resolução do BES, em 2014, do Banif, em 2015, e o mecanismo de capital contingente do Novo Banco e, ao mesmo tempo, evitar criar uma sobrecarga excessiva num setor depauperado num período crítico da nossa economi",
+      "id": "8473ea8e",
+      "cat": "economia",
+      "title": "Lucro líquido da Sony cresceu 32,1% no primeiro trimestre fiscal",
+      "summary": "O relatório financeiro da Sony refere também uma \"revisão em alta da previsão para o ano fiscal completo\", impulsionada pelo segmento dos videojogos.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 30 Jul 2026 23:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/ainda-se-lembra-de-2014",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
+      "date": "Fri, 31 Jul 2026 08:36:47 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/lucro-liquido-da-sony-cresceu-32-1-no-primeiro-trimestre-fiscal",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-05-07-13-35-517875.jpg",
       "score": 0.73
     },
     {
-      "id": "47a8fa24",
+      "id": "3c60eaff",
       "cat": "tecnologia",
-      "title": "Nuno Melo diz que TdC e PGR podem integrar entidade que fiscalizará investimentos em Defesa",
-      "summary": "O ministro esclareceu que estes dois órgãos não vão integrar a Comissão de Acompanhamento dos Investimentos na Defesa (CAID), uma estrutura responsável por monitorizar a execução dos investimentos no âmbito do Instrumento de Ação para a Segurança da Europa (SAFE), mas sim uma outra entidade de fisca",
+      "title": "Grupo EDP e BCP animam bolsa de Lisboa. Ren cai após apresentação de resultados",
+      "summary": "Fora do índice principal, os títulos da Pharol seguem em queda após a apresentação de um milhão de euros de prejuízo no primeiro semestre.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 30 Jul 2026 22:55:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/nuno-melo-diz-que-tc-e-pgr-podem-integrar-entidade-que-fiscalizara-investimentos-em-defesa",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-07-10-01-11-524925.jpg",
+      "date": "Fri, 31 Jul 2026 08:27:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/grupo-edp-e-bcp-animam-bolsa-de-lisboa-ren-cai-apos-apresentacao-de-resultados",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-09/img_100x100uu2024-09-27-23-24-13-486247.jpg",
       "score": 0.73
     },
     {
@@ -168,47 +157,25 @@
       "score": 0.73
     },
     {
-      "id": "4a857bbd",
-      "cat": "tecnologia",
-      "title": "FC Porto quer iniciar época com conquista da Supertaça",
-      "summary": "Os dragões ainda não fecharam a equipa para a nova temporada, mas é a continuidade de Diogo Costa a maior preocupação.",
-      "source": "RTP",
-      "date": "Thu, 30 Jul 2026 22:06:54 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/fc-porto-quer-iniciar-epoca-com-conquista-da-supertaca_v1756865",
-      "img": "https://cdn-images.rtp.pt/icm/images/7a/7a89ffac519e024c413fc3713d47ffd6_N.jpg?",
+      "id": "6615778f",
+      "cat": "economia",
+      "title": "Grupo Mello abandona projeto de 492 milhões para refinaria de lítio",
+      "summary": "O grupo José de Mello desistiu do projeto industrial para instalar uma refinaria de lítio em Estarreja, um investimento que deveria rondar os 492 milhões de euros e que já tinha assegurados 180 milhões de euros em apoios públicos no início deste ano. Salvador de Mello, CEO da empresa, anunciou ao Ex",
+      "source": "ECO",
+      "date": "Fri, 31 Jul 2026 08:57:16 +0000",
+      "url": "https://eco.sapo.pt/2026/07/31/grupo-mello-abandona-projeto-de-492-milhoes-para-refinaria-de-litio/",
+      "img": "https://eco.imgix.net/uploads/2024/10/cropped-salvador-de-mello-1578.jpg",
       "score": 0.73
     },
     {
-      "id": "e4187bcc",
-      "cat": "tecnologia",
-      "title": "Spinumviva. ERC considera que Correio da Manhã e News Now violaram “deveres de rigor”",
-      "summary": "O Conselho Regulador da Entidade Reguladora para a Comunicação Social (ERC) deliberou esta quinta-feira que o Correio da Manhã, CMTV e News Now violaram os &#8220;deveres de rigor informativo&#8221; em peças sobre a empresa familiar do primeiro-ministro, Luís Montenegro. Em 1 de maio, os meios de co",
-      "source": "ECO",
-      "date": "Thu, 30 Jul 2026 20:19:06 +0000",
-      "url": "https://eco.sapo.pt/2026/07/30/spinumviva-erc-considera-que-cm-e-news-now-violaram-deveres-de-rigor/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-13770154-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "b7fcfe24",
-      "cat": "tecnologia",
-      "title": "Passos Coelho diz que Governo tem “intenção clara reformista” mas ritmo devia ser mais intenso",
-      "summary": "O ex-primeiro-ministro Pedro Passos Coelho elogiou esta quinta-feira a “intenção clara reformista” do Governo, mas admitiu que preferia “que houvesse um ritmo mais intenso”. “Eu julgo que o Governo tem, no seu programa, assumido uma intenção clara reformista”, considerou Passos Coelho, à margem da a",
-      "source": "ECO",
-      "date": "Thu, 30 Jul 2026 20:06:10 +0000",
-      "url": "https://eco.sapo.pt/2026/07/30/passos-coelho-diz-que-governo-tem-intencao-clara-reformista-mas-ritmo-devia-ser-mais-intenso/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-46700404-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "aeb6a792",
-      "cat": "tecnologia",
-      "title": "OPA à Ercros. Montenegro “satisfeito por ver uma empresa portuguesa comprar uma espanhola”",
-      "summary": "Quatro meses depois de a Bondalti ter conseguido comprar mais de 77% do capital da gigante espanhola Ercros, numa operação longa e complexa, que envolveu a diplomacia portuguesa, o primeiro-ministro Luís Montenegro mostrou-se &#8220;satisfeito por ver uma empresa portuguesa a adquirir uma espanhola&",
-      "source": "ECO",
-      "date": "Thu, 30 Jul 2026 19:13:34 +0000",
-      "url": "https://eco.sapo.pt/2026/07/30/opa-da-ercros-montenegro-satisfeito-por-ver-uma-empresa-portuguesa-comprar-uma-espanhola/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-whatsapp-image-2026-07-30-at-191258.jpeg",
+      "id": "19e5463a",
+      "cat": "sociedade",
+      "title": "A fome global cai abaixo de 8% pela primeira vez desde a pandemia",
+      "summary": "Pelo terceiro ano consecutivo, a fome global, medida pela desnutrição entre as populações continentais, diminuiu. É também a primeira vez que a percentagem de subnutridos na população mundial cai para menos de 8% desde que o encerramento de empresas imposto pelo governo e as interrupções no fornecimento resultaram em",
+      "source": "Good News Network",
+      "date": "Thu, 30 Jul 2026 13:00:30 +0000",
+      "url": "https://www.goodnewsnetwork.org/global-hunger-falls-below-8-for-the-first-time-since-the-pandemic/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/The-most-impressive-reductions-in-hunger-were-observed-in-Central-Asia-credit-Far-Chinberdiev-via-Unsplash.jpg",
       "score": 0.73
     },
     {
@@ -230,7 +197,7 @@
       "source": "BBC News",
       "date": "Thu, 30 Jul 2026 14:15:09 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e536/live/233a64d0-8c39-11f1-b8ee-9b3c26ad07bb.jpg",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bee/live/83ddad50-8cad-11f1-a1f4-f50057266998.jpg",
       "score": 0.73
     },
     {
@@ -330,6 +297,39 @@
       "date": "Thu, 30 Jul 2026 17:09:10 +0100",
       "url": "https://observador.pt/2026/07/30/promotores-saudam-adiamento-das-alteracoes-ao-rjue/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/29193443/ilacerda-casa-luxo-estoril79-scaled.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "0ee88c49",
+      "cat": "tecnologia",
+      "title": "Académico de Viseu com plantel “coeso e humilde” para iniciar na I Liga",
+      "summary": "O treinador do Académico de Viseu defendeu hoje, na apresentação pública dos atletas, que tem um “plantel coeso e humilde” para enfrentar a I Liga de futebol, escalão a que o clube regressa após 37 anos.",
+      "source": "RTP",
+      "date": "Fri, 31 Jul 2026 09:43:49 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/academico-de-viseu-com-plantel-coeso-e-humilde-para-iniciar-na-i-liga_d1756938",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.7
     }
   ]
