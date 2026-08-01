@@ -1,5 +1,5 @@
 {
-  "last_update": "31/07/2026 19:45 UTC",
+  "last_update": "01/08/2026 03:37 UTC",
   "total": 30,
   "news": [
     {
@@ -39,23 +39,12 @@
       "id": "8eb14acb",
       "cat": "tecnologia",
       "title": "A primeira reintrodução do tamanduá-bandeira do mundo parece estar tendo sucesso no Brasil",
-      "summary": "Já se passaram quase 20 anos desde que a Argentina lançou o que era na época a primeira tentativa do mundo de reintroduzir o tamanduá-bandeira em uma paisagem da qual ele havia desaparecido. 19 anos depois, e a iniciativa não foi nada senão um sucesso, com a população local a crescer de 0 para",
+      "summary": "Já se passaram quase 20 anos desde que a Argentina lançou o que era na época a primeira tentativa do mundo de reintroduzir o tamanduá-bandeira em uma paisagem da qual ele havia desaparecido. 19 anos depois, e a iniciativa não foi senão um sucesso, com a população local a crescer de 0 para",
       "source": "Good News Network",
       "date": "Thu, 30 Jul 2026 18:30:45 +0000",
       "url": "https://www.goodnewsnetwork.org/the-worlds-first-giant-anteater-reintroduction-appears-to-be-succeeding-in-brazil/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-mother-anteater-carrying-a-baby-on-her-back-credit-DJ-Cooker-iNaturalist-via-CC-4.0.-BY-e1785408829145.jpg",
       "score": 0.79
-    },
-    {
-      "id": "212cdd44",
-      "cat": "tecnologia",
-      "title": "Os povos originários da Austrália e a África do Sul no pedestal da Bienal de Dança de Veneza",
-      "summary": "Uma companhia de filiação aborígene, o Bangarra Dance Theatre, e a bailarina e coreógrafa sul-africana Mamela Nyamza foram, respectivamente, o Leão de Ouro e o Leão de Prata desta edição.",
-      "source": "Público",
-      "date": "Fri, 31 Jul 2026 18:00:00 GMT",
-      "url": "https://www.publico.pt/2026/07/31/culturaipsilon/noticia/povos-originarios-australia-africa-sul-pedestal-bienal-danca-veneza-2183157",
-      "img": null,
-      "score": 0.76
     },
     {
       "id": "7be349b4",
@@ -77,17 +66,6 @@
       "date": "Fri, 31 Jul 2026 19:26:29 +0000",
       "url": "https://eco.sapo.pt/2026/07/31/esta-e-a-chave-do-euromilhoes-jackpot-e-de-89-milhoes-de-euros/",
       "img": "https://eco.imgix.net/uploads/2020/05/cropped-pndr1637-2.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "eef667f0",
-      "cat": "tecnologia",
-      "title": "Media Capital fecha semestre com prejuízo de 1,6 milhões após investimento no Mundial e reforço na informação",
-      "summary": "A dona da TVI fechou o primeiro semestre com um prejuízo de 1,6 milhões de euros, montante que contrasta com o lucro de 14 mil euros no período homólogo. O EBITDA situou-se nos 3,67 milhões de euros, uma quebra de 27%, com uma margem de 4,3% (-1,8pp), e o resultado operacional foi negativo em 312 [&",
-      "source": "ECO",
-      "date": "Fri, 31 Jul 2026 17:32:25 +0000",
-      "url": "https://eco.sapo.pt/2026/07/31/media-capital-fecha-semestre-com-prejuizo-de-16-milhoes-apos-investimento-no-mundial-e-reforco-na-informacao/",
-      "img": "https://eco.imgix.net/uploads/2025/07/cropped-doc-20230511-40764096-pet_3910-2.jpg",
       "score": 0.76
     },
     {
@@ -124,36 +102,36 @@
       "score": 0.76
     },
     {
-      "id": "b86f5ccb",
-      "cat": "geral",
-      "title": "“Preocupado com a poltítica nacional”, Seguro pede rapidez nas investigações sobre Neves e gabinete de Ventura",
-      "summary": "Presidente da República garante que o primeiro-ministro sabe aquilo que Seguro pensa sobre a alegada vandalização e furto no gabinete de Ventura no Parlamento e as polémicas em torno de Luís Neves.",
+      "id": "30a2923a",
+      "cat": "tecnologia",
+      "title": "Os “teóricos” da educação também são a favor da inovação",
+      "summary": "Esta ruidosa cortina de fumo tecnológica abafa convenientemente a falta de discussão sobre um problema estrutural muito mais corrosivo: a continuada deriva facilitista dos exames portugueses. Opinião de Carlos Ceia",
       "source": "Público",
-      "date": "Fri, 31 Jul 2026 19:08:04 GMT",
-      "url": "https://www.publico.pt/2026/07/31/politica/noticia/preocupado-poltitica-nacional-seguro-pede-rapidez-investigacoes-neves-gabinete-ventura-2183721",
+      "date": "Fri, 31 Jul 2026 23:20:00 GMT",
+      "url": "https://www.publico.pt/2026/08/01/opiniao/opiniao/teoricos-educacao-tambem-sao-favor-inovacao-2183012",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "e3265951",
+      "id": "d2cc4c58",
       "cat": "tecnologia",
-      "title": "Media Capital registou prejuízos de 1,6 milhões de euros",
-      "summary": "\"O grupo esteve onde era preciso estar\": Media Capital registou gastos operacionais de 81 milhões. Produção Audiovisual subiu para 20,7 milhões de euros e foi um dos principais motores de crescimento.",
-      "source": "Observador",
-      "date": "Fri, 31 Jul 2026 19:45:44 +0100",
-      "url": "https://observador.pt/2026/07/31/media-capital-passa-de-lucro-a-prejuizos-de-16-milhoes-de-euros-no-1-o-semestre/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:808:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/03/01190616/22025319.jpeg",
+      "title": "China aprova expansão nuclear de 25 mil milhões para responder ao aumento da procura de energia",
+      "summary": "Em Março, o Governo chinês estabeleceu uma meta de 110 gigawatts de capacidade nuclear instalada até 2030 — um aumento de 76% em relação ao final do ano passado.",
+      "source": "Público",
+      "date": "Fri, 31 Jul 2026 22:54:59 GMT",
+      "url": "https://www.publico.pt/2026/07/31/azul/noticia/china-aprova-expansao-nuclear-25-mil-milhoes-responder-aumento-procura-energia-2183731",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "df3a893e",
+      "id": "540e6787",
       "cat": "tecnologia",
-      "title": "Faz sentido Portugal suspender acordo Schengen com Espanha?",
-      "summary": "Tânger Corrêa (CH) diz que portugueses e espanhóis não seriam afetados pelo fecho das fronteiras. Catarina Martins (BE) considera a proposta inútil, por já haver fiscalização à saída de Ceuta.",
+      "title": "Plano Nocional de Leitura (XLIX)",
+      "summary": "Quando no Cancioneiro Geral procuramos coisas parecidas com aquilo a que chamamos actualmente poesia quase só encontramos má poesia. Mais compensador é o que nos parece estapafúrdio.",
       "source": "Observador",
-      "date": "Fri, 31 Jul 2026 18:59:20 +0100",
-      "url": "https://observador.pt/programas/explicador/faz-sentido-portugal-suspender-acordo-schengen-com-espanha/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
+      "date": "Sat, 01 Aug 2026 00:20:25 +0100",
+      "url": "https://observador.pt/opiniao/plano-nocional-de-leitura-xlix/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2313%3A2313%3Anowe%3A872%3A15%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151127%2Fjporfirio-retratos-redacao-2026-01-67-scaled.jpg",
       "score": 0.73
     },
     {
@@ -190,6 +168,28 @@
       "score": 0.73
     },
     {
+      "id": "37cd7c67",
+      "cat": "desporto",
+      "title": "FC Porto \"na melhor forma possível\" para a Supertaça",
+      "summary": "Francesco Farioli afirma que o FC Porto chega à Supertaça Cândido de Oliveira na melhor forma possível para conquistar o troféu.",
+      "source": "RTP",
+      "date": "Fri, 31 Jul 2026 23:34:16 +0100",
+      "url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-na-melhor-forma-possivel-para-a-supertaca_d1757120",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/81/819e2baae2bb3b14f22a1e7cdd867c59?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "224e6309",
+      "cat": "tecnologia",
+      "title": "Domínio caseiro no Rali da Madeira depois de problemas dos favoritos",
+      "summary": "O madeirense Miguel Nunes (Skoda Fabia) terminou a primeira etapa do Rali da Madeira na liderança, com 15,2 segundos de vantagem sobre Armindo Araújo (Skoda Fabia), primeiro entre os pilotos do Campeonato de Portugal de Ralis.",
+      "source": "RTP",
+      "date": "Fri, 31 Jul 2026 22:53:02 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/dominio-caseiro-no-rali-da-madeira-depois-de-problemas-dos-favoritos_d1757108",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/69/69d386cf9b756c89759fca1cd701fefb?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "38f66ee5",
       "cat": "tecnologia",
       "title": "Infantino acusado de enganar administração da FIFA",
@@ -201,47 +201,47 @@
       "score": 0.73
     },
     {
-      "id": "9c07b216",
+      "id": "6b8bd122",
       "cat": "tecnologia",
-      "title": "Levantada a suspensão de Mudryk",
-      "summary": "O ucraniano Mykhailo Mudryk foi autorizado a voltar a competir pelo Chelsea, após um acordo com Agência Mundial Antidopagem, anunciou a Federação Inglesa de Futebol.",
-      "source": "RTP",
-      "date": "Fri, 31 Jul 2026 20:06:06 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/levantada-a-suspensao-de-mudryk_d1757075",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/74/749442b9f4cb09ce12a11ba14fbe40b0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "1848501a",
-      "cat": "desporto",
-      "title": "Futsal do Sporting contrata pivô Felipe Rufino",
-      "summary": "O pivô brasileiro Felipe Rufino, proveniente do Joinville EC, é o mais recente reforço da equipa de futsal do campeão europeu em título Sporting, anunciou o clube leonino.",
-      "source": "RTP",
-      "date": "Fri, 31 Jul 2026 18:45:05 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/futsal-do-sporting-contrata-pivo-felipe-rufino_d1757057",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/fc/fca3d2d103a5af747cb759b824661a2d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "2d887a2a",
-      "cat": "tecnologia",
-      "title": "Seguro pede conclusões rápidas no caso Luís Neves e que se preserve a “dignidade” das instituições",
-      "summary": "O Presidente da República assinalou esta sexta-feira a responsabilidade dos órgãos de soberania na preservação da dignidade das instituições e pediu um rápido &#8220;apuramento de responsabilidades&#8221; no inquérito do Ministério Público às polémicas com o ministro da Administração Interna. “O sen",
+      "title": "Sonae Sierra e Norges Bank compram oito centros comerciais em Espanha",
+      "summary": "A Sonae Sierra, em parceria com o norueguês Norges Bank Investment Management (NBIM), comprou oito centros comerciais da família Balkany, agrupados sob a Sociedad General Inmobiliaria de España (LSGIE). A Sonae Sierra fica com uma participação minoritária de 8%, por 120 milhões de euros, enquanto a ",
       "source": "ECO",
-      "date": "Fri, 31 Jul 2026 19:06:36 +0000",
-      "url": "https://eco.sapo.pt/2026/07/31/seguro-pede-rapido-apuramento-de-responsabilidades-no-caso-luis-neves/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc2026070647417262jc02110913.jpg",
+      "date": "Fri, 31 Jul 2026 21:00:25 +0000",
+      "url": "https://eco.sapo.pt/2026/07/31/sonae-sierra-e-norges-bank-compram-oito-centros-comerciais-em-espanha/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-claudia-azevedo-ceo-sonae-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c2e07244",
+      "cat": "tecnologia",
+      "title": "Montenegro garante que Luís Neves está disponível para esclarecer o parlamento",
+      "summary": "«Tenho a certeza absoluta que o ministro da Administração Interna, como qualquer outro ministro do Governo, estão disponíveis para o escrutínio político, nomeadamente em sede parlamentar», afirmou primeiro-ministro à margem da cerimónia comemorativa dos 120 anos da Associação Comercial e Industrial ",
+      "source": "ECO",
+      "date": "Fri, 31 Jul 2026 19:59:59 +0000",
+      "url": "https://eco.sapo.pt/2026/07/31/montenegro-garante-que-luis-neves-esta-disponivel-para-esclarecer-o-parlamento/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47473336-scaled-1.jpg",
       "score": 0.73
     },
     {
       "id": "19e5463a",
       "cat": "sociedade",
       "title": "A fome global cai abaixo de 8% pela primeira vez desde a pandemia",
-      "summary": "Pelo terceiro ano consecutivo, a fome global, medida pela desnutrição entre as populações continentais, diminuiu. É também a primeira vez que a percentagem de subnutridos na população mundial cai para menos de 8% desde que o encerramento de empresas imposto pelo governo e as interrupções no fornecimento resultaram em",
+      "summary": "Pelo terceiro ano consecutivo, a fome global, medida pela desnutrição entre as populações continentais, diminuiu. É também a primeira vez que a percentagem de pessoas subnutridas na população mundial cai para menos de 8% desde que o encerramento de empresas imposto pelo governo e as interrupções no fornecimento resultaram em",
       "source": "Good News Network",
       "date": "Thu, 30 Jul 2026 13:00:30 +0000",
       "url": "https://www.goodnewsnetwork.org/global-hunger-falls-below-8-for-the-first-time-since-the-pandemic/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/The-most-impressive-reductions-in-hunger-were-observed-in-Central-Asia-credit-Far-Chinberdiev-via-Unsplash.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "8d46982e",
+      "cat": "cultura",
+      "title": "A obsessão de toda a vida do cientista com o mistério da indescritível alga marinha 'zebra rosa'",
+      "summary": "Uma alga antiga avistada pela primeira vez há quatro décadas irá agora juntar-se à coleção do Museu de História Natural.",
+      "source": "BBC News",
+      "date": "Fri, 31 Jul 2026 23:43:10 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/4ad75cf0-8cc5-11f1-a7ab-8b30adf0800a.jpg",
       "score": 0.73
     },
     {
@@ -264,17 +264,6 @@
       "date": "Fri, 31 Jul 2026 05:09:42 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0040/live/ba1ceac0-8b5e-11f1-b422-3b36120ef864.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "39acda8f",
-      "cat": "tecnologia",
-      "title": "Os baixos níveis recorde do Danúbio forçam o encerramento da única central nuclear da Hungria",
-      "summary": "A Roménia, a Bulgária e a Sérvia também enfrentam os efeitos de uma série de ondas de calor prolongadas e de pouca pluviosidade.",
-      "source": "BBC News",
-      "date": "Thu, 30 Jul 2026 17:55:24 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/97441f30-8c37-11f1-b2ab-0dd01740f9f6.jpg",
       "score": 0.73
     },
     {
@@ -322,14 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "8daada21",
+      "id": "68925e49",
       "cat": "tecnologia",
-      "title": "O que levou milhares a lançarem-se à água para chegar a Ceuta?",
-      "summary": "O Supremo espanhol decidiu que quem chegar a nado a Espanha não pode ser repatriado rapidamente. As “máfias de traficantes de seres humanos” terão convencido os migrantes disso. Mas não é bem assim.",
+      "title": "FIFA abandona plano de vender Mundial de futebol após resistência dos membros",
+      "summary": "A FIFA afirma que não dará seguimento ao projecto, após a forte oposição, liderada pela UEFA. Decisão chega após saída de conselheiro sénior de Gianni Infantino.",
       "source": "Público",
-      "date": "Fri, 31 Jul 2026 19:10:00 GMT",
-      "url": "https://www.publico.pt/2026/07/31/mundo/noticia/levou-milhares-lancaremse-agua-chegar-ceuta-2183685",
+      "date": "Sat, 01 Aug 2026 00:27:28 GMT",
+      "url": "https://www.publico.pt/2026/08/01/desporto/noticia/fifa-abandona-plano-vender-mundial-futebol-apos-resistencia-membros-2183735",
       "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "2ea6533e",
+      "cat": "tecnologia",
+      "title": "As notícias das 3h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sat, 01 Aug 2026 03:17:41 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2392/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
