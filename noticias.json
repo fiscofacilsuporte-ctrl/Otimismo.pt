@@ -1,5 +1,5 @@
 {
-  "last_update": "01/08/2026 08:30 UTC",
+  "last_update": "01/08/2026 13:44 UTC",
   "total": 30,
   "news": [
     {
@@ -47,28 +47,6 @@
       "score": 0.79
     },
     {
-      "id": "7be349b4",
-      "cat": "tecnologia",
-      "title": "Media Capital passa a prejuízos de 1,6 milhões no primeiro semestre",
-      "summary": "A dona da TVI registou um aumento dos gastos operacionais motivado pela \"cobertura reforçada dos grandes acontecimentos do semestre, a atualização salarial\" e o \"investimento extraordinário no Mundial FIFA 2026\"..",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 31 Jul 2026 19:00:48 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/media/detalhe/media-capital-passa-a-prejuizos-de-1-6-milhoes-no-primeiro-semestre",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-07/img_100x100uu2024-07-22-20-09-13-481903.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "dc5038c7",
-      "cat": "tecnologia",
-      "title": "Esta é a chave do Euromilhões. Jackpot é de 89 milhões de euros",
-      "summary": "Com um primeiro prémio no valor de 89 milhões de euros, decorreu sexta-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta sexta-feira, 31 de julho: Números: 10, 24, 25, 31 ",
-      "source": "ECO",
-      "date": "Fri, 31 Jul 2026 19:26:29 +0000",
-      "url": "https://eco.sapo.pt/2026/07/31/esta-e-a-chave-do-euromilhoes-jackpot-e-de-89-milhoes-de-euros/",
-      "img": "https://eco.imgix.net/uploads/2020/05/cropped-pndr1637-2.jpg",
-      "score": 0.76
-    },
-    {
       "id": "475ad53e",
       "cat": "ciencia",
       "title": "Cientistas desenvolvem enzima para limitar o impacto ambiental dos resíduos de minas, testes em andamento",
@@ -102,47 +80,36 @@
       "score": 0.76
     },
     {
-      "id": "d9f2a72e",
+      "id": "e50fcfbf",
       "cat": "tecnologia",
-      "title": "Reino Unido também vai tratar depressões resistentes com cetamina e psicoterapia",
-      "summary": "Modelo de tratamento combina cetamina e psicoterapia, à semelhança da experiência testada no Hospital de Júlio de Matos, em Lisboa, e que já é utilizada em cinco hospitais portugueses.",
+      "title": "Embraer, dona da portuguesa OGMA, pode enfrentar Airbus e Boeing no futuro",
+      "summary": "Francisco Gomes Neto, CEO da Embraer, terceira maior fabricante de jatos comerciais no mundo, vê uma oportunidade de “crescimento substancial” pela frente, e os investidores concordam.",
       "source": "Público",
-      "date": "Sat, 01 Aug 2026 07:13:00 GMT",
-      "url": "https://www.publico.pt/2026/08/01/sociedade/noticia/reino-unido-tambem-vai-tratar-depressoes-resistentes-cetamina-psicoterapia-2183706",
+      "date": "Sat, 01 Aug 2026 13:15:41 GMT",
+      "url": "https://www.publico.pt/2026/08/01/publico-brasil/noticia/embraer-dona-portuguesa-ogma-enfrentar-airbus-boeing-futuro-2183759",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "379e79d5",
+      "id": "b62436a6",
       "cat": "tecnologia",
-      "title": "6h. Incêndio em Valpaços entra em fase de resolução",
-      "summary": "Ainda assim no terreno estão mais de 800 operacionais. Ainda neste jornal, O FC Porto e o Torreense jogam hoje a taça Cândido de Oliveira.",
-      "source": "Observador",
-      "date": "Sat, 01 Aug 2026 06:16:33 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2451/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Complemento Solidário para Idosos abrange mais 105 mil beneficiários em dois anos",
+      "summary": "Ministério do Trabalho, Solidariedade e Segurança Social diz que em Junho se registou o “número mais elevado de beneficiários de sempre”: 245 mil, sendo que 220 mil tiveram medicamentos gratuitos.",
+      "source": "Público",
+      "date": "Sat, 01 Aug 2026 10:49:57 GMT",
+      "url": "https://www.publico.pt/2026/08/01/sociedade/noticia/complemento-solidario-idosos-abrange-105-mil-beneficiarios-dois-anos-2183746",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "cd0797f9",
-      "cat": "economia",
-      "title": "Seguro quer rápido \"apuramento de responsabilidades\" no caso de Luís Neves",
-      "summary": "O Presidente da República pede a preservação da dignidade das instituições no inquérito do Ministério Público às polémicas com o ministro da Administração Interna.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 31 Jul 2026 20:19:17 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/seguro-quer-rapido-apuramento-de-responsabilidades-no-caso-de-luis-neves",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-21-07-51-17-526941.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "504e424a",
+      "id": "6e532b4b",
       "cat": "tecnologia",
-      "title": "Martifer chega a acordo sobre litígio na Escócia. Paga 10,5 milhões",
-      "summary": "A empresa mantinha um diferendo sobre uma empreitada num centro de espetáculos em Glasgow, relacionado “com alegados defeitos em obras realizadas”. Pagamento não inclui admissão de responsabilidades.",
+      "title": "Domingos Vieira de Matos: O homem que, ainda jovem, chegou a Timor e viu um mundo de negócios",
+      "summary": "Começou nas madeiras e na produção de mobiliário de escritório e tem hoje participação em meia centena de empresas, da pasta de papel à procriação medicamente assistida e à cadeia dos melhores hambúrgueres do mundo. Mas a veia para o negócio começou cedo: aos 12 anos já alugava revistas do “Tio Pati",
       "source": "Jornal de Negócios",
-      "date": "Fri, 31 Jul 2026 19:54:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/martifer-chega-a-acordo-sobre-litigio-na-escocia-paga-10-5-milhoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-19-16-58-49-520734.png",
+      "date": "Sat, 01 Aug 2026 12:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/domingos-vieira-de-matos-o-homem-que-ainda-jovem-chegou-a-timor-e-viu-um-mundo-de-negocios",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-21-28-16-527564.jpg",
       "score": 0.73
     },
     {
@@ -190,25 +157,25 @@
       "score": 0.73
     },
     {
-      "id": "6b8bd122",
+      "id": "3edc827a",
       "cat": "tecnologia",
-      "title": "Sonae Sierra e Norges Bank compram oito centros comerciais em Espanha",
-      "summary": "A Sonae Sierra, em parceria com o norueguês Norges Bank Investment Management (NBIM), comprou oito centros comerciais da família Balkany, agrupados sob a Sociedad General Inmobiliaria de España (LSGIE). A Sonae Sierra fica com uma participação minoritária de 8%, por 120 milhões de euros, enquanto a ",
+      "title": "O fenómeno MrBeast: A história de Jimmy Donaldson, o criador de conteúdos que quer fazer a próxima Disney",
+      "summary": "MrBeast tornou-se o rosto de uma nova geração de criadores de conteúdo que já não se limita ao YouTube. À medida que realizadores como Kane Parsons (Backrooms) e Curry Barker (Obsession) levam o sucesso da plataforma para o cinema de Hollywood, o maior youtuber do mundo constrói um império que se es",
       "source": "ECO",
-      "date": "Fri, 31 Jul 2026 21:00:25 +0000",
-      "url": "https://eco.sapo.pt/2026/07/31/sonae-sierra-e-norges-bank-compram-oito-centros-comerciais-em-espanha/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-claudia-azevedo-ceo-sonae-1.jpg",
+      "date": "Sat, 01 Aug 2026 11:02:18 +0000",
+      "url": "https://eco.sapo.pt/2026/08/01/o-fenomeno-mrbeast-a-historia-de-jimmy-donaldson-o-criador-de-conteudos-que-quer-fazer-a-proxima-disney/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-beastgames-s2-ut-203-250616-holdav-00225rc-3000-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "c2e07244",
+      "id": "79cbe619",
       "cat": "tecnologia",
-      "title": "Montenegro garante que Luís Neves está disponível para esclarecer o parlamento",
-      "summary": "«Tenho a certeza absoluta que o ministro da Administração Interna, como qualquer outro ministro do Governo, estão disponíveis para o escrutínio político, nomeadamente em sede parlamentar», afirmou primeiro-ministro à margem da cerimónia comemorativa dos 120 anos da Associação Comercial e Industrial ",
+      "title": "Novas regras para taxa de esforço no crédito à habitação entram em vigor",
+      "summary": "As novas diretrizes do Banco de Portugal (BdP) para a concessão de crédito à habitação entram hoje em vigor, prevendo regras mais exigentes em relação à aplicação da taxa de esforço para a aprovação dos empréstimos. A nova recomendação substitui uma anterior, de 01 de julho de 2018, estabelecendo co",
       "source": "ECO",
-      "date": "Fri, 31 Jul 2026 19:59:59 +0000",
-      "url": "https://eco.sapo.pt/2026/07/31/montenegro-garante-que-luis-neves-esta-disponivel-para-esclarecer-o-parlamento/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47473336-scaled-1.jpg",
+      "date": "Sat, 01 Aug 2026 09:21:34 +0000",
+      "url": "https://eco.sapo.pt/2026/08/01/novas-regras-para-taxa-de-esforco-no-credito-a-habitacao-entram-em-vigor/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-45445291-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -300,36 +267,69 @@
       "score": 0.73
     },
     {
-      "id": "203e75c8",
+      "id": "a9d5f614",
       "cat": "tecnologia",
-      "title": "Cinco restaurantes com o pé na areia",
-      "summary": "Os restaurantes de praia não são novidade. Quem nunca provou um peixe grelhado com os pés praticamente na areia? Ultimamente, as ofertas começam a ser diferentes. Eis cinco exemplos, de norte a sul.",
+      "title": "Mau tempo: Autarquias descontentes com falta de verbas. Fundo de Emergência Municipal arranca este sábado",
+      "summary": "Há casos de câmaras que recorreram a empréstimos bancários. Seis meses depois das tempestades de Janeiro e Fevereiro, existem 25 pessoas desalojadas e cinco estradas nacionais cortadas ao trânsito.",
       "source": "Público",
-      "date": "Sat, 01 Aug 2026 08:10:00 GMT",
-      "url": "https://www.publico.pt/2026/08/01/fugas/noticia/cinco-restaurantes-pe-areia-2183113",
+      "date": "Sat, 01 Aug 2026 12:14:31 GMT",
+      "url": "https://www.publico.pt/2026/08/01/politica/noticia/mau-tempo-autarquias-descontentes-falta-verbas-fundo-emergencia-municipal-arranca-sabado-2183751",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "90b4422a",
+      "id": "e31c4deb",
       "cat": "tecnologia",
-      "title": "Do livro ao território: diáspora, corpo e pertencimento",
-      "summary": "Uma rede de mulheres reconhecia e apreciava talentos que nem sempre nos sentimos à vontade para deixar vir à flor da pele. Opinião de Vivien Merciel Suarez",
-      "source": "Público",
-      "date": "Sat, 01 Aug 2026 07:42:15 GMT",
-      "url": "https://www.publico.pt/2026/08/01/publico-brasil/opiniao/livro-territorio-diaspora-corpo-pertencimento-2183740",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "c25bd2da",
-      "cat": "tecnologia",
-      "title": "Europa \"aperta a malha\" à segurança da IA",
-      "summary": "Nova legislação de segurança de IA entra em vigor este mês. A Europa quer mais atenção e segurança em tudo o que envolva inteligência Artificial. O que muda com este novo AI Act que mexe com Portugal?",
+      "title": "As notícias das 14h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sat, 01 Aug 2026 06:06:33 +0100",
-      "url": "https://observador.pt/programas/m-quinas-que-pensam/europa-aperta-a-malha-a-seguranca-da-ia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg",
+      "date": "Sat, 01 Aug 2026 14:13:11 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2431/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "b5bcaaf9",
+      "cat": "geral",
+      "title": "11 anos depois, o adeus: António Silva no Bournemouth",
+      "summary": "Últimos dois jogos foram uma amostra fiel do percurso como profissional: jogou apenas no Benfica. Do Seixal surgiram muitos nomes, que já saíram da Luz. António foi sempre ficando – até este sábado.",
+      "source": "Observador",
+      "date": "Sat, 01 Aug 2026 14:10:02 +0100",
+      "url": "https://observador.pt/2026/08/01/11-anos-depois-o-adeus-antonio-silva-o-benfiquista-doente-que-viu-nos-adeptos-os-seus-pares-assina-pelo-bournemouth/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3911:2202:nowe:0:65/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31190747/gettyimages-2287651069.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "5b234039",
+      "cat": "tecnologia",
+      "title": "Mau tempo: 5 estradas nacionais continuam cortadas",
+      "summary": "Várias estradas nacionais nos distritos de Leiria e Lisboa continuam cortadas ao trânsito, seis meses depois de as tempestades de janeiro e fevereiro terem provocado estragos nas vias.",
+      "source": "Observador",
+      "date": "Sat, 01 Aug 2026 14:02:10 +0100",
+      "url": "https://observador.pt/2026/08/01/cinco-estradas-nacionais-continuam-cortadas-nos-distritos-de-lisboa-e-leiria-seis-meses-apos-tempestades/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/18192319/46990314.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "b047a071",
+      "cat": "sociedade",
+      "title": "Governo diz que \"muitos portugueses\" perderam casa e negócio com incêndios em França",
+      "summary": "O secretário de Estado das Comunidades Portuguesas garantiu hoje que não recebeu qualquer pedido de ajuda, mas sabe que \"há muitos portugueses\" que perderam a casa e o negócio devido aos incêndios na zona de Bordéus, França.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 01 Aug 2026 13:10:09 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/governo-diz-que-muitos-portugueses-perderam-casa-e-negocio-com-incendios-em-franca",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-29-11-41-15-527414.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "e4804bc2",
+      "cat": "tecnologia",
+      "title": "Couvert: o regresso silencioso de Calhau",
+      "summary": "Leopoldo Garcia Calhau descreve o Couvert como um espaço para eventos “com uma arquitetura própria, tradicional e simples, acolhedor, para se passar um bom tempo à conversa, a beber e a comer, a conviver”.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 01 Aug 2026 13:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/couvert-o-regresso-silencioso-de-calhau",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-23-14-28-527565.png",
       "score": 0.7
     }
   ]
