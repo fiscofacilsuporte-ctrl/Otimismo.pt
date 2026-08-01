@@ -1,5 +1,5 @@
 {
-  "last_update": "01/08/2026 03:37 UTC",
+  "last_update": "01/08/2026 08:30 UTC",
   "total": 30,
   "news": [
     {
@@ -102,36 +102,25 @@
       "score": 0.76
     },
     {
-      "id": "30a2923a",
+      "id": "d9f2a72e",
       "cat": "tecnologia",
-      "title": "Os “teóricos” da educação também são a favor da inovação",
-      "summary": "Esta ruidosa cortina de fumo tecnológica abafa convenientemente a falta de discussão sobre um problema estrutural muito mais corrosivo: a continuada deriva facilitista dos exames portugueses. Opinião de Carlos Ceia",
+      "title": "Reino Unido também vai tratar depressões resistentes com cetamina e psicoterapia",
+      "summary": "Modelo de tratamento combina cetamina e psicoterapia, à semelhança da experiência testada no Hospital de Júlio de Matos, em Lisboa, e que já é utilizada em cinco hospitais portugueses.",
       "source": "Público",
-      "date": "Fri, 31 Jul 2026 23:20:00 GMT",
-      "url": "https://www.publico.pt/2026/08/01/opiniao/opiniao/teoricos-educacao-tambem-sao-favor-inovacao-2183012",
+      "date": "Sat, 01 Aug 2026 07:13:00 GMT",
+      "url": "https://www.publico.pt/2026/08/01/sociedade/noticia/reino-unido-tambem-vai-tratar-depressoes-resistentes-cetamina-psicoterapia-2183706",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "d2cc4c58",
+      "id": "379e79d5",
       "cat": "tecnologia",
-      "title": "China aprova expansão nuclear de 25 mil milhões para responder ao aumento da procura de energia",
-      "summary": "Em Março, o Governo chinês estabeleceu uma meta de 110 gigawatts de capacidade nuclear instalada até 2030 — um aumento de 76% em relação ao final do ano passado.",
-      "source": "Público",
-      "date": "Fri, 31 Jul 2026 22:54:59 GMT",
-      "url": "https://www.publico.pt/2026/07/31/azul/noticia/china-aprova-expansao-nuclear-25-mil-milhoes-responder-aumento-procura-energia-2183731",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "540e6787",
-      "cat": "tecnologia",
-      "title": "Plano Nocional de Leitura (XLIX)",
-      "summary": "Quando no Cancioneiro Geral procuramos coisas parecidas com aquilo a que chamamos actualmente poesia quase só encontramos má poesia. Mais compensador é o que nos parece estapafúrdio.",
+      "title": "6h. Incêndio em Valpaços entra em fase de resolução",
+      "summary": "Ainda assim no terreno estão mais de 800 operacionais. Ainda neste jornal, O FC Porto e o Torreense jogam hoje a taça Cândido de Oliveira.",
       "source": "Observador",
-      "date": "Sat, 01 Aug 2026 00:20:25 +0100",
-      "url": "https://observador.pt/opiniao/plano-nocional-de-leitura-xlix/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2313%3A2313%3Anowe%3A872%3A15%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151127%2Fjporfirio-retratos-redacao-2026-01-67-scaled.jpg",
+      "date": "Sat, 01 Aug 2026 06:16:33 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2451/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -241,7 +230,7 @@
       "source": "BBC News",
       "date": "Fri, 31 Jul 2026 23:43:10 GMT",
       "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/4ad75cf0-8cc5-11f1-a7ab-8b30adf0800a.jpg",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067d/live/adc26530-8d7e-11f1-b2ab-0dd01740f9f6.jpg",
       "score": 0.73
     },
     {
@@ -311,25 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "68925e49",
+      "id": "203e75c8",
       "cat": "tecnologia",
-      "title": "FIFA abandona plano de vender Mundial de futebol após resistência dos membros",
-      "summary": "A FIFA afirma que não dará seguimento ao projecto, após a forte oposição, liderada pela UEFA. Decisão chega após saída de conselheiro sénior de Gianni Infantino.",
+      "title": "Cinco restaurantes com o pé na areia",
+      "summary": "Os restaurantes de praia não são novidade. Quem nunca provou um peixe grelhado com os pés praticamente na areia? Ultimamente, as ofertas começam a ser diferentes. Eis cinco exemplos, de norte a sul.",
       "source": "Público",
-      "date": "Sat, 01 Aug 2026 00:27:28 GMT",
-      "url": "https://www.publico.pt/2026/08/01/desporto/noticia/fifa-abandona-plano-vender-mundial-futebol-apos-resistencia-membros-2183735",
+      "date": "Sat, 01 Aug 2026 08:10:00 GMT",
+      "url": "https://www.publico.pt/2026/08/01/fugas/noticia/cinco-restaurantes-pe-areia-2183113",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "2ea6533e",
+      "id": "90b4422a",
       "cat": "tecnologia",
-      "title": "As notícias das 3h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Do livro ao território: diáspora, corpo e pertencimento",
+      "summary": "Uma rede de mulheres reconhecia e apreciava talentos que nem sempre nos sentimos à vontade para deixar vir à flor da pele. Opinião de Vivien Merciel Suarez",
+      "source": "Público",
+      "date": "Sat, 01 Aug 2026 07:42:15 GMT",
+      "url": "https://www.publico.pt/2026/08/01/publico-brasil/opiniao/livro-territorio-diaspora-corpo-pertencimento-2183740",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "c25bd2da",
+      "cat": "tecnologia",
+      "title": "Europa \"aperta a malha\" à segurança da IA",
+      "summary": "Nova legislação de segurança de IA entra em vigor este mês. A Europa quer mais atenção e segurança em tudo o que envolva inteligência Artificial. O que muda com este novo AI Act que mexe com Portugal?",
       "source": "Observador",
-      "date": "Sat, 01 Aug 2026 03:17:41 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2392/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 01 Aug 2026 06:06:33 +0100",
+      "url": "https://observador.pt/programas/m-quinas-que-pensam/europa-aperta-a-malha-a-seguranca-da-ia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg",
       "score": 0.7
     }
   ]
