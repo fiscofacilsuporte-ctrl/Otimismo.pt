@@ -1,5 +1,5 @@
 {
-  "last_update": "02/08/2026 08:33 UTC",
+  "last_update": "02/08/2026 13:44 UTC",
   "total": 30,
   "news": [
     {
@@ -36,32 +36,21 @@
       "score": 0.82
     },
     {
-      "id": "001b7814",
-      "cat": "tecnologia",
-      "title": "Mário Campos assume liderança do Fisco após 11 anos de Helena Borges na direção",
-      "summary": "Aumentar o cumprimento voluntário, reforçar a confiança e a transparência, apostar na transformação digital, promover a resiliência organizacional e a sustentabilidade. Missões para o novo diretor-geral da Autoridade Tributária que inicia mandato de cinco anos.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 01 Aug 2026 15:01:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/mario-campos-assume-hoje-lideranca-do-fisco-apos-11-anos-de-helena-borges-na-direcao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-12-13-50-08-525122.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "376a3233",
-      "cat": "tecnologia",
-      "title": "Supertaça vai para o Porto",
-      "summary": "Um golo solitário de Victor Froholdt levou o FC Porto à conquista da Supertaça Cândido de Oliveira pela 25.ª vez, com uma vitória por 1-0 sobre o Torreense.",
-      "source": "RTP",
-      "date": "Sat, 01 Aug 2026 20:46:54 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/supertaca-vai-para-o-porto_d1757211",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ef/efc3aa6b55fd3f421970b392a9c2308d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.76
+      "id": "707028c6",
+      "cat": "ambiente",
+      "title": "A gata mais velha do mundo bebe apenas água mineral ao comemorar 31 anos",
+      "summary": "Um inglês diz que vive com o gato mais velho do mundo – uma carapaça de tartaruga nascida em 1995, o que a torna com 31 anos. A gatinha chamada Millie foi propriedade da falecida esposa de Leslie Greenhough, que a acolheu quando era uma gatinha de 3 meses de idade. Leslie disse à agência de notícias SWNS que a longa vida de Millie é",
+      "source": "Good News Network",
+      "date": "Sun, 02 Aug 2026 10:00:54 +0000",
+      "url": "https://www.goodnewsnetwork.org/worlds-oldest-cat-drinks-only-spring-water-as-she-turns-31/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Millie-the-cat-is-31-SWNS-owner-Leslie-Greenhough.jpeg",
+      "score": 0.79
     },
     {
       "id": "28f71279",
       "cat": "ciencia",
       "title": "Soprar bolhas permite que cachalotes durmam profundamente sob as ondas, revela estudo",
-      "summary": "Uma nova pesquisa mostra que soprar bolhas ajuda os cachalotes a dormir profundamente, escondidos sob as ondas. Na verdade, isso os impede de flutuar para a superfície durante a hora da soneca. Embora pouco se saiba sobre como os cachalotes dormem, os pesquisadores acreditam que os gigantes oceânicos cochilam debaixo d’água por 10 a 15 minutos.",
+      "summary": "Uma nova pesquisa mostra que soprar bolhas ajuda os cachalotes a dormir profundamente, escondidos sob as ondas. Na verdade, isso os impede de flutuar para a superfície durante a hora da soneca. Embora pouco se saiba sobre como os cachalotes dormem, os pesquisadores acreditam que os gigantes oceânicos cochilam debaixo d'água por 10 a 15 minutos.",
       "source": "Good News Network",
       "date": "Sat, 01 Aug 2026 17:23:26 +0000",
       "url": "https://www.goodnewsnetwork.org/blowing-bubbles-allows-sperm-whales-to-sleep-soundly-beneath-waves/",
@@ -80,10 +69,21 @@
       "score": 0.76
     },
     {
+      "id": "c2514c3a",
+      "cat": "ciencia",
+      "title": "O câncer pode estar quebrando seu próprio DNA para continuar crescendo",
+      "summary": "As células cancerosas dependem de interruptores genéticos poderosos para manter os genes de crescimento funcionando a toda velocidade, mas essa atividade intensa pode danificar o seu próprio DNA. As quebras resultantes são reparadas repetidamente, às vezes com pequenos erros que permitem o acúmulo de novas mutações. Os pesquisadores acreditam que esse problema autoinfligido",
+      "source": "ScienceDaily",
+      "date": "Sun, 02 Aug 2026 00:30:42 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm",
+      "img": "https://www.sciencedaily.com/images/1920/dna-mutation-genetic-damage.webp",
+      "score": 0.76
+    },
+    {
       "id": "415477ae",
       "cat": "ciencia",
       "title": "Magma superaquecido pode alimentar imponentes fontes de lava",
-      "summary": "Cientistas que estudam o magma da erupção Tajogaite de 2021 em La Palma descobriram que o calor extremo pode mudar drasticamente a forma como uma erupção se desenrola. Quando o magma fica superaquecido, ele pode dissolver as minúsculas sementes de cristal que normalmente desencadeiam a cristalização, permitindo que a rocha derretida permaneça livre.",
+      "summary": "Cientistas que estudam o magma da erupção Tajogaite de 2021 em La Palma descobriram que o calor extremo pode mudar drasticamente a forma como uma erupção se desenrola. Quando o magma fica superaquecido, ele pode dissolver as minúsculas sementes de cristal que normalmente desencadeiam a cristalização, permitindo que a rocha derretida permaneça firme.",
       "source": "ScienceDaily",
       "date": "Sat, 01 Aug 2026 02:38:28 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
@@ -91,26 +91,15 @@
       "score": 0.76
     },
     {
-      "id": "e61fceef",
-      "cat": "ciencia",
-      "title": "Cientistas descobrem como a obesidade pode alimentar a doença de Alzheimer",
-      "summary": "Os pesquisadores descobriram uma possível via biológica que liga a obesidade à doença de Alzheimer. A obesidade parece aumentar os níveis de certas moléculas de gordura que podem viajar para o cérebro, perturbar as suas defesas imunitárias e promover a acumulação prejudicial de amiloide. Corrigir esse desequilíbrio de gordura melhorou a memória e",
-      "source": "ScienceDaily",
-      "date": "Thu, 30 Jul 2026 22:52:57 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
-      "img": "https://www.sciencedaily.com/images/1920/obesity-and-brain.webp",
-      "score": 0.76
-    },
-    {
-      "id": "99096f34",
+      "id": "fb8d9eaf",
       "cat": "tecnologia",
-      "title": "Novo processo transforma resíduos de plástico em combustível de hidrogênio enquanto retém o carbono",
-      "summary": "Um novo processo químico pode transformar três dos plásticos mais comuns em hidrogênio de alta pureza sem separá-los primeiro. A técnica opera em temperaturas muito mais baixas do que a gaseificação tradicional e captura a maior parte do carbono do plástico na forma sólida ou líquida, em vez de liberá-lo como c.",
-      "source": "ScienceDaily",
-      "date": "Fri, 31 Jul 2026 08:46:18 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
-      "img": "https://www.sciencedaily.com/images/1920/thermal-treatment-process-transforms-plastic-waste-into-hydrogen-fuel.webp",
-      "score": 0.76
+      "title": "Omakase Wa em Lisboa: a beleza da imperfeição e a alegria de sermos humanos num balcão japonês",
+      "summary": "Um restaurante japonês recomendado pelo Guia Michelin em Lisboa tem à frente um chef nepalês que começou por lavar pratos e viu no sushi a forma de conquistar o respeito dos outros.",
+      "source": "Público",
+      "date": "Sun, 02 Aug 2026 11:21:00 GMT",
+      "url": "https://www.publico.pt/2026/08/02/fugas/reportagem/omakase-wa-lisboa-beleza-imperfeicao-alegria-sermos-humanos-balcao-japones-2183178",
+      "img": null,
+      "score": 0.73
     },
     {
       "id": "6125256a",
@@ -124,47 +113,36 @@
       "score": 0.73
     },
     {
-      "id": "037c5a3b",
+      "id": "709f85d4",
       "cat": "tecnologia",
-      "title": "Plano de Recuperação e Resiliência: quem te viu e quem te vê",
-      "summary": "António Costa Silva, o “pai” do PRR, critica Governo da AD por “desvirtuar” princípios do Plano de Recuperação e Resiliência, que acaba este mês e, em cinco anos, teve três orçamentos e sete revisões.",
-      "source": "Público",
-      "date": "Sun, 02 Aug 2026 07:06:00 GMT",
-      "url": "https://www.publico.pt/2026/08/02/economia/noticia/plano-recuperacao-resiliencia-viu-ve-2183779",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "22e29b66",
-      "cat": "tecnologia",
-      "title": "“A Albânia não está à venda”, mas há quem a queira vender e quem a queira comprar",
-      "summary": "Construção de complexo turístico de luxo de Ivanka Trump e Jared Kushner desencadeou uma vaga constante de protestos a favor da demissão do primeiro-ministro e contra a classe política",
-      "source": "Público",
-      "date": "Sun, 02 Aug 2026 07:00:00 GMT",
-      "url": "https://www.publico.pt/2026/08/02/mundo/noticia/albania-nao-venda-ha-queira-vender-queira-comprar-2183510",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "c480ee47",
-      "cat": "tecnologia",
-      "title": "3h. FC Porto vence a Supertaça Cândido de Oliveira",
-      "summary": "O técnico dos azuis e brancos admite que a vitória não foi fácil. Ainda, Espanha garante que o fluxo migratório em Ceuta foi estancado durante a última noite.",
+      "title": "12h. Incêndios em Vila Real entraram em fase resolução",
+      "summary": "A Proteção Civil explica que o incêndio de Valpaços está “controlado”, mas ainda não extinto. Ainda, o Governo espanhol eleva para 72 o número de migrantes que morreram a tentar chegar a Ceuta.",
       "source": "Observador",
-      "date": "Sun, 02 Aug 2026 03:14:34 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2393/",
+      "date": "Sun, 02 Aug 2026 12:13:57 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2404/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "6e532b4b",
+      "id": "04933a93",
       "cat": "tecnologia",
-      "title": "Domingos Vieira de Matos: O homem que, ainda jovem, chegou a Timor e viu um mundo de negócios",
-      "summary": "Começou nas madeiras e na produção de mobiliário de escritório e tem hoje participação em meia centena de empresas, da pasta de papel à procriação medicamente assistida e à cadeia dos melhores hambúrgueres do mundo. Mas a veia para o negócio começou cedo: aos 12 anos já alugava revistas do “Tio Pati",
+      "title": "OPEP+ chega a um acordo de princípio sobre pequeno aumento das quotas de petróleo",
+      "summary": "Informação foi confirmada por dois delegados da aliança. Sete membros do cartel do petróleo, encabeçados pela Arábia Saudita e Rússia, aceitar aumentar a venda coletiva em mais 188.000 barris por dia a partir de setembro.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 01 Aug 2026 12:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/domingos-vieira-de-matos-o-homem-que-ainda-jovem-chegou-a-timor-e-viu-um-mundo-de-negocios",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-21-28-16-527564.jpg",
+      "date": "Sun, 02 Aug 2026 11:26:28 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/opep-chega-a-um-acordo-de-principio-sobre-pequeno-aumento-das-quotas-de-petroleo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-02-11-23-00-527580.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "dee4fbdf",
+      "cat": "tecnologia",
+      "title": "Os principais rios da Europa estão a secar à medida que o impacto do calor extremo aumenta",
+      "summary": "Níveis de água no Reno e no Danúbio descem para mínimos históricos, o que começa a perturbar o transporte de produtos químicos, derivados de petróleo e outras mercadorias. Na Europa Ocidental, o custo da energia também está a disparar.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 02 Aug 2026 10:48:43 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/os-principais-rios-da-europa-estao-a-secar-a-medida-que-o-impacto-do-calor-extremo-aumenta",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-02-10-34-00-527575.jpg",
       "score": 0.73
     },
     {
@@ -176,6 +154,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "8eb0d273",
+      "cat": "tecnologia",
+      "title": "Jogadores do FC Porto querem continuidade de Diogo Costa",
+      "summary": "Com esta vitória, o FC Porto volta a ser o clube português com mais títulos (88). O Benfica tem 87 e o Sporting 57.",
+      "source": "RTP",
+      "date": "Sun, 02 Aug 2026 14:48:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/jogadores-do-fc-porto-querem-continuidade-de-diogo-costa_v1757302",
+      "img": "https://cdn-images.rtp.pt/icm/images/2f/2ff0bf6db7597c1ac21e7ea5e6456ba3_N.jpg?",
       "score": 0.73
     },
     {
@@ -201,6 +190,17 @@
       "score": 0.73
     },
     {
+      "id": "280f2640",
+      "cat": "tecnologia",
+      "title": "Fundo para a Mobilidade e Transportes com primeiros avisos",
+      "summary": "O Governo lançou os primeiros avisos de financiamento, num total de quase dois milhões de euros, para as áreas de logística urbana, mobilidade escolar e descarbonização do setor do táxi, no âmbito do Fundo para a Mobilidade e Transportes. Dos dois milhões de euros previstos, a logística urbana fica ",
+      "source": "ECO",
+      "date": "Sun, 02 Aug 2026 12:47:50 +0000",
+      "url": "https://eco.sapo.pt/2026/08/02/fundo-para-a-mobilidade-e-transportes-com-primeiros-avisos/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-29600837-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
       "id": "6f848d7c",
       "cat": "tecnologia",
       "title": "Hungria anuncia paragem sem precedentes de central nuclear devido a seca e calor",
@@ -220,28 +220,6 @@
       "date": "Sun, 02 Aug 2026 07:53:56 +0000",
       "url": "https://eco.sapo.pt/2026/08/02/montenegro-apoia-reuniao-de-ministros-da-uniao-europeia/",
       "img": "https://eco.imgix.net/uploads/2026/08/cropped-47549653-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "48a27ccc",
-      "cat": "tecnologia",
-      "title": "Ministros da UE reúnem-se terça-feira para discutir situação em Ceuta",
-      "summary": "Os ministros da Administração Interna da UE reúnem-se de emergência, na terça-feira, para discutir a situação em Ceuta, território espanhol em Marrocos, ao qual, nos últimos dias, chegaram milhares de migrantes, foi hoje anunciado. A reunião vai decorrer por videoconferência, disse o primeiro-minist",
-      "source": "ECO",
-      "date": "Sat, 01 Aug 2026 21:51:04 +0000",
-      "url": "https://eco.sapo.pt/2026/08/01/ministros-da-ue-reunem-se-terca-feira-para-discutir-situacao-em-ceuta/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-47542523.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "e759cc3c",
-      "cat": "tecnologia",
-      "title": "Mars Rover descobre um campo misterioso de texturas de favo de mel no planeta vermelho: ‘Took Our Breath Away’",
-      "summary": "Quando o rover Curiosity da NASA subiu o vale marciano chamado Valle Grande em junho, enviou imagens de uma paisagem coberta por texturas semelhantes a favos de mel. “Vimos muitas paisagens fascinantes através dos olhos do Curiosity, mas este mar de polígonos nos deixou sem fôlego”, disse o projeto da missão.",
-      "source": "Good News Network",
-      "date": "Sun, 02 Aug 2026 00:32:13 +0000",
-      "url": "https://www.goodnewsnetwork.org/mars-rover-discovers-mysterious-field-of-honeycomb-textures-on-red-planet/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/honeycomb-on-Mars-Curiosity-rover-NASA.jpg",
       "score": 0.73
     },
     {
@@ -278,6 +256,17 @@
       "score": 0.73
     },
     {
+      "id": "70ceb3d7",
+      "cat": "cultura",
+      "title": "A força secreta da matéria escura faz o oposto do que os cientistas esperavam",
+      "summary": "As partículas de matéria escura podem exercer uma força oculta umas sobre as outras, mas os seus efeitos são mais estranhos do que o esperado. Uma atração extra ajuda as partículas a aglomerarem-se, mas também torna a matéria escura efetivamente mais leve à medida que o Universo se expande. Isso enfraquece o seu impacto gravitacional e geralmente retarda o crescimento da",
+      "source": "ScienceDaily",
+      "date": "Sun, 02 Aug 2026 09:26:11 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
+      "img": "https://www.sciencedaily.com/images/1920/dark-matter-glow.webp",
+      "score": 0.73
+    },
+    {
       "id": "a444fef5",
       "cat": "tecnologia",
       "title": "As correntes da generosidade que transformam a doação de rins",
@@ -311,25 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "a0ad6856",
-      "cat": "tecnologia",
-      "title": "Alemães quiseram poupar eléctricos e agora perseguem PHEV",
-      "summary": "Construtores alemães não se decidem perante a ameaça chinesa e os carros mais baratos com ajuda do Estado. Com os eléctricos eram contra o aumento de impostos, mas com os PHEV já são a favor.",
-      "source": "Observador",
-      "date": "Sun, 02 Aug 2026 06:04:24 +0100",
-      "url": "https://observador.pt/programas/operacao-stop/alemaes-quiseram-poupar-electricos-e-agora-perseguem-phev/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13145251/770-podcast-operacao-stop.jpg",
+      "id": "2a7e39b4",
+      "cat": "ambiente",
+      "title": "Alcione é madrinha da Festa de Santa Bárbara, que acontece em setembro em Lisboa",
+      "summary": "Cantora e ícone do samba, madrinha da primeira edição do evento fala ao PÚBLICO Brasil sobre fé, ancestralidade afro-brasileira e a comunidade brasileira em Portugal.",
+      "source": "Público",
+      "date": "Sun, 02 Aug 2026 11:11:26 GMT",
+      "url": "https://www.publico.pt/2026/08/02/publico-brasil/noticia/alcione-madrinha-festa-santa-barbara-acontece-setembro-lisboa-2183750",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "2cf9143f",
+      "id": "fb3bfb56",
       "cat": "tecnologia",
-      "title": "\"Ir à da Maria\" é um regionalismo do Algarve?",
-      "summary": "Das festas em Sintra ao hábito algarvio de ir 'à da Maria', o Marco Neves esclarece ainda uma dúvida relacionada com o verbo \"haver\" e como devemos pronunciar \"exames\" ou \"dezoito\".",
+      "title": "FC Porto ganha bem, mas Torreense joga como gente grande",
+      "summary": "Com o cérebro \"Froholdt\" o FC Porto ergue a 25ª Supertaça, já o Torreense mostra que é de primeira liga. Ainda a má organização e mau estado do relvado em Coimbra e o novo destino de Pedro Neto.",
       "source": "Observador",
-      "date": "Sun, 02 Aug 2026 06:02:14 +0100",
-      "url": "https://observador.pt/programas/portugues-suave/ir-a-da-maria-e-um-regionalismo-do-algarve/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/13201025/770-podcast-portugues-suave.jpg",
+      "date": "Sun, 02 Aug 2026 12:09:58 +0100",
+      "url": "https://observador.pt/programas/e-o-campeao-e/fc-porto-ganha-bem-mas-torreense-joga-como-gente-grande/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "48c14e4f",
+      "cat": "tecnologia",
+      "title": "O retrato estatístico da Almada que ficou sem água",
+      "summary": "Mais espaço para construir e uma relação qualidade-preço mais aceitável que a de Lisboa atraiu milhares para Almada. Cerca de um terço de todo o turismo do concelho acontece em apenas três meses.",
+      "source": "Observador",
+      "date": "Sun, 02 Aug 2026 12:06:40 +0100",
+      "url": "https://observador.pt/especiais/a-descoberta-da-perola-imobiliaria-da-margem-sul-e-o-turismo-de-comer-em-casa-o-retrato-estatistico-da-almada-que-ficou-sem-agua/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/09202600/jporfirio-falta-de-agua-almada-09-07-2026-02-44-scaled.jpg",
       "score": 0.7
     }
   ]
