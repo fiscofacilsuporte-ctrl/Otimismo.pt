@@ -1,5 +1,5 @@
 {
-  "last_update": "02/08/2026 03:37 UTC",
+  "last_update": "02/08/2026 08:33 UTC",
   "total": 30,
   "news": [
     {
@@ -34,17 +34,6 @@
       "url": "https://www.positive.news/society/the-rotterdam-building-promising-a-better-future/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/0_Tidal-Park-Elevation_Final-e1784558750826.jpeg",
       "score": 0.82
-    },
-    {
-      "id": "0e2f9692",
-      "cat": "tecnologia",
-      "title": "O sucesso gosta de companhia",
-      "summary": "O ecossistema tecnológico português evoluiu muito na capacidade de aproximar pessoas. Não obstante, está na hora de dar o próximo passo: tornar essa colaboração mais estreita e prática. Opinião de Luís Silva",
-      "source": "Público",
-      "date": "Sat, 01 Aug 2026 23:10:00 GMT",
-      "url": "https://www.publico.pt/2026/08/02/opiniao/opiniao/sucesso-gosta-companhia-2183403",
-      "img": null,
-      "score": 0.76
     },
     {
       "id": "001b7814",
@@ -124,6 +113,39 @@
       "score": 0.76
     },
     {
+      "id": "6125256a",
+      "cat": "tecnologia",
+      "title": "Obtida primeira prova genética da exportação de varíola da Europa para a América",
+      "summary": "Não faltam dados históricos sobre os colonizadores portugueses e espanhóis que transportaram varíola para a América. Mas não havia um vestígio genético. Até se vasculharem duas múmias no Chile.",
+      "source": "Público",
+      "date": "Sun, 02 Aug 2026 07:30:00 GMT",
+      "url": "https://www.publico.pt/2026/08/02/ciencia/noticia/obtida-primeira-prova-genetica-exportacao-variola-europa-america-2183507",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "037c5a3b",
+      "cat": "tecnologia",
+      "title": "Plano de Recuperação e Resiliência: quem te viu e quem te vê",
+      "summary": "António Costa Silva, o “pai” do PRR, critica Governo da AD por “desvirtuar” princípios do Plano de Recuperação e Resiliência, que acaba este mês e, em cinco anos, teve três orçamentos e sete revisões.",
+      "source": "Público",
+      "date": "Sun, 02 Aug 2026 07:06:00 GMT",
+      "url": "https://www.publico.pt/2026/08/02/economia/noticia/plano-recuperacao-resiliencia-viu-ve-2183779",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "22e29b66",
+      "cat": "tecnologia",
+      "title": "“A Albânia não está à venda”, mas há quem a queira vender e quem a queira comprar",
+      "summary": "Construção de complexo turístico de luxo de Ivanka Trump e Jared Kushner desencadeou uma vaga constante de protestos a favor da demissão do primeiro-ministro e contra a classe política",
+      "source": "Público",
+      "date": "Sun, 02 Aug 2026 07:00:00 GMT",
+      "url": "https://www.publico.pt/2026/08/02/mundo/noticia/albania-nao-venda-ha-queira-vender-queira-comprar-2183510",
+      "img": null,
+      "score": 0.73
+    },
+    {
       "id": "c480ee47",
       "cat": "tecnologia",
       "title": "3h. FC Porto vence a Supertaça Cândido de Oliveira",
@@ -179,6 +201,28 @@
       "score": 0.73
     },
     {
+      "id": "6f848d7c",
+      "cat": "tecnologia",
+      "title": "Hungria anuncia paragem sem precedentes de central nuclear devido a seca e calor",
+      "summary": "O primeiro-ministro húngaro, Peter Magyar, anunciou a paragem da única central nuclear do país, uma &#8220;situação inédita em 44 anos&#8221;, devido aos níveis de água demasiado baixos no Danúbio. &#8220;Devido à nova descida do nível das águas do Danúbio, uma das duas últimas unidades de produção ",
+      "source": "ECO",
+      "date": "Sun, 02 Aug 2026 08:18:39 +0000",
+      "url": "https://eco.sapo.pt/2026/08/02/hungria-anuncia-paragem-sem-precedentes-de-central-nuclear-devido-a-seca-e-calor/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-6683830.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "406d5b2a",
+      "cat": "tecnologia",
+      "title": "Montenegro apoia reunião de ministros da União Europeia",
+      "summary": "O primeiro-ministro, Luís Montenegro, afirma que o Governo português apoia a realização da reunião de emergência dos ministros da Administração Interna da União Europeia, marcada para terça-feira, para discutir a situação em Ceuta. &#8220;Apoiamos a realização de um conselho da UE de ministros do in",
+      "source": "ECO",
+      "date": "Sun, 02 Aug 2026 07:53:56 +0000",
+      "url": "https://eco.sapo.pt/2026/08/02/montenegro-apoia-reuniao-de-ministros-da-uniao-europeia/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-47549653-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
       "id": "48a27ccc",
       "cat": "tecnologia",
       "title": "Ministros da UE reúnem-se terça-feira para discutir situação em Ceuta",
@@ -187,28 +231,6 @@
       "date": "Sat, 01 Aug 2026 21:51:04 +0000",
       "url": "https://eco.sapo.pt/2026/08/01/ministros-da-ue-reunem-se-terca-feira-para-discutir-situacao-em-ceuta/",
       "img": "https://eco.imgix.net/uploads/2026/08/cropped-47542523.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "3edc827a",
-      "cat": "tecnologia",
-      "title": "O fenómeno MrBeast: A história de Jimmy Donaldson, o criador de conteúdos que quer fazer a próxima Disney",
-      "summary": "MrBeast tornou-se o rosto de uma nova geração de criadores de conteúdo que já não se limita ao YouTube. À medida que realizadores como Kane Parsons (Backrooms) e Curry Barker (Obsession) levam o sucesso da plataforma para o cinema de Hollywood, o maior youtuber do mundo constrói um império que se es",
-      "source": "ECO",
-      "date": "Sat, 01 Aug 2026 11:02:18 +0000",
-      "url": "https://eco.sapo.pt/2026/08/01/o-fenomeno-mrbeast-a-historia-de-jimmy-donaldson-o-criador-de-conteudos-que-quer-fazer-a-proxima-disney/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-beastgames-s2-ut-203-250616-holdav-00225rc-3000-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "79cbe619",
-      "cat": "tecnologia",
-      "title": "Novas regras para taxa de esforço no crédito à habitação entram em vigor",
-      "summary": "As novas diretrizes do Banco de Portugal (BdP) para a concessão de crédito à habitação entram hoje em vigor, prevendo regras mais exigentes em relação à aplicação da taxa de esforço para a aprovação dos empréstimos. A nova recomendação substitui uma anterior, de 01 de julho de 2018, estabelecendo co",
-      "source": "ECO",
-      "date": "Sat, 01 Aug 2026 09:21:34 +0000",
-      "url": "https://eco.sapo.pt/2026/08/01/novas-regras-para-taxa-de-esforco-no-credito-a-habitacao-entram-em-vigor/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-45445291-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -289,47 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "53c6c249",
+      "id": "a0ad6856",
       "cat": "tecnologia",
-      "title": "Universidade com futuro",
-      "summary": "A universidade do futuro não será definida pelos seus outputs , mas pela qualidade das suas relações (sejam elas quais forem, mesmo as institucionais).",
-      "source": "Público",
-      "date": "Sat, 01 Aug 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/08/02/opiniao/opiniao/universidade-futuro-2183375",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "9964439f",
-      "cat": "desporto",
-      "title": "O futebol é do povo, não é da FIFA",
-      "summary": "Por estranho que possa parecer, proteger pubs e bancadas de estádios de futebol é um tema político de grande alcance. Opinião de Pedro Adão e Silva",
-      "source": "Público",
-      "date": "Sat, 01 Aug 2026 23:05:00 GMT",
-      "url": "https://www.publico.pt/2026/08/02/opiniao/opiniao/futebol-povo-nao-fifa-2183753",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "66122618",
-      "cat": "tecnologia",
-      "title": "As notícias das 4h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Alemães quiseram poupar eléctricos e agora perseguem PHEV",
+      "summary": "Construtores alemães não se decidem perante a ameaça chinesa e os carros mais baratos com ajuda do Estado. Com os eléctricos eram contra o aumento de impostos, mas com os PHEV já são a favor.",
       "source": "Observador",
-      "date": "Sun, 02 Aug 2026 04:12:44 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2359/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sun, 02 Aug 2026 06:04:24 +0100",
+      "url": "https://observador.pt/programas/operacao-stop/alemaes-quiseram-poupar-electricos-e-agora-perseguem-phev/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13145251/770-podcast-operacao-stop.jpg",
       "score": 0.7
     },
     {
-      "id": "ba7a0b9d",
+      "id": "2cf9143f",
       "cat": "tecnologia",
-      "title": "Ceuta volta a ter vida, mas traumas não desaparecem",
-      "summary": "Milhares de migrantes que ainda não regressaram tentam agora esconder-se para sair do enclave e rumar à Europa, enquanto os habitantes de Ceuta começam a sair de casa e a tentar voltar à normalidade.",
+      "title": "\"Ir à da Maria\" é um regionalismo do Algarve?",
+      "summary": "Das festas em Sintra ao hábito algarvio de ir 'à da Maria', o Marco Neves esclarece ainda uma dúvida relacionada com o verbo \"haver\" e como devemos pronunciar \"exames\" ou \"dezoito\".",
       "source": "Observador",
-      "date": "Sun, 02 Aug 2026 01:07:16 +0100",
-      "url": "https://observador.pt/especiais/o-medo-a-revolta-e-a-certeza-de-que-a-crise-ainda-nao-acabou-ceuta-volta-a-ter-vida-mas-traumas-nao-desaparecem/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2818:1581:nowe:0:297/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/01235350/jporfirio-reportagem-ceuta-migrantes-02-08-2026-dia-2-1-3.jpg",
+      "date": "Sun, 02 Aug 2026 06:02:14 +0100",
+      "url": "https://observador.pt/programas/portugues-suave/ir-a-da-maria-e-um-regionalismo-do-algarve/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/13201025/770-podcast-portugues-suave.jpg",
       "score": 0.7
     }
   ]
