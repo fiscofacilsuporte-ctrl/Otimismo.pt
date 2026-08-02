@@ -1,5 +1,5 @@
 {
-  "last_update": "01/08/2026 19:20 UTC",
+  "last_update": "02/08/2026 03:37 UTC",
   "total": 30,
   "news": [
     {
@@ -36,15 +36,15 @@
       "score": 0.82
     },
     {
-      "id": "8eb14acb",
+      "id": "0e2f9692",
       "cat": "tecnologia",
-      "title": "A primeira reintrodução do tamanduá-bandeira do mundo parece estar tendo sucesso no Brasil",
-      "summary": "Já se passaram quase 20 anos desde que a Argentina lançou o que era na época a primeira tentativa do mundo de reintroduzir o tamanduá-bandeira em uma paisagem da qual ele havia desaparecido. 19 anos depois, e a iniciativa não foi nada senão um sucesso, com a população local a crescer de 0 para",
-      "source": "Good News Network",
-      "date": "Thu, 30 Jul 2026 18:30:45 +0000",
-      "url": "https://www.goodnewsnetwork.org/the-worlds-first-giant-anteater-reintroduction-appears-to-be-succeeding-in-brazil/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-mother-anteater-carrying-a-baby-on-her-back-credit-DJ-Cooker-iNaturalist-via-CC-4.0.-BY-e1785408829145.jpg",
-      "score": 0.79
+      "title": "O sucesso gosta de companhia",
+      "summary": "O ecossistema tecnológico português evoluiu muito na capacidade de aproximar pessoas. Não obstante, está na hora de dar o próximo passo: tornar essa colaboração mais estreita e prática. Opinião de Luís Silva",
+      "source": "Público",
+      "date": "Sat, 01 Aug 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/08/02/opiniao/opiniao/sucesso-gosta-companhia-2183403",
+      "img": null,
+      "score": 0.76
     },
     {
       "id": "001b7814",
@@ -58,14 +58,14 @@
       "score": 0.76
     },
     {
-      "id": "10aa8ad1",
-      "cat": "desporto",
-      "title": "FC Porto e Torreense disputam 48.ª edição da Supertaça",
-      "summary": "O campeão nacional FC Porto e o estreante Torreense, detentor da Taça de Portugal, disputam hoje a 48.ª edição da Supertaça Cândido de Oliveira, em Coimbra, decidindo o primeiro troféu da temporada futebolística 2026/27.",
+      "id": "376a3233",
+      "cat": "tecnologia",
+      "title": "Supertaça vai para o Porto",
+      "summary": "Um golo solitário de Victor Froholdt levou o FC Porto à conquista da Supertaça Cândido de Oliveira pela 25.ª vez, com uma vitória por 1-0 sobre o Torreense.",
       "source": "RTP",
-      "date": "Sat, 01 Aug 2026 15:55:24 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/fc-porto-e-torreense-disputam-48a-edicao-da-supertaca_d1757196",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2cf8f41086c159c6aa9b24df979e2ba?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sat, 01 Aug 2026 20:46:54 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/supertaca-vai-para-o-porto_d1757211",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ef/efc3aa6b55fd3f421970b392a9c2308d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.76
     },
     {
@@ -124,47 +124,14 @@
       "score": 0.76
     },
     {
-      "id": "06479f1e",
+      "id": "c480ee47",
       "cat": "tecnologia",
-      "title": "Empresários buscam aprendizado para tirar proveito do acordo entre Mercosul e UE",
-      "summary": "A formação para conselhos de empresas se torna estratégica para vislumbrar oportunidades advindas do tratado transatlântico, como fusões e aquisições e linhas de financiamentos de longo prazo.",
-      "source": "Público",
-      "date": "Sat, 01 Aug 2026 18:18:18 GMT",
-      "url": "https://www.publico.pt/2026/08/01/publico-brasil/noticia/empresarios-buscam-aprendizado-tirar-proveito-acordo-mercosul-ue-2183755",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "e573e178",
-      "cat": "tecnologia",
-      "title": "Em Vila do Conde, Miranda Pennell guia-nos pela toca do coelho das imagens coloniais",
-      "summary": "Cineasta britânica apresenta na galeria Solar, até 29 de Agosto, uma exposição multimédia que propõe um encontro entre passado e presente, História e indivíduo, procurando outros modos de ver o mundo.",
-      "source": "Público",
-      "date": "Sat, 01 Aug 2026 16:15:00 GMT",
-      "url": "https://www.publico.pt/2026/08/01/culturaipsilon/noticia/vila-conde-miranda-pennell-guianos-toca-coelho-imagens-coloniais-2183528",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "0cc7ffba",
-      "cat": "tecnologia",
-      "title": "Conhecidos os onzes iniciais do FC Porto-Torreense",
-      "summary": "FC Porto e Torreense disputam o primeiro troféu da época. Dragões chegam a este jogo pelo estatuto de campeões nacionais, equipa de Torres Vedras tenta repetir surpresa da Taça. Siga aqui em direto.",
+      "title": "3h. FC Porto vence a Supertaça Cândido de Oliveira",
+      "summary": "O técnico dos azuis e brancos admite que a vitória não foi fácil. Ainda, Espanha garante que o fluxo migratório em Ceuta foi estancado durante a última noite.",
       "source": "Observador",
-      "date": "Sat, 01 Aug 2026 19:15:52 +0100",
-      "url": "https://observador.pt/liveblogs/supertaca-conhecidos-os-onzes-iniciais-do-fc-porto-torreense-andre-silva-joga-de-inicio/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:18/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/07/18067741.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "25363efb",
-      "cat": "saude",
-      "title": "Dores nas articulações. O que é a artrose?",
-      "summary": "É uma doença frequente e pode provocar dores fortes nas articulações, mas, com o tratamento certo, é possível continuar a trabalhar, a praticar exercício e a ter qualidade de vida.",
-      "source": "Observador",
-      "date": "Sat, 01 Aug 2026 18:17:48 +0100",
-      "url": "https://observador.pt/especiais/o-que-e-a-artrose-oito-perguntas-sobre-a-doenca-das-articulacoes-que-nao-esta-so-ligada-ao-envelhecimento/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1130:635:nowe:0:146/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31184347/istock-1142758656.jpg",
+      "date": "Sun, 02 Aug 2026 03:14:34 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2393/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -190,6 +157,39 @@
       "score": 0.73
     },
     {
+      "id": "70015643",
+      "cat": "tecnologia",
+      "title": "Estrela derrota Al Nassr e ergue Troféu Cidade da Amadora",
+      "summary": "O Estrela da Amadora venceu os sauditas do Al Nassr por 4-2, no jogo de apresentação da equipa amadorense aos seus associados, conquistando o Troféu Cidade da Amadora.",
+      "source": "RTP",
+      "date": "Sat, 01 Aug 2026 22:57:21 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/estrela-derrota-al-nassr-e-ergue-trofeu-cidade-da-amadora_d1757243",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/41/412711af21eb1414b13a7283b1ee3650?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "20272785",
+      "cat": "desporto",
+      "title": "Boavista reuniu condições financeiras e aguarda decisão dos credores",
+      "summary": "O presidente do Boavista, Rui Garrido Pereira, disse hoje ter assegurado os valores necessários para a operação de recuperação e aguarda, com moderado otimismo, um entendimento com os credores, visando a reabertura do emblemático clube português de futebol.",
+      "source": "RTP",
+      "date": "Sat, 01 Aug 2026 22:35:58 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/boavista-reuniu-condicoes-financeiras-e-aguarda-decisao-dos-credores_d1757238",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/1a/1aae1bb3e933c2b2a62b677fd082b81a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "48a27ccc",
+      "cat": "tecnologia",
+      "title": "Ministros da UE reúnem-se terça-feira para discutir situação em Ceuta",
+      "summary": "Os ministros da Administração Interna da UE reúnem-se de emergência, na terça-feira, para discutir a situação em Ceuta, território espanhol em Marrocos, ao qual, nos últimos dias, chegaram milhares de migrantes, foi hoje anunciado. A reunião vai decorrer por videoconferência, disse o primeiro-minist",
+      "source": "ECO",
+      "date": "Sat, 01 Aug 2026 21:51:04 +0000",
+      "url": "https://eco.sapo.pt/2026/08/01/ministros-da-ue-reunem-se-terca-feira-para-discutir-situacao-em-ceuta/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-47542523.jpg",
+      "score": 0.73
+    },
+    {
       "id": "3edc827a",
       "cat": "tecnologia",
       "title": "O fenómeno MrBeast: A história de Jimmy Donaldson, o criador de conteúdos que quer fazer a próxima Disney",
@@ -209,6 +209,17 @@
       "date": "Sat, 01 Aug 2026 09:21:34 +0000",
       "url": "https://eco.sapo.pt/2026/08/01/novas-regras-para-taxa-de-esforco-no-credito-a-habitacao-entram-em-vigor/",
       "img": "https://eco.imgix.net/uploads/2026/08/cropped-45445291-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "e759cc3c",
+      "cat": "tecnologia",
+      "title": "Mars Rover descobre um campo misterioso de texturas de favo de mel no planeta vermelho: ‘Took Our Breath Away’",
+      "summary": "Quando o rover Curiosity da NASA subiu o vale marciano chamado Valle Grande em junho, enviou imagens de uma paisagem coberta por texturas semelhantes a favos de mel. “Vimos muitas paisagens fascinantes através dos olhos do Curiosity, mas este mar de polígonos nos deixou sem fôlego”, disse o projeto da missão.",
+      "source": "Good News Network",
+      "date": "Sun, 02 Aug 2026 00:32:13 +0000",
+      "url": "https://www.goodnewsnetwork.org/mars-rover-discovers-mysterious-field-of-honeycomb-textures-on-red-planet/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/honeycomb-on-Mars-Curiosity-rover-NASA.jpg",
       "score": 0.73
     },
     {
@@ -278,58 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "3bbcc790",
-      "cat": "ambiente",
-      "title": "Incêndio em Mesão Frio combatido por 140 bombeiros e 11 aeronaves",
-      "summary": "Incêndio em Vila Real é o único incêndio florestal em curso no país na tarde deste sábado.",
+      "id": "53c6c249",
+      "cat": "tecnologia",
+      "title": "Universidade com futuro",
+      "summary": "A universidade do futuro não será definida pelos seus outputs , mas pela qualidade das suas relações (sejam elas quais forem, mesmo as institucionais).",
       "source": "Público",
-      "date": "Sat, 01 Aug 2026 18:06:28 GMT",
-      "url": "https://www.publico.pt/2026/08/01/azul/noticia/incendio-mesao-frio-combatido-140-bombeiros-11-aeronaves-2183778",
+      "date": "Sat, 01 Aug 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/08/02/opiniao/opiniao/universidade-futuro-2183375",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "e9a1caca",
+      "id": "9964439f",
+      "cat": "desporto",
+      "title": "O futebol é do povo, não é da FIFA",
+      "summary": "Por estranho que possa parecer, proteger pubs e bancadas de estádios de futebol é um tema político de grande alcance. Opinião de Pedro Adão e Silva",
+      "source": "Público",
+      "date": "Sat, 01 Aug 2026 23:05:00 GMT",
+      "url": "https://www.publico.pt/2026/08/02/opiniao/opiniao/futebol-povo-nao-fifa-2183753",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "66122618",
       "cat": "tecnologia",
-      "title": "As notícias das 19h",
+      "title": "As notícias das 4h",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sat, 01 Aug 2026 19:14:25 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2137/",
+      "date": "Sun, 02 Aug 2026 04:12:44 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2359/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "a64cc8b9",
+      "id": "ba7a0b9d",
       "cat": "tecnologia",
-      "title": "Ministros da UE reúnem-se terça-feira para discutir situação em Ceuta",
-      "summary": "Reunião de emergência junta os ministros da Administração Interna da UE em reunião por videoconferência na sequência de um pedido apresentado por 22 Estados-membros. Objetivo é analisar os acontecimentos dos últimos dias em Ceuta.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 01 Aug 2026 19:19:33 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ministros-da-ue-reunem-se-terca-feira-para-discutir-situacao-em-ceuta",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-11-19-54-527545.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "title": "Ceuta volta a ter vida, mas traumas não desaparecem",
+      "summary": "Milhares de migrantes que ainda não regressaram tentam agora esconder-se para sair do enclave e rumar à Europa, enquanto os habitantes de Ceuta começam a sair de casa e a tentar voltar à normalidade.",
+      "source": "Observador",
+      "date": "Sun, 02 Aug 2026 01:07:16 +0100",
+      "url": "https://observador.pt/especiais/o-medo-a-revolta-e-a-certeza-de-que-a-crise-ainda-nao-acabou-ceuta-volta-a-ter-vida-mas-traumas-nao-desaparecem/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2818:1581:nowe:0:297/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/01235350/jporfirio-reportagem-ceuta-migrantes-02-08-2026-dia-2-1-3.jpg",
       "score": 0.7
     }
   ]
