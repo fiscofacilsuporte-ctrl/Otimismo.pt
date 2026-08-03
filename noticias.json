@@ -1,5 +1,5 @@
 {
-  "last_update": "02/08/2026 19:21 UTC",
+  "last_update": "03/08/2026 03:39 UTC",
   "total": 30,
   "news": [
     {
@@ -47,14 +47,14 @@
       "score": 0.79
     },
     {
-      "id": "b83c8432",
+      "id": "82cd0156",
       "cat": "economia",
-      "title": "Formalizada candidatura de Lula da Silva a quarto mandato como Presidente do Brasil",
-      "summary": "Lula inicia a campanha eleitoral a defender os avanços alcançados durante a sua governação na redução do desemprego e da pobreza, embora tal ocorra num contexto de desaceleração económica.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 02 Aug 2026 17:27:58 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/formalizada-candidatura-de-lula-da-silva-a-quarto-mandato-como-presidente-do-brasil",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-23-07-07-55-527040.jpg",
+      "title": "Em todo o lado menos nas estatísticas",
+      "summary": "Porque é que a IA não aparece no crescimento do PIB, em grande parte nunca aparecerá — e porque é que a revolução é real na mesma",
+      "source": "Observador",
+      "date": "Mon, 03 Aug 2026 00:22:00 +0100",
+      "url": "https://observador.pt/opiniao/em-todo-o-lado-menos-nas-estatisticas/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A266%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F27174802%2Fwhatsapp-image-2026-07-27-at-122449.jpeg",
       "score": 0.76
     },
     {
@@ -80,25 +80,25 @@
       "score": 0.76
     },
     {
+      "id": "825b8f00",
+      "cat": "tecnologia",
+      "title": "AstraZeneca negoceia megafusão com BMS",
+      "summary": "A AstraZeneca está a negociar uma fusão com a norte-americana Bristol Myers Squibb que avaliaria o novo grupo em quase 400 mil milhões de dólares, segundo avançou o Financial Times (acesso pago, em inglês). As conversações decorreram nos últimos meses e poderão resultar num acordo em breve, embora a",
+      "source": "ECO",
+      "date": "Sun, 02 Aug 2026 23:38:56 +0000",
+      "url": "https://eco.sapo.pt/2026/08/03/astrazeneca-negoceia-megafusao-com-bms/",
+      "img": "https://eco.imgix.net/uploads/2024/07/mercado_iberico_800-x-450-55.png",
+      "score": 0.76
+    },
+    {
       "id": "28f71279",
       "cat": "ciencia",
       "title": "Soprar bolhas permite que cachalotes durmam profundamente sob as ondas, revela estudo",
-      "summary": "Uma nova pesquisa mostra que soprar bolhas ajuda os cachalotes a dormir profundamente, escondidos sob as ondas. Na verdade, isso os impede de flutuar para a superfície durante a hora da soneca. Embora pouco se saiba sobre como os cachalotes dormem, os pesquisadores acreditam que os gigantes oceânicos cochilam debaixo d’água por 10 a 15 minutos.",
+      "summary": "Uma nova pesquisa mostra que soprar bolhas ajuda os cachalotes a dormir profundamente, escondidos sob as ondas. Na verdade, isso os impede de flutuar para a superfície durante a hora da soneca. Embora pouco se saiba sobre como os cachalotes dormem, os pesquisadores acreditam que os gigantes oceânicos cochilam debaixo d'água por 10 a 15 minutos.",
       "source": "Good News Network",
       "date": "Sat, 01 Aug 2026 17:23:26 +0000",
       "url": "https://www.goodnewsnetwork.org/blowing-bubbles-allows-sperm-whales-to-sleep-soundly-beneath-waves/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Resting-sperm-whales-blowing-bubbles-Credit-Stephane-Granzotto-via-SWNS.jpeg",
-      "score": 0.76
-    },
-    {
-      "id": "475ad53e",
-      "cat": "ciencia",
-      "title": "Cientistas desenvolvem enzima para limitar o impacto ambiental dos resíduos de minas, testes em andamento",
-      "summary": "Pesquisadores da Universidade Estadual do Arizona estão testando maneiras de neutralizar os maiores passivos ambientais da mineração. Actualmente, o sector mineiro está a registar um aumento no interesse e no investimento, uma vez que a América aparentemente acordou para a escassez de abastecimento ocidental de vários minerais essenciais para uma economia moderna.",
-      "source": "Good News Network",
-      "date": "Fri, 31 Jul 2026 15:30:21 +0000",
-      "url": "https://www.goodnewsnetwork.org/scientists-develop-enzyme-to-limit-environmental-impact-of-mine-waste-testing-underway/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/07/A-research-team-member-applies-the-enzyme-solution-on-a-mine-waste-deposit-at-the-abandoned-Cash-Mine-credit-courtesy-of-Hamed.jpg",
       "score": 0.76
     },
     {
@@ -116,7 +116,7 @@
       "id": "415477ae",
       "cat": "ciencia",
       "title": "Magma superaquecido pode alimentar imponentes fontes de lava",
-      "summary": "Cientistas que estudam o magma da erupção Tajogaite de 2021 em La Palma descobriram que o calor extremo pode mudar drasticamente a forma como uma erupção se desenrola. Quando o magma fica superaquecido, ele pode dissolver as minúsculas sementes de cristal que normalmente desencadeiam a cristalização, permitindo que a rocha derretida permaneça livre.",
+      "summary": "Cientistas que estudam o magma da erupção Tajogaite de 2021 em La Palma descobriram que o calor extremo pode mudar drasticamente a forma como uma erupção se desenrola. Quando o magma fica superaquecido, ele pode dissolver as minúsculas sementes de cristal que normalmente desencadeiam a cristalização, permitindo que a rocha derretida permaneça firme.",
       "source": "ScienceDaily",
       "date": "Sat, 01 Aug 2026 02:38:28 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/07/260731034200.htm",
@@ -124,36 +124,47 @@
       "score": 0.76
     },
     {
-      "id": "48b6575e",
-      "cat": "geral",
-      "title": "Luís Neves juntou-se à lista de governantes investigados nos últimos 15 anos",
-      "summary": "De 2011 até hoje, contam-se pelo menos 14 primeiros-ministros, ministros ou secretários de Estado abrangidos por investigações — nem sempre constituídos arguidos ou acusados.",
+      "id": "8dbdb5ac",
+      "cat": "tecnologia",
+      "title": "Andy Burnham, o “anti-Thatcher”",
+      "summary": "É o primeiro católico a entrar em Downing Street, num país protestante em que o rei é o chefe da Igreja. Ele próprio admite que as suas preocupações sociais têm que ver também com a sua fé. Análise de Teresa de Sousa",
       "source": "Público",
-      "date": "Sun, 02 Aug 2026 18:29:00 GMT",
-      "url": "https://www.publico.pt/2026/08/02/politica/noticia/luis-neves-juntouse-lista-governantes-investigados-ultimos-15-anos-2183413",
+      "date": "Sun, 02 Aug 2026 23:01:00 GMT",
+      "url": "https://www.publico.pt/2026/08/03/mundo/analise/andy-burnham-antithatcher-2183650",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "d57d3761",
+      "id": "d6145c85",
       "cat": "tecnologia",
-      "title": "17h. Helicópteros colidiram a combater incêndio na Grécia",
-      "summary": "De acordo com a BBC News, cada helícoptero tinha uma equipa de duas pessoas. Ainda, a iniciativa Cidadãos pela Cibersegurança pediu esclarecimentos sobre os dados pessoais no sistema Volta.",
+      "title": "Caos em Ceuta. Todas as escolhas políticas têm consequências",
+      "summary": "Pedro Sanchéz, o campeão das esquerdas europeias, o exaltado defensor de uma política de imigração de “portas abertas”, naufragou na baía de Ceuta arrastando para o fundo a sua legião de apaniguados.",
       "source": "Observador",
-      "date": "Sun, 02 Aug 2026 17:13:31 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-17h-2258/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Mon, 03 Aug 2026 00:25:05 +0100",
+      "url": "https://observador.pt/opiniao/caos-em-ceuta-todas-as-escolhas-politicas-tem-consequencias/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg",
       "score": 0.73
     },
     {
-      "id": "d86c2da3",
+      "id": "de135c0a",
       "cat": "tecnologia",
-      "title": "Receita de IRC afunda e encolhe margem de Miranda Sarmento",
-      "summary": "No final de junho, mês do acerto final de IRC de 2025, a receita do imposto ficou mais de 600 milhões de euros abaixo de um ano antes. Com impostos e contribuições a arrefecerem, Governo fechou primeiro semestre com excedente ténue, à boleia de dividendos da Caixa.",
+      "title": "Resultados dos bancos resistem com queda de 1% após aposta no volume",
+      "summary": "A margem financeira foi a “galinha dos ovos de ouro” no período de subida dos juros mas agora só resiste a quedas maiores por força do volume de negócio.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 02 Aug 2026 20:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/receita-de-irc-afunda-e-encolhe-margem-de-miranda-sarmento",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-07-17-57-30-521666.jpg",
+      "date": "Sun, 02 Aug 2026 22:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/resultados-dos-bancos-resistem-com-queda-de-1-apos-aposta-no-volume",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-08/img_100x100uu2025-08-29-15-26-56-508351.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "5d0ccb04",
+      "cat": "tecnologia",
+      "title": "Incêndios: Mais 500 operacionais combatem fogo de Valpaços que está em resolução",
+      "summary": "Apesar de alguns reacendimentos, o incêndio no concelho transmontano de Valpaços entrou este domingo em fase de resolução.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 02 Aug 2026 21:10:57 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/ambiente/detalhe/incendios-mais-500-operacionais-combatem-fogo-de-valpacos-que-esta-em-resolucao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-02-21-10-45-527586.jpg",
       "score": 0.73
     },
     {
@@ -201,14 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "6f848d7c",
-      "cat": "tecnologia",
-      "title": "Hungria anuncia paragem sem precedentes de central nuclear devido a seca e calor",
-      "summary": "O primeiro-ministro húngaro, Peter Magyar, anunciou a paragem da única central nuclear do país, uma &#8220;situação inédita em 44 anos&#8221;, devido aos níveis de água demasiado baixos no Danúbio. &#8220;Devido à nova descida do nível das águas do Danúbio, uma das duas últimas unidades de produção ",
-      "source": "ECO",
-      "date": "Sun, 02 Aug 2026 08:18:39 +0000",
-      "url": "https://eco.sapo.pt/2026/08/02/hungria-anuncia-paragem-sem-precedentes-de-central-nuclear-devido-a-seca-e-calor/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-6683830.jpg",
+      "id": "94dfc6d3",
+      "cat": "cultura",
+      "title": "Chihuahua não para de apalpá-la até que o dono encontre o câncer de mama que ela cheirou",
+      "summary": "A dona de um cachorro diz que seu cachorro salvou sua vida, ao dar patadas repetidas em sua axila, o que acabou alertando-a sobre o câncer de mama. A senhora de 61 anos diz que seu chihuahua Flag começou a ter um comportamento estranho anos atrás, batendo constantemente na parte inferior do braço com a pata. Ela originalmente rejeitou o comportamento, você",
+      "source": "Good News Network",
+      "date": "Mon, 03 Aug 2026 00:17:44 +0000",
+      "url": "https://www.goodnewsnetwork.org/chihuahua-wont-stop-pawing-at-arm-until-owner-finds-the-breast-cancer/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Kristine-Richards-with-dog-SWNS.jpeg",
       "score": 0.73
     },
     {
@@ -289,47 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "1c554190",
+      "id": "4341ec7a",
       "cat": "tecnologia",
-      "title": "Trump já pode invadir a Gronelândia à vontade",
-      "summary": "A direita culpa Espanha pela legalização extraordinária de imigrantes. Acontece que os imigrantes são necessários para pôr a funcionar uma economia que cresceu 2,7% no segundo trimestre de 2026. Crónica de Ana Sá Lopes",
+      "title": "O perigo começa antes da droga… na química do narcotráfico",
+      "summary": "As notícias recentes relacionadas com a Operação Pacoba revelaram que foram apreendidos 62 bidões contendo 12.400 litros de acetato de etilo e hexanoada. Quão perigosos são estes produtos? Opinião de Ricardo Dinis-Oliveira",
       "source": "Público",
-      "date": "Sun, 02 Aug 2026 18:41:48 GMT",
-      "url": "https://www.publico.pt/2026/08/02/opiniao/cronica/trump-ja-invadir-gronelandia-vontade-2183823",
+      "date": "Sun, 02 Aug 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/08/03/opiniao/opiniao/perigo-comeca-droga-quimica-narcotrafico-2183511",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "7d6ac722",
-      "cat": "tecnologia",
-      "title": "AIMA diz que restam 30 mil de quase 1 milhão de processos: casos complexos",
-      "summary": "AIMA fala em 30 mil processos “complexos” pendentes de quase 1 milhão herdados; advogadas avaliam o número apresentado pela agência e como esses casos têm sido decididos.",
+      "id": "8701ae98",
+      "cat": "geral",
+      "title": "Os vampiros de Agosto",
+      "summary": "Estou a olhar para a baba que tenho no braço, deixada por uma melga que me faltou ao respeito. Crónica de Miguel Esteves Cardoso",
       "source": "Público",
-      "date": "Sun, 02 Aug 2026 18:40:08 GMT",
-      "url": "https://www.publico.pt/2026/08/02/publico-brasil/noticia/aima-restam-30-mil-quase-1-milhao-processos-casos-complexos-2183822",
+      "date": "Sun, 02 Aug 2026 23:01:00 GMT",
+      "url": "https://www.publico.pt/2026/08/03/opiniao/cronica/vampiros-agosto-2183796",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "81a50b98",
-      "cat": "desporto",
-      "title": "Portugal em 6.º no dueto técnico misto de natação artística",
-      "summary": "Nadadores Daniel Ascenso e Beatriz Gonçalves terminaram no 6.º lugar a final do dueto técnico misto de natação artística, nos Europeus de desportos aquáticos. A Grã-Bretanha sagrou-se campeã europeia.",
-      "source": "Observador",
-      "date": "Sun, 02 Aug 2026 18:45:36 +0100",
-      "url": "https://observador.pt/2026/08/02/portugal-em-sexto-lugar-no-dueto-tecnico-misto-de-natacao-artistica-nos-europeus/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/02182811/47552409.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "e2b35969",
+      "id": "61afa5a6",
       "cat": "tecnologia",
-      "title": "Explosão de botija faz quatro feridos em Viana do Castelo",
-      "summary": "Os quatro feridos, três homens e uma mulher na casa dos 50 anos de idade, foram levados para o Hospital de Viana do Castelo.",
+      "title": "As notícias das 4h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sun, 02 Aug 2026 18:39:56 +0100",
-      "url": "https://observador.pt/2026/08/02/explosao-de-botija-de-gas-faz-quatro-feridos-em-viana-do-castelo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2560:1436:nowe:0:14/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/04/12202752/4w3a62300124-scaled.jpg",
+      "date": "Mon, 03 Aug 2026 04:11:57 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2360/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
