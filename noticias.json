@@ -1,5 +1,5 @@
 {
-  "last_update": "06/08/2026 08:48 UTC",
+  "last_update": "06/08/2026 14:28 UTC",
   "total": 30,
   "news": [
     {
@@ -47,17 +47,6 @@
       "score": 0.82
     },
     {
-      "id": "a4ede0bb",
-      "cat": "economia",
-      "title": "Desbloquear o crescimento exige um modelo económico capaz de exportar mais valor",
-      "summary": "Ao longo das últimas crónicas, procurei demonstrar que muitos dos principais problemas económicos de Portugal – a fraca produtividade, os salários relativamente baixos, o reduzido investimento, a pequena dimensão das empresas, a insuficiente inovação e a dificuldade em convergir com os países mais d",
-      "source": "ECO",
-      "date": "Thu, 06 Aug 2026 07:59:26 +0000",
-      "url": "https://eco.sapo.pt/especiais/desbloquear-o-crescimento-exige-um-modelo-economico-capaz-de-exportar-mais-valor/",
-      "img": "https://eco.imgix.net/uploads/2025/08/cropped-cropped-27698821-scaled-2.jpg",
-      "score": 0.79
-    },
-    {
       "id": "4b36143d",
       "cat": "tecnologia",
       "title": "Lentes de contato autocurativas reparam arranhões com apenas 1 hora de exposição à luz ultravioleta",
@@ -80,36 +69,25 @@
       "score": 0.79
     },
     {
-      "id": "3f1dab2c",
-      "cat": "tecnologia",
-      "title": "Goma de mascar que combate o câncer reduz os níveis de HPV em até 93%",
-      "summary": "Uma goma de mascar especialmente desenvolvida reduziu o HPV em até 93% e quase eliminou duas bactérias ligadas ao câncer de cabeça e pescoço. O tratamento preservou bactérias bucais benéficas, aumentando as esperanças de uma terapia mais segura e acessível.",
+      "id": "3772d06c",
+      "cat": "ciencia",
+      "title": "Esqueça a corrida espermática: a fertilização pode depender do trabalho em equipe",
+      "summary": "Milhões de espermatozoides nem sempre competem sozinhos – algumas espécies os colocam em ação como equipes coordenadas. Um estudo evolutivo abrangente descobriu que esta cooperação é generalizada entre os artrópodes e tem surgido e desaparecido repetidamente ao longo de centenas de milhões de anos. A descoberta desafia a classe",
       "source": "ScienceDaily",
-      "date": "Tue, 04 Aug 2026 09:33:37 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "img": "https://www.sciencedaily.com/images/1920/young-woman-biting-chewing-gum.webp",
+      "date": "Thu, 06 Aug 2026 02:25:07 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm",
+      "img": "https://www.sciencedaily.com/images/1920/sperm-and-egg-cell-natural-fertilization.webp",
       "score": 0.79
     },
     {
-      "id": "068b781b",
+      "id": "463b9aa3",
       "cat": "tecnologia",
-      "title": "Acionistas do Conta Lá reúnem-se para decidir futuro",
-      "summary": "Está prevista nomeação de uma comissão de gestão. Funcionários continuam sem receber salários em atraso. Administração procura solução que viabilize projeto. Sérgio Figueiredo demitiu-se em julho.",
+      "title": "13h. Ceuta. Civis fazem patrulhas para perseguir migrantes",
+      "summary": "Segundo uma investigação do jornal El País, as patrulhas tiveram origem em grupos online. Ainda, acordo entre Irão e Omã sobre nova rota marítima no Estreito de Ormuz pode ser anunciado hoje.",
       "source": "Observador",
-      "date": "Thu, 06 Aug 2026 08:26:54 +0100",
-      "url": "https://observador.pt/2026/08/06/acionistas-do-canal-conta-la-reunem-se-esta-quinta-feira-para-decidir-futuro-da-empresa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2560:1439:nowe:0:134/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/03/20100015/25806080-scaled.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "187e7a6d",
-      "cat": "tecnologia",
-      "title": "Municípios do Oeste vão passar a controlar empresa de transportes públicos",
-      "summary": "A Comunidade Intermunicipal (CIM) do Oeste avançou para a compra de uma posição de controlo na RodoOeste, operadora de autocarros na região que era até agora detida pelo grupo Barraqueiro e pela Rodonorte. Esta solução permite-lhe ter um operador interno, sem ter de criar um de raiz ou lançar concur",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 06 Aug 2026 09:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/municipios-do-oeste-vao-passar-a-controlar-empresa-de-transportes-publicos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-05-19-13-17-527759.jpg",
+      "date": "Thu, 06 Aug 2026 13:16:10 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2407/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.76
     },
     {
@@ -121,28 +99,6 @@
       "date": "Thu, 06 Aug 2026 10:39:27 +0100",
       "url": "https://www.rtp.pt/noticias/liga-europa-conferencia/sporting-de-braga-enfrenta-dinamo-minsk_d1757966",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/0d/0d61bcccc219a57e4e843ab8a8133c29?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "5e0a47da",
-      "cat": "ciencia",
-      "title": "Troca de favores. Infantino terá dado final do Mundial a Marrocos",
-      "summary": "De acordo com uma investigação do Jornal inglês The Times, o atual presidente da FIFA terá oferecido a final do Campeonato do Mundo de 2030 a Marrocos em troca do apoio à sua própria reeleição.",
-      "source": "RTP",
-      "date": "Wed, 05 Aug 2026 22:21:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/troca-de-favores-infantino-tera-dado-final-do-mundial-a-marrocos_v1757893",
-      "img": "https://cdn-images.rtp.pt/icm/images/4e/4eb3f14b5578828bfeef88d95509ec7d_N.jpg?",
-      "score": 0.76
-    },
-    {
-      "id": "82fb7ea2",
-      "cat": "tecnologia",
-      "title": "Geely quer liderar a próxima geração da mobilidade",
-      "summary": "João Reis, licenciado em engenharia mecânica pela Universidade do Porto e MBA em gestão da produção, lidera a operação da Geely e a sua implementação no mercado nacional. Com um percurso de mais de duas décadas ligado à inovação, ao desenvolvimento de negócio e à transformação digital. No Grupo Salv",
-      "source": "ECO",
-      "date": "Thu, 06 Aug 2026 07:00:17 +0000",
-      "url": "https://eco.sapo.pt/2026/08/06/geely-quer-liderar-a-proxima-geracao-da-mobilidade/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-captura-de-ecra-2026-08-03-163835.png",
       "score": 0.76
     },
     {
@@ -179,6 +135,17 @@
       "score": 0.76
     },
     {
+      "id": "37c813a1",
+      "cat": "ciencia",
+      "title": "Um medicamento já usado para a osteoporose bloqueou danos na coluna vertebral em um novo estudo",
+      "summary": "As alterações genéticas podem desencadear uma reação em cadeia que faz com que os amortecedores naturais da coluna endureçam e se deteriorem. O peixe-zebra com um gene defeituoso relacionado ao colágeno desenvolveu acúmulo de minerais e fusão espinhal semelhante à doença do disco humano. Os pesquisadores conseguiram reduzir os danos usando um método existente",
+      "source": "ScienceDaily",
+      "date": "Thu, 06 Aug 2026 05:50:21 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
+      "img": "https://www.sciencedaily.com/images/1920/male-anatomy-spinal-column-backbone.webp",
+      "score": 0.76
+    },
+    {
       "id": "338f1c42",
       "cat": "tecnologia",
       "title": "Um colossal sistema de magma está escondido sob a Toscana",
@@ -190,36 +157,36 @@
       "score": 0.76
     },
     {
-      "id": "e42f7ab0",
-      "cat": "cultura",
-      "title": "Chasco-preto: a pequena ave negra que tem um festival com o seu nome",
-      "summary": "Cada vez mais confinado a uma pequena parte do território, o chasco-preto é mais uma espécie de aves classificada como Criticamente em Perigo no país.",
+      "id": "b1a2d30d",
+      "cat": "tecnologia",
+      "title": "Com custos dos incêndios a disparar, UE vai pressionar Estados-membros a investirem na natureza",
+      "summary": "A comissária Jessika Roswall afirma que “nenhuma região da Europa está poupada” e que a necessidade de investimento é “verdadeiramente urgente”.",
       "source": "Público",
-      "date": "Thu, 06 Aug 2026 06:10:00 GMT",
-      "url": "https://www.publico.pt/2026/08/06/azul/noticia/chascopreto-ave-negra-festival-nome-2183400",
+      "date": "Thu, 06 Aug 2026 13:45:07 GMT",
+      "url": "https://www.publico.pt/2026/08/06/azul/noticia/custos-incendios-disparar-ue-vai-pressionar-estadosmembros-investirem-natureza-2184263",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "f6dfd776",
-      "cat": "cultura",
-      "title": "Lucro da Siemens sobe 15% entre abril e junho para 2,58 mil milhões",
-      "summary": "Com o aumento das encomendas, a gigante alemã acumula já uma carteira recorde de 132.000 milhões.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 06 Aug 2026 09:31:34 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/lucro-da-siemens-sobe-15-entre-abril-e-junho-para-2-58-mil-milhoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-13-13-24-00-523531.jpg",
+      "id": "ea359c3b",
+      "cat": "tecnologia",
+      "title": "Ingredientes brasileiros são destaque na Semana do Brasil em Oeiras",
+      "summary": "Criada pelo empresário e sorveteiro Pedro Mendanha Dias, evento desafia oito restaurantes no Centro Histórico de Oeiras a produzir pratos que celebram a identidade e a cultura gastronômica brasileira.",
+      "source": "Público",
+      "date": "Thu, 06 Aug 2026 12:14:17 GMT",
+      "url": "https://www.publico.pt/2026/08/06/publico-brasil/noticia/ingredientes-brasileiros-sao-destaque-semana-brasil-oeiras-2183857",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "e154155f",
+      "id": "1a41c033",
       "cat": "tecnologia",
-      "title": "Aversão à mudança",
-      "summary": "Como acontece em todos os projectos inovadores, quando são levados até ao fim, e não ficam no meio da ponte, como tentam e se esforçam os seus opositores, as melhorias posteriores compensam largamente os erros ocorridos aquando da sua implementação.",
+      "title": "Operadores voltam a criticar regulador. \"Espero que a Anacom tome uma decisão diferente\", diz Mota Soares",
+      "summary": "O secretário-geral da APRITEL alerta para os curtos prazos das novas licenças de espectro e que o regulador \"ao propor renovar por seis anos, está, na prática, a dizer que não vai renovar dentro de seis anos\". Pedro Mota Soares pede ainda à Anacom que explicite as condições de investimento para a ob",
       "source": "Jornal de Negócios",
-      "date": "Thu, 06 Aug 2026 09:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/luis-todo-bom/detalhe/aversao-a-mudanca",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-21-15-19-00-296324.png",
+      "date": "Thu, 06 Aug 2026 14:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/operadores-voltam-a-criticar-regulador-espero-que-a-anacom-tome-uma-decisao-diferente-diz-mota-soares",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-06-10-19-07-527791.jpg",
       "score": 0.73
     },
     {
@@ -234,43 +201,43 @@
       "score": 0.73
     },
     {
-      "id": "2e4c81b4",
+      "id": "89158aae",
       "cat": "tecnologia",
-      "title": "18h30 Marco Silva quer vitória sólida com Hearts, Diário da Volta",
-      "summary": "",
+      "title": "Zverev eliminado à primeira em Montreal",
+      "summary": "O alemão Alexander Zverev, que em junho conquistou o seu primeiro &#039;major&#039;, em Roland Garros, foi eliminado na estreia no Masters 1.000 de Montreal, no Canadá, ao perder com o neerlandês Tallon Griekspoor.",
       "source": "RTP",
-      "date": "Wed, 05 Aug 2026 20:17:01 +0100",
-      "url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-marco-silva-quer-vitoria-solida-com-hearts-diario-da-volta_a1_1757875",
-      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
+      "date": "Thu, 06 Aug 2026 14:45:04 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/zverev-eliminado-a-primeira-em-montreal_d1758015",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/08/08f5035d8005d0b49dca26b12b10e5d5?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "667d1d61",
+      "id": "dcbfee9a",
       "cat": "tecnologia",
-      "title": "Atirar areia para os nossos olhos, o passatempo de verão deste Governo",
-      "summary": "Se no ano passado foi preciso esperar até meio de agosto para o Governo atirar uma mão cheia de areia aos nossos olhos &#8211; com o primeiro-ministro a anunciar na Festa do Pontal, com grande parte do país em chamas, novos hospitais e barragens e até o regresso da Fórmula 1 &#8211; em 2026 o [&#823",
+      "title": "Marinha com ok de 21 milhões para modernizar Base Naval do Alfeite",
+      "summary": "A Marinha Portuguesa obteve luz verde do Governo para realizar a despesa de até 21 milhões de euros para modernizar as infraestruturas de apoio marítimo-portuárias da Base Naval de Lisboa, no Alfeite, através da central de compras NATO Support and Procurement Agency (NSPA). O investimento visa prepa",
       "source": "ECO",
-      "date": "Thu, 06 Aug 2026 06:05:08 +0000",
-      "url": "https://eco.sapo.pt/opiniao/atirar-areia-para-os-nossos-olhos-o-passatempo-de-verao-deste-governo/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2023/07/shrikesh-laxmidas-opiniao.png",
+      "date": "Thu, 06 Aug 2026 13:56:14 +0000",
+      "url": "https://eco.sapo.pt/2026/08/06/marinha-com-ok-de-21-milhoes-para-modernizar-base-naval-do-alfeite/",
+      "img": "https://eco.imgix.net/uploads/2026/01/cropped-marinha-porta-drones-1.jpg",
       "score": 0.73
     },
     {
-      "id": "cf1a2a79",
-      "cat": "ciencia",
-      "title": "Fósseis de 567 milhões de anos reescrevem o início da vida animal",
-      "summary": "Um espetacular sítio fóssil no Canadá contém criaturas com 567 milhões de anos que podem representar alguns dos primeiros animais a se moverem, reproduzirem-se sexualmente e desenvolverem planos corporais reconhecíveis. A descoberta atrasa marcos evolutivos importantes em até 10 milhões de anos e sugere vida animal complexa.",
-      "source": "ScienceDaily",
-      "date": "Wed, 05 Aug 2026 20:33:35 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm",
-      "img": "https://www.sciencedaily.com/images/1920/ediacaran-reconstruction.webp",
+      "id": "8cb57bf3",
+      "cat": "tecnologia",
+      "title": "Governo aprova investimento de 1,58 mil milhões nas redes elétricas até 2030",
+      "summary": "O Conselho de Ministros aprovou esta quinta-feira o Plano de Desenvolvimento e Investimento da Rede Nacional de Distribuição de Eletricidade em Alta Tensão e Média Tensão (PDIRD-E 2026-2030), com um investimento total previsto de 1,58 mil milhões de euros, lê-se no comunicado divulgado esta quinta-f",
+      "source": "ECO",
+      "date": "Thu, 06 Aug 2026 13:44:43 +0000",
+      "url": "https://eco.sapo.pt/2026/08/06/governo-aprova-investimento-de-158-mil-milhoes-nas-redes-eletricas-ate-2030/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-doc200904219578411mmmg0157.jpg",
       "score": 0.73
     },
     {
       "id": "3fd5c179",
       "cat": "cultura",
       "title": "Os ‘Jogos de Transplante’ são mais do que medalhas",
-      "summary": "Robert Lindemann é um contador alemão de 32 anos. Ele também fez um transplante de coração, uma experiência de mudança de vida compartilhada por apenas algumas centenas de pessoas todos os anos em seu país. Mas nos Jogos do Transplante ele não se destaca – e isso é um alívio. “Parece um pouco estranho... O po",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Reasons to be Cheerful",
       "date": "Thu, 06 Aug 2026 08:00:46 +0000",
       "url": "https://reasonstobecheerful.world/the-transplant-games-are-about-more-than-medals/",
@@ -291,8 +258,8 @@
     {
       "id": "a444fef5",
       "cat": "tecnologia",
-      "title": "As correntes da generosidade que transformam a doação de rins",
-      "summary": "Um cara entra em um bar e sai com um rim a menos. Essa é uma piada que Mark Scotch conta sobre sua vida. É apenas um pequeno exagero: um encontro casual em 2020 o levou a doar um rim – embora não exatamente da maneira que ele esperava. Scotch, então com 64 anos,... O post As Correntes da Generosidade Tra",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Reasons to be Cheerful",
       "date": "Thu, 30 Jul 2026 08:00:03 +0000",
       "url": "https://reasonstobecheerful.world/kidney-exchange-chains/",
@@ -300,36 +267,69 @@
       "score": 0.73
     },
     {
-      "id": "69f37733",
-      "cat": "ambiente",
-      "title": "“Livros Restantes”: quando migrar é editar a própria vida",
-      "summary": "O que atravessa oceanos não são os objetos, mas os significados que eles deixaram em nós. Quem já precisou recomeçar em outro país sabe que a vida nunca caberá em uma mala. Opinião de Ionara Silva",
-      "source": "Público",
-      "date": "Thu, 06 Aug 2026 07:53:12 GMT",
-      "url": "https://www.publico.pt/2026/08/06/publico-brasil/opiniao/livros-restantes-migrar-editar-propria-vida-2184214",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "d2faa086",
-      "cat": "cultura",
-      "title": "Com nome antigo e novo palco, o Neopop volta a Viana para celebrar 20 anos de festival",
-      "summary": "De 6 a 8 de Agosto, o festival de música electrónica regressa à cidade minhota com o nome original, Anti-pop. Cartaz inclui nomes como Jeff Mills, Ben Klock e Richie Hawtins. E há um terceiro palco.",
-      "source": "Público",
-      "date": "Thu, 06 Aug 2026 07:49:00 GMT",
-      "url": "https://www.publico.pt/2026/08/06/culturaipsilon/noticia/nome-antigo-novo-palco-neopop-volta-viana-celebrar-20-anos-festival-2184094",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "dfd6fa07",
+      "id": "12971b20",
       "cat": "tecnologia",
-      "title": "Casar em Portugal está na moda?",
-      "summary": "Ronaldo e Georgina vão casar nos próximos dias? E será na Madeira? Não sabemos. Mas se tal acontecer, Portugal vai, com certeza, reforçar-se enquanto destino de “turismo de romance”.",
+      "title": "Como a psicose pós-parto levou Lindsay Clancy a matar os três filhos. O que é?",
+      "summary": "Oscilações rápidas de humor, névoa metal, alucinações e delírios são sintomas comuns à psicose pós-parto, com que a mãe norte-americana só foi tardiamente diagnosticada.",
+      "source": "Público",
+      "date": "Thu, 06 Aug 2026 14:08:41 GMT",
+      "url": "https://www.publico.pt/2026/08/06/impar/noticia/psicose-posparto-levou-lindsay-clancy-matar-tres-filhos-2184257",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "3e0f8ea9",
+      "cat": "tecnologia",
+      "title": "Governo aumenta em 16% financiamento para ensino especial",
+      "summary": "Os colégios vão passar a receber 836,6 euros por aluno por mês, mais 120,21 euros do que o valor atual. Mas consideram ser ainda insuficiente.",
       "source": "Observador",
-      "date": "Thu, 06 Aug 2026 08:39:40 +0100",
-      "url": "https://observador.pt/programas/contra-corrente/casar-em-portugal-esta-na-moda/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
+      "date": "Thu, 06 Aug 2026 14:03:17 +0100",
+      "url": "https://observador.pt/2026/08/06/governo-aumenta-em-16-financiamento-dos-colegios-de-ensino-especial/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1388:781:nowe:0:444/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/10/03102243/39354970.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "e9437ef2",
+      "cat": "tecnologia",
+      "title": "Assalto a casa em Lisboa rende meio milhão de euros",
+      "summary": "Suspeitos entraram numa casa no Parque das Nações, em Lisboa, levando mais de meio milhão de euros em dinheiro, joias e artigos de luxo. Assaltantes estarão em fuga.",
+      "source": "Observador",
+      "date": "Thu, 06 Aug 2026 13:56:59 +0100",
+      "url": "https://observador.pt/2026/08/06/assalto-a-casa-em-lisboa-rende-meio-milhao-de-euros-em-dinheiro-e-joias-suspeitos-estarao-em-fuga/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1437:809:nowe:0:144/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/27072853/psp-policia.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "a06249da",
+      "cat": "tecnologia",
+      "title": "Há 60 anos mudou Lisboa e a margem Sul. Dez factos sobre a Ponte 25 de Abril",
+      "summary": "A icónica ponte que liga as duas margens do rio Tejo celebra esta quinta-feira o sexagésimo aniversário. Conheça alguns números e curiosidades sobre a engenharia e o tráfego da Ponte 25 de Abril.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 06 Aug 2026 15:11:55 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/ha-60-anos-mudou-lisboa-e-a-margem-sul-dez-factos-sobre-a-ponte-25-de-abril",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-06-09-00-40-527781.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "63f35d40",
+      "cat": "tecnologia",
+      "title": "Commerzbank vai recomprar até 1,2 mil milhões em ações com UniCredit \"à porta\"",
+      "summary": "O banco alemão garantiu estar a \"investir no futuro\", em pleno processo de negociação com os italianos do UniCredit, acionistas maioritários que há cerca de dois anos que mantêm uma relação tumultuosa com o Commerzbank.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 06 Aug 2026 14:59:29 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/commerzbank-vai-recomprar-ate-1-2-mil-milhoes-em-acoes-com-unicredit-a-porta",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-08/img_100x100uu2025-08-25-12-08-07-507988.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
