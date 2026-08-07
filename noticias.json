@@ -1,5 +1,5 @@
 {
-  "last_update": "07/08/2026 00:09 UTC",
+  "last_update": "07/08/2026 07:27 UTC",
   "total": 30,
   "news": [
     {
@@ -36,15 +36,15 @@
       "score": 0.82
     },
     {
-      "id": "6d08a9cc",
+      "id": "bb0074b0",
       "cat": "tecnologia",
-      "title": "O que deu certo esta semana: progresso global na segurança no trânsito e muito mais",
-      "summary": "As estradas do mundo ficaram muito mais seguras, os níveis globais de fome diminuíram e o Brasil estabeleceu um recorde bem-vindo de desmatamento, e muito mais.",
-      "source": "Positive News",
-      "date": "Fri, 24 Jul 2026 05:35:31 +0000",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-30-of-2026/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/07/iStock-1302682520.jpeg",
-      "score": 0.82
+      "title": "Nova corrida aos certificados leva subscrições na app dos CTT a atingirem recorde",
+      "summary": "O lançamento de uma nova série renovada de certificados do Tesouro fez renascer estes produtos, enquanto os certificados de aforro continuam a captar poupanças das famílias. Foram aplicados cerca de 22,7 milhões de euros através da aplicação dos Correios em julho, que foi o melhor mês de sempre.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 07 Aug 2026 07:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/nova-corrida-aos-certificados-leva-subscricoes-na-app-dos-ctt-a-atingirem-recorde",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-08/img_100x100uu2025-08-19-07-34-05-507634.jpg",
+      "score": 0.79
     },
     {
       "id": "c5c9112d",
@@ -69,6 +69,17 @@
       "score": 0.79
     },
     {
+      "id": "f276196c",
+      "cat": "tecnologia",
+      "title": "Leopardos recuperam na Zâmbia enquanto comunidades trocam peles por sintéticas",
+      "summary": "A substituição de peles de leopardo reais por peles sintéticas ajudou os leopardos a se recuperarem no oeste da Zâmbia, dizem os pesquisadores.",
+      "source": "Positive News",
+      "date": "Mon, 27 Jul 2026 11:53:11 +0000",
+      "url": "https://www.positive.news/environment/leopards-recover-in-zambia-as-communities-swap-skins-for-synthetics/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/07/zambia4-1.jpg",
+      "score": 0.79
+    },
+    {
       "id": "3772d06c",
       "cat": "ciencia",
       "title": "Esqueça a corrida espermática: a fertilização pode depender do trabalho em equipe",
@@ -80,25 +91,14 @@
       "score": 0.79
     },
     {
-      "id": "ba10af0e",
+      "id": "5211a26a",
       "cat": "tecnologia",
-      "title": "Nélson Évora dá o “último salto” e termina carreira aos 42 anos",
-      "summary": "O atleta que conseguiu uma medalha olímpica de ouro em Pequim, momento que considera o mais importante da sua carreira, deu um último salto no Estádio Universitário de Lisboa.",
-      "source": "Público",
-      "date": "Thu, 06 Aug 2026 22:09:15 GMT",
-      "url": "https://www.publico.pt/2026/08/06/desporto/noticia/nelson-evora-ultimo-salto-termina-carreira-42-anos-2184320",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "25e82993",
-      "cat": "tecnologia",
-      "title": "Passar a 25 de Abril \"não é gratuito\" devido ao investimento",
-      "summary": "A Lusoponte defendeu que a manutenção das portagens na Ponte 25 de Abril é essencial para financiar os elevados custos de conservação e segurança da infraestrutura, afastando a ideia de gratuitidade",
-      "source": "Observador",
-      "date": "Thu, 06 Aug 2026 23:28:57 +0100",
-      "url": "https://observador.pt/2026/08/06/lusoponte-diz-atravessar-a-25-de-abril-nao-e-gratuito-devido-ao-investimento-na-manutencao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/06050213/47569531.jpg",
+      "title": "Galp reclama “tratamento equitativo” após nova taxa",
+      "summary": "A Galp defendeu a necessidade de garantir um &#8220;tratamento equitativo&#8221; para o setor petrolífero, na sequência da aprovação, pelo Governo, de uma taxa de 33% sobre os lucros extraordinários das petrolíferas, avança o Público. Em reação à nova medida, fonte oficial da empresa afirmou que é i",
+      "source": "ECO",
+      "date": "Fri, 07 Aug 2026 07:22:26 +0000",
+      "url": "https://eco.sapo.pt/2026/08/07/galp-reclama-tratamento-equitativo-apos-nova-taxa/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-zils-sines04-1.jpg",
       "score": 0.76
     },
     {
@@ -157,6 +157,17 @@
       "score": 0.76
     },
     {
+      "id": "ab565057",
+      "cat": "tecnologia",
+      "title": "Novo carregamento faz subir importações de gás russo para 8% do total nacional",
+      "summary": "Carregamento em Junho fez subir importações de gás natural liquefeito da Rússia no primeiro semestre. A partir do final de 2027, serão proibidas todas as importações de gás russo para a UE.",
+      "source": "Público",
+      "date": "Fri, 07 Aug 2026 05:08:00 GMT",
+      "url": "https://www.publico.pt/2026/08/07/economia/noticia/novo-carregamento-faz-subir-importacoes-gas-russo-8-total-nacional-2184238",
+      "img": null,
+      "score": 0.73
+    },
+    {
       "id": "6e9127e2",
       "cat": "tecnologia",
       "title": "Ceuta não ameaçou a Europa. A resposta da Europa ameaçou",
@@ -179,47 +190,47 @@
       "score": 0.73
     },
     {
-      "id": "2a116cda",
+      "id": "95768c15",
       "cat": "tecnologia",
-      "title": "Ferry que liga Aveiro a São Jacinto fica mais barato",
-      "summary": "A diminuição das tarifas nas viagens quer tornar o serviço mais acessível, incentivar o uso do transporte público e a mobilidade sustentável. A autarquia prevê uma redução ainda mais abrangente.",
+      "title": "O Hamas está mesmo disposto a desarmar?",
+      "summary": "O acordo de paz anunciado por Trump está num impasse. O Hamas admite desarmar, mas Israel ainda não aceitou o acordo. O que está realmente em causa e porque é que a paz continua longe?",
       "source": "Observador",
-      "date": "Thu, 06 Aug 2026 23:36:05 +0100",
-      "url": "https://observador.pt/2026/08/06/aveiro-baixa-tarifas-do-ferry-entre-o-forte-da-barra-e-sao-jacinto-passe-de-estudante-cai-para-10-euros/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/09194636/43735321.jpg",
+      "date": "Fri, 07 Aug 2026 05:02:23 +0100",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/o-hamas-esta-mesmo-disposto-a-desarmar/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
       "score": 0.73
     },
     {
-      "id": "004e24d9",
+      "id": "a05f91e7",
       "cat": "tecnologia",
-      "title": "EUA aumentam controlo das redes sociais de estrangeiros que pedem vistos",
-      "summary": "De acordo com o Departamento de Estado, \"a verificação dos perfis online visa permitir que os requerentes provem que cumprem os requisitos para obter um visto de acordo com a legislação americana e garantir que nenhuma pessoa representa um risco para a segurança e proteção dos Estados Unidos\".",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 06 Aug 2026 23:25:11 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/eua-aumentam-controlo-das-redes-sociais-de-estrangeiros-que-pedem-vistos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2015-04/img_100x100uu2015-04-29-02-49-00-251898.jpg",
+      "title": "1h. Benfica goleia Hearts e aproxima-se da Liga Europa",
+      "summary": "Marco Silva destaca melhoria da equipa em relação aos últimos jogos, mas lembra que ainda é uma fase prematura da temporada. Ainda, Donald Trump diz que o Estreito de Ormuz está \"mais ou menos\" aberto",
+      "source": "Observador",
+      "date": "Fri, 07 Aug 2026 01:17:45 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2345/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "11015be9",
+      "id": "4a8c290c",
       "cat": "tecnologia",
-      "title": "ExxonMobil já escolheu empreiteiro para megaprojeto de gás em Moçambique",
-      "summary": "Segundo a petrolífera norte-americana, que lidera o megaprojeto, um dos maiores do género em África, a contratação do consórcio destina-se a apoiar as atividades de definição e planeamento do projeto à medida que os parceiros avançam para a decisão final de investimento.",
+      "title": "Investimento nas redes de gás divide setor antes do parecer da ERSE",
+      "summary": "Fechada a consulta pública ao plano de investimento para o período 2027-203, a ERSE inicia agora a análise dos contributos recebidos. A Floene defende que a rede continua a ser essencial para integrar biometano e garantir a segurança de abastecimento, enquanto a Zero pede ao regulador que rejeite os",
       "source": "Jornal de Negócios",
-      "date": "Thu, 06 Aug 2026 22:54:46 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/exxonmobil-ja-escolheu-empreiteiro-para-megaprojeto-de-gas-em-mocambique",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-24-17-11-23-492869.jpg",
+      "date": "Fri, 07 Aug 2026 07:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/investimento-nas-redes-de-gas-divide-setor-antes-do-parecer-da-erse",
+      "img": "https://cdn.jornaldenegocios.pt/images/2020-04/img_100x100uu2020-04-30-21-29-12-375259.jpg",
       "score": 0.73
     },
     {
-      "id": "4bc19ca8",
-      "cat": "economia",
-      "title": "Mude para o Bloco, Dr. Rio",
-      "summary": "Se há modelo económico que proporcionou um crescimento económico notável nos últimos 200 anos foi o capitalismo.",
+      "id": "b1847349",
+      "cat": "ciencia",
+      "title": "Modelo de IA da Meta invadiu sistema de outra empresa de forma autónoma",
+      "summary": "A Meta afirmou que está a investigar o incidente e divulgará um relatório quando a investigação estiver concluída.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 06 Aug 2026 21:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/mude-para-o-bloco-dr-rio",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-16-00-296266.png",
+      "date": "Fri, 07 Aug 2026 07:15:06 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/modelo-de-ia-da-meta-invadiu-sistema-de-outra-empresa-de-forma-autonoma",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-09-07-22-57-526278.jpg",
       "score": 0.73
     },
     {
@@ -234,6 +245,28 @@
       "score": 0.73
     },
     {
+      "id": "707b2ed4",
+      "cat": "desporto",
+      "title": "Nelson Évora fecha ciclo de ouro e pondera futuro como dirigente",
+      "summary": "Chegou ao fim a carreira de uma das maiores lendas do desporto nacional.",
+      "source": "RTP",
+      "date": "Fri, 07 Aug 2026 07:20:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/nelson-evora-fecha-ciclo-de-ouro-e-pondera-futuro-como-dirigente_v1758142",
+      "img": "https://cdn-images.rtp.pt/icm/images/7c/7cd37339f50b182430e86e2296e419d1_N.jpg?",
+      "score": 0.73
+    },
+    {
+      "id": "2f54f2e1",
+      "cat": "tecnologia",
+      "title": "Volta. Francisco Campos vence etapa e Rui Oliveira assume a amarela",
+      "summary": "Vitória de Francisco Campos na primeira etapa em linha e liderança para Rui Oliveira.",
+      "source": "RTP",
+      "date": "Fri, 07 Aug 2026 07:16:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/volta-francisco-campos-vence-etapa-e-rui-oliveira-assume-a-amarela_v1758141",
+      "img": "https://cdn-images.rtp.pt/icm/images/27/276ec1f67174d2e79dc3eda9c2ac98da_N.jpg?",
+      "score": 0.73
+    },
+    {
       "id": "0ac060bd",
       "cat": "tecnologia",
       "title": "Surfista Francisco Ordonhas em terceiro na prova de qualificação no Reino Unido",
@@ -245,47 +278,25 @@
       "score": 0.73
     },
     {
-      "id": "a18c145a",
+      "id": "64c00cbe",
       "cat": "tecnologia",
-      "title": "Defesa central Ahmed Sidibe reforça Vitória de Guimarães por empréstimo",
-      "summary": "O defesa central Ahmed Sidibe, de 24 anos, vai reforçar o Vitória de Guimarães em 2026/27, por empréstimo do Veneza, anunciaram hoje os minhotos, que ficam com opção de compra sobre o franco-senegalês.",
-      "source": "RTP",
-      "date": "Thu, 06 Aug 2026 23:11:27 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/defesa-central-ahmed-sidibe-reforca-vitoria-de-guimaraes-por-emprestimo_d1758110",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "title": "Um em cada três governantes declarou ter empresas",
+      "summary": "Ao todo, 18 dos 60 membros do Governo de Luís Montenegro declararam à Entidade para a Transparência (EpT) deter participações em empresas, incluindo o próprio primeiro-ministro, o equivalente a 30% do Executivo, avança o Expresso. Entre os ministros, a proporção é mais elevada: excluindo o primeiro-",
+      "source": "ECO",
+      "date": "Fri, 07 Aug 2026 06:54:53 +0000",
+      "url": "https://eco.sapo.pt/2026/08/07/um-em-cada-tres-governantes-declarou-ter-empresas/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-47549653-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "a1fe7ac0",
+      "id": "c2bd49c8",
       "cat": "desporto",
-      "title": "Sporting de Braga vence em casa e ganha vantagem na Liga Conferência",
-      "summary": "O Sporting de Braga derrotou hoje o Dínamo Minsk, vice-campeão da Bielorrússia, na primeira-mão da terceira pré-eliminatória da Liga Conferência de futebol, com um golo solitário.",
-      "source": "RTP",
-      "date": "Thu, 06 Aug 2026 23:03:52 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/sporting-de-braga-vence-em-casa-e-ganha-vantagem-na-liga-conferencia_d1758107",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/84/8449408354e4120e1defb1c668eb1e2d?w=350&amp;q=50&amp;rect=0,508,5000,2741&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "6d1fcbb9",
-      "cat": "tecnologia",
-      "title": "Meio milhão por hora",
-      "summary": "O Diário de Notícias descobriu que os cinco maiores bancos &#8220;lucraram mais de meio milhão por hora&#8221; no primeiro semestre. É um género jornalístico: pega-se num agregado grande, divide-se por 8.760 horas, e obtém-se indignação instantânea. Funciona com tudo. O Estado português arrecada imp",
+      "title": "“Se a centralização conseguir manter o bolo atual já será uma vitória”",
+      "summary": "Tiago Veiga Gomes considera que &#8220;andamos a dormir&#8221; na questão da centralização dos direitos audiovisuais do futebol e que o processo tarda. O sócio da Abreu Advogados ligado à área do desporto admite que o resultado inicial poderá ficar abaixo em termos de encaixe. Ainda assim, acredita ",
       "source": "ECO",
-      "date": "Thu, 06 Aug 2026 19:00:41 +0000",
-      "url": "https://eco.sapo.pt/opiniao/meio-milhao-por-hora/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/06/pedro-santa-clara-opiniao.png",
-      "score": 0.73
-    },
-    {
-      "id": "1e8c1d63",
-      "cat": "tecnologia",
-      "title": "Fecho de fábrica de calçado em Gaia atira 54 trabalhadores para o desemprego",
-      "summary": "A administração da fábrica de calçado Pontual, em Vila Nova de Gaia, confirmou o encerramento definitivo da unidade industrial, dando conta que o pedido de insolvência deu entrada esta terça-feira. O pagamento de salários de julho e subsídios de férias aos trabalhadores da fábrica de calçado Pontual",
-      "source": "ECO",
-      "date": "Thu, 06 Aug 2026 18:14:02 +0000",
-      "url": "https://eco.sapo.pt/2026/08/06/fecho-de-fabrica-de-calcado-em-gaia-atira-54-trabalhadores-para-o-desemprego/",
-      "img": "https://eco.imgix.net/uploads/2024/11/cropped-faist0094.jpg",
+      "date": "Fri, 07 Aug 2026 06:02:11 +0000",
+      "url": "https://eco.sapo.pt/entrevista/se-a-centralizacao-conseguir-manter-o-bolo-atual-ja-sera-uma-vitoria/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-fernando-veiga-gomes10.jpg",
       "score": 0.73
     },
     {
@@ -320,17 +331,6 @@
       "url": "https://reasonstobecheerful.world/kidney-exchange-chains/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/07/shutterstock_2260821535-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "4540fde3",
-      "cat": "tecnologia",
-      "title": "O ministro no seu labirinto: os casos que cercam Luís Neves",
-      "summary": "Foi a atual direção da PJ que pediu a auditoria aos 8 anos de liderança de Luís Neves. O ministro pode ter de pagar 2.550 euros se for condenado pelo Tribunal de Contas. E em Setembro enfrenta a CPI.",
-      "source": "Observador",
-      "date": "Thu, 06 Aug 2026 23:47:30 +0100",
-      "url": "https://observador.pt/especiais/o-julgamento-a-auditoria-o-inquerito-a-verificacao-e-a-cpi-o-labirinto-de-casos-judiciais-e-politicos-que-cerca-luis-neves/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/29192326/jporfirio-conf-imprensa-luis-neves-29-07-2026-02-23-scaled.jpg",
-      "score": 0.7
     }
   ]
 }
