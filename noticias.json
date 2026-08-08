@@ -1,18 +1,7 @@
 {
-  "last_update": "08/08/2026 07:04 UTC",
+  "last_update": "08/08/2026 13:03 UTC",
   "total": 30,
   "news": [
-    {
-      "id": "4d7da207",
-      "cat": "desporto",
-      "title": "Boas novas na história, 6 de Agosto",
-      "summary": "Há 100 anos, a americana Gertrude Ederle se tornou a primeira mulher a atravessar a nado o Canal da Mancha. Chamada de “A Rainha das Ondas”, ela foi medalhista de ouro olímpica e ex-recordista mundial em 5 eventos pelos quais recebeu um desfile em seu retorno dos jogos de Paris em",
-      "source": "Good News Network",
-      "date": "Thu, 06 Aug 2026 07:00:00 +0000",
-      "url": "https://www.goodnewsnetwork.org/events060806/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/08/Olympic-swinner-Gertrude-Ederle.jpg",
-      "score": 0.82
-    },
     {
       "id": "c8f4d3ed",
       "cat": "tecnologia",
@@ -25,14 +14,14 @@
       "score": 0.82
     },
     {
-      "id": "4e74d582",
+      "id": "a4eab4a7",
       "cat": "economia",
-      "title": "Portugal alocou mais de mil milhões em I&D em 2025. É o terceiro maior crescimento na UE",
-      "summary": "O Governo acelerou a despesa a alocar em investigação e desenvolvimento no ano passado. Num prazo de 10 ano, o investimento fica abaixo da média europeia, sendo que o peso do PIB também recuou na década.",
+      "title": "Wall Street prevê subida de bónus dos banqueiros impulsionada pela volatilidade",
+      "summary": "Os bónus dos banqueiros de investimento e comerciais de Wall Street deverão subir entre 10% e 15%, ou até mais, este ano. Crescimento da volatilidade nos mercados e lucros recorde estão por detrás desta previsão.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 07 Aug 2026 18:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/portugal-alocou-mais-de-mil-milhoes-em-i-d-em-2025-e-o-terceiro-maior-crescimento-na-ue",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-05/img_100x100uu2024-05-29-22-29-14-478360.jpg",
+      "date": "Sat, 08 Aug 2026 10:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/wall-street-preve-subida-de-bonus-dos-banqueiros-impulsionada-pela-volatilidade",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-03-14-55-58-519515.jpg",
       "score": 0.79
     },
     {
@@ -80,6 +69,39 @@
       "score": 0.79
     },
     {
+      "id": "29f34580",
+      "cat": "saude",
+      "title": "Todd Blanche confirmado no Senado como procurador-geral dos EUA em votação renhida",
+      "summary": "O antigo advogado de Trump teve de concordar por escrito em limitar o âmbito do acordo de imunidade fiscal assinado com Trump e os filhos. Duas senadoras republicanas votaram contra.",
+      "source": "Público",
+      "date": "Sat, 08 Aug 2026 12:08:51 GMT",
+      "url": "https://www.publico.pt/2026/08/08/mundo/noticia/todd-blanche-confirmado-senado-procuradorgeral-eua-votacao-renhida-2184484",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "d160d3a4",
+      "cat": "ciencia",
+      "title": "Falo português, fala-me em galego!",
+      "summary": "Entre acasos e descobertas literárias, um relato sobre o primeiro contato com a língua galega e a grata percepção de que existe um universo cultural vizinho que dispensa traduções. Crónica de Vivien Merciel Suarez",
+      "source": "Público",
+      "date": "Sat, 08 Aug 2026 11:00:00 GMT",
+      "url": "https://www.publico.pt/2026/08/08/publico-brasil/cronica/falo-portugues-falame-galego-2184476",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "7a6ba0d3",
+      "cat": "tecnologia",
+      "title": "PRR financia 767 habitações nos Açores com investimento de 65 milhões",
+      "summary": "O investimento em habitação financiado pelo Plano de Recuperação e Resiliência nos Açores abrange 142 construções, 480 reabilitações e 145 lotes infraestruturados,",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 08 Aug 2026 11:40:22 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/prr-financia-767-habitacoes-nos-acores-com-investimento-de-65-milhoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-18-12-42-58-523800.jpg",
+      "score": 0.76
+    },
+    {
       "id": "ffad738a",
       "cat": "cultura",
       "title": "I Liga. Estoril - Famalicão",
@@ -88,6 +110,17 @@
       "date": "Fri, 07 Aug 2026 20:04:27 +0100",
       "url": "https://www.rtp.pt/noticias/desporto/i-liga-estoril-famalicao_e1758270",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b431c6849296fac84ca26a332dbb54a?w=350&amp;q=50&amp;rect=0,4,1024,561&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "9bbc953d",
+      "cat": "tecnologia",
+      "title": "PRR financia 767 habitações nos Açores com investimento de 65 milhões",
+      "summary": "O investimento em habitação financiado pelo Plano de Recuperação e Resiliência (PRR) nos Açores ronda os 65 milhões de euros e abrange 767 respostas habitacionais, anunciou o Governo Regional. A nível regional, o investimento financiado pelo PRR contempla 142 construções, 480 reabilitações e 145 lot",
+      "source": "ECO",
+      "date": "Sat, 08 Aug 2026 10:25:20 +0000",
+      "url": "https://eco.sapo.pt/2026/08/08/prr-financia-767-habitacoes-nos-acores-com-investimento-de-65-milhoes/",
+      "img": "https://eco.imgix.net/uploads/2026/04/cropped-eco-102.jpg",
       "score": 0.76
     },
     {
@@ -157,58 +190,36 @@
       "score": 0.76
     },
     {
-      "id": "607d6cac",
+      "id": "baba18ae",
       "cat": "tecnologia",
-      "title": "Amor não se compra",
-      "summary": "As notícias sobre criadouros clandestinos de animais me pôs a pensar em quem hoje em dia ainda paga para ter amigos de verdade. Opinião de Cláudia Maximino",
+      "title": "De Favaios ao Tua, há um Douro que precisa de tempo",
+      "summary": "Do planalto de Alijó às margens represadas do Tua, o Douro muda de altitude, de solo e de temperatura. Pelo caminho, há pão, vinho e pessoas que continuam a fazer da terra mais do que uma paisagem.",
       "source": "Público",
-      "date": "Sat, 08 Aug 2026 06:01:24 GMT",
-      "url": "https://www.publico.pt/2026/08/08/publico-brasil/opiniao/amor-nao-compra-2184467",
+      "date": "Sat, 08 Aug 2026 11:13:24 GMT",
+      "url": "https://www.publico.pt/2026/08/08/fugas/reportagem/favaios-ha-douro-precisa-tempo-2182661",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "7d55ef11",
+      "id": "a84b15bc",
       "cat": "tecnologia",
-      "title": "Argus continua a agonizar no cais, mas há novo esforço para o tentar salvar",
-      "summary": "Depois de ter estado guardado na gaveta durante cinco anos, o projecto de recuperação desenhado pela autarquia ilhavense e a empresa proprietária do navio está a ser, novamente, discutido.",
-      "source": "Público",
-      "date": "Sat, 08 Aug 2026 05:47:00 GMT",
-      "url": "https://www.publico.pt/2026/08/08/local/noticia/argus-continua-agonizar-cais-ha-novo-esforco-tentar-salvar-2184416",
-      "img": null,
+      "title": "12h. Educação. Governo diz que modelo digital é para manter",
+      "summary": "Na Rádio Observador, Alexandre Homem Cristo faz um balanço positivo da segunda fase dos exames nacionais. Ainda, desvendado o caso que leva Luís Neves a julgamento no Tribunal de Contas.",
+      "source": "Observador",
+      "date": "Sat, 08 Aug 2026 12:26:42 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2410/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "c09fa702",
+      "id": "732f2cd7",
       "cat": "tecnologia",
-      "title": "Mais candidatos ao superior são um “sinal positivo”, mas universidades temem aumento do abandono no 1.º ano",
-      "summary": "As mais de 60 mil candidaturas ao superior podem reflectir o regresso de estudantes que não conseguiram concorrer em 2025. Mas há receios sobre a diminuição da “fasquia de entrada na universidade”.",
-      "source": "Público",
-      "date": "Sat, 08 Aug 2026 05:03:00 GMT",
-      "url": "https://www.publico.pt/2026/08/08/sociedade/noticia/candidatos-superior-sao-sinal-positivo-universidades-temem-aumento-abandono-1-ano-2184417",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "3eaaab61",
-      "cat": "tecnologia",
-      "title": "Mercado laboral dá combustível a Wall Street para voltar aos ganhos. SpaceX dispara 15%",
-      "summary": "Depois de uma sessão de perdas, os principais índices norte-americanos voltaram a negociar em território positivo. A contração no mercado laboral dá à Fed mais tempo para subir os juros e aos investidores mais espaço de manobra para assumirem riscos.",
+      "title": "O Portugal jurássico que muitos conhecem e poucos conseguem visitar",
+      "summary": "Apesar da sua importância científica e potencial pedagógico e turístico, as condições para visitar sítios paleontológicos como Carenque continuam a ser inexistentes. Algo que tende a mudar lentamente e, em casos como os das jazidas das Serras de Aires e Candeeiros, com recurso à parceria com o setor",
       "source": "Jornal de Negócios",
-      "date": "Fri, 07 Aug 2026 21:16:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/mercado-laboral-da-combustivel-a-wall-street-para-voltar-aos-ganhos-spacex-dispara-15",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-07-21-05-00-527895.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "35ce34be",
-      "cat": "economia",
-      "title": "Seguro promulga decreto que autoriza Governo a aprovar regime para heranças indivisas",
-      "summary": "O diploma do Governo para desbloquear a venda de imóveis em heranças indivisas a pedido de um único herdeiro foi aprovado no parlamento, em julho, em votação final global, pelo PSD, CDS-PP, PS, IL e JPP.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 07 Aug 2026 20:21:14 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/seguro-promulga-decreto-que-autoriza-governo-a-aprovar-regime-para-herancas-indivisas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-09-12-53-54-491975.jpg",
+      "date": "Sat, 08 Aug 2026 11:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/o-portugal-jurassico-que-muitos-conhecem-e-poucos-conseguem-visitar",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-07-14-19-00-527878.jpg",
       "score": 0.73
     },
     {
@@ -245,36 +256,25 @@
       "score": 0.73
     },
     {
-      "id": "fe6ce340",
+      "id": "5d3e10e0",
       "cat": "tecnologia",
-      "title": "Bola da ‘mão de deus’ de Maradona em leilão por mais de dois milhões de euros",
-      "summary": "A bola com que Diego Maradona marcou o golo da &#8216;mão de deus&#8217; na lendária vitória da Argentina sobre a Inglaterra no Mundial de 1986 vai a leilão, com um valor inicial de 2,2 milhões de euros. O leilão, organizado pela norte-americana Heritage Auctions, terá lugar de 21 a 23 de agosto, e,",
+      "title": "Quanto custa ver o eclipse? Dos óculos grátis aos telescópios de mais de 12 mil euros",
+      "summary": "Quanto custa ver um eclipse? A resposta depende do tipo de experiência que se procura: há simples óculos certificados que permitem observar o fenómeno a preços muito variados &#8212; e relativamente baratos &#8211;, mas quem quiser recorrer a binóculos ou telescópios preparados para a observação sol",
       "source": "ECO",
-      "date": "Fri, 07 Aug 2026 19:14:04 +0000",
-      "url": "https://eco.sapo.pt/2026/08/07/bola-da-mao-de-deus-de-maradona-em-leilao-com-valor-superior-a-2-milhoes-de-euros/",
-      "img": "https://eco.imgix.net/uploads/2020/12/cropped-maradona.jpg",
+      "date": "Sat, 08 Aug 2026 11:34:02 +0000",
+      "url": "https://eco.sapo.pt/2026/08/08/quanto-custa-ver-o-eclipse-dos-oculos-gratis-aos-telescopios-de-mais-de-12-mil-euros/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc202106103235727909259474.jpg",
       "score": 0.73
     },
     {
-      "id": "3eae828c",
+      "id": "0eda1159",
       "cat": "tecnologia",
-      "title": "Trump recorre ao Supremo após tribunal ter bloqueado construção de salão de baile",
-      "summary": "O Presidente norte-americano anunciou que vai recorrer ao Supremo Tribunal após um tribunal de recurso ter decidido bloquear a construção do salão de baile da Casa Branca e exigir que o projeto seja aprovado pelo Congresso. “Vamos recorrer imediatamente para o Supremo Tribunal dos Estados Unidos. O ",
-      "source": "ECO",
-      "date": "Fri, 07 Aug 2026 18:53:06 +0000",
-      "url": "https://eco.sapo.pt/2026/08/07/trump-recorre-ao-supremo-apos-tribunal-ter-bloqueado-construcao-de-salao-de-baile/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-47374563-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "e2835325",
-      "cat": "tecnologia",
-      "title": "Bolt, Lime e Byrd contestam referendo às trotinetes em Lisboa proposto pelo ACP",
-      "summary": "Depois de o Automóvel Club de Portugal (ACP) defender a realização de um referendo municipal para proibir as trotinetes elétricas em Lisboa, os operadores Bolt, Lime e Byrd contestam a proposta, considerando que &#8220;associa um problema real a uma solução errada&#8221;. Em comunicado, defendem que",
-      "source": "ECO",
-      "date": "Fri, 07 Aug 2026 18:42:59 +0000",
-      "url": "https://eco.sapo.pt/2026/08/07/bolt-lime-e-byrd-contestam-referendo-as-trotinetes-em-lisboa-proposto-pelo-acp/",
-      "img": "https://eco.imgix.net/uploads/2026/03/cropped-doc2019012525481313jsg-0425.jpg",
+      "title": "Boas novas na história, 8 de Agosto",
+      "summary": "Há 450 anos, foi lançada a pedra angular do primeiro observatório astronómico moderno da Europa – o Uraniborg, desenhado por Tycho Brahe. Foi também o último a ser construído sem um telescópio como instrumento principal. Foi o primeiro complexo científico a ser financiado inteiramente por um estado para o propósito",
+      "source": "Good News Network",
+      "date": "Sat, 08 Aug 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060808/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/08/Uraniborg-public-domain.jpg",
       "score": 0.73
     },
     {
@@ -311,25 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "1dd3f518",
-      "cat": "tecnologia",
-      "title": "6h. Sporting estreia-se hoje no campeonato frente ao Estrela",
-      "summary": "Rui Borges fala numa deslocação complicada. Pepa garante foco na equipa. Ainda, Luís Neves esteve envolvido na decisão de avançar com as auditorias à Polícia Judiciária.",
+      "id": "2ed11924",
+      "cat": "geral",
+      "title": "Encontrados corpos de 5 alpinistas desaparecidos em 2025",
+      "summary": "Equipas de socorro do Nepal encontraram os corpos de cinco alpinistas, incluindo três estrangeiros, arrastados no ano passado por uma avalancha no Monte Yalung Ri, perto da fronteira com o Tibete.",
       "source": "Observador",
-      "date": "Sat, 08 Aug 2026 06:15:47 +0100",
-      "url": "https://observador.pt/programas/noticiario/6h-sporting-estreia-se-hoje-no-campeonato-frente-ao-estrela/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 08 Aug 2026 13:15:31 +0100",
+      "url": "https://observador.pt/2026/08/08/encontrados-os-corpos-de-cinco-alpinistas-desaparecidos-desde-novembro-no-nepal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:115/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08125112/47563377.jpg",
       "score": 0.7
     },
     {
-      "id": "5dc6ed54",
+      "id": "14a87de2",
       "cat": "tecnologia",
-      "title": "Canções para o Eclipse",
-      "summary": "Como soa o dia a escurecer? Do ecletismo dos Talking Heads e Yeah Yeah Yeahs à voz mística de Né Ladeiras e ao clássico dos Pink Floyd, desenhamos a banda sonora ideal para o eclipse.",
+      "title": "O aeródromo de Bragança é o melhor sítio para o eclipse?",
+      "summary": "Mário Francisco Gomes, presidente da União das Freguesias de Aveleda e Rio de Onor, afirma que o aeródromo evita o risco de incêndio. Também oferece 99,8% de visibilidade e festa até à meia-noite.",
       "source": "Observador",
-      "date": "Sat, 08 Aug 2026 06:04:24 +0100",
-      "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-o-eclipse/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg",
+      "date": "Sat, 08 Aug 2026 13:14:52 +0100",
+      "url": "https://observador.pt/programas/guia-para-o-eclipse/o-aerodromo-de-braganca-e-o-melhor-sitio-para-o-eclipse/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31173826/770-podcast-guia-para-o-eclipse.jpg",
       "score": 0.7
     }
   ]
