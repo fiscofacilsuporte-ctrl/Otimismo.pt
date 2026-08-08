@@ -1,5 +1,5 @@
 {
-  "last_update": "08/08/2026 02:05 UTC",
+  "last_update": "08/08/2026 07:04 UTC",
   "total": 30,
   "news": [
     {
@@ -11,17 +11,6 @@
       "date": "Thu, 06 Aug 2026 07:00:00 +0000",
       "url": "https://www.goodnewsnetwork.org/events060806/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/08/Olympic-swinner-Gertrude-Ederle.jpg",
-      "score": 0.82
-    },
-    {
-      "id": "4ac11053",
-      "cat": "ciencia",
-      "title": "Usado por séculos como veneno, Larkspur e Wolfsbane podem se tornar remédios após descoberta em laboratório",
-      "summary": "Duas plantas notoriamente tóxicas – conhecidas também por tratar a dor, a malária, o cancro e as pragas – podem ter tido essas propriedades medicinais sintetizadas num laboratório pela primeira vez. Os pesquisadores por trás da descoberta acreditam que “as plantas são os melhores químicos” – e sua descoberta demonstra que a próxima geração",
-      "source": "Good News Network",
-      "date": "Wed, 05 Aug 2026 18:30:29 +0000",
-      "url": "https://www.goodnewsnetwork.org/used-for-millennia-as-poison-larkspur-wolfsbane-could-become-medicine-after-laboratory-breakthrough/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/A-larkspur-specimen-in-bloom-at-Beal-Botanical-Garden-credit-Paul-Henderson-released-by-MSU.jpg",
       "score": 0.82
     },
     {
@@ -55,6 +44,17 @@
       "date": "Fri, 07 Aug 2026 15:30:12 +0000",
       "url": "https://www.goodnewsnetwork.org/highest-resolution-view-of-the-sun-yet-reveals-breaking-waves-and-magnetic-mysteries/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Little-plasma-whirlpools-on-the-Suns-surface-credit.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "c5c9112d",
+      "cat": "cultura",
+      "title": "Moradores conseguem triplicar paisagens marítimas protegidas ao longo de 300 milhas da costa deslumbrante de Turkiye",
+      "summary": "Da costa mediterrânica de Turkiye vem a notável história de como um grupo de conservacionistas e pescadores sem apoio recebeu a ajuda de uma ONG e transformou 300 milhas de costa num paraíso marinho de biodiversidade. Partes da área já haviam sido designadas como santuário marinho",
+      "source": "Good News Network",
+      "date": "Thu, 06 Aug 2026 16:00:22 +0000",
+      "url": "https://www.goodnewsnetwork.org/locals-succeed-in-tripling-protected-seascapes-along-300-miles-of-turkiyes-breathtaking-coastline/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/The-seas-that-Endangered-Landscapes-and-Seascapes-Program-is-working-to-restore-and-protect-credit-Zafer-Kizilkaya-provided-to-ELSP.jpg",
       "score": 0.79
     },
     {
@@ -124,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "2bfb59a8",
+      "cat": "tecnologia",
+      "title": "Consumo de cannabis entre adolescentes está associado a memória mais lenta e crescimento do pensamento",
+      "summary": "Os adolescentes que começam a usar cannabis podem experimentar um crescimento mais lento na memória, atenção, linguagem e velocidade de processamento. Suas habilidades geralmente se desenvolviam normalmente no início, depois começavam a se estabilizar enquanto os não usuários continuavam melhorando. O THC parecia ser o fator mais provável, especialmente para a piora da memória.",
+      "source": "ScienceDaily",
+      "date": "Fri, 07 Aug 2026 21:25:25 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
+      "img": "https://www.sciencedaily.com/images/1920/cannabis-effects-brain-mental-health.webp",
+      "score": 0.76
+    },
+    {
       "id": "a4ae6e66",
       "cat": "ciencia",
       "title": "Patch de ultrassom vestível aumenta o sono REM sem medicamentos ou cirurgia",
@@ -132,17 +143,6 @@
       "date": "Fri, 07 Aug 2026 03:31:52 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
       "img": "https://www.sciencedaily.com/images/1920/ultrasound-patch-boosts-rem-sleep.webp",
-      "score": 0.76
-    },
-    {
-      "id": "1d5ed262",
-      "cat": "tecnologia",
-      "title": "Nova terapia para autismo mostra benefícios surpreendentes mesmo em ratos adultos",
-      "summary": "O bloqueio do transportador de glicina SLC6A20 restaurou importante sinalização cerebral e melhorou comportamentos sociais, de comunicação e repetitivos em modelos de camundongos relacionados ao autismo. O tratamento também funcionou em organoides cerebrais humanos e mostrou efeitos duradouros em camundongos adultos, sugerindo que o cérebro pode permanecer mais forte.",
-      "source": "ScienceDaily",
-      "date": "Fri, 07 Aug 2026 08:38:30 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
-      "img": "https://www.sciencedaily.com/images/1920/dementia-memory-treatment-brain-puzzle.webp",
       "score": 0.76
     },
     {
@@ -157,47 +157,36 @@
       "score": 0.76
     },
     {
-      "id": "b78c0880",
-      "cat": "geral",
-      "title": "Coeso e empoderado",
-      "summary": "O atarefado primeiro-ministro que se cuide: o seu inteligente ministro da Administração Interna passou a ser o seu fantasma, a sua inevitável ameaça. Opinião de António Barreto",
+      "id": "607d6cac",
+      "cat": "tecnologia",
+      "title": "Amor não se compra",
+      "summary": "As notícias sobre criadouros clandestinos de animais me pôs a pensar em quem hoje em dia ainda paga para ter amigos de verdade. Opinião de Cláudia Maximino",
       "source": "Público",
-      "date": "Fri, 07 Aug 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/08/08/opiniao/opiniao/coeso-empoderado-2184453",
+      "date": "Sat, 08 Aug 2026 06:01:24 GMT",
+      "url": "https://www.publico.pt/2026/08/08/publico-brasil/opiniao/amor-nao-compra-2184467",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "7331f888",
+      "id": "7d55ef11",
       "cat": "tecnologia",
-      "title": "A cidade histórica também precisa de respirar",
-      "summary": "É tempo de medir o progresso pela inteligência e renaturalizar a cidade. Fica um desafio para o grande legado que o Porto pode criar para o futuro: um Parque Urbano da Avenida da Ponte. Opinião de Inês Moreira",
+      "title": "Argus continua a agonizar no cais, mas há novo esforço para o tentar salvar",
+      "summary": "Depois de ter estado guardado na gaveta durante cinco anos, o projecto de recuperação desenhado pela autarquia ilhavense e a empresa proprietária do navio está a ser, novamente, discutido.",
       "source": "Público",
-      "date": "Fri, 07 Aug 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/08/08/opiniao/opiniao/cidade-historica-tambem-precisa-respirar-2184251",
+      "date": "Sat, 08 Aug 2026 05:47:00 GMT",
+      "url": "https://www.publico.pt/2026/08/08/local/noticia/argus-continua-agonizar-cais-ha-novo-esforco-tentar-salvar-2184416",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "ece3ccd6",
+      "id": "c09fa702",
       "cat": "tecnologia",
-      "title": "Ceuta, e mais uma vez as fronteiras da União Europeia: a solidariedade que falta",
-      "summary": "Independentemente de eventuais campanhas de desinformação online ou de interpretações erradas de decisões judiciais, como a do Supremo espanhol, está clara a solidariedade que falta na UE. Opinião de Sérgio Maia Tavares Marques",
+      "title": "Mais candidatos ao superior são um “sinal positivo”, mas universidades temem aumento do abandono no 1.º ano",
+      "summary": "As mais de 60 mil candidaturas ao superior podem reflectir o regresso de estudantes que não conseguiram concorrer em 2025. Mas há receios sobre a diminuição da “fasquia de entrada na universidade”.",
       "source": "Público",
-      "date": "Fri, 07 Aug 2026 23:10:00 GMT",
-      "url": "https://www.publico.pt/2026/08/08/opiniao/opiniao/ceuta-fronteiras-uniao-europeia-solidariedade-falta-2184127",
+      "date": "Sat, 08 Aug 2026 05:03:00 GMT",
+      "url": "https://www.publico.pt/2026/08/08/sociedade/noticia/candidatos-superior-sao-sinal-positivo-universidades-temem-aumento-abandono-1-ano-2184417",
       "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "dc482cb9",
-      "cat": "tecnologia",
-      "title": "Bram Stoker e a liturgia do desejo",
-      "summary": "Todo o romance é, afinal, o relato desta tensão entre dois mundos: o do desejo ilimitado, que não conhece adiamento nem renúncia, e o do amor paciente, que procura inscrever o corpo numa morada comum",
-      "source": "Observador",
-      "date": "Sat, 08 Aug 2026 00:13:21 +0100",
-      "url": "https://observador.pt/opiniao/bram-stoker-e-a-liturgia-do-desejo/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A31%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F10190708%2Fwhatsapp-image-2026-04-10-at-171422.jpg",
       "score": 0.73
     },
     {
@@ -322,14 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "3a43cab3",
+      "id": "1dd3f518",
       "cat": "tecnologia",
-      "title": "Finalmente um questionário de Verão!",
-      "summary": "A ironia disto é que ainda não vou de férias. Prometo voltar para a semana com novas e profundas reflexões, mas não tão novas nem tão profundas quanto as de hoje.",
+      "title": "6h. Sporting estreia-se hoje no campeonato frente ao Estrela",
+      "summary": "Rui Borges fala numa deslocação complicada. Pepa garante foco na equipa. Ainda, Luís Neves esteve envolvido na decisão de avançar com as auditorias à Polícia Judiciária.",
       "source": "Observador",
-      "date": "Sat, 08 Aug 2026 00:25:33 +0100",
-      "url": "https://observador.pt/opiniao/finalmente-um-questionario-de-verao/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F09%2F17060954%2Fcolunista_agoncalves_467.png",
+      "date": "Sat, 08 Aug 2026 06:15:47 +0100",
+      "url": "https://observador.pt/programas/noticiario/6h-sporting-estreia-se-hoje-no-campeonato-frente-ao-estrela/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "5dc6ed54",
+      "cat": "tecnologia",
+      "title": "Canções para o Eclipse",
+      "summary": "Como soa o dia a escurecer? Do ecletismo dos Talking Heads e Yeah Yeah Yeahs à voz mística de Né Ladeiras e ao clássico dos Pink Floyd, desenhamos a banda sonora ideal para o eclipse.",
+      "source": "Observador",
+      "date": "Sat, 08 Aug 2026 06:04:24 +0100",
+      "url": "https://observador.pt/programas/isto-nao-passa-na-radio/cancoes-para-o-eclipse/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110822/770-podcast-isto-nao-passa-na-radio.jpg",
       "score": 0.7
     }
   ]
