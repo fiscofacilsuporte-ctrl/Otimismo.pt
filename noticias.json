@@ -1,5 +1,5 @@
 {
-  "last_update": "08/08/2026 13:03 UTC",
+  "last_update": "08/08/2026 18:49 UTC",
   "total": 30,
   "news": [
     {
@@ -12,17 +12,6 @@
       "url": "https://www.positive.news/society/did-a-tourist-tax-save-magaluf/",
       "img": "https://www.positive.news/wp-content/uploads/2026/07/Magaluf-Promenade-2.jpg",
       "score": 0.82
-    },
-    {
-      "id": "a4eab4a7",
-      "cat": "economia",
-      "title": "Wall Street prevê subida de bónus dos banqueiros impulsionada pela volatilidade",
-      "summary": "Os bónus dos banqueiros de investimento e comerciais de Wall Street deverão subir entre 10% e 15%, ou até mais, este ano. Crescimento da volatilidade nos mercados e lucros recorde estão por detrás desta previsão.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 08 Aug 2026 10:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/wall-street-preve-subida-de-bonus-dos-banqueiros-impulsionada-pela-volatilidade",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-03-14-55-58-519515.jpg",
-      "score": 0.79
     },
     {
       "id": "8dc38079",
@@ -69,26 +58,15 @@
       "score": 0.79
     },
     {
-      "id": "29f34580",
-      "cat": "saude",
-      "title": "Todd Blanche confirmado no Senado como procurador-geral dos EUA em votação renhida",
-      "summary": "O antigo advogado de Trump teve de concordar por escrito em limitar o âmbito do acordo de imunidade fiscal assinado com Trump e os filhos. Duas senadoras republicanas votaram contra.",
-      "source": "Público",
-      "date": "Sat, 08 Aug 2026 12:08:51 GMT",
-      "url": "https://www.publico.pt/2026/08/08/mundo/noticia/todd-blanche-confirmado-senado-procuradorgeral-eua-votacao-renhida-2184484",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "d160d3a4",
-      "cat": "ciencia",
-      "title": "Falo português, fala-me em galego!",
-      "summary": "Entre acasos e descobertas literárias, um relato sobre o primeiro contato com a língua galega e a grata percepção de que existe um universo cultural vizinho que dispensa traduções. Crónica de Vivien Merciel Suarez",
-      "source": "Público",
-      "date": "Sat, 08 Aug 2026 11:00:00 GMT",
-      "url": "https://www.publico.pt/2026/08/08/publico-brasil/cronica/falo-portugues-falame-galego-2184476",
-      "img": null,
-      "score": 0.76
+      "id": "d19a8c02",
+      "cat": "tecnologia",
+      "title": "Este minúsculo cristal de ouro pode tirar a tecnologia quântica do congelamento profundo",
+      "summary": "Os cientistas criaram o primeiro material quântico que pode classificar e transportar diferentes estados quânticos de luz à temperatura ambiente, eliminando potencialmente a necessidade de sistemas de refrigeração volumosos e ultrafrios. Construído a partir de uma película de ouro esculpida com centenas de estruturas microscópicas, o ultrafino “metac",
+      "source": "ScienceDaily",
+      "date": "Sat, 08 Aug 2026 09:17:32 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+      "img": "https://www.sciencedaily.com/images/1920/room-temperature-quantum-material.webp",
+      "score": 0.79
     },
     {
       "id": "7a6ba0d3",
@@ -99,17 +77,6 @@
       "date": "Sat, 08 Aug 2026 11:40:22 +0100",
       "url": "https://www.jornaldenegocios.pt/economia/detalhe/prr-financia-767-habitacoes-nos-acores-com-investimento-de-65-milhoes",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-18-12-42-58-523800.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "ffad738a",
-      "cat": "cultura",
-      "title": "I Liga. Estoril - Famalicão",
-      "summary": "Estoril e Famalicão acabaram empatados a um golo o primeiro jogo época 2026/27 da I I Liga de futebol, com os visitantes a desperdiçarem a vantagem conquistada na primeira parte.",
-      "source": "RTP",
-      "date": "Fri, 07 Aug 2026 20:04:27 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/i-liga-estoril-famalicao_e1758270",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b431c6849296fac84ca26a332dbb54a?w=350&amp;q=50&amp;rect=0,4,1024,561&amp;auto=format",
       "score": 0.76
     },
     {
@@ -124,17 +91,6 @@
       "score": 0.76
     },
     {
-      "id": "d13221b4",
-      "cat": "tecnologia",
-      "title": "Todos os rios e lagos da Inglaterra estão poluídos com produtos químicos, dizem autoridades",
-      "summary": "Uma avaliação abrangente das vias navegáveis ​​da Inglaterra é a primeira em seis anos e mostra poucas melhorias.",
-      "source": "BBC News",
-      "date": "Thu, 06 Aug 2026 10:00:06 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3d9/live/abf40cb0-9182-11f1-b2ab-0dd01740f9f6.jpg",
-      "score": 0.76
-    },
-    {
       "id": "8c671160",
       "cat": "saude",
       "title": "Metade das vacinas são descartadas – versões “sem geladeira” podem mudar isso",
@@ -143,6 +99,17 @@
       "date": "Wed, 05 Aug 2026 23:14:22 GMT",
       "url": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449d/live/95d9d1b0-90d5-11f1-a5b9-331adf7bef90.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "1d2c5116",
+      "cat": "ciencia",
+      "title": "O sol está coberto por pequenos redemoinhos que nunca vimos antes",
+      "summary": "Os cientistas descobriram redemoinhos de plasma incrivelmente pequenos girando na superfície do Sol, alguns com apenas 20 quilómetros de largura. Esses vórtices anteriormente invisíveis podem distorcer os campos magnéticos e ajudar a acumular a energia liberada em pequenas erupções solares chamadas nanoflares. Eles também podem ajudar a fi magnética",
+      "source": "ScienceDaily",
+      "date": "Sat, 08 Aug 2026 09:03:51 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
+      "img": "https://www.sciencedaily.com/images/1920/inouye-solar-telescope-tiny-vortices-on-sun.webp",
       "score": 0.76
     },
     {
@@ -157,28 +124,6 @@
       "score": 0.76
     },
     {
-      "id": "2bfb59a8",
-      "cat": "tecnologia",
-      "title": "Consumo de cannabis entre adolescentes está associado a memória mais lenta e crescimento do pensamento",
-      "summary": "Os adolescentes que começam a usar cannabis podem experimentar um crescimento mais lento na memória, atenção, linguagem e velocidade de processamento. Suas habilidades geralmente se desenvolviam normalmente no início, depois começavam a se estabilizar enquanto os não usuários continuavam melhorando. O THC parecia ser o fator mais provável, especialmente para a piora da memória.",
-      "source": "ScienceDaily",
-      "date": "Fri, 07 Aug 2026 21:25:25 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
-      "img": "https://www.sciencedaily.com/images/1920/cannabis-effects-brain-mental-health.webp",
-      "score": 0.76
-    },
-    {
-      "id": "a4ae6e66",
-      "cat": "ciencia",
-      "title": "Patch de ultrassom vestível aumenta o sono REM sem medicamentos ou cirurgia",
-      "summary": "Um novo adesivo vestível pode ajudar as pessoas a atingir o sono REM mais rapidamente e permanecer lá por mais tempo sem medicação ou cirurgia. Num estudo com 28 participantes, o dispositivo encurtou o tempo até ao REM em 43 minutos e prolongou-o em cerca de 16 minutos. Os pesquisadores também observaram sinais de melhora na regulação do estresse e",
-      "source": "ScienceDaily",
-      "date": "Fri, 07 Aug 2026 03:31:52 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm",
-      "img": "https://www.sciencedaily.com/images/1920/ultrasound-patch-boosts-rem-sleep.webp",
-      "score": 0.76
-    },
-    {
       "id": "1fd68937",
       "cat": "ambiente",
       "title": "The Spark: como os vizinhos estão se unindo para se tornarem mais ecológicos",
@@ -190,36 +135,91 @@
       "score": 0.76
     },
     {
-      "id": "baba18ae",
-      "cat": "tecnologia",
-      "title": "De Favaios ao Tua, há um Douro que precisa de tempo",
-      "summary": "Do planalto de Alijó às margens represadas do Tua, o Douro muda de altitude, de solo e de temperatura. Pelo caminho, há pão, vinho e pessoas que continuam a fazer da terra mais do que uma paisagem.",
+      "id": "2498dbd7",
+      "cat": "geral",
+      "title": "Incêndio de Fornos de Algodres está novamente em resolução, Carrazeda causa “preocupação”",
+      "summary": "Dois incêndios preocupam este sábado as autoridades: em Fornos de Algodres, o fogo reacendeu-se duas vezes, enquanto em Carrazeda de Ansiães lavra numa zona de difícil acesso.",
       "source": "Público",
-      "date": "Sat, 08 Aug 2026 11:13:24 GMT",
-      "url": "https://www.publico.pt/2026/08/08/fugas/reportagem/favaios-ha-douro-precisa-tempo-2182661",
+      "date": "Sat, 08 Aug 2026 17:17:15 GMT",
+      "url": "https://www.publico.pt/2026/08/08/azul/noticia/incendio-fornos-algodres-novamente-resolucao-carrazeda-causa-preocupacao-2184509",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "a84b15bc",
+      "id": "5f2c92c8",
       "cat": "tecnologia",
-      "title": "12h. Educação. Governo diz que modelo digital é para manter",
-      "summary": "Na Rádio Observador, Alexandre Homem Cristo faz um balanço positivo da segunda fase dos exames nacionais. Ainda, desvendado o caso que leva Luís Neves a julgamento no Tribunal de Contas.",
-      "source": "Observador",
-      "date": "Sat, 08 Aug 2026 12:26:42 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2410/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Cupuaçu, tacacá e muito mais: conheça os sabores da Amazônia em Oeiras",
+      "summary": "No Apoema, da chef Cris Soares, parte do menu homenageia a culinária indígena da sua terra natal, Manaus. E a mousse de cupuaçu, com seu sabor único, tem feito sucesso entre portugueses e turistas.",
+      "source": "Público",
+      "date": "Sat, 08 Aug 2026 17:16:43 GMT",
+      "url": "https://www.publico.pt/2026/08/08/publico-brasil/noticia/cupuacu-tacaca-conheca-sabores-amazonia-oeiras-2184420",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "732f2cd7",
+      "id": "4979b551",
       "cat": "tecnologia",
-      "title": "O Portugal jurássico que muitos conhecem e poucos conseguem visitar",
-      "summary": "Apesar da sua importância científica e potencial pedagógico e turístico, as condições para visitar sítios paleontológicos como Carenque continuam a ser inexistentes. Algo que tende a mudar lentamente e, em casos como os das jazidas das Serras de Aires e Candeeiros, com recurso à parceria com o setor",
+      "title": "“Eficácia da política migratória não pode ser conseguida à custa de direitos fundamentais”",
+      "summary": "Advogada Filipa Santos Costa acolhe o envio da lei do retorno para o Tribunal Constitucional. “O Presidente não fez mais do que o seu dever”, acrescenta Timóteo Macedo, da Solidariedade Imigrante.",
+      "source": "Público",
+      "date": "Sat, 08 Aug 2026 16:43:13 GMT",
+      "url": "https://www.publico.pt/2026/08/08/sociedade/noticia/eficacia-politica-migratoria-nao-conseguida-custa-direitos-fundamentais-2184497",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "efa74b76",
+      "cat": "geral",
+      "title": "Ceuta não sabe quantos menores entraram no território",
+      "summary": "De acordo com o presidente da Cidade Autónoma de Ceuta, Javier Vivas, a cidade gere atualmente a presença no seu território de cerca de 1.300 menores, mas reconheceu que não dispõe de um número exato.",
+      "source": "Observador",
+      "date": "Sat, 08 Aug 2026 18:34:37 +0100",
+      "url": "https://observador.pt/2026/08/08/ceuta-faz-recontagem-por-nao-saber-com-exatidao-quantos-menores-entraram-no-territorio/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08182759/47565160.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "164fa530",
+      "cat": "tecnologia",
+      "title": "Fogo em Carrazeda de Ansiães mobiliza mais de 300 bombeiros",
+      "summary": "Um incêndio em Linhares, Carrazeda de Ansiães, teve início na tarde de sábado e mobiliza oito meios aéreos. Proteção Civil indica ainda um fogo ativo em Silves. Fornos de Algodres está em resolução.",
+      "source": "Observador",
+      "date": "Sat, 08 Aug 2026 16:38:28 +0100",
+      "url": "https://observador.pt/2026/08/08/fogo-em-carrazeda-de-ansiaes-mobiliza-mais-de-160-bombeiros-e-oito-meios-aereos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2025:1138:nowe:0:106/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05100038/gco-incendio-vouzela-4-julho-2026-011.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "576aeb17",
+      "cat": "tecnologia",
+      "title": "PSD e PS trocam acusações sobre turismo nos Açores",
+      "summary": "PSD/Açores acusa PS de assumir \"uma posição contraditória\" sobre a evolução do turismo na Região. Setor deve apostar na criação de valor e \"não ficar refém de um único indicador estatístico\", defende.",
+      "source": "Observador",
+      "date": "Sat, 08 Aug 2026 16:38:03 +0100",
+      "url": "https://observador.pt/2026/08/08/psd-acores-e-ps-trocam-acusacoes-sobre-evolucao-turistica-das-ilhas-apos-saida-da-raynair/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:192/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/03/10173733/airport-ponta-delgada.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "827df044",
+      "cat": "tecnologia",
+      "title": "A cerveja também tem Odisseia",
+      "summary": "A atividade cervejeira representa um contributo equivalente a 2,53% do PIB nacional e sustenta mais de 170 mil empregos diretos, indiretos e induzidos.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 08 Aug 2026 11:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/o-portugal-jurassico-que-muitos-conhecem-e-poucos-conseguem-visitar",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-07-14-19-00-527878.jpg",
+      "date": "Sat, 08 Aug 2026 16:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-cerveja-tambem-tem-odisseia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_394x514uu2026-08-07-16-52-46-527892.png",
+      "score": 0.73
+    },
+    {
+      "id": "69671b9a",
+      "cat": "economia",
+      "title": "O que é o “short selling” e como funciona?",
+      "summary": "Nem todas as estratégias de investimento implicam que as ações de uma empresa valorizem. Várias cotadas portuguesas são \"shortadas\". A prática de short selling também pode ser usada como movimento para proteger uma carteira de investimentos.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 08 Aug 2026 15:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/o-que-e-o-short-selling-e-como-funciona",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-07-14-52-51-527885.jpg",
       "score": 0.73
     },
     {
@@ -234,25 +234,36 @@
       "score": 0.73
     },
     {
-      "id": "37f53d03",
+      "id": "79439e84",
       "cat": "tecnologia",
-      "title": "Bola da `mão de deus` de Maradona em leilão com valor superior a 2 milhões de euros",
-      "summary": "A bola com que Diego Maradona marcou o golo da &#039;mão de deus&#039; na lendária vitória da Argentina sobre a Inglaterra no Mundial de 1986 vai a leilão, com um valor inicial de 2,2 milhões de euros.",
+      "title": "Jorge Martín domina ‘sprint race’ do GP da Grã-Bretanha",
+      "summary": "O espanhol Jorge Martín (Aprilia) venceu de forma categórica a corrida ‘sprint’ do Grande Prémio da Grã-Bretanha de MotoGP, em Silverstone, 12.ª ronda da temporada, reforçando a liderança do campeonato.",
       "source": "RTP",
-      "date": "Fri, 07 Aug 2026 23:44:15 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/bola-da-mao-de-deus-de-maradona-em-leilao-com-valor-superior-a-2-milhoes-de-euros_d1758309",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6b393d26ac057d8a72063982d21d89f2?w=350&amp;q=50&amp;rect=0,110,1024,561&amp;auto=format",
+      "date": "Sat, 08 Aug 2026 19:20:58 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/jorge-martin-domina-sprint-race-do-gp-da-gra-bretanha_d1758424",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/35/3554109bb029008f37abd1616b655166?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "e5f2960c",
-      "cat": "desporto",
-      "title": "18h30 Bruno Alves: FCP forte para voltar a ser campeão",
-      "summary": "",
+      "id": "907f6cff",
+      "cat": "tecnologia",
+      "title": "Linarez primeiro em Elvas, Rui Oliveira mantém amarela",
+      "summary": "O ciclista Leangel Linarez (Tavfer-Ovos Matinados-Mortágua) foi hoje o mais rápido na terceira etapa da Volta a Portugal, com uma chegada ao sprint, após a qual Rui Oliveira (UAE Emirates), quinto, manteve a camisola amarela.",
       "source": "RTP",
-      "date": "Fri, 07 Aug 2026 20:14:01 +0100",
-      "url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-bruno-alves-fcp-forte-para-voltar-a-ser-campeao_a1_1758273",
-      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
+      "date": "Sat, 08 Aug 2026 19:14:11 +0100",
+      "url": "https://www.rtp.pt/noticias/ciclismo/linarez-primeiro-em-elvas-rui-oliveira-mantem-amarela_d1758422",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/91/91ffeb67d127cc1c2d9c1a7ee6903f0e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "0c22e09a",
+      "cat": "tecnologia",
+      "title": "Vitória de Guimarães - Arouca",
+      "summary": "Registo em direto dos principais lances desta partida da 1.ª jornada da I Liga.",
+      "source": "RTP",
+      "date": "Sat, 08 Aug 2026 18:46:55 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-arouca_e1758413",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f3/f3345d92eecbd76d768ebdca1c7d3bfb?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -289,6 +300,17 @@
       "score": 0.73
     },
     {
+      "id": "593c7089",
+      "cat": "ciencia",
+      "title": "Danos causados ​​por incêndios florestais podem levar centenas de anos para serem recuperados, dizem especialistas",
+      "summary": "Habitats pertencentes a cobras e mariposas raras foram destruídos após os incêndios florestais deste verão.",
+      "source": "BBC News",
+      "date": "Fri, 07 Aug 2026 05:15:56 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc2/live/3bad1480-9225-11f1-af4d-5164294a85c7.jpg",
+      "score": 0.73
+    },
+    {
       "id": "3fd5c179",
       "cat": "cultura",
       "title": "Os ‘Jogos de Transplante’ são mais do que medalhas",
@@ -309,28 +331,6 @@
       "url": "https://reasonstobecheerful.world/what-were-reading-building-wildlife-corridor-rockies/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/shutterstock_1126796255-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "2ed11924",
-      "cat": "geral",
-      "title": "Encontrados corpos de 5 alpinistas desaparecidos em 2025",
-      "summary": "Equipas de socorro do Nepal encontraram os corpos de cinco alpinistas, incluindo três estrangeiros, arrastados no ano passado por uma avalancha no Monte Yalung Ri, perto da fronteira com o Tibete.",
-      "source": "Observador",
-      "date": "Sat, 08 Aug 2026 13:15:31 +0100",
-      "url": "https://observador.pt/2026/08/08/encontrados-os-corpos-de-cinco-alpinistas-desaparecidos-desde-novembro-no-nepal/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:115/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/08125112/47563377.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "14a87de2",
-      "cat": "tecnologia",
-      "title": "O aeródromo de Bragança é o melhor sítio para o eclipse?",
-      "summary": "Mário Francisco Gomes, presidente da União das Freguesias de Aveleda e Rio de Onor, afirma que o aeródromo evita o risco de incêndio. Também oferece 99,8% de visibilidade e festa até à meia-noite.",
-      "source": "Observador",
-      "date": "Sat, 08 Aug 2026 13:14:52 +0100",
-      "url": "https://observador.pt/programas/guia-para-o-eclipse/o-aerodromo-de-braganca-e-o-melhor-sitio-para-o-eclipse/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31173826/770-podcast-guia-para-o-eclipse.jpg",
-      "score": 0.7
     }
   ]
 }
