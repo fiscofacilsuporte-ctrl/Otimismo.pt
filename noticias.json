@@ -1,5 +1,5 @@
 {
-  "last_update": "07/08/2026 19:07 UTC",
+  "last_update": "08/08/2026 02:05 UTC",
   "total": 30,
   "news": [
     {
@@ -80,25 +80,14 @@
       "score": 0.79
     },
     {
-      "id": "0d82c6fb",
-      "cat": "tecnologia",
-      "title": "Nélson Évora retira-se aos 42 anos, com a caixa de areia a transbordar",
-      "summary": "Primeiro campeão olímpico depois de Carlos Lopes, Rosa Mota e Fernanda Ribeiro despede-se com salto simbólico e 13.º título de campeão nacional. João Ganço recorda menino que ajudou a tornar campeão.",
-      "source": "Público",
-      "date": "Fri, 07 Aug 2026 17:33:33 GMT",
-      "url": "https://www.publico.pt/2026/08/07/desporto/noticia/nelson-evora-retirase-42-anos-caixa-areia-transbordar-2184440",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "9924b168",
-      "cat": "tecnologia",
-      "title": "Senegal. Influencers condenados por insultos ao Presidente",
-      "summary": "Os influencers trabalham para um canal online de criação de conteúdo considerado favorável ao primeiro-ministro, que entrou em rota de colisão com o Presidente. Vídeos são humorísticos, diz advogado.",
-      "source": "Observador",
-      "date": "Fri, 07 Aug 2026 19:18:44 +0100",
-      "url": "https://observador.pt/2026/08/07/senegal-influencers-condenados-por-alegados-insultos-ao-presidente/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/28033308/46412564.jpg",
+      "id": "ffad738a",
+      "cat": "cultura",
+      "title": "I Liga. Estoril - Famalicão",
+      "summary": "Estoril e Famalicão acabaram empatados a um golo o primeiro jogo época 2026/27 da I I Liga de futebol, com os visitantes a desperdiçarem a vantagem conquistada na primeira parte.",
+      "source": "RTP",
+      "date": "Fri, 07 Aug 2026 20:04:27 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/i-liga-estoril-famalicao_e1758270",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b431c6849296fac84ca26a332dbb54a?w=350&amp;q=50&amp;rect=0,4,1024,561&amp;auto=format",
       "score": 0.76
     },
     {
@@ -121,17 +110,6 @@
       "date": "Wed, 05 Aug 2026 23:14:22 GMT",
       "url": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/449d/live/95d9d1b0-90d5-11f1-a5b9-331adf7bef90.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "0b7c908c",
-      "cat": "tecnologia",
-      "title": "Mulher é pioneira em cirurgia no útero para consertar bebê ‘milagroso’ com intestinos fora do corpo",
-      "summary": "Theo se tornou o primeiro bebê britânico a ser operado no útero para corrigir gastrosquise complexa, como parte de um ensaio clínico pioneiro.",
-      "source": "BBC News",
-      "date": "Mon, 03 Aug 2026 05:02:25 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07d3/live/42a93070-8f3c-11f1-b8ee-9b3c26ad07bb.jpg",
       "score": 0.76
     },
     {
@@ -179,47 +157,69 @@
       "score": 0.76
     },
     {
-      "id": "690ce9df",
-      "cat": "ambiente",
-      "title": "“O objectivo é que muitas pessoas regressem a Bragança depois do eclipse”",
-      "summary": "Bragança preparou durante meses um dispositivo para receber milhares de pessoas no eclipse solar total. A presidente da Câmara explica por que razão a observação mudou para o aeródromo.",
-      "source": "Público",
-      "date": "Fri, 07 Aug 2026 16:30:28 GMT",
-      "url": "https://www.publico.pt/2026/08/07/fugas/entrevista/objectivo-pessoas-regressem-braganca-eclipse-2184365",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "a6f763ba",
-      "cat": "tecnologia",
-      "title": "“Com força em toda a parte”: 15 sinais e um alerta de um Verão extremo na Terra",
-      "summary": "Do fogo às cheias, da seca ao calor recorde, os extremos multiplicam-se em vários continentes e revelam um planeta sob pressão no hemisfério Norte. A sul, El Niño pode ganhar força destrutiva.",
-      "source": "Público",
-      "date": "Fri, 07 Aug 2026 15:58:07 GMT",
-      "url": "https://www.publico.pt/2026/08/07/azul/noticia/forca-parte-15-sinais-alerta-verao-extremo-terra-2184354",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "78496710",
+      "id": "b78c0880",
       "cat": "geral",
-      "title": "Morreu Armando da Silva, o primeiro coordenador da CGTP",
-      "summary": "A intersindical recordou-o como \"lutador pela valorização do trabalho\" e pelos valores de Abril. Coordenou a CGTP entre 1977 e 1986.",
-      "source": "Observador",
-      "date": "Fri, 07 Aug 2026 19:25:25 +0100",
-      "url": "https://observador.pt/2026/08/07/morreu-armando-teixeira-da-silva-primeiro-coordenador-da-cgtp-ex-deputado-do-pcp-tinha-82-anos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:673:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/19191348/cgtp-entrada-1.jpg",
+      "title": "Coeso e empoderado",
+      "summary": "O atarefado primeiro-ministro que se cuide: o seu inteligente ministro da Administração Interna passou a ser o seu fantasma, a sua inevitável ameaça. Opinião de António Barreto",
+      "source": "Público",
+      "date": "Fri, 07 Aug 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/08/08/opiniao/opiniao/coeso-empoderado-2184453",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "38dfa60a",
-      "cat": "desporto",
-      "title": "Estoril e Famalicão dão pontapé de saída da I Liga. Conheça o calendário da primeira jornada",
-      "summary": "A primeira jornada terá o campeão FC Porto em campo no domingo, dia em que recebe o Alverca (18:00), um pouco antes de o Benfica jogar em casa com o Académico de Viseu (20:30), em jogo à porta fechada. O vice-campeão Sporting arranca a I Liga um dia antes, no sábado, com os 'leões' de visita ao Estr",
+      "id": "7331f888",
+      "cat": "tecnologia",
+      "title": "A cidade histórica também precisa de respirar",
+      "summary": "É tempo de medir o progresso pela inteligência e renaturalizar a cidade. Fica um desafio para o grande legado que o Porto pode criar para o futuro: um Parque Urbano da Avenida da Ponte. Opinião de Inês Moreira",
+      "source": "Público",
+      "date": "Fri, 07 Aug 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/08/08/opiniao/opiniao/cidade-historica-tambem-precisa-respirar-2184251",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "ece3ccd6",
+      "cat": "tecnologia",
+      "title": "Ceuta, e mais uma vez as fronteiras da União Europeia: a solidariedade que falta",
+      "summary": "Independentemente de eventuais campanhas de desinformação online ou de interpretações erradas de decisões judiciais, como a do Supremo espanhol, está clara a solidariedade que falta na UE. Opinião de Sérgio Maia Tavares Marques",
+      "source": "Público",
+      "date": "Fri, 07 Aug 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/08/08/opiniao/opiniao/ceuta-fronteiras-uniao-europeia-solidariedade-falta-2184127",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "dc482cb9",
+      "cat": "tecnologia",
+      "title": "Bram Stoker e a liturgia do desejo",
+      "summary": "Todo o romance é, afinal, o relato desta tensão entre dois mundos: o do desejo ilimitado, que não conhece adiamento nem renúncia, e o do amor paciente, que procura inscrever o corpo numa morada comum",
+      "source": "Observador",
+      "date": "Sat, 08 Aug 2026 00:13:21 +0100",
+      "url": "https://observador.pt/opiniao/bram-stoker-e-a-liturgia-do-desejo/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A31%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F10190708%2Fwhatsapp-image-2026-04-10-at-171422.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "3eaaab61",
+      "cat": "tecnologia",
+      "title": "Mercado laboral dá combustível a Wall Street para voltar aos ganhos. SpaceX dispara 15%",
+      "summary": "Depois de uma sessão de perdas, os principais índices norte-americanos voltaram a negociar em território positivo. A contração no mercado laboral dá à Fed mais tempo para subir os juros e aos investidores mais espaço de manobra para assumirem riscos.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 07 Aug 2026 17:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/estoril-e-famalicao-dao-pontape-de-saida-da-i-liga-conheca-o-calendario-da-primeira-jornada",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-07-23-12-40-491760.jpg",
+      "date": "Fri, 07 Aug 2026 21:16:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/mercado-laboral-da-combustivel-a-wall-street-para-voltar-aos-ganhos-spacex-dispara-15",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-07-21-05-00-527895.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "35ce34be",
+      "cat": "economia",
+      "title": "Seguro promulga decreto que autoriza Governo a aprovar regime para heranças indivisas",
+      "summary": "O diploma do Governo para desbloquear a venda de imóveis em heranças indivisas a pedido de um único herdeiro foi aprovado no parlamento, em julho, em votação final global, pelo PSD, CDS-PP, PS, IL e JPP.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 07 Aug 2026 20:21:14 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/seguro-promulga-decreto-que-autoriza-governo-a-aprovar-regime-para-herancas-indivisas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-09-12-53-54-491975.jpg",
       "score": 0.73
     },
     {
@@ -234,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "37f53d03",
+      "cat": "tecnologia",
+      "title": "Bola da `mão de deus` de Maradona em leilão com valor superior a 2 milhões de euros",
+      "summary": "A bola com que Diego Maradona marcou o golo da &#039;mão de deus&#039; na lendária vitória da Argentina sobre a Inglaterra no Mundial de 1986 vai a leilão, com um valor inicial de 2,2 milhões de euros.",
+      "source": "RTP",
+      "date": "Fri, 07 Aug 2026 23:44:15 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/bola-da-mao-de-deus-de-maradona-em-leilao-com-valor-superior-a-2-milhoes-de-euros_d1758309",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6b393d26ac057d8a72063982d21d89f2?w=350&amp;q=50&amp;rect=0,110,1024,561&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "e5f2960c",
       "cat": "desporto",
       "title": "18h30 Bruno Alves: FCP forte para voltar a ser campeão",
@@ -245,14 +256,14 @@
       "score": 0.73
     },
     {
-      "id": "baa0ebbd",
-      "cat": "economia",
-      "title": "Rui Borges \"sem pressão\" reconhece ambições do Sporting",
-      "summary": "O treinador Rui Borges assume a ambição de voltar a ganhar títulos pelo Sporting, mas rejeita estar pressionado pelo elevado investimento do clube em reforços nesta época.",
-      "source": "RTP",
-      "date": "Fri, 07 Aug 2026 15:34:54 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/rui-borges-sem-pressao-reconhece-ambicoes-do-sporting_d1758234",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d3/d3fcd9d3b19dc9077ed25d79374a9309?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "id": "fe6ce340",
+      "cat": "tecnologia",
+      "title": "Bola da ‘mão de deus’ de Maradona em leilão por mais de dois milhões de euros",
+      "summary": "A bola com que Diego Maradona marcou o golo da &#8216;mão de deus&#8217; na lendária vitória da Argentina sobre a Inglaterra no Mundial de 1986 vai a leilão, com um valor inicial de 2,2 milhões de euros. O leilão, organizado pela norte-americana Heritage Auctions, terá lugar de 21 a 23 de agosto, e,",
+      "source": "ECO",
+      "date": "Fri, 07 Aug 2026 19:14:04 +0000",
+      "url": "https://eco.sapo.pt/2026/08/07/bola-da-mao-de-deus-de-maradona-em-leilao-com-valor-superior-a-2-milhoes-de-euros/",
+      "img": "https://eco.imgix.net/uploads/2020/12/cropped-maradona.jpg",
       "score": 0.73
     },
     {
@@ -278,14 +289,14 @@
       "score": 0.73
     },
     {
-      "id": "9ed9d2de",
-      "cat": "tecnologia",
-      "title": "Seguro envia para Tribunal Constitucional decreto sobre concessão de asilo e retorno de estrangeiros",
-      "summary": "O Presidente da República pediu esta sexta-feira ao Tribunal Constitucional a fiscalização preventiva do decreto do Parlamento sobre concessão de asilo, detenção e retorno de estrangeiros, aprovado com votos a favor de PSD, IL e CDS-PP e a abstenção do Chega. O pedido foi anunciado através de uma no",
-      "source": "ECO",
-      "date": "Fri, 07 Aug 2026 17:25:06 +0000",
-      "url": "https://eco.sapo.pt/2026/08/07/seguro-envia-para-o-tribunal-constitucional-decreto-sobre-concessao-de-asilo-e-retorno-de-estrangeiros/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-47574428-scaled-1.jpg",
+      "id": "4742e569",
+      "cat": "ciencia",
+      "title": "Administração Trump pagará US$ 1,2 bilhão à empresa alemã para interromper projetos eólicos nos EUA",
+      "summary": "O pagamento da RWE é o mais recente de uma série de acordos que cancelam projetos de energia eólica, uma fonte de energia há muito ridicularizada por Trump.",
+      "source": "BBC News",
+      "date": "Fri, 07 Aug 2026 13:32:41 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
       "score": 0.73
     },
     {
@@ -311,25 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "a34c940a",
+      "id": "3a43cab3",
       "cat": "tecnologia",
-      "title": "As notícias das 19h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Finalmente um questionário de Verão!",
+      "summary": "A ironia disto é que ainda não vou de férias. Prometo voltar para a semana com novas e profundas reflexões, mas não tão novas nem tão profundas quanto as de hoje.",
       "source": "Observador",
-      "date": "Fri, 07 Aug 2026 19:51:15 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2143/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "4a4ea471",
-      "cat": "tecnologia",
-      "title": "Combustíveis com forte descida na próxima semana. A análise do Negócios",
-      "summary": "A forte queda semanal nos preços do petróleo leva a que atestar o carro na próxima semana seja bem mais barato. As reduções projetadas por fontes do mercado apontam para uma descida de 10,5 cêntimos por litro no gasóleo e de 11,5 cêntimos na gasolina simples 95. O editor do Negócios Online, Pedro Cu",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 07 Aug 2026 18:43:10 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/combustiveis-com-forte-descida-na-proxima-semana-a-analise-do-negocios",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-07-18-26-43-527893.jpg",
+      "date": "Sat, 08 Aug 2026 00:25:33 +0100",
+      "url": "https://observador.pt/opiniao/finalmente-um-questionario-de-verao/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F09%2F17060954%2Fcolunista_agoncalves_467.png",
       "score": 0.7
     }
   ]
