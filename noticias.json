@@ -1,5 +1,5 @@
 {
-  "last_update": "09/08/2026 18:51 UTC",
+  "last_update": "10/08/2026 02:22 UTC",
   "total": 30,
   "news": [
     {
@@ -61,7 +61,7 @@
       "id": "7cffefcf",
       "cat": "tecnologia",
       "title": "Os alimentos cultivados regenerativamente se tornarão populares?",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Na Groundswell, os especialistas debateram como colocar nas prateleiras alimentos mais ecológicos. Aqui estão três conclusões principais: Os alimentos cultivados regenerativamente se tornarão populares? apareceu primeiro em Notícias Positivas.",
       "source": "Positive News",
       "date": "Tue, 04 Aug 2026 08:00:00 +0000",
       "url": "https://www.positive.news/society/will-regeneratively-grown-food-become-mainstream/",
@@ -80,36 +80,14 @@
       "score": 0.79
     },
     {
-      "id": "7eb78ce3",
-      "cat": "tecnologia",
-      "title": "0-1 no FC Porto-Alverca",
-      "summary": "FC Porto começa a defesa do título diante da equipa que apadrinhou a confirmação matemática da conquista do campeonato na temporada passada. Em caso de vitória, os dragões ultrapassam o Sporting.",
-      "source": "Observador",
-      "date": "Sun, 09 Aug 2026 17:04:37 +0100",
-      "url": "https://observador.pt/liveblogs/primeira-liga-fc-porto-inicia-a-defesa-do-titulo-diante-do-alverca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:371/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/06200555/gettyimages-2208857692-scaled.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "5b231c8c",
-      "cat": "tecnologia",
-      "title": "Petróleo, ouro e juros diretores. A cesta de surpresas até ao virar do ano",
-      "summary": "Nos primeiros seis meses do ano, a Indosuez Wealth Management identificou três grandes surpresas: o petróleo resistiu à queda da oferta por Ormuz, o ouro - apesar da forte descida dos preços - continuou a captar apetite, e os bancos centrais viram-se subitamente perante uma perspetiva de subida de j",
+      "id": "bca6317d",
+      "cat": "ciencia",
+      "title": "A avaliação de Montenegro",
+      "summary": "Luís Neves pode clamar inocência, mas a investigação da Procuradoria Europeia, o inquérito do Ministério Público e a auditoria da Inspeção-Geral dos Serviços de Justiça à sua gestão da PJ, são fardos muito pesados e desgastantes para um ministro, minando a forma como é avaliado.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 09 Aug 2026 15:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/petroleo-ouro-e-juros-diretores-vao-continuar-a-centrar-atencoes-ate-final-de-dezembro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-15-17-23-00-522084.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "e3c5a06e",
-      "cat": "tecnologia",
-      "title": "Fernández em primeiro no GP da Grã-Bretanha",
-      "summary": "O espanhol Raúl Fernández (Aprilia) venceu o Grande Prémio da Grã-Bretanha de MotoGP, 12.ª ronda do campeonato do mundo, liderando um pódio totalmente ocupado por pilotos da marca italiana.",
-      "source": "RTP",
-      "date": "Sun, 09 Aug 2026 16:25:51 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/fernandez-em-primeiro-no-gp-da-gra-bretanha_d1758530",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a86bfa052dc13d59dfb09b4638f44c48?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sun, 09 Aug 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/a-avaliacao-de-montenegro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
       "score": 0.76
     },
     {
@@ -127,7 +105,7 @@
       "id": "8c671160",
       "cat": "saude",
       "title": "Metade das vacinas são descartadas – versões “sem geladeira” podem mudar isso",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Os cientistas mantiveram as vacinas estáveis ​​à temperatura ambiente durante um ano, o que poderá transformar a vacinação global.",
       "source": "BBC News",
       "date": "Wed, 05 Aug 2026 23:14:22 GMT",
       "url": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
@@ -149,7 +127,7 @@
       "id": "4a49fa4b",
       "cat": "ciencia",
       "title": "Cientistas descobrem bactérias que prendem o urânio tóxico em uma forma estável",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Nas profundezas do subsolo, as bactérias podem ser capazes de fazer algo notável: capturar urânio tóxico antes que ele se espalhe. Quando os pesquisadores alimentaram micróbios em águas de minas contaminadas com urânio com glicerol, cerca de 95% do urânio dissolvido desapareceu em 130 dias. A bactéria ajudou a convertê-lo em um",
       "source": "ScienceDaily",
       "date": "Sun, 09 Aug 2026 07:30:17 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
@@ -179,69 +157,36 @@
       "score": 0.76
     },
     {
-      "id": "2145fcbc",
+      "id": "fba9c998",
       "cat": "tecnologia",
-      "title": "Sem esperar autorização, petrolífera dos EUA já pôs um pé na Gronelândia",
-      "summary": "Em Julho, os primeiros equipamentos de perfuração começaram a chegar à costa leste da Gronelândia onde uma empresa com ligações a Trump espera poder explorar as vastas reservas petrolíferas locais.",
-      "source": "Público",
-      "date": "Sun, 09 Aug 2026 18:00:00 GMT",
-      "url": "https://www.publico.pt/2026/08/09/mundo/noticia/esperar-autorizacao-petrolifera-eua-ja-pos-pe-gronelandia-2184555",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "b625d2e1",
-      "cat": "tecnologia",
-      "title": "Incêndios em Carrazeda de Ansiães e Vila Pouca de Aguiar entram em fase de resolução",
-      "summary": "O incêndio de Carrazeda de Ansiães entrou em resolução às 17h30 e as chamas em Vila Pouca de Aguiar estão praticamente dominadas, mobilizando cerca de 300 operacionais.",
-      "source": "Público",
-      "date": "Sun, 09 Aug 2026 17:13:58 GMT",
-      "url": "https://www.publico.pt/2026/08/09/sociedade/noticia/incendios-braganca-vila-real-mobilizam-centenas-operacionais-2184558",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "8cddb4ea",
-      "cat": "ciencia",
-      "title": "Pontes romanas, navios nazis e ossos de mamute emergem com a descida do Danúbio",
-      "summary": "A descoberta mais imponente é a de uma ponte romana, mas também há ossadas de mamute com pelo menos dez mil anos ou cadáveres de soldados nazis que terão sido dados como desaparecidos.",
-      "source": "Público",
-      "date": "Sun, 09 Aug 2026 15:31:56 GMT",
-      "url": "https://www.publico.pt/2026/08/09/culturaipsilon/noticia/pontes-romanas-navios-nazis-ossos-mamute-emergem-descida-danubio-2184531",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "70b9bbf5",
-      "cat": "tecnologia",
-      "title": "Fogo de Parambos, Carrazeda de Ansiães, volta a ficar ativo",
-      "summary": "O incêndio no distrito da Guarda chegou a estar em fase de resolução, mas teve um reacendimento. Já o combate ao fogo de Vila Pouca de Aguiar está a evoluir positivamente.",
+      "title": "00h. Benfica empata com Académico de Viseu por 2-2 na Luz",
+      "summary": "Jogo sem adeptos e sem vitória para o Benfica que empatou com a equipa de Viseu, de regresso à I Liga, após 37 anos. Ainda, Donald Trump revela que está a \"semi-negociar\" com o Irão.",
       "source": "Observador",
-      "date": "Sun, 09 Aug 2026 16:55:44 +0100",
-      "url": "https://observador.pt/2026/08/09/mais-de-180-operacionais-e-sete-aeronaves-combatem-incendio-em-vila-pouca-de-aguiar/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/09143901/45451000.jpg",
+      "date": "Mon, 10 Aug 2026 00:23:22 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2386/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "cee1b4fd",
+      "id": "f0f44d41",
       "cat": "tecnologia",
-      "title": "Apple está a testar chips de memória chineses no iPhone para combater escassez",
-      "summary": "A empresa procura contrariar a falta destes componentes no mercado, que tem impulsionado os preços dos equipamentos. Contudo, o negócio poderá ter a oposição da Administração Trump e do Pentágono.",
+      "title": "Chumbo do TC arrisca travar reembolso do Fundo de Resolução de 2 mil milhões ao Estado e bancos",
+      "summary": "Fundo de Resolução previa fazer reembolso parcial da dívida no final deste ano. Acórdão declarou inconstitucional a norma que permite ao Banco de Portugal fixar as taxas das contribuições adicionais para o Fundo de Resolução, o que complica as contas do fundo.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 09 Aug 2026 17:57:10 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/apple-esta-a-testar-chips-de-memoria-chineses-no-iphone-para-combater-escassez",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-08-11-15-02-526246.jpg",
+      "date": "Sun, 09 Aug 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/chumbo-do-tc-arrisca-travar-reembolso-do-fundo-de-resolucao-de-2-mil-milhoes-ao-estado-e-bancos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-03-17-31-47-527649.jpg",
       "score": 0.73
     },
     {
-      "id": "39a9f318",
-      "cat": "economia",
-      "title": "Israel rejeita plano norte-americano para Gaza aceite pelo Hamas",
-      "summary": "\"Israel rejeita o documento de 15 pontos\" apresentado no final de julho pelo \"Conselho de Paz\" de Donald Trump, afirmou o primeiro-ministro israelita, Benjamin Netanyahu, durante uma reunião do executivo.",
+      "id": "5379841c",
+      "cat": "tecnologia",
+      "title": "Alstom e Talgo na corrida ao fornecimento de comboios de alta velocidade à CP",
+      "summary": "As empresas francesa e espanhola foram as únicas a apresentarem propostas na fase de pré-qualificação do concurso lançado em maio, avançou o Público.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 09 Aug 2026 16:10:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/israel-rejeita-plano-norte-americano-para-gaza-aceite-pelo-hamas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-09-19-19-24-527903.png",
+      "date": "Sun, 09 Aug 2026 22:55:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/alstom-e-talgo-na-corrida-ao-fornecimento-de-comboios-de-alta-velocidade-a-cp",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-03/img_100x100uu2023-03-29-19-29-13-449615.jpg",
       "score": 0.73
     },
     {
@@ -253,6 +198,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "bca80b6b",
+      "cat": "tecnologia",
+      "title": "Digne troca Aston Villa pelo PSG a três dias da Supertaça Europeia",
+      "summary": "O francês Lucas Digne, anteriormente ao serviço dos ingleses do Aston Villa, vai representar o Paris Saint-Germain até 2029, anunciou o pentacampeão francês, que defronta os ‘lions’ na quarta-feira, na Supertaça Europeia.",
+      "source": "RTP",
+      "date": "Sun, 09 Aug 2026 23:48:15 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/digne-troca-aston-villa-pelo-psg-a-tres-dias-da-supertaca-europeia_d1758575",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ee/eeb4d6770bac7aa099499d1de56daab9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -324,13 +280,57 @@
     {
       "id": "95af52c4",
       "cat": "ambiente",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "O que estamos lendo: Construindo um enorme corredor de vida selvagem a partir de terras fragmentadas",
+      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Atravessar para a segurança A perda de habitat é um grande problema para a vida selvagem. Mas o mesmo acontece com a fragmentação do habitat, porque",
       "source": "Reasons to be Cheerful",
       "date": "Wed, 05 Aug 2026 08:00:48 +0000",
       "url": "https://reasonstobecheerful.world/what-were-reading-building-wildlife-corridor-rockies/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/shutterstock_1126796255-scaled.jpg",
       "score": 0.73
+    },
+    {
+      "id": "f9bf2901",
+      "cat": "tecnologia",
+      "title": "PRR: quantos projetos sacrificados e quantos euros devolvidos?",
+      "summary": "Com um plano executado a 100%, Portugal está hoje mais forte, mais moderno e mais preparado para o futuro. Sem projetos sacrificados, nem euros devolvidos. Opinião de Manuel Castro Almeida",
+      "source": "Público",
+      "date": "Sun, 09 Aug 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/08/10/opiniao/opiniao/prr-projetos-sacrificados-euros-devolvidos-2184432",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "a93b287a",
+      "cat": "tecnologia",
+      "title": "Estar à altura de 900 anos de história",
+      "summary": "Não é Guimarães que precisa de se ajustar à confusão do Governo. É o Governo que precisa de estar à altura de São Mamede, de Guimarães e da História de Portugal. Opinião de Paulo Lopes Silva",
+      "source": "Público",
+      "date": "Sun, 09 Aug 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/08/10/opiniao/opiniao/estar-altura-900-anos-historia-2184264",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "ff6cdfb0",
+      "cat": "tecnologia",
+      "title": "Água: a escassez começa em quem gere",
+      "summary": "Se não mudarmos a gestão e o sistema de incentivos das entidades que operam as redes de distribuição, temo que as notícias de falta de água venham a ser tão recorrentes como as dos incêndios. Opinião de Pedro Perdigão",
+      "source": "Público",
+      "date": "Sun, 09 Aug 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/08/10/opiniao/opiniao/portugal-gastar-agua-ate-onde-aguentamos-2183434",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "6bbc2f96",
+      "cat": "tecnologia",
+      "title": "As notícias das 3h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Mon, 10 Aug 2026 03:15:32 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2401/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
     }
   ]
 }
