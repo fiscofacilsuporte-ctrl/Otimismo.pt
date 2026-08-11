@@ -1,5 +1,5 @@
 {
-  "last_update": "11/08/2026 02:12 UTC",
+  "last_update": "11/08/2026 07:18 UTC",
   "total": 30,
   "news": [
     {
@@ -28,12 +28,23 @@
       "id": "fdf8314b",
       "cat": "cultura",
       "title": "Cientistas descobrem um interruptor oculto dentro dos nanocatalisadores de prata",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Descobriu-se que os nanocatalisadores de prata mudam onde realizam suas reações mais importantes, dependendo se uma célula de óxido sólido está produzindo eletricidade ou hidrogênio. A descoberta pode permitir projetos de catalisadores mais inteligentes que impulsionem a geração de energia limpa e, ao mesmo tempo, tornem o hidrogênio verde mais eficiente em termos energéticos.",
       "source": "ScienceDaily",
       "date": "Mon, 10 Aug 2026 08:27:30 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
       "img": "https://www.sciencedaily.com/images/1920/metal-nanocatalysts-promote-oxygen-exchange-reactions.webp",
       "score": 0.82
+    },
+    {
+      "id": "c1cfe6c1",
+      "cat": "economia",
+      "title": "Jovens são o elo mais fraco do mercado de trabalho na Zona Euro",
+      "summary": "Nos últimos três anos, a União Europeia habituou-se a repetir o mantra de que o mercado de trabalho resistia bem às turbulências económicas, com o desemprego a cair para mínimos históricos. Mas há um grupo que não está a sentir essa recuperação da mesma forma: os jovens. Um estudo assinado por David",
+      "source": "ECO",
+      "date": "Tue, 11 Aug 2026 05:51:18 +0000",
+      "url": "https://eco.sapo.pt/2026/08/11/jovens-sao-o-elo-mais-fraco-do-mercado-de-trabalho-na-zona-euro/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-6p1a2880-2.jpg",
+      "score": 0.79
     },
     {
       "id": "e9f8e480",
@@ -58,6 +69,17 @@
       "score": 0.79
     },
     {
+      "id": "3501ea44",
+      "cat": "tecnologia",
+      "title": "Três grupos esportivos usando movimento para enfrentar o isolamento",
+      "summary": "Esses três grupos estão usando o esporte e o movimento para criar conexão, propósito e comunidade The post Três grupos esportivos usando o movimento para enfrentar o isolamento apareceu primeiro no Positive News.",
+      "source": "Positive News",
+      "date": "Tue, 11 Aug 2026 07:00:24 +0000",
+      "url": "https://www.positive.news/lifestyle/sport/three-sports-groups-using-movement-to-tackle-isolation/",
+      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/Ella-Richardson-Photography2-1-scaled.jpeg",
+      "score": 0.79
+    },
+    {
       "id": "7cffefcf",
       "cat": "tecnologia",
       "title": "Os alimentos cultivados regenerativamente se tornarão populares?",
@@ -69,14 +91,14 @@
       "score": 0.79
     },
     {
-      "id": "323aba08",
+      "id": "a8bc049d",
       "cat": "tecnologia",
-      "title": "Portuguesas longe das medalhas nos Campeonatos da Europa",
-      "summary": "Houve três atletas portuguesas na final do lançamento do peso, mas nenhuma saiu satisfeita com o resultado conseguido. Auriol Dongmo e Jéssica Inchude falaram mesmo de “um dia triste”.",
-      "source": "Público",
-      "date": "Mon, 10 Aug 2026 19:19:08 GMT",
-      "url": "https://www.publico.pt/2026/08/10/desporto/noticia/portuguesas-longe-medalhas-campeonatos-europa-2184676",
-      "img": null,
+      "title": "Dois anos depois do ouro, Iúri e Rui miram medalha em LA",
+      "summary": "Ciclistas assinalam a data a prometer \"foco na qualificação\" para estar em LA. Em dia de descanso da Volta, fazemos contas às classificações. A jornada da I Liga termina com empate em duelo insular.",
+      "source": "Observador",
+      "date": "Tue, 11 Aug 2026 06:55:43 +0100",
+      "url": "https://observador.pt/programas/vamos-a-bola/dois-anos-depois-do-ouro-iuri-e-rui-miram-medalha-em-la/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg",
       "score": 0.76
     },
     {
@@ -88,28 +110,6 @@
       "date": "Mon, 10 Aug 2026 23:48:08 +0100",
       "url": "https://www.rtp.pt/noticias/outras-modalidades/atletismoeuropeus-noruegues-jakob-ingebrigtsen-regressa-para-o-tri-nos-5000-metros_d1758762",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4badfdfcd17d7c4c9418d1b6d52f1ab4?w=350&amp;q=50&amp;rect=0,250,5199,2850&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "6c80a71f",
-      "cat": "tecnologia",
-      "title": "II Liga. Benfica B estreia-se com vitória em casa sobre o Leixões",
-      "summary": "O Benfica B venceu hoje em casa o Leixões por 1-0, na jornada inaugural da II Liga de futebol, num jogo em que o único golo da partida foi apontado nos primeiros minutos do encontro no Seixal.",
-      "source": "RTP",
-      "date": "Mon, 10 Aug 2026 21:45:43 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/ii-liga-benfica-b-estreia-se-com-vitoria-em-casa-sobre-o-leixoes_d1758745",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "14d9e8fc",
-      "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Uma nova onda de jovens observadores de pássaros está ajudando a transformar um dos passatempos mais antigos da Grã-Bretanha em um de seus hobbies de crescimento mais rápido. A postagem Como a observação de pássaros se tornou um sucesso inesperado entre a Geração Z apareceu pela primeira vez em Notícias Positivas.",
-      "source": "Positive News",
-      "date": "Mon, 10 Aug 2026 07:00:34 +0000",
-      "url": "https://www.positive.news/environment/conservation/birdwatching-takes-off-among-gen-z/",
-      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/annie-spratt-RR5w4xq4GGA-unsplash-e1786108068683.jpg",
       "score": 0.76
     },
     {
@@ -148,7 +148,7 @@
     {
       "id": "1fd68937",
       "cat": "ambiente",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "The Spark: como os vizinhos estão se unindo para se tornarem mais ecológicos",
       "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada no... The",
       "source": "Reasons to be Cheerful",
       "date": "Fri, 07 Aug 2026 08:00:42 +0000",
@@ -157,58 +157,91 @@
       "score": 0.76
     },
     {
-      "id": "c10a94ac",
+      "id": "4e41a46a",
       "cat": "tecnologia",
-      "title": "Os velhos: a desgraça presente e o nosso futuro colectivo",
-      "summary": "Não há espaço nem tempo para os velhos portugueses. A sociedade volta-lhes as costas e eles vivem bem cientes do peso que significam para os mais novos. Opinião de Rui Esperança",
+      "title": "Tratamentos estéticos para todos no SNS, anular exames e proibir partidos: as 202 petições enviadas ao Parlamento",
+      "summary": "Seja para ilegalizar partidos, reconhecer a Palestina ou suspender esse mesmo reconhecimento e até para garantir procedimentos estéticos para todos no SNS, há petições para todos os gostos.",
       "source": "Público",
-      "date": "Mon, 10 Aug 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/08/11/opiniao/opiniao/velhos-desgraca-presente-futuro-colectivo-2183808",
+      "date": "Tue, 11 Aug 2026 05:55:00 GMT",
+      "url": "https://www.publico.pt/2026/08/11/politica/noticia/tratamentos-esteticos-sns-anular-exames-proibir-partidos-202-peticoes-enviadas-parlamento-2184092",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "c36a689a",
+      "id": "e0b78168",
       "cat": "tecnologia",
-      "title": "Governo responde a críticas e diz que auditorias à PJ são “naturais”",
-      "summary": "Do primeiro-ministro à ministra da Justiça, passando pelo próprio Luís Neves, executivo procurou desdramatizar auditoria que tem o titular da Administração Interna como principal foco.",
+      "title": "BCP rejeita desinvestimento em Moçambique, de onde BPI quer sair",
+      "summary": "Líder do Banco Comercial Português sublinha compromisso com Millennium bim, e também pretende manter a posição no angolano Millennium Atlântico, a não ser que surja alguma boa oportunidade.",
       "source": "Público",
-      "date": "Mon, 10 Aug 2026 19:07:55 GMT",
-      "url": "https://www.publico.pt/2026/08/10/politica/noticia/governo-responde-criticas-auditorias-pj-sao-naturais-2184662",
+      "date": "Tue, 11 Aug 2026 05:33:00 GMT",
+      "url": "https://www.publico.pt/2026/08/11/economia/noticia/bcp-rejeita-desinvestimento-mocambique-onde-bpi-quer-sair-2184671",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "c943b7b6",
+      "id": "4869524b",
       "cat": "tecnologia",
-      "title": "O básico",
-      "summary": "Num debate público, o contributo mais útil das Ciências Sociais é fornecer conceitos, evidências e critérios de análise que permitam discutir desacordos reais com maior rigor e menor simplificação.",
+      "title": "Acerca de uma fotografia do primeiro-ministro na praia",
+      "summary": "É um excelente exemplo para demonstrar que não é possível ter, em simultâneo, sol na eira e chuva no nabal. Opinião de João Miguel Tavares",
+      "source": "Público",
+      "date": "Tue, 11 Aug 2026 05:28:00 GMT",
+      "url": "https://www.publico.pt/2026/08/11/opiniao/opiniao/acerca-fotografia-primeiroministro-praia-2184632",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "5242161c",
+      "cat": "tecnologia",
+      "title": "Exército israelita bombardeia colinas no sul do Líbano",
+      "summary": "O exército de Israel lançou um novo bombardeamento contra colinas no sul do Líbano, apesar dos progressos na ronda bilateral de negociações realizada na semana passada.",
       "source": "Observador",
-      "date": "Tue, 11 Aug 2026 00:12:28 +0100",
-      "url": "https://observador.pt/opiniao/o-basico/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A500%3A500%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F10212542%2Frui-henrique-santos2e16d0bafill-500x500-1.jpg",
+      "date": "Tue, 11 Aug 2026 06:46:31 +0100",
+      "url": "https://observador.pt/liveblogs/exercito-israelita-bombardeia-colinas-no-sul-do-libano/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/03/12065653/20033112_770x433_acf_cropped-1.jpg",
       "score": 0.73
     },
     {
-      "id": "343a18c4",
-      "cat": "saude",
-      "title": "Antigo advogado de Trump toma posse como procurador-geral dos EUA",
-      "summary": "Após um difícil processo de confirmação no Senado, onde a sua nomeação para o cargo foi aprovada por uma curta margem, Todd Blanche tomou posse na Sala Oval da Casa Branca, com a presença de Donald Trump.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 10 Aug 2026 23:59:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/antigo-advogado-de-trump-toma-posse-como-procurador-geral-dos-eua",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-10-23-59-00-527963.jpg",
+      "id": "84066c9d",
+      "cat": "tecnologia",
+      "title": "Marcello Caetano nasceu há 120 anos: quem foi ele?",
+      "summary": "A 17 de Agosto de 1906, numa família modesta de Lisboa, nasceu Marcello Caetano, sucessor de Salazar. Que objetivos tinha? E será que chegou a sonhar com uma transição gradual para a democracia?",
+      "source": "Observador",
+      "date": "Tue, 11 Aug 2026 06:05:59 +0100",
+      "url": "https://observador.pt/programas/e-o-resto-e-historia/marcello-caetano-nasceu-ha-120-anos-quem-foi-ele/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110039/770-podcast-e-o-resto-e-historia.jpg",
       "score": 0.73
     },
     {
-      "id": "4765b597",
-      "cat": "saude",
-      "title": "Oferta e procura. É tão simples…",
-      "summary": "Se o mercado está a dar indicação de haver produto em excesso, paga-se para manter a produção?",
+      "id": "95bff0ce",
+      "cat": "tecnologia",
+      "title": "Porto de Setúbal quer investir 100 milhões em terminal de uso militar e civil",
+      "summary": "O porto de Setúbal, que tem servido de teatro de operações de mobilidade militar, está a explorar a possibilidade de ter um terminal “dual use”. E prepara terreno para candidatura a fundos europeus para financiar investimento.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 10 Aug 2026 21:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/oferta-e-procura-e-tao-simples",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-16-00-296266.png",
+      "date": "Tue, 11 Aug 2026 08:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/porto-de-setubal-quer-investir-100-milhoes-em-terminal-de-uso-militar-e-civil",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-10-21-18-08-527957.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "b0253171",
+      "cat": "tecnologia",
+      "title": "Centros de dados não poderão ligar-se à rede se puserem abastecimento em risco",
+      "summary": "O Governo garante que a capacidade disponível será verificada antes de qualquer atribuição de potência aos centros de dados e que nenhum projeto poderá ligar-se à rede se comprometer a segurança do abastecimento. Executivo reconhece que a procura destes projetos coloca desafios ao sistema elétrico.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 11 Aug 2026 07:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/centros-de-dados-nao-poderao-ligar-se-a-rede-se-puserem-abastecimento-em-risco",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-09-09-14-51-526290.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "368aa8b5",
+      "cat": "economia",
+      "title": "Deutsche Bank é o primeiro banco europeu a processar transações em yuan",
+      "summary": "O banco alemão apontou como meta tornar-se uma \"ponte local para os sistemas de pagamento da China\" e uma \"ligação fundamental\" entre os mercados financeiros da Europa e do país asiático.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 11 Aug 2026 07:05:59 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/deutsche-bank-e-o-primeiro-banco-europeu-a-processar-transacoes-em-yuan",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-06-07-14-58-527765.jpg",
       "score": 0.73
     },
     {
@@ -234,42 +267,31 @@
       "score": 0.73
     },
     {
-      "id": "9e07c4b6",
+      "id": "96abcb1d",
       "cat": "tecnologia",
-      "title": "Nvidia negoceia com sociedades de Wall Street financiamento de 432 mil milhões",
-      "summary": "Um grupo de gigantes norte-americanos investidores está prestes a estabelecer uma parceria com a Nvidia para um pacote de financiamento de 500 mil milhões de dólares (432 mil milhões de euros) para inteligência artificial, segundo a Bloomberg (acesso pago, em inglês). A agência, que citou fontes con",
-      "source": "ECO",
-      "date": "Mon, 10 Aug 2026 21:40:04 +0000",
-      "url": "https://eco.sapo.pt/2026/08/10/nvidia-negoceia-com-sociedades-de-wall-street-financiamento-de-432-mil-milhoes/",
-      "img": "https://eco.imgix.net/uploads/2024/12/cropped-doc-20241120-43947159-11731886.jpg",
+      "title": "Atletismo/Europeus. Tatjana Pinto e Arialis Martínez fora da final dos 100 metros",
+      "summary": "As portuguesas Tatjana Pinto e Arialis Martínez ficaram hoje fora da final dos 100 metros dos Europeus de atletismo, que encerra hoje o programa do primeiro dia dos campeonatos, na cidade inglesa de Birmingham.",
+      "source": "RTP",
+      "date": "Mon, 10 Aug 2026 23:43:19 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/atletismoeuropeus-tatjana-pinto-e-arialis-martinez-fora-da-final-dos-100-metros_d1758758",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d8fa7be14bc5f258b22677b83efd7a86?w=350&amp;q=50&amp;rect=0,115,526,288&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "0a08e0c6",
-      "cat": "ciencia",
-      "title": "Portugal com 4.ª maior subida no preço das casas até março entre 55 países",
-      "summary": "Um estudo da Knight Frank revela que os preços das casas em Portugal cresceram 16,5% no primeiro trimestre, em termos homólogos, registando a 4.ª maior valorização nominal anual entre 55 mercados analisados. Divulgada esta segunda-feira, a última edição do &#8220;Global House Price Index&#8221; da K",
-      "source": "ECO",
-      "date": "Mon, 10 Aug 2026 17:53:53 +0000",
-      "url": "https://eco.sapo.pt/2026/08/10/portugal-com-4-a-maior-subida-no-preco-das-casas-ate-marco-entre-55-paises/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-sines08.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "60ad3058",
+      "id": "36c3a3bc",
       "cat": "tecnologia",
-      "title": "O cliente mudou. E agora?",
-      "summary": "Durante décadas, a indústria seguradora portuguesa habituou-se a encarar a inovação como um exercício de eficiência. Digitalizar processos, automatizar tarefas, reduzir custos operacionais, lançar uma app mais intuitiva ou eliminar papel na jornada do cliente. Tudo isto é importante. Mas nada disto ",
+      "title": "Deutsche Bank torna-se primeiro banco europeu a processar transações em yuan",
+      "summary": "O banco central da China anunciou a designação do Deutsche Bank, da Alemanha, como banco de compensação para a moeda chinesa, tornando-se a primeira instituição europeia a receber esta autorização. Num comunicado divulgado na segunda-feira, o Banco Popular da China (PBOC, na sigla em inglês) indicou",
       "source": "ECO",
-      "date": "Mon, 10 Aug 2026 17:23:10 +0000",
-      "url": "https://eco.sapo.pt/opiniao/o-cliente-mudou-e-agora/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2024/09/nuno-matos_opiniao.png",
+      "date": "Tue, 11 Aug 2026 06:29:41 +0000",
+      "url": "https://eco.sapo.pt/2026/08/11/deutsche-bank-torna-se-primeiro-banco-europeu-a-processar-transacoes-em-yuan/",
+      "img": "https://eco.imgix.net/uploads/2026/03/cropped-doc202603034667697312791505.jpg",
       "score": 0.73
     },
     {
       "id": "ca9c096d",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Quando e onde ver o eclipse solar na Escócia",
       "summary": "Até 95% do Sol desaparecerá lentamente atrás da Lua no eclipse mais dramático visível no Reino Unido desde agosto de 1999.",
       "source": "BBC News",
       "date": "Mon, 10 Aug 2026 15:29:51 GMT",
@@ -302,35 +324,13 @@
     {
       "id": "95af52c4",
       "cat": "ambiente",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "O que estamos lendo: Construindo um enorme corredor de vida selvagem a partir de terras fragmentadas",
       "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Atravessar para a segurança A perda de habitat é um grande problema para a vida selvagem. Mas o mesmo acontece com a fragmentação do habitat, porque",
       "source": "Reasons to be Cheerful",
       "date": "Wed, 05 Aug 2026 08:00:48 +0000",
       "url": "https://reasonstobecheerful.world/what-were-reading-building-wildlife-corridor-rockies/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/shutterstock_1126796255-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "fde66b92",
-      "cat": "tecnologia",
-      "title": "Ceuta, ou a fragilidade europeia",
-      "summary": "A entrada de imigrantes sem controlo em Ceuta expõe acima de tudo, e de forma dramática, a incapacidade de defesa e segurança das fronteiras europeias.",
-      "source": "Observador",
-      "date": "Tue, 11 Aug 2026 00:25:58 +0100",
-      "url": "https://observador.pt/opiniao/ceuta-ou-a-fragilidade-europeia/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2385%3A2384%3Anowe%3A266%3A399%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Fhelena-garrido.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "68316e87",
-      "cat": "geral",
-      "title": "\"Pole pole\"",
-      "summary": "O nosso pole pole é «Ah, mas este solzinho não há noutro sítio do mundo». Ou «Sim, mas o peixe é muito bom».",
-      "source": "Observador",
-      "date": "Tue, 11 Aug 2026 00:24:49 +0100",
-      "url": "https://observador.pt/opiniao/pole-pole/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A4%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F07%2F15145446%2Fnunogpocas.jpg",
-      "score": 0.7
     }
   ]
 }
