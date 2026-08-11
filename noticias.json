@@ -1,5 +1,5 @@
 {
-  "last_update": "11/08/2026 07:18 UTC",
+  "last_update": "11/08/2026 13:21 UTC",
   "total": 30,
   "news": [
     {
@@ -28,23 +28,12 @@
       "id": "fdf8314b",
       "cat": "cultura",
       "title": "Cientistas descobrem um interruptor oculto dentro dos nanocatalisadores de prata",
-      "summary": "Descobriu-se que os nanocatalisadores de prata mudam onde realizam suas reações mais importantes, dependendo se uma célula de óxido sólido está produzindo eletricidade ou hidrogênio. A descoberta pode permitir projetos de catalisadores mais inteligentes que impulsionem a geração de energia limpa e, ao mesmo tempo, tornem o hidrogênio verde mais eficiente em termos energéticos.",
+      "summary": "Descobriu-se que os nanocatalisadores de prata mudam o local onde realizam suas reações mais importantes, dependendo se uma célula de óxido sólido está produzindo eletricidade ou hidrogênio. A descoberta pode permitir projetos de catalisadores mais inteligentes que impulsionem a geração de energia limpa e, ao mesmo tempo, tornem o hidrogênio verde mais eficiente em termos energéticos.",
       "source": "ScienceDaily",
       "date": "Mon, 10 Aug 2026 08:27:30 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
       "img": "https://www.sciencedaily.com/images/1920/metal-nanocatalysts-promote-oxygen-exchange-reactions.webp",
       "score": 0.82
-    },
-    {
-      "id": "c1cfe6c1",
-      "cat": "economia",
-      "title": "Jovens são o elo mais fraco do mercado de trabalho na Zona Euro",
-      "summary": "Nos últimos três anos, a União Europeia habituou-se a repetir o mantra de que o mercado de trabalho resistia bem às turbulências económicas, com o desemprego a cair para mínimos históricos. Mas há um grupo que não está a sentir essa recuperação da mesma forma: os jovens. Um estudo assinado por David",
-      "source": "ECO",
-      "date": "Tue, 11 Aug 2026 05:51:18 +0000",
-      "url": "https://eco.sapo.pt/2026/08/11/jovens-sao-o-elo-mais-fraco-do-mercado-de-trabalho-na-zona-euro/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-6p1a2880-2.jpg",
-      "score": 0.79
     },
     {
       "id": "e9f8e480",
@@ -83,7 +72,7 @@
       "id": "7cffefcf",
       "cat": "tecnologia",
       "title": "Os alimentos cultivados regenerativamente se tornarão populares?",
-      "summary": "Na Groundswell, os especialistas debateram como colocar nas prateleiras alimentos mais ecológicos. Aqui estão três conclusões principais: Os alimentos cultivados regenerativamente se tornarão populares? apareceu primeiro em Notícias Positivas.",
+      "summary": "Na Groundswell, os especialistas debateram como colocar nas prateleiras alimentos mais ecológicos. Aqui estão três conclusões principais: Os alimentos cultivados de forma regenerativa se tornarão populares? apareceu primeiro em Notícias Positivas.",
       "source": "Positive News",
       "date": "Tue, 04 Aug 2026 08:00:00 +0000",
       "url": "https://www.positive.news/society/will-regeneratively-grown-food-become-mainstream/",
@@ -91,24 +80,46 @@
       "score": 0.79
     },
     {
-      "id": "a8bc049d",
+      "id": "89405cd7",
       "cat": "tecnologia",
-      "title": "Dois anos depois do ouro, Iúri e Rui miram medalha em LA",
-      "summary": "Ciclistas assinalam a data a prometer \"foco na qualificação\" para estar em LA. Em dia de descanso da Volta, fazemos contas às classificações. A jornada da I Liga termina com empate em duelo insular.",
-      "source": "Observador",
-      "date": "Tue, 11 Aug 2026 06:55:43 +0100",
-      "url": "https://observador.pt/programas/vamos-a-bola/dois-anos-depois-do-ouro-iuri-e-rui-miram-medalha-em-la/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg",
+      "title": "ONU prepara convenção global contra a evasão fiscal que pode ajudar acção climática",
+      "summary": "O rascunho compromete os Estados a procurar formas de cooperação fiscal que contribuam para o desenvolvimento sustentável nas suas três dimensões — económica, social e ambiental.",
+      "source": "Público",
+      "date": "Tue, 11 Aug 2026 11:26:55 GMT",
+      "url": "https://www.publico.pt/2026/08/11/azul/noticia/onu-prepara-convencao-global-evasao-fiscal-ajudar-accao-climatica-2184586",
+      "img": null,
       "score": 0.76
     },
     {
-      "id": "08cb8738",
+      "id": "553ec574",
       "cat": "tecnologia",
-      "title": "Atletismo/Europeus. Norueguês Jakob Ingebrigtsen regressa para o `tri` nos 5.000 metros",
+      "title": "Nottingham oficializa acordo com o Sporting por Diomande",
+      "summary": "O defesa central costa-marfinense realizou 132 jogos pelos leões e apontou sete golos — o primeiro num dérbi, diante do Benfica; o último contra o Ath. Bilbao, a contar para a Liga dos Campeões.",
+      "source": "Observador",
+      "date": "Tue, 11 Aug 2026 12:18:02 +0100",
+      "url": "https://observador.pt/2026/08/11/nottingham-oficializa-acordo-com-o-sporting-por-diomande-o-defesa-poderoso-e-imponente/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3277:1844:nowe:0:1784/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/11120804/diomande.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "26f33641",
+      "cat": "tecnologia",
+      "title": "EUA atacam navio que furou bloqueio militar. Outra embarcação foi atingida no Mar Vermelho",
+      "summary": "Impasse sobre possível acordo no Médio Oriente volta a aumentar preços do petróleo. Aumento do \"ouro negro\" está também a penalizar a negociação das dívidas soberanas da Zona Euro.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 11 Aug 2026 14:14:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/pracas-asiaticas-entre-subidas-e-quedas-samsung-destaca-se-com-subida-de-4",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-11-12-05-07-523384.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "5269e7a4",
+      "cat": "tecnologia",
+      "title": "Norueguês Jakob Ingebrigtsen regressa para o \"tri\" nos 5.000 metros",
       "summary": "Jakob Ingebrigtsen, novamente campeão da Europa dos 5.000 metros, após ausência prolongada, contribuiu hoje para a liderança da Noruega no medalheiro dos Europeus de atletismo, com dois ouros, enquanto Países Baixos, Reino Unido e Itália celebram um título.",
       "source": "RTP",
       "date": "Mon, 10 Aug 2026 23:48:08 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/atletismoeuropeus-noruegues-jakob-ingebrigtsen-regressa-para-o-tri-nos-5000-metros_d1758762",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/noruegues-jakob-ingebrigtsen-regressa-para-o-tri-nos-5000-metros_d1758762",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4badfdfcd17d7c4c9418d1b6d52f1ab4?w=350&amp;q=50&amp;rect=0,250,5199,2850&amp;auto=format",
       "score": 0.76
     },
@@ -157,91 +168,36 @@
       "score": 0.76
     },
     {
-      "id": "4e41a46a",
+      "id": "c9b3346c",
       "cat": "tecnologia",
-      "title": "Tratamentos estéticos para todos no SNS, anular exames e proibir partidos: as 202 petições enviadas ao Parlamento",
-      "summary": "Seja para ilegalizar partidos, reconhecer a Palestina ou suspender esse mesmo reconhecimento e até para garantir procedimentos estéticos para todos no SNS, há petições para todos os gostos.",
+      "title": "Seguro considera que “interior não é um fardo” e precisa de uma oportunidade",
+      "summary": "O Presidente da República sublinha a importância de adoptar “uma visão estratégica” e de promover “investimento público capaz de potenciar o investimento privado”.",
       "source": "Público",
-      "date": "Tue, 11 Aug 2026 05:55:00 GMT",
-      "url": "https://www.publico.pt/2026/08/11/politica/noticia/tratamentos-esteticos-sns-anular-exames-proibir-partidos-202-peticoes-enviadas-parlamento-2184092",
+      "date": "Tue, 11 Aug 2026 12:19:30 GMT",
+      "url": "https://www.publico.pt/2026/08/11/politica/noticia/seguro-considera-interior-nao-fardo-precisa-oportunidade-2184728",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "e0b78168",
+      "id": "406f0585",
       "cat": "tecnologia",
-      "title": "BCP rejeita desinvestimento em Moçambique, de onde BPI quer sair",
-      "summary": "Líder do Banco Comercial Português sublinha compromisso com Millennium bim, e também pretende manter a posição no angolano Millennium Atlântico, a não ser que surja alguma boa oportunidade.",
+      "title": "Febre do vestido de noiva de Taylor Swift coloca as marcas de moda nupcial em alerta",
+      "summary": "A estrela pop ainda não revelou fotografias, mas marcas como a David’s Bridal ou a Pronovias já antecipam características de estilo que podem incorporar nos seus designs, respondendo à procura.",
       "source": "Público",
-      "date": "Tue, 11 Aug 2026 05:33:00 GMT",
-      "url": "https://www.publico.pt/2026/08/11/economia/noticia/bcp-rejeita-desinvestimento-mocambique-onde-bpi-quer-sair-2184671",
+      "date": "Tue, 11 Aug 2026 12:11:42 GMT",
+      "url": "https://www.publico.pt/2026/08/11/impar/noticia/febre-vestido-noiva-taylor-swift-coloca-marcas-moda-nupcial-alerta-2184718",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "4869524b",
+      "id": "302d7d67",
       "cat": "tecnologia",
-      "title": "Acerca de uma fotografia do primeiro-ministro na praia",
-      "summary": "É um excelente exemplo para demonstrar que não é possível ter, em simultâneo, sol na eira e chuva no nabal. Opinião de João Miguel Tavares",
-      "source": "Público",
-      "date": "Tue, 11 Aug 2026 05:28:00 GMT",
-      "url": "https://www.publico.pt/2026/08/11/opiniao/opiniao/acerca-fotografia-primeiroministro-praia-2184632",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "5242161c",
-      "cat": "tecnologia",
-      "title": "Exército israelita bombardeia colinas no sul do Líbano",
-      "summary": "O exército de Israel lançou um novo bombardeamento contra colinas no sul do Líbano, apesar dos progressos na ronda bilateral de negociações realizada na semana passada.",
+      "title": "João Soares, Portas e Mesquita Nunes na Universidade do PSD",
+      "summary": "Antigo presidente da Câmara de Lisboa, histórico líder do CDS e ex-secretário de Estado juntam-se à iniciativa do PSD em Castelo de Vide, que contará ainda com pesos pesados do partido e do Governo.",
       "source": "Observador",
-      "date": "Tue, 11 Aug 2026 06:46:31 +0100",
-      "url": "https://observador.pt/liveblogs/exercito-israelita-bombardeia-colinas-no-sul-do-libano/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/03/12065653/20033112_770x433_acf_cropped-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "84066c9d",
-      "cat": "tecnologia",
-      "title": "Marcello Caetano nasceu há 120 anos: quem foi ele?",
-      "summary": "A 17 de Agosto de 1906, numa família modesta de Lisboa, nasceu Marcello Caetano, sucessor de Salazar. Que objetivos tinha? E será que chegou a sonhar com uma transição gradual para a democracia?",
-      "source": "Observador",
-      "date": "Tue, 11 Aug 2026 06:05:59 +0100",
-      "url": "https://observador.pt/programas/e-o-resto-e-historia/marcello-caetano-nasceu-ha-120-anos-quem-foi-ele/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110039/770-podcast-e-o-resto-e-historia.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "95bff0ce",
-      "cat": "tecnologia",
-      "title": "Porto de Setúbal quer investir 100 milhões em terminal de uso militar e civil",
-      "summary": "O porto de Setúbal, que tem servido de teatro de operações de mobilidade militar, está a explorar a possibilidade de ter um terminal “dual use”. E prepara terreno para candidatura a fundos europeus para financiar investimento.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 11 Aug 2026 08:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/porto-de-setubal-quer-investir-100-milhoes-em-terminal-de-uso-militar-e-civil",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-10-21-18-08-527957.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "b0253171",
-      "cat": "tecnologia",
-      "title": "Centros de dados não poderão ligar-se à rede se puserem abastecimento em risco",
-      "summary": "O Governo garante que a capacidade disponível será verificada antes de qualquer atribuição de potência aos centros de dados e que nenhum projeto poderá ligar-se à rede se comprometer a segurança do abastecimento. Executivo reconhece que a procura destes projetos coloca desafios ao sistema elétrico.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 11 Aug 2026 07:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/centros-de-dados-nao-poderao-ligar-se-a-rede-se-puserem-abastecimento-em-risco",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-09-09-14-51-526290.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "368aa8b5",
-      "cat": "economia",
-      "title": "Deutsche Bank é o primeiro banco europeu a processar transações em yuan",
-      "summary": "O banco alemão apontou como meta tornar-se uma \"ponte local para os sistemas de pagamento da China\" e uma \"ligação fundamental\" entre os mercados financeiros da Europa e do país asiático.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 11 Aug 2026 07:05:59 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/deutsche-bank-e-o-primeiro-banco-europeu-a-processar-transacoes-em-yuan",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-06-07-14-58-527765.jpg",
+      "date": "Tue, 11 Aug 2026 12:43:39 +0100",
+      "url": "https://observador.pt/2026/08/11/joao-soares-portas-e-mesquita-nunes-na-universidade-de-verao-do-psd/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/09/01131640/43485495.jpg",
       "score": 0.73
     },
     {
@@ -256,6 +212,17 @@
       "score": 0.73
     },
     {
+      "id": "1456e7b9",
+      "cat": "tecnologia",
+      "title": "UEFA cria plataforma explicativa dos critérios e decisões do VAR",
+      "summary": "A plataforma Clear Line da UEFA é o primeiro guia explicativo da vídeo-arbitragem no futebol europeu e já está disponível para todos os que o queiram consultar.",
+      "source": "RTP",
+      "date": "Tue, 11 Aug 2026 15:01:40 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/uefa-cria-plataforma-explicativa-dos-criterios-e-decisoes-do-var_d1758843",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ee/ee0badc22de3f64e9c8b0eaa6f497261?w=350&amp;q=50&amp;rect=0,36,1262,692&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "61dc81e8",
       "cat": "tecnologia",
       "title": "Thiago Almada contratado pelo River Plate ao Atlético de Madrid",
@@ -267,36 +234,36 @@
       "score": 0.73
     },
     {
-      "id": "96abcb1d",
-      "cat": "tecnologia",
-      "title": "Atletismo/Europeus. Tatjana Pinto e Arialis Martínez fora da final dos 100 metros",
-      "summary": "As portuguesas Tatjana Pinto e Arialis Martínez ficaram hoje fora da final dos 100 metros dos Europeus de atletismo, que encerra hoje o programa do primeiro dia dos campeonatos, na cidade inglesa de Birmingham.",
-      "source": "RTP",
-      "date": "Mon, 10 Aug 2026 23:43:19 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/atletismoeuropeus-tatjana-pinto-e-arialis-martinez-fora-da-final-dos-100-metros_d1758758",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d8fa7be14bc5f258b22677b83efd7a86?w=350&amp;q=50&amp;rect=0,115,526,288&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "36c3a3bc",
-      "cat": "tecnologia",
-      "title": "Deutsche Bank torna-se primeiro banco europeu a processar transações em yuan",
-      "summary": "O banco central da China anunciou a designação do Deutsche Bank, da Alemanha, como banco de compensação para a moeda chinesa, tornando-se a primeira instituição europeia a receber esta autorização. Num comunicado divulgado na segunda-feira, o Banco Popular da China (PBOC, na sigla em inglês) indicou",
+      "id": "5830c6ce",
+      "cat": "economia",
+      "title": "Riscos de catástrofes aumentam. Como o Japão os transforma em alavancas de crescimento",
+      "summary": "O risco de eventos climáticos extremos deixou de ser um problema ambiental para se tornar uma ameaça económica. Os danos provocados por estes fenómenos atingem infraestruturas, interrompem cadeias de abastecimento, afetam empresas e pressionam os orçamentos públicos. Para o Japão, a resposta passa c",
       "source": "ECO",
-      "date": "Tue, 11 Aug 2026 06:29:41 +0000",
-      "url": "https://eco.sapo.pt/2026/08/11/deutsche-bank-torna-se-primeiro-banco-europeu-a-processar-transacoes-em-yuan/",
-      "img": "https://eco.imgix.net/uploads/2026/03/cropped-doc202603034667697312791505.jpg",
+      "date": "Tue, 11 Aug 2026 13:09:45 +0000",
+      "url": "https://eco.sapo.pt/2026/08/11/riscos-de-catastrofes-aumentam-como-o-japao-os-transforma-em-alavancas-de-crescimento/",
+      "img": "https://eco.imgix.net/uploads/2018/11/toquio.jpg",
       "score": 0.73
     },
     {
-      "id": "ca9c096d",
+      "id": "d3acde7c",
+      "cat": "desporto",
+      "title": "Sporting oficializa venda de Diomande ao Nottingham Forest por 40 milhões de euros",
+      "summary": "O Sporting oficializou esta terça-feira a transferência do futebolista Ousmane Diomande para o Nottingham Forest por 40 milhões de euros, em comunicado enviado à Comissão do Mercado de Valores Mobiliários (CMVM). &#8220;A Sporting SAD chegou a acordo com o Nottingham Forest para a transferência, a t",
+      "source": "ECO",
+      "date": "Tue, 11 Aug 2026 12:50:11 +0000",
+      "url": "https://eco.sapo.pt/2026/08/11/sporting-oficializa-venda-de-diomande-ao-nottingham-forest-por-40-milhoes-de-euros/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-45455758-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "281a08da",
       "cat": "tecnologia",
-      "title": "Quando e onde ver o eclipse solar na Escócia",
-      "summary": "Até 95% do Sol desaparecerá lentamente atrás da Lua no eclipse mais dramático visível no Reino Unido desde agosto de 1999.",
-      "source": "BBC News",
-      "date": "Mon, 10 Aug 2026 15:29:51 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg",
+      "title": "Portugal está entre mercados europeus mais competitivos para centros de dados",
+      "summary": "Portugal está entre os mercados europeus mais competitivos para instalar centros de dados, beneficiando da energia renovável, conectividade internacional e espaço disponível, numa altura em que a Inteligência Artificial (IA) aumenta a pressão sobre as infraestruturas. O relatório &#8220;Data Centers",
+      "source": "ECO",
+      "date": "Tue, 11 Aug 2026 12:39:16 +0000",
+      "url": "https://eco.sapo.pt/2026/08/11/portugal-esta-entre-mercados-europeus-mais-competitivos-para-centros-de-dados/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-cnca-1-1.png",
       "score": 0.73
     },
     {
@@ -305,9 +272,20 @@
       "title": "Melhores lugares para ver eclipse solar parcial em toda a Inglaterra",
       "summary": "Algumas partes da Inglaterra poderão ver até 96% da Lua cobrindo o Sol em 12 de agosto.",
       "source": "BBC News",
-      "date": "Mon, 10 Aug 2026 15:21:47 GMT",
+      "date": "Tue, 11 Aug 2026 12:35:04 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285c/live/352e1ed0-94c1-11f1-adb5-bd19050a74a5.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ca9c096d",
+      "cat": "tecnologia",
+      "title": "Quando e onde ver o eclipse solar na Escócia",
+      "summary": "Até 95% do Sol desaparecerá lentamente atrás da Lua no eclipse mais dramático visível no Reino Unido desde agosto de 1999.",
+      "source": "BBC News",
+      "date": "Tue, 11 Aug 2026 11:17:16 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg",
       "score": 0.73
     },
     {
@@ -331,6 +309,28 @@
       "url": "https://reasonstobecheerful.world/what-were-reading-building-wildlife-corridor-rockies/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/shutterstock_1126796255-scaled.jpg",
       "score": 0.73
+    },
+    {
+      "id": "c44806de",
+      "cat": "tecnologia",
+      "title": "Levantada interdição a banhos na Praia do Areínho em Ovar",
+      "summary": "A Câmara de Ovar, no distrito de Aveiro, garante agora que estão \"novamente reunidas condições de qualidade e segurança\" para os utilizadores da praia irem a banhos.",
+      "source": "Observador",
+      "date": "Tue, 11 Aug 2026 13:06:37 +0100",
+      "url": "https://observador.pt/2026/08/11/levantada-interdicao-a-banhos-na-praia-do-areinho-em-ovar/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/06080031/47220960.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "15f7f47a",
+      "cat": "tecnologia",
+      "title": "Mais de 10 empresas já pagam para ter acesso antecipado às publicações de Trump",
+      "summary": "A mensalidade para ter acesso privilegiado às publicações na Truth Social varia entre 60 mil e 100 mil dólares (o equivalente a 52 mil e 86 mil euros) e já há mais de 10 entidades subscritas, sendo elas principalmente empresas de negociação de alta frequência.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 11 Aug 2026 14:10:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/mais-de-10-empresas-ja-pagam-para-ter-acesso-antecipado-as-publicacoes-de-trump",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-28-07-45-34-527312.jpg",
+      "score": 0.7
     }
   ]
 }
