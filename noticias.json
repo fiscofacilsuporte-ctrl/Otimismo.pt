@@ -1,5 +1,5 @@
 {
-  "last_update": "13/08/2026 13:27 UTC",
+  "last_update": "13/08/2026 19:12 UTC",
   "total": 30,
   "news": [
     {
@@ -47,14 +47,58 @@
       "score": 0.79
     },
     {
-      "id": "442cba06",
+      "id": "e993ead8",
       "cat": "tecnologia",
-      "title": "Sp. Braga tenta playoff da Liga Conferência",
-      "summary": "O Sporting de Braga defende a vantagem de 1-0 conquistada na receção Dínamo Minsk e procura qualificar-se para o play-off da Liga Conferência, em jogo da segunda mão da terceira pré-eliminatória.",
+      "title": "PCP procura apoios para levar decreto-lei da Prestação Social Única ao Parlamento",
+      "summary": "Iniciativa tem que ser subscrita por dez deputados, pelo que o partido vai procurar apoio junto de outras bancadas. PS também já manifestou reservas ao diploma aprovado em Conselho de Ministros.",
+      "source": "Público",
+      "date": "Thu, 13 Aug 2026 16:49:21 GMT",
+      "url": "https://www.publico.pt/2026/08/13/politica/noticia/pcp-procura-apoios-levar-decretolei-prestacao-social-unica-parlamento-2184955",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "8370146d",
+      "cat": "tecnologia",
+      "title": "Detetadas 206 viagens irregulares no Aeroporto de Lisboa",
+      "summary": "Das 206 viagens irregulares detetadas, 113 estavam relacionadas com documentos falsificados. O acordo entre a PSP e a Polícia Nacional da Irlanda, An Garda Siochána, teve um saldo positivo.",
+      "source": "Observador",
+      "date": "Thu, 13 Aug 2026 16:40:17 +0100",
+      "url": "https://observador.pt/2026/08/13/psp-e-policia-irlandesa-detetam-206-viagens-irregulares-no-aeroporto-de-lisboa/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:219/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/03125914/ilacerda-greve-geral-3-junho-109-scaled.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "fb35212b",
+      "cat": "tecnologia",
+      "title": "Portugal continua a debater o problema e a ignorar a solução: edição agrovoltaico",
+      "summary": "O país já deu o primeiro passo ao reconhecer o potencial do agrovoltaico. Falta agora dar o passo decisivo: assegurar um enquadramento que permita transformar esse potencial numa verdadeira política pública.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 13 Aug 2026 18:00:22 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/portugal-continua-a-debater-o-problema-e-a-ignorar-a-solucao-edicao-agrovoltaico",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_394x514uu2026-08-13-11-08-00-528131.png",
+      "score": 0.76
+    },
+    {
+      "id": "989c935c",
+      "cat": "desporto",
+      "title": "Voleibol do Sporting contrata `zona 4` brasileiro João Rafael",
+      "summary": "A equipa de voleibol do Sporting anunciou hoje a contratação do brasileiro João Rafael, um zona 4 de 33 anos que teve como principal conquista na carreira o título de campeão em França.",
       "source": "RTP",
-      "date": "Thu, 13 Aug 2026 10:47:02 +0100",
-      "url": "https://www.rtp.pt/noticias/liga-europa-conferencia/sp-braga-tenta-playoff-da-liga-conferencia_d1759198",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c4160c057d0942bc8aaea706896c3bef?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Thu, 13 Aug 2026 19:10:14 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/voleibol-do-sporting-contrata-zona-4-brasileiro-joao-rafael_d1759302",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/40/40e45aa439e310fc8bde400e2e52888f?w=350&amp;q=50&amp;rect=0,31,1619,888&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "20740995",
+      "cat": "tecnologia",
+      "title": "Reclamações com entregas quase que duplicam. Worten é a marca que recebe mais queixas",
+      "summary": "As reclamações relacionadas com Correio Expresso, Last Mile e entregas programadas aumentaram 97,8% no primeiro semestre de 2026, face ao período homólogo. Segundo a análise semestral do Portal da Queixa divulgada esta quinta-feira, a taxa de resolução destas reclamações caiu de 45% para 34%. A evol",
+      "source": "ECO",
+      "date": "Thu, 13 Aug 2026 14:23:10 +0000",
+      "url": "https://eco.sapo.pt/2026/08/13/reclamacoes-com-entregas-quase-que-duplicam-worten-e-a-marca-que-recebe-mais-queixas/",
+      "img": "https://eco.imgix.net/uploads/2019/12/cropped-presentes_pacotes_encomendas.jpg",
       "score": 0.76
     },
     {
@@ -66,17 +110,6 @@
       "date": "Thu, 13 Aug 2026 12:42:54 +0000",
       "url": "https://eco.sapo.pt/2026/08/13/efeito-kristin-exportacoes-de-frutas-legumes-e-flores-caem-35-no-primeiro-semestre/",
       "img": "https://eco.imgix.net/uploads/2026/08/cropped-goncalo-santos-andrade.jpeg",
-      "score": 0.76
-    },
-    {
-      "id": "422e31bd",
-      "cat": "tecnologia",
-      "title": "Bundesbank inicia procura por nova sede em Frankfurt",
-      "summary": "O banco central alemão lançou um concurso público de âmbito europeu para encontrar uma nova sede em Frankfurt, após abandonar um projeto de reforma do seu edifício histórico. A instituição procura um imóvel no modelo &#8220;chave na mão&#8221;, seja novo ou totalmente renovado, que inclua &#8220;um ",
-      "source": "ECO",
-      "date": "Thu, 13 Aug 2026 12:13:01 +0000",
-      "url": "https://eco.sapo.pt/2026/08/13/bundesbank-inicia-procura-por-nova-sede-em-frankfurt/",
-      "img": "https://eco.imgix.net/uploads/2016/12/cropped-cropped-cropped-hamburg_bundesbank_skulptur.jpg",
       "score": 0.76
     },
     {
@@ -124,6 +157,17 @@
       "score": 0.76
     },
     {
+      "id": "5da1ff3c",
+      "cat": "ambiente",
+      "title": "O eclipse danificou seus olhos?",
+      "summary": "Um cirurgião oftalmologista diz que menos pessoas têm procurado tratamento para lesões oculares do que depois do último eclipse solar total no Reino Unido em 1999.",
+      "source": "BBC News",
+      "date": "Thu, 13 Aug 2026 13:39:18 GMT",
+      "url": "https://www.bbc.co.uk/news/videos/cy452z5j1x1o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9e6/live/75110ae0-9713-11f1-870d-5d08c49babb2.jpg",
+      "score": 0.76
+    },
+    {
       "id": "28ddca20",
       "cat": "ciencia",
       "title": "O cérebro adulto pode reparar-se melhor do que os cientistas pensavam",
@@ -146,58 +190,47 @@
       "score": 0.76
     },
     {
-      "id": "ce712e9d",
-      "cat": "tecnologia",
-      "title": "Movimento de mulheres conservadoras aproxima Chega da agenda evangélica brasileira",
-      "summary": "Em Julho, o grupo juntou-se em Sintra para um evento que reuniu “mulheres conservadoras”. O lançamento oficial do movimento está anunciado para Novembro.",
-      "source": "Público",
-      "date": "Thu, 13 Aug 2026 12:24:20 GMT",
-      "url": "https://www.publico.pt/2026/08/13/politica/noticia/movimento-mulheres-conservadoras-aproxima-chega-agenda-evangelica-brasileira-2184913",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "e85a4895",
-      "cat": "tecnologia",
-      "title": "Rui Borges e as publicações de Suárez: \"Não é assunto\"",
-      "summary": "Da novela Suárez ao braço de ferro com o balneário, Rui Borges, treinador do Sporting chegou à conferência de antevisão ao Vitória com mais dossiês para fechar fora do campo do que dentro dele.",
+      "id": "59f3a396",
+      "cat": "economia",
+      "title": "Exportações de frutas, legumes e flores caem 3,5%",
+      "summary": "As vendas para os mercados externos somaram 1.226 milhões de euros no primeiro semestre, enquanto o volume de exportações totalizou 747.000 toneladas.",
       "source": "Observador",
-      "date": "Thu, 13 Aug 2026 14:18:00 +0100",
-      "url": "https://observador.pt/2026/08/13/suarez-quaresma-e-os-nao-assuntos-tudo-o-que-rui-borges-disse-na-vespera-do-jogo-com-o-vitoria/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:106/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/11234122/gettyimages-2275160428-scaled.jpg",
+      "date": "Thu, 13 Aug 2026 16:43:29 +0100",
+      "url": "https://observador.pt/2026/08/13/exportacoes-de-frutas-legumes-e-flores-caem-35-para-1-226-milhoes-de-euros-ate-junho/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2016/10/13173605/21303131.jpg",
       "score": 0.73
     },
     {
-      "id": "e4587642",
+      "id": "a7a39df9",
       "cat": "tecnologia",
-      "title": "Detidos mais dois suspeitos de rede de tráfico em Albufeira",
-      "summary": "A investigação, iniciada há um ano, já tinha levado à detenção de outros dois suspeitos em Lagos. Os dois homens de 22 e 41 anos difundiam o \"negócio ilícito\" nas redes sociais, junto de turistas.",
+      "title": "Enfermeiros do Montepio Rainha D. Leonor desconvocam greve",
+      "summary": "A greve dos enfermeiros do Montepio Rainha Dona Leonor foi desconvocada após uma reunião com a administração permitir chegar a acordo, informa o Sindicato dos Enfermeiros Portugueses.",
       "source": "Observador",
-      "date": "Thu, 13 Aug 2026 13:34:10 +0100",
-      "url": "https://observador.pt/2026/08/13/detidos-em-albufeira-mais-dois-suspeitos-de-integrarem-rede-de-trafico-no-algarve/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2560:1439:nowe:0:134/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/05/25131952/jporfirio_report_psp_c-d-moura_25_05__12-scaled.jpg",
+      "date": "Thu, 13 Aug 2026 16:40:45 +0100",
+      "url": "https://observador.pt/2026/08/13/enfermeiros-do-montepio-rainha-d-leonor-nas-caldas-da-rainha-desconvocam-greve/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1684:nowe:0:77/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/07231258/igor-martins-carinaraposo-03-008.jpg",
       "score": 0.73
     },
     {
-      "id": "d427eff2",
+      "id": "1a5075bd",
       "cat": "tecnologia",
-      "title": "Presidente cabo-verdiano quer travar emigração jovem",
-      "summary": "Presidente cabo-verdiano afirmou que os jovens deixam o país por falta de oportunidades, apelando a reformas estruturais para que o país cresça \"com base na inovação\".",
-      "source": "Observador",
-      "date": "Thu, 13 Aug 2026 13:33:44 +0100",
-      "url": "https://observador.pt/2026/08/13/presidente-cabo-verdiano-pede-aceleracao-das-reformas-estruturais-para-travar-emigracao-jovem/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/27224622/47319159.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ddb02a5b",
-      "cat": "tecnologia",
-      "title": "Nicolas Namias é o 23.º Mais Poderoso de 2026",
-      "summary": "Há dois anos, poucas pessoas no país reconheceriam o nome do CEO do BPCE, que hoje é um dos mais relevantes protagonistas da banca nacional. Promete desenvolver o Novo Banco, ajudando o gigante gaulês a ser “campeão europeu”.",
+      "title": "Tribunal defere pedido de reabertura da atividade do Boavista",
+      "summary": "Histórico clube do Porto foi auxiliado nas últimas semanas pelo movimento \"Salvar o Boavista\", depois de ter sido decretado o encerramento da atividade pela administradora de insolvência.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 13 Aug 2026 14:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/negocios-iniciativas/poderosos/poderosos-2026/detalhe/nicolas-namias-e-o-23-mais-poderoso-de-2026",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-13-07-57-00-528118.jpg",
+      "date": "Thu, 13 Aug 2026 18:46:07 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/tribunal-defere-pedido-de-reabertura-da-atividade-do-boavista",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-09-18-57-15-524999.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "20fe1106",
+      "cat": "tecnologia",
+      "title": "PCP procura apoios para levar decreto-lei da Prestação Social Única ao Parlamento",
+      "summary": "Como o recurso a este instrumento parlamentar exige a subscrição de, pelo menos, dez deputados e o PCP elegeu apenas três, os comunistas procurarão obter junto de outras bancadas o apoio necessário para apresentar o pedido.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 13 Aug 2026 17:23:12 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/pcp-procura-apoios-para-levar-decreto-lei-da-prestacao-social-unica-ao-parlamento",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-18-16-28-12-525360.jpg",
       "score": 0.73
     },
     {
@@ -212,25 +245,25 @@
       "score": 0.73
     },
     {
-      "id": "714917d1",
+      "id": "921ed8d6",
       "cat": "tecnologia",
-      "title": "Jérémy Doku renova com o Manchester City",
-      "summary": "O internacional belga Jérémy Doku renovou contrato com o Manchester City por mais três temporadas, até 2031, anunciou o clube vice-campeão da Liga inglesa.",
+      "title": "Nadadora Sara Curtis volta a melhorar recorde mundial dos 50 metros costas",
+      "summary": "A nadadora italiana Sara Curtis voltou hoje a melhorar o recorde mundial dos 50 metros costas, ao cronometrar 26,56 segundos na final da distância nos Europeus de desportos aquáticos, em França, sete centésimos abaixo da marca de quarta-feira.",
       "source": "RTP",
-      "date": "Thu, 13 Aug 2026 13:51:31 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/jeremy-doku-renova-com-o-manchester-city_d1759234",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/38/3847683255cada6c13094d16dcd53a8c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Thu, 13 Aug 2026 19:29:14 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/nadadora-sara-curtis-volta-a-melhorar-recorde-mundial-dos-50-metros-costas_d1759310",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/24/2468da2ac5c0efe34663c2011d4157ad?w=350&amp;q=50&amp;rect=0,124,2666,1462&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "da5ef8f4",
+      "id": "745f1282",
       "cat": "tecnologia",
-      "title": "Delvis Santos passa às as ‘meias’ dos 200 metros dos Europeus de atletismo",
-      "summary": "O velocista português Delvis Santos qualificou-se para as semifinais dos 200 metros dos Campeonatos da Europa de atletismo em Birmingham2026, com o primeiro lugar na terceira série, o quinto tempo das eliminatórias.",
-      "source": "RTP",
-      "date": "Thu, 13 Aug 2026 13:46:21 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/delvis-santos-passa-as-as-meias-dos-200-metros-dos-europeus-de-atletismo_d1759230",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/2a/2a9c88d066c7af3bcafd5a258b220a4c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "title": "Trabalhadores do INEM avançam para greve a 14 e 28 de setembro",
+      "summary": "Os trabalhadores do INEM (Instituto Nacional de Emergência Médica) vão avançar com uma greve de dois dias, a 14 e 28 de setembro, em protesto contra o novo modelo de reorganização de dispositivo de emergência, que transfere ambulâncias para as Unidades Locais de Saúde (ULS). A decisão foi comunicada",
+      "source": "ECO",
+      "date": "Thu, 13 Aug 2026 16:11:25 +0000",
+      "url": "https://eco.sapo.pt/2026/08/13/trabalhadores-do-inem-avancam-para-greve-a-14-e-28-de-setembro/",
+      "img": "https://eco.imgix.net/uploads/2025/12/cropped-doc2024111243899693-ps04465.jpg",
       "score": 0.73
     },
     {
@@ -245,25 +278,14 @@
       "score": 0.73
     },
     {
-      "id": "555ba66d",
-      "cat": "tecnologia",
-      "title": "Céus nublados levam a fortunas mistas para os caçadores de eclipses da Escócia",
-      "summary": "A melhor chance da Escócia de ver um eclipse solar em 27 anos deixou alguns desapontados, embora tenha havido momentos de magia.",
+      "id": "2f3644dd",
+      "cat": "cultura",
+      "title": "Romênia fecha apenas usina nuclear porque o calor causa enorme queda no nível do rio Danúbio",
+      "summary": "A central de Cernavodă, que produz 20% da electricidade da Roménia, não deverá ser reiniciada nos próximos 10 dias.",
       "source": "BBC News",
-      "date": "Thu, 13 Aug 2026 05:40:24 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9be/live/904f3af0-968e-11f1-9854-73d5e7b83e3b.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "fc284878",
-      "cat": "tecnologia",
-      "title": "Os abutres estão a desaparecer na Nigéria - mas o 'Rei dos Abutres' está a lutar para inverter a tendência",
-      "summary": "Alguns os consideram sinistros ou os caçam para uso ritual, mas esses pássaros desempenham um papel vital no ciclo da natureza.",
-      "source": "BBC News",
-      "date": "Wed, 12 Aug 2026 23:19:28 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb5/live/5b6616a0-9577-11f1-870d-5d08c49babb2.jpg",
+      "date": "Thu, 13 Aug 2026 16:05:35 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg",
       "score": 0.73
     },
     {
@@ -289,47 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "f9c52c58",
-      "cat": "tecnologia",
-      "title": "O eclipse já passou. Mas para o ano há outro aqui bem perto — é o “eclipse do século”",
-      "summary": "Não haverá mais eclipses solares totais em Portugal neste século. No entanto, os aficionados e curiosos podem marcar viagens: a 2 de Agosto de 2027 há novo eclipse total e vê-se no Sul de Espanha.",
+      "id": "2a95087d",
+      "cat": "cultura",
+      "title": "Governo visa só parte do negócio da Galp, rejeita taxar lucro global",
+      "summary": "“Diferentes geografias e segmentos” influenciam lucros das petrolíferas e taxar todo o resultado líquido não seria adequado, segundo o executivo. Possível intervenção adicional só sob condições.",
       "source": "Público",
-      "date": "Thu, 13 Aug 2026 12:30:00 GMT",
-      "url": "https://www.publico.pt/2026/08/13/ciencia/noticia/eclipse-ja-passou-ano-ha-aqui-bem-perto-eclipse-seculo-2184925",
+      "date": "Thu, 13 Aug 2026 18:14:57 GMT",
+      "url": "https://www.publico.pt/2026/08/13/economia/noticia/governo-visa-so-parte-negocio-galp-rejeita-taxar-lucro-global-2184969",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "3606b69d",
-      "cat": "tecnologia",
-      "title": "Funcionária bancária suspeita de roubar dinheiro a clientes. PJ detém cinco pessoas",
-      "summary": "Verbas roubadas a clientes seriam distribuídas por “mulas”, que transferiam por sua vez o dinheiro a outras pessoas.",
+      "id": "7f689637",
+      "cat": "cultura",
+      "title": "Nova temporada do Residência, de João Rodrigues, traz “sete dos mais influentes chefs da actualidade”",
+      "summary": "Projecto liderado pelo chef João Rodrigues volta a percorrer o país, promovendo a partilha entre chefs , produtores, artesãos e comunidades locais, para valorizar a cultura gastronómica portuguesa.",
       "source": "Público",
-      "date": "Thu, 13 Aug 2026 12:25:19 GMT",
-      "url": "https://www.publico.pt/2026/08/13/sociedade/noticia/funcionaria-bancaria-suspeita-roubar-dinheiro-clientes-pj-detem-cinco-pessoas-2184928",
+      "date": "Thu, 13 Aug 2026 17:53:24 GMT",
+      "url": "https://www.publico.pt/2026/08/13/fugas/noticia/nova-temporada-residencia-joao-rodrigues-traz-sete-influentes-chefs-actualidade-2184971",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "286bfbd3",
-      "cat": "tecnologia",
-      "title": "Desta vez, as sanções à Rússia podem ser diferentes",
-      "summary": "Pôr fim à invasão em grande escala da Ucrânia pela Rússia contribuiria para a estabilidade económica global, baixaria os preços da energia e reduziria o custo de vida.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 13 Aug 2026 14:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/economistas/simon-johnson/detalhe/desta-vez-as-sancoes-a-russia-podem-ser-diferentes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-20-16-03-00-296332.png",
-      "score": 0.7
-    },
-    {
-      "id": "9e030acb",
-      "cat": "economia",
-      "title": "Euribor desce nos prazos a seis e 12 meses. Maersk salta 8% em bolsa",
-      "summary": "Acompanhe, ao minuto, a evolução dos mercados desta quinta-feira.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 13 Aug 2026 13:40:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/iene-em-recuperacao-com-possivel-apoio-de-takaichi-a-subida-de-juros",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-07/img_100x100uu2025-07-11-09-12-21-505782.jpg",
       "score": 0.7
     }
   ]
