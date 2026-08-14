@@ -1,7 +1,18 @@
 {
-  "last_update": "14/08/2026 07:41 UTC",
+  "last_update": "14/08/2026 13:21 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "391b1e73",
+      "cat": "cultura",
+      "title": "Cinco filhotes de secretário ameaçados de extinção eclodem primeiro em grande conservação",
+      "summary": "O Zoológico de Chester, na Inglaterra, informou na semana passada que criou com sucesso o impressionante secretário pela primeira vez em seus 95 anos de história – produzindo cinco filhotes. As aves africanas ameaçadas de extinção fazem parte de um programa internacional de reprodução conservacionista – e o sucesso mais recente foi descrito pelo Zoológico como “a la",
+      "source": "Good News Network",
+      "date": "Fri, 14 Aug 2026 11:00:01 +0000",
+      "url": "https://www.goodnewsnetwork.org/five-endangered-secretarybird-chicks-hatch-in-major-conservation-first/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Secretarybird-with-chick-that-hatched-in-Chester-Zoo-video-news-release.jpg",
+      "score": 0.79
+    },
     {
       "id": "8f4f484b",
       "cat": "ciencia",
@@ -58,14 +69,36 @@
       "score": 0.79
     },
     {
-      "id": "e2fb94c0",
-      "cat": "economia",
-      "title": "Estados Unidos ameaçam Irão com isolamento económico “sem precedentes”",
-      "summary": "O secretário do Tesouro dos Estados Unidos (EUA) ameaçou o Irão com isolamento económico &#8220;como o mundo nunca viu&#8221;, apesar de Washington ter prometido, no início de agosto, um acordo para reabrir o estreito de Ormuz. &#8220;Será uma combinação de isolamento económico como o mundo nunca vi",
+      "id": "324882bd",
+      "cat": "tecnologia",
+      "title": "Digi fatura 37 milhões de euros em Portugal no primeiro semestre e chega aos 960 mil serviços ativos",
+      "summary": "A Digi registou receitas de 37,2 milhões de euros em Portugal no primeiro semestre, o que representa um crescimento de 5,33% face ao mesmo período do ano passado. A operadora terminou a primeira metade do ano com cerca de 960 mil serviços ativos, mais 21,7% do que no mesmo período do ano passado. Se",
       "source": "ECO",
-      "date": "Fri, 14 Aug 2026 05:49:14 +0000",
-      "url": "https://eco.sapo.pt/2026/08/14/estados-unidos-ameacam-irao-com-isolamento-economico-sem-precedentes/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-47602692-scaled-1.jpg",
+      "date": "Fri, 14 Aug 2026 11:54:04 +0000",
+      "url": "https://eco.sapo.pt/2026/08/14/digi-fatura-37-milhoes-de-euros-em-portugal-no-primeiro-semestre-e-chega-aos-960-mil-servicos-ativos/",
+      "img": "https://eco.imgix.net/uploads/2026/08/digi.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "b6c3d45f",
+      "cat": "cultura",
+      "title": "Água de Luso antecipa celebração dos 175 anos com “O cuidado muda tudo”",
+      "summary": "A Água de Luso antecipa as comemorações dos seus 175 anos &#8212; assinalados em 2027 &#8212; com o lançamento da campanha &#8220;O cuidado muda tudo&#8221;. O filme é protagonizado pelos Iron Brothers &#8212; os irmãos Miguel e Pedro Pinto &#8212; e pretende homenagear os pequenos gestos de cuidado",
+      "source": "ECO",
+      "date": "Fri, 14 Aug 2026 11:35:17 +0000",
+      "url": "https://eco.sapo.pt/2026/08/14/agua-de-luso-antecipa-celebracao-dos-175-anos-com-o-cuidado-muda-tudo/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-luso-156-scaled-1.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "d155dea9",
+      "cat": "ambiente",
+      "title": "Portugal 2030 executa menos de 1% em julho. Taxa fica nos 20,8%",
+      "summary": "A taxa de execução do Portugal 2030 está nos 20,8% no final de julho, ou seja, foi executado apenas 0,8% no espaço de um mês. De acordo com o boletim mensal do quadro comunitário de apoio, há 13,61 mil milhões de euros aprovados e 4,78 mil milhões executados até 31 de julho. No espaço de [&#8230;]",
+      "source": "ECO",
+      "date": "Fri, 14 Aug 2026 11:30:26 +0000",
+      "url": "https://eco.sapo.pt/2026/08/14/portugal-2030-executa-menos-de-1-em-julho-taxa-fica-nos-208/",
+      "img": "https://eco.imgix.net/uploads/2021/07/cropped-claudia-joaquim08.jpg",
       "score": 0.76
     },
     {
@@ -80,17 +113,6 @@
       "score": 0.76
     },
     {
-      "id": "b3ea956c",
-      "cat": "sociedade",
-      "title": "Pato se torna animal de apoio emocional que cura inesperadamente um Golden Retriever (ASSISTA)",
-      "summary": "Foi exatamente o que o pato pediu & # 8230; Tori e seu marido, Justin Cannarelli, dono de um centro de jardinagem, se ofereceram para adotar Louie, o Pato, depois que ele nasceu em uma escola primária de Long Island. Era para ser temporário. E os Cannarellis, que vivem no subúrbio de Long Island, Brookhaven,",
-      "source": "Good News Network",
-      "date": "Wed, 12 Aug 2026 17:50:14 +0000",
-      "url": "https://www.goodnewsnetwork.org/duck-becomes-emotional-support-animal-to-unexpectedly-heal-a-golden-retriever-watch/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Courtesy-of-Duck-and-a-Dog.jpg",
-      "score": 0.76
-    },
-    {
       "id": "c4ae6fdb",
       "cat": "tecnologia",
       "title": "O que deu certo esta semana: as boas notícias que importam",
@@ -98,7 +120,7 @@
       "source": "Positive News",
       "date": "Fri, 14 Aug 2026 05:00:08 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/",
-      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/iStock-1017663348.jpg",
+      "img": "https://www.positive.news/wp-content/uploads/2026/08/iStock-1017663348.jpg",
       "score": 0.76
     },
     {
@@ -146,47 +168,25 @@
       "score": 0.76
     },
     {
-      "id": "f21419f3",
+      "id": "1e871455",
       "cat": "tecnologia",
-      "title": "AIMA agenda 55 mil reagrupamentos familiares e entrega 15 mil cartões de residência",
-      "summary": "Agência assegura que os números referentes a este ano, que incluem 32 mil atendimentos realizados, são recordes. Especialistas cobram, porém, o número total de pedidos de reagrupamentos pendentes.",
+      "title": "Comobå: Oito anos de vida de uma das primeiras cafetarias modernas de Lisboa",
+      "summary": "Uma viagem a Nova Iorque inspirou um advogado a abrir um dos primeiros cafés com matcha em Lisboa, aposta ganha como confirma a durabilidade do projecto, que ganha com a consistência do menu.",
       "source": "Público",
-      "date": "Fri, 14 Aug 2026 06:13:00 GMT",
-      "url": "https://www.publico.pt/2026/08/14/publico-brasil/noticia/aima-agenda-55-mil-reagrupamentos-familiares-entrega-15-mil-cartoes-residencia-2184972",
+      "date": "Fri, 14 Aug 2026 11:48:00 GMT",
+      "url": "https://www.publico.pt/2026/08/14/fugas/noticia/comoba-oito-anos-vida-primeiras-cafetarias-modernas-lisboa-2184734",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "c5ad94dd",
+      "id": "444ccaeb",
       "cat": "tecnologia",
-      "title": "Reino Unido regista dia mais quente do ano",
-      "summary": "O Serviço Meteorológico do Reino Unido divulgou que a temperatura de 38,1°C no oeste de Londres foi um décimo de grau superior ao recorde anterior. O país está a viver a quinta vaga de calor do ano.",
-      "source": "Observador",
-      "date": "Fri, 14 Aug 2026 00:37:13 +0100",
-      "url": "https://observador.pt/2026/08/14/reino-unido-regista-dia-mais-quente-do-ano-com-europa-ocidental-a-sofrer-com-calor/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:148/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/24180059/47344269.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6d8b3ec8",
-      "cat": "tecnologia",
-      "title": "Majoração por desemprego da nova PSU só dura seis meses",
-      "summary": "Diploma já publicado confirma que a nova prestação social única (PSU), que vai substituir treze apoios contributivos, terá por base o valor de metade do IAS, ou 268,57 euros este ano. Haverá uma majoração por desemprego, mas apenas durante seis meses, um prazo bastante inferior ao que é muitas vezes",
+      "title": "Emissões de gases com efeito de estufa na União Europeia sobem 0,3%",
+      "summary": "Dados do Eurostat apontam que as emissões cresceram no primeiro trimestre face aos últimos três meses de 2025, enquanto o produto interno bruto do bloco europeu praticamente não se alterou no mesmo.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 14 Aug 2026 08:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/seguranca-social/detalhe/majoracao-por-desemprego-da-nova-psu-so-dura-seis-meses",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-02/img_100x100uu2023-02-01-20-42-02-445499.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "2f14b8a9",
-      "cat": "saude",
-      "title": "Recomeça a época política. PSD dá pontapé de saída no Pontal",
-      "summary": "A Festa do Pontal tem servido de palco para o líder do PSD fazer anúncios ao país. No ano passado, por exemplo, anunciou o lançamento do novo Hospital Central do Algarve e o regresso da Fórmula 1 ao Algarve.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 14 Aug 2026 07:15:08 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/recomeca-a-epoca-politica-psd-da-pontape-de-saida-no-pontal",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-14-07-13-37-528151.jpg",
+      "date": "Fri, 14 Aug 2026 12:26:24 +0100",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/emissoes-de-gases-com-efeito-de-estufa-na-uniao-europeia-sobem-0-3",
+      "img": "https://cdn.jornaldenegocios.pt/images/2021-08/img_100x100uu2021-08-17-19-49-14-410532.jpg",
       "score": 0.73
     },
     {
@@ -201,36 +201,25 @@
       "score": 0.73
     },
     {
-      "id": "c7ecbd79",
-      "cat": "desporto",
-      "title": "Volta a Portugal. Percurso inédito no Gerês abana a luta pela geral",
-      "summary": "O Gerês recebeu pela primeira vez a Volta a Portugal numa sétima etapa marcada pela celebração em dose dupla.",
-      "source": "RTP",
-      "date": "Fri, 14 Aug 2026 08:55:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/volta-a-portugal-percurso-inedito-no-geres-abana-a-luta-pela-geral_v1759396",
-      "img": "https://cdn-images.rtp.pt/icm/images/4c/4cf45c02641f49428bef0976d10b22d9_N.jpg?",
-      "score": 0.73
-    },
-    {
-      "id": "9b0fa300",
-      "cat": "desporto",
-      "title": "Europeus de Atletismo. Delvis Santos assegura passagem à final dos 200m",
-      "summary": "Delvis Santos carimbou a passagem à final dos 200 metros nos Europeus de Atletismo. O atleta foi o único português a conseguir o apuramento durante a jornada desta quinta-feira, garantindo um lugar na luta pelas medalhas.",
-      "source": "RTP",
-      "date": "Fri, 14 Aug 2026 08:51:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/europeus-de-atletismo-delvis-santos-assegura-passagem-a-final-dos-200m_v1759395",
-      "img": "https://cdn-images.rtp.pt/icm/images/7a/7a800978475298938705798b59a936bf_N.jpg?",
-      "score": 0.73
-    },
-    {
-      "id": "2f34816e",
+      "id": "e72a69e8",
       "cat": "tecnologia",
-      "title": "Peças soltas de motor partiram janela no voo da Ryanair em que passageiro foi sugado",
-      "summary": "A janela partida num voo da Ryanair em julho, que fez com que a cabeça de um passageiro fosse sugada para fora do avião, foi causada por peças partidas do motor do Boeing 737-800, segundo um relatório preliminar. De acordo com o Conselho Nacional de Segurança nos Transportes (NTSB) norte-americano, ",
-      "source": "ECO",
-      "date": "Fri, 14 Aug 2026 06:07:25 +0000",
-      "url": "https://eco.sapo.pt/2026/08/14/pecas-soltas-de-motor-partiram-janela-no-voo-da-ryanair-em-que-passageiro-foi-sugado/",
-      "img": "https://eco.imgix.net/uploads/2025/01/cropped-doc-20190731-26762497-07750160.jpg",
+      "title": "Europeus de Atletismo. Pedro Buaró e Isaac Nader apurados para as finais",
+      "summary": "Os atletas portugueses voltaram a marcar presença nas qualificações dos Europeus de Atletismo desta sexta-feira. Pedro Buaró está na final do salto com vara e Isaac Nader luta pela medalha nos 1500 metros no próximo sábado.&lt;br /&gt;",
+      "source": "RTP",
+      "date": "Fri, 14 Aug 2026 15:20:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/europeus-de-atletismo-pedro-buaro-e-isaac-nader-apurados-para-as-finais_v1759485",
+      "img": "https://cdn-images.rtp.pt/icm/images/c9/c95273eaaec18677b4974f58cf373c25_N.jpg?",
+      "score": 0.73
+    },
+    {
+      "id": "68fe5108",
+      "cat": "desporto",
+      "title": "Isaac Nader na final dos 1500 metros dos Europeus",
+      "summary": "Isaac Nader, campeão do mundo dos 1500 metros, qualificou-se para a final da distância nos Campeonatos da Europa de atletismo Birmingham2026, com o segundo lugar na primeira série, em 03.35,67 minutos.",
+      "source": "RTP",
+      "date": "Fri, 14 Aug 2026 14:47:09 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/isaac-nader-na-final-dos-1500-metros-dos-europeus_d1759471",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f5b3a4d18e0c5107917ee8e82bd1d6d9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -245,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "38a628c4",
+      "cat": "tecnologia",
+      "title": "Mais pais americanos estão tirando licença parental",
+      "summary": "Esta história apareceu pela primeira vez no The 74, um site de notícias sem fins lucrativos que cobre educação. Inscreva-se para receber boletins informativos gratuitos do The 74 para receber mais informações como esta em sua caixa de entrada. AJ O filho mais velho de Johnson nasceu em 2019, um ano antes de os residentes de seu estado natal, Washington, poderem receber benefícios... The post More A",
+      "source": "Reasons to be Cheerful",
+      "date": "Fri, 14 Aug 2026 08:00:14 +0000",
+      "url": "https://reasonstobecheerful.world/american-dads-parental-leave/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/shutterstock_2561149847-scaled.jpg",
+      "score": 0.73
+    },
+    {
       "id": "3fd5c179",
       "cat": "cultura",
       "title": "Os ‘Jogos de Transplante’ são mais do que medalhas",
@@ -256,80 +256,80 @@
       "score": 0.73
     },
     {
-      "id": "95af52c4",
-      "cat": "ambiente",
-      "title": "O que estamos lendo: Construindo um enorme corredor de vida selvagem a partir de terras fragmentadas",
-      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Atravessar para a segurança A perda de habitat é um grande problema para a vida selvagem. Mas o mesmo acontece com a fragmentação do habitat, porque",
-      "source": "Reasons to be Cheerful",
-      "date": "Wed, 05 Aug 2026 08:00:48 +0000",
-      "url": "https://reasonstobecheerful.world/what-were-reading-building-wildlife-corridor-rockies/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/shutterstock_1126796255-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8765a73c",
-      "cat": "desporto",
-      "title": "O futebol entre o desporto e o negócio",
-      "summary": "",
+      "id": "bb250a97",
+      "cat": "tecnologia",
+      "title": "Com turnê na Europa, Johnny Hooker faz alerta sobre extremismo religioso no Brasil",
+      "summary": "Cantor brasileiro diz que público português é menos conservador que o brasileiro. “Sinto mais essa postura conservadora no Brasil, onde a relação com o movimento neopentecostal é muito forte”, diz.",
       "source": "Público",
-      "date": "Fri, 14 Aug 2026 06:32:00 GMT",
-      "url": "https://www.publico.pt/2026/08/14/desporto/opiniao/futebol-desporto-negocio-2184951",
+      "date": "Fri, 14 Aug 2026 12:39:20 GMT",
+      "url": "https://www.publico.pt/2026/08/14/publico-brasil/noticia/turne-europa-johnny-hooker-faz-alerta-extremismo-religioso-brasil-2184892",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "0ae2ccd0",
-      "cat": "tecnologia",
-      "title": "Num mar político agitado, Montenegro chega ao Pontal para mostrar que está ao leme",
-      "summary": "Com o Governo desgastado e sem muita margem para brilharetes com medidas, Luís Montenegro chega à rentrée dos sociais-democratas empenhado em mostrar que o Governo tem um rumo.",
-      "source": "Público",
-      "date": "Fri, 14 Aug 2026 06:01:00 GMT",
-      "url": "https://www.publico.pt/2026/08/14/politica/noticia/mar-politico-agitado-montenegro-chega-pontal-mostrar-leme-2184966",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "c0b77332",
-      "cat": "tecnologia",
-      "title": "As notícias das 6h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Fri, 14 Aug 2026 06:13:07 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2463/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "42c4720b",
-      "cat": "tecnologia",
-      "title": "2h. Prosseguem as buscas por português perdido na Croácia",
-      "summary": "As autoridades locais encontraram hoje um dos elementos sem vida. Ainda, começa esta sexta-feira a reentré política do PSD em Quarteira, no Algarve.",
-      "source": "Observador",
-      "date": "Fri, 14 Aug 2026 02:16:30 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2379/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "c9892ea0",
+      "id": "fa3c7e01",
       "cat": "cultura",
-      "title": "Bolsa de Lisboa em queda com recuos do grupo EDP, BCP e Jerónimo Martins",
-      "summary": "Fora do índice principal, as ações da Pharol estão a captar a atenção dos investidores.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 14 Aug 2026 08:31:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-em-queda-com-recuos-do-grupo-edp-bcp-e-jeronimo-martins",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-02/img_100x100uu2025-02-20-17-18-53-496208.jpg",
+      "title": "O que fazer neste fim-de-semana? Soprar, Fazunchar e andar em romaria",
+      "summary": "Há festa em Viana do Castelo, feira em Celorico de Basto, arte urbana em Figueiró do Vinhos e tradição vidreira na Marinha Grande, ao som de Frankie Chavez e Terraplana.",
+      "source": "Público",
+      "date": "Fri, 14 Aug 2026 12:34:28 GMT",
+      "url": "https://www.publico.pt/2026/08/14/fugas/noticia/neste-fimdesemana-soprar-fazunchar-andar-romaria-2185034",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "c8ced442",
+      "id": "fb7ef270",
       "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "title": "Zero exige que Governo se manifeste contra Almaraz",
+      "summary": "A associação ambientalista classificou a central com unidades com 45 e 47 anos como uma \"infraestrutura industrial de risco\" pedindo ao Governo que assuma uma \"posição crítica\".",
+      "source": "Observador",
+      "date": "Fri, 14 Aug 2026 13:27:50 +0100",
+      "url": "https://observador.pt/2026/08/14/zero-exige-que-governo-se-manifeste-contra-funcionamento-da-central-nuclear-de-almaraz-ate-2030/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1603:904:nowe:274:429/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/09214155/44179708.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "d470e24c",
+      "cat": "tecnologia",
+      "title": "Tempos de espera nas urgências melhores do que em 2024",
+      "summary": "A ministra da Saúde afirma que os tempos de espera estão melhores do que em 2024. Mas reconhece os períodos de espera excessivos especialmente quando.",
+      "source": "Observador",
+      "date": "Fri, 14 Aug 2026 13:26:56 +0100",
+      "url": "https://observador.pt/2026/08/14/tempos-de-espera-nas-urgencias-estao-melhores-do-que-ha-dois-anos-afirma-ministra-da-saude/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14124316/47608721.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "42a5ddf7",
+      "cat": "tecnologia",
+      "title": "Ministra estranha greve no INEM mas acredita em recuo",
+      "summary": "Ana Paula Martins acredita na \"flexibilidade\" de alguns profissionais para repensar\"a greve, falando no \"risco acrescido\" para os utentes. Em causa está a \"decisão de retirar 100 ambulâncias\" do INEM.",
+      "source": "Observador",
+      "date": "Fri, 14 Aug 2026 13:18:41 +0100",
+      "url": "https://observador.pt/2026/08/14/ministra-estranha-marcacao-de-greve-no-inem-mas-acredita-que-pode-haver-recuo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/01171029/45953057.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "a06c5667",
+      "cat": "ciencia",
+      "title": "Leonor Beleza é a 21.ª Mais Poderosa de 2026",
+      "summary": "Depois de se ter afastado da política ativa em 2005, a ex-ministra da Saúde construiu um dos principais centros científicos do país. Passadas duas décadas, volta a marcar a vida política nacional como número dois de Luís Montenegro no PSD.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 14 Aug 2026 14:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/negocios-iniciativas/poderosos/poderosos-2026/detalhe/leonor-beleza-e-a-21-mais-poderosa-de-2026",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-14-08-27-00-528167.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "bc90e9fb",
+      "cat": "tecnologia",
+      "title": "Seguro defende que Portugal \"não pode limitar-se a consumir tecnologia criada por outros\"",
+      "summary": "Chefe de Estado pede maior coesão e unidade entre as regiões.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 14 Aug 2026 13:52:55 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/seguro-defende-que-portugal-nao-pode-limitar-se-a-consumir-tecnologia-criada-por-outros",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-14-13-50-57-528217.jpg",
       "score": 0.7
     }
   ]
