@@ -1,28 +1,17 @@
 {
-  "last_update": "16/08/2026 12:52 UTC",
+  "last_update": "16/08/2026 18:38 UTC",
   "total": 30,
   "news": [
     {
-      "id": "bd81c91c",
+      "id": "f7d2c5d5",
       "cat": "tecnologia",
-      "title": "Ormuz: Teerão diz ter acordado com Omã rota segura de navegação",
-      "summary": "O Irão anunciou um acordo com Omã para criação de uma rota de navegação segura através do Estreito de Ormuz, mas acrescentou haver ainda algumas questões pendentes para finalizar o acordo e emitir uma declaração conjunta. “As conversações registaram avanços positivos nas últimas três semanas e foi a",
-      "source": "ECO",
-      "date": "Sat, 15 Aug 2026 18:31:52 +0000",
-      "url": "https://eco.sapo.pt/2026/08/15/ormuz-teerao-diz-ter-acordado-com-oma-rota-segura-de-navegacao/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc202606014721468613009259.jpg",
+      "title": "Diogo Ribeiro estabelece novo recorde nacional",
+      "summary": "O ucraniano Nikita Sheremet venceu a medalha de ouro, o russo Egor Kornev ficou na segunda posição e o sérvio Andrej Barna conquistou o bronze. Diogo Ribeiro dividiu o sexto lugar com outro nadador.",
+      "source": "Observador",
+      "date": "Sun, 16 Aug 2026 17:56:16 +0100",
+      "url": "https://observador.pt/2026/08/16/nao-conseguiu-medalha-mas-estabeleceu-um-novo-recorde-nacional-diogo-ribeiro-e-sexto-na-final-europeia-de-50-metros-livres/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:364/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16174726/gettyimages-2289265286-scaled.jpg",
       "score": 0.82
-    },
-    {
-      "id": "fb62aacb",
-      "cat": "tecnologia",
-      "title": "Pichardo conquista prata nos Europeus de Atletismo em Birmingham",
-      "summary": "O português Pedro Pablo Pichardo voltou hoje a conquistar a medalha de prata do triplo salto nos Campeonatos da Europa de atletismo Birmingham2026, com 17,76 metros, a 39 centímetros do italiano Andy Díaz.",
-      "source": "RTP",
-      "date": "Sat, 15 Aug 2026 22:46:41 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/pichardo-conquista-prata-nos-europeus-de-atletismo-em-birmingham_d1759717",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e444f201d2c29e13a310ab4b914163ed?w=350&amp;q=50&amp;rect=0,32,1024,561&amp;auto=format",
-      "score": 0.79
     },
     {
       "id": "4194340e",
@@ -36,10 +25,21 @@
       "score": 0.79
     },
     {
+      "id": "c3d68d98",
+      "cat": "tecnologia",
+      "title": "Duas horas de sono restauradas em cérebros com Alzheimer em pesquisa inovadora",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Good News Network",
+      "date": "Sun, 16 Aug 2026 14:00:57 +0000",
+      "url": "https://www.goodnewsnetwork.org/two-hours-of-sleep-restored-in-alzheimers-brains-in-research-breakthrough/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Senior-sleeping-old-aging-eye-mask-sick-in-bed-by-A-C-For-Unsplash-pZVOgkmBM0Y.jpeg",
+      "score": 0.79
+    },
+    {
       "id": "546cf719",
       "cat": "tecnologia",
       "title": "Boas novas na história, 16 de Agosto",
-      "summary": "Há 110 anos, o Tratado das Aves Migratórias foi assinado pelos EUA e pelo Canadá. estabelecendo regras para proteger as aves que voam entre os dois países. Este acordo acabou com a caça não regulamentada e salvou muitas espécies de aves da extinção. Foi até expandido para incluir o México, o Japão e a Rússia – e p.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Good News Network",
       "date": "Sun, 16 Aug 2026 07:00:00 +0000",
       "url": "https://www.goodnewsnetwork.org/events060816/",
@@ -80,6 +80,50 @@
       "score": 0.79
     },
     {
+      "id": "5b6223d7",
+      "cat": "tecnologia",
+      "title": "Militares contra criação de uma bolsa de reservistas voluntários nas Forças Armadas",
+      "summary": "Proposta do Chega já foi aprovada na generalidade e está em discussão na comissão de Defesa. Associações falam em “precedente grave e perigoso” e dizem que há “assuntos mais importantes”.",
+      "source": "Público",
+      "date": "Sun, 16 Aug 2026 18:12:19 GMT",
+      "url": "https://www.publico.pt/2026/08/16/politica/noticia/militares-criacao-bolsa-reservistas-voluntarios-forcas-armadas-2185185",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "93c1cdf9",
+      "cat": "tecnologia",
+      "title": "Israel volta a aliviar restrições a orações judaicas no Pátio das Mesquitas e desafia o acordo histórico",
+      "summary": "A polícia israelita voltou a permitir orações de judeus no complexo de Al-Aqsa, pisando o acordo histórico que gere o local e alimentando o fantasma de uma nova escalada regional.",
+      "source": "Público",
+      "date": "Sun, 16 Aug 2026 16:12:41 GMT",
+      "url": "https://www.publico.pt/2026/08/16/mundo/noticia/israel-volta-aliviar-restricoes-oracoes-judaicas-patio-mesquitas-desafia-acordo-historico-2185196",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "8984c14b",
+      "cat": "tecnologia",
+      "title": "Primeiro exemplar do Ferrari elétrico Luce rende 40 milhões de dólares em leilão",
+      "summary": "Apesar de ser alvo de fortes críticas por muitos apaixonados pela Ferrari, o Luce, primeiro modelo totalmente elétrico da marca do \"cavallino rampante\" tem sido um sucesso de vendas.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 16 Aug 2026 17:57:52 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/primeiro-exemplar-do-ferrari-eletrico-luce-rende-40-milhoes-de-dolares-em-leilao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-16-17-55-22-528249.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "12df3fda",
+      "cat": "tecnologia",
+      "title": "Ferrari elétrico bate recorde em leilão por 40 milhões",
+      "summary": "O primeiro automóvel totalmente elétrico da Ferrari foi vendido por 40 milhões de dólares num leilão de beneficência da Sotheby’s, durante a Monterey Car Week, na Califórnia, segundo noticia a Bloomberg (acesso pago, em inglês). O Luce “tailor made” superou o anterior recorde da marca, estabelecido ",
+      "source": "ECO",
+      "date": "Sun, 16 Aug 2026 14:46:36 +0000",
+      "url": "https://eco.sapo.pt/2026/08/16/ferrari-eletrico-bate-recorde-em-leilao-por-40-milhoes/",
+      "img": "https://eco.imgix.net/uploads/2026/05/ferrari-luce-13.jpg",
+      "score": 0.76
+    },
+    {
       "id": "218b5ad6",
       "cat": "tecnologia",
       "title": "Laboratórios colaborativos vão ter apoio de 45 milhões do Compete",
@@ -94,7 +138,7 @@
       "id": "7fce41c1",
       "cat": "tecnologia",
       "title": "Vencendo o calor com um milhão de girassóis florescendo na arejada Escócia (OLHE)",
-      "summary": "O mês de agosto marcou o retorno de 14 acres de girassóis dourados no topo da paisagem da Escócia. Aberto aos visitantes até 23 de agosto, o Balgone Estate inaugurou mais uma vez sua vibrante Trilha do Girassol, localizada a uma hora e meia de Glasgow. O evento foi introduzido pela primeira vez em 2023, mas",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Good News Network",
       "date": "Sat, 15 Aug 2026 20:14:23 +0000",
       "url": "https://www.goodnewsnetwork.org/beat-the-heat-with-a-million-blooming-sunflowers-in-breezy-scotland/",
@@ -102,36 +146,14 @@
       "score": 0.76
     },
     {
-      "id": "9692ae43",
-      "cat": "tecnologia",
-      "title": "A restauração de California Creek ajuda o salmão jovem a crescer duas vezes mais rápido - e dobra sua taxa de sobrevivência",
-      "summary": "Ao longo da costa de sequoias da Califórnia, os conservacionistas têm trabalhado há mais de uma década para dar a um riacho danificado algo surpreendentemente simples: espaço para se comportar novamente como um riacho. Prairie Creek é um dos últimos refúgios para três espécies ameaçadas de salmão: California Coastal Chinook, Northern",
-      "source": "Good News Network",
-      "date": "Sat, 15 Aug 2026 18:25:36 +0000",
-      "url": "https://www.goodnewsnetwork.org/california-creek-restoration-helps-young-salmon-grow-twice-as-fast-and-doubles-their-survival-rate/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Salmon-viewed-at-a-monitoring-station-Credit-Katherine-Stonecypher-for-Cal-Poly-Humboldt.jpeg",
-      "score": 0.76
-    },
-    {
       "id": "c4ae6fdb",
       "cat": "tecnologia",
-      "title": "O que deu certo esta semana: as boas notícias que importam",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Desmatamento em queda livre na Amazônia brasileira, tubarões prevendo furacões e um tribunal que avalia os gigantes da tecnologia, além de mais O post O que deu certo esta semana: as boas notícias que importam apareceu primeiro em Notícias Positivas.",
       "source": "Positive News",
       "date": "Fri, 14 Aug 2026 05:00:08 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/08/iStock-1017663348.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "b1933921",
-      "cat": "tecnologia",
-      "title": "Furacão Lala atinge o Havaí com ventos fortes e chuvas torrenciais",
-      "summary": "Se a tempestade atingir o continente, será o primeiro furacão atingido diretamente no Havaí em 34 anos.",
-      "source": "BBC News",
-      "date": "Sun, 16 Aug 2026 08:49:32 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
       "score": 0.76
     },
     {
@@ -170,7 +192,7 @@
     {
       "id": "1fd68937",
       "cat": "ambiente",
-      "title": "The Spark: como os vizinhos estão se unindo para se tornarem mais ecológicos",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada no... The",
       "source": "Reasons to be Cheerful",
       "date": "Fri, 07 Aug 2026 08:00:42 +0000",
@@ -179,25 +201,47 @@
       "score": 0.76
     },
     {
-      "id": "63f0d0ea",
-      "cat": "tecnologia",
-      "title": "Vanessa Carvalho 24.ª na maratona nos Europeus de atletismo",
-      "summary": "Vanessa Carvalho, que foi 51.ª na meia maratona em Roma2024, cumpriu as oito voltas ao circuito citadino num registo abaixo do seu recorde pessoal (02:32.23) e do seu melhor tempo de 2026 (02h32.43).",
-      "source": "Observador",
-      "date": "Sun, 16 Aug 2026 11:33:48 +0100",
-      "url": "https://observador.pt/2026/08/16/vanessa-carvalho-24-a-na-maratona-nos-europeus-de-atletismo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16105934/47617817.jpg",
+      "id": "bfab3234",
+      "cat": "desporto",
+      "title": "Francisca Martins à beira do pódio nos Europeus de natação",
+      "summary": "Nadadora portuguesa foi quarta na final dos 400m livres em Paris, com um novo recorde nacional.",
+      "source": "Público",
+      "date": "Sun, 16 Aug 2026 17:35:56 GMT",
+      "url": "https://www.publico.pt/2026/08/16/desporto/noticia/francisca-martins-beira-podio-europeus-natacao-2185203",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "9636afc1",
+      "id": "2104c64a",
+      "cat": "ambiente",
+      "title": "Incêndio em Chaves em fase de resolução",
+      "summary": "Fogo que deflagrou na zona florestal de Ventuzelos, no concelho de Chaves, encontra-se em resolução. Incêndio de Ardãos e Bobadela continua ativo.",
+      "source": "Observador",
+      "date": "Sun, 16 Aug 2026 18:18:21 +0100",
+      "url": "https://observador.pt/2026/08/16/incendio-em-chaves-em-fase-de-resolucao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30153354/ilacerda-incendio-linda-a-velha-66-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0dbe0027",
       "cat": "tecnologia",
-      "title": "Já são conhecidos 30 dos 50 mais poderosos. Veja quem são",
-      "summary": "O Negócios já divulgou 30 dos 50 nomes da lista dos Mais Poderosos de 2026. Entre estreantes e repetentes, empresários, políticos e advogados o \"ranking\" conta com figuras que se destacaram nas mais diversas áreas. Recorde os nomes já conhecidos.",
+      "title": "Nacional soma primeira vitória da época frente ao Estoril",
+      "summary": "Nacional derrotou o Estoril por 2-0, somando assim a primeira vitória na Liga. Golos foram de Zé Vítor e Léo Santos.",
+      "source": "Observador",
+      "date": "Sun, 16 Aug 2026 17:51:18 +0100",
+      "url": "https://observador.pt/2026/08/16/nacional-soma-primeira-vitoria-da-epoca-frente-ao-estoril/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16173228/47619168.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "5b6b5607",
+      "cat": "tecnologia",
+      "title": "Galamba: Compra de 13,7% da REN \"é um total contrassenso\"",
+      "summary": "Ex-secretário de Estado da Energia no Governo de Costa rebate a ideia deixada pelo primeiro-ministro de que a compra de uma participação na empresa que gere a rede elétrica serve para reduzir preços da energia.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 15 Aug 2026 21:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ja-sao-conhecidos-30-dos-50-mais-poderosos-veja-quem-sao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-14-23-43-00-528238.jpg",
+      "date": "Sun, 16 Aug 2026 16:38:50 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/galamba-compra-de-13-7-da-ren-e-um-total-contrassenso",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-01-17-25-38-525940.jpg",
       "score": 0.73
     },
     {
@@ -212,36 +256,58 @@
       "score": 0.73
     },
     {
-      "id": "13f4750e",
-      "cat": "tecnologia",
-      "title": "Nadadora Kate Douglass fixa recorde mundial dos 50 m livres em 23,49 segundos",
-      "summary": "A nadadora norte-americana Kate Douglass bateu hoje o recorde do mundo dos 50 metros livres, fixando-o em 23,49 segundos, durante as eliminatórias dos Campeonatos Pan-Pacíficos, em Irvine, nos Estados Unidos.",
+      "id": "08ea1ff3",
+      "cat": "desporto",
+      "title": "Diogo Ribeiro sexto europeu dos 50 metros livres com recorde nacional",
+      "summary": "O nadador português Diogo Ribeiro fixou hoje o novo recorde nacional dos 50 metros livres em 21,59 segundos, que lhe valeram o sexto lugar, ex-aequo, na final dos Europeus de desportos aquáticos, em Paris.",
       "source": "RTP",
-      "date": "Sat, 15 Aug 2026 22:56:34 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/nadadora-kate-douglass-fixa-recorde-mundial-dos-50-m-livres-em-2349-segundos_d1759730",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5c40cd9f0da6da8410bf825ef8366395?w=350&amp;q=50&amp;rect=0,275,3140,1721&amp;auto=format",
+      "date": "Sun, 16 Aug 2026 19:06:45 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/diogo-ribeiro-sexto-europeu-dos-50-metros-livres-com-recorde-nacional_d1759831",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/aa/aa4cff837e5308f509c34c2f5540465d?w=350&amp;q=50&amp;rect=0,111,683,374&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "64dd6a4f",
+      "id": "37286086",
       "cat": "tecnologia",
-      "title": "I Liga. Rio Ave - FC Porto",
-      "summary": "O FC Porto foi hoje a casa do Rio Ave somar mais três pontos, com dois golos sem resposta a valerem a vitória no jogo da segunda jornada da I Liga de futebol nacional.",
+      "title": "Francês Alexis Guérin é o vencedor da 87.ª edição",
+      "summary": "O francês Alexis Guérin (Anicolor-Campicarn) confirmou hoje a conquista da Volta a Portugal em bicicleta, ao ser oitavo na 10.ª e última etapa, vencida ao sprint por Rui Oliveira (UAE Emirates) na Avenida dos Aliados, no Porto.",
       "source": "RTP",
-      "date": "Sat, 15 Aug 2026 21:09:09 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/i-liga-rio-ave-fc-porto_e1759705",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/80/80da665f89ac07dd788f6354de162753?w=350&amp;q=50&amp;rect=0,72,5315,2914&amp;auto=format",
+      "date": "Sun, 16 Aug 2026 18:54:55 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/frances-alexis-guerin-e-o-vencedor-da-87a-edicao_d1759828",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/08/085fc03cea1db39e9fdaf1f0aad5a9b0?w=350&amp;q=50&amp;rect=0,210,3557,1950&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "13ad287e",
+      "cat": "tecnologia",
+      "title": "Arsenal conquista Supertaça inglesa e arruína estreia de Maresca no Manchester City",
+      "summary": "O Arsenal conquistou hoje pela 18.ª vez a Supertaça inglesa de futebol, ao vencer por 3-0 o Manchester City, perante a incapacidade total da equipa do italiano Enzo Maresca, que conheceu uma estreia amarga como treinador dos ‘citizens’.",
+      "source": "RTP",
+      "date": "Sun, 16 Aug 2026 18:47:19 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-conquista-supertaca-inglesa-e-arruina-estreia-de-maresca-no-manchester-city_d1759829",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/01/0154be4293ad1077bb493df7a21d12a6?w=350&amp;q=50&amp;rect=0,87,1024,561&amp;auto=format",
       "score": 0.73
     },
     {
       "id": "84664161",
-      "cat": "ciencia",
-      "title": "Bombeiros combatem incêndio florestal que destrói reserva natural belga",
-      "summary": "O incêndio que atingiu o grande parque foi descrito como o pior do país nos últimos anos.",
+      "cat": "tecnologia",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Centenas de bombeiros tentam conter as chamas que consomem o grande parque.",
       "source": "BBC News",
-      "date": "Sat, 15 Aug 2026 17:47:42 GMT",
+      "date": "Sun, 16 Aug 2026 15:25:38 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f13/live/01221bd0-98d3-11f1-9687-fb984065014d.jpg",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/7c724440-999b-11f1-b2ab-0dd01740f9f6.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "b1933921",
+      "cat": "tecnologia",
+      "title": "O furacão Lala provoca inundações repentinas no Havaí enquanto ventos fortes e chuvas persistem",
+      "summary": "Autoridades dizem que enchentes repentinas podem ter destruído casas com pessoas nas áreas mais atingidas.",
+      "source": "BBC News",
+      "date": "Sun, 16 Aug 2026 12:53:43 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
       "score": 0.73
     },
     {
@@ -265,72 +331,6 @@
       "url": "https://reasonstobecheerful.world/the-transplant-games-are-about-more-than-medals/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Sportcompetitie-21-juni-Sebastiaan-Nederhoed-2.jpg",
       "score": 0.73
-    },
-    {
-      "id": "d818fa0b",
-      "cat": "tecnologia",
-      "title": "Nas igrejas do Alentejo, estamos ao fresco entre frescos",
-      "summary": "O Alentejo tem o maior número de pinturas murais a fresco do país — o calor é uma das razões. A Rota do Fresco abre ermidas e igrejas para revelar os seus “segredos escondidos”, incluindo um elefante.",
-      "source": "Público",
-      "date": "Sun, 16 Aug 2026 11:45:00 GMT",
-      "url": "https://www.publico.pt/2026/08/16/fugas/reportagem/igrejas-alentejo-fresco-frescos-2184704",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "11f35bad",
-      "cat": "tecnologia",
-      "title": "O maior incêndio de sempre na Bélgica está agora perto da Alemanha",
-      "summary": "Incêndio na Bélgica já consumiu 3000 hectares de terreno.",
-      "source": "Público",
-      "date": "Sun, 16 Aug 2026 11:12:58 GMT",
-      "url": "https://www.publico.pt/2026/08/16/mundo/noticia/maior-incendio-belgica-perto-alemanha-2185181",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "a9bf9e0e",
-      "cat": "tecnologia",
-      "title": "Ministério da Saúde chama médicos e vai rever definição de pequena cirurgia",
-      "summary": "Ministério aceita sugestão da Ordem dos Médicos e cria grupo de trabalho. Quanto à cirurgia realizada em produção adicional, afirma que não existiram alterações à portaria já publicada.",
-      "source": "Público",
-      "date": "Sun, 16 Aug 2026 11:06:48 GMT",
-      "url": "https://www.publico.pt/2026/08/16/sociedade/noticia/ministerio-saude-chama-medicos-vai-rever-definicao-cirurgia-2185180",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "67de4491",
-      "cat": "cultura",
-      "title": "Morreu o cantor Lucas, da dupla sertaneja Lucas & Matheus",
-      "summary": "Encontrado sem vida no seu apartamento em Portugal, o cantor tinha espetáculo marcado em Esposende com Matheus Júnior. Corpo do artista será sepultado na sua terra natal, Presidente Prudente.",
-      "source": "Observador",
-      "date": "Sun, 16 Aug 2026 12:52:24 +0100",
-      "url": "https://observador.pt/2026/08/16/morreu-o-cantor-lucas-da-dupla-sertaneja-lucas-matheus/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1692:950:nowe:0:90/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16123907/captura-de-ecra-2026-08-16-as-123840.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "8feb89ef",
-      "cat": "tecnologia",
-      "title": "Nova época, velho FC Porto? Dragões não sabem sofrer golos",
-      "summary": "FC Porto à imagem do ano passado: em equipa que ganha não se mexe. Irankunda é o 'Michael Jackson' que o Sporting precisa? No Benfica, Dedić de malas feitas e ainda a novela João Palhinha.",
-      "source": "Observador",
-      "date": "Sun, 16 Aug 2026 12:31:28 +0100",
-      "url": "https://observador.pt/programas/e-o-campeao-e/nova-epoca-velho-fc-porto-dragoes-nao-sabem-sofrer-golos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "ae72d92a",
-      "cat": "tecnologia",
-      "title": "Situação financeira dos norte-americanos está pior com Trump, revela sondagem",
-      "summary": "Inquérito revelado pelo Financial Times mostra que \"mais de 53 por cento dos eleitores registados dizem que a sua situação financeira se deteriorou desde que Trump regressou à Casa Branca\", em janeiro de 2025.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 16 Aug 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/situacao-financeira-dos-norte-americanos-esta-pior-com-trump-revela-sondagem",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-02-09-30-00-527574.jpg",
-      "score": 0.7
     }
   ]
 }
