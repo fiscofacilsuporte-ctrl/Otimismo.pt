@@ -1,7 +1,18 @@
 {
-  "last_update": "16/08/2026 01:47 UTC",
+  "last_update": "16/08/2026 06:52 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "c94615e8",
+      "cat": "tecnologia",
+      "title": "4h. Pedro Pichardo é vice-campeão europeu de triplo salto",
+      "summary": "Atleta português conseguiu medalha de prata, depois de saltar 17,76 metros no primeiro ensaio. Ainda, OIM alerta para risco de tráfico de pessoas nas áreas afetadas pelo terramoto na Colômbia.",
+      "source": "Observador",
+      "date": "Sun, 16 Aug 2026 04:15:15 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2372/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.82
+    },
     {
       "id": "bd81c91c",
       "cat": "tecnologia",
@@ -168,58 +179,14 @@
       "score": 0.76
     },
     {
-      "id": "14a10fde",
-      "cat": "geral",
-      "title": "Pichardo volta a ficar com a prata nos Europeus",
-      "summary": "Saltador português foi segundo na final do triplo em Birmingham, atrás de Andy Díaz, que arrancou um dos melhores saltos de sempre.",
-      "source": "Público",
-      "date": "Sat, 15 Aug 2026 20:59:57 GMT",
-      "url": "https://www.publico.pt/2026/08/15/desporto/noticia/pichardo-volta-ficar-prata-europeus-2185165",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "115ba8d9",
-      "cat": "geral",
-      "title": "Isaac Nader longe das medalhas na final dos 1500m",
-      "summary": "Atleta português foi último na final da milha métrica nos Europeus de Birmingham.",
-      "source": "Público",
-      "date": "Sat, 15 Aug 2026 20:22:26 GMT",
-      "url": "https://www.publico.pt/2026/08/15/desporto/noticia/isaac-nader-longe-medalhas-final-1500m-2185162",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "78036818",
-      "cat": "geral",
-      "title": "Camila Rebelo em oitavo na final dos 100m costas",
-      "summary": "Nadadora portuguesa foi última na final deste sábado nos Europeus de Paris e não melhorou o recorde nacional.",
-      "source": "Público",
-      "date": "Sat, 15 Aug 2026 18:42:48 GMT",
-      "url": "https://www.publico.pt/2026/08/15/desporto/noticia/camila-rebelo-oitavo-final-100m-costas-2185157",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "23ae0d93",
+      "id": "9ee2efae",
       "cat": "tecnologia",
-      "title": "Rio Ave x Porto. \"VAR anula bem o golo do Porto\"",
-      "summary": "Nota positiva para Miguel Fonseca na vitória do Porto em Vila do Conde. O árbitro \"deixou jogar\" e chegou a números \"pouco habituais\" na nossa liga: \"apenas 12 faltas e 64 minutos de tempo útil.\"",
+      "title": "Pós-PRR, vamos andar de cheque em cheque? - Ouvintes",
+      "summary": "No Fora do Baralho especial ouvintes, Nuno Garoupa responde a perguntas sobre o Plano de Recuperação e Resiliência (PRR), os erros cometidos e o que se espera quando terminar.",
       "source": "Observador",
-      "date": "Sun, 16 Aug 2026 00:25:48 +0100",
-      "url": "https://observador.pt/programas/sem-falta/rio-ave-x-porto-var-anula-bem-o-golo-do-porto/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "954e5bae",
-      "cat": "tecnologia",
-      "title": "00h. FC Porto vence Rio Ave e continua invicto no campeonato",
-      "summary": "Neuhén Pérez e Borja Sainz marcaram os golos da segunda vitória em duas jornadas para a equipa portista. Ainda, António José Seguro pede pede responsabilidade aos portugueses na estrada.",
-      "source": "Observador",
-      "date": "Sun, 16 Aug 2026 00:13:13 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2392/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sun, 16 Aug 2026 06:02:15 +0100",
+      "url": "https://observador.pt/programas/fora-do-baralho/pos-prr-vamos-andar-de-cheque-em-cheque-ouvintes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/09155848/770-podcast-fora-do-baralho-2025-ines-andre-figueiredo.jpg",
       "score": 0.73
     },
     {
@@ -272,7 +239,7 @@
       "title": "Havaí se prepara para potencial primeiro impacto direto por um furacão em 34 anos",
       "summary": "Na pior das hipóteses, a categoria um Lala poderia despejar até 25 polegadas (63 cm) de chuva na Ilha Grande.",
       "source": "BBC News",
-      "date": "Sat, 15 Aug 2026 23:34:24 GMT",
+      "date": "Sun, 16 Aug 2026 03:54:11 GMT",
       "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
       "score": 0.73
@@ -322,13 +289,46 @@
       "score": 0.73
     },
     {
-      "id": "d37cb790",
+      "id": "3185fcd8",
       "cat": "tecnologia",
-      "title": "As notícias da 1h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Cristo e as fronteiras",
+      "summary": "Reduzir a defesa dos direitos dos migrantes a uma “versão infantil do cristianismo” ou a “um gesto diabólico disfarçado de ideia celestial” é um contorcionismo ético. Crónica de Graça Castanheira",
+      "source": "Público",
+      "date": "Sun, 16 Aug 2026 05:47:00 GMT",
+      "url": "https://www.publico.pt/2026/08/16/culturaipsilon/cronica/cristo-fronteiras-2184952",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "5870f198",
+      "cat": "tecnologia",
+      "title": "Exames: o incómodo da mudança",
+      "summary": "Corrigir o que falhou é uma obrigação. Ter a coragem de prosseguir, quando tudo indica que o resultado poderá ser um sistema mais justo, é a melhor forma de honrar o conhecimento que produzimos. Opinião de Ana Costa Freitas",
+      "source": "Público",
+      "date": "Sun, 16 Aug 2026 05:32:00 GMT",
+      "url": "https://www.publico.pt/2026/08/16/opiniao/opiniao/exames-incomodo-mudanca-2182294",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "b7b14403",
+      "cat": "tecnologia",
+      "title": "Portugal e Espanha recusam mudar rede ferroviária para bitola europeia",
+      "summary": "Espanha entregou à Comissão Europeia um relatório a recusar a mudança e Portugal alinha pela mesma bitola, mantendo os novos projectos de alta velocidade no padrão ibérico para não isolar o país.",
+      "source": "Público",
+      "date": "Sun, 16 Aug 2026 05:30:00 GMT",
+      "url": "https://www.publico.pt/2026/08/16/economia/noticia/portugal-espanha-recusam-mudar-rede-ferroviaria-bitola-europeia-2184766",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "f0679636",
+      "cat": "tecnologia",
+      "title": "6h. Ouvidas explosões em Kiev esta madrugada",
+      "summary": "Administração militar reportou incêndio num edifício não residencial no distrito de Obolonsky. Ainda, Venezuela diz que foram libertados mais de mil presos políticos desde intervenção dos EUA.",
       "source": "Observador",
-      "date": "Sun, 16 Aug 2026 01:11:56 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2354/",
+      "date": "Sun, 16 Aug 2026 06:17:48 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2465/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
