@@ -1,18 +1,7 @@
 {
-  "last_update": "16/08/2026 06:52 UTC",
+  "last_update": "16/08/2026 12:52 UTC",
   "total": 30,
   "news": [
-    {
-      "id": "c94615e8",
-      "cat": "tecnologia",
-      "title": "4h. Pedro Pichardo é vice-campeão europeu de triplo salto",
-      "summary": "Atleta português conseguiu medalha de prata, depois de saltar 17,76 metros no primeiro ensaio. Ainda, OIM alerta para risco de tráfico de pessoas nas áreas afetadas pelo terramoto na Colômbia.",
-      "source": "Observador",
-      "date": "Sun, 16 Aug 2026 04:15:15 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2372/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.82
-    },
     {
       "id": "bd81c91c",
       "cat": "tecnologia",
@@ -23,17 +12,6 @@
       "url": "https://eco.sapo.pt/2026/08/15/ormuz-teerao-diz-ter-acordado-com-oma-rota-segura-de-navegacao/",
       "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc202606014721468613009259.jpg",
       "score": 0.82
-    },
-    {
-      "id": "60438b55",
-      "cat": "tecnologia",
-      "title": "Irão diz ter acordado com Omã rota segura de navegação por Ormuz",
-      "summary": "“As conversações registaram avanços positivos nas últimas três semanas e foi alcançado um acordo sobre o mapa da rota de navegação”, declarou o porta-voz do Ministério dos Negócios Estrangeiros iraniano.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 15 Aug 2026 19:19:04 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/irao-diz-ter-acordado-com-oma-rota-segura-de-navegacao-por-ormuz",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-13-08-04-51-526470.jpg",
-      "score": 0.79
     },
     {
       "id": "fb62aacb",
@@ -47,14 +25,25 @@
       "score": 0.79
     },
     {
-      "id": "391b1e73",
-      "cat": "cultura",
-      "title": "Cinco filhotes de secretário ameaçados de extinção eclodem primeiro em grande conservação",
-      "summary": "O Zoológico de Chester, na Inglaterra, informou na semana passada que criou com sucesso o impressionante secretário pela primeira vez em seus 95 anos de história – produzindo cinco filhotes. As aves africanas ameaçadas de extinção fazem parte de um programa internacional de reprodução conservacionista – e o sucesso mais recente foi descrito pelo Zoológico como “a la",
+      "id": "4194340e",
+      "cat": "tecnologia",
+      "title": "Audi Q5: um familiar de luxo que não perdeu o rumo",
+      "summary": "Abrir a porta do novo Audi Q5 à procura de uma revolução cósmica é meio caminho andado para bater de frente com a realidade porque, simplesmente, a marca germânica preferiu apostar na fórmula pragmática que transformou este SUV no seu maior sucesso de vendas mundial. Numa era em que a indústria auto",
+      "source": "ECO",
+      "date": "Sun, 16 Aug 2026 08:13:10 +0000",
+      "url": "https://eco.sapo.pt/2026/08/16/audi-q5-um-familiar-de-luxo-que-nao-perdeu-o-rumo/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-a250646-large.jpeg",
+      "score": 0.79
+    },
+    {
+      "id": "546cf719",
+      "cat": "tecnologia",
+      "title": "Boas novas na história, 16 de Agosto",
+      "summary": "Há 110 anos, o Tratado das Aves Migratórias foi assinado pelos EUA e pelo Canadá. estabelecendo regras para proteger as aves que voam entre os dois países. Este acordo acabou com a caça não regulamentada e salvou muitas espécies de aves da extinção. Foi até expandido para incluir o México, o Japão e a Rússia – e p.",
       "source": "Good News Network",
-      "date": "Fri, 14 Aug 2026 11:00:01 +0000",
-      "url": "https://www.goodnewsnetwork.org/five-endangered-secretarybird-chicks-hatch-in-major-conservation-first/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Secretarybird-with-chick-that-hatched-in-Chester-Zoo-video-news-release.jpg",
+      "date": "Sun, 16 Aug 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060816/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/08/Migratory_Bird_Treaty_5c_1966_issue_U.S._stamp-Copy.jpg",
       "score": 0.79
     },
     {
@@ -91,25 +80,14 @@
       "score": 0.79
     },
     {
-      "id": "527ff986",
+      "id": "218b5ad6",
       "cat": "tecnologia",
-      "title": "Marrocos expulsa jornalistas espanhóis",
-      "summary": "Os media espanhóis RTVE e Efe defenderam hoje o direito à liberdade de informação, depois de Marrocos ter obrigado os seus jornalistas a abandonar a cidade de Castillejos, procurando agora o Governo espanhol encontrar uma solução.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 15 Aug 2026 20:34:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/media/detalhe/televisao-e-agencia-noticiosa-publicas-de-espanha-expulsas-de-marrocos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-15-58-33-527555.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "c82e2bfa",
-      "cat": "ambiente",
-      "title": "Casa de 1964 com 66 m2 em Lisboa está a ser leiloada online por quase 1 milhão",
-      "summary": "Localizada na Travessa da Ajuda, tem contrato de arrendamento mensal de 1.430 euros válido até 30 de novembro de 2028, automática e sucessivamente renovável por períodos de três anos, com “a possibilidade de aumento de acordo com a legislação em vigor”.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 15 Aug 2026 19:45:22 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/casa-de-1964-com-66-m2-em-lisboa-esta-a-ser-leiloada-online-por-quase-1-milhao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-15-19-42-33-528239.png",
+      "title": "Laboratórios colaborativos vão ter apoio de 45 milhões do Compete",
+      "summary": "Os Laboratórios Colaborativos (CoLAB) e os Centros de Tecnologia e Inovação (CTI), cujos apoios tinham chegado ao fim a 1 de julho, vão poder candidatar-se a uma linha de financiamento de 45 milhões de euros do Compete 2030. Esta foi a solução encontrada para já pelo Executivo para dar continuidade ",
+      "source": "ECO",
+      "date": "Sun, 16 Aug 2026 09:33:12 +0000",
+      "url": "https://eco.sapo.pt/2026/08/16/laboratorios-colaborativos-vao-ter-apoio-de-45-milhoes-do-compete/",
+      "img": "https://eco.imgix.net/uploads/2024/11/cropped-picadvanced-5.jpg",
       "score": 0.76
     },
     {
@@ -146,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "b1933921",
+      "cat": "tecnologia",
+      "title": "Furacão Lala atinge o Havaí com ventos fortes e chuvas torrenciais",
+      "summary": "Se a tempestade atingir o continente, será o primeiro furacão atingido diretamente no Havaí em 34 anos.",
+      "source": "BBC News",
+      "date": "Sun, 16 Aug 2026 08:49:32 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
+      "score": 0.76
+    },
+    {
       "id": "5da1ff3c",
       "cat": "ambiente",
       "title": "O eclipse danificou seus olhos?",
@@ -157,14 +146,25 @@
       "score": 0.76
     },
     {
-      "id": "49ebe47e",
+      "id": "c7b1a40b",
       "cat": "ciencia",
-      "title": "Cientistas detectam pela primeira vez o brilho fantasmagórico de um reator nuclear",
-      "summary": "Os reactores nucleares podem apagar-se, mas o seu combustível continua a produzir um fraco “brilho” antineutrino muito depois do encerramento. Os pesquisadores detectaram agora esse sinal residual pela primeira vez, descobrindo que ele correspondia estreitamente às previsões de decaimento radioativo dentro do reator e nas piscinas próximas de combustível irradiado. O Bre",
+      "title": "Físicos descobrem uma estrutura de glúons escondida dentro dos prótons que poderia reescrever livros didáticos",
+      "summary": "Os físicos podem ter descoberto uma característica oculta dentro dos prótons que ajuda a preservar uma das propriedades mais fundamentais da matéria. Os dados de colisão do RHIC sugerem que o número bárion é transportado não apenas por três quarks, mas por uma junção em forma de Y dos glúons que os conecta. A descoberta desafia décadas atrás",
       "source": "ScienceDaily",
-      "date": "Fri, 14 Aug 2026 09:16:36 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
-      "img": "https://www.sciencedaily.com/images/1920/particle-collision-burst.webp",
+      "date": "Sun, 16 Aug 2026 05:55:45 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm",
+      "img": "https://www.sciencedaily.com/images/1920/gluons-role-in-baryon-number-conservation.webp",
+      "score": 0.76
+    },
+    {
+      "id": "41fb607a",
+      "cat": "ciencia",
+      "title": "Uma nova espécie da Idade do Gelo estava escondida em fósseis de la brea tar pits há décadas",
+      "summary": "Os cientistas descobriram uma nova espécie extinta de anfíbios escondida nas coleções de fósseis de La Brea Tar Pits, em Los Angeles. Chamado de Spea labreae, o sapo-espada da Idade do Gelo é um achado excepcionalmente raro – apenas um outro anfíbio extinto do Pleistoceno já foi identificado na América do Norte. Seus ossos",
+      "source": "ScienceDaily",
+      "date": "Sun, 16 Aug 2026 03:33:36 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm",
+      "img": "https://www.sciencedaily.com/images/1920/spea-labreae-reconstruction.webp",
       "score": 0.76
     },
     {
@@ -179,14 +179,25 @@
       "score": 0.76
     },
     {
-      "id": "9ee2efae",
+      "id": "63f0d0ea",
       "cat": "tecnologia",
-      "title": "Pós-PRR, vamos andar de cheque em cheque? - Ouvintes",
-      "summary": "No Fora do Baralho especial ouvintes, Nuno Garoupa responde a perguntas sobre o Plano de Recuperação e Resiliência (PRR), os erros cometidos e o que se espera quando terminar.",
+      "title": "Vanessa Carvalho 24.ª na maratona nos Europeus de atletismo",
+      "summary": "Vanessa Carvalho, que foi 51.ª na meia maratona em Roma2024, cumpriu as oito voltas ao circuito citadino num registo abaixo do seu recorde pessoal (02:32.23) e do seu melhor tempo de 2026 (02h32.43).",
       "source": "Observador",
-      "date": "Sun, 16 Aug 2026 06:02:15 +0100",
-      "url": "https://observador.pt/programas/fora-do-baralho/pos-prr-vamos-andar-de-cheque-em-cheque-ouvintes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/09155848/770-podcast-fora-do-baralho-2025-ines-andre-figueiredo.jpg",
+      "date": "Sun, 16 Aug 2026 11:33:48 +0100",
+      "url": "https://observador.pt/2026/08/16/vanessa-carvalho-24-a-na-maratona-nos-europeus-de-atletismo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16105934/47617817.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "9636afc1",
+      "cat": "tecnologia",
+      "title": "Já são conhecidos 30 dos 50 mais poderosos. Veja quem são",
+      "summary": "O Negócios já divulgou 30 dos 50 nomes da lista dos Mais Poderosos de 2026. Entre estreantes e repetentes, empresários, políticos e advogados o \"ranking\" conta com figuras que se destacaram nas mais diversas áreas. Recorde os nomes já conhecidos.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 15 Aug 2026 21:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ja-sao-conhecidos-30-dos-50-mais-poderosos-veja-quem-sao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-14-23-43-00-528238.jpg",
       "score": 0.73
     },
     {
@@ -223,28 +234,6 @@
       "score": 0.73
     },
     {
-      "id": "eb1e1289",
-      "cat": "tecnologia",
-      "title": "Cerca de 28.000 casas de habitação pública entregues até ao fim de agosto no âmbito do PRR",
-      "summary": "Até ao fim de agosto, estarão entregues 28.000 novas casas públicas, anunciou o Governo neste sábado, ultrapassando-se assim as metas estabelecidas no âmbito do Plano de Recuperação e Resiliência (PRR). A informação, que foi avançada na sexta-feira por Luís Montenegro na festa partidária do PSD, no ",
-      "source": "ECO",
-      "date": "Sat, 15 Aug 2026 17:10:36 +0000",
-      "url": "https://eco.sapo.pt/2026/08/15/cerca-de-28-000-casas-de-habitacao-publica-entregues-ate-ao-fim-de-agosto-no-ambito-do-prr/",
-      "img": "https://eco.imgix.net/uploads/2025/07/cropped-casais-amadora25.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "b1933921",
-      "cat": "tecnologia",
-      "title": "Havaí se prepara para potencial primeiro impacto direto por um furacão em 34 anos",
-      "summary": "Na pior das hipóteses, a categoria um Lala poderia despejar até 25 polegadas (63 cm) de chuva na Ilha Grande.",
-      "source": "BBC News",
-      "date": "Sun, 16 Aug 2026 03:54:11 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
-      "score": 0.73
-    },
-    {
       "id": "84664161",
       "cat": "ciencia",
       "title": "Bombeiros combatem incêndio florestal que destrói reserva natural belga",
@@ -253,17 +242,6 @@
       "date": "Sat, 15 Aug 2026 17:47:42 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f13/live/01221bd0-98d3-11f1-9687-fb984065014d.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "5ba83a06",
-      "cat": "ciencia",
-      "title": "Um hormônio do estresse pode ajudar o cérebro a se reparar",
-      "summary": "Um sinal surpreendente relacionado ao estresse pode ajudar o cérebro a se reparar após uma lesão. Os pesquisadores descobriram que as células precursoras produtoras de mielina liberam rapidamente o hormônio do estresse CRH perto do tecido cerebral danificado, ajudando a controlar como essas células amadurecem e reconstroem o isolamento protetor do nervo. O mesmo sistema",
-      "source": "ScienceDaily",
-      "date": "Fri, 14 Aug 2026 07:35:11 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
-      "img": "https://www.sciencedaily.com/images/1920/brain-injury-crh-expression.webp",
       "score": 0.73
     },
     {
@@ -289,47 +267,69 @@
       "score": 0.73
     },
     {
-      "id": "3185fcd8",
+      "id": "d818fa0b",
       "cat": "tecnologia",
-      "title": "Cristo e as fronteiras",
-      "summary": "Reduzir a defesa dos direitos dos migrantes a uma “versão infantil do cristianismo” ou a “um gesto diabólico disfarçado de ideia celestial” é um contorcionismo ético. Crónica de Graça Castanheira",
+      "title": "Nas igrejas do Alentejo, estamos ao fresco entre frescos",
+      "summary": "O Alentejo tem o maior número de pinturas murais a fresco do país — o calor é uma das razões. A Rota do Fresco abre ermidas e igrejas para revelar os seus “segredos escondidos”, incluindo um elefante.",
       "source": "Público",
-      "date": "Sun, 16 Aug 2026 05:47:00 GMT",
-      "url": "https://www.publico.pt/2026/08/16/culturaipsilon/cronica/cristo-fronteiras-2184952",
+      "date": "Sun, 16 Aug 2026 11:45:00 GMT",
+      "url": "https://www.publico.pt/2026/08/16/fugas/reportagem/igrejas-alentejo-fresco-frescos-2184704",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "5870f198",
+      "id": "11f35bad",
       "cat": "tecnologia",
-      "title": "Exames: o incómodo da mudança",
-      "summary": "Corrigir o que falhou é uma obrigação. Ter a coragem de prosseguir, quando tudo indica que o resultado poderá ser um sistema mais justo, é a melhor forma de honrar o conhecimento que produzimos. Opinião de Ana Costa Freitas",
+      "title": "O maior incêndio de sempre na Bélgica está agora perto da Alemanha",
+      "summary": "Incêndio na Bélgica já consumiu 3000 hectares de terreno.",
       "source": "Público",
-      "date": "Sun, 16 Aug 2026 05:32:00 GMT",
-      "url": "https://www.publico.pt/2026/08/16/opiniao/opiniao/exames-incomodo-mudanca-2182294",
+      "date": "Sun, 16 Aug 2026 11:12:58 GMT",
+      "url": "https://www.publico.pt/2026/08/16/mundo/noticia/maior-incendio-belgica-perto-alemanha-2185181",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "b7b14403",
+      "id": "a9bf9e0e",
       "cat": "tecnologia",
-      "title": "Portugal e Espanha recusam mudar rede ferroviária para bitola europeia",
-      "summary": "Espanha entregou à Comissão Europeia um relatório a recusar a mudança e Portugal alinha pela mesma bitola, mantendo os novos projectos de alta velocidade no padrão ibérico para não isolar o país.",
+      "title": "Ministério da Saúde chama médicos e vai rever definição de pequena cirurgia",
+      "summary": "Ministério aceita sugestão da Ordem dos Médicos e cria grupo de trabalho. Quanto à cirurgia realizada em produção adicional, afirma que não existiram alterações à portaria já publicada.",
       "source": "Público",
-      "date": "Sun, 16 Aug 2026 05:30:00 GMT",
-      "url": "https://www.publico.pt/2026/08/16/economia/noticia/portugal-espanha-recusam-mudar-rede-ferroviaria-bitola-europeia-2184766",
+      "date": "Sun, 16 Aug 2026 11:06:48 GMT",
+      "url": "https://www.publico.pt/2026/08/16/sociedade/noticia/ministerio-saude-chama-medicos-vai-rever-definicao-cirurgia-2185180",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "f0679636",
-      "cat": "tecnologia",
-      "title": "6h. Ouvidas explosões em Kiev esta madrugada",
-      "summary": "Administração militar reportou incêndio num edifício não residencial no distrito de Obolonsky. Ainda, Venezuela diz que foram libertados mais de mil presos políticos desde intervenção dos EUA.",
+      "id": "67de4491",
+      "cat": "cultura",
+      "title": "Morreu o cantor Lucas, da dupla sertaneja Lucas & Matheus",
+      "summary": "Encontrado sem vida no seu apartamento em Portugal, o cantor tinha espetáculo marcado em Esposende com Matheus Júnior. Corpo do artista será sepultado na sua terra natal, Presidente Prudente.",
       "source": "Observador",
-      "date": "Sun, 16 Aug 2026 06:17:48 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2465/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sun, 16 Aug 2026 12:52:24 +0100",
+      "url": "https://observador.pt/2026/08/16/morreu-o-cantor-lucas-da-dupla-sertaneja-lucas-matheus/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1692:950:nowe:0:90/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16123907/captura-de-ecra-2026-08-16-as-123840.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "8feb89ef",
+      "cat": "tecnologia",
+      "title": "Nova época, velho FC Porto? Dragões não sabem sofrer golos",
+      "summary": "FC Porto à imagem do ano passado: em equipa que ganha não se mexe. Irankunda é o 'Michael Jackson' que o Sporting precisa? No Benfica, Dedić de malas feitas e ainda a novela João Palhinha.",
+      "source": "Observador",
+      "date": "Sun, 16 Aug 2026 12:31:28 +0100",
+      "url": "https://observador.pt/programas/e-o-campeao-e/nova-epoca-velho-fc-porto-dragoes-nao-sabem-sofrer-golos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "ae72d92a",
+      "cat": "tecnologia",
+      "title": "Situação financeira dos norte-americanos está pior com Trump, revela sondagem",
+      "summary": "Inquérito revelado pelo Financial Times mostra que \"mais de 53 por cento dos eleitores registados dizem que a sua situação financeira se deteriorou desde que Trump regressou à Casa Branca\", em janeiro de 2025.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 16 Aug 2026 13:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/situacao-financeira-dos-norte-americanos-esta-pior-com-trump-revela-sondagem",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-02-09-30-00-527574.jpg",
       "score": 0.7
     }
   ]
