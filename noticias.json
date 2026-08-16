@@ -1,5 +1,5 @@
 {
-  "last_update": "15/08/2026 18:39 UTC",
+  "last_update": "16/08/2026 01:47 UTC",
   "total": 30,
   "news": [
     {
@@ -25,6 +25,17 @@
       "score": 0.79
     },
     {
+      "id": "fb62aacb",
+      "cat": "tecnologia",
+      "title": "Pichardo conquista prata nos Europeus de Atletismo em Birmingham",
+      "summary": "O português Pedro Pablo Pichardo voltou hoje a conquistar a medalha de prata do triplo salto nos Campeonatos da Europa de atletismo Birmingham2026, com 17,76 metros, a 39 centímetros do italiano Andy Díaz.",
+      "source": "RTP",
+      "date": "Sat, 15 Aug 2026 22:46:41 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/pichardo-conquista-prata-nos-europeus-de-atletismo-em-birmingham_d1759717",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e444f201d2c29e13a310ab4b914163ed?w=350&amp;q=50&amp;rect=0,32,1024,561&amp;auto=format",
+      "score": 0.79
+    },
+    {
       "id": "391b1e73",
       "cat": "cultura",
       "title": "Cinco filhotes de secretário ameaçados de extinção eclodem primeiro em grande conservação",
@@ -33,17 +44,6 @@
       "date": "Fri, 14 Aug 2026 11:00:01 +0000",
       "url": "https://www.goodnewsnetwork.org/five-endangered-secretarybird-chicks-hatch-in-major-conservation-first/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Secretarybird-with-chick-that-hatched-in-Chester-Zoo-video-news-release.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "8f4f484b",
-      "cat": "ciencia",
-      "title": "As águias-pescadoras se recuperam graças aos ‘pares pioneiros’ que se aninham longe da população principal",
-      "summary": "As águias-pescadoras estão a recuperar na Grã-Bretanha graças a “pares pioneiros” que preferem nidificar longe da população principal, de acordo com uma nova investigação. Pode ser a chave para aumentar a proliferação de aves de rapina, que foram extintas nas Ilhas Britânicas em 1916, antes de serem recolonizadas em 1954. Pesquisadores",
-      "source": "Good News Network",
-      "date": "Thu, 13 Aug 2026 20:46:15 +0000",
-      "url": "https://www.goodnewsnetwork.org/ospreys-recover-thanks-to-pioneering-pairs-who-nest-afar/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Osprey-chicks-in-nest-by-Osprey-Birds-of-Poole-Harbour-SWNS.jpeg",
       "score": 0.79
     },
     {
@@ -80,25 +80,36 @@
       "score": 0.79
     },
     {
-      "id": "e28aec86",
+      "id": "527ff986",
       "cat": "tecnologia",
-      "title": "Índia anuncia plano para formar 10 milhões de jovens em IA",
-      "summary": "Primeiro-ministro indiano quer dar formação em IA a jovens no espaço de um ano. Índia quer ser \"polo de inovação\".",
-      "source": "Observador",
-      "date": "Sat, 15 Aug 2026 18:29:05 +0100",
-      "url": "https://observador.pt/2026/08/15/india-anuncia-plano-para-formar-10-milhoes-de-jovens-em-ia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15174615/47613189.jpg",
+      "title": "Marrocos expulsa jornalistas espanhóis",
+      "summary": "Os media espanhóis RTVE e Efe defenderam hoje o direito à liberdade de informação, depois de Marrocos ter obrigado os seus jornalistas a abandonar a cidade de Castillejos, procurando agora o Governo espanhol encontrar uma solução.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 15 Aug 2026 20:34:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/media/detalhe/televisao-e-agencia-noticiosa-publicas-de-espanha-expulsas-de-marrocos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-15-58-33-527555.jpg",
       "score": 0.76
     },
     {
-      "id": "9fb71580",
+      "id": "c82e2bfa",
+      "cat": "ambiente",
+      "title": "Casa de 1964 com 66 m2 em Lisboa está a ser leiloada online por quase 1 milhão",
+      "summary": "Localizada na Travessa da Ajuda, tem contrato de arrendamento mensal de 1.430 euros válido até 30 de novembro de 2028, automática e sucessivamente renovável por períodos de três anos, com “a possibilidade de aumento de acordo com a legislação em vigor”.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 15 Aug 2026 19:45:22 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/casa-de-1964-com-66-m2-em-lisboa-esta-a-ser-leiloada-online-por-quase-1-milhao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-15-19-42-33-528239.png",
+      "score": 0.76
+    },
+    {
+      "id": "7fce41c1",
       "cat": "tecnologia",
-      "title": "Europeus de atletismo. Vitória Oliveira bate recorde na meia maratona em marcha",
-      "summary": "A portuguesa Vitória Oliveira melhorou hoje em quatro minutos e meio o recorde nacional da meia maratona em marcha atlética, ao concluir a prova dos Europeus Birmingham2026 em 01:36.10 horas, no 13.º lugar.",
-      "source": "RTP",
-      "date": "Sat, 15 Aug 2026 17:21:10 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/europeus-de-atletismo-vitoria-oliveira-bate-recorde-na-meia-maratona-em-marcha_d1759689",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3c82fe2685e20cc72c3623b96a2da8f8?w=350&amp;q=50&amp;rect=0,27,1920,1053&amp;auto=format",
+      "title": "Vencendo o calor com um milhão de girassóis florescendo na arejada Escócia (OLHE)",
+      "summary": "O mês de agosto marcou o retorno de 14 acres de girassóis dourados no topo da paisagem da Escócia. Aberto aos visitantes até 23 de agosto, o Balgone Estate inaugurou mais uma vez sua vibrante Trilha do Girassol, localizada a uma hora e meia de Glasgow. O evento foi introduzido pela primeira vez em 2023, mas",
+      "source": "Good News Network",
+      "date": "Sat, 15 Aug 2026 20:14:23 +0000",
+      "url": "https://www.goodnewsnetwork.org/beat-the-heat-with-a-million-blooming-sunflowers-in-breezy-scotland/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Blooming-Sunflowers-at-Balgone-Estate-in-Scotland-SWNS.jpeg",
       "score": 0.76
     },
     {
@@ -157,47 +168,58 @@
       "score": 0.76
     },
     {
-      "id": "306a8d2c",
-      "cat": "tecnologia",
-      "title": "Locarno entre o centro e a margem, com Leopardos para todos os gostos",
-      "summary": "O prémio mais importante da edição 2026 foi para o romeno You Don’t Belong Here . Mas este foi o ano da América Latina, com prémios para o Brasil e a Argentina. E para a memória de Jocelyne Saab.",
+      "id": "14a10fde",
+      "cat": "geral",
+      "title": "Pichardo volta a ficar com a prata nos Europeus",
+      "summary": "Saltador português foi segundo na final do triplo em Birmingham, atrás de Andy Díaz, que arrancou um dos melhores saltos de sempre.",
       "source": "Público",
-      "date": "Sat, 15 Aug 2026 17:25:50 GMT",
-      "url": "https://www.publico.pt/2026/08/15/culturaipsilon/noticia/locarno-centro-margem-leopardos-gostos-2185149",
+      "date": "Sat, 15 Aug 2026 20:59:57 GMT",
+      "url": "https://www.publico.pt/2026/08/15/desporto/noticia/pichardo-volta-ficar-prata-europeus-2185165",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "1630e3cb",
-      "cat": "tecnologia",
-      "title": "Lúcia Encarnação: a paixão faz o cocktail",
-      "summary": "Dos parafusos das primeiras cadeiras à aplicação de inteligência artificial, está à frente da Cocktail Team há 21 anos. Ingredientes do sucesso: mangas arregaçadas, olhos no futuro e sede de mais.",
+      "id": "115ba8d9",
+      "cat": "geral",
+      "title": "Isaac Nader longe das medalhas na final dos 1500m",
+      "summary": "Atleta português foi último na final da milha métrica nos Europeus de Birmingham.",
       "source": "Público",
-      "date": "Sat, 15 Aug 2026 16:40:00 GMT",
-      "url": "https://www.publico.pt/2026/08/15/fugas/perfil/lucia-encarnacao-paixao-faz-cocktail-2183087",
+      "date": "Sat, 15 Aug 2026 20:22:26 GMT",
+      "url": "https://www.publico.pt/2026/08/15/desporto/noticia/isaac-nader-longe-medalhas-final-1500m-2185162",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "38e62bbd",
-      "cat": "tecnologia",
-      "title": "Dragões sem Alan Varela, mas com Nehuen e Gül",
-      "summary": "Depois de entrar com o pé direito na temporada e no Campeonato, o FC Porto visita o Rio Ave à procura de manter distâncias para Sporting e Benfica. Farioli obrigado a mexer. Siga aqui em direto.",
-      "source": "Observador",
-      "date": "Sat, 15 Aug 2026 19:34:27 +0100",
-      "url": "https://observador.pt/liveblogs/rio-ave-fc-porto-dragoes-visitam-arcos-sem-alan-varela-mas-com-nehuen-perez-e-deniz-gul-no-onze/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/14151332/47585041.jpg",
+      "id": "78036818",
+      "cat": "geral",
+      "title": "Camila Rebelo em oitavo na final dos 100m costas",
+      "summary": "Nadadora portuguesa foi última na final deste sábado nos Europeus de Paris e não melhorou o recorde nacional.",
+      "source": "Público",
+      "date": "Sat, 15 Aug 2026 18:42:48 GMT",
+      "url": "https://www.publico.pt/2026/08/15/desporto/noticia/camila-rebelo-oitavo-final-100m-costas-2185157",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "f5bd5618",
+      "id": "23ae0d93",
       "cat": "tecnologia",
-      "title": "Camila e a melhor marca de sempre que chegou para tudo",
-      "summary": "Depois de ameaçar nas eliminatórias, Camila chegou à meia-final para se tornar na primeira portuguesa a baixar do minuto nos 100 metros costas. Sai de Paris com uma prata e um lugar na história.",
+      "title": "Rio Ave x Porto. \"VAR anula bem o golo do Porto\"",
+      "summary": "Nota positiva para Miguel Fonseca na vitória do Porto em Vila do Conde. O árbitro \"deixou jogar\" e chegou a números \"pouco habituais\" na nossa liga: \"apenas 12 faltas e 64 minutos de tempo útil.\"",
       "source": "Observador",
-      "date": "Sat, 15 Aug 2026 19:25:29 +0100",
-      "url": "https://observador.pt/2026/08/15/a-melhor-marca-de-sempre-nao-deu-para-mais-mas-chegou-para-tudo-depois-de-ter-feito-historia-camila-rebelo-e-oitava-nos-100-costas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2588:1455:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/15192330/gettyimages-2289586645.jpg",
+      "date": "Sun, 16 Aug 2026 00:25:48 +0100",
+      "url": "https://observador.pt/programas/sem-falta/rio-ave-x-porto-var-anula-bem-o-golo-do-porto/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "954e5bae",
+      "cat": "tecnologia",
+      "title": "00h. FC Porto vence Rio Ave e continua invicto no campeonato",
+      "summary": "Neuhén Pérez e Borja Sainz marcaram os golos da segunda vitória em duas jornadas para a equipa portista. Ainda, António José Seguro pede pede responsabilidade aos portugueses na estrada.",
+      "source": "Observador",
+      "date": "Sun, 16 Aug 2026 00:13:13 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2392/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -212,25 +234,25 @@
       "score": 0.73
     },
     {
-      "id": "dd97bd95",
+      "id": "13f4750e",
       "cat": "tecnologia",
-      "title": "AC Milan vence no reencontro de Ruben Amorim com o Manchester United",
-      "summary": "O avançado português Gonçalo Ramos contribuiu hoje com um golo para a vitória por 4-2 do AC Milan sobre o Manchester United, em jogo particular de futebol, que marcou o reencontro do treinador Ruben Amorim com a equipa inglesa.",
+      "title": "Nadadora Kate Douglass fixa recorde mundial dos 50 m livres em 23,49 segundos",
+      "summary": "A nadadora norte-americana Kate Douglass bateu hoje o recorde do mundo dos 50 metros livres, fixando-o em 23,49 segundos, durante as eliminatórias dos Campeonatos Pan-Pacíficos, em Irvine, nos Estados Unidos.",
       "source": "RTP",
-      "date": "Sat, 15 Aug 2026 19:11:20 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/ac-milan-vence-no-reencontro-de-ruben-amorim-com-o-manchester-united_d1759704",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/59/590e7c6ae1eb8ae576b8bad8f530ee74?w=350&amp;q=50&amp;rect=0,250,4232,2320&amp;auto=format",
+      "date": "Sat, 15 Aug 2026 22:56:34 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/nadadora-kate-douglass-fixa-recorde-mundial-dos-50-m-livres-em-2349-segundos_d1759730",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5c40cd9f0da6da8410bf825ef8366395?w=350&amp;q=50&amp;rect=0,275,3140,1721&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "c758a8d0",
+      "id": "64dd6a4f",
       "cat": "tecnologia",
-      "title": "II Liga. Benfica B vence em Leiria com duas grandes penalidades",
-      "summary": "Duas grandes penalidades convertidas por Gonçalo Moreira garantiram hoje a vitória (2-1) do Benfica B sobre a União de Leiria, em jogo da segunda jornada da II Liga de futebol disputado em Leiria.",
+      "title": "I Liga. Rio Ave - FC Porto",
+      "summary": "O FC Porto foi hoje a casa do Rio Ave somar mais três pontos, com dois golos sem resposta a valerem a vitória no jogo da segunda jornada da I Liga de futebol nacional.",
       "source": "RTP",
-      "date": "Sat, 15 Aug 2026 18:05:56 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-benfica-b-vence-em-leiria-com-duas-grandes-penalidades_d1759697",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "date": "Sat, 15 Aug 2026 21:09:09 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/i-liga-rio-ave-fc-porto_e1759705",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/80/80da665f89ac07dd788f6354de162753?w=350&amp;q=50&amp;rect=0,72,5315,2914&amp;auto=format",
       "score": 0.73
     },
     {
@@ -245,6 +267,17 @@
       "score": 0.73
     },
     {
+      "id": "b1933921",
+      "cat": "tecnologia",
+      "title": "Havaí se prepara para potencial primeiro impacto direto por um furacão em 34 anos",
+      "summary": "Na pior das hipóteses, a categoria um Lala poderia despejar até 25 polegadas (63 cm) de chuva na Ilha Grande.",
+      "source": "BBC News",
+      "date": "Sat, 15 Aug 2026 23:34:24 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
+      "score": 0.73
+    },
+    {
       "id": "84664161",
       "cat": "ciencia",
       "title": "Bombeiros combatem incêndio florestal que destrói reserva natural belga",
@@ -252,18 +285,7 @@
       "source": "BBC News",
       "date": "Sat, 15 Aug 2026 17:47:42 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa32/live/1695a180-98ba-11f1-9a0b-ef36d15fc6b3.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7af1f860",
-      "cat": "ciencia",
-      "title": "Metas de vendas de veículos elétricos podem ser reduzidas após pressão das montadoras",
-      "summary": "O governo diz que está considerando reduzir a meta de vendas de novos carros elétricos de 80% para 50% até 2030.",
-      "source": "BBC News",
-      "date": "Fri, 14 Aug 2026 15:58:21 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab99/live/07185cc0-97e8-11f1-a76b-f1c27c51f3da.jpg",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f13/live/01221bd0-98d3-11f1-9687-fb984065014d.jpg",
       "score": 0.73
     },
     {
@@ -300,36 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "d4ec970d",
+      "id": "d37cb790",
       "cat": "tecnologia",
-      "title": "Num ano de El Niño , cientistas correm contra o tempo para salvar recife de coral da Florida",
-      "summary": "Após o branqueamento sem precedentes de 2023 nos EUA, organizações da Florida unem-se para proteger e reproduzir corais que sobreviveram às temperaturas extremas.",
-      "source": "Público",
-      "date": "Sat, 15 Aug 2026 18:05:00 GMT",
-      "url": "https://www.publico.pt/2026/08/15/azul/noticia/ano-el-nino-cientistas-correm-tempo-salvar-recife-coral-florida-2184656",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "9af1158f",
-      "cat": "economia",
-      "title": "Explicador: O que faz subir os preços dos combustíveis",
-      "summary": "Os combustíveis voltam a aumentar na segunda-feira, depois de uma semana marcada por nova volatilidade nos preços do petróleo. Mas isso explica por completo a razão para um litro de gasolina e gasóleo custar perto de dois euros? O explicador desta semana ajuda a perceber melhor como é formado o preç",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 15 Aug 2026 18:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-o-que-faz-subir-os-precos-dos-combustiveis",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-14-15-01-07-528219.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "9aa1a528",
-      "cat": "tecnologia",
-      "title": "Gigantes americanas já receberam milhares de milhões em reembolsos das tarifas de Trump",
-      "summary": "Apple, Nike e FedEx fazem parte de uma longa lista de empresas norte-americanas que estão a receber reembolsos após a Justiça norte-americana ter travado as tarifas do \"Dia da Libertação\" de Trump. Entrada destas somas deu empurrão aos resultados das empresas.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 15 Aug 2026 17:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/gigantes-americanas-ja-receberam-milhares-de-milhoes-em-reembolsos-das-tarifas-de-trump",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-08-11-15-02-526246.jpg",
+      "title": "As notícias da 1h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sun, 16 Aug 2026 01:11:56 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2354/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
