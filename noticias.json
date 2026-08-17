@@ -1,7 +1,40 @@
 {
-  "last_update": "17/08/2026 01:45 UTC",
+  "last_update": "17/08/2026 07:08 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "c398685f",
+      "cat": "tecnologia",
+      "title": "4h. Atletismo. Patrícia Silva conquista medalha de bronze",
+      "summary": "Patrícia Silva conquista primeira medalha em grandes competições ao ar livre ao percorrer 1500 metros em 4 minutos e 9 segundos. Ainda, PS critica o primeiro-ministro e o Governo.",
+      "source": "Observador",
+      "date": "Mon, 17 Aug 2026 04:13:20 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2373/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.82
+    },
+    {
+      "id": "6ee6ffc9",
+      "cat": "tecnologia",
+      "title": "Gigantes chineses avançam em força para fábricas de automóveis em Espanha",
+      "summary": "A ofensiva das grandes fabricantes automóveis chinesas na Europa começou pelo lançamento de inúmeras marcas e modelos - principalmente elétricos - no Velho Continente. Agora, o foco está na compra ou construção de fábricas ou acordos de parceria para produzir os veículos na UE e fintar as tarifas. J",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 17 Aug 2026 08:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/aida-gigantes-chineses-avancam-em-forca-para-fabricas-de-automoveis-em-espanha",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-14-15-41-52-528222.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "2738923b",
+      "cat": "tecnologia",
+      "title": "Entrevista RTP. Armand Duplantis fala após conquistar 14.º ouro da carreira",
+      "summary": "É um dos nomes maiores do desporto mundial e voltou a fazer história. Depois de conquistar a décima quarta medalha de ouro da carreira, Armand Duplantis falou em exclusivo à RTP.",
+      "source": "RTP",
+      "date": "Mon, 17 Aug 2026 08:20:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/entrevista-rtp-armand-duplantis-fala-apos-conquistar-14o-ouro-da-carreira_v1759908",
+      "img": "https://cdn-images.rtp.pt/icm/images/b7/b76c3703c37e92cf1eeb0493ca3ed542_N.jpg?",
+      "score": 0.79
+    },
     {
       "id": "ebb4253d",
       "cat": "tecnologia",
@@ -71,35 +104,13 @@
     {
       "id": "7c730cbd",
       "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Células imunológicas inundam o cérebro envelhecido, descobrem cientistas de Stanford",
       "summary": "Os cientistas descobriram que o envelhecimento do cérebro humano pode estar muito menos isolado do resto do corpo do que se acreditava. Pesquisadores de Stanford descobriram que um grande número de células imunológicas do sangue começa a entrar no cérebro já na meia-idade, onde podem se transformar em microglia, o cérebro.",
       "source": "ScienceDaily",
       "date": "Fri, 14 Aug 2026 09:28:02 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
       "img": "https://www.sciencedaily.com/images/1920/brain-immune-cell-migration.webp",
       "score": 0.79
-    },
-    {
-      "id": "54c3ae9f",
-      "cat": "tecnologia",
-      "title": "Lens reduzido a 10 surpreende PSG e conquista Supertaça francesa",
-      "summary": "Campeão francês não conseguiu materializar o ascendente que teve no jogo e perdeu o troféu para o detentor da Taça. Thauvin fez o golo decisivo.",
-      "source": "Público",
-      "date": "Sun, 16 Aug 2026 20:59:02 GMT",
-      "url": "https://www.publico.pt/2026/08/16/desporto/noticia/lens-reduzido-10-surpreende-psg-conquista-supertaca-francesa-2185211",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "5180f007",
-      "cat": "tecnologia",
-      "title": "Patrícia Silva conquista bronze nos 1500m dos Europeus de atletismo",
-      "summary": "Atleta portuguesa acelerou para o terceiro lugar no recta da meta dos 1500m no último dia de provas em Birmingham. Agate de Sousa foi quarta no comprimento.",
-      "source": "Público",
-      "date": "Sun, 16 Aug 2026 20:26:22 GMT",
-      "url": "https://www.publico.pt/2026/08/16/desporto/noticia/patricia-silva-conquista-bronze-europeus-atletismo-2185209",
-      "img": null,
-      "score": 0.76
     },
     {
       "id": "faf32aeb",
@@ -110,50 +121,6 @@
       "date": "Sun, 16 Aug 2026 22:30:00 +0100",
       "url": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/apos-recorde-de-2025-exportacoes-de-alta-tecnologia-continuam-a-somar-ate-junho",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-10-12-09-10-527941.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "8984c14b",
-      "cat": "tecnologia",
-      "title": "Primeiro exemplar do Ferrari elétrico Luce rende 40 milhões de dólares em leilão",
-      "summary": "Apesar de ser alvo de fortes críticas por muitos apaixonados pela Ferrari, o Luce, primeiro modelo totalmente elétrico da marca do \"cavallino rampante\" tem sido um sucesso de vendas.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 16 Aug 2026 17:57:52 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/primeiro-exemplar-do-ferrari-eletrico-luce-rende-40-milhoes-de-dolares-em-leilao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-16-17-55-22-528249.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "cc26c596",
-      "cat": "desporto",
-      "title": "Lens bate Paris Saint-Germain e conquista Supertaça de França pela primeira vez",
-      "summary": "O Lens conquistou hoje a sua primeira Supertaça francesa de futebol, vencendo o favorito Paris Saint-Germain (PSG) por 1-0, num jogo em que apenas Vitinha foi titular entre os portugueses do pentacampeão gaulês, e Nuno Mendes foi expulso.",
-      "source": "RTP",
-      "date": "Sun, 16 Aug 2026 23:29:07 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/lens-bate-paris-saint-germain-e-conquista-supertaca-de-franca-pela-primeira-vez_d1759874",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c7/c7569e0aec83a1f5b4867857cae3cb95?w=350&amp;q=50&amp;rect=0,82,1200,658&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "12df3fda",
-      "cat": "tecnologia",
-      "title": "Ferrari elétrico bate recorde em leilão por 40 milhões",
-      "summary": "O primeiro automóvel totalmente elétrico da Ferrari foi vendido por 40 milhões de dólares num leilão de beneficência da Sotheby’s, durante a Monterey Car Week, na Califórnia, segundo noticia a Bloomberg (acesso pago, em inglês). O Luce “tailor made” superou o anterior recorde da marca, estabelecido ",
-      "source": "ECO",
-      "date": "Sun, 16 Aug 2026 14:46:36 +0000",
-      "url": "https://eco.sapo.pt/2026/08/16/ferrari-eletrico-bate-recorde-em-leilao-por-40-milhoes/",
-      "img": "https://eco.imgix.net/uploads/2026/05/ferrari-luce-13.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "218b5ad6",
-      "cat": "tecnologia",
-      "title": "Laboratórios colaborativos vão ter apoio de 45 milhões do Compete",
-      "summary": "Os Laboratórios Colaborativos (CoLAB) e os Centros de Tecnologia e Inovação (CTI), cujos apoios tinham chegado ao fim a 1 de julho, vão poder candidatar-se a uma linha de financiamento de 45 milhões de euros do Compete 2030. Esta foi a solução encontrada para já pelo Executivo para dar continuidade ",
-      "source": "ECO",
-      "date": "Sun, 16 Aug 2026 09:33:12 +0000",
-      "url": "https://eco.sapo.pt/2026/08/16/laboratorios-colaborativos-vao-ter-apoio-de-45-milhoes-do-compete/",
-      "img": "https://eco.imgix.net/uploads/2024/11/cropped-picadvanced-5.jpg",
       "score": 0.76
     },
     {
@@ -168,14 +135,14 @@
       "score": 0.76
     },
     {
-      "id": "c4ae6fdb",
+      "id": "edce6164",
       "cat": "tecnologia",
-      "title": "O que deu certo esta semana: as boas notícias que importam",
-      "summary": "Desmatamento em queda livre na Amazônia brasileira, tubarões prevendo furacões e um tribunal que avalia os gigantes da tecnologia, além de mais O post O que deu certo esta semana: as boas notícias que importam apareceu primeiro em Notícias Positivas.",
+      "title": "Tomates pretos e beringelas brancas, o futuro da agricultura é quântico",
+      "summary": "Uma fazenda italiana está usando biomimética e tecnologia agroecológica para garantir que suas colheitas possam suportar o calor O post Tomates pretos e berinjelas brancas, o futuro da agricultura é quântico apareceu pela primeira vez em Notícias Positivas.",
       "source": "Positive News",
-      "date": "Fri, 14 Aug 2026 05:00:08 +0000",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-33-of-2026/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/08/iStock-1017663348.jpg",
+      "date": "Mon, 17 Aug 2026 07:00:50 +0000",
+      "url": "https://www.positive.news/environment/black-tomatoes-and-white-aubergines-the-future-of-farming-is-quantum/",
+      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/IMG_0004.jpg",
       "score": 0.76
     },
     {
@@ -223,58 +190,58 @@
       "score": 0.76
     },
     {
-      "id": "dbb9df75",
+      "id": "16d78168",
       "cat": "tecnologia",
-      "title": "E depois da vitória?",
-      "summary": "O estreito não é apenas uma carta iraniana. É uma demonstração dos limites políticos da superioridade americana. Opinião de Manuel Serrano",
+      "title": "Não há territórios dispensáveis: a Linha do Douro",
+      "summary": "Uma ligação ferroviária transfronteiriça poderia reforçar circuitos turísticos internacionais, aproximar mercados e devolver centralidade a uma região que tem sido tratada como periférica. Opinião de António Fontaínhas Fernandes",
       "source": "Público",
-      "date": "Sun, 16 Aug 2026 18:30:00 GMT",
-      "url": "https://www.publico.pt/2026/08/16/mundo/opiniao/vitoria-2185188",
+      "date": "Mon, 17 Aug 2026 05:03:00 GMT",
+      "url": "https://www.publico.pt/2026/08/17/opiniao/opiniao/nao-ha-territorios-dispensaveis-linha-douro-2184870",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "72f591b9",
-      "cat": "geral",
-      "title": "Auto da Bazuca",
-      "summary": "Peça em um ato, para dois fantasmas e um primeiro-ministro",
-      "source": "Observador",
-      "date": "Mon, 17 Aug 2026 00:22:50 +0100",
-      "url": "https://observador.pt/opiniao/auto-da-bazuca/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A266%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F27174802%2Fwhatsapp-image-2026-07-27-at-122449.jpeg",
-      "score": 0.73
-    },
-    {
-      "id": "4fe93dd5",
-      "cat": "geral",
-      "title": "Agosto de 1808: Portugal não assinou",
-      "summary": "Costuma dizer-se que o Portugal do império acabou em 1974 e que o princípio do fim foi o ouro do Brasil. A minha opinião, que vale o que vale, é outra.",
-      "source": "Observador",
-      "date": "Mon, 17 Aug 2026 00:20:00 +0100",
-      "url": "https://observador.pt/opiniao/agosto-de-1808-portugal-nao-assinou/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A480%3A480%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F04%2F09222002%2Ffoto-joao-a-b-da-silva-png.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "0237ad4f",
+      "id": "fdbac5d6",
       "cat": "tecnologia",
-      "title": "A democracia também se constrói fora da política",
-      "summary": "As fundações podem ser uma espécie de capital paciente da democracia.",
-      "source": "Observador",
-      "date": "Mon, 17 Aug 2026 00:06:22 +0100",
-      "url": "https://observador.pt/opiniao/a-democracia-tambem-se-constroi-fora-da-politica/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A124%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F12122027%2Fwhatsapp-image-2026-08-11-at-180809.jpg",
+      "title": "Carneiro ou Montenegro, quem leva a melhor na rentrée política?",
+      "summary": "José Luís Carneiro usou a rentrée socialista para atacar Montenegro em várias frentes. Neste episódio, o jornalista Filipe Santa-Bárbara analisa quem saiu a ganhar deste primeiro confronto político.",
+      "source": "Público",
+      "date": "Mon, 17 Aug 2026 04:30:00 GMT",
+      "url": "https://www.publico.pt/2026/08/17/politica/noticia/carneiro-montenegro-leva-melhor-rentree-politica-2185217",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "619b889f",
+      "id": "744af559",
       "cat": "tecnologia",
-      "title": "Carneiro acusa Montenegro de censura aos jornalistas e diz que o \"rei vai mesmo nu\"",
-      "summary": "O líder do PS considerou que, sobre \"a alegada obra que diz já orgulhar-se\" Luís Montenegro, \"alguém tem de dizer ao primeiro-ministro que o rei vai mesmo nu\".",
+      "title": "5h. Termina hoje o prazo de negociações entre EUA e Irão",
+      "summary": "Em junho, os dois países assinaram um memorando de entendimento, para alcançar um acordo de paz até hoje. Ainda, Carneiro considera que PM é o principal foco de instabilidade em Portugal.",
+      "source": "Observador",
+      "date": "Mon, 17 Aug 2026 05:14:49 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1557/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "ce85f979",
+      "cat": "tecnologia",
+      "title": "3h. Trump aplaude acordo de defesa no Médio Oriente",
+      "summary": "Donald Trump considera que o acordo mostra que o Médio Oriente está a unir-se para se poder defender melhor. Ainda, incêndio em Torre de Moncorvo chegou ao município vizinho: Carrazeda de Ansiães.",
+      "source": "Observador",
+      "date": "Mon, 17 Aug 2026 03:15:02 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2408/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "cdaa0d45",
+      "cat": "tecnologia",
+      "title": "Divisão de mercados da Allianz investiu mil milhões em Portugal nos últimos 25 anos",
+      "summary": "O responsável para Portugal do braço de investimentos da Allianz diz que a seguradora olha para investimentos no país, onde é a maior acionista da Floene. Esta participação, que tem desde 2022, é \"estratégica\" e para manter.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 16 Aug 2026 21:52:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-acusa-montenegro-de-censura-aos-jornalistas-e-diz-que-o-rei-vai-mesmo-nu",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-16-21-49-00-528252.jpg",
+      "date": "Mon, 17 Aug 2026 07:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/divisao-de-mercados-da-allianz-investiu-mil-milhoes-em-portugal-nos-ultimos-25-anos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-06-12-48-52-527809.jpg",
       "score": 0.73
     },
     {
@@ -289,14 +256,36 @@
       "score": 0.73
     },
     {
-      "id": "8ac4fd18",
+      "id": "400b0c60",
       "cat": "tecnologia",
-      "title": "Carneiro pede a Montenegro para revelar razão, valor e financiamento da compra de 13,7% da REN",
-      "summary": "O secretário-geral do Partido Socialista (PS), José Luís Carneiro disse este domingo que o primeiro-ministro Luís Montenegro tem de explicar as razões e o valor da compra de uma participação de 13,7% da REN &#8211; Redes Energética Nacionais, de forma a garantir a &#8220;confiabilidade&#8221; na gov",
+      "title": "Taxa de carbono nas viagens aéreas já rendeu 266,6 milhões",
+      "summary": "A taxa de carbono que incide sobre os passageiros de transporte aéreo rendeu 31,48 milhões de euros na primeira metade do ano, uma subida de cerca de 2,9% face aos 30,6 milhões gerados no mesmo período do ano passado. De acordo com os dados avançados pela Autoridade Nacional da Aviação Civil (ANAC) ",
       "source": "ECO",
-      "date": "Sun, 16 Aug 2026 20:16:36 +0000",
-      "url": "https://eco.sapo.pt/2026/08/16/carneiro-pede-a-montenegro-para-revelar-razao-valor-e-financiamento-da-compra-de-137-da-ren/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc2026070447405299mar-0915.jpg",
+      "date": "Mon, 17 Aug 2026 06:07:33 +0000",
+      "url": "https://eco.sapo.pt/2026/08/17/taxa-de-carbono-nas-viagens-aereas-ja-rendeu-2666-milhoes/",
+      "img": "https://eco.imgix.net/uploads/2025/09/cropped-doc2015032019002616jr-5752.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "315c858b",
+      "cat": "tecnologia",
+      "title": "Itália e Estónia vão mais longe do que Portugal e obrigam anúncios de emprego a revelar salário",
+      "summary": "A expectativa de que os anúncios de emprego passariam a revelar a remuneração associada ao posto de trabalho foi criada pela diretiva europeia da transparência salarial, mas não deverá ser satisfeita em Portugal, já que o Governo de Luís Montenegro não pretende impor essa obrigação aos empregadores.",
+      "source": "ECO",
+      "date": "Mon, 17 Aug 2026 06:06:07 +0000",
+      "url": "https://eco.sapo.pt/2026/08/17/italia-e-estonia-vao-mais-longe-do-que-portugal-e-obrigam-anuncios-de-emprego-a-revelar-salario/",
+      "img": "https://eco.imgix.net/uploads/2021/02/cropped-pexels-sora-shimazaki-5668858-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1070d86e",
+      "cat": "tecnologia",
+      "title": "Da fortuna nos carros aos F-35. John Arrigo, o “grande amigo” de Trump em Lisboa",
+      "summary": "Retrato é uma rubrica do ECO na qual, durante o mês de agosto, é publicado diariamente o perfil de uma personalidade que se distinguiu no último ano, em Portugal Lembra-se da sequência no primeiro Rocky, na qual Sylvester Stallone corre e treina em Filadélfia, com a empolgante faixa sonora de Bill C",
+      "source": "ECO",
+      "date": "Mon, 17 Aug 2026 06:05:26 +0000",
+      "url": "https://eco.sapo.pt/especiais/da-fortuna-nos-carros-aos-f-35-john-arrigo-o-grande-amigo-de-trump-em-lisboa/",
+      "img": "https://eco.imgix.net/uploads/2026/07/retratos-john-arrigo-2000x1125-1.jpg",
       "score": 0.73
     },
     {
@@ -311,25 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "7af1f860",
-      "cat": "ciencia",
-      "title": "Metas de vendas de veículos elétricos podem ser reduzidas após pressão das montadoras",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "id": "1c70a243",
+      "cat": "tecnologia",
+      "title": "As novas descobertas da missão solar indiana lançam luz sobre os mistérios duradouros do Sol",
+      "summary": "Por que a coroa do Sol é milhões de graus mais quente que a sua superfície? E como mantém sua temperatura inexplicavelmente alta?",
       "source": "BBC News",
-      "date": "Fri, 14 Aug 2026 15:58:21 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab99/live/07185cc0-97e8-11f1-a76b-f1c27c51f3da.jpg",
+      "date": "Fri, 14 Aug 2026 02:13:27 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg",
       "score": 0.73
     },
     {
       "id": "38a628c4",
       "cat": "tecnologia",
       "title": "Mais pais americanos estão tirando licença parental",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Esta história apareceu pela primeira vez no The 74, um site de notícias sem fins lucrativos que cobre educação. Inscreva-se para receber boletins informativos gratuitos do The 74 para receber mais informações como esta em sua caixa de entrada. AJ O filho mais velho de Johnson nasceu em 2019, um ano antes de os residentes de seu estado natal, Washington, poderem receber benefícios... The post More A",
       "source": "Reasons to be Cheerful",
       "date": "Fri, 14 Aug 2026 08:00:14 +0000",
       "url": "https://reasonstobecheerful.world/american-dads-parental-leave/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/shutterstock_2561149847-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "3fd5c179",
+      "cat": "cultura",
+      "title": "Os ‘Jogos de Transplante’ são mais do que medalhas",
+      "summary": "Robert Lindemann é um contador alemão de 32 anos. Ele também fez um transplante de coração, uma experiência de mudança de vida compartilhada por apenas algumas centenas de pessoas todos os anos em seu país. Mas nos Jogos do Transplante ele não se destaca – e isso é um alívio. “Parece um pouco estranho... O po",
+      "source": "Reasons to be Cheerful",
+      "date": "Thu, 06 Aug 2026 08:00:46 +0000",
+      "url": "https://reasonstobecheerful.world/the-transplant-games-are-about-more-than-medals/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Sportcompetitie-21-juni-Sebastiaan-Nederhoed-2.jpg",
       "score": 0.73
     }
   ]
