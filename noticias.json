@@ -1,5 +1,5 @@
 {
-  "last_update": "18/08/2026 12:59 UTC",
+  "last_update": "18/08/2026 18:49 UTC",
   "total": 30,
   "news": [
     {
@@ -14,25 +14,25 @@
       "score": 0.82
     },
     {
+      "id": "6761c120",
+      "cat": "tecnologia",
+      "title": "Espécies de aves ameaçadas recebem moldes de pés minúsculos para ajudar na recuperação após serem atropeladas por um carro",
+      "summary": "Um pássaro que foi atropelado por um carro está passando por um curioso procedimento de reabilitação. O hospital veterinário para o qual foi levado projetou um par de moldes especialmente feitos de papelão e fita adesiva. É um pouco improvisado, mas dizem que o pássaro está fazendo um bom progresso e será solto de volta no",
+      "source": "Good News Network",
+      "date": "Tue, 18 Aug 2026 13:00:25 +0000",
+      "url": "https://www.goodnewsnetwork.org/threatened-bird-species-given-tiny-foot-casts-to-help-recovery-after-hit-by-car/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/The-whitethroat-injured-with-his-foot-casts-credit-Leicestershire-Wildlife-Hospital-via-SWNS.jpg",
+      "score": 0.79
+    },
+    {
       "id": "1e6d5103",
       "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Fornos de cimento podem se tornar negativos em carbono se funcionarem com energia limpa, já que o calcário absorve CO2",
       "summary": "A produção de cimento é considerada uma das maiores fontes industriais de CO2 do mundo, mas agora um novo estudo mostra como no futuro poderá ser utilizado para remover, em vez de produzir, o gás com efeito de estufa. Todos os anos, cerca de 4 mil milhões de toneladas métricas de CO2 são produzidas através de um processo que consome muita energia, um",
       "source": "Good News Network",
       "date": "Mon, 17 Aug 2026 18:00:39 +0000",
       "url": "https://www.goodnewsnetwork.org/cement-kilns-could-become-carbon-negative-if-run-on-clean-energy-because-limestone-absorbs-co2/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/credit-image-Heirloom-Carbon-Technologies.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "c3d68d98",
-      "cat": "tecnologia",
-      "title": "Duas horas de sono restauradas em cérebros com Alzheimer em pesquisa inovadora",
-      "summary": "[Por Christian Honce & # 124; UK College of Medicine] Imagine isto: você encontra um pequeno incêndio isolado em sua cozinha. Se você tivesse a ferramenta certa, talvez pudesse lançá-la. Mas antes que você possa, os sprinklers ligam e encharcam toda a casa. Uma resposta automática a um problema agora danificou [&#823",
-      "source": "Good News Network",
-      "date": "Sun, 16 Aug 2026 14:00:57 +0000",
-      "url": "https://www.goodnewsnetwork.org/two-hours-of-sleep-restored-in-alzheimers-brains-in-research-breakthrough/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Senior-sleeping-old-aging-eye-mask-sick-in-bed-by-A-C-For-Unsplash-pZVOgkmBM0Y.jpeg",
       "score": 0.79
     },
     {
@@ -58,47 +58,36 @@
       "score": 0.79
     },
     {
-      "id": "4a49d12e",
-      "cat": "cultura",
-      "title": "Festival Vilar de Mouros regressa com cinco dias de concertos e Yungblud a abrir",
-      "summary": "O veterano festival minhoto decorre entre esta terça-feira e sábado com nomes como The Hives, Marky Ramone ou Ben Harper, que assinala os 25 anos do seu primeiro concerto em Vilar de Mouros.",
-      "source": "Público",
-      "date": "Tue, 18 Aug 2026 12:22:10 GMT",
-      "url": "https://www.publico.pt/2026/08/18/culturaipsilon/noticia/festival-vilar-mouros-regressa-cinco-dias-concertos-yungblud-abrir-2185359",
-      "img": null,
+      "id": "8e5c8885",
+      "cat": "tecnologia",
+      "title": "Roglic vai mesmo alinhar na 81ª Vuelta para tentar isolar-se como recordista",
+      "summary": "O ciclista Primoz Roglic vai alinhar na 81ª Volta a Espanha, confirmou esta terça-feira a Red Bull-BORA-hansgrohe, acabando com as dúvidas sobre a participação do esloveno, que procura tornar-se recordista solitário de vitórias na prova.",
+      "source": "RTP",
+      "date": "Tue, 18 Aug 2026 15:58:34 +0100",
+      "url": "https://www.rtp.pt/noticias/ciclismo/roglic-vai-mesmo-alinhar-na-81a-vuelta-para-tentar-isolar-se-como-recordista_d1760160",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a2/a225939f72fc73262476fa22ffeb7a45?w=350&amp;q=50&amp;rect=0,148,2889,1584&amp;auto=format",
       "score": 0.76
     },
     {
-      "id": "6ead907c",
+      "id": "3d3044f6",
       "cat": "tecnologia",
-      "title": "Quercus faz queixa a Bruxelas após luz verde a projeto de citrinos em Alcácer do Sal",
-      "summary": "Queixa formal à Comissão Europeia é contra a aprovação do projeto de produção intensiva de citrinos em Alcácer do Sal. A associação admite ainda recorrer aos tribunais para travar o avanço da iniciativa.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 18 Aug 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/quercus-faz-queixa-a-bruxelas-apos-luz-verde-a-projeto-de-citrinos-em-alcacer-do-sal",
-      "img": "https://cdn.jornaldenegocios.pt/images/2018-07/img_100x100uu2018-07-04-18-30-01-334423.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "944ca868",
-      "cat": "tecnologia",
-      "title": "Faturação da DS Seguros cresce 22% no primeiro semestre para 8 milhões de euros",
-      "summary": "A mediadora DS Seguros encerrou os primeiros seis meses do ano com uma faturação de cerca de 8 milhões de euros em comissões, o que representa um crescimento de 22% face ao período homólogo do ano anterior. Foram emitidas mais de 32 mil novas apólices, correspondentes a cerca de 13,5 milhões de euro",
+      "title": "Presidente da República promulga diploma que autoriza extensão do SIFIDE II",
+      "summary": "O Presidente da República promulgou o diploma que permitirá ao Governo estender o Sistema de Incentivos Fiscais à Investigação e Desenvolvimento Empresarial II (SIFIDE II) e revogar a aplicação indireta do benefício através de fundos de investimento. A lei, publicada em 16 de abril em Diário da Repú",
       "source": "ECO",
-      "date": "Tue, 18 Aug 2026 12:11:23 +0000",
-      "url": "https://eco.sapo.pt/2026/08/18/faturacao-da-ds-seguros-cresce-22-no-primeiro-semestre-para-8-milhoes-de-euros/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-luis-tavares-1.jpg",
+      "date": "Tue, 18 Aug 2026 18:32:35 +0000",
+      "url": "https://eco.sapo.pt/2026/08/18/presidente-da-republica-promulga-diploma-que-autoriza-extensao-do-sifide-ii/",
+      "img": "https://eco.imgix.net/uploads/2025/12/cropped-doc201005101102563002150995-2.jpg",
       "score": 0.76
     },
     {
-      "id": "fe9f8238",
-      "cat": "tecnologia",
-      "title": "Empresa visa substituição ‘Moonshot’ de árvores em produtos de papel com planta humilde do deserto",
-      "summary": "Do Wall Street Journal vem a história de uma descoberta de Cachinhos Dourados: um substituto potencial para a fibra de madeira usada na fabricação de lenços de papel, papel higiênico e toalhas de papel. Chama-se hesperaloe e, como o homônimo de suas últimas 4 letras, apresenta-se como uma suculenta de folhas longas que cresce em uma",
+      "id": "da988b88",
+      "cat": "ciencia",
+      "title": "Boston pretende enfrentar riscos de enchentes em 100 anos com US$ 10 bilhões em projetos de infraestrutura",
+      "summary": "Esperando-se que o nível do mar aumente de 25 a 45 centímetros nos próximos 25 anos, a cidade de Boston e o Corpo de Engenheiros do Exército dos EUA divulgaram um estudo de viabilidade para 20 projetos de infraestrutura separados para proteger o litoral da cidade histórica. O estudo estima que se nada for feito, os custos",
       "source": "Good News Network",
-      "date": "Mon, 17 Aug 2026 15:30:15 +0000",
-      "url": "https://www.goodnewsnetwork.org/company-aims-for-moonshot-replacement-for-trees-in-paper-products-with-humble-desert-plant/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/left-toilet-paper-Santeri-Viinamaki-CC-4.0.-BY-SA-right-a-member-of-the-Hesperaloe-genus-CC-4.0.-BY-SA-Skarz.jpg",
+      "date": "Tue, 18 Aug 2026 18:30:48 +0000",
+      "url": "https://www.goodnewsnetwork.org/boston-aims-to-tackle-100-year-flood-risks-with-10-billion-in-infrastructure-projects/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/A-panorama-of-Boston-credit-Rokker-CC-3.0-e1787050151382.jpg",
       "score": 0.76
     },
     {
@@ -157,58 +146,47 @@
       "score": 0.76
     },
     {
-      "id": "fb6d38f4",
+      "id": "a86d0f2c",
       "cat": "tecnologia",
-      "title": "IL quer ouvir ministro das Finanças no Parlamento sobre reentrada do Estado no capital da REN",
-      "summary": "Partido liderado por Mariana Leitão considera que operação anunciada pelo primeiro-ministro pode “resultar no sacrifício de dinheiro dos contribuintes de forma irreflectida”.",
+      "title": "Vibrio : proliferação de bactéria “carnívora” na Europa justifica alarme?",
+      "summary": "Vibrio é um género de bactérias que habitam naturalmente em águas marinhas e salobras. Existem cerca de 35 espécies do género Vibrio , das quais 12 são patogénicas para o ser humano.",
       "source": "Público",
-      "date": "Tue, 18 Aug 2026 11:49:13 GMT",
-      "url": "https://www.publico.pt/2026/08/18/politica/noticia/il-quer-ouvir-ministro-financas-parlamento-reentrada-estado-capital-ren-2185365",
+      "date": "Tue, 18 Aug 2026 17:04:48 GMT",
+      "url": "https://www.publico.pt/2026/08/18/ciencia/perguntaserespostas/vibrio-proliferacao-bacteria-carnivora-europa-justifica-alarme-2185400",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "51938323",
+      "id": "a6951ad4",
       "cat": "tecnologia",
-      "title": "Grupo de trabalho fala em “ilusão”, Segurança Social tem défice de 1,944 mil milhões",
-      "summary": "O relatório “Reformar as pensões em Portugal – por um sistema sustentável, adequado e justo” está a ser apresentado nesta terça-feira, 18 de Agosto, em Lisboa.",
+      "title": "Ténis: Nuno Borges soma em Cincinnati mais uma vitória histórica",
+      "summary": "Português inverteu um historial de cinco derrotas diante do russo Andrey Rublev e marcou lugar nos oitavos-de-final do Masters 1000 norte-americano.",
       "source": "Público",
-      "date": "Tue, 18 Aug 2026 11:05:49 GMT",
-      "url": "https://www.publico.pt/2026/08/18/economia/noticia/grupo-trabalho-fala-ilusao-seguranca-social-defice-1944-mil-milhoes-2185360",
+      "date": "Tue, 18 Aug 2026 17:03:16 GMT",
+      "url": "https://www.publico.pt/2026/08/18/desporto/noticia/tenis-nuno-borges-afasta-andrey-rublev-rumo-oitavos-cincinnati-2185425",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "4fae8427",
+      "id": "1a067940",
       "cat": "tecnologia",
-      "title": "Montenegro alerta para \"semanas de elevada complexidade\"",
-      "summary": "Primeiro-ministro pede cuidados de prevenção e alerta para \"as semanas de elevada complexidade\" que ainda há pela frente nos incêndios. Destaca o trabalho \"absolutamente extraordinário\" de Luís Neves.",
-      "source": "Observador",
-      "date": "Tue, 18 Aug 2026 11:57:45 +0100",
-      "url": "https://observador.pt/2026/08/18/incendios-ainda-vamos-ter-semanas-pela-frente-de-elevada-complexidade-alerta-primeiro-ministro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1996:1121:nowe:0:41/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18102439/47626271.jpg",
+      "title": "Trump castiga sul-coreanos e “suíços” do Golfo por fracasso norte-americano no Irão",
+      "summary": "Presidente dos EUA ataca aliados após final de prazo para acordo com Teerão. Washington ameaça bombardear Omã e desfalca Leste asiático com mobilização de porta-aviões para o Médio Oriente.",
+      "source": "Público",
+      "date": "Tue, 18 Aug 2026 17:00:00 GMT",
+      "url": "https://www.publico.pt/2026/08/18/mundo/noticia/trump-castiga-sulcoreanos-suicos-golfo-fracasso-norteamericano-irao-2185406",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "8b3f2d85",
-      "cat": "tecnologia",
-      "title": "Lojas de \"fachada\". Fim do Licenciamento zero é solução?",
-      "summary": "Ricardo Mexia (PSD), autarca do Lumiar, e Ricardo Marques (PS), autarca de Benfica, defendem que deve haver mais fiscalização, mas o social-democrata atenta na sugestão de Carlos Moedas.",
-      "source": "Observador",
-      "date": "Tue, 18 Aug 2026 10:59:25 +0100",
-      "url": "https://observador.pt/programas/explicador/lojas-de-fachada-licenciamento-zero-pode-ser-solucao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
-      "score": 0.73
-    },
-    {
-      "id": "c77f2643",
-      "cat": "tecnologia",
-      "title": "Fernando Campos Nunes é o 18.º Mais Poderoso de 2026",
-      "summary": "Conhecido pelo “toque de Midas”, tal é o sucesso alcançado nos negócios em que aposta, Fernando Campos Nunes construiu um império cada vez mais internacional a partir de Viseu. E a sua fortuna continua a crescer, ascendendo a 1,9 mil milhões de euros.",
+      "id": "84768f54",
+      "cat": "economia",
+      "title": "\"Não vejo uma relação direta entre a aquisição dos 13,7% da REN pelo Estado e uma redução das tarifas\", diz ex-líder da ERSE",
+      "summary": "\"Pode haver razões estratégicas para o Estado querer estar presente no capital da REN\", ressalvou Vítor Santos.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 18 Aug 2026 12:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/negocios-iniciativas/poderosos/poderosos-2026/detalhe/fernando-campos-nunes-e-o-18-mais-poderoso-de-2026",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-18-07-56-00-528380.jpg",
+      "date": "Tue, 18 Aug 2026 16:33:28 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/nao-vejo-uma-relacao-direta-entre-a-aquisicao-dos-13-7-da-ren-pelo-estado-e-uma-reducao-das-tarifas-diz-ex-lider-da-erse",
+      "img": "https://cdn.jornaldenegocios.pt/images/2018-07/img_100x100uu2018-07-24-12-44-56-335676.jpg",
       "score": 0.73
     },
     {
@@ -223,6 +201,17 @@
       "score": 0.73
     },
     {
+      "id": "eb3cddd8",
+      "cat": "desporto",
+      "title": "Médio Rodri contratado pelo FC Barcelona ao Manchester City",
+      "summary": "O médio Rodri, campeão mundial e europeu de seleções por Espanha e eleito melhor futebolista do Mundial2026, foi contratado pelo FC Barcelona aos ingleses do Manchester City, assinando por quatro épocas, até 2030, anunciaram hoje os dois clubes.",
+      "source": "RTP",
+      "date": "Tue, 18 Aug 2026 19:39:59 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/medio-rodri-contratado-pelo-fc-barcelona-ao-manchester-city_d1760186",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/fa/fa8f76d3428dabb998993968b87e46d4?w=350&amp;q=50&amp;rect=0,94,1500,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "4abe10be",
       "cat": "tecnologia",
       "title": "Benfica impõe goleada ao Casa Pia. \"Uma vitória totalmente justa e saborosa\"",
@@ -234,14 +223,25 @@
       "score": 0.73
     },
     {
-      "id": "a3515f0b",
-      "cat": "tecnologia",
-      "title": "Condomínios: a reforma que pode mudar o mercado dos seguros",
-      "summary": "O Governo encontra-se a preparar um novo regime jurídico para a atividade de gestão e administração de condomínios, procurando reforçar a qualificação, a supervisão e a responsabilização dos operadores do setor. Embora a iniciativa se concentre na atividade dos administradores, a discussão que lhe e",
+      "id": "7826e078",
+      "cat": "cultura",
+      "title": "Tribunal de Contas já abriu processo de fiscalização à compra da REN",
+      "summary": "O Tribunal de Contas iniciou na segunda-feira o processo de fiscalização prévia do contrato da compra da participação de 13,7% da REN por parte do Estado, avançou fonte oficial da instituição ao ECO. A abertura do procedimento pela entidade liderada por Filipa Urbano Calvão ocorreu na segunda-feira,",
       "source": "ECO",
-      "date": "Tue, 18 Aug 2026 09:56:20 +0000",
-      "url": "https://eco.sapo.pt/opiniao/condominios-a-reforma-que-pode-mudar-o-mercado-dos-seguros/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/04/patricia-azevedo-lopes-opiniao.png",
+      "date": "Tue, 18 Aug 2026 17:28:50 +0000",
+      "url": "https://eco.sapo.pt/2026/08/18/tribunal-de-contas-ja-abriu-processo-de-fiscalizacao-a-compra-da-ren/",
+      "img": "https://eco.imgix.net/uploads/2024/02/cropped-39926188-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "04288cdc",
+      "cat": "tecnologia",
+      "title": "Ana Maria Lopes vai ser a diretora da Microsoft em Portugal",
+      "summary": "Já é conhecido o nome de quem sucede a Andres Ortolá na liderança da Microsoft Portugal. A tecnológica norte-americana anunciou esta terça-feira a nomeação de Ana Maria Lopes como nova diretora-geral a partir do próximo dia 1 de setembro de 2026. Ana Maria Lopes, &#8216;prata da casa&#8217;, irá rep",
+      "source": "ECO",
+      "date": "Tue, 18 Aug 2026 17:01:01 +0000",
+      "url": "https://eco.sapo.pt/2026/08/18/ana-maria-lopes-vai-ser-a-nova-diretora-da-microsoft-em-portugal/",
+      "img": "https://eco.imgix.net/uploads/2025/10/cropped-45405767-scaled.jpg",
       "score": 0.73
     },
     {
@@ -267,6 +267,17 @@
       "score": 0.73
     },
     {
+      "id": "8a3215d2",
+      "cat": "tecnologia",
+      "title": "A “Irmandade” Protegendo os Recifes de Coral da Indonésia",
+      "summary": "Quando tinha 21 anos, Gabriela Nathania H mergulhou debaixo d'água com um grupo de quatro estranhos na costa de Gili Air. A pequena ilha é uma das três que compõem as Ilhas Gili, um arquipélago que mergulhadores de todo o mundo admiram pela sua incrível biodiversidade marinha. Mas sobre isso... O post The &#8220",
+      "source": "Reasons to be Cheerful",
+      "date": "Tue, 18 Aug 2026 14:31:25 +0000",
+      "url": "https://reasonstobecheerful.world/saving-indonesias-coral-reefs-by-empowering-women/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Coral-Restoration.jpg",
+      "score": 0.73
+    },
+    {
       "id": "38a628c4",
       "cat": "tecnologia",
       "title": "Mais pais americanos estão tirando licença parental",
@@ -278,58 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "3fd5c179",
-      "cat": "cultura",
-      "title": "Os ‘Jogos de Transplante’ são mais do que medalhas",
-      "summary": "Robert Lindemann é um contador alemão de 32 anos. Ele também fez um transplante de coração, uma experiência de mudança de vida compartilhada por apenas algumas centenas de pessoas todos os anos em seu país. Mas nos Jogos do Transplante ele não se destaca – e isso é um alívio. “Parece um pouco estranho... O po",
-      "source": "Reasons to be Cheerful",
-      "date": "Thu, 06 Aug 2026 08:00:46 +0000",
-      "url": "https://reasonstobecheerful.world/the-transplant-games-are-about-more-than-medals/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Sportcompetitie-21-juni-Sebastiaan-Nederhoed-2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6e591401",
+      "id": "cc075a8c",
       "cat": "tecnologia",
-      "title": "O génio vai mesmo deixar a lâmpada: Rodrigo Mora ruma à Roma",
-      "summary": "O FC Porto vai encaixar 25 milhões de euros no imediato por 50% do passe do jogador de 19 anos, ficando com 50% de uma futura venda — sendo que a Roma pode comprar esses 50% por outros 25 milhões.",
+      "title": "Como educar uma criança de 2 anos sem gritos nem castigos?",
+      "summary": "Aos 2 anos, dizer “não” pode ser uma verdadeira batalha. Mas como devem os pais reagir quando uma criança desafia os limites? E o que fazer quando pai e mãe têm ideias diferentes sobre disciplina?",
       "source": "Observador",
-      "date": "Tue, 18 Aug 2026 11:49:32 +0100",
-      "url": "https://observador.pt/2026/08/18/o-genio-vai-mesmo-deixar-a-lampada-rodrigo-mora-sai-do-fc-porto-e-ruma-a-roma-por-25-milhoes-e-50-do-passe/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1684:nowe:0:316/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18114319/gettyimages-2289758936.jpg",
+      "date": "Tue, 18 Aug 2026 17:53:30 +0100",
+      "url": "https://observador.pt/programas/porque-sim-nao-e-resposta/como-educar-uma-crianca-de-2-anos-sem-gritos-nem-castigos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13150413/770-podcastporque-sim-nao-e-resposta.jpg",
       "score": 0.7
     },
     {
-      "id": "f7805ae4",
+      "id": "6da6f211",
+      "cat": "cultura",
+      "title": "Primeira-dama ucraniana é vista a usar um colar roubado?",
+      "summary": "Em Paris, Olena Zelenska teria sido apanhada a usar um colar \"recentemente roubado de um museu\", que fazia parte de uma coleção que valia cinco milhões de euros. Isto terá mesmo acontecido?",
+      "source": "Observador",
+      "date": "Tue, 18 Aug 2026 17:48:24 +0100",
+      "url": "https://observador.pt/factchecks/fact-check-primeira-dama-ucraniana-e-vista-a-usar-um-colar-roubado-em-paris/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/01/09142359/fact_check-errado.png",
+      "score": 0.7
+    },
+    {
+      "id": "7272966f",
       "cat": "tecnologia",
-      "title": "Bank of America espera mais lucros da EDP até 2028. Recomenda \"compra\" das ações",
-      "summary": "Os analistas do banco subiram a recomendação e o \"target\" da casa-mãe, esperando uma revisão em alta do \"guidance\" para 2028. Mostram-se, contudo, menos otimistas em relação ao desempenho da EDPR.",
+      "title": "Vídeo mostra Donald Trump a cair ao entrar numa limousine?",
+      "summary": "Vídeo partilhado nas redes sociais mostra alegadamente Donald Trump a \"perder o equilíbrio\" enquanto entrava numa limousine e a cair. Episódio terá mesmo acontecido?",
+      "source": "Observador",
+      "date": "Tue, 18 Aug 2026 17:43:11 +0100",
+      "url": "https://observador.pt/factchecks/fact-check-video-mostra-donald-trump-a-cair-ao-entrar-numa-limousine/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/01/09142359/fact_check-errado.png",
+      "score": 0.7
+    },
+    {
+      "id": "70d26a2d",
+      "cat": "tecnologia",
+      "title": "Seguro promulga \"lei das burcas\" apesar de ser \"matéria de grande sensibilidade social e cultural\"",
+      "summary": "Belém indica que o Presidente da República \"promulgou o Decreto da Assembleia da República que estabelece as regras de segurança e prevenção alusivas à identificação do cidadão a adotar em espaços públicos\".",
       "source": "Jornal de Negócios",
-      "date": "Tue, 18 Aug 2026 13:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/bank-of-america-espera-mais-lucros-da-edp-ate-2028-recomenda-compra-das-acoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-10-13-53-36-526388.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "date": "Tue, 18 Aug 2026 19:29:15 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/seguro-promulga-lei-das-burcas-apesar-de-ser-materia-de-grande-sensibilidade-social-e-cultural",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-18-08-35-00-528388.jpg",
       "score": 0.7
     }
   ]
