@@ -1,23 +1,34 @@
 {
-  "last_update": "19/08/2026 06:55 UTC",
+  "last_update": "19/08/2026 12:59 UTC",
   "total": 30,
   "news": [
     {
-      "id": "092f562c",
-      "cat": "ciencia",
-      "title": "Os animais comem o bioplástico original da natureza há milhões de anos",
-      "summary": "A natureza inventou o plástico biodegradável muito antes dos humanos – e os animais podem ter-se alimentado dele há centenas de milhões de anos. Os pesquisadores descobriram que dezenas de espécies animais possuem enzimas capazes de decompor bioplásticos microbianos chamados PHAs, um talento que antes se pensava pertencer apenas",
+      "id": "c1f57966",
+      "cat": "saude",
+      "title": "Cientistas japoneses usam minúsculas partículas de prata para tornar a montagem do DNA até 5x mais eficiente",
+      "summary": "As nanopartículas de prata podem fatiar o DNA com precisão e criar “extremidades adesivas” mais longas, ajudando os fragmentos genéticos a se unirem até cinco vezes mais eficientemente do que os métodos convencionais. A descoberta poderá eventualmente simplificar a construção de grandes sequências de ADN para terapias genéticas, vacinas contra o cancro, engenharia de",
       "source": "ScienceDaily",
-      "date": "Mon, 17 Aug 2026 01:34:10 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260815064759.htm",
-      "img": "https://www.sciencedaily.com/images/1920/gutless-marine-worm-olavius-algarvensis.webp",
+      "date": "Wed, 19 Aug 2026 03:46:13 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
+      "img": "https://www.sciencedaily.com/images/1920/dna-break-replace-assemble-genetic-engineering.webp",
       "score": 0.82
+    },
+    {
+      "id": "deadc8e7",
+      "cat": "tecnologia",
+      "title": "Ações da Moderna disparam 102% após anúncio de avanços numa vacina contra o melanoma",
+      "summary": "Os ensaios clínicos ainda estão a decorrer mas os resultados preliminares são positivos. O anúncio das duas farmacêuticas já está a ter repercussões antes da abertura dos mercados.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 19 Aug 2026 13:52:38 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/acoes-da-moderna-disparam-102-apos-anuncio-de-avancos-numa-vacina-contra-o-melanoma",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-13-30-19-528467.jpg",
+      "score": 0.79
     },
     {
       "id": "6761c120",
       "cat": "tecnologia",
       "title": "Espécies de aves ameaçadas recebem moldes de pés minúsculos para ajudar na recuperação após serem atropeladas por um carro",
-      "summary": "Um pássaro que foi atropelado por um carro está passando por um curioso procedimento de reabilitação. O hospital veterinário para o qual foi levado projetou um par de moldes especialmente feitos de papelão e fita adesiva. É um pouco improvisado, mas dizem que o pássaro está fazendo um bom progresso e será solto de volta no",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Good News Network",
       "date": "Tue, 18 Aug 2026 13:00:25 +0000",
       "url": "https://www.goodnewsnetwork.org/threatened-bird-species-given-tiny-foot-casts-to-help-recovery-after-hit-by-car/",
@@ -47,50 +58,6 @@
       "score": 0.79
     },
     {
-      "id": "3f6ea75a",
-      "cat": "ciencia",
-      "title": "Os cientistas podem ter finalmente provado que o espaço “vazio” não é realmente vazio",
-      "summary": "O colossal campo magnético de um magnetar pode ter revelado um efeito quântico previsto por Werner Heisenberg há quase 90 anos, no qual o espaço aparentemente vazio altera o comportamento da luz. Se confirmada, a descoberta poderá oferecer a primeira evidência direta de birrefringência no vácuo e abrir uma nova janela.",
-      "source": "ScienceDaily",
-      "date": "Tue, 18 Aug 2026 02:08:04 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
-      "img": "https://www.sciencedaily.com/images/1920/magnetar-1e-15470-5408.webp",
-      "score": 0.79
-    },
-    {
-      "id": "0d8c5cae",
-      "cat": "tecnologia",
-      "title": "Fabricante chinesa de robôs Unitree estreia-se na Bolsa de Xangai a ganhar 629%",
-      "summary": "A empresa apresentou o pedido de admissão à cotação na Bolsa de Xangai em março e obteve aprovação apenas 73 dias depois, um recorde para este mercado.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 19 Aug 2026 07:47:40 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/fabricante-chinesa-de-robos-unitree-estreia-se-na-bolsa-de-xangai-a-ganhar-629",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-07-45-37-528435.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "6832113e",
-      "cat": "tecnologia",
-      "title": "Trump suspende temporariamente tarifas ao Canadá após avanços em acordo",
-      "summary": "A entrada em vigor estava inicialmente prevista para meados de agosto e abrange cerca de 20 mil milhões de dólares (17,2 mil milhões de euros) em bens canadianos.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 19 Aug 2026 07:41:30 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-suspende-temporariamente-tarifas-ao-canada-apos-avancos-em-acordo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-14-07-06-00-528149.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "16707b22",
-      "cat": "tecnologia",
-      "title": "RTP diz que estão reunidas condições para manter subsídios criticados pela IGF",
-      "summary": "A solução passou por um aditamento do Acordo de Empresa por forma a salvaguardar as remunerações dos trabalhadores e a manutenção da paz social na empresa, refere a administração da empresa.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 18 Aug 2026 19:54:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/rtp-diz-que-estao-reunidas-condicoes-para-manter-subsidios-criticados-pela-igf",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-05-13-30-50-527750.jpg",
-      "score": 0.76
-    },
-    {
       "id": "8e5c8885",
       "cat": "tecnologia",
       "title": "Roglic vai mesmo alinhar na 81ª Vuelta para tentar isolar-se como recordista",
@@ -102,25 +69,25 @@
       "score": 0.76
     },
     {
-      "id": "ffc53e41",
+      "id": "1093e5e7",
       "cat": "tecnologia",
-      "title": "Trump suspende novas tarifas ao Canadá por três dias após avanços em acordo",
-      "summary": "O Presidente dos Estados Unidos, Donald Trump, anunciou a suspensão por três dias da entrada em vigor das tarifas aduaneiras de 50% sobre as importações do Canadá, avançando que os dois países alcançaram um acordo comercial abrangente. &#8220;Suspendi os direitos aduaneiros de 50% contra o Canadá po",
-      "source": "ECO",
-      "date": "Wed, 19 Aug 2026 06:40:20 +0000",
-      "url": "https://eco.sapo.pt/2026/08/19/trump-suspende-novas-tarifas-ao-canada-por-tres-dias-apos-avancos-em-acordo/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47515480-scaled-1.jpg",
+      "title": "Zion se torna o primeiro parque nacional a receber cadeiras de rodas todo-o-terreno para uso público",
+      "summary": "O mundialmente famoso Parque Nacional de Zion tornou-se o primeiro a oferecer uma cadeira de rodas todo-o-terreno para visitantes com deficiência que desejam desfrutar das trilhas do sistema de cânions. O equipamento foi disponibilizado graças a uma instituição de caridade sem fins lucrativos que utilizou recursos doados para comprar a cadeira de rodas em nome de Z",
+      "source": "Good News Network",
+      "date": "Wed, 19 Aug 2026 11:00:47 +0000",
+      "url": "https://www.goodnewsnetwork.org/zion-becomes-first-national-park-to-get-all-terrain-wheelchair-for-public-use/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/credit-Zion-National-Park.jpg",
       "score": 0.76
     },
     {
-      "id": "da988b88",
-      "cat": "ciencia",
-      "title": "Boston pretende enfrentar riscos de enchentes em 100 anos com US$ 10 bilhões em projetos de infraestrutura",
-      "summary": "Esperando-se que o nível do mar aumente de 25 a 45 centímetros nos próximos 25 anos, a cidade de Boston e o Corpo de Engenheiros do Exército dos EUA divulgaram um estudo de viabilidade para 20 projetos de infraestrutura separados para proteger o litoral da cidade histórica. O estudo estima que se nada for feito, os custos",
-      "source": "Good News Network",
-      "date": "Tue, 18 Aug 2026 18:30:48 +0000",
-      "url": "https://www.goodnewsnetwork.org/boston-aims-to-tackle-100-year-flood-risks-with-10-billion-in-infrastructure-projects/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/A-panorama-of-Boston-credit-Rokker-CC-3.0-e1787050151382.jpg",
+      "id": "49798013",
+      "cat": "tecnologia",
+      "title": "Como estabelecer conexões humanas significativas – de acordo com você",
+      "summary": "Perguntamos: como criar conexões humanas significativas em um mundo agitado e desconectado? Isso é o que você disse O post Como criar conexões humanas significativas – segundo você apareceu pela primeira vez no Positive News.",
+      "source": "Positive News",
+      "date": "Wed, 19 Aug 2026 07:00:30 +0000",
+      "url": "https://www.positive.news/society/how-do-you-forge-meaningful-human-connections/",
+      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/vince-fleming-GvIZU9SvrKg-unsplash-2.jpeg",
       "score": 0.76
     },
     {
@@ -135,20 +102,9 @@
       "score": 0.76
     },
     {
-      "id": "edce6164",
-      "cat": "tecnologia",
-      "title": "‘Gostamos de quebrar as regras’: a fazenda radical que produz resultados",
-      "summary": "Uma fazenda italiana está usando biomimética e tecnologia agroecológica para garantir que suas plantações resistam ao calor. A postagem ‘Gostamos de quebrar as regras’: a fazenda radical que dá resultados apareceu pela primeira vez no Positive News.",
-      "source": "Positive News",
-      "date": "Mon, 17 Aug 2026 07:00:50 +0000",
-      "url": "https://www.positive.news/environment/black-tomatoes-and-white-aubergines-the-future-of-farming-is-quantum/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/08/IMG_0004.jpg",
-      "score": 0.76
-    },
-    {
       "id": "1a0ea2fe",
       "cat": "ciencia",
-      "title": "Cientistas surpresos com a recuperação pulmonar de crianças em zona de emissões ultrabaixas",
+      "title": "Cientistas ‘surpresos’ com a recuperação pulmonar de crianças em zona de emissões ultrabaixas",
       "summary": "A capacidade pulmonar das crianças alcançou a dos seus pares em áreas menos poluídas quando surgiu uma zona de ar limpo, mostra um estudo.",
       "source": "BBC News",
       "date": "Tue, 18 Aug 2026 23:53:24 GMT",
@@ -179,6 +135,17 @@
       "score": 0.76
     },
     {
+      "id": "d1b7b8fd",
+      "cat": "ciencia",
+      "title": "Ondas misteriosas que varrem seu cérebro podem ajudar a transformar o caos sensorial no que você vê",
+      "summary": "As ondas elétricas que percorrem o cérebro podem ajudar a determinar o que notamos, prever o que vem a seguir e construir a nossa imagem interna do mundo. Os pesquisadores agora argumentam que essas ondas não são apenas atividades de fundo – elas poderiam ser um mecanismo computacional central por trás da percepção e da memória.",
+      "source": "ScienceDaily",
+      "date": "Tue, 18 Aug 2026 12:40:57 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
+      "img": "https://www.sciencedaily.com/images/1920/brain-waves-sensory-perception.webp",
+      "score": 0.76
+    },
+    {
       "id": "1fd68937",
       "cat": "ambiente",
       "title": "The Spark: como os vizinhos estão se unindo para se tornarem mais ecológicos",
@@ -190,14 +157,58 @@
       "score": 0.76
     },
     {
-      "id": "8a9ea043",
+      "id": "15ed7ea9",
+      "cat": "geral",
+      "title": "Morreu Frank Beard, o histórico baterista dos ZZ Top",
+      "summary": "O músico da veterana banda americana tinha 77 anos. Os ZZ Top vão “continuar a seguir em frente, tal como ele desejava”, disse o colega e guitarrista Billy Gibons.",
+      "source": "Público",
+      "date": "Wed, 19 Aug 2026 11:12:51 GMT",
+      "url": "https://www.publico.pt/2026/08/19/culturaipsilon/noticia/morreu-frank-beard-historico-baterista-zz-top-2185464",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "812bb3e9",
       "cat": "tecnologia",
-      "title": "\"As crianças são um produto\" para a Meta, acusa procuradora",
-      "summary": "Julgamento na Califórnia arrancou com manifestação de pais do lado de fora do tribunal e declarações de um antigo funcionário da empresa de Mark Zuckerberg, com quem tinha contacto próximo.",
+      "title": "Camila diz que foi difícil manter em segredo o diagnóstico de cancro de Carlos",
+      "summary": "A mulher do rei lembrou como este se manteve empenhado em trabalhar durante o tratamento, mantendo-se sempre em funções. “Ele limitou-se a dizer: ‘Esta é a minha maneira de lidar com isto.’”",
+      "source": "Público",
+      "date": "Wed, 19 Aug 2026 09:54:23 GMT",
+      "url": "https://www.publico.pt/2026/08/19/impar/noticia/camila-dificil-manter-segredo-diagnostico-cancro-carlos-2185455",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "3032609c",
+      "cat": "tecnologia",
+      "title": "Meta rejeita acusações de viciar jovens em redes sociais",
+      "summary": "Um júri irá decidir se os procuradores-gerais provaram a sua tese de que a Meta desenhou as aplicações para \"viciar utilizadores\". Entretanto, o advogado da tecnológica disse discordar das acusações.",
       "source": "Observador",
-      "date": "Wed, 19 Aug 2026 00:39:50 +0100",
-      "url": "https://observador.pt/2026/08/19/meta-em-julgamento-por-viciar-criancas-nas-redes-sociais-as-criancas-sao-um-produto-acusa-procuradora/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/04/01204016/GettyImages-962120488.jpg",
+      "date": "Wed, 19 Aug 2026 12:48:20 +0100",
+      "url": "https://observador.pt/2026/08/19/meta-rejeita-acusacoes-de-deliberadamente-viciar-jovens-em-redes-sociais/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19030823/47628792.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "e534d7a7",
+      "cat": "economia",
+      "title": "Lucro da Carlsberg sobe 13% até junho 508 milhões de euros",
+      "summary": "A empresa produziu 52,2 milhões de hectolitros de cerveja e 26,2 milhões de refrigerantes e outras bebidas durante o primeiro semestre.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 19 Aug 2026 13:46:57 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/lucro-da-carlsberg-sobe-13-ate-junho-508-milhoes-de-euros",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-13-45-08-528468.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "f6a6944c",
+      "cat": "tecnologia",
+      "title": "Maria Luís Albuquerque é a 16.ª Mais Poderosa de 2026",
+      "summary": "O rosto da União da Poupança e dos Investimentos passou o último ano a viajar pela Europa para tentar desatar os nós necessários para o projeto, desta vez, sair do papel. A incerteza internacional dá peso aos alertas relativos à urgência de avançar.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 19 Aug 2026 12:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/negocios-iniciativas/poderosos/poderosos-2026/detalhe/maria-luis-albuquerque-e-a-16-mais-poderosa-de-2026",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-08-14-00-528436.jpg",
       "score": 0.73
     },
     {
@@ -234,25 +245,36 @@
       "score": 0.73
     },
     {
-      "id": "800f4d56",
+      "id": "bdcdc612",
       "cat": "tecnologia",
-      "title": "Sustentabilidade do modelo de desenvolvimento na era da automação cognitiva",
-      "summary": "Há um equívoco que atravessa quase todo o debate público sobre o futuro do trabalho e a transição digital. Perguntamo-nos, obsessivamente, quantos empregos a inteligência artificial vai destruir e se o destino das economias avançadas é dissolverem-se numa vasta economia de serviços. São perguntas ma",
+      "title": "Cabaz alimentar volta a subir e supera os 253 euros 🛒",
+      "summary": "O cabaz alimentar, um carrinho de compras com bens essenciais, custa esta semana 253,55 euros, o que representa um aumento na ordem dos 1,48 euros em relação à semana anterior, de acordo com os dados divulgados esta quarta-feira pela Associação Portuguesa para a Defesa do Consumidor (Deco Proteste).",
       "source": "ECO",
-      "date": "Wed, 19 Aug 2026 06:05:21 +0000",
-      "url": "https://eco.sapo.pt/especiais/sustentabilidade-do-modelo-de-desenvolvimento-na-era-da-automacao-cognitiva/",
-      "img": "https://eco.imgix.net/uploads/2025/08/cropped-cropped-cropped-engineers-brainstorming-ways-use-ai-1.jpg",
+      "date": "Wed, 19 Aug 2026 12:09:33 +0000",
+      "url": "https://eco.sapo.pt/2026/08/19/cabaz-alimentar-volta-a-subir-e-supera-os-253-euros-%f0%9f%9b%92/",
+      "img": "https://eco.imgix.net/uploads/2026/02/cropped-21940759-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "79d2cc5e",
+      "id": "40ba5d85",
       "cat": "tecnologia",
-      "title": "Dos cortes à idade de acesso, peritos recomendam mudanças nas reformas antecipadas",
-      "summary": "Quem decide hoje passar à reforma antes da idade normal enfrenta dois cortes: o fator de sustentabilidade (que varia em função da esperança média de vida) e uma segunda penalização por cada mês antecipado. Os especialistas que estiveram a estudar a sustentabilidade da Segurança Social defendem, cont",
+      "title": "Almofada das pensões renderia mais do dobro sem amarras da dívida pública",
+      "summary": "A almofada das pensões poderia acumular o dobro do capital ao longo de uma geração se pudesse diversificar os seus investimentos e não estivesse ‘amarrada’ à dívida pública, estima o grupo de trabalho para a reforma da Segurança Social, que pede mudanças profundas à forma como este fundo é gerido. E",
       "source": "ECO",
-      "date": "Wed, 19 Aug 2026 06:04:36 +0000",
-      "url": "https://eco.sapo.pt/2026/08/19/dos-cortes-a-idade-de-acesso-peritos-recomendam-mudancas-nas-reformas-antecipadas/",
-      "img": "https://eco.imgix.net/uploads/2025/08/cropped-sitting-senior-man-close-up-his-holding-hands.jpg",
+      "date": "Wed, 19 Aug 2026 12:05:27 +0000",
+      "url": "https://eco.sapo.pt/2026/08/19/almofada-das-pensoes-renderia-mais-do-dobro-sem-amarras-da-divida-publica/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-34587451-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "783c0697",
+      "cat": "tecnologia",
+      "title": "Seguros só chegam a 17% dos adultos moçambicanos apesar de crescimento do setor",
+      "summary": "Apenas 17% da população adulta moçambicana tem algum tipo de seguro, mercado que movimentou 24,6 mil milhões de meticais (335 milhões de euros) em 2025, afirmou na segunda-feira a primeira-ministra, sublinhando, contudo, o crescimento do setor. Ao intervir, em Maputo, na abertura da Conferência Inte",
+      "source": "ECO",
+      "date": "Wed, 19 Aug 2026 11:09:10 +0000",
+      "url": "https://eco.sapo.pt/2026/08/19/seguros-so-chegam-a-17-dos-adultos-mocambicanos-apesar-de-crescimento-do-setor/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc2025011844244951img-1722-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -289,47 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "946f7a5f",
+      "id": "c93ee789",
       "cat": "tecnologia",
-      "title": "Afinal, vai haver ou não dinheiro para as pensões?",
-      "summary": "O que está realmente por trás dos excedentes da Segurança Social? Neste episódio do Hoje, o editor de Economia do PÚBLICO explica as contas, as propostas e o que está em jogo para as pensões.",
+      "title": "Sorria: Cabo Verde está mais perto do que imagina",
+      "summary": "Entre concertos, festivais, gastronomia e outras artes, a pátria das mornas e da cachupa faz-se sentir por cá de várias formas.",
       "source": "Público",
-      "date": "Wed, 19 Aug 2026 04:30:00 GMT",
-      "url": "https://www.publico.pt/2026/08/19/economia/noticia/afinal-vai-haver-nao-dinheiro-pensoes-2185432",
+      "date": "Wed, 19 Aug 2026 11:09:05 GMT",
+      "url": "https://www.publico.pt/2026/08/19/fugas/noticia/sorria-cabo-verde-perto-imagina-2185403",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "22c58a01",
-      "cat": "cultura",
-      "title": "Cartas ao director",
-      "summary": "",
-      "source": "Público",
-      "date": "Wed, 19 Aug 2026 04:20:00 GMT",
-      "url": "https://www.publico.pt/2026/08/19/opiniao/opiniao/cartas-director-2185417",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "f1600091",
-      "cat": "geral",
-      "title": "Alinhas?",
-      "summary": "Alinhar é um dos meus verbos preferidos, até porque “a linha” em si não precisa de ser definida, podendo ser tão estrambólica como se quiser. Crónica de Miguel Esteves Cardoso",
-      "source": "Público",
-      "date": "Tue, 18 Aug 2026 23:01:00 GMT",
-      "url": "https://www.publico.pt/2026/08/19/opiniao/cronica/alinhas-2185364",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "48f71dee",
+      "id": "c736f347",
       "cat": "tecnologia",
-      "title": "As nossas pensões estão em risco. Ainda podem ser salvas?",
-      "summary": "O relatório encomendado pelo governo sobre a sustentabilidade da Segurança Social aponta para um défice contínuo e apresenta soluções para o problema. Uma conversa com a jornalista Alexandra Machado.",
+      "title": "Mergulhador desaparecido enquanto trabalhava em navio",
+      "summary": "A Autoridade Marítima Nacional explica que um mergulhador de 28 anos desapareceu enquanto realizava trabalhos na caixa de mar de um navio mercante. O alerta foi recebido pelas 10h06.",
       "source": "Observador",
-      "date": "Wed, 19 Aug 2026 05:03:23 +0100",
-      "url": "https://observador.pt/programas/a-hist-ria-do-dia/as-nossas-pensoes-estao-em-risco-ainda-podem-ser-salvas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/14232829/770-podcast-a-historia-do-dia-com-joao-3.jpg",
+      "date": "Wed, 19 Aug 2026 13:03:07 +0100",
+      "url": "https://observador.pt/2026/08/19/mergulhador-desaparecido-enquanto-trabalhava-em-navio-em-setubal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/20131556/jporfirio-reportagem-lisnave-19-09-01-6-scaled.jpg",
       "score": 0.7
     }
   ]
