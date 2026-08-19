@@ -1,5 +1,5 @@
 {
-  "last_update": "19/08/2026 12:59 UTC",
+  "last_update": "19/08/2026 18:45 UTC",
   "total": 30,
   "news": [
     {
@@ -14,21 +14,10 @@
       "score": 0.82
     },
     {
-      "id": "deadc8e7",
-      "cat": "tecnologia",
-      "title": "Ações da Moderna disparam 102% após anúncio de avanços numa vacina contra o melanoma",
-      "summary": "Os ensaios clínicos ainda estão a decorrer mas os resultados preliminares são positivos. O anúncio das duas farmacêuticas já está a ter repercussões antes da abertura dos mercados.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 19 Aug 2026 13:52:38 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/acoes-da-moderna-disparam-102-apos-anuncio-de-avancos-numa-vacina-contra-o-melanoma",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-13-30-19-528467.jpg",
-      "score": 0.79
-    },
-    {
       "id": "6761c120",
       "cat": "tecnologia",
       "title": "Espécies de aves ameaçadas recebem moldes de pés minúsculos para ajudar na recuperação após serem atropeladas por um carro",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Um pássaro que foi atropelado por um carro está passando por um curioso procedimento de reabilitação. O hospital veterinário para o qual foi levado projetou um par de moldes especialmente feitos de papelão e fita adesiva. É um pouco improvisado, mas dizem que o pássaro está fazendo um bom progresso e será solto de volta no",
       "source": "Good News Network",
       "date": "Tue, 18 Aug 2026 13:00:25 +0000",
       "url": "https://www.goodnewsnetwork.org/threatened-bird-species-given-tiny-foot-casts-to-help-recovery-after-hit-by-car/",
@@ -58,14 +47,47 @@
       "score": 0.79
     },
     {
-      "id": "8e5c8885",
+      "id": "546bbee5",
       "cat": "tecnologia",
-      "title": "Roglic vai mesmo alinhar na 81ª Vuelta para tentar isolar-se como recordista",
-      "summary": "O ciclista Primoz Roglic vai alinhar na 81ª Volta a Espanha, confirmou esta terça-feira a Red Bull-BORA-hansgrohe, acabando com as dúvidas sobre a participação do esloveno, que procura tornar-se recordista solitário de vitórias na prova.",
-      "source": "RTP",
-      "date": "Tue, 18 Aug 2026 15:58:34 +0100",
-      "url": "https://www.rtp.pt/noticias/ciclismo/roglic-vai-mesmo-alinhar-na-81a-vuelta-para-tentar-isolar-se-como-recordista_d1760160",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a2/a225939f72fc73262476fa22ffeb7a45?w=350&amp;q=50&amp;rect=0,148,2889,1584&amp;auto=format",
+      "title": "Ortega encaixa 218 milhões de euros com investimento na REN",
+      "summary": "Entre o prémio pago na venda da posição e os dividendos que foi recebendo ao longo de cinco anos, o \"family office\" que gere a fortuna do magnata espanhol conseguiu um ganho expressivo com a participação na gestora das redes elétricas portuguesa, a confirmar-se um prémio de 17%.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 19 Aug 2026 16:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/ortega-encaixa-218-milhoes-de-euros-com-investimento-na-ren",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-14-09-08-528469.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "6178f7b6",
+      "cat": "economia",
+      "title": "Excedente externo da economia reduz-se para 0,8% do PIB no primeiro semestre",
+      "summary": "O excedente externo da economia portuguesa encolheu para 0,8% do Produto Interno Bruto (PIB) no primeiro semestre, quando em igual período do ano passado tinha alcançado cerca de 1,5%, de acordo com os dados divulgados esta quarta-feira pelo Banco de Portugal. Segundo o regulador, a economia portugu",
+      "source": "ECO",
+      "date": "Wed, 19 Aug 2026 17:13:11 +0000",
+      "url": "https://eco.sapo.pt/2026/08/19/excedente-externo-da-economia-reduz-se-para-08-do-pib-no-primeiro-semestre/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc2019090927003209mac-090919-8865-1.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "0436ad3b",
+      "cat": "tecnologia",
+      "title": "Full Venue é agora Clustie, com ambição de chegar aos 500 clientes nos próximos 12 meses",
+      "summary": "A startup tecnológica portuguesa Full Venue é agora Clustie, resultado de um rebranding que acontece meses após o lançamento da atual plataforma do qual &#8216;empresta&#8217; o nome. A mudança, desenvolvida internamente, procura traduzir a evolução da atividade da empresa, que inicialmente se focav",
+      "source": "ECO",
+      "date": "Wed, 19 Aug 2026 16:57:23 +0000",
+      "url": "https://eco.sapo.pt/2026/08/19/full-venue-e-agora-clustie-com-ambicao-de-chegar-aos-500-clientes-nos-proximos-12-meses/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-img-6872-scaled-1.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "8879363a",
+      "cat": "tecnologia",
+      "title": "Peritos avisam que reforma da Segurança Social só é sustentável com “consenso político alargado”",
+      "summary": "O grupo de especialistas que esteve a estudar, no último ano, a sustentabilidade da Segurança Social avisa que uma eventual reforma do sistema de pensões não pode depender de uma &#8220;maioria conjuntural&#8221;, sob a pena de ser &#8220;desfeita ao primeiro ciclo eleitoral&#8221;. O relatório apre",
+      "source": "ECO",
+      "date": "Wed, 19 Aug 2026 15:05:32 +0000",
+      "url": "https://eco.sapo.pt/2026/08/19/peritos-avisam-que-reforma-da-seguranca-social-so-e-sustentavel-com-consenso-politico-alargado/",
+      "img": "https://eco.imgix.net/uploads/2023/06/cropped-jorge-bravo03.jpg",
       "score": 0.76
     },
     {
@@ -157,58 +179,36 @@
       "score": 0.76
     },
     {
-      "id": "15ed7ea9",
-      "cat": "geral",
-      "title": "Morreu Frank Beard, o histórico baterista dos ZZ Top",
-      "summary": "O músico da veterana banda americana tinha 77 anos. Os ZZ Top vão “continuar a seguir em frente, tal como ele desejava”, disse o colega e guitarrista Billy Gibons.",
-      "source": "Público",
-      "date": "Wed, 19 Aug 2026 11:12:51 GMT",
-      "url": "https://www.publico.pt/2026/08/19/culturaipsilon/noticia/morreu-frank-beard-historico-baterista-zz-top-2185464",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "812bb3e9",
+      "id": "263438b0",
       "cat": "tecnologia",
-      "title": "Camila diz que foi difícil manter em segredo o diagnóstico de cancro de Carlos",
-      "summary": "A mulher do rei lembrou como este se manteve empenhado em trabalhar durante o tratamento, mantendo-se sempre em funções. “Ele limitou-se a dizer: ‘Esta é a minha maneira de lidar com isto.’”",
-      "source": "Público",
-      "date": "Wed, 19 Aug 2026 09:54:23 GMT",
-      "url": "https://www.publico.pt/2026/08/19/impar/noticia/camila-dificil-manter-segredo-diagnostico-cancro-carlos-2185455",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "3032609c",
-      "cat": "tecnologia",
-      "title": "Meta rejeita acusações de viciar jovens em redes sociais",
-      "summary": "Um júri irá decidir se os procuradores-gerais provaram a sua tese de que a Meta desenhou as aplicações para \"viciar utilizadores\". Entretanto, o advogado da tecnológica disse discordar das acusações.",
+      "title": "17h. Mais de 1200 operacionais combatem 3 grandes incêndios",
+      "summary": "O fogo de Arouca mobiliza o maior dispositivo de combate às chamas. Ainda, dezenas de casos sociais estão a bloquear capacidade de internamento no Hospital São José.",
       "source": "Observador",
-      "date": "Wed, 19 Aug 2026 12:48:20 +0100",
-      "url": "https://observador.pt/2026/08/19/meta-rejeita-acusacoes-de-deliberadamente-viciar-jovens-em-redes-sociais/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19030823/47628792.jpg",
+      "date": "Wed, 19 Aug 2026 18:14:15 +0100",
+      "url": "https://observador.pt/programas/noticiario/17h-mais-de-1200-operacionais-combatem-3-grandes-incendios/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "e534d7a7",
-      "cat": "economia",
-      "title": "Lucro da Carlsberg sobe 13% até junho 508 milhões de euros",
-      "summary": "A empresa produziu 52,2 milhões de hectolitros de cerveja e 26,2 milhões de refrigerantes e outras bebidas durante o primeiro semestre.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 19 Aug 2026 13:46:57 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/lucro-da-carlsberg-sobe-13-ate-junho-508-milhoes-de-euros",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-13-45-08-528468.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "f6a6944c",
+      "id": "5f8d3674",
       "cat": "tecnologia",
-      "title": "Maria Luís Albuquerque é a 16.ª Mais Poderosa de 2026",
-      "summary": "O rosto da União da Poupança e dos Investimentos passou o último ano a viajar pela Europa para tentar desatar os nós necessários para o projeto, desta vez, sair do papel. A incerteza internacional dá peso aos alertas relativos à urgência de avançar.",
+      "title": "EUA duplicam recompra de obrigações mas analistas veem juros acima de 5% ainda este ano",
+      "summary": "O Departamento do Tesouro anunciou que vai, no mínimo, duplicar o volume das recompras de obrigações de longo prazo, mas analistas acreditam que isso não será suficiente para manter a taxa de juro abaixo dos 5%.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 19 Aug 2026 12:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/negocios-iniciativas/poderosos/poderosos-2026/detalhe/maria-luis-albuquerque-e-a-16-mais-poderosa-de-2026",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-08-14-00-528436.jpg",
+      "date": "Wed, 19 Aug 2026 19:01:35 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/eua-duplicam-recompra-de-obrigacoes-mas-analistas-veem-juros-acima-de-5-ainda-este-ano",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-13-07-19-56-523505.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "febe6e20",
+      "cat": "economia",
+      "title": "Dazn fecha compra da empresa de streaming ViewLift e faz parceria com a LiveModeTV",
+      "summary": "A operação foi anunciada em abril e concluída esta quarta-feira. A aquisição representa um reforço da empresa no mercado desportivo norte-americano e terá custado cerca de 100 milhões de dólares.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 19 Aug 2026 14:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/media/detalhe/dazn-conclui-compra-da-empresa-de-streaming-viewlift-e-reforca-presenca-nos-eua",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-12-51-59-528466.jpg",
       "score": 0.73
     },
     {
@@ -223,58 +223,25 @@
       "score": 0.73
     },
     {
-      "id": "2f254608",
+      "id": "95bed074",
       "cat": "tecnologia",
-      "title": "Neemias Queta promete \"focar\" atenção nos jogos da seleção e iniciar \"boa época\"",
-      "summary": "O poste Neemias Queta prometeu hoje &quot;focar&quot; a atenção na seleção portuguesa de basquetebol, mais precisamente nos dois primeiros jogos da segunda fase de qualificação para o Mundial de 2027, e iniciar &quot;uma boa época&quot;.",
+      "title": "Supertaças de futsal em 05 de setembro em Vila do Conde",
+      "summary": "São duas Supertaças de futsal no mesmo dia. A Supertaça feminina, em Vila do Conde, pelas 16h30, entre o Benfica, campeão nacional, e GCR Nun&#039;Álvares, e depois por volta das 21h00 a Supertaça masculina entre rivais lisboetas (Benfica e Sporting).",
       "source": "RTP",
-      "date": "Wed, 19 Aug 2026 00:21:35 +0100",
-      "url": "https://www.rtp.pt/noticias/basquetebol/neemias-queta-promete-focar-atencao-nos-jogos-da-selecao-e-iniciar-boa-epoca_d1760233",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "date": "Wed, 19 Aug 2026 18:13:19 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/supertacas-de-futsal-em-05-de-setembro-em-vila-do-conde_d1760402",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3bcc7e24740d65d0186f50b4a88f1142?w=350&amp;q=50&amp;rect=0,289,4940,2708&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "eb3cddd8",
-      "cat": "desporto",
-      "title": "Médio Rodri contratado pelo FC Barcelona ao Manchester City",
-      "summary": "O médio Rodri, campeão mundial e europeu de seleções por Espanha e eleito melhor futebolista do Mundial2026, foi contratado pelo FC Barcelona aos ingleses do Manchester City, assinando por quatro épocas, até 2030, anunciaram hoje os dois clubes.",
+      "id": "5d1b13a5",
+      "cat": "economia",
+      "title": "DAZN conclui compra da norte-americana ViewLift e faz parceria com LiveModeTV",
+      "summary": "A DAZN concluiu a aquisição da norte-americana ViewLift, especializada em soluções de ‘streaming’ para ligas, equipas e detentores de direitos, reforçando a estratégia de expansão do grupo no mercado desportivo dos Estados Unidos, anunciou hoje a empresa.",
       "source": "RTP",
-      "date": "Tue, 18 Aug 2026 19:39:59 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/medio-rodri-contratado-pelo-fc-barcelona-ao-manchester-city_d1760186",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/fa/fa8f76d3428dabb998993968b87e46d4?w=350&amp;q=50&amp;rect=0,94,1500,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "bdcdc612",
-      "cat": "tecnologia",
-      "title": "Cabaz alimentar volta a subir e supera os 253 euros 🛒",
-      "summary": "O cabaz alimentar, um carrinho de compras com bens essenciais, custa esta semana 253,55 euros, o que representa um aumento na ordem dos 1,48 euros em relação à semana anterior, de acordo com os dados divulgados esta quarta-feira pela Associação Portuguesa para a Defesa do Consumidor (Deco Proteste).",
-      "source": "ECO",
-      "date": "Wed, 19 Aug 2026 12:09:33 +0000",
-      "url": "https://eco.sapo.pt/2026/08/19/cabaz-alimentar-volta-a-subir-e-supera-os-253-euros-%f0%9f%9b%92/",
-      "img": "https://eco.imgix.net/uploads/2026/02/cropped-21940759-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "40ba5d85",
-      "cat": "tecnologia",
-      "title": "Almofada das pensões renderia mais do dobro sem amarras da dívida pública",
-      "summary": "A almofada das pensões poderia acumular o dobro do capital ao longo de uma geração se pudesse diversificar os seus investimentos e não estivesse ‘amarrada’ à dívida pública, estima o grupo de trabalho para a reforma da Segurança Social, que pede mudanças profundas à forma como este fundo é gerido. E",
-      "source": "ECO",
-      "date": "Wed, 19 Aug 2026 12:05:27 +0000",
-      "url": "https://eco.sapo.pt/2026/08/19/almofada-das-pensoes-renderia-mais-do-dobro-sem-amarras-da-divida-publica/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-34587451-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "783c0697",
-      "cat": "tecnologia",
-      "title": "Seguros só chegam a 17% dos adultos moçambicanos apesar de crescimento do setor",
-      "summary": "Apenas 17% da população adulta moçambicana tem algum tipo de seguro, mercado que movimentou 24,6 mil milhões de meticais (335 milhões de euros) em 2025, afirmou na segunda-feira a primeira-ministra, sublinhando, contudo, o crescimento do setor. Ao intervir, em Maputo, na abertura da Conferência Inte",
-      "source": "ECO",
-      "date": "Wed, 19 Aug 2026 11:09:10 +0000",
-      "url": "https://eco.sapo.pt/2026/08/19/seguros-so-chegam-a-17-dos-adultos-mocambicanos-apesar-de-crescimento-do-setor/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc2025011844244951img-1722-scaled-1.jpg",
+      "date": "Wed, 19 Aug 2026 18:03:51 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/dazn-conclui-compra-da-norte-americana-viewlift-e-faz-parceria-com-livemodetv_d1760400",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/79/79c16f2c5cb9b8864caa203a3d68e7ba?w=350&amp;q=50&amp;rect=0,438,5238,2872&amp;auto=format",
       "score": 0.73
     },
     {
@@ -311,25 +278,58 @@
       "score": 0.73
     },
     {
-      "id": "c93ee789",
+      "id": "f94c0384",
       "cat": "tecnologia",
-      "title": "Sorria: Cabo Verde está mais perto do que imagina",
-      "summary": "Entre concertos, festivais, gastronomia e outras artes, a pátria das mornas e da cachupa faz-se sentir por cá de várias formas.",
+      "title": "PS critica “relatório enviesado”, IL defende reforma da Segurança Social",
+      "summary": "Liberais sustentam que o relatório confirma a necessidade de uma reforma. PS, Livre, PCP e BE contestam principais conclusões do estudo.",
       "source": "Público",
-      "date": "Wed, 19 Aug 2026 11:09:05 GMT",
-      "url": "https://www.publico.pt/2026/08/19/fugas/noticia/sorria-cabo-verde-perto-imagina-2185403",
+      "date": "Wed, 19 Aug 2026 17:19:51 GMT",
+      "url": "https://www.publico.pt/2026/08/19/politica/noticia/ps-critica-relatorio-enviesado-il-defende-reforma-seguranca-social-2185463",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "c736f347",
+      "id": "fb530955",
       "cat": "tecnologia",
-      "title": "Mergulhador desaparecido enquanto trabalhava em navio",
-      "summary": "A Autoridade Marítima Nacional explica que um mergulhador de 28 anos desapareceu enquanto realizava trabalhos na caixa de mar de um navio mercante. O alerta foi recebido pelas 10h06.",
+      "title": "Portugal é a 26.ª democracia do mundo, mas qualidade está a descer",
+      "summary": "Num mundo cada vez mais autocrático, Portugal tem das democracias “mais robustas”. Mas “já esteve melhor”. Contramobilização à extrema-direita tem sido “eficaz”.",
+      "source": "Público",
+      "date": "Wed, 19 Aug 2026 17:05:23 GMT",
+      "url": "https://www.publico.pt/2026/08/19/politica/noticia/portugal-26-democracia-mundo-qualidade-descer-2185366",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "3b2c4350",
+      "cat": "tecnologia",
+      "title": "Os telemóveis recondicionados estão a ganhar popularidade em Portugal",
+      "summary": "Fomos ver como se transforma um telem&oacute;vel usado num aparelho com as mesmas caracter&iacute;sticas de um novo.",
+      "source": "Público",
+      "date": "Wed, 19 Aug 2026 16:41:09 GMT",
+      "url": "https://www.publico.pt/2026/08/19/video/telemoveis-recondicionados-estao-ganhar-popularidade-portugal-20260819-164624",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "2aaf9a9a",
+      "cat": "tecnologia",
+      "title": "Luanda expulsou mais de 53 mil imigrantes ilegais em 7 meses",
+      "summary": "A maioria dos expulsos é da RDCongo. O comandante-geral da Polícia angolana admite que \"ainda há muito por se fazer\" no combate à imigração ilegal.",
       "source": "Observador",
-      "date": "Wed, 19 Aug 2026 13:03:07 +0100",
-      "url": "https://observador.pt/2026/08/19/mergulhador-desaparecido-enquanto-trabalhava-em-navio-em-setubal/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/20131556/jporfirio-reportagem-lisnave-19-09-01-6-scaled.jpg",
+      "date": "Wed, 19 Aug 2026 18:03:30 +0100",
+      "url": "https://observador.pt/2026/08/19/angola-expulsou-mais-de-53-mil-imigrantes-ilegais-em-sete-meses-muitos-envolvidos-no-garimpo-ilicito-de-diamantes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/18133917/46403559.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "d6e5ce9d",
+      "cat": "tecnologia",
+      "title": "Coimbra reforça equipas do ambiente e limpeza urbana",
+      "summary": "Sete assistentes operacionais já entraram ao serviço. Mais 11 serão recrutados após votação em reunião de câmara prevista para segunda-feira.",
+      "source": "Observador",
+      "date": "Wed, 19 Aug 2026 18:02:58 +0100",
+      "url": "https://observador.pt/2026/08/19/camara-de-coimbra-reforca-equipas-do-ambiente-e-limpeza-urbana-com-18-trabalhadores/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:141/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/19161622/6193036.jpg",
       "score": 0.7
     }
   ]
