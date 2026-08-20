@@ -1,5 +1,5 @@
 {
-  "last_update": "19/08/2026 18:45 UTC",
+  "last_update": "20/08/2026 01:41 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
       "img": "https://www.sciencedaily.com/images/1920/dna-break-replace-assemble-genetic-engineering.webp",
       "score": 0.82
+    },
+    {
+      "id": "3d819b1c",
+      "cat": "tecnologia",
+      "title": "Turistas deixam recorde de 12,9 mil milhões em Portugal até junho",
+      "summary": "Os turistas estrangeiros deixaram nos cofres nacionais um novo valor histórico no primeiro semestre: 12,9 mil milhões de euros. E os gastos dos portugueses nas suas viagens também aumentaram. Enquanto os britânicos lideram por cá, os portugueses escolhem Espanha para deixar dinheiro.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 19 Aug 2026 22:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/turistas-deixam-recorde-de-12-9-mil-milhoes-em-portugal-ate-junho",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-11/img_100x100uu2024-11-05-00-04-32-489077.jpg",
+      "score": 0.79
     },
     {
       "id": "6761c120",
@@ -47,14 +58,14 @@
       "score": 0.79
     },
     {
-      "id": "546bbee5",
+      "id": "3adcca2d",
       "cat": "tecnologia",
-      "title": "Ortega encaixa 218 milhões de euros com investimento na REN",
-      "summary": "Entre o prémio pago na venda da posição e os dividendos que foi recebendo ao longo de cinco anos, o \"family office\" que gere a fortuna do magnata espanhol conseguiu um ganho expressivo com a participação na gestora das redes elétricas portuguesa, a confirmar-se um prémio de 17%.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 19 Aug 2026 16:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/ortega-encaixa-218-milhoes-de-euros-com-investimento-na-ren",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-14-09-08-528469.jpg",
+      "title": "Ormuz e as missões empresariais ao Golfo",
+      "summary": "O prazo de 60 dias acabou de expirar sem acordo, o Irão já mudou de tom, e os prémios de seguro no Golfo continuam elevados independentemente do que acontecer nas próximas semanas.",
+      "source": "Observador",
+      "date": "Thu, 20 Aug 2026 00:11:22 +0100",
+      "url": "https://observador.pt/opiniao/ormuz-e-as-missoes-empresariais-ao-golfo/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A607%3A607%3Anowe%3A68%3A6%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F01%2F26101703%2Fscreenshot-20210125-200344-instagram.jpg",
       "score": 0.76
     },
     {
@@ -80,17 +91,6 @@
       "score": 0.76
     },
     {
-      "id": "8879363a",
-      "cat": "tecnologia",
-      "title": "Peritos avisam que reforma da Segurança Social só é sustentável com “consenso político alargado”",
-      "summary": "O grupo de especialistas que esteve a estudar, no último ano, a sustentabilidade da Segurança Social avisa que uma eventual reforma do sistema de pensões não pode depender de uma &#8220;maioria conjuntural&#8221;, sob a pena de ser &#8220;desfeita ao primeiro ciclo eleitoral&#8221;. O relatório apre",
-      "source": "ECO",
-      "date": "Wed, 19 Aug 2026 15:05:32 +0000",
-      "url": "https://eco.sapo.pt/2026/08/19/peritos-avisam-que-reforma-da-seguranca-social-so-e-sustentavel-com-consenso-politico-alargado/",
-      "img": "https://eco.imgix.net/uploads/2023/06/cropped-jorge-bravo03.jpg",
-      "score": 0.76
-    },
-    {
       "id": "1093e5e7",
       "cat": "tecnologia",
       "title": "Zion se torna o primeiro parque nacional a receber cadeiras de rodas todo-o-terreno para uso público",
@@ -104,8 +104,8 @@
     {
       "id": "49798013",
       "cat": "tecnologia",
-      "title": "Como estabelecer conexões humanas significativas – de acordo com você",
-      "summary": "Perguntamos: como criar conexões humanas significativas em um mundo agitado e desconectado? Isso é o que você disse O post Como criar conexões humanas significativas – segundo você apareceu pela primeira vez no Positive News.",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Positive News",
       "date": "Wed, 19 Aug 2026 07:00:30 +0000",
       "url": "https://www.positive.news/society/how-do-you-forge-meaningful-human-connections/",
@@ -121,6 +121,17 @@
       "date": "Tue, 18 Aug 2026 08:00:38 +0000",
       "url": "https://www.positive.news/environment/can-festivals-leave-the-land-better-than-they-found-it/",
       "img": "https://www.positive.news/wp-content/uploads/2026/08/aranxa-esteve-pOXHU0UEDcg-unsplash.jpeg",
+      "score": 0.76
+    },
+    {
+      "id": "4163289c",
+      "cat": "saude",
+      "title": "Avanço da vacina impede o retorno do câncer em estudo",
+      "summary": "Uma nova injeção estendeu o período de tempo que os pacientes ficaram livres do câncer, mas não está claro por quanto tempo.",
+      "source": "BBC News",
+      "date": "Wed, 19 Aug 2026 19:00:48 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed5d/live/40f76380-9bfa-11f1-bbc9-198f60b94eaf.jpg",
       "score": 0.76
     },
     {
@@ -160,7 +171,7 @@
       "id": "d1b7b8fd",
       "cat": "ciencia",
       "title": "Ondas misteriosas que varrem seu cérebro podem ajudar a transformar o caos sensorial no que você vê",
-      "summary": "As ondas elétricas que percorrem o cérebro podem ajudar a determinar o que notamos, prever o que vem a seguir e construir a nossa imagem interna do mundo. Os pesquisadores agora argumentam que essas ondas não são apenas atividades de fundo – elas poderiam ser um mecanismo computacional central por trás da percepção e da memória.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "ScienceDaily",
       "date": "Tue, 18 Aug 2026 12:40:57 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
@@ -179,36 +190,47 @@
       "score": 0.76
     },
     {
-      "id": "263438b0",
+      "id": "ed30ed1d",
       "cat": "tecnologia",
-      "title": "17h. Mais de 1200 operacionais combatem 3 grandes incêndios",
-      "summary": "O fogo de Arouca mobiliza o maior dispositivo de combate às chamas. Ainda, dezenas de casos sociais estão a bloquear capacidade de internamento no Hospital São José.",
+      "title": "Mornas, cocktails e outras frescuras",
+      "summary": "",
+      "source": "Público",
+      "date": "Wed, 19 Aug 2026 20:53:01 GMT",
+      "url": "https://www.publico.pt/2026/08/19/newsletter/relaxar",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "b710938c",
+      "cat": "tecnologia",
+      "title": "Açores. 414 alunos pediram reapreciação da 1.ª fase",
+      "summary": "Governo Regional diz que acompanhou o processo \"desde o primeiro momento\" e assegura que os constrangimentos não comprometeram o arranque do ano letivo 2026/2027.",
       "source": "Observador",
-      "date": "Wed, 19 Aug 2026 18:14:15 +0100",
-      "url": "https://observador.pt/programas/noticiario/17h-mais-de-1200-operacionais-combatem-3-grandes-incendios/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Thu, 20 Aug 2026 00:22:19 +0100",
+      "url": "https://observador.pt/2026/08/20/exames-414-alunos-dos-acores-apresentaram-pedidos-de-reapreciacao-da-1-a-fase/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19190124/47482493.jpg",
       "score": 0.73
     },
     {
-      "id": "5f8d3674",
-      "cat": "tecnologia",
-      "title": "EUA duplicam recompra de obrigações mas analistas veem juros acima de 5% ainda este ano",
-      "summary": "O Departamento do Tesouro anunciou que vai, no mínimo, duplicar o volume das recompras de obrigações de longo prazo, mas analistas acreditam que isso não será suficiente para manter a taxa de juro abaixo dos 5%.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 19 Aug 2026 19:01:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/eua-duplicam-recompra-de-obrigacoes-mas-analistas-veem-juros-acima-de-5-ainda-este-ano",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-13-07-19-56-523505.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "febe6e20",
+      "id": "3c2b7f3b",
       "cat": "economia",
-      "title": "Dazn fecha compra da empresa de streaming ViewLift e faz parceria com a LiveModeTV",
-      "summary": "A operação foi anunciada em abril e concluída esta quarta-feira. A aquisição representa um reforço da empresa no mercado desportivo norte-americano e terá custado cerca de 100 milhões de dólares.",
+      "title": "Dívida pública dos EUA supera pela primeira vez os 40 biliões de dólares",
+      "summary": "O marco foi alcançado apenas cinco meses depois de o montante ter excedido os 39 biliões, mostrando que o ritmo de crescimento da dívida se acelerou recentemente.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 19 Aug 2026 14:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/media/detalhe/dazn-conclui-compra-da-empresa-de-streaming-viewlift-e-reforca-presenca-nos-eua",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-12-51-59-528466.jpg",
+      "date": "Wed, 19 Aug 2026 22:49:06 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/divida-publica-dos-eua-supera-pela-primeira-vez-os-40-bilioes-de-dolares",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-22-47-45-528481.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d16d5988",
+      "cat": "tecnologia",
+      "title": "Wall Street fecha com ganhos mas chips recuam. Moderna dispara 177%",
+      "summary": "As bolsas norte-americanas beneficiaram de um anúncio do Tesouro dos EUA, que admitiu duplicar, no mínimo, as recompras de obrigações a longo prazo. Moderna foi a grande protagonista da sessão, aumentando cerca de 177%.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 19 Aug 2026 21:37:38 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-fecha-com-ganhos-mas-chips-recuam-moderna-dispara-177",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-28-15-01-47-517482.jpg",
       "score": 0.73
     },
     {
@@ -223,36 +245,36 @@
       "score": 0.73
     },
     {
-      "id": "95bed074",
-      "cat": "tecnologia",
-      "title": "Supertaças de futsal em 05 de setembro em Vila do Conde",
-      "summary": "São duas Supertaças de futsal no mesmo dia. A Supertaça feminina, em Vila do Conde, pelas 16h30, entre o Benfica, campeão nacional, e GCR Nun&#039;Álvares, e depois por volta das 21h00 a Supertaça masculina entre rivais lisboetas (Benfica e Sporting).",
+      "id": "5eefaabc",
+      "cat": "desporto",
+      "title": "FC Barcelona conquista Joan Gamper ao bater Al Ahly no fecho da pré-temporada",
+      "summary": "O FC Barcelona conquistou hoje a 61.ª edição do Troféu Joan Gamper, no último jogo da pré-temporada, ao vencer os egípcios do Al Ahly por 2-1, num jogo em que Rodri foi apresentado em Nou Camp.",
       "source": "RTP",
-      "date": "Wed, 19 Aug 2026 18:13:19 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/supertacas-de-futsal-em-05-de-setembro-em-vila-do-conde_d1760402",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3bcc7e24740d65d0186f50b4a88f1142?w=350&amp;q=50&amp;rect=0,289,4940,2708&amp;auto=format",
+      "date": "Wed, 19 Aug 2026 22:43:17 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/fc-barcelona-conquista-joan-gamper-ao-bater-al-ahly-no-fecho-da-pre-temporada_d1760466",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/56/569eea66499d07dab98f6b4acdccba31?w=350&amp;q=50&amp;rect=0,120,4931,2703&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "5d1b13a5",
-      "cat": "economia",
-      "title": "DAZN conclui compra da norte-americana ViewLift e faz parceria com LiveModeTV",
-      "summary": "A DAZN concluiu a aquisição da norte-americana ViewLift, especializada em soluções de ‘streaming’ para ligas, equipas e detentores de direitos, reforçando a estratégia de expansão do grupo no mercado desportivo dos Estados Unidos, anunciou hoje a empresa.",
+      "id": "11fa79d2",
+      "cat": "tecnologia",
+      "title": "Avançado internacional português Nelson Oliveira assina pelo Farense",
+      "summary": "O avançado internacional português Nelson Oliveira, que estava livre após ter terminado contrato com o Vitória de Guimarães, assinou pelo Farense, revelou hoje o clube da II Liga de futebol.",
       "source": "RTP",
-      "date": "Wed, 19 Aug 2026 18:03:51 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/dazn-conclui-compra-da-norte-americana-viewlift-e-faz-parceria-com-livemodetv_d1760400",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/79/79c16f2c5cb9b8864caa203a3d68e7ba?w=350&amp;q=50&amp;rect=0,438,5238,2872&amp;auto=format",
+      "date": "Wed, 19 Aug 2026 22:23:12 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/avancado-internacional-portugues-nelson-oliveira-assina-pelo-farense_d1760458",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "84664161",
+      "id": "77703eba",
       "cat": "tecnologia",
-      "title": "Incêndio florestal na Bélgica duplica de tamanho no terceiro dia, devastando reserva natural",
-      "summary": "Centenas de bombeiros tentam conter as chamas que consomem o grande parque.",
-      "source": "BBC News",
-      "date": "Sun, 16 Aug 2026 20:01:51 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/7c724440-999b-11f1-b2ab-0dd01740f9f6.jpg",
+      "title": "Morreu Ruy de Carvalho, presidente honorário das seguradoras em Portugal",
+      "summary": "Morreu Ruy Octávio Matos de Carvalho, uma das figuras fundadoras e mais importantes do setor segurador português moderno, aos 94 anos. Foi o primeiro presidente da Associação Portuguesa de Seguros (APS), que mais tarde viria a adotar a designação de Associação Portuguesa de Seguradores, permanecendo",
+      "source": "ECO",
+      "date": "Wed, 19 Aug 2026 20:04:06 +0000",
+      "url": "https://eco.sapo.pt/2026/08/19/morreu-ruy-de-carvalho-presidente-honorario-das-seguradoras-em-portugal/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-ruy-de-carvalho-aps-1.png",
       "score": 0.73
     },
     {
@@ -278,58 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "f94c0384",
+      "id": "a5ae39a9",
       "cat": "tecnologia",
-      "title": "PS critica “relatório enviesado”, IL defende reforma da Segurança Social",
-      "summary": "Liberais sustentam que o relatório confirma a necessidade de uma reforma. PS, Livre, PCP e BE contestam principais conclusões do estudo.",
+      "title": "Evangelhos e imigração segundo Graça Castanheira",
+      "summary": "A versão infantil de esquerda do cristianismo é achar que se pode simplesmente traduzir as propostas evangélicas em leis seculares. Opinião de João Miguel Tavares",
       "source": "Público",
-      "date": "Wed, 19 Aug 2026 17:19:51 GMT",
-      "url": "https://www.publico.pt/2026/08/19/politica/noticia/ps-critica-relatorio-enviesado-il-defende-reforma-seguranca-social-2185463",
+      "date": "Wed, 19 Aug 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/08/20/opiniao/opiniao/evangelhos-imigracao-segundo-graca-castanheira-2185487",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "fb530955",
-      "cat": "tecnologia",
-      "title": "Portugal é a 26.ª democracia do mundo, mas qualidade está a descer",
-      "summary": "Num mundo cada vez mais autocrático, Portugal tem das democracias “mais robustas”. Mas “já esteve melhor”. Contramobilização à extrema-direita tem sido “eficaz”.",
+      "id": "ddf3152b",
+      "cat": "cultura",
+      "title": "A imperdoável heresia",
+      "summary": "Na verdade, a nossa experiência das obras de arte — e da vida em geral — depende muito da sequência de que faz parte. Crónica de Miguel Esteves Cardoso",
       "source": "Público",
-      "date": "Wed, 19 Aug 2026 17:05:23 GMT",
-      "url": "https://www.publico.pt/2026/08/19/politica/noticia/portugal-26-democracia-mundo-qualidade-descer-2185366",
+      "date": "Wed, 19 Aug 2026 23:04:00 GMT",
+      "url": "https://www.publico.pt/2026/08/20/opiniao/cronica/imperdoavel-heresia-2185479",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "3b2c4350",
+      "id": "57b3f96c",
       "cat": "tecnologia",
-      "title": "Os telemóveis recondicionados estão a ganhar popularidade em Portugal",
-      "summary": "Fomos ver como se transforma um telem&oacute;vel usado num aparelho com as mesmas caracter&iacute;sticas de um novo.",
-      "source": "Público",
-      "date": "Wed, 19 Aug 2026 16:41:09 GMT",
-      "url": "https://www.publico.pt/2026/08/19/video/telemoveis-recondicionados-estao-ganhar-popularidade-portugal-20260819-164624",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "2aaf9a9a",
-      "cat": "tecnologia",
-      "title": "Luanda expulsou mais de 53 mil imigrantes ilegais em 7 meses",
-      "summary": "A maioria dos expulsos é da RDCongo. O comandante-geral da Polícia angolana admite que \"ainda há muito por se fazer\" no combate à imigração ilegal.",
+      "title": "As notícias da 1h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Wed, 19 Aug 2026 18:03:30 +0100",
-      "url": "https://observador.pt/2026/08/19/angola-expulsou-mais-de-53-mil-imigrantes-ilegais-em-sete-meses-muitos-envolvidos-no-garimpo-ilicito-de-diamantes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/18133917/46403559.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "d6e5ce9d",
-      "cat": "tecnologia",
-      "title": "Coimbra reforça equipas do ambiente e limpeza urbana",
-      "summary": "Sete assistentes operacionais já entraram ao serviço. Mais 11 serão recrutados após votação em reunião de câmara prevista para segunda-feira.",
-      "source": "Observador",
-      "date": "Wed, 19 Aug 2026 18:02:58 +0100",
-      "url": "https://observador.pt/2026/08/19/camara-de-coimbra-reforca-equipas-do-ambiente-e-limpeza-urbana-com-18-trabalhadores/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:141/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/19161622/6193036.jpg",
+      "date": "Thu, 20 Aug 2026 01:12:41 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2358/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
