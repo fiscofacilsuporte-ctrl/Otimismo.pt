@@ -1,5 +1,5 @@
 {
-  "last_update": "20/08/2026 01:41 UTC",
+  "last_update": "20/08/2026 06:57 UTC",
   "total": 30,
   "news": [
     {
@@ -58,36 +58,14 @@
       "score": 0.79
     },
     {
-      "id": "3adcca2d",
+      "id": "27610ae6",
       "cat": "tecnologia",
-      "title": "Ormuz e as missões empresariais ao Golfo",
-      "summary": "O prazo de 60 dias acabou de expirar sem acordo, o Irão já mudou de tom, e os prémios de seguro no Golfo continuam elevados independentemente do que acontecer nas próximas semanas.",
-      "source": "Observador",
-      "date": "Thu, 20 Aug 2026 00:11:22 +0100",
-      "url": "https://observador.pt/opiniao/ormuz-e-as-missoes-empresariais-ao-golfo/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A607%3A607%3Anowe%3A68%3A6%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F01%2F26101703%2Fscreenshot-20210125-200344-instagram.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "6178f7b6",
-      "cat": "economia",
-      "title": "Excedente externo da economia reduz-se para 0,8% do PIB no primeiro semestre",
-      "summary": "O excedente externo da economia portuguesa encolheu para 0,8% do Produto Interno Bruto (PIB) no primeiro semestre, quando em igual período do ano passado tinha alcançado cerca de 1,5%, de acordo com os dados divulgados esta quarta-feira pelo Banco de Portugal. Segundo o regulador, a economia portugu",
+      "title": "Shortlist: Vindimar na Casa Relvas, perfumes inspirados em cocktails e um leilão de filme",
+      "summary": "A Shortlist desta semana começa na Herdade de São Miguel, onde a Casa Relvas convida a participar na vindima, deita-se no tapete de Pilates Dior, espreita as últimas novidades de Marques&#8217; Almeida e os novos perfumes Kilian Paris. Depois, lança-se à descoberta de um histórico restaurante parisi",
       "source": "ECO",
-      "date": "Wed, 19 Aug 2026 17:13:11 +0000",
-      "url": "https://eco.sapo.pt/2026/08/19/excedente-externo-da-economia-reduz-se-para-08-do-pib-no-primeiro-semestre/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc2019090927003209mac-090919-8865-1.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "0436ad3b",
-      "cat": "tecnologia",
-      "title": "Full Venue é agora Clustie, com ambição de chegar aos 500 clientes nos próximos 12 meses",
-      "summary": "A startup tecnológica portuguesa Full Venue é agora Clustie, resultado de um rebranding que acontece meses após o lançamento da atual plataforma do qual &#8216;empresta&#8217; o nome. A mudança, desenvolvida internamente, procura traduzir a evolução da atividade da empresa, que inicialmente se focav",
-      "source": "ECO",
-      "date": "Wed, 19 Aug 2026 16:57:23 +0000",
-      "url": "https://eco.sapo.pt/2026/08/19/full-venue-e-agora-clustie-com-ambicao-de-chegar-aos-500-clientes-nos-proximos-12-meses/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-img-6872-scaled-1.jpg",
+      "date": "Thu, 20 Aug 2026 06:06:42 +0000",
+      "url": "https://eco.sapo.pt/2026/08/20/shortlist-vindimar-na-casa-relvas-perfumes-inspirados-em-cocktails-e-um-leilao-de-filme/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-cocktail-bottom-banner-desk-low-scaled-1.webp",
       "score": 0.76
     },
     {
@@ -104,8 +82,8 @@
     {
       "id": "49798013",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Como estabelecer conexões humanas significativas – de acordo com você",
+      "summary": "Perguntamos: como criar conexões humanas significativas em um mundo agitado e desconectado? Isso é o que você disse O post Como criar conexões humanas significativas – segundo você apareceu pela primeira vez no Positive News.",
       "source": "Positive News",
       "date": "Wed, 19 Aug 2026 07:00:30 +0000",
       "url": "https://www.positive.news/society/how-do-you-forge-meaningful-human-connections/",
@@ -168,17 +146,6 @@
       "score": 0.76
     },
     {
-      "id": "d1b7b8fd",
-      "cat": "ciencia",
-      "title": "Ondas misteriosas que varrem seu cérebro podem ajudar a transformar o caos sensorial no que você vê",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "ScienceDaily",
-      "date": "Tue, 18 Aug 2026 12:40:57 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260816044827.htm",
-      "img": "https://www.sciencedaily.com/images/1920/brain-waves-sensory-perception.webp",
-      "score": 0.76
-    },
-    {
       "id": "1fd68937",
       "cat": "ambiente",
       "title": "The Spark: como os vizinhos estão se unindo para se tornarem mais ecológicos",
@@ -190,47 +157,58 @@
       "score": 0.76
     },
     {
-      "id": "ed30ed1d",
+      "id": "cce93797",
       "cat": "tecnologia",
-      "title": "Mornas, cocktails e outras frescuras",
-      "summary": "",
+      "title": "Benfica e Sp. Braga prontos para saltar a terceira barreira",
+      "summary": "“Encarnados” recebem o campeão dinamarquês Aarhus no playoff da Liga Europa, minhotos terão a visita do Áustria Viena para a Liga Conferência.",
       "source": "Público",
-      "date": "Wed, 19 Aug 2026 20:53:01 GMT",
-      "url": "https://www.publico.pt/2026/08/19/newsletter/relaxar",
+      "date": "Thu, 20 Aug 2026 06:09:00 GMT",
+      "url": "https://www.publico.pt/2026/08/20/desporto/noticia/benfica-sp-braga-prontos-saltar-terceira-barreira-2185513",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "b710938c",
+      "id": "14cfee20",
       "cat": "tecnologia",
-      "title": "Açores. 414 alunos pediram reapreciação da 1.ª fase",
-      "summary": "Governo Regional diz que acompanhou o processo \"desde o primeiro momento\" e assegura que os constrangimentos não comprometeram o arranque do ano letivo 2026/2027.",
+      "title": "Governo altera regras de acesso a medicamentos gratuitos para travar “fenómenos de desperdício”",
+      "summary": "Comparticipação a 100% mantém-se, mas impõe limites de preços, para evitar que pessoas optem por solução mais cara quando existem outras mais baratas.",
+      "source": "Público",
+      "date": "Thu, 20 Aug 2026 06:00:00 GMT",
+      "url": "https://www.publico.pt/2026/08/20/sociedade/noticia/governo-altera-regras-acesso-medicamentos-gratuitos-travar-fenomenos-desperdicio-2185416",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "a0040e40",
+      "cat": "tecnologia",
+      "title": "Sp. Braga recebe Áustria Viena depois de semana difícil",
+      "summary": "Os arsenalistas procuram encaminhar o apuramento para a fase de liga da Liga Conferência, depois do duelo com o Dinamo Minsk e um surto de infeções gastrointestinais que afetaram plantel e \"staff\".",
       "source": "Observador",
-      "date": "Thu, 20 Aug 2026 00:22:19 +0100",
-      "url": "https://observador.pt/2026/08/20/exames-414-alunos-dos-acores-apresentaram-pedidos-de-reapreciacao-da-1-a-fase/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/19190124/47482493.jpg",
+      "date": "Thu, 20 Aug 2026 07:18:29 +0100",
+      "url": "https://observador.pt/2026/08/20/liga-conferencia-sporting-de-braga-recebe-austria-viena-apos-semana-dificil-no-plantel/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/20054049/47633363.jpg",
       "score": 0.73
     },
     {
-      "id": "3c2b7f3b",
-      "cat": "economia",
-      "title": "Dívida pública dos EUA supera pela primeira vez os 40 biliões de dólares",
-      "summary": "O marco foi alcançado apenas cinco meses depois de o montante ter excedido os 39 biliões, mostrando que o ritmo de crescimento da dívida se acelerou recentemente.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 19 Aug 2026 22:49:06 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/divida-publica-dos-eua-supera-pela-primeira-vez-os-40-bilioes-de-dolares",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-22-47-45-528481.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "d16d5988",
+      "id": "6f656449",
       "cat": "tecnologia",
-      "title": "Wall Street fecha com ganhos mas chips recuam. Moderna dispara 177%",
-      "summary": "As bolsas norte-americanas beneficiaram de um anúncio do Tesouro dos EUA, que admitiu duplicar, no mínimo, as recompras de obrigações a longo prazo. Moderna foi a grande protagonista da sessão, aumentando cerca de 177%.",
+      "title": "Prémio elevado pela REN só com regalias ou sem alternativa",
+      "summary": "O valor final da compra de uma participação minoritária na empresa à Pontegadea ainda não está fechado e será calculado com base numa janela temporal. A compensação aos espanhóis está a ser recebida com surpresa dada a falta de controlo ou direitos específicos na aquisição de 13,7% do capital. A fal",
       "source": "Jornal de Negócios",
-      "date": "Wed, 19 Aug 2026 21:37:38 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-fecha-com-ganhos-mas-chips-recuam-moderna-dispara-177",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-28-15-01-47-517482.jpg",
+      "date": "Thu, 20 Aug 2026 07:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/premio-elevado-pela-ren-so-com-regalias-ou-sem-alternativa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-17-05-44-528470.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "20ba9da0",
+      "cat": "tecnologia",
+      "title": "Regulador exige à Transtejo dados mensais sobre atrasos e supressões",
+      "summary": "Na sequência da “crescente receção de reclamações”, o regulador dos transportes levou a cabo uma ação de supervisão aos atrasos e supressões na operadora fluvial, tendo determinado novas medidas para a melhoria do serviço.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 20 Aug 2026 07:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/regulador-exige-a-transtejo-dados-mensais-sobre-atrasos-e-supressoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2012-08/img_100x100uu2012-08-01-11-30-44-92388.jpg",
       "score": 0.73
     },
     {
@@ -267,6 +245,17 @@
       "score": 0.73
     },
     {
+      "id": "8eb998cb",
+      "cat": "tecnologia",
+      "title": "“O setor petrolífero tem mostrado uma resiliência que muitos não antecipavam há alguns anos”",
+      "summary": "O sócio internacional de Corporate M&#38;A da PLMJ, Rúben Brigolas, considera que o mercado de M&#38;A esteve ativo no primeiro semestre, não em termos de um aumento de transações, mas antes pela “maior capacidade para executar operações que já vinham a ser trabalhadas há algum tempo”. Revelou que a",
+      "source": "ECO",
+      "date": "Thu, 20 Aug 2026 06:06:24 +0000",
+      "url": "https://eco.sapo.pt/entrevista/o-setor-petrolifero-tem-mostrado-uma-resiliencia-que-muitos-nao-antecipavam-ha-alguns-anos/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-ruben-brigolas03.jpg",
+      "score": 0.73
+    },
+    {
       "id": "77703eba",
       "cat": "tecnologia",
       "title": "Morreu Ruy de Carvalho, presidente honorário das seguradoras em Portugal",
@@ -275,6 +264,17 @@
       "date": "Wed, 19 Aug 2026 20:04:06 +0000",
       "url": "https://eco.sapo.pt/2026/08/19/morreu-ruy-de-carvalho-presidente-honorario-das-seguradoras-em-portugal/",
       "img": "https://eco.imgix.net/uploads/2026/08/cropped-ruy-de-carvalho-aps-1.png",
+      "score": 0.73
+    },
+    {
+      "id": "be4cda6f",
+      "cat": "tecnologia",
+      "title": "O pólen tem um problema surpreendente – e as abelhas encontraram uma maneira de contornar isso",
+      "summary": "Aparentemente, as abelhas conseguem detectar quando a sua alimentação tem o equilíbrio errado de nutrientes essenciais e ajustar a quantidade que comem para evitar excessos potencialmente prejudiciais. Eles também transformam o pólen em “comida para bebês” extraordinariamente bem balanceada para suas larvas, revelando uma estratégia nutricional sofisticada escondida.",
+      "source": "ScienceDaily",
+      "date": "Wed, 19 Aug 2026 07:25:45 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
+      "img": "https://www.sciencedaily.com/images/1920/honey-bee-pollen-flower.webp",
       "score": 0.73
     },
     {
@@ -300,36 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "a5ae39a9",
-      "cat": "tecnologia",
-      "title": "Evangelhos e imigração segundo Graça Castanheira",
-      "summary": "A versão infantil de esquerda do cristianismo é achar que se pode simplesmente traduzir as propostas evangélicas em leis seculares. Opinião de João Miguel Tavares",
+      "id": "8445d263",
+      "cat": "ambiente",
+      "title": "Comprovada hipótese de Charles Darwin sobre plantas carnívoras",
+      "summary": "Observações de campo e amostras de plantas permitiram que um grupo particular de plantas com flor, característico de ambientes montanhosos, pode ser carnívoro.",
       "source": "Público",
-      "date": "Wed, 19 Aug 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/08/20/opiniao/opiniao/evangelhos-imigracao-segundo-graca-castanheira-2185487",
+      "date": "Thu, 20 Aug 2026 06:22:00 GMT",
+      "url": "https://www.publico.pt/2026/08/20/ciencia/noticia/comprovada-hipotese-charles-darwin-plantas-carnivoras-2184086",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "ddf3152b",
-      "cat": "cultura",
-      "title": "A imperdoável heresia",
-      "summary": "Na verdade, a nossa experiência das obras de arte — e da vida em geral — depende muito da sequência de que faz parte. Crónica de Miguel Esteves Cardoso",
-      "source": "Público",
-      "date": "Wed, 19 Aug 2026 23:04:00 GMT",
-      "url": "https://www.publico.pt/2026/08/20/opiniao/cronica/imperdoavel-heresia-2185479",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "57b3f96c",
+      "id": "784552cc",
       "cat": "tecnologia",
-      "title": "As notícias da 1h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Pensões baixas, muitas despesas e uma casa. Que soluções?",
+      "summary": "O grupo de trabalho que estudou a Segurança Social apresentou um conjunto de propostas para ajudar os idosos que têm pensões baixas, mas são proprietários da sua própria casa.",
       "source": "Observador",
-      "date": "Thu, 20 Aug 2026 01:12:41 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2358/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Thu, 20 Aug 2026 07:29:02 +0100",
+      "url": "https://observador.pt/programas/boa-moeda-ma-moeda/pensoes-baixas-muitas-despesas-e-uma-casa-que-solucoes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "70455fc1",
+      "cat": "tecnologia",
+      "title": "Israel. Reino Unido e Alemanha querem suspensão de colonatos",
+      "summary": "A construção de colonatos em Jerusalém \"atravessaria o coração da Palestina e corre o risco de separar a Cisjordânia de Jerusalém Oriental\", segundo o chefe da diplomacia britânica, Ed Miliband.",
+      "source": "Observador",
+      "date": "Thu, 20 Aug 2026 07:24:21 +0100",
+      "url": "https://observador.pt/2026/08/20/reino-unido-e-alemanha-querem-que-israel-suspenda-colonatos-a-leste-de-jerusalem/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/20051347/17721491.jpg",
       "score": 0.7
     }
   ]
