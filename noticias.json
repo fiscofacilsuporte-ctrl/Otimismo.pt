@@ -1,7 +1,29 @@
 {
-  "last_update": "21/08/2026 06:58 UTC",
+  "last_update": "21/08/2026 13:01 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "78c30ac6",
+      "cat": "tecnologia",
+      "title": "Indústria impulsiona melhoria inesperada da atividade na Zona Euro em agosto",
+      "summary": "Índice que mede a atividade privada nos países da moeda única teve, em agosto, o ritmo de crescimento mais robusto desde novembro do ano passado, reforçando o perfil de recuperação dos últimos três meses.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 21 Aug 2026 11:20:05 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/industria-impulsiona-melhoria-inesperada-da-atividade-na-zona-euro-em-agosto",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-07-12-17-56-521650.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "6fd747f3",
+      "cat": "tecnologia",
+      "title": "Boas novas na história, 21 de Agosto",
+      "summary": "Feliz 40º aniversário para o homem mais rápido do mundo, Usain Bolt. O velocista superstar jamaicano que se aposentou em 2017 é recordista mundial nos 100 metros, 200m e revezamento 4 × 100m. RE-VIVA a carreira de Bolt abaixo... (1986) Ao conquistar sua nona medalha de ouro olímpica no Rio, afastando-se do",
+      "source": "Good News Network",
+      "date": "Fri, 21 Aug 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060821/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/08/Usain-Bolt-in-the-final-of-the-100-meters-in-Berlin-2009-Erik-van-Leeuwen-NFDL.jpg",
+      "score": 0.79
+    },
     {
       "id": "72705605",
       "cat": "saude",
@@ -10,7 +32,7 @@
       "source": "Positive News",
       "date": "Fri, 21 Aug 2026 05:00:44 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/",
-      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/08/iStock-2216119317.jpg",
+      "img": "https://www.positive.news/wp-content/uploads/2026/08/iStock-2216119317.jpg",
       "score": 0.79
     },
     {
@@ -25,47 +47,25 @@
       "score": 0.79
     },
     {
-      "id": "fc22a6bc",
-      "cat": "saude",
-      "title": "A cura para o cancro está nas vacinas?",
-      "summary": "Há resultados promissores num estudo com vacinas para combater o melanoma, o mais agressivo cancro da pele. Será este o caminho para a cura? Recebemos os investigadores Bruno Sarmento e Paula Videira.",
-      "source": "Observador",
-      "date": "Fri, 21 Aug 2026 05:03:41 +0100",
-      "url": "https://observador.pt/programas/a-hist-ria-do-dia/a-cura-para-o-cancro-esta-nas-vacinas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/28180608/770-podcast-a-historia-do-dia-com-miguel-cordeiro.jpg",
-      "score": 0.76
+      "id": "d62230cc",
+      "cat": "cultura",
+      "title": "Fóssil de criatura marinha “um em um milhão” preserva tecidos moles por 450 milhões de anos",
+      "summary": "Os cientistas identificaram tecidos moles excepcionalmente raros preservados num fóssil crinóide com 450 milhões de anos, mais de 200 milhões de anos mais velho que os primeiros dinossauros. Seus delicados pés tubulares oferecem uma nova e notável janela sobre como alguns dos primeiros animais de recife da Terra viveram, se alimentaram e evoluíram.",
+      "source": "ScienceDaily",
+      "date": "Thu, 20 Aug 2026 21:12:03 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002450.htm",
+      "img": "https://www.sciencedaily.com/images/1920/crinoid-soft-tissue-fossil.webp",
+      "score": 0.79
     },
     {
-      "id": "1e44c45c",
+      "id": "b780bf86",
       "cat": "tecnologia",
-      "title": "A erosão persistente do capital público em Portugal",
-      "summary": "O investimento público é um componente especial da despesa do Estado: cria ativos duradouros que sustentam a prestação de serviços públicos. Ao contrário de outros tipos de despesas, como a aquisição de bens e serviços correntes ou as transferências sociais, cujos benefícios se materializam sobretud",
+      "title": "SIFIDE via fundos acaba, mas dinheiro já investido ganha mais tempo para chegar às empresas. Saiba o que muda",
+      "summary": "Entra em vigor este sábado o fim do SIFIDE II através de fundos de investimento. O regime geral do incentivo à investigação e desenvolvimento (I&#38;D) é, contudo, prolongado até ao final de 2026 e o dinheiro que já foi colocado nos Fundos SIFIDE ganha mais tempo para ser aplicado. O decreto-Lei n.º",
       "source": "ECO",
-      "date": "Fri, 21 Aug 2026 06:11:46 +0000",
-      "url": "https://eco.sapo.pt/especiais/a-erosao-persistente-do-capital-publico-em-portugal/",
-      "img": "https://eco.imgix.net/uploads/2025/01/cropped-17401875-scaled-1.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "1093e5e7",
-      "cat": "tecnologia",
-      "title": "Zion se torna o primeiro parque nacional a receber cadeiras de rodas todo-o-terreno para uso público",
-      "summary": "O mundialmente famoso Parque Nacional de Zion tornou-se o primeiro a oferecer uma cadeira de rodas todo-o-terreno para visitantes com deficiência que desejam desfrutar das trilhas do sistema de cânions. O equipamento foi disponibilizado graças a uma instituição de caridade sem fins lucrativos que utilizou recursos doados para comprar a cadeira de rodas em nome de Z",
-      "source": "Good News Network",
-      "date": "Wed, 19 Aug 2026 11:00:47 +0000",
-      "url": "https://www.goodnewsnetwork.org/zion-becomes-first-national-park-to-get-all-terrain-wheelchair-for-public-use/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/credit-Zion-National-Park.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "da988b88",
-      "cat": "ciencia",
-      "title": "Boston pretende enfrentar riscos de enchentes em 100 anos com US$ 10 bilhões em projetos de infraestrutura",
-      "summary": "Esperando-se que o nível do mar aumente de 25 a 45 centímetros nos próximos 25 anos, a cidade de Boston e o Corpo de Engenheiros do Exército dos EUA divulgaram um estudo de viabilidade para 20 projetos de infraestrutura separados para proteger o litoral da cidade histórica. O estudo estima que se nada for feito, os custos",
-      "source": "Good News Network",
-      "date": "Tue, 18 Aug 2026 18:30:48 +0000",
-      "url": "https://www.goodnewsnetwork.org/boston-aims-to-tackle-100-year-flood-risks-with-10-billion-in-infrastructure-projects/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/A-panorama-of-Boston-credit-Rokker-CC-3.0-e1787050151382.jpg",
+      "date": "Fri, 21 Aug 2026 10:27:34 +0000",
+      "url": "https://eco.sapo.pt/2026/08/21/sifide-via-fundos-acaba-mas-dinheiro-ja-investido-ganha-mais-tempo-para-chegar-as-empresas-saiba-o-que-muda/",
+      "img": "https://eco.imgix.net/uploads/2018/12/cropped-ministerio_financcca7as01-3.jpg",
       "score": 0.76
     },
     {
@@ -113,6 +113,17 @@
       "score": 0.76
     },
     {
+      "id": "13e8ae29",
+      "cat": "tecnologia",
+      "title": "Um mega-penhasco perdido pode explicar os bilhões de anos perdidos do Grand Canyon",
+      "summary": "Um colossal sistema de penhascos criado quando o supercontinente Rodinia se desintegrou pode ter exposto o coração do Grand Canyon quase um bilhão de anos antes de o Rio Colorado o esculpir. A paisagem antiga também poderia ajudar a explicar por que enormes seções do registro geológico da América do Norte parecem estar",
+      "source": "ScienceDaily",
+      "date": "Thu, 20 Aug 2026 23:43:10 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202828.htm",
+      "img": "https://www.sciencedaily.com/images/1920/great-escarpment-of-laurentia.webp",
+      "score": 0.76
+    },
+    {
       "id": "45471dfc",
       "cat": "tecnologia",
       "title": "Este eclipse solar total parecia estranhamente dourado – eis o porquê",
@@ -121,6 +132,17 @@
       "date": "Thu, 20 Aug 2026 02:59:00 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002432.htm",
       "img": "https://www.sciencedaily.com/images/1920/golden-corona-eclipse.webp",
+      "score": 0.76
+    },
+    {
+      "id": "71287beb",
+      "cat": "tecnologia",
+      "title": "Transformando as antigas minas de carvão da Grã-Bretanha em fontes de energia limpa",
+      "summary": "Na cidade de Gateshead, no nordeste da Inglaterra, a mineração de carvão está no sangue. Até ao golpe de misericórdia final dado pela purga do carvão de Margaret Thatcher na década de 1980, Gateshead explorava as suas escuras costuras subterrâneas já em 1344, quando cavalos de carga transportavam “carvão marinho”... The post Tra",
+      "source": "Reasons to be Cheerful",
+      "date": "Fri, 21 Aug 2026 08:00:31 +0000",
+      "url": "https://reasonstobecheerful.world/mine-water-heat-gateshead/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/DSCF2205.jpg",
       "score": 0.76
     },
     {
@@ -135,58 +157,25 @@
       "score": 0.76
     },
     {
-      "id": "9960ef70",
-      "cat": "tecnologia",
-      "title": "O milagre da multiplicação dos ensaios clínicos em PowerPoint",
-      "summary": "Enquanto a ciência real avança pela carolice de médicos e investigadores, esses, sim, os verdadeiros heróis, a “ciência do PowerPoint” continua a somar vitórias intangíveis. Opinião de João Conde",
-      "source": "Público",
-      "date": "Fri, 21 Aug 2026 05:41:00 GMT",
-      "url": "https://www.publico.pt/2026/08/21/ciencia/opiniao/milagre-multiplicacao-ensaios-clinicos-powerpoint-2181166",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "05458184",
-      "cat": "tecnologia",
-      "title": "O movimento de “mulheres conservadoras” é uma boa notícia",
-      "summary": "É significativo que o Chega queira continuar a associar a sua imagem a este radicalismo ideológico, quando o país já deu todos os sinais a Ventura de que não é por aí que terá o sucesso que deseja. Opinião de Francisco Mendes da Silva",
-      "source": "Público",
-      "date": "Fri, 21 Aug 2026 05:40:00 GMT",
-      "url": "https://www.publico.pt/2026/08/21/opiniao/opiniao/movimento-mulheres-conservadoras-boa-noticia-2185644",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "58f9973c",
-      "cat": "tecnologia",
-      "title": "1h. Israel.MNE condena projeto para construir na Cisjordânia",
-      "summary": "MNE considera que a expansão dos colonatos afasta ainda mais israelitas e palestinianos de uma solução de dois Estados. Ainda, Luís Neves tem conduzido um carro emprestado pela PJ.",
+      "id": "2601f386",
+      "cat": "economia",
+      "title": "Mitsubishi Fuso irá retomar produção no Tramagal em setembro",
+      "summary": "A empresa diz que a produção deverá ser retomada em setembro, com volume menor e ajustes conforme a procura do mercado. Diz ter 400 trabalhadores, sem indicar quantos foram afetados pelo \"lay-off\".",
       "source": "Observador",
-      "date": "Fri, 21 Aug 2026 01:13:28 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2359/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Fri, 21 Aug 2026 12:22:13 +0100",
+      "url": "https://observador.pt/2026/08/21/mitsubishi-fuso-aponta-setembro-para-retoma-da-producao-no-tramagal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/21111033/44330194.jpg",
       "score": 0.73
     },
     {
-      "id": "da60beae",
+      "id": "9ea8960e",
       "cat": "tecnologia",
-      "title": "Google concorda pagar 700 milhões de dólares por práticas anti concorrenciais",
-      "summary": "Os procuradores de 50 estados norte-americanos, Washington D.C., Porto Rico e Ilhas Virgens contestavam o controlo da gigante tecnológica sobre a distribuição de aplicações Android e os pagamentos dentro das aplicações da Google Play.",
+      "title": "\"A Galp prova que [o Estado] ser acionista não influencia o preço\" da energia, diz Óscar Afonso",
+      "summary": "O economista e presidente da Faculdade de Economia e Gestão da Universidade do Porto aponta contradições na estratégia seguida pelo Governo. Sobre a reentrada na REN, questiona se é a melhor utilização possível dos dinheiros públicos. E deixa críticas à criação do fundo soberano.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 21 Aug 2026 00:28:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/google-concorda-pagar-700-milhoes-de-dolares-por-praticas-anti-concorrenciais",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-23-14-51-21-527065.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "d2d47c04",
-      "cat": "tecnologia",
-      "title": "Canadá defende tratado comercial com México enquanto ultima acordo com EUA",
-      "summary": "O acordo bilateral que está a ser fechado entre Washington e Otava vai permitir a redução de algumas das barreiras alfandegárias impostas pelo governo de Donald Trump.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 20 Aug 2026 23:38:11 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/canada-defende-tratado-comercial-com-mexico-enquanto-ultima-acordo-com-eua",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-29-16-02-18-524551.jpg",
+      "date": "Fri, 21 Aug 2026 11:56:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/a-galp-prova-que-o-estado-ser-acionista-nao-influencia-o-preco-da-energia-diz-oscar-afonso",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-21-10-17-09-528578.jpg",
       "score": 0.73
     },
     {
@@ -201,47 +190,25 @@
       "score": 0.73
     },
     {
-      "id": "9d6a4cc8",
-      "cat": "tecnologia",
-      "title": "Anderlecht, de Vítor Bruno, aproxima-se do play-off com vitória sobre Kairat",
-      "summary": "O Anderlecht, treinado pelo português Vítor Bruno, aproximou-se hoje da fase de liga da Liga Europa de futebol, ao vencer fora o Kairat Almaty (3-0), na primeira mão do play-off.",
-      "source": "RTP",
-      "date": "Thu, 20 Aug 2026 21:24:02 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/anderlecht-de-vitor-bruno-aproxima-se-do-play-off-com-vitoria-sobre-kairat_d1760663",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "0ded2eb3",
-      "cat": "tecnologia",
-      "title": "Portugal vence Egito em teste para qualificação para o Mundial de basquetebol",
-      "summary": "A seleção portuguesa de basquetebol venceu hoje o Egito por 91-87, no primeiro de dois particulares que vai realizar em Istambul, na Turquia, de preparação para o arranque da segunda fase de qualificação para o Mundial de 2027.",
-      "source": "RTP",
-      "date": "Thu, 20 Aug 2026 21:13:32 +0100",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-vence-egito-em-teste-para-qualificacao-para-o-mundial-de-basquetebol_d1760662",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/8a/8ac9b14ae8126f09494fcba4ae7c498e?w=350&amp;q=50&amp;rect=13,0,2023,1109&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "dcb26b9b",
+      "id": "f16332a9",
       "cat": "economia",
-      "title": "À espera da nova lei do jogo online, empresas pedem casino ao vivo e melhoria nas licenças",
-      "summary": "A lei das apostas e dos jogos online, como o póquer ou o blackjack, está a caminho de mudanças. Depois de o ministro da Economia ter dito que o Governo iria aprovar “neste verão” uma nova legislação “para atualizar as regras sobre o jogo online”, as empresas do setor entregaram-lhe uma proposta de a",
+      "title": "Governo investe 551 mil euros na modernização dos elevadores do Palácio da Justiça",
+      "summary": "O Ministério da Justiça, através do Instituto de Gestão Financeira e Equipamentos da Justiça, assinou um contrato para a empreitada de modernização e substituição de elevadores do Palácio da Justiça de Lisboa. Em comunicado, avança que o investimento é de 551.800 euros, acrescido de IVA, e que conta",
       "source": "ECO",
-      "date": "Fri, 21 Aug 2026 06:10:49 +0000",
-      "url": "https://eco.sapo.pt/2026/08/21/a-espera-da-nova-lei-do-jogo-online-empresas-pedem-casino-ao-vivo-e-melhoria-nas-licencas/",
-      "img": "https://eco.imgix.net/uploads/2026/01/cropped-casino-online.jpg",
+      "date": "Fri, 21 Aug 2026 11:26:17 +0000",
+      "url": "https://eco.sapo.pt/2026/08/21/governo-investe-551-mil-euros-na-modernizacao-dos-elevadores-do-palacio-da-justica/",
+      "img": "https://eco.imgix.net/uploads/2026/01/cropped-whatsapp-image-2026-01-26-at-115638-1.jpeg",
       "score": 0.73
     },
     {
-      "id": "42e634d7",
-      "cat": "cultura",
-      "title": "Carlos Mota Santos, o sobrinho do “líder histórico” que já não tem “a quem ligar” quando há dúvidas",
-      "summary": "Retrato é uma rubrica do ECO na qual, durante o mês de agosto, é publicado diariamente o perfil de uma personalidade que se distinguiu no último ano, em Portugal O último ano foi uma montanha russa para Carlos Mota Santos. Em 2025, viu a carteira de encomendas da Mota-Engil superar pela primeira vez",
+      "id": "8eb8272e",
+      "cat": "tecnologia",
+      "title": "Carneiro fixa reforma da Segurança Social como linha vermelha para OE2027",
+      "summary": "O secretário-geral do PS, José Luís Carneiro, alertou esta sexta-feira o Governo que se avançar com uma reforma da Segurança Social (SS) passará a linha vermelha que o partido fixou para negociar o Orçamento de Estado (OE) 2027. &#8220;Já disse, já o transmiti ao próprio primeiro-ministro que caso o",
       "source": "ECO",
-      "date": "Fri, 21 Aug 2026 06:10:27 +0000",
-      "url": "https://eco.sapo.pt/especiais/carlos-mota-santos-o-sobrinho-do-lider-historico-que-ja-nao-tem-a-quem-ligar-quando-ha-duvidas/",
-      "img": "https://eco.imgix.net/uploads/2026/07/retratos-carlos-mota-santos-2000x1125-1.jpg",
+      "date": "Fri, 21 Aug 2026 11:24:30 +0000",
+      "url": "https://eco.sapo.pt/2026/08/21/carneiro-fixa-reforma-da-seguranca-social-como-linha-vermelha-para-oe2027/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc20260611472682561106rm18-2.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +223,14 @@
       "score": 0.73
     },
     {
-      "id": "9dde1b70",
+      "id": "c15b5633",
       "cat": "tecnologia",
-      "title": "As conexões cerebrais perdidas na esquizofrenia seguem um padrão surpreendente",
-      "summary": "Exames cerebrais especializados revelam que a esquizofrenia está ligada à perda generalizada das sinapses que conectam as células cerebrais, com o lado esquerdo do cérebro sendo especialmente atingido. O dano segue um padrão surpreendentemente organizado ligado à química e à fiação do cérebro. Os pesquisadores também identificaram um arquivo",
-      "source": "ScienceDaily",
-      "date": "Thu, 20 Aug 2026 07:27:34 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
-      "img": "https://www.sciencedaily.com/images/1920/glitchy-face-distortion.webp",
-      "score": 0.73
-    },
-    {
-      "id": "20645702",
-      "cat": "ciencia",
-      "title": "Cientistas dizem que a árvore genealógica humana pode precisar de uma grande reescrita",
-      "summary": "A árvore genealógica humana pode estar precisando de uma grande reescrita. Os pesquisadores argumentam que Australopithecus e Paranthropus deveriam ser incluídos no gênero Homo porque novos fósseis confundiram muitas das características antes usadas para separá-los. A reformulação proposta poderia fornecer uma imagem mais simples e precisa da",
-      "source": "ScienceDaily",
-      "date": "Thu, 20 Aug 2026 06:42:59 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260820002413.htm",
-      "img": "https://www.sciencedaily.com/images/1920/paranthropus-skull.webp",
+      "title": "Internet chuveiros motorista do DoorDash e noivo com presentes de casamento graças ao bilhete que ele deixou na bolsa",
+      "summary": "Quando uma influenciadora do TikTok e autora do best-seller do NYT recebeu sua refeição no DoorDash no início de agosto, uma nota rabiscada à mão na sacola chamou sua atenção. As palavras foram do entregador: “Sua dica está ajudando a tornar nosso casamento possível”. ele leu. “Isso significa muito para nós. '3 Esperança",
+      "source": "Good News Network",
+      "date": "Wed, 19 Aug 2026 20:00:32 +0000",
+      "url": "https://www.goodnewsnetwork.org/tiktoker-showers-doordash-driver-and-fiance-with-wedding-gifts-thanks-to-the-note-he-left-in-the-bag/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/TikTok-credits-via-@_jen_hamilton_-@hopedotcom424.jpg",
       "score": 0.73
     },
     {
@@ -289,47 +245,91 @@
       "score": 0.73
     },
     {
-      "id": "38a628c4",
+      "id": "8c19c4aa",
       "cat": "tecnologia",
-      "title": "Mais pais americanos estão tirando licença parental",
-      "summary": "Esta história apareceu pela primeira vez no The 74, um site de notícias sem fins lucrativos que cobre educação. Inscreva-se para receber boletins informativos gratuitos do The 74 para receber mais informações como esta em sua caixa de entrada. AJ O filho mais velho de Johnson nasceu em 2019, um ano antes de os residentes de seu estado natal, Washington, poderem receber benefícios... The post More A",
-      "source": "Reasons to be Cheerful",
-      "date": "Fri, 14 Aug 2026 08:00:14 +0000",
-      "url": "https://reasonstobecheerful.world/american-dads-parental-leave/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/shutterstock_2561149847-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "db965892",
-      "cat": "tecnologia",
-      "title": "O mundo académico na era algorítmica",
-      "summary": "A literacia algorítmica não pode continuar confinada aos cursos de engenharia informática ou de matemática aplicada. Opinião de José Magalhães",
+      "title": "Met Office prevê o El Niño mais forte de que há memória",
+      "summary": "O El Niño mais intenso desde o século XIX deverá elevar as temperaturas do Pacífico em mais de três graus, tornando 2027 muito provavelmente o ano mais quente de sempre.",
       "source": "Público",
-      "date": "Fri, 21 Aug 2026 06:41:00 GMT",
-      "url": "https://www.publico.pt/2026/08/21/opiniao/opiniao/mundo-academico-algoritmica-2185568",
+      "date": "Fri, 21 Aug 2026 12:08:42 GMT",
+      "url": "https://www.publico.pt/2026/08/21/azul/noticia/met-office-preve-el-nino-forte-ha-memoria-2185679",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "b0e04559",
+      "id": "efda76b9",
       "cat": "tecnologia",
-      "title": "Argentina. Milei culpa aborto pela queda de natalidade",
-      "summary": "O La Nacion destaca as declarações do presidente argentino que volta a culpar a IGV pela queda de natalidade. Por cá, o Expresso escreve sobre a crescente obsessão dos jovens por cirurgias estéticas.",
-      "source": "Observador",
-      "date": "Fri, 21 Aug 2026 06:34:50 +0100",
-      "url": "https://observador.pt/programas/conferencia-de-imprensa/argentina-milei-culpa-aborto-pela-queda-de-natalidade/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg",
+      "title": "Para evitar ser retalhado, o banco mais velho do mundo quer comprar outros dois bancos italianos",
+      "summary": "Sob uma OPA do gigante Intesa Sanpaolo, Monte dei Paschi di Siena lança duas ofertas sobre BPM e Banca Generali. São 34 mil milhões de euros. O puzzle italiano da consolidação continua a mexer.",
+      "source": "Público",
+      "date": "Fri, 21 Aug 2026 12:01:59 GMT",
+      "url": "https://www.publico.pt/2026/08/21/economia/noticia/evitar-retalhado-banco-velho-mundo-quer-comprar-dois-bancos-italianos-2185698",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "2c54959e",
-      "cat": "ambiente",
-      "title": "Canal do Panamá reduz trânsito diário de navios para enfrentar El Niño",
-      "summary": "O El Niño é um fenómeno climático global que surge de variações nos ventos e nas temperaturas da superfície do mar sobre o Oceano Pacífico tropical.",
+      "id": "27cb6e13",
+      "cat": "tecnologia",
+      "title": "Exportação de cannabis para fins medicinais já ultrapassou 66 toneladas este ano",
+      "summary": "Portugal é um dos maiores exportadores de cannabis para fins medicinais, mas por cá os preparados só chegam a menos de mil doentes.",
+      "source": "Público",
+      "date": "Fri, 21 Aug 2026 12:01:46 GMT",
+      "url": "https://www.publico.pt/2026/08/21/sociedade/noticia/exportacao-cannabis-fins-medicinais-ja-ultrapassou-66-toneladas-ano-2185704",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "c1d6ac31",
+      "cat": "cultura",
+      "title": "Marquês. Sócrates é ouvido em tribunal a 10 de setembro",
+      "summary": "José Sócrates volta a depor na Operação Marquês a 10 de setembro, às 09h30, após a pausa de verão. Tribunal definiu também a retoma de inquirições de outras 8 testemunhas a partir de 1 de setembro.",
+      "source": "Observador",
+      "date": "Fri, 21 Aug 2026 12:50:00 +0100",
+      "url": "https://observador.pt/2026/08/21/operacao-marques-jose-socrates-e-ouvido-em-tribunal-a-10-de-setembro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/15113621/47101867.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "6ee3eb5a",
+      "cat": "tecnologia",
+      "title": "Espanha desmantela redes de transporte de migrantes de Ceuta",
+      "summary": "Foram detidas cinco pessoas, por pertença a organização criminosa e facilitação da imigração ilegal, que cobravam cerca de 9 mil euros pela travessia até Espanha continental.",
+      "source": "Observador",
+      "date": "Fri, 21 Aug 2026 12:49:05 +0100",
+      "url": "https://observador.pt/2026/08/21/espanha-desmantela-redes-que-transportavam-migrantes-de-ceuta-para-a-peninsula-iberica/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1620:909:nowe:0:171/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/21122244/47641842.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "41af6de8",
+      "cat": "tecnologia",
+      "title": "Governador do BdP defende exemplos internacionais para complementar reformas",
+      "summary": "\"Estamos cada vez a viver mais, o que é ótimo, mas também temos que financiar esse aumento da vida\", sublinha Álvaro Santos Pereira.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 21 Aug 2026 07:42:39 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/detalhe/canal-do-panama-reduz-transito-diario-de-navios-para-enfrentar-el-nino",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-04-07-33-25-517813.jpg",
+      "date": "Fri, 21 Aug 2026 13:15:06 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/governador-do-bdp-defende-exemplos-internacionais-para-complementar-reformas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-09-39-00-528450.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
