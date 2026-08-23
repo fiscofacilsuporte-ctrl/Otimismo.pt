@@ -1,5 +1,5 @@
 {
-  "last_update": "23/08/2026 01:50 UTC",
+  "last_update": "23/08/2026 06:52 UTC",
   "total": 30,
   "news": [
     {
@@ -116,7 +116,7 @@
       "id": "4163289c",
       "cat": "saude",
       "title": "Avanço da vacina impede o retorno do câncer em estudo",
-      "summary": "Uma nova injeção estendeu o período de tempo em que os pacientes ficaram livres do câncer, mas não está claro por quanto tempo.",
+      "summary": "Uma nova injeção estendeu o período de tempo que os pacientes ficaram livres do câncer, mas não está claro por quanto tempo.",
       "source": "BBC News",
       "date": "Thu, 20 Aug 2026 08:10:33 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
@@ -146,6 +146,39 @@
       "score": 0.76
     },
     {
+      "id": "7558f10c",
+      "cat": "tecnologia",
+      "title": "Este tubarão pode viver 400 anos. Seus olhos mal parecem envelhecer",
+      "summary": "Os tubarões da Groenlândia podem viver 400 anos sem sofrer o tipo de declínio da retina normalmente associado ao envelhecimento. Os pesquisadores encontraram tecido ocular saudável e proteínas ativas especialmente adaptadas para ver a luz azul nas escuras profundezas do Ártico. Mecanismos de reparo do DNA podem ajudar a manter os olhos funcionando",
+      "source": "ScienceDaily",
+      "date": "Sat, 22 Aug 2026 23:14:26 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012232.htm",
+      "img": "https://www.sciencedaily.com/images/1920/greenland-shark-eye-parasite.webp",
+      "score": 0.76
+    },
+    {
+      "id": "eee4ffa2",
+      "cat": "ciencia",
+      "title": "Este suplemento de levedura pode aumentar a imunidade no combate ao câncer",
+      "summary": "Um simples suplemento alimentar à base de levedura pode ajudar a restaurar a capacidade do sistema imunológico de combater o câncer, de acordo com uma nova pesquisa em ratos. Os cientistas descobriram que o beta-glucano da levedura reprogramou as células imunológicas precoces na medula óssea, levando a respostas mais fortes e duradouras de combate ao câncer contra colo.",
+      "source": "ScienceDaily",
+      "date": "Sat, 22 Aug 2026 06:34:22 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
+      "img": "https://www.sciencedaily.com/images/1920/body-immune-response-lymphocytes-t-cells-cancer-immunotherapy.webp",
+      "score": 0.76
+    },
+    {
+      "id": "ed954c94",
+      "cat": "ciencia",
+      "title": "Arqueólogos descobrem um misterioso pote indígena de 400 anos na Flórida",
+      "summary": "Um pequeno pote indígena totalmente intacto, enterrado há cerca de 400 anos, deixou os arqueólogos se perguntando por que um objeto tão utilizável foi deliberadamente abandonado. Encontrado em uma vila histórica de Potano-Timucua, na Flórida, o misterioso navio está ajudando a revelar um mundo complexo de tradições nativas, influência espanhola",
+      "source": "ScienceDaily",
+      "date": "Fri, 21 Aug 2026 22:58:44 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202902.htm",
+      "img": "https://www.sciencedaily.com/images/1920/indigenous-clay-pot.webp",
+      "score": 0.76
+    },
+    {
       "id": "71287beb",
       "cat": "tecnologia",
       "title": "Transformando as antigas minas de carvão da Grã-Bretanha em fontes de energia limpa",
@@ -168,14 +201,47 @@
       "score": 0.76
     },
     {
-      "id": "9a404bd8",
-      "cat": "tecnologia",
-      "title": "Robô chinês bate recorde dos 100 metros de Usain Bolt",
-      "summary": "Mais de 2000 robôs de 666 equipas competem em Pequim.",
+      "id": "6da1287d",
+      "cat": "ciencia",
+      "title": "Eu quero morrer um dia depois de o meu filho morrer",
+      "summary": "O medo de morrer primeiro, deixando filhos com deficiência sem apoio, tornou-se um problema de saúde pública. O nosso país precisa de um levantamento urgente destes cuidadores e de um estatuto legal. Opinião de Fernando Araújo",
       "source": "Público",
-      "date": "Sat, 22 Aug 2026 21:08:40 GMT",
-      "url": "https://www.publico.pt/2026/08/22/enter/noticia/robo-chines-bate-recorde-100-metros-usain-bolt-2185818",
+      "date": "Sun, 23 Aug 2026 05:44:00 GMT",
+      "url": "https://www.publico.pt/2026/08/23/opiniao/opiniao/quero-morrer-dia-filho-morrer-2185269",
       "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "d91a817d",
+      "cat": "tecnologia",
+      "title": "5h. Futebol. O FCP joga hoje com o Arouca",
+      "summary": "Na antevisão, o técnico dos dragões não desvaloriza a partida. Ainda, entrou em fase de resolução o incêndio de Santa Marta de Penaguião no distrito de Vila Real.",
+      "source": "Observador",
+      "date": "Sun, 23 Aug 2026 05:16:30 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1558/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "78876eb1",
+      "cat": "tecnologia",
+      "title": "3h. PCP desafia PS a não viabilizar o OE",
+      "summary": "O secretário-geral dos comunistas diz que uma eventual viabilização da parte do PS encosta o partido às decisões do governo. Ainda, entrou em fase de resolução o incêndio em Santarém.",
+      "source": "Observador",
+      "date": "Sun, 23 Aug 2026 03:14:16 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2414/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "e4b791ab",
+      "cat": "tecnologia",
+      "title": "2h. Entrou em fase de resolução o incêndio de Santarém",
+      "summary": "Ainda assim, no terreno estão cerca de 500 operacionais em operações de rescaldo. Ainda, o Futebol Clube do Porto vai receber o Arouca amanhã.",
+      "source": "Observador",
+      "date": "Sun, 23 Aug 2026 02:13:49 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2388/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -252,84 +318,18 @@
       "source": "Reasons to be Cheerful",
       "date": "Tue, 18 Aug 2026 14:31:25 +0000",
       "url": "https://reasonstobecheerful.world/saving-indonesias-coral-reefs-by-empowering-women/",
-      "img": null,
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Coral-Restoration.jpg",
       "score": 0.73
     },
     {
-      "id": "c1ee77cf",
+      "id": "1e00d74c",
       "cat": "tecnologia",
-      "title": "Justiça dos EUA derruba restrição de visto de residência para Brasil e mais 74 países",
-      "summary": "Juíza Jeannette Vargas, de Nova York, afirma que medida contrariava lei e excedia poderes do Departamento de Estado. Sentença invalida recusas baseadas apenas na nacionalidade dos cidadãos.",
+      "title": "Quanto é que achas que vale o meu corpo?",
+      "summary": "Recuso-me a comprar a ideia de que transformar a própria intimidade num produto é quase sinónimo de emancipação. Crónica de Carmen Garcia",
       "source": "Público",
-      "date": "Sat, 22 Aug 2026 23:41:00 GMT",
-      "url": "https://www.publico.pt/2026/08/23/publico-brasil/noticia/justica-eua-derruba-restricao-visto-residencia-brasil-74-paises-2185828",
+      "date": "Sun, 23 Aug 2026 06:49:00 GMT",
+      "url": "https://www.publico.pt/2026/08/23/impar/cronica/achas-vale-corpo-2185652",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "d7048bd8",
-      "cat": "cultura",
-      "title": "A dívida de sono não se paga com cafeína: o custo da nossa hiperprodutividade",
-      "summary": "Transformámos a “bica” num penso rápido para dias intermináveis. À quarta chávena, a questão impõe-se: o corpo pede cafeína ou é a cultura da hiperprodutividade a exigir-nos de facto o impossível? Crónica de Renato M. Rodrigues",
-      "source": "Público",
-      "date": "Sat, 22 Aug 2026 23:40:15 GMT",
-      "url": "https://www.publico.pt/2026/08/23/p3/cronica/divida-sono-nao-paga-cafeina-custo-hiperprodutividade-2180741",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "e4b791ab",
-      "cat": "tecnologia",
-      "title": "2h. Incêndios. Está dominado o incêndio de Santarém",
-      "summary": "Ainda assim, no terreno estão cerca de 500 operacionais em operações de rescaldo. Ainda, o Futebol Clube do Porto vai receber o Arouca amanhã.",
-      "source": "Observador",
-      "date": "Sun, 23 Aug 2026 02:13:49 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2388/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "743691a7",
-      "cat": "tecnologia",
-      "title": "1h. Incêndios. Há a esta hora 2 fogos ativos",
-      "summary": "O incêndio em Santarém é o que mobiliza mais meios. Ainda, o Sporting venceu o Alverca por 3-1 em Alvalade a contar para a terceira jornada do campeonato.",
-      "source": "Observador",
-      "date": "Sun, 23 Aug 2026 01:14:51 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2361/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "e81aa37f",
-      "cat": "tecnologia",
-      "title": "A opinião fictícia",
-      "summary": "O mais recente relatório sobre a sustentabilidade da Segurança Social, coordenado por Jorge Bravo, motivou a proliferação da chamada opinião fictícia, de que Nuno Artur Silva é um eloquente produtor",
-      "source": "Observador",
-      "date": "Sun, 23 Aug 2026 00:25:39 +0100",
-      "url": "https://observador.pt/opiniao/a-opiniao-ficticia/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A814%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170545%2Fhelena-matos.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
