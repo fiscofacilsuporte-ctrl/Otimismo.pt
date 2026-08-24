@@ -1,12 +1,23 @@
 {
-  "last_update": "24/08/2026 01:47 UTC",
+  "last_update": "24/08/2026 07:12 UTC",
   "total": 30,
   "news": [
     {
+      "id": "f5b52682",
+      "cat": "ambiente",
+      "title": "Agricultores etíopes economizam milhares ao mudar para irrigação solar – ao mesmo tempo em que reduzem as emissões",
+      "summary": "Os agricultores na Etiópia estão a reduzir os seus custos crescentes, a aumentar a produção de alimentos e a proteger o ambiente graças aos sistemas de irrigação movidos a energia solar introduzidos através do programa Soluções Baseadas na Natureza para o Desenvolvimento Sustentável e Inclusivo, liderado pela organização internacional sem fins lucrativos Farm Africa.",
+      "source": "Good News Network",
+      "date": "Mon, 24 Aug 2026 03:45:07 +0000",
+      "url": "https://www.goodnewsnetwork.org/ethiopian-farmers-save-thousands-by-switching-to-solar-irrigation/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Solar-irrigation-by-Farm-Africa-released.jpeg",
+      "score": 0.85
+    },
+    {
       "id": "b5daea1f",
       "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Cientistas bem-humorados criam página ‘OnlyMarms’ para impulsionar a conservação e doações de marmotas",
+      "summary": "Tempos desesperadores exigem medidas desesperadas. Com as fontes de financiamento tradicionais enfrentando cortes, o Laboratório Biológico das Montanhas Rochosas, que passou os últimos 65 anos estudando marmotas de barriga amarela, teve que ser criativo. Isso logo levou os pesquisadores do Colorado à internet, onde vídeos de marmotas foram divulgados.",
       "source": "Good News Network",
       "date": "Sun, 23 Aug 2026 12:00:02 +0000",
       "url": "https://www.goodnewsnetwork.org/good-humored-scientists-create-onlymarms-page-to-boost-marmot-conservation-and-donations/",
@@ -14,21 +25,10 @@
       "score": 0.82
     },
     {
-      "id": "686fb4e7",
-      "cat": "ambiente",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "A supergrande empresa francesa de energia TotalEnergies inaugurou recentemente o maior projecto de energia híbrida renovável em África, que irá gerar 400 gigawatts-hora de electricidade na África do Sul. Localizado na província do Cabo Setentrional, o Projeto Hydra combina uma usina solar fotovoltaica de 216 MW com um ba de 500 MWh.",
-      "source": "Good News Network",
-      "date": "Fri, 21 Aug 2026 18:30:11 +0000",
-      "url": "https://www.goodnewsnetwork.org/french-firm-switches-on-africas-largest-renewable-energy-storage-plant-to-power-200k-houses/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/TotalEnergies-Hydra-Project-credit-released.jpg",
-      "score": 0.79
-    },
-    {
       "id": "72705605",
       "cat": "saude",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "O que deu certo esta semana: as boas notícias que importam",
+      "summary": "Um ‘momento crucial’ para o tratamento do câncer, o ressurgimento das baleias e a cidade que tornou o transporte público gratuito e muito mais O post O que deu certo esta semana: as boas notícias que importam apareceu primeiro em Notícias Positivas.",
       "source": "Positive News",
       "date": "Fri, 21 Aug 2026 05:00:44 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/",
@@ -38,8 +38,8 @@
     {
       "id": "3501ea44",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Três grupos esportivos usando movimento para enfrentar o isolamento",
+      "summary": "Esses três grupos estão usando o esporte e o movimento para criar conexão, propósito e comunidade The post Três grupos esportivos usando o movimento para enfrentar o isolamento apareceu primeiro no Positive News.",
       "source": "Positive News",
       "date": "Tue, 11 Aug 2026 07:00:24 +0000",
       "url": "https://www.positive.news/lifestyle/sport/three-sports-groups-using-movement-to-tackle-isolation/",
@@ -49,13 +49,24 @@
     {
       "id": "dbbc5a6f",
       "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Um “botão liga/desliga” oculto no DNA humano foi finalmente decodificado",
+      "summary": "Os pesquisadores usaram a IA para descobrir a assinatura de DNA de um “interruptor” genético chave envolvido na ativação dos genes. Depois de analisar cerca de 500 mil sequências de DNA, o modelo identificou o iniciador em cerca de 60% dos genes humanos. A descoberta pode ajudar a prever os efeitos de mutações prejudiciais e eventos",
       "source": "ScienceDaily",
       "date": "Sun, 23 Aug 2026 08:14:40 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
       "img": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
       "score": 0.79
+    },
+    {
+      "id": "c9d40429",
+      "cat": "tecnologia",
+      "title": "Novos certificados do tesouro desiludem na estreia",
+      "summary": "Série 5 tinha como intenção revitalizar este instrumento de poupança. Mas apesar das alterações não foi capaz de captar mais investimento do que aquele que saiu",
+      "source": "Observador",
+      "date": "Mon, 24 Aug 2026 06:01:31 +0100",
+      "url": "https://observador.pt/programas/boa-moeda-ma-moeda/novos-certificados-do-tesouro-desiludem-na-estreia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg",
+      "score": 0.76
     },
     {
       "id": "0a1041f8",
@@ -71,8 +82,8 @@
     {
       "id": "1d16c4fe",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Boas novas na história, 23 de Agosto",
+      "summary": "Há 3 anos, o chefe da Organização Indiana de Pesquisa Espacial (ISRO) exclamou “A Índia está na Lua!” após o pouso bem-sucedido do Chandrayaan-3, o módulo de pouso lunar indiano. Ao fazê-lo, a Índia tornou-se a quarta nação a operar na Lua, depois dos EUA, da Rússia e da China, enquanto",
       "source": "Good News Network",
       "date": "Sun, 23 Aug 2026 07:00:00 +0000",
       "url": "https://www.goodnewsnetwork.org/events060823/",
@@ -82,8 +93,8 @@
     {
       "id": "49798013",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Como estabelecer conexões humanas significativas – de acordo com você",
+      "summary": "Perguntamos: como cultivar conexões humanas significativas em um mundo agitado e desconectado? Isso é o que você disse O post Como criar conexões humanas significativas – segundo você apareceu pela primeira vez no Positive News.",
       "source": "Positive News",
       "date": "Wed, 19 Aug 2026 07:00:30 +0000",
       "url": "https://www.positive.news/society/how-do-you-forge-meaningful-human-connections/",
@@ -93,8 +104,8 @@
     {
       "id": "4163289c",
       "cat": "saude",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Avanço da vacina impede o retorno do câncer em estudo",
+      "summary": "Uma nova injeção estendeu o período de tempo em que os pacientes ficaram livres do câncer, mas não está claro por quanto tempo.",
       "source": "BBC News",
       "date": "Thu, 20 Aug 2026 08:10:33 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
@@ -104,8 +115,8 @@
     {
       "id": "1a0ea2fe",
       "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Cientistas ‘surpresos’ com a recuperação pulmonar de crianças em zona de emissões ultrabaixas",
+      "summary": "A capacidade pulmonar das crianças alcançou a dos seus pares em áreas menos poluídas quando surgiu uma zona de ar limpo, mostra um estudo.",
       "source": "BBC News",
       "date": "Tue, 18 Aug 2026 23:53:24 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
@@ -115,8 +126,8 @@
     {
       "id": "5da1ff3c",
       "cat": "ambiente",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "O eclipse danificou seus olhos?",
+      "summary": "Um cirurgião oftalmologista diz que menos pessoas têm procurado tratamento para lesões oculares do que depois do último eclipse solar total no Reino Unido em 1999.",
       "source": "BBC News",
       "date": "Thu, 13 Aug 2026 13:39:18 GMT",
       "url": "https://www.bbc.co.uk/news/videos/cy452z5j1x1o?at_medium=RSS&at_campaign=rss",
@@ -126,8 +137,8 @@
     {
       "id": "9d0d7d68",
       "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Físicos criam um minúsculo “Big Bang” com núcleos atômicos surpreendentemente pequenos",
+      "summary": "Pesquisadores do CERN criaram versões microscópicas do Universo primitivo, colidindo núcleos atômicos surpreendentemente pequenos quase à velocidade da luz. As colisões produziram plasma de quark-gluon, a matéria ultraquente que se acredita ter preenchido o cosmos logo após o Big Bang. Ainda mais intrigante",
       "source": "ScienceDaily",
       "date": "Sun, 23 Aug 2026 09:08:55 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
@@ -137,8 +148,8 @@
     {
       "id": "7558f10c",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Este tubarão pode viver 400 anos. Seus olhos mal parecem envelhecer",
+      "summary": "Os tubarões da Groenlândia podem viver 400 anos sem sofrer o tipo de declínio da retina normalmente associado ao envelhecimento. Os pesquisadores encontraram tecido ocular saudável e proteínas ativas especialmente adaptadas para ver a luz azul nas escuras profundezas do Ártico. Mecanismos de reparo do DNA podem ajudar a manter os olhos funcionando",
       "source": "ScienceDaily",
       "date": "Sat, 22 Aug 2026 23:14:26 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260821012232.htm",
@@ -148,8 +159,8 @@
     {
       "id": "71287beb",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Transformando as antigas minas de carvão da Grã-Bretanha em fontes de energia limpa",
+      "summary": "Na cidade de Gateshead, no nordeste da Inglaterra, a mineração de carvão está no sangue. Até ao golpe de misericórdia final dado pela purga do carvão de Margaret Thatcher na década de 1980, Gateshead explorava as suas escuras costuras subterrâneas já em 1344, quando cavalos de carga transportavam “carvão marinho”... The post Tra",
       "source": "Reasons to be Cheerful",
       "date": "Fri, 21 Aug 2026 08:00:31 +0000",
       "url": "https://reasonstobecheerful.world/mine-water-heat-gateshead/",
@@ -159,8 +170,8 @@
     {
       "id": "1fd68937",
       "cat": "ambiente",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "The Spark: como os vizinhos estão se unindo para se tornarem mais ecológicos",
+      "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada no... The",
       "source": "Reasons to be Cheerful",
       "date": "Fri, 07 Aug 2026 08:00:42 +0000",
       "url": "https://reasonstobecheerful.world/the-spark-green-home-energy/",
@@ -168,36 +179,36 @@
       "score": 0.76
     },
     {
-      "id": "235cb15e",
-      "cat": "economia",
-      "title": "Estrela da Amadora vende SAD a grupo de investimento que inclui jogadores alemães",
-      "summary": "Operação deverá ronda os 40 milhões de euros e implica a saída do actual do até agora presidente e principal accionista, Paulo Lopo.",
-      "source": "Público",
-      "date": "Sun, 23 Aug 2026 22:07:17 GMT",
-      "url": "https://www.publico.pt/2026/08/23/desporto/noticia/estrela-amadora-vende-sad-grupo-investimento-inclui-jogadores-alemaes-2185877",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "58bc15b8",
-      "cat": "cultura",
-      "title": "Andebol: Sporting conquista Supertaça masculina, Benfica vence a feminina",
-      "summary": "Em Santo Tirso, os “leões” praticamente resolveram a final ainda na primeira parte, com uma superioridade clara.",
-      "source": "Público",
-      "date": "Sun, 23 Aug 2026 20:05:18 GMT",
-      "url": "https://www.publico.pt/2026/08/23/desporto/noticia/andebol-sporting-conquista-supertaca-masculina-benfica-vence-feminina-2185874",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "9b651301",
+      "id": "3353be08",
       "cat": "tecnologia",
-      "title": "Never gonna give you up e Rick Astley, um meme para a eternidade",
-      "summary": "Em 1987, o seu primeiro single explodiu mundialmente. Seis anos depois, cansado, reformou-se. Em 2007, uma piada online mudaria tudo: eis o inesperado regresso de Never gonna give you up .",
+      "title": "Anabela Mota Ribeiro: “Sou chata quando prego contra a chalupice de pessoas que não se vacinam”",
+      "summary": "Anabela Mota Ribeiro, jornalista e escritora, confessa que desconsidera “elogios untuosos” e que gostaria de voltar a viver o dia em que se apaixonou por José António Pinto Ribeiro.",
       "source": "Público",
-      "date": "Sun, 23 Aug 2026 20:02:00 GMT",
-      "url": "https://www.publico.pt/2026/08/23/culturaipsilon/noticia/never-gonna-give-you-up-rick-astley-meme-eternidade-2183780",
+      "date": "Mon, 24 Aug 2026 05:08:00 GMT",
+      "url": "https://www.publico.pt/2026/08/24/impar/noticia/anabela-mota-ribeiro-chata-prego-chalupice-pessoas-nao-vacinam-2185601",
       "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "edcbd2af",
+      "cat": "tecnologia",
+      "title": "Varandas, Angelina Jolie e Luis Suárez entram num bar...",
+      "summary": "Presidente do Sporting aborda \"caso Suárez\" com recurso a encontros fictícios com atrizes norte-americanas. Ainda, FC Porto continua invicto no campeonato e Sporting conquista Supertaça de andebol.",
+      "source": "Observador",
+      "date": "Mon, 24 Aug 2026 06:42:48 +0100",
+      "url": "https://observador.pt/programas/vamos-a-bola/varandas-angelina-jolie-e-luis-suarez-entram-num-bar/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "33d055e2",
+      "cat": "tecnologia",
+      "title": "Renfe defende reembolso aos operadores em Portugal pela energia que devolvem à rede",
+      "summary": "A operadora espanhola, que quer entrar na alta velocidade em Portugal, diz que a recuperação do valor da energia que devolvem ao sistema através da travagem dos comboios incentivaria maior competitividade em termos de custos do transporte ferroviário face a outros modos.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 24 Aug 2026 08:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/renfe-defende-reembolso-aos-operadores-em-portugal-pela-energia-que-devolvem-a-rede",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-05-13-30-04-491431.jpg",
       "score": 0.73
     },
     {
@@ -209,28 +220,6 @@
       "date": "Sun, 23 Aug 2026 23:30:00 +0100",
       "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/banca-portuguesa-quer-compensacoes-e-acautelar-fuga-de-depositos-com-euro-digital",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-20-14-50-54-528526.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ed2b4d98",
-      "cat": "tecnologia",
-      "title": "Quando a concorrência bate à porta",
-      "summary": "O projeto do euro digital tem por objetivo, entre outros, reduzir a dependência europeia dos sistemas de pagamentos dos EUA e isso deve ser, por si só, um bom argumento para não procurar travar o plano.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 23 Aug 2026 23:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/detalhe/quando-a-concorrencia-bate-a-porta",
-      "img": "https://cdn.jornaldenegocios.pt/images/2021-09/img_394x514uu2021-09-29-14-37-44-413474.png",
-      "score": 0.73
-    },
-    {
-      "id": "f45c481a",
-      "cat": "economia",
-      "title": "Estrela da Amadora vende SAD a grupo alemão em negócio de 40 milhões de euros",
-      "summary": "Thomas Muller e Mats Hummels estão entre os acionistas do grupo de investimento alemão. Johannes Mosmang será o novo presidente da SAD.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 23 Aug 2026 22:38:58 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/estrela-da-amadora-vende-sad-a-grupo-alemao-em-negocio-de-40-milhoes-de-euros",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-23-22-36-28-528638.jpg",
       "score": 0.73
     },
     {
@@ -267,43 +256,10 @@
       "score": 0.73
     },
     {
-      "id": "e9490f7e",
-      "cat": "economia",
-      "title": "Montenegro, Sócrates e o intervencionismo empresarial",
-      "summary": "Corria o ano de 2008, o primeiro-ministro era José Sócrates e o ministro da Economia era Manuel Pinho, ambos com uma enorme pulsão intervencionista e controladora do poder económico (e mediático), e o setor da energia era um dos ‘preferidos’. Em entrevista ao Correio da Manhã, no dia 24 de fevereiro",
-      "source": "ECO",
-      "date": "Sun, 23 Aug 2026 23:01:16 +0000",
-      "url": "https://eco.sapo.pt/opiniao/montenegro-socrates-e-o-intervencionismo-empresarial/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2020/07/antonio-costa_editorial-01.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7f0f4361",
-      "cat": "desporto",
-      "title": "Estrela da Amadora vende 90% da SAD por 40 milhões",
-      "summary": "A Sociedade Anónima Desportiva (SAD) do Estrela da Amadora vai ser adquirida por um grupo alemão por 40 milhões de euros, segundo avança A Bola. O negócio abrange 90% do capital da sociedade desportiva e inclui entre os investidores os futebolistas Thomas Müller, Mats Hummels e Yann Sommer. O acordo",
-      "source": "ECO",
-      "date": "Sun, 23 Aug 2026 21:17:38 +0000",
-      "url": "https://eco.sapo.pt/2026/08/23/estrela-da-amadora-vende-90-da-sad-por-40-milhoes/",
-      "img": "https://eco.imgix.net/uploads/2019/08/cropped-estadio-jose-gomes_estrela-da-amadora.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "3db0eaa6",
-      "cat": "tecnologia",
-      "title": "Liang Wenfeng, o misterioso fundador da DeepSeek que é um dos homens mais ricos do mundo",
-      "summary": "Estávamos em janeiro de 2025 quando o mundo ouviu falar pela primeira vez da DeepSeek, até então praticamente desconhecida para a maioria das pessoas, mesmo para aquelas mais ligadas à tecnologia. Em poucos dias, após o lançamento do modelo de inteligência artificial (IA) DeepSeek R1, que apresentav",
-      "source": "ECO",
-      "date": "Sun, 23 Aug 2026 13:50:31 +0000",
-      "url": "https://eco.sapo.pt/2026/08/23/liang-wenfeng-o-misterioso-fundador-da-deepseek-que-e-um-dos-homens-mais-ricos-do-mundo/",
-      "img": "https://eco.imgix.net/uploads/2026/08/liang-wenfeng-ceo-deepseek-2000x1125-1.jpg",
-      "score": 0.73
-    },
-    {
       "id": "8a3215d2",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "A ‘Irmandade’ Protegendo os Recifes de Coral da Indonésia",
+      "summary": "Quando ela tinha 21 anos, Gabriela Nathania H mergulhou debaixo d'água com um grupo de quatro estranhos na costa de Gili Air. A pequena ilha é uma das três que compõem as Ilhas Gili, um arquipélago que mergulhadores de todo o mundo admiram pela sua incrível biodiversidade marinha. Mas sobre isso... O post The &#8216",
       "source": "Reasons to be Cheerful",
       "date": "Tue, 18 Aug 2026 14:31:25 +0000",
       "url": "https://reasonstobecheerful.world/saving-indonesias-coral-reefs-by-empowering-women/",
@@ -311,25 +267,69 @@
       "score": 0.73
     },
     {
-      "id": "22c49979",
+      "id": "d9e0b755",
       "cat": "tecnologia",
-      "title": "As notícias das 2h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Mon, 24 Aug 2026 02:16:26 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2389/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Conan O’Brien, solto, vai a todo o lado",
+      "summary": "Há uma nova temporada de Conan O’Brien Must Go , o programa de viagens em que o comediante vai por esse mundo fora ao encontro de fãs com quem falou no seu podcast e de celebridades locais.",
+      "source": "Público",
+      "date": "Mon, 24 Aug 2026 05:12:00 GMT",
+      "url": "https://www.publico.pt/2026/08/24/culturaipsilon/noticia/conan-obrien-solto-vai-lado-2185863",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "67b59113",
+      "id": "6f810b14",
       "cat": "tecnologia",
-      "title": "1h Metro Lisboa. Escadas rolantes avariadas há 3 anos e meio",
-      "summary": "Metro reconhece que a manutenção se tornou “problema crónico”. Ainda nesta edição, Volodymyr Zelensky alerta que Putin está a planear mobilizar mais 300 mil combatentes depois das eleições na Rússia.",
+      "title": "Cientistas alertam para perfil de risco de demência: apatia é um dos sinais",
+      "summary": "Identificar precocemente as pessoas em fases iniciais de uma doença neurodegenerativa poderá permitir tratar os sintomas mais cedo, preservar a autonomia e promover a qualidade de vida por mais tempo.",
+      "source": "Público",
+      "date": "Mon, 24 Aug 2026 05:11:00 GMT",
+      "url": "https://www.publico.pt/2026/08/24/ciencia/noticia/cientistas-alertam-perfil-risco-demencia-apatia-sinais-2185561",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "656eff1c",
+      "cat": "tecnologia",
+      "title": "Coligação das Vontades reúne-se hoje em Kiev",
+      "summary": "Reunião terá um formato híbrido, com alguns dirigentes a participarem por videoconferência, como Paulo Rangel. Será coorganizada por Emmanuel Macron, Friedrich Merz e Andy Burnham.",
       "source": "Observador",
-      "date": "Mon, 24 Aug 2026 01:14:55 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2362/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Mon, 24 Aug 2026 06:39:15 +0100",
+      "url": "https://observador.pt/liveblogs/coligacao-das-vontades-reune-se-hoje-em-kiev-para-celebrar-35-o-aniversario-da-independencia-da-ucrania/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:53/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/13200034/gettyimages-2255203292-scaled.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "5c764097",
+      "cat": "cultura",
+      "title": "Cartoon SA 24-08-2026",
+      "summary": "Cartoon de Luís Afonso",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 24 Aug 2026 08:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/cartoon-sa/detalhe/cartoon-sa-24-08-2026",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-24-07-41-50-528642.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
