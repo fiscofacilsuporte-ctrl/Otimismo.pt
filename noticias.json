@@ -1,11 +1,11 @@
 {
-  "last_update": "24/08/2026 18:51 UTC",
+  "last_update": "25/08/2026 01:41 UTC",
   "total": 30,
   "news": [
     {
       "id": "f5b52682",
       "cat": "ambiente",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Agricultores etíopes economizam milhares ao mudar para irrigação solar – ao mesmo tempo em que reduzem as emissões",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Good News Network",
       "date": "Mon, 24 Aug 2026 03:45:07 +0000",
@@ -17,12 +17,23 @@
       "id": "b5daea1f",
       "cat": "ciencia",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Tempos desesperadores exigem medidas desesperadas. Com as fontes de financiamento tradicionais enfrentando cortes, o Laboratório Biológico das Montanhas Rochosas, que passou os últimos 65 anos estudando marmotas de barriga amarela, teve que ser criativo. Isso logo levou os pesquisadores do Colorado à internet, onde vídeos de marmotas foram divulgados.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Good News Network",
       "date": "Sun, 23 Aug 2026 12:00:02 +0000",
       "url": "https://www.goodnewsnetwork.org/good-humored-scientists-create-onlymarms-page-to-boost-marmot-conservation-and-donations/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Marmots-OnlyMarms-logo-Daniel-Blumstein-via-UCLA.jpeg",
       "score": 0.82
+    },
+    {
+      "id": "eadb0e20",
+      "cat": "tecnologia",
+      "title": "Portugal já tem 15 medalhas nos jogos do Mediterrâneo",
+      "summary": "Tiago Antunes foi prata na prova de fundo no ciclismo. Francisca Martins e Ana Rodrigues também conquistaram pódios na natação.",
+      "source": "RTP",
+      "date": "Mon, 24 Aug 2026 22:11:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/portugal-ja-tem-15-medalhas-nos-jogos-do-mediterraneo_v1761326",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9e2fa2dc502108512cf044fc0e115c7b?w=350&amp;q=50&amp;rect=54,0,2459,1348&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "f2f1cf43",
@@ -61,7 +72,7 @@
       "id": "83e5265f",
       "cat": "ciencia",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Os cientistas descobriram um pequeno dragão amarelado com chifres de montanha na Tailândia e o chamaram de Acanthosaura syrax em homenagem a um dragão da Casa do Dragão. Encontrada apenas numa estreita faixa de floresta de grande altitude, a nova espécie distinta poderá tornar-se um porta-estandarte para a protecção do seu raro habitat montanhoso.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "ScienceDaily",
       "date": "Sun, 23 Aug 2026 23:11:22 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260823015005.htm",
@@ -78,17 +89,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
       "img": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
       "score": 0.79
-    },
-    {
-      "id": "89a7ac3a",
-      "cat": "tecnologia",
-      "title": "Francisca Martins conquista quarta medalha nos Jogos do Mediterrâneo",
-      "summary": "Nadadora portuguesa ficou em terceiro na final dos 800m livres em Taranto. Comitiva nacional já conquistou 15 medalhas em três dias de competição.",
-      "source": "Público",
-      "date": "Mon, 24 Aug 2026 17:21:01 GMT",
-      "url": "https://www.publico.pt/2026/08/24/desporto/noticia/francisca-martins-conquista-quarta-medalha-jogos-mediterraneo-2185975",
-      "img": null,
-      "score": 0.76
     },
     {
       "id": "f93d5fea",
@@ -110,17 +110,6 @@
       "date": "Mon, 24 Aug 2026 18:31:37 +0100",
       "url": "https://www.rtp.pt/noticias/outras-modalidades/nadadora-francisca-martins-conquista-quarta-medalha-nos-800-livres_d1761291",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/61/618711edc2bcaab5fdcaff943fd71df3?w=350&amp;q=50&amp;rect=0,51,1183,649&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "bd458893",
-      "cat": "tecnologia",
-      "title": "Tiago Antunes junta prata na prova de fundo ao título no `crono`",
-      "summary": "O ciclista português Tiago Antunes conquistou a segunda medalha nos Jogos do Mediterrâneo Taranto2026, ao juntar a prata na prova de fundo ao título alcançado no contrarrelógio.",
-      "source": "RTP",
-      "date": "Mon, 24 Aug 2026 17:07:09 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/tiago-antunes-junta-prata-na-prova-de-fundo-ao-titulo-no-crono_d1761283",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b4793163d9a289d03da6981072116397?w=350&amp;q=50&amp;rect=0,81,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
@@ -170,7 +159,7 @@
     {
       "id": "4163289c",
       "cat": "saude",
-      "title": "Avanço da vacina impede o retorno do câncer em estudo",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "BBC News",
       "date": "Thu, 20 Aug 2026 08:10:33 GMT",
@@ -190,20 +179,9 @@
       "score": 0.76
     },
     {
-      "id": "5da1ff3c",
-      "cat": "ambiente",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Um cirurgião oftalmologista diz que menos pessoas têm procurado tratamento para lesões oculares do que depois do último eclipse solar total no Reino Unido em 1999.",
-      "source": "BBC News",
-      "date": "Thu, 13 Aug 2026 13:39:18 GMT",
-      "url": "https://www.bbc.co.uk/news/videos/cy452z5j1x1o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9e6/live/75110ae0-9713-11f1-870d-5d08c49babb2.jpg",
-      "score": 0.76
-    },
-    {
       "id": "1ddfa8df",
       "cat": "ciencia",
-      "title": "Medicamentos comuns podem mudar seu intestino por anos",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "ScienceDaily",
       "date": "Mon, 24 Aug 2026 09:14:50 EDT",
@@ -215,7 +193,7 @@
       "id": "71287beb",
       "cat": "tecnologia",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Na cidade de Gateshead, no nordeste da Inglaterra, a mineração de carvão está no sangue. Até ao golpe de misericórdia final dado pela purga do carvão de Margaret Thatcher na década de 1980, Gateshead explorava as suas escuras costuras subterrâneas já em 1344, quando cavalos de carga transportavam “carvão marinho”... The post Tra",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Reasons to be Cheerful",
       "date": "Fri, 21 Aug 2026 08:00:31 +0000",
       "url": "https://reasonstobecheerful.world/mine-water-heat-gateshead/",
@@ -223,25 +201,47 @@
       "score": 0.76
     },
     {
-      "id": "6e8a8b5f",
-      "cat": "tecnologia",
-      "title": "Trump impõe tarifas de 50% sobre automóveis e aço do Canadá",
-      "summary": "A medida, que engloba peças automóveis e aço e que entra em vigor a 1 de janeiro de 2027, surge após Trump classificar de \"insustentável\" o défice comercial de 60 mil milhões de dólares com Otava.",
-      "source": "Observador",
-      "date": "Mon, 24 Aug 2026 15:12:02 +0100",
-      "url": "https://observador.pt/2026/08/24/nao-precisamos-do-canada-trump-anuncia-tarifas-de-50-sobre-automoveis-e-aco-canadianos-a-partir-de-2027/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3700:2076:nowe:0:102/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/14002138/gettyimages-2285207431.jpg",
+      "id": "798fae2f",
+      "cat": "geral",
+      "title": "Fazer com que valha a pena",
+      "summary": "A solução de gastar o menos tempo possível é a pior de todas, porque transforma as refeições em necessidades. Crónica de Miguel Esteves Cardoso",
+      "source": "Público",
+      "date": "Mon, 24 Aug 2026 23:06:00 GMT",
+      "url": "https://www.publico.pt/2026/08/25/opiniao/cronica/valha-pena-2185899",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "33e5b4e2",
-      "cat": "tecnologia",
-      "title": "Governo. Financiamento da rede rodoviária de acordo com lei",
-      "summary": "O modelo de financiamento da rede rodoviária nacional atualmente em vigor está em conformidade com o direito europeu, garante o Governo, desmentindo uma notícia do JN.",
+      "id": "82a773c2",
+      "cat": "desporto",
+      "title": "Kiev. Diretor da Erasmus+ em Portugal recebe Ordem de Mérito",
+      "summary": "Luís Alves, diretor da Agência Nacional Erasmus+ Juventude/Desporto e Corpo Europeu de Solidariedade, recebeu a honra das mãos de Zelensky pelo \"contributo para o reforço da cooperação internacional\".",
       "source": "Observador",
-      "date": "Mon, 24 Aug 2026 14:45:31 +0100",
-      "url": "https://observador.pt/2026/08/24/governo-garante-que-financiamento-da-rede-rodoviaria-esta-em-conformidade-com-lei/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1020:574:nowe:90:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/13191405/vila-nova-de-gaia-avanca-com-ligacoes-estrategicas-e-alargamento-da-a1-1.jpg",
+      "date": "Tue, 25 Aug 2026 00:30:25 +0100",
+      "url": "https://observador.pt/2026/08/25/luis-alves-diretor-da-agencia-portuguesa-erasmus-recebeu-ordem-de-merito-em-kiev/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/23052935/43441500.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "2323de92",
+      "cat": "tecnologia",
+      "title": "S. Miguel. Norovírus identificado em casos de gastroenterite",
+      "summary": "Casos de gastroenterite aguda na maior ilha açoriana têm norovírus confirmado. Maioria dos doentes tem quadro ligeiro, com diarreia e vómitos, e recuperação espontânea.",
+      "source": "Observador",
+      "date": "Tue, 25 Aug 2026 00:19:08 +0100",
+      "url": "https://observador.pt/2026/08/25/norovirus-confirmado-em-sao-miguel-apos-surto-no-faial-ars-dos-acores-garante-que-situacao-nao-constitui-motivo-para-alarme/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1201:673:nowe:0:249/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/18191540/vila-nordeste-sao-miguel-acores-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "23bbb798",
+      "cat": "geral",
+      "title": "Antigo Matadouro do Porto abre progressivamente em 2027",
+      "summary": "O antigo matadouro de Campanhã, em obras desde 2021, falhou a abertura prevista para este verão. A câmara confirma entrega no fim de 2026 e inauguração faseada ao longo de 2027.",
+      "source": "Observador",
+      "date": "Tue, 25 Aug 2026 00:16:05 +0100",
+      "url": "https://observador.pt/2026/08/25/antigo-matadouro-do-porto-vai-ter-uma-abertura-progressiva-ao-longo-de-2027/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/18101016/29851169.jpg",
       "score": 0.73
     },
     {
@@ -289,6 +289,17 @@
       "score": 0.73
     },
     {
+      "id": "fd644781",
+      "cat": "ambiente",
+      "title": "Os oceanos do mundo atingiram a temperatura mais alta já registrada à medida que o El Niño cresce",
+      "summary": "O registo “é outro sinal claro de um oceano sob pressão crescente”, segundo a Dra. Samantha Burgess, do serviço europeu de alterações climáticas Copernicus.",
+      "source": "BBC News",
+      "date": "Mon, 24 Aug 2026 16:27:28 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg",
+      "score": 0.73
+    },
+    {
       "id": "8a3215d2",
       "cat": "tecnologia",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -311,24 +322,13 @@
       "score": 0.73
     },
     {
-      "id": "469bc017",
+      "id": "8cdc5bb0",
       "cat": "tecnologia",
-      "title": "Comboio de luxo português vai avançar com recurso a 11 carruagens da CP",
-      "summary": "Projecto tem apoio comunitário de 10 milhões de euros e deverá arrancar em 2030 com dez antigas carruagens da CP transformadas em comboio-hotel.",
+      "title": "EUA poderão revogar até 200 mil vistos de turismo e negócios a estrangeiros",
+      "summary": "Caso se concretize, esta será a maior revogação em larga escala de vistos na história dos Estados Unidos. Em causa estão os vistos B1 e B2 emitidos na última década.",
       "source": "Público",
-      "date": "Mon, 24 Aug 2026 17:13:43 GMT",
-      "url": "https://www.publico.pt/2026/08/24/economia/noticia/comboio-luxo-portugues-vai-avancar-recurso-11-carruagens-cp-2185929",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "88d09995",
-      "cat": "ciencia",
-      "title": "Câmara de Coimbra reconhece deficiência no serviço. “O lixo não desaparece porque o executivo mudou de cor”",
-      "summary": "O vereador da IL apresentou à Câmara de Coimbra um programa municipal para a reforma do serviço de recolha de resíduos volumosos. Ana Abrunhosa admite que o lixo continua a ser um problema.",
-      "source": "Público",
-      "date": "Mon, 24 Aug 2026 17:13:25 GMT",
-      "url": "https://www.publico.pt/2026/08/24/local/noticia/camara-reconhece-deficiencia-servico-lixo-nao-desaparece-executivo-mudou-cor-2185971",
+      "date": "Mon, 24 Aug 2026 23:29:38 GMT",
+      "url": "https://www.publico.pt/2026/08/25/mundo/noticia/eua-poderao-revogar-ate-200-mil-vistos-turismo-negocios-estrangeiros-2185995",
       "img": null,
       "score": 0.7
     }
