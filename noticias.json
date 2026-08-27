@@ -1,7 +1,18 @@
 {
-  "last_update": "27/08/2026 08:52 UTC",
+  "last_update": "27/08/2026 22:11 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "72705605",
+      "cat": "saude",
+      "title": "O que deu certo esta semana: um ‘momento crucial’ para a pesquisa do câncer e muito mais",
+      "summary": "Um ‘momento crucial’ para o tratamento do câncer, o ressurgimento das baleias e a cidade que tornou o transporte público gratuito, e mais",
+      "source": "Positive News",
+      "date": "Fri, 21 Aug 2026 05:00:44 +0000",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/08/iStock-2216119317.jpg",
+      "score": 0.82
+    },
     {
       "id": "4c6608d4",
       "cat": "tecnologia",
@@ -17,7 +28,7 @@
       "id": "80caa624",
       "cat": "tecnologia",
       "title": "Colocando lesmas no mapa: agricultores são pioneiros na proteção de culturas de precisão",
-      "summary": "Uma nova ferramenta de mapeamento identifica onde as lesmas têm maior probabilidade de atacar, ajudando os agricultores a reduzir o uso de pesticidas e ao mesmo tempo protegendo as colheitas. O post Colocando lesmas no mapa: agricultores são pioneiros na proteção de colheitas de precisão apareceu pela primeira vez em Notícias Positivas.",
+      "summary": "Uma nova ferramenta de mapeamento identifica onde as lesmas têm maior probabilidade de atacar, ajudando os agricultores a reduzir o uso de pesticidas e ao mesmo tempo proteger as colheitas. O post Colocando lesmas no mapa: agricultores são pioneiros na proteção de colheitas de precisão apareceu pela primeira vez em Notícias Positivas.",
       "source": "Positive News",
       "date": "Wed, 26 Aug 2026 07:00:05 +0000",
       "url": "https://www.positive.news/environment/putting-slugs-on-the-map-farmers-pioneer-precision-crop-protection/",
@@ -36,14 +47,14 @@
       "score": 0.79
     },
     {
-      "id": "72705605",
-      "cat": "saude",
-      "title": "O que deu certo esta semana: as boas notícias que importam",
-      "summary": "Um ‘momento crucial’ para o tratamento do câncer, o ressurgimento das baleias e a cidade que tornou o transporte público gratuito e muito mais O post O que deu certo esta semana: as boas notícias que importam apareceu primeiro em Notícias Positivas.",
-      "source": "Positive News",
-      "date": "Fri, 21 Aug 2026 05:00:44 +0000",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/08/iStock-2216119317.jpg",
+      "id": "a009616e",
+      "cat": "ciencia",
+      "title": "A IA pesquisou 100 milhões de possibilidades e encontrou uma maneira mais barata de imprimir em 3D uma liga de foguete da NASA",
+      "summary": "Os pesquisadores usaram a IA para pesquisar mais de 100 milhões de configurações possíveis para impressão 3D de uma liga de alto desempenho da NASA. Depois de apenas 40 experimentos, o sistema identificou seis configurações bem-sucedidas, incluindo uma que funcionou a um nível recorde de 500 watts. Isso poderia permitir o GRCop-42, atualmente difícil",
+      "source": "ScienceDaily",
+      "date": "Thu, 27 Aug 2026 09:08:01 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+      "img": "https://www.sciencedaily.com/images/1920/3d-printing-metal-parts-close.webp",
       "score": 0.79
     },
     {
@@ -58,69 +69,36 @@
       "score": 0.79
     },
     {
-      "id": "4a354f4f",
+      "id": "bd6cf467",
+      "cat": "desporto",
+      "title": "Taranto 2026. Equipa portuguesa mista de Padel garante prata ou ouro",
+      "summary": "Nos Jogos do Mediterrâneo, a equipa mista de Padel já garantiu a prata ou o ouro na final de amanhã.",
+      "source": "RTP",
+      "date": "Thu, 27 Aug 2026 22:05:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/taranto-2026-equipa-portuguesa-mista-de-padel-garante-prata-ou-ouro_v1761959",
+      "img": "https://cdn-images.rtp.pt/icm/images/cb/cb897958b4031c41dc9c8fe2a9cd3d59_N.jpg?",
+      "score": 0.76
+    },
+    {
+      "id": "43d27a54",
+      "cat": "tecnologia",
+      "title": "Homem salva bebê lontra com RCP: ‘Uma vida é uma vida, não importa o que seja’",
+      "summary": "É preciso uma aldeia para criar uma criança, dizem. Bem, uma história chega até nós agora de Alert Bay, na Colúmbia Britânica, onde foi necessária uma aldeia para salvar um. Foi um madeireiro e pescador aposentado chamado Gordon Mellish quem primeiro resgatou três filhotes de lontras, conforme foi informado por um vizinho no [&#8230;] The post",
+      "source": "Good News Network",
+      "date": "Thu, 27 Aug 2026 15:30:41 +0000",
+      "url": "https://www.goodnewsnetwork.org/man-saves-baby-otter-with-cpr-a-lifes-a-life-no-matter-what-it-is/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/credit-the-revived-otter-supplied-to-CTV.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "21b563c9",
       "cat": "ambiente",
-      "title": "Catalisador atômico revela o valor oculto dos resíduos vegetais",
-      "summary": "Os cientistas criaram um catalisador altamente eficiente que decompõe a lignina teimosa dos resíduos vegetais em produtos químicos úteis sob condições relativamente amenas. Ao revelar exactamente como funciona o catalisador a nível atómico, a descoberta poderá ajudar a transformar resíduos florestais e agrícolas em energias renováveis.",
-      "source": "ScienceDaily",
-      "date": "Tue, 25 Aug 2026 06:09:15 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
-      "img": "https://www.sciencedaily.com/images/1920/turning-plant-waste-into-valuable-chemicals.webp",
-      "score": 0.79
-    },
-    {
-      "id": "26ac675d",
-      "cat": "tecnologia",
-      "title": "A quem rezam os robôs quando precisam de ganhar?",
-      "summary": "Em que família pensarão? Por e para quem correrão? Se lhes faltarem as forças? Mesmo que Deus não exista, como suplantar aquela espécie de super-poder que a fé e a esperança desbloqueiam nos humanos?",
-      "source": "Observador",
-      "date": "Thu, 27 Aug 2026 00:23:52 +0100",
-      "url": "https://observador.pt/opiniao/a-quem-rezam-os-robos-quando-precisam-de-ganhar/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2352%3A2352%3Anowe%3A864%3A30%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151654%2Fjporfirio-retratos-redacao-2026-01-94-scaled.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "50097145",
-      "cat": "tecnologia",
-      "title": "Sobre jornalismo",
-      "summary": "Não havendo investimento da comunicação social em mecanismos internos que reforcem a integridade do jornalismo praticado sobra, aos consumidores, a solução de deixar de confiar no serviço prestado",
-      "source": "Observador",
-      "date": "Thu, 27 Aug 2026 00:22:21 +0100",
-      "url": "https://observador.pt/opiniao/sobre-jornalismo/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1256%3A1256%3Anowe%3A64%3A28%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F05%2F26131553%2Fhenrique-pereira-dos-santos.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "f3d080d2",
-      "cat": "cultura",
-      "title": "“Ser uma referência no humor constrói-se com continuidade”. Celebração dos 30 anos chega também ao Worten Mock Fest",
-      "summary": "O Worten Mock Fest está de regresso ao Cinema São Jorge entre 28 e 30 de agosto. Na sua segunda edição, o festival de comédia volta a contar com o patrocínio da marca, que vê a parceria &#8220;com uma perspetiva de continuidade&#8221;, assinala ao +M Andreia Vaz, head of brand &#38; customer experie",
-      "source": "ECO",
-      "date": "Thu, 27 Aug 2026 08:46:59 +0000",
-      "url": "https://eco.sapo.pt/2026/08/27/ser-uma-referencia-no-humor-constroi-se-com-continuidade-celebracao-dos-30-anos-chega-tambem-ao-worten-mock-fest/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-img-worten-mock-fest-2025-2.jpeg",
-      "score": 0.76
-    },
-    {
-      "id": "92f1e5f9",
-      "cat": "tecnologia",
-      "title": "As populações de leões da Índia aumentaram 70% e o habitat total 15% na última década",
-      "summary": "As populações de leões asiáticos que vivem no oeste da Índia aumentaram 70% na última década, enquanto as suas pastagens também aumentaram 15%. Em uma grande área protegida chamada Grande Paisagem de Gir, no estado de Gujurat, os animais agora são 891, contra 523 leões em 2015. Embora quase inteiramente pictu",
+      "title": "Paquistão combina santuários de golfinhos ao longo do rio Indo, protegendo 250 milhas de habitat",
+      "summary": "O Paquistão criou um santuário de vida selvagem ao longo de 200 quilómetros do rio Indo, onde se estima que vivam 440 destes extraordinários cetáceos de água doce. O ameaçado golfinho do rio Indo tem visto grandes declínios na quantidade de rio que é capaz de acessar à medida que o crescimento econômico do Paquistão",
       "source": "Good News Network",
-      "date": "Wed, 26 Aug 2026 11:00:04 +0000",
-      "url": "https://www.goodnewsnetwork.org/indias-lion-populations-increase-70-total-habitat-by-15-over-the-last-decade/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/03/A-family-of-Asiatic-Lions-in-Gir-National-Forest-CC-3.0.-Mayankvagadiya-e1679059557330.jpeg",
-      "score": 0.76
-    },
-    {
-      "id": "c4554535",
-      "cat": "tecnologia",
-      "title": "EUA aprovam primeiro medicamento que ataca a causa raiz da narcolepsia em vez de seus sintomas",
-      "summary": "Uma empresa farmacêutica japonesa desenvolveu um medicamento que trata a causa raiz de uma das principais formas de narcolepsia e está comemorando por se tornar o primeiro desse tipo a receber a aprovação da FDA americana. A narcolepsia tipo 1 atinge 120.000 pessoas nos EUA e é caracterizada por episódios repentinos de intensidade diurna",
-      "source": "Good News Network",
-      "date": "Tue, 25 Aug 2026 15:00:15 +0000",
-      "url": "https://www.goodnewsnetwork.org/us-approves-first-drug-that-targets-root-cause-of-narcolepsy-rather-than-its-symptoms/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/drowsiness-daydreaming-sleep-unsplash.jpg",
+      "date": "Thu, 27 Aug 2026 13:00:54 +0000",
+      "url": "https://www.goodnewsnetwork.org/pakistan-combines-river-dolphin-sanctuaries-along-the-indus-river-protecting-250-miles-of-habitat/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/©-WWF-Pakistan-editorial-use-only.jpg",
       "score": 0.76
     },
     {
@@ -138,7 +116,7 @@
       "id": "4163289c",
       "cat": "saude",
       "title": "Avanço da vacina impede o retorno do câncer em estudo",
-      "summary": "Uma nova injeção estendeu o período de tempo que os pacientes ficaram livres do câncer, mas não está claro por quanto tempo.",
+      "summary": "Uma nova injeção estendeu o período de tempo em que os pacientes ficaram livres do câncer, mas não está claro por quanto tempo.",
       "source": "BBC News",
       "date": "Thu, 20 Aug 2026 08:10:33 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
@@ -146,14 +124,14 @@
       "score": 0.76
     },
     {
-      "id": "1ddfa8df",
+      "id": "3d313976",
       "cat": "ciencia",
-      "title": "Medicamentos comuns podem mudar seu intestino por anos",
-      "summary": "Medicamentos comuns podem remodelar o microbioma intestinal muito depois de a última dose ser tomada. Num estudo com mais de 2.500 pessoas, os investigadores descobriram alterações microbianas duradouras ligadas não só aos antibióticos, mas também aos antidepressivos, beta-bloqueadores, medicamentos redutores de acidez e benzodiazepinas. Alguns efeitos que",
+      "title": "Um misterioso zumbido cósmico pode vir de estrelas escuras de 13 bilhões de anos",
+      "summary": "A misteriosa origem das ondas gravitacionais de hoje pode preservar pistas sobre como se formaram os primeiros buracos negros supermassivos do Universo. Os descendentes de hipotéticas Estrelas Negras podem ser responsáveis ​​por uma grande parte do sinal, oferecendo uma nova maneira surpreendente de investigar o amanhecer cósmico e a matéria escura.",
       "source": "ScienceDaily",
-      "date": "Mon, 24 Aug 2026 09:14:50 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
-      "img": "https://www.sciencedaily.com/images/1920/gut-health-human-digestive-system.webp",
+      "date": "Thu, 27 Aug 2026 06:26:04 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
+      "img": "https://www.sciencedaily.com/images/1920/supermassive-dark-star.webp",
       "score": 0.76
     },
     {
@@ -168,47 +146,25 @@
       "score": 0.76
     },
     {
-      "id": "18ef6d9c",
+      "id": "6362beae",
       "cat": "tecnologia",
-      "title": "Brasileiros temem votar em NY, e Brasil busca centro de votação protegido do ICE",
-      "summary": "Consulado-geral encontra local onde é possível organizar filas dentro de prédios, sem necessidade de esperar na rua. Imigrantes de regiões com maior presença da agência de imigração vivem com medo.",
-      "source": "Público",
-      "date": "Thu, 27 Aug 2026 08:14:27 GMT",
-      "url": "https://www.publico.pt/2026/08/27/publico-brasil/noticia/brasileiros-temem-votar-ny-brasil-busca-centro-votacao-protegido-ice-2186232",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "7677b439",
-      "cat": "tecnologia",
-      "title": "Quando os trajes de papel de São Bartolomeu forem “por água abaixo”, a “missão foi cumprida”",
-      "summary": "Cortejo da Foz foi este ano incluído no Inventário Nacional do Património Cultural Imaterial e conta com um número recorde de participantes: serão perto de 700 pessoas a desfilar pelas ruas no dia 30.",
-      "source": "Público",
-      "date": "Thu, 27 Aug 2026 08:11:00 GMT",
-      "url": "https://www.publico.pt/2026/08/27/local/reportagem/trajes-papel-sao-bartolomeu-agua-abaixo-missao-cumprida-2186068",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "c5d8077d",
-      "cat": "tecnologia",
-      "title": "Águia-imperial-ibérica: os bons ventos que chegaram de Espanha",
-      "summary": "Apesar de sempre ter aparecido nos céus portugueses, a espécie chegou a ser dada como extinta no país enquanto nidificante. Hoje, o número de casais nidificantes continua baixo.",
-      "source": "Público",
-      "date": "Thu, 27 Aug 2026 07:12:00 GMT",
-      "url": "https://www.publico.pt/2026/08/27/azul/noticia/aguiaimperialiberica-bons-ventos-chegaram-espanha-2186010",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "59e127d5",
-      "cat": "tecnologia",
-      "title": "2h. Ormuz. Os detalhes do acordo entre Irão e Omã",
-      "summary": "Embarcações serão sujeitas a vigilância antes de entrarem no estreito e só poderão atravessar com autorização de Teerão. Ainda, Marques Mendes pede \"humildade democrática\" ao Governo e à oposição.",
+      "title": "Diallo bate recorde nacional e vai à final da Diamond League",
+      "summary": "A barreirista portuguesa marcou 53,30 segundos no Meeting de Zurique, melhorando em 25 centésimas o máximo que havia estabelecido nos Europeus de Birmingham.",
       "source": "Observador",
-      "date": "Thu, 27 Aug 2026 02:16:57 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2392/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Thu, 27 Aug 2026 22:21:38 +0100",
+      "url": "https://observador.pt/2026/08/27/fatoumata-diallo-bate-recorde-nacional-dos-400-metros-barreiras-em-zurique-e-qualifica-se-para-final-da-diamond-league/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/27201645/47591681.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "a58f05c0",
+      "cat": "tecnologia",
+      "title": "Rússia estará a preparar nova vaga de mobilização",
+      "summary": "De acordo com dados da inteligência ucraniana, as autoridades russas estarão a planear recrutar 300 mil pessoas este ano e outras 300 mil no próximo ano.",
+      "source": "Observador",
+      "date": "Thu, 27 Aug 2026 21:27:40 +0100",
+      "url": "https://observador.pt/programas/a-guerra-traduzida/russia-estara-a-preparar-nova-vaga-de-mobilizacao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg",
       "score": 0.73
     },
     {
@@ -223,69 +179,47 @@
       "score": 0.73
     },
     {
-      "id": "cec2ab72",
+      "id": "04ecec2a",
       "cat": "tecnologia",
-      "title": "Guarda-redes cabo-verdiano Vozinha estreia-se em vitória do Colo-Colo na taça",
-      "summary": "O guarda-redes cabo-verdiano Josimar José Évora Dias &#039;Vozinha&#039; estreou-se pelo clube chileno Colo-Colo, numa vitória por 3-0 frente ao Unión Española, em partida a contar para a Taça do Chile.",
+      "title": "Fatoumata melhora recorde nacional dos 400 metros barreiras",
+      "summary": "A atleta portuguesa Fatoumata Diallo bateu hoje o seu recorde nacional dos 400 metros barreiras, com 53,30 segundos no Meeting suíço de Zurique, garantindo o quarto lugar e qualificação para a final da Diamond League.",
       "source": "RTP",
-      "date": "Thu, 27 Aug 2026 09:33:56 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/guarda-redes-cabo-verdiano-vozinha-estreia-se-em-vitoria-do-colo-colo-na-taca_d1761807",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/29/29632ef20faca19f62aea1ffcc73528a?w=350&amp;q=50&amp;rect=0,237,2066,1133&amp;auto=format",
+      "date": "Thu, 27 Aug 2026 21:53:30 +0100",
+      "url": "https://www.rtp.pt/noticias/atletismo/fatoumata-melhora-recorde-nacional-dos-400-metros-barreiras_d1761943",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca5b01cd00804d0e368023742d79132a?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "ba59dfc5",
-      "cat": "desporto",
-      "title": "FC Porto e Sporting conhecem oito adversários na fase de liga",
-      "summary": "O campeão português FC Porto e o Sporting, ambos qualificados diretamente, conhecem hoje os seus oito adversários na fase de liga da Liga dos Campeões de futebol, no sorteio marcado para o Mónaco.",
-      "source": "RTP",
-      "date": "Thu, 27 Aug 2026 09:32:29 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/fc-porto-e-sporting-conhecem-oito-adversarios-na-fase-de-liga_d1761806",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/da/da1a87619af0dc870d1d5c5df0a3453e?w=350&amp;q=50&amp;rect=0,213,1800,987&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "0b7895f3",
-      "cat": "desporto",
-      "title": "Sporting de Braga em vantagem para carimbar fase de liga em Viena",
-      "summary": "O Sporting de Braga procura hoje o apuramento para a fase de liga da Liga Conferência em futebol, defrontando fora o Áustria Viena depois do triunfo caseiro por 2-0, na primeira mão do play-off.",
-      "source": "RTP",
-      "date": "Thu, 27 Aug 2026 09:29:27 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/sporting-de-braga-em-vantagem-para-carimbar-fase-de-liga-em-viena_d1761805",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5d/5d58e31ffcef71771d4404665fc80977?w=350&amp;q=50&amp;rect=0,0,2520,1382&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "664b15a6",
+      "id": "36dd71ab",
       "cat": "tecnologia",
-      "title": "Alemanha em negociações para financiar a operação Tridente",
-      "summary": "A Alemanha está em negociações para investir no programa de dissuasão nuclear britânico, nomeadamente através de apoio financeiro ao Tridente, avança o The Telegraph. Berlim estará a procurar uma maior integração nos programas nucleares britânico e francês, em vez de desenvolver a sua própria arma n",
+      "title": "Bernardo Pereira campeão da Europa sénior e sub-23 de canoagem de mar",
+      "summary": "O português Bernardo Pereira sagrou-se esta quinta-feira campeão da Europa absoluto e sub-23 de canoagem de mar, enquanto Constança Frazão garantiu o título júnior, categoria na qual Pedro Moreira foi `vice` em Brest, França.",
+      "source": "RTP",
+      "date": "Thu, 27 Aug 2026 19:48:18 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/bernardo-pereira-campeao-da-europa-senior-e-sub-23-de-canoagem-de-mar_d1761912",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "c384e40e",
+      "cat": "tecnologia",
+      "title": "Montenegro deseja “entendimento nacional” sobre reforma da Segurança Social antes das eleições",
+      "summary": "O líder do PSD e primeiro-ministro desejou esta quinta-feira que seja possível &#8220;um entendimento nacional&#8221; antes das próximas eleições quanto a alterações estruturais na Segurança Social que garanta a sustentabilidade do sistema. Luís Montenegro respondeu esta quinta-feira durante hora e ",
       "source": "ECO",
-      "date": "Thu, 27 Aug 2026 08:07:32 +0000",
-      "url": "https://eco.sapo.pt/2026/08/27/alemanha-em-negociacoes-para-financiar-a-operacao-tridente/",
-      "img": "https://eco.imgix.net/uploads/2017/09/cropped-chegada_do_submarino_nrp_tridente_a_base_naval_do_alfeite.jpg",
+      "date": "Thu, 27 Aug 2026 19:50:54 +0000",
+      "url": "https://eco.sapo.pt/2026/08/27/montenegro-deseja-entendimento-nacional-sobre-reforma-da-seguranca-social-antes-das-eleicoes/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc20260814476122832f3a1230-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "5020adca",
+      "id": "5d042463",
       "cat": "tecnologia",
-      "title": "Mercosul e Vietname iniciam negociações para acordo comercial",
-      "summary": "O Mercosul e o Vietname realizaram, em Buenos Aires, a primeira ronda de negociações com o objetivo de alcançar um acordo comercial preferencial. &#8220;Tive o prazer de receber as equipas de trabalho na primeira ronda presencial de negociações comerciais entre o Mercosul e o Vietname&#8221;, declar",
-      "source": "ECO",
-      "date": "Thu, 27 Aug 2026 06:24:41 +0000",
-      "url": "https://eco.sapo.pt/2026/08/27/mercosul-e-vietname-iniciam-negociacoes-para-acordo-comercial/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-47196536-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "48d62849",
-      "cat": "cultura",
-      "title": "Off-roaders foram pegos danificando site protegido após postar vídeos no TikTok",
-      "summary": "Três homens foram condenados por conduzirem um comboio de Liverpool para Berwyn SSSI.",
+      "title": "Michael Sheen espera que reação 'extraordinária' ao documentário sobre resíduos tóxicos estimule ação",
+      "summary": "Dezenas de pessoas contataram a BBC Wales após a cobertura da investigação de Sheen sobre a gigante química Monsanto.",
       "source": "BBC News",
-      "date": "Wed, 26 Aug 2026 10:42:13 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyl62pp1zo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7300/live/b4336c00-a13a-11f1-9d37-9b3d56456ba1.jpg",
+      "date": "Thu, 27 Aug 2026 09:37:08 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c70dwxr321ro?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fee/live/da0b2dc0-a174-11f1-87d4-e91caee13898.jpg",
       "score": 0.73
     },
     {
@@ -311,6 +245,83 @@
       "score": 0.73
     },
     {
+      "id": "8e46ada0",
+      "cat": "tecnologia",
+      "title": "Sp. Braga chega à Liga Conferência com exibição intermitente em Viena",
+      "summary": "Minhotos geriram a vantagem da primeira mão e, após um par de ajustes de Carlos Vicens, controlaram o seu destino no play-off .",
+      "source": "Público",
+      "date": "Thu, 27 Aug 2026 20:37:29 GMT",
+      "url": "https://www.publico.pt/2026/08/27/desporto/cronica_de_jogo/sp-braga-chega-liga-conferencia-exibicao-intermitente-viena-2186329",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "5a759de9",
+      "cat": "tecnologia",
+      "title": "O mundo era melhor com Dolly Parton",
+      "summary": "A filantropia, vinda de quem nasceu de uma família muito pobre, estendeu-se a muitas áreas e uma das mais surpreendentes é talvez a da ciência. Editorial deDavid Pontes",
+      "source": "Público",
+      "date": "Thu, 27 Aug 2026 20:30:58 GMT",
+      "url": "https://www.publico.pt/2026/08/27/opiniao/editorial/mundo-melhor-dolly-parton-2186321",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "43a9b193",
+      "cat": "tecnologia",
+      "title": "A Europa ainda está na montanha — há novas edições de Thomas Mann nas livrarias",
+      "summary": "Novas edições portuguesas, graças à entrada do escritor alemão no domínio público, e dois livros recentes revelam as ligações entre o desejo sexual, a vida familiar e as mudanças políticas.",
+      "source": "Público",
+      "date": "Thu, 27 Aug 2026 20:11:00 GMT",
+      "url": "https://www.publico.pt/2026/08/27/culturaipsilon/noticia/europa-montanha-ha-novas-edicoes-thomas-mann-livrarias-2186055",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "f4d436db",
+      "cat": "tecnologia",
+      "title": "Quais são os possíveis adversários de Benfica e Torreense",
+      "summary": "Benfica confirmou presença na Liga Europa e entra no pote 1 do sorteio, Torreense faz a estreia na UEFA no pote 4. Juventus, AC Milan e Bayer Leverkusen são nomes mais fortes entre várias surpresas.",
+      "source": "Observador",
+      "date": "Thu, 27 Aug 2026 22:22:20 +0100",
+      "url": "https://observador.pt/2026/08/27/os-baroes-de-italia-os-principes-de-inglaterra-e-varias-casas-que-querem-ser-reais-os-possiveis-adversarios-de-benfica-e-torreense/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/27053900/47639575.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "511e4432",
+      "cat": "tecnologia",
+      "title": "Humildade democrática",
+      "summary": "É necessário deixar de olhar para o médio e longo prazo como um problema dos mais novos ou daqueles que ainda estão por vir.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 27 Aug 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/humildade-democratica",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
+      "score": 0.7
+    },
+    {
+      "id": "93342055",
+      "cat": "tecnologia",
+      "title": "Mais prudência no crédito. Mas a que custo?",
+      "summary": "O desafio não está em escolher entre prudência e acesso ao crédito. A verdadeira questão é garantir que essa prudência não se transforma, inadvertidamente, numa barreira adicional ao acesso responsável à habitação.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 27 Aug 2026 22:20:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/mais-prudencia-no-credito-mas-a-que-custo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-07/img_394x514uu2024-07-03-17-46-16-480525.png",
+      "score": 0.7
+    },
+    {
+      "id": "d8e6e8f8",
+      "cat": "tecnologia",
+      "title": "À terceira renovação da PSU, trabalho social sobe para 20 horas semanais",
+      "summary": "Regulamentação da nova prestação já foi publicada e prevê que trabalho social seja compensado com senhas de presença nestes casos. Beneficiários recebem 13,43 euros por semana.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 27 Aug 2026 22:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/seguranca-social/detalhe/a-terceira-renovacao-da-psu-trabalho-social-sobe-para-20-horas-semanais",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-18-14-52-00-525343.jpg",
+      "score": 0.7
+    },
+    {
       "id": "c8ced442",
       "cat": "tecnologia",
       "title": "Soldados ingénuos, como formigas no Chapitô",
@@ -319,17 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
