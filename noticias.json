@@ -1,7 +1,18 @@
 {
-  "last_update": "30/08/2026 05:01 UTC",
+  "last_update": "30/08/2026 11:44 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "83e8cb13",
+      "cat": "tecnologia",
+      "title": "Canoagem: João Ribeiro e Messias Baptista são vice-campeões mundiais em K2 500m",
+      "summary": "A dupla de canoístas portugueses junta esta medalha de prata à conquistada no ano passado e ao ouro alcançado em 2023, na Alemanha.",
+      "source": "Público",
+      "date": "Sun, 30 Aug 2026 10:14:02 GMT",
+      "url": "https://www.publico.pt/2026/08/30/desporto/noticia/canoagem-joao-ribeiro-messias-baptista-sao-vicecampeoes-mundiais-k2-500m-2186493",
+      "img": null,
+      "score": 0.82
+    },
     {
       "id": "72705605",
       "cat": "saude",
@@ -12,6 +23,28 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-34-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/08/iStock-2216119317.jpg",
       "score": 0.82
+    },
+    {
+      "id": "124c0123",
+      "cat": "tecnologia",
+      "title": "Mais uma: Ribeiro e Messias sagram-se vice-campeões mundiais",
+      "summary": "Depois do bronze no K4 com Gustavo Gonçalves e Pedro Casinha, João Ribeiro e Messias Baptista repetiram o resultado de 2025 e ficaram com a medalha de prata no K2 500 apenas atrás da Alemanha.",
+      "source": "Observador",
+      "date": "Sun, 30 Aug 2026 09:58:55 +0100",
+      "url": "https://observador.pt/2026/08/30/nao-foi-o-ouro-continou-a-ser-de-prata-joao-ribeiro-e-messias-baptista-sagram-se-vice-campeoes-mundiais-de-k2-500/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/08/09131111/43377180.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "82645f11",
+      "cat": "tecnologia",
+      "title": "Mundiais de canoagem. Medalha de prata para João Ribeiro e Messias Baptista em K2 500 metros",
+      "summary": "João Ribeiro e Messias Baptista conquistaram, este domingo, a medalha de prata em K2 500 metros nos mundiais de canoagem.",
+      "source": "RTP",
+      "date": "Sun, 30 Aug 2026 11:04:45 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundiais-de-canoagem-medalha-de-prata-para-joao-ribeiro-e-messias-baptista-em-k2-500-metros_d1762346",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5cc441aee106a155831cf387ca3cc714?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "8d6a4e41",
@@ -49,7 +82,7 @@
     {
       "id": "126cca51",
       "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "O solo vermelho da Austrália pode estar escondendo uma enorme fonte de energia limpa",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "ScienceDaily",
       "date": "Sat, 29 Aug 2026 06:05:43 EDT",
@@ -69,25 +102,25 @@
       "score": 0.79
     },
     {
-      "id": "897d4c0b",
+      "id": "2cc94098",
+      "cat": "tecnologia",
+      "title": "Messi com 'póquer' e assistência no 7-1 do Inter Miami",
+      "summary": "Messi, de 39 anos, faturou aos 40, 52, 83 e 90+6, o primeiro e o último na transformação de livres diretos, no que foi a primeira vez que marcou quatro golos pelos campeões em título.",
+      "source": "Observador",
+      "date": "Sun, 30 Aug 2026 10:09:53 +0100",
+      "url": "https://observador.pt/2026/08/30/messi-com-poquer-e-assistencia-no-7-1-do-inter-miami-ao-montreal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/30031613/47649484.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "c18534b2",
       "cat": "tecnologia",
       "title": "Zaidu sofre \"lesão no adutor direito\" na vitória do FC Porto em Viseu",
       "summary": "Viseu, 29 ago 2026 (Lusa) - O lateral esquerdo Zaidu sofreu uma lesão muscular na coxa direita durante o encontro do FC Porto frente ao Académico de Viseu, que os `azuis e brancos` venceram por 3-0, confirmou o campeão nacional de futebol.",
       "source": "RTP",
       "date": "Sat, 29 Aug 2026 22:40:44 +0100",
-      "url": "https://www.rtp.pt/noticias/fc-porto/zaidu-sofre-lesao-no-adutor-direito-na-vitoria-do-fc-porto-em-viseu_d1762302",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/zaidu-sofre-lesao-no-adutor-direito-na-vitoria-do-fc-porto-em-viseu_d1762302",
       "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "c30e3505",
-      "cat": "desporto",
-      "title": "Dortmund estreia-se com vitória, Elversberg faz história",
-      "summary": "O Borussia Dortmund, vice-campeão, estreou-se na Liga alemã de futebol com um triunfo caseiro sobre o Hamburgo (2-0), enquanto o Bayer Leverkusen foi surpreendido pelo Elversberg (3-2), que fez história.",
-      "source": "RTP",
-      "date": "Sat, 29 Aug 2026 22:10:49 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/dortmund-estreia-se-com-vitoria-elversberg-faz-historia_d1762298",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/06/06df8d752d2d07d93f2f8260aca0b305?w=350&amp;q=50&amp;rect=0,142,1240,680&amp;auto=format",
       "score": 0.76
     },
     {
@@ -115,7 +148,7 @@
     {
       "id": "fe1535ce",
       "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Ondas cerebrais do sono profundo oferecem proteção contra Alzheimer, mostra nova pesquisa",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Good News Network",
       "date": "Sat, 29 Aug 2026 14:00:44 +0000",
@@ -142,7 +175,7 @@
       "source": "BBC News",
       "date": "Sat, 29 Aug 2026 10:51:21 GMT",
       "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ef/live/040d5720-a453-11f1-b109-879e35c24276.jpg",
       "score": 0.76
     },
     {
@@ -159,8 +192,8 @@
     {
       "id": "71287beb",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Transformando as antigas minas de carvão da Grã-Bretanha em fontes de energia limpa",
+      "summary": "Na cidade de Gateshead, no nordeste da Inglaterra, a mineração de carvão está no sangue. Até ao golpe de misericórdia final dado pela purga do carvão de Margaret Thatcher na década de 1980, Gateshead explorava as suas escuras costuras subterrâneas já em 1344, quando cavalos de carga transportavam “carvão marinho”... The post Tra",
       "source": "Reasons to be Cheerful",
       "date": "Fri, 21 Aug 2026 08:00:31 +0000",
       "url": "https://reasonstobecheerful.world/mine-water-heat-gateshead/",
@@ -168,36 +201,25 @@
       "score": 0.76
     },
     {
-      "id": "f44b2416",
+      "id": "f83db4a8",
       "cat": "tecnologia",
-      "title": "US Open 2026 arranca com o guião em branco",
-      "summary": "Jaime Faria é o primeiro dos três portugueses a competir em Nova Iorque, diante do norte-americano Jenson Brooksby.",
+      "title": "Vulnerável a todos os riscos, a Grande Muralha Verde africana enfrenta fase decisiva",
+      "summary": "Quase a fazer 20 anos, um dos projectos mais emblemáticos de restauro de solos, que atravessa o continente para impedir o avanço das areias do Sara, está numa fase decisiva.",
       "source": "Público",
-      "date": "Sat, 29 Aug 2026 21:57:18 GMT",
-      "url": "https://www.publico.pt/2026/08/29/desporto/noticia/us-open-2026-arranca-guiao-branco-2186481",
+      "date": "Sun, 30 Aug 2026 09:03:00 GMT",
+      "url": "https://www.publico.pt/2026/08/30/azul/reportagem/vulneravel-riscos-muralha-verde-africana-enfrenta-fase-decisiva-2186271",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "70556e2a",
-      "cat": "tecnologia",
-      "title": "A maior vitória da época e o mesmo FC Porto de sempre",
-      "summary": "“Dragões” deram continuidade ao seu início perfeito, com um triunfo por 0-3 sobre o Académico de Viseu. Ao quinto jogo, quinta vitória e ainda zero golos sofridos.",
-      "source": "Público",
-      "date": "Sat, 29 Aug 2026 19:04:05 GMT",
-      "url": "https://www.publico.pt/2026/08/29/desporto/cronica_de_jogo/maior-vitoria-epoca-fc-porto-2186476",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "84d7a026",
-      "cat": "tecnologia",
-      "title": "1h. FPC diz que Pimenta pode ser melhor atleta português",
-      "summary": "Pimenta é o canoísta mais medalhado de sempre em K1 1.000. Ainda, hoje foi dia de reentreé da Iniciativa Liberal no Algarve.",
-      "source": "Observador",
-      "date": "Sun, 30 Aug 2026 01:14:54 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2368/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "id": "20dc11f6",
+      "cat": "sociedade",
+      "title": "Montenegro encerra hoje Universidade do Verão do PSD com Governo sob ameaça de moção de censura",
+      "summary": "Primeiro-ministro prometeu falar das reformas da educação.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 30 Aug 2026 08:57:10 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/montenegro-encerra-hoje-universidade-do-verao-do-psd-com-governo-sob-ameaca-de-mocao-de-censura",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-10-12-34-03-527943.jpg",
       "score": 0.73
     },
     {
@@ -212,17 +234,6 @@
       "score": 0.73
     },
     {
-      "id": "9342bd43",
-      "cat": "tecnologia",
-      "title": "Hikari: a luz no balcão do chef",
-      "summary": "O chef japonês apresenta no Porto um menu omakase guiado pela frescura, sazonalidade… e pelo paladar.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 29 Aug 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/hikari-a-luz-no-balcao-do-chef",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-28-08-47-00-528858.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -234,20 +245,20 @@
       "score": 0.73
     },
     {
-      "id": "4f208cb4",
-      "cat": "desporto",
-      "title": "Onde ver o quê? O mapa do desporto nos ecrãs para a época 2026/27",
-      "summary": "A época desportiva 2026/2027 arrancou com uma parceria que une a LiveModeTV e a Dazn. Do lado da Sport TV, há uma aposta no mercado espanhol. Com Portugal a preparar-se para a centralização dos direitos televisivos da Liga Portugal Betclic e da Liga Portugal Meu Super, que poderá alterar o panorama ",
+      "id": "5b115b55",
+      "cat": "tecnologia",
+      "title": "Montenegro encerra Universidade do Verão do PSD com Governo sob ameaça de moção de censura",
+      "summary": "O presidente do PSD e primeiro-ministro encerra este domingo a Universidade de Verão do partido, com a agenda política marcada pela discussão sobre a Segurança Social e pela ameaça do Chega em apresentar uma moção de censura ao Governo. Luís Montenegro participa a partir das 12h00 na sessão de encer",
       "source": "ECO",
-      "date": "Sat, 29 Aug 2026 16:24:20 +0000",
-      "url": "https://eco.sapo.pt/2026/08/29/onde-ver-o-que-o-mapa-do-desporto-nos-ecras-para-a-epoca-2026-27/",
-      "img": "https://eco.imgix.net/uploads/2025/07/cropped-whatsapp-image-2025-07-29-at-17-44-56.jpeg",
+      "date": "Sun, 30 Aug 2026 09:31:01 +0000",
+      "url": "https://eco.sapo.pt/2026/08/30/montenegro-encerra-universidade-do-verao-do-psd-com-governo-sob-ameaca-de-mocao-de-censura/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc2025081445484173miguelalopes-26-2.jpg",
       "score": 0.73
     },
     {
       "id": "5d4a2ffe",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Cães proporcionam segurança e conforto na movimentada estação de trem em ‘British First’",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Good News Network",
       "date": "Sat, 29 Aug 2026 11:00:45 +0000",
@@ -280,8 +291,8 @@
     {
       "id": "fb4acc2e",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "O que estamos lendo: uma cadeira de rodas robusta o suficiente para trilhas em parques nacionais",
+      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Vistas panorâmicas O Parque Nacional de Zion, em Utah, é pioneiro no transporte de visitantes: para reduzir o",
       "source": "Reasons to be Cheerful",
       "date": "Wed, 26 Aug 2026 08:00:49 +0000",
       "url": "https://reasonstobecheerful.world/what-were-reading-rugged-wheelchairs-national-parks/",
@@ -291,8 +302,8 @@
     {
       "id": "8a3215d2",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "A ‘Irmandade’ Protegendo os Recifes de Coral da Indonésia",
+      "summary": "Quando tinha 21 anos, Gabriela Nathania H mergulhou debaixo d'água com um grupo de quatro estranhos na costa de Gili Air. A pequena ilha é uma das três que compõem as Ilhas Gili, um arquipélago que mergulhadores de todo o mundo admiram pela sua incrível biodiversidade marinha. Mas sobre isso... O post The &#8216",
       "source": "Reasons to be Cheerful",
       "date": "Tue, 18 Aug 2026 14:31:25 +0000",
       "url": "https://reasonstobecheerful.world/saving-indonesias-coral-reefs-by-empowering-women/",
@@ -300,36 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "ee2f3554",
+      "id": "a0308dbb",
       "cat": "tecnologia",
-      "title": "Engolir em seco",
-      "summary": "Com o coração a clamar por vingança, ocorreu-me um sistema de classificação de alimentos que ajudaria a reduzir estas indigestões, adaptando as categorias dos processados e ultraprocessados. Crónica de Miguel Esteves Cardoso",
+      "title": "Fraca afluência marca início de votação para referendo constitucional na Guiné-Bissau",
+      "summary": "Oposição, várias organizações da sociedade civil e a maior confederação sindical do país apelaram ao boicote, acusando autores do golpe do ano passado de quererem fazer regressar Umaro Sissoco Embaló.",
       "source": "Público",
-      "date": "Sat, 29 Aug 2026 23:05:00 GMT",
-      "url": "https://www.publico.pt/2026/08/30/opiniao/cronica/engolir-seco-2186456",
+      "date": "Sun, 30 Aug 2026 10:49:32 GMT",
+      "url": "https://www.publico.pt/2026/08/30/mundo/noticia/fraca-afluencia-marca-inicio-votacao-referendo-constitucional-guinebissau-2186499",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "6b6861b7",
+      "id": "951713b2",
       "cat": "tecnologia",
-      "title": "Dias perfeitos",
-      "summary": "Ter medo da surpresa também é um modo de impedir o tempo de ser o tempo, com a possibilidade de termos de viver o que não queremos.",
+      "title": "Retomadas buscas pelo jovem desaparecido na Praia da Ursa",
+      "summary": "O alerta do desaparecimento do jovem ucraniano foi dado pelas 11h50 de sexta-feira por \"turistas que se encontravam nas proximidades\" e foram de imediato iniciadas buscas.",
       "source": "Observador",
-      "date": "Sun, 30 Aug 2026 02:20:53 +0100",
-      "url": "https://observador.pt/opiniao/dias-perfeitos/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1941%3A1940%3Anowe%3A488%3A542%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170600%2Ftiago-cavaco.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "18dc4525",
-      "cat": "tecnologia",
-      "title": "As notícias das 2h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Sun, 30 Aug 2026 02:16:23 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2395/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sun, 30 Aug 2026 10:20:29 +0100",
+      "url": "https://observador.pt/2026/08/30/buscas-pelo-jovem-desaparecido-na-praia-da-ursa-em-sintra-retomas-pelo-3-o-dia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/10/14112209/23005857.jpg",
       "score": 0.7
     }
   ]
