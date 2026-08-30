@@ -1,18 +1,7 @@
 {
-  "last_update": "30/08/2026 11:44 UTC",
+  "last_update": "30/08/2026 16:32 UTC",
   "total": 30,
   "news": [
-    {
-      "id": "83e8cb13",
-      "cat": "tecnologia",
-      "title": "Canoagem: João Ribeiro e Messias Baptista são vice-campeões mundiais em K2 500m",
-      "summary": "A dupla de canoístas portugueses junta esta medalha de prata à conquistada no ano passado e ao ouro alcançado em 2023, na Alemanha.",
-      "source": "Público",
-      "date": "Sun, 30 Aug 2026 10:14:02 GMT",
-      "url": "https://www.publico.pt/2026/08/30/desporto/noticia/canoagem-joao-ribeiro-messias-baptista-sao-vicecampeoes-mundiais-k2-500m-2186493",
-      "img": null,
-      "score": 0.82
-    },
     {
       "id": "72705605",
       "cat": "saude",
@@ -25,14 +14,25 @@
       "score": 0.82
     },
     {
-      "id": "124c0123",
+      "id": "b3bdce64",
       "cat": "tecnologia",
-      "title": "Mais uma: Ribeiro e Messias sagram-se vice-campeões mundiais",
-      "summary": "Depois do bronze no K4 com Gustavo Gonçalves e Pedro Casinha, João Ribeiro e Messias Baptista repetiram o resultado de 2025 e ficaram com a medalha de prata no K2 500 apenas atrás da Alemanha.",
+      "title": "O avô voltou para ficar: Pimenta conquista ouro no K1 5.000",
+      "summary": "Depois do quarto título mundial no K1 1.000, e defrontando adversários que estiveram apenas focados no K1 5.000, Fernando Pimenta somou a 187.ª medalha internacional com mais um ouro a fechar a prova.",
       "source": "Observador",
-      "date": "Sun, 30 Aug 2026 09:58:55 +0100",
-      "url": "https://observador.pt/2026/08/30/nao-foi-o-ouro-continou-a-ser-de-prata-joao-ribeiro-e-messias-baptista-sagram-se-vice-campeoes-mundiais-de-k2-500/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/08/09131111/43377180.jpg",
+      "date": "Sun, 30 Aug 2026 15:19:25 +0100",
+      "url": "https://observador.pt/2026/08/30/o-avo-voltou-para-ficar-mais-uma-vez-pimenta-fecha-mundiais-com-mais-um-titulo-no-k1-5-000-e-outro-recorde/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:160/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/30104408/fernando-pimenta-2.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "f8c35794",
+      "cat": "tecnologia",
+      "title": "João Ribeiro e Messias Baptista vice-campeões do mundo em K2 500 metros",
+      "summary": "João Ribeiro e Messias Batista conquistaram a medalha de prata no K2 500 metros no mundial de canoagem. É o terceiro pódio para Portugal na competição.",
+      "source": "RTP",
+      "date": "Sun, 30 Aug 2026 15:24:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/joao-ribeiro-e-messias-baptista-vice-campeoes-do-mundo-em-k2-500-metros_v1762374",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/00/001ae70f090457dca5cd93ee5e93ed0f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.79
     },
     {
@@ -47,14 +47,14 @@
       "score": 0.79
     },
     {
-      "id": "8d6a4e41",
+      "id": "1d99216a",
       "cat": "tecnologia",
-      "title": "Mundiais de canoagem. Fernando Pimenta é campeão do mundo em K1 1000M",
-      "summary": "Fernando Pimenta é campeão do Mundo. Depois do bronze em K4 500 metros, Portugal conquistou o ouro em K1 mil metros nos mundiais de canoagem.",
-      "source": "RTP",
-      "date": "Sat, 29 Aug 2026 22:33:48 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/mundiais-de-canoagem-fernando-pimenta-e-campeao-do-mundo-em-k1-1000m_v1762304",
-      "img": "https://cdn-images.rtp.pt/icm/images/bc/bcbbaf950a70e7ff2994774c1ecd25f8_N.jpg?",
+      "title": "Laboratório odontológico móvel traz dentistas voluntários para prestar cuidados a moradores de rua e vulneráveis ​​no Reino Unido",
+      "summary": "Foi lançado um fundo de um milhão de dólares para fornecer tratamento dentário aos membros mais vulneráveis ​​da Grã-Bretanha. A Fundação mydentist anunciou que está apoiando organizações de caridade que auxiliam comunidades carentes, incluindo aquelas que estão se recuperando de dependências ou que sofrem de pobreza extrema. É f",
+      "source": "Good News Network",
+      "date": "Sun, 30 Aug 2026 16:19:09 +0000",
+      "url": "https://www.goodnewsnetwork.org/mobile-dental-lab-brings-volunteer-dentists-to-uk-homeless/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/St-Pauls-Dental-clinic-England-mydentist-SWNS.jpeg",
       "score": 0.79
     },
     {
@@ -80,10 +80,21 @@
       "score": 0.79
     },
     {
+      "id": "8f0334e8",
+      "cat": "ciencia",
+      "title": "Pesquisadores revelam solução sustentável de espirulina para deficiência de vitamina B12",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "ScienceDaily",
+      "date": "Sun, 30 Aug 2026 01:17:05 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
+      "img": "https://www.sciencedaily.com/images/1920/vitamin-b12-chemical-formula.webp",
+      "score": 0.79
+    },
+    {
       "id": "126cca51",
       "cat": "ciencia",
       "title": "O solo vermelho da Austrália pode estar escondendo uma enorme fonte de energia limpa",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Os investigadores descobriram que as rochas ricas em ferro da Austrália Ocidental podem gerar hidrogénio naturalmente e que o processo pode ser acelerado para produzir quantidades muito maiores. Se puder ser ampliado, as vastas formações abaixo do Pilbara poderão tornar-se uma nova e importante fonte de energia de baixas emissões para os australianos.",
       "source": "ScienceDaily",
       "date": "Sat, 29 Aug 2026 06:05:43 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm",
@@ -91,65 +102,32 @@
       "score": 0.79
     },
     {
-      "id": "861d78d8",
-      "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "ScienceDaily",
-      "date": "Sat, 29 Aug 2026 08:24:41 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005220.htm",
-      "img": "https://www.sciencedaily.com/images/1920/connor-thompson-engine-oil-sample.webp",
-      "score": 0.79
-    },
-    {
-      "id": "2cc94098",
+      "id": "3f3dba0a",
       "cat": "tecnologia",
-      "title": "Messi com 'póquer' e assistência no 7-1 do Inter Miami",
-      "summary": "Messi, de 39 anos, faturou aos 40, 52, 83 e 90+6, o primeiro e o último na transformação de livres diretos, no que foi a primeira vez que marcou quatro golos pelos campeões em título.",
-      "source": "Observador",
-      "date": "Sun, 30 Aug 2026 10:09:53 +0100",
-      "url": "https://observador.pt/2026/08/30/messi-com-poquer-e-assistencia-no-7-1-do-inter-miami-ao-montreal/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/30031613/47649484.jpg",
+      "title": "Montenegro anuncia criação de Universidade de Bragança e Norte Interior",
+      "summary": "Primeiro-ministro prometeu igualmente um novo regime de autonomia e governação das escolas.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 30 Aug 2026 13:49:09 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-anuncia-criacao-de-universidade-de-braganca-e-norte-interior",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-07-12-38-00-527872.jpg",
       "score": 0.76
     },
     {
-      "id": "c18534b2",
+      "id": "6834dd56",
       "cat": "tecnologia",
-      "title": "Zaidu sofre \"lesão no adutor direito\" na vitória do FC Porto em Viseu",
-      "summary": "Viseu, 29 ago 2026 (Lusa) - O lateral esquerdo Zaidu sofreu uma lesão muscular na coxa direita durante o encontro do FC Porto frente ao Académico de Viseu, que os `azuis e brancos` venceram por 3-0, confirmou o campeão nacional de futebol.",
+      "title": "Estrela arranca vitória no campo do Nacional",
+      "summary": "O Estrela da Amadora impôs-se domingo por 3-2 na visita ao Nacional, em jogo a quarta jornada, conseguindo o primeiro triunfo na edição 2026/27 da I Liga portuguesa de futebol.",
       "source": "RTP",
-      "date": "Sat, 29 Aug 2026 22:40:44 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/zaidu-sofre-lesao-no-adutor-direito-na-vitoria-do-fc-porto-em-viseu_d1762302",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "edfcaf46",
-      "cat": "tecnologia",
-      "title": "A pensar no próximo Mundial, investidores sauditas vão olhar para negócios de “desporto e energia” em Portugal",
-      "summary": "A delegação de empresários sauditas que está em Portugal até terça-feira vai começar a olhar para os setores do desporto e da energia, depois de assinar acordos com empresas portuguesas ligadas à inovação dos cuidados de saúde. Quem o diz é o presidente do Conselho Empresarial Arábia Saudita-Portuga",
-      "source": "ECO",
-      "date": "Sat, 29 Aug 2026 17:10:03 +0000",
-      "url": "https://eco.sapo.pt/2026/08/29/a-pensar-no-proximo-mundial-investidores-sauditas-vao-olhar-para-negocios-de-desporto-e-energia-em-portugal/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-alwalid-albaltan01.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "f128eab3",
-      "cat": "tecnologia",
-      "title": "Pergaminho contesta resultado do concurso para distribuição de jornais",
-      "summary": "A Pergaminhoflash está a contestar o resultado preliminar do concurso de distribuição de jornais que dá a vitória dos dois lotes a distribuir à Vasp. A empresa liderada por Rui Marques Santos avançou com o exercício do direito de audição em relação ao relatório preliminar do concurso público, alegan",
-      "source": "ECO",
-      "date": "Sat, 29 Aug 2026 15:15:44 +0000",
-      "url": "https://eco.sapo.pt/2026/08/29/pergaminho-contesta-resultado-do-concurso-para-distribuicao-de-jornais/",
-      "img": "https://eco.imgix.net/uploads/2025/06/cropped-doc-20180307-23832165-mac_070318_3645.jpg",
+      "date": "Sun, 30 Aug 2026 16:14:38 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/cd-nacional-estrela_e1762384",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/eb/eb3bfc8a526bf4a1d9b2be4f3f243120?w=350&amp;q=50&amp;rect=0,99,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
       "id": "fe1535ce",
       "cat": "ciencia",
       "title": "Ondas cerebrais do sono profundo oferecem proteção contra Alzheimer, mostra nova pesquisa",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "A má qualidade do sono tem sido associada ao declínio cognitivo, à neurodegeneração e à doença de Alzheimer nos idosos – mas pode ser possível neutralizar certos riscos. Um novo estudo mostra que ondas cerebrais específicas do sono fornecem proteção contra os efeitos nocivos de uma substância química cerebral associada à vigília.",
       "source": "Good News Network",
       "date": "Sat, 29 Aug 2026 14:00:44 +0000",
       "url": "https://www.goodnewsnetwork.org/deep-sleep-brain-waves-offer-protection-against-alzheimers-study/",
@@ -168,6 +146,17 @@
       "score": 0.76
     },
     {
+      "id": "1c627734",
+      "cat": "cultura",
+      "title": "Nasa lança novo e poderoso telescópio espacial para explorar mistérios do Universo",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "BBC News",
+      "date": "Sun, 30 Aug 2026 15:28:08 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206f/live/de2a7590-a48b-11f1-b109-879e35c24276.jpg",
+      "score": 0.76
+    },
+    {
       "id": "819ca65d",
       "cat": "tecnologia",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -182,11 +171,22 @@
       "id": "9b9aa0af",
       "cat": "saude",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "A abordagem centra-se nas prioridades do paciente, consultando os mesmos médicos e envolvendo pessoas próximas a eles.",
       "source": "BBC News",
       "date": "Wed, 26 Aug 2026 23:07:51 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40dd/live/3b37e340-a175-11f1-87d4-e91caee13898.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "b449e47e",
+      "cat": "ciencia",
+      "title": "As antigas princesas egípcias foram enterradas com armas. Seus ossos revelam o porquê",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "ScienceDaily",
+      "date": "Sun, 30 Aug 2026 05:30:18 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082348.htm",
+      "img": "https://www.sciencedaily.com/images/1920/dagger-of-princess-ita.webp",
       "score": 0.76
     },
     {
@@ -201,36 +201,80 @@
       "score": 0.76
     },
     {
-      "id": "f83db4a8",
-      "cat": "tecnologia",
-      "title": "Vulnerável a todos os riscos, a Grande Muralha Verde africana enfrenta fase decisiva",
-      "summary": "Quase a fazer 20 anos, um dos projectos mais emblemáticos de restauro de solos, que atravessa o continente para impedir o avanço das areias do Sara, está numa fase decisiva.",
+      "id": "7218fb45",
+      "cat": "desporto",
+      "title": "Duplo campeão do mundo: Fernando Pimenta ganha também final do K1 5000m",
+      "summary": "",
       "source": "Público",
-      "date": "Sun, 30 Aug 2026 09:03:00 GMT",
-      "url": "https://www.publico.pt/2026/08/30/azul/reportagem/vulneravel-riscos-muralha-verde-africana-enfrenta-fase-decisiva-2186271",
+      "date": "Sun, 30 Aug 2026 14:19:19 GMT",
+      "url": "https://www.publico.pt/2026/08/30/desporto/noticia/duplo-campeao-mundo-fernando-pimenta-ganha-tambem-final-k1-5000m-2186509",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "20dc11f6",
-      "cat": "sociedade",
-      "title": "Montenegro encerra hoje Universidade do Verão do PSD com Governo sob ameaça de moção de censura",
-      "summary": "Primeiro-ministro prometeu falar das reformas da educação.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 30 Aug 2026 08:57:10 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/montenegro-encerra-hoje-universidade-do-verao-do-psd-com-governo-sob-ameaca-de-mocao-de-censura",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-10-12-34-03-527943.jpg",
+      "id": "ff9c1467",
+      "cat": "tecnologia",
+      "title": "Líder do PS acusa Montenegro de tentar branquear caos nos exames nacionais",
+      "summary": "José Luís Carneiro reagregiu ao discurso do primeiro-ministro no encerramento na Universidade de Verão do PSD, em Castelo de Vide.",
+      "source": "Público",
+      "date": "Sun, 30 Aug 2026 13:57:48 GMT",
+      "url": "https://www.publico.pt/2026/08/30/politica/noticia/lider-ps-acusa-montenegro-tentar-branquear-caos-exames-nacionais-2186507",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "dba666b6",
+      "id": "443963a5",
+      "cat": "sociedade",
+      "title": "Montenegro faz mea culpa sobre exames e anuncia Universidade de Bragança e Norte Interior",
+      "summary": "Primeiro-ministro lamentou a perturbação causada no caso dos exames e agradeceu à comunidade escolar. Em Castelo de Vide, anunciou nova universidade e valorização de directores escolares.",
+      "source": "Público",
+      "date": "Sun, 30 Aug 2026 13:13:10 GMT",
+      "url": "https://www.publico.pt/2026/08/30/politica/noticia/montenegro-faz-mea-culpa-exames-anuncia-universidade-braganca-norte-interior-2186501",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "b79741b9",
       "cat": "tecnologia",
-      "title": "Só falta conhecer os 5 Mais Poderosos de 2026. Veja os nomes já revelados",
-      "summary": "O Negócios já divulgou 45 dos 50 nomes da lista dos Mais Poderosos de 2026. Entre estreantes e repetentes, empresários, políticos e advogados o \"ranking\" conta com figuras que se destacaram nas mais diversas áreas. Recorde os nomes já conhecidos.",
+      "title": "Vitória em Aragão aproxima Marc Márquez da liderança",
+      "summary": "Márquez, de 33 anos, que partiu da primeira linha da grelha, teve um início de corrida menos conseguido, mas rapidamente recuperou posições e assumiu o controlo da prova.",
+      "source": "Observador",
+      "date": "Sun, 30 Aug 2026 15:19:27 +0100",
+      "url": "https://observador.pt/2026/08/30/vitoria-em-aragao-aproxima-marc-marquez-da-lideranca-do-mundial-de-motogp/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/30145835/47685360.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "e279fe9a",
+      "cat": "tecnologia",
+      "title": "Carneiro acusa Montenegro de \"branquear caos\" nos exames",
+      "summary": "Líder do PS fala na \"maior operação de branqueamento do que se passou com o caos nos exames deste verão\". Carneiro reagia ao discurso do primeiro-ministro na Universidade de Verão do PSD.",
+      "source": "Observador",
+      "date": "Sun, 30 Aug 2026 14:43:02 +0100",
+      "url": "https://observador.pt/2026/08/30/jose-luis-carneiro-acusa-montenegro-de-tentar-branquear-caos-nos-exames-nacionais/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/28184549/47532012.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "54795b62",
+      "cat": "tecnologia",
+      "title": "Fábrica de detergentes em Benavente muda de donos e recebe investimento",
+      "summary": "A unidade de produção localizada em Porto Alto dedicada ao fabrico de produtos de limpeza e higiene é um dos maiores exportadores nacionais para a Austrália.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 29 Aug 2026 21:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/so-falta-saber-conhecer-os-5-mais-poderosos-de-2026-veja-os-nomes-ja-revelados",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-14-23-43-00-528238.jpg",
+      "date": "Sun, 30 Aug 2026 17:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/fabrica-de-detergentes-em-benavente-muda-de-donos-e-recebe-investimento",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-28-21-05-57-528898.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "a69a7303",
+      "cat": "tecnologia",
+      "title": "Líder do PS acusa Montenegro de tentar branquear caos nos exames nacionais",
+      "summary": "Primeiro-ministro lamentou as perturbações que a correção digital introduziu no processo dos exames nacionais, mas defendeu que \"foi o caminho correto\"",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 30 Aug 2026 14:59:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/lider-do-ps-acusa-montenegro-de-tentar-branquear-caos-nos-exames-nacionais",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-14-14-11-29-523634.jpg",
       "score": 0.73
     },
     {
@@ -245,6 +289,28 @@
       "score": 0.73
     },
     {
+      "id": "3a6394c8",
+      "cat": "tecnologia",
+      "title": "Líder do PS acusa Montenegro de tentar branquear caos nos exames",
+      "summary": "O secretário-geral do PS, José Luís Carneiro, acusou o primeiro-ministro, Luís Montenegro, de branquear &#8220;o caos nos exames&#8221; nacionais do ensino secundário e de ter &#8220;medo do povo português&#8220;, aconselhando-o a ouvir o país. &#8220;Aquilo que [Luís Montenegro] acabou de fazer tra",
+      "source": "ECO",
+      "date": "Sun, 30 Aug 2026 14:24:17 +0000",
+      "url": "https://eco.sapo.pt/2026/08/30/lider-do-ps-acusa-montenegro-de-tentar-branquear-caos-nos-exames/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-47268256-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "4b4adbe6",
+      "cat": "tecnologia",
+      "title": "Montenegro ignora Chega e promete mais autonomia das escolas",
+      "summary": "Luís Montenegro encerrou o encontro da Universidade de Verão do PSD sem tocar na prometida moção de censura do Chega por causa do caso Luís Neves. O líder do partido e primeiro-ministro terminou o discurso a dizer que &#8220;muitos vão dizer, mal acabe de falar, que eu não falei do caso A, da situaç",
+      "source": "ECO",
+      "date": "Sun, 30 Aug 2026 12:33:49 +0000",
+      "url": "https://eco.sapo.pt/2026/08/30/montenegro-ignora-chega-e-promete-mais-autonomia-das-escolas/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc2026083047684913nv0420260830-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
       "id": "5b115b55",
       "cat": "tecnologia",
       "title": "Montenegro encerra Universidade do Verão do PSD com Governo sob ameaça de moção de censura",
@@ -253,39 +319,6 @@
       "date": "Sun, 30 Aug 2026 09:31:01 +0000",
       "url": "https://eco.sapo.pt/2026/08/30/montenegro-encerra-universidade-do-verao-do-psd-com-governo-sob-ameaca-de-mocao-de-censura/",
       "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc2025081445484173miguelalopes-26-2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "5d4a2ffe",
-      "cat": "tecnologia",
-      "title": "Cães proporcionam segurança e conforto na movimentada estação de trem em ‘British First’",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Good News Network",
-      "date": "Sat, 29 Aug 2026 11:00:45 +0000",
-      "url": "https://www.goodnewsnetwork.org/dogs-provide-security-and-comfort-at-busy-train-station-in-british-first/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/Dogs-patrol-train-station-SWNS.jpeg",
-      "score": 0.73
-    },
-    {
-      "id": "5d042463",
-      "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "BBC News",
-      "date": "Thu, 27 Aug 2026 09:37:08 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c70dwxr321ro?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fee/live/da0b2dc0-a174-11f1-87d4-e91caee13898.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "e9121e5b",
-      "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "ScienceDaily",
-      "date": "Sat, 29 Aug 2026 08:47:55 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
-      "img": "https://www.sciencedaily.com/images/1920/senior-brown-dog-close.webp",
       "score": 0.73
     },
     {
@@ -298,39 +331,6 @@
       "url": "https://reasonstobecheerful.world/what-were-reading-rugged-wheelchairs-national-parks/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/shutterstock_2078529844-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "8a3215d2",
-      "cat": "tecnologia",
-      "title": "A ‘Irmandade’ Protegendo os Recifes de Coral da Indonésia",
-      "summary": "Quando tinha 21 anos, Gabriela Nathania H mergulhou debaixo d'água com um grupo de quatro estranhos na costa de Gili Air. A pequena ilha é uma das três que compõem as Ilhas Gili, um arquipélago que mergulhadores de todo o mundo admiram pela sua incrível biodiversidade marinha. Mas sobre isso... O post The &#8216",
-      "source": "Reasons to be Cheerful",
-      "date": "Tue, 18 Aug 2026 14:31:25 +0000",
-      "url": "https://reasonstobecheerful.world/saving-indonesias-coral-reefs-by-empowering-women/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/08/Coral-Restoration.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a0308dbb",
-      "cat": "tecnologia",
-      "title": "Fraca afluência marca início de votação para referendo constitucional na Guiné-Bissau",
-      "summary": "Oposição, várias organizações da sociedade civil e a maior confederação sindical do país apelaram ao boicote, acusando autores do golpe do ano passado de quererem fazer regressar Umaro Sissoco Embaló.",
-      "source": "Público",
-      "date": "Sun, 30 Aug 2026 10:49:32 GMT",
-      "url": "https://www.publico.pt/2026/08/30/mundo/noticia/fraca-afluencia-marca-inicio-votacao-referendo-constitucional-guinebissau-2186499",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "951713b2",
-      "cat": "tecnologia",
-      "title": "Retomadas buscas pelo jovem desaparecido na Praia da Ursa",
-      "summary": "O alerta do desaparecimento do jovem ucraniano foi dado pelas 11h50 de sexta-feira por \"turistas que se encontravam nas proximidades\" e foram de imediato iniciadas buscas.",
-      "source": "Observador",
-      "date": "Sun, 30 Aug 2026 10:20:29 +0100",
-      "url": "https://observador.pt/2026/08/30/buscas-pelo-jovem-desaparecido-na-praia-da-ursa-em-sintra-retomas-pelo-3-o-dia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/10/14112209/23005857.jpg",
-      "score": 0.7
     }
   ]
 }
