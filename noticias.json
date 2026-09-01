@@ -1,7 +1,18 @@
 {
-  "last_update": "01/09/2026 11:31 UTC",
+  "last_update": "01/09/2026 16:28 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "c8ef8cd2",
+      "cat": "ciencia",
+      "title": "Ulez de Londres ligado ao crescimento pulmonar mais saudável em crianças",
+      "summary": "Sete anos depois de Londres ter introduzido a sua Zona de Emissões Ultra Baixas, os investigadores estão a medir o impacto na saúde das crianças",
+      "source": "Positive News",
+      "date": "Tue, 01 Sep 2026 12:44:46 +0000",
+      "url": "https://www.positive.news/environment/londons-ulez-linked-to-healthier-lung-growth-in-children/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2206190697.jpg",
+      "score": 0.82
+    },
     {
       "id": "72705605",
       "cat": "saude",
@@ -25,17 +36,6 @@
       "score": 0.79
     },
     {
-      "id": "1d99216a",
-      "cat": "tecnologia",
-      "title": "Laboratório odontológico móvel gratuito traz dentistas voluntários para prestar cuidados a moradores de rua e vulneráveis ​​no Reino Unido",
-      "summary": "Foi lançado um fundo de um milhão de dólares para fornecer tratamento dentário aos membros mais vulneráveis ​​da Grã-Bretanha. A Fundação mydentist anunciou que está apoiando organizações de caridade que auxiliam comunidades carentes, incluindo aquelas que estão se recuperando de dependências ou que sofrem de pobreza extrema. É f",
-      "source": "Good News Network",
-      "date": "Sun, 30 Aug 2026 16:19:09 +0000",
-      "url": "https://www.goodnewsnetwork.org/mobile-dental-lab-brings-volunteer-dentists-to-uk-homeless/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/St-Pauls-Dental-clinic-England-mydentist-SWNS.jpeg",
-      "score": 0.79
-    },
-    {
       "id": "80caa624",
       "cat": "tecnologia",
       "title": "Colocando lesmas no mapa: agricultores são pioneiros na proteção de culturas de precisão",
@@ -47,58 +47,47 @@
       "score": 0.79
     },
     {
-      "id": "f2f1cf43",
-      "cat": "tecnologia",
-      "title": "Como a renaturalização poderia ajudar a impedir a propagação dos incêndios florestais na Grã-Bretanha",
-      "summary": "Por que o rewilding é uma das melhores soluções que temos para o preocupante aumento dos incêndios florestais O post Como o rewilding poderia ajudar a impedir a propagação dos incêndios florestais na Grã-Bretanha apareceu pela primeira vez em Positive News.",
-      "source": "Positive News",
-      "date": "Mon, 24 Aug 2026 09:06:15 +0000",
-      "url": "https://www.positive.news/society/how-rewilding-could-help-stop-the-spread-of-britains-wildfires/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/08/kylli-kittus-qyt0cPByJjs-unsplash.jpeg",
-      "score": 0.79
-    },
-    {
-      "id": "8f0334e8",
+      "id": "fe0202bb",
       "cat": "ciencia",
-      "title": "Pesquisadores revelam solução sustentável de espirulina para deficiência de vitamina B12",
-      "summary": "Os pesquisadores produziram uma forma de Spirulina contendo vitamina B12 biologicamente ativa em níveis comparáveis ​​aos da carne bovina. Ao controlar cuidadosamente a luz usada para cultivar as algas, eles superaram um grande problema com a Spirulina convencional, que contém principalmente uma forma de B12 que o corpo humano não consegue utilizar.",
+      "title": "Cientistas descobrem por que embriões de cobra se torcem em espirais",
+      "summary": "Os embriões de cobra começam a vida enrolados em uma espiral distinta para a direita, e os cientistas podem finalmente saber por quê. Seus corpos crescem mais rápido que suas entranhas, criando uma amarra que força o embrião a se curvar e se torcer dentro do ovo. Os pesquisadores chegaram à conclusão depois de estudar mais de",
       "source": "ScienceDaily",
-      "date": "Sun, 30 Aug 2026 01:17:05 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
-      "img": "https://www.sciencedaily.com/images/1920/vitamin-b12-chemical-formula.webp",
+      "date": "Tue, 01 Sep 2026 08:38:16 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
+      "img": "https://www.sciencedaily.com/images/1920/cape-house-snake-embryo.webp",
       "score": 0.79
     },
     {
-      "id": "6ad04a6d",
-      "cat": "cultura",
-      "title": "Coimbra acolhe novo festival de música erudita",
-      "summary": "O primeiro Festival Internacional de Música Art'Amoris arranca esta sexta-feira em espaços históricos da cidade e estende-se até dia 13 de setembro. Objetivo é \"aproximar o público da música erudita\".",
-      "source": "Observador",
-      "date": "Tue, 01 Sep 2026 10:51:26 +0100",
-      "url": "https://observador.pt/2026/09/01/novo-festival-de-musica-erudita-estreia-este-mes-em-coimbra/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2016/09/26211205/14331003.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "228caed7",
-      "cat": "economia",
-      "title": "BPF anuncia “Fomento Trade” para apoiar empresas exportadoras a conquistar novos mercados",
-      "summary": "O Banco Português de Fomento (BPF) anunciou o lançamento da &#8220;Fomento Trade&#8220;, que a partir desta terça-feira passa a disponibilizar soluções de seguro de créditos à exportação de curto prazo e garantias para operações internacionais de médio e longo prazo, com Garantia do Estado Português",
+      "id": "78892d60",
+      "cat": "ambiente",
+      "title": "Produção solar bate recorde em agosto",
+      "summary": "O consumo de energia elétrica em Portugal aumentou 3,1% entre janeiro e agosto, com a produção solar a atingir, no mês passado, um novo máximo de potência, segundo dados divulgados pela REN. De acordo com a mesma informação, no mês de agosto o consumo de energia elétrica em Portugal &#8220;manteve a",
       "source": "ECO",
-      "date": "Tue, 01 Sep 2026 09:43:49 +0000",
-      "url": "https://eco.sapo.pt/2026/09/01/bpf-anuncia-fomento-trade-para-apoiar-empresas-exportadoras-a-conquistar-novos-mercados/",
-      "img": "https://eco.imgix.net/uploads/2024/01/cropped-banco_portugues_fomento-2.jpg",
+      "date": "Tue, 01 Sep 2026 16:06:11 +0000",
+      "url": "https://eco.sapo.pt/2026/09/01/producao-solar-bate-recorde-em-agosto/",
+      "img": "https://eco.imgix.net/uploads/2025/11/cropped-central-solar-1.jpg",
       "score": 0.76
     },
     {
-      "id": "c022307d",
+      "id": "e8d85b59",
       "cat": "tecnologia",
-      "title": "Desemprego estabiliza na União Europeia. Portugal mantém-se abaixo da média do bloco",
-      "summary": "Julho ficou marcado por uma estabilização do mercado de trabalho na União Europeia (UE). De acordo com os dados divulgados esta terça-feira pelo Eurostat, o desemprego ficou inalterado tanto no bloco comunitário como na Zona Euro, em comparação com o registado em junho. Também em Portugal, a taxa re",
+      "title": "PS insiste em subcomissão sobre investimentos militares SAFE e responsabiliza Governo por polémicas",
+      "summary": "O PS insistiu esta terça-feira na criação de uma subcomissão para acompanhar os investimentos militares no âmbito dos empréstimos SAFE, pressionando o Chega a aprová-la, e responsabilizou o Governo pelas polémicas em torno de negócios como o das fragatas. A reapresentação desta iniciativa que, no an",
       "source": "ECO",
-      "date": "Tue, 01 Sep 2026 09:37:46 +0000",
-      "url": "https://eco.sapo.pt/2026/09/01/desemprego-estabiliza-na-uniao-europeia-portugal-mantem-se-abaixo-da-media-do-bloco/",
-      "img": "https://eco.imgix.net/uploads/2024/10/cropped-bicicletas_0078.jpg",
+      "date": "Tue, 01 Sep 2026 15:11:57 +0000",
+      "url": "https://eco.sapo.pt/2026/09/01/ps-insiste-em-subcomissao-sobre-investimentos-militares-safe-e-responsabiliza-governo-por-polemicas/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc20260611472682561106rm18-2.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "ac276899",
+      "cat": "economia",
+      "title": "Portugal é dos países menos afetados na Zona Euro pela subida do custo da dívida, garante DBRS",
+      "summary": "Num contexto de subidas de taxas de juro das dívida soberanas a nível global nos últimos anos, Portugal, Grécia e Espanha são os países da Zona Euro menos afetados pela aumento do custo do financiamento, protegidos por dinâmicas positivas no crescimento económico, no endividamento e nas contas orçam",
+      "source": "ECO",
+      "date": "Tue, 01 Sep 2026 14:56:50 +0000",
+      "url": "https://eco.sapo.pt/2026/09/01/portugal-e-dos-paises-menos-afetados-na-zona-euro-pela-subida-do-custo-da-divida-garante-dbrs/",
+      "img": "https://eco.imgix.net/uploads/2017/04/cropped-dbrs-3.jpg",
       "score": 0.76
     },
     {
@@ -110,6 +99,17 @@
       "date": "Tue, 01 Sep 2026 11:00:52 +0000",
       "url": "https://www.goodnewsnetwork.org/good-samaritan-helps-mother-after-seeing-her-destroyed-home-on-the-news-hes-been-a-blessing/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/maxresdefault.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "ef79e052",
+      "cat": "tecnologia",
+      "title": "Cidades dos EUA estão rescindindo contratos de câmeras Flock em ritmo recorde após resistência em todo o país",
+      "summary": "Em abril, milhões de leitores procuraram a GNN para saber mais sobre a primeira proibição de “preços de vigilância” em Maryland. em supermercados de varejo. Agora, os governos municipais de todo o país estão a terminar a sua associação com a Flock Safety, uma empresa que cobriu as ruas de",
+      "source": "Good News Network",
+      "date": "Mon, 31 Aug 2026 18:30:28 +0000",
+      "url": "https://www.goodnewsnetwork.org/us-cities-are-terminating-flock-camera-contracts-at-record-pace-in-august-after-nationwide-pushback/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/08/A-typical-flock-camera-with-a-solar-panel-credit-Julian-Focareta-licensed-via-CC-4.0.-to-wikimedia-from-Flock-Safety.jpg",
       "score": 0.76
     },
     {
@@ -135,17 +135,6 @@
       "score": 0.76
     },
     {
-      "id": "ec92f35b",
-      "cat": "ciencia",
-      "title": "Cientistas descobrem que diamantes podem gerar eletricidade",
-      "summary": "Pensava-se que o diamante era incapaz de produzir eletricidade através de deformação mecânica, mas as membranas de diamante flexíveis ultrafinas mostraram agora um efeito piezoelétrico forte e repetível. A descoberta inesperada pode abrir a porta para sensores movidos a diamante, pequenos sistemas de energia e auto-reparação.",
-      "source": "ScienceDaily",
-      "date": "Mon, 31 Aug 2026 00:13:53 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035223.htm",
-      "img": "https://www.sciencedaily.com/images/1920/diamond-electricity-generation.webp",
-      "score": 0.76
-    },
-    {
       "id": "71287beb",
       "cat": "tecnologia",
       "title": "Transformando as antigas minas de carvão da Grã-Bretanha em fontes de energia limpa",
@@ -157,47 +146,91 @@
       "score": 0.76
     },
     {
-      "id": "c1c5c1eb",
+      "id": "74340a69",
       "cat": "tecnologia",
-      "title": "Músico Jorge Drexler regressa a Lisboa no próximo ano",
-      "summary": "O músico uruguaio já fez parcerias com vários artistas portugueses e internacionais, tais como Caetano Veloso, António Zambujo, Natalia Lafoucarde e Salvador Sobral.",
+      "title": "Homem do Jogo: João Palhinha na outra margem da Segunda Circular",
+      "summary": "Campeão pelo Sporting, João Palhinha chegou esta época ao Benfica, o clube de que é sócio há mais de 20 anos. Pode ser a peça que faltava para dar mais agressividade às “águias”.",
+      "source": "Público",
+      "date": "Tue, 01 Sep 2026 14:41:11 GMT",
+      "url": "https://www.publico.pt/2026/09/01/desporto/noticia/homem-jogo-joao-palhinha-margem-segunda-circular-2186698",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "ed2115be",
+      "cat": "tecnologia",
+      "title": "PS insiste em subcomissão no Parlamento para acompanhar investimentos militares",
+      "summary": "Socialista Marcos Perestrello responsabiliza Governo por polémicas em torno do negócio das fragatas e desafia o Chega a viabilizar a proposta.",
+      "source": "Público",
+      "date": "Tue, 01 Sep 2026 13:18:25 GMT",
+      "url": "https://www.publico.pt/2026/09/01/politica/noticia/ps-insiste-subcomissao-parlamento-acompanhar-investimentos-militares-2186683",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "a1d99254",
+      "cat": "tecnologia",
+      "title": "MAI admite más condições nas esquadras da PSP na Madeira",
+      "summary": "Luís Neves visitou instalações da PSP na Madeira e não gostou do que viu. Fala em \"décadas de desinvestimento\" mas avisa que não resolverá tudo \"de um dia para o outro\".",
       "source": "Observador",
-      "date": "Tue, 01 Sep 2026 11:11:21 +0100",
-      "url": "https://observador.pt/2026/09/01/musico-uruguaio-jorge-drexler-atua-em-lisboa-no-proximo-ano/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/22102512/41477092.jpg",
+      "date": "Tue, 01 Sep 2026 16:52:33 +0100",
+      "url": "https://observador.pt/2026/09/01/ministro-da-administracao-interna-admite-mas-condicoes-nas-esquadras-da-psp-na-madeira-nao-ficara-esquecido-numa-pasta/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/01131854/47695812.jpg",
       "score": 0.73
     },
     {
-      "id": "a1288836",
-      "cat": "tecnologia",
-      "title": "Tim Cook \"foi o génio da execução\" na Apple, diz Francisco Jerónimo",
-      "summary": "O sucessor de Steve Jobs passou hoje o testemunho de CEO da Apple a John Turnes. Em entrevista ao Negócios, o vice-presidente de \"Data and Analytics\" da IDC analisa o legado que Tim Cook deixa na empresa e lembra que enquanto \"chairman\" da cotada vai continuar a ter um \"papel preponderante em gerir ",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 01 Sep 2026 12:13:54 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/tim-cook-foi-o-genio-da-execucao-na-apple-diz-francisco-jeronimo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-01-10-55-56-528968.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "bbd8894d",
-      "cat": "tecnologia",
-      "title": "Paulo Macedo é o 4.º Mais Poderoso de 2026",
-      "summary": "Caminha para 10 anos de liderança da Caixa Geral de Depósitos. Depois de conduzir o banco público numa restruturação difícil, devolveu-lhe o estatuto de gigante financeiro com lucros recorde e dividendos a condizer.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 01 Sep 2026 12:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/negocios-iniciativas/poderosos/poderosos-2026/detalhe/paulo-macedo-e-o-4-mais-poderoso-de-2026",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-01-08-26-00-528945.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "9213db9f",
+      "id": "1aa587fa",
       "cat": "economia",
-      "title": "Dívida pública diminuiu 7,6 mil milhões em agosto após amortização de emissão de 2016",
-      "summary": "Banco de Portugal revela que, em julho, Portugal registou um forte alívio da dívida pública. Descida é explicada pela amortização de uma linha de obrigações do Tesouro emitida em 2016. Em sentido contrário, aumentaram os encargos com certificados de aforro.",
+      "title": "EUA concedem petróleo da Venezuela por 100 anos",
+      "summary": "Acordo entre Trump e a presidente interina Delcy Rodríguez dá à NABEP direito a perfurar 17 campos com 65 mil milhões de barris. Pentágono terá 35% da empresa-mãe.",
+      "source": "Observador",
+      "date": "Tue, 01 Sep 2026 16:51:56 +0100",
+      "url": "https://observador.pt/2026/09/01/washington-concede-100-anos-de-exploracao-de-petroleo-venezuelano-a-empresa-privada-dos-eua/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/13151533/44303941.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d028fa5a",
+      "cat": "tecnologia",
+      "title": "Covilhã: Quercus denuncia abate de 1.400 sobreiros",
+      "summary": "A Quercus recorda que o sobreiro é uma espécie protegida. E acusa o município da Covilhã de querer abater 1.400 árvores e pôr em risco 10 casas de primeira habitação para ampliar o parque industrial.",
+      "source": "Observador",
+      "date": "Tue, 01 Sep 2026 16:50:51 +0100",
+      "url": "https://observador.pt/2026/09/01/quercus-denuncia-abate-de-1-400-sobreiros-para-expansao-de-parque-industrial-na-covilha/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1075:602:nowe:925:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/04/18181607/21337992.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "4ce848b3",
+      "cat": "tecnologia",
+      "title": "Anthropic fecha acordo de 35 mil milhões de dólares com fornecedor de cloud ligado à Nvidia",
+      "summary": "Projeto que envolve a dona do agente de inteligência artificial Claude prevê a construção de um centro de dados no Texas, cujo arrendamento será feito pela Nvidia à fornecedora de serviços de \"cloud\" Lambda. Gigante dos chips tem feito esforços por ganhar terreno na computação.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 01 Sep 2026 11:21:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/divida-publica-diminuiu-7-6-mil-milhoes-em-agosto-apos-amortizacao-de-emissao-de-2016",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-13-11-42-45-523524.jpg",
+      "date": "Tue, 01 Sep 2026 16:13:26 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/anthropic-fecha-acordo-de-35-mil-milhoes-de-dolares-com-fornecedor-de-cloud-ligado-a-nvidia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-02-12-51-39-524740.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "44d17eb4",
+      "cat": "tecnologia",
+      "title": "Portugal continua quase sem camiões elétricos e associações pedem incentivos",
+      "summary": "Apenas 0,5% dos pesados de mercadorias novos vendidos no primeiro semestre eram elétricos, contra 2,3% na Europa. ZERO e UVE defendem apoios à compra, ao carregamento e à ligação à rede.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 01 Sep 2026 15:51:53 +0100",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/portugal-continua-quase-sem-camioes-eletricos-e-associacoes-pedem-incentivos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_100x100uu2022-03-14-17-05-26-424180.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "632d0c91",
+      "cat": "ambiente",
+      "title": "Mota-Engil Ambiente e Energia terá cinco unidades de biometano a funcionar até ao fim do ano",
+      "summary": "O investimento de 25 milhões de euros na construção das primeiras cinco unidades será financiado pelo Crédito Agrícola. Estarão instaladas em Coimbra, Aveiro, Leiria, Seixal e Amadora e terão capacidade para produzir até 170 GWh de biometano por ano. Grupo já prepara segunda vaga.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 01 Sep 2026 15:47:26 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/mota-engil-ambiente-e-energia-tera-cinco-unidades-de-biometano-a-funcionar-ate-ao-fim-do-ano",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-01-15-33-48-528980.jpg",
       "score": 0.73
     },
     {
@@ -212,58 +245,36 @@
       "score": 0.73
     },
     {
-      "id": "f5355eef",
-      "cat": "desporto",
-      "title": "Tadej Pogacar operado à clavícula esquerda",
-      "summary": "O esloveno Tadej Pogacar, que abandonou no sábado a Volta a Espanha após uma queda, foi operado com sucesso a uma fratura na clavícula esquerda, anunciou a sua equipa, a UAE Emirates, em comunicado.",
-      "source": "RTP",
-      "date": "Tue, 01 Sep 2026 10:33:47 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/tadej-pogacar-operado-a-clavicula-esquerda_d1762711",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/96/961eaad407dde0f390826182fa9c31e9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "5a1c3fa7",
-      "cat": "desporto",
-      "title": "Souza reforça o FC Porto por empréstimo do Tottenham",
-      "summary": "O lateral esquerdo brasileiro João Souza reforçou o FC Porto por empréstimo do Tottenham, válido até ao final da temporada, num acordo que não contempla opção de compra definitiva.",
-      "source": "RTP",
-      "date": "Tue, 01 Sep 2026 10:29:55 +0100",
-      "url": "https://www.rtp.pt/noticias/fc-porto/souza-reforca-o-fc-porto-por-emprestimo-do-tottenham_d1762709",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/63/63afca978da207e773932d9da9e954ab?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "7f4d2c4f",
+      "id": "681ade6a",
       "cat": "tecnologia",
-      "title": "I Liga. Braga leva a melhor sobre o Vitória no clássico minhoto",
-      "summary": "No dérbi do Minho, o Sporting de Braga levou a melhor sobre o Vitória de Guimarães ao vencer por uma bola a zero, com um golo decisivo assinado por Diego Rodrigues.",
+      "title": "Charles sai do Vitória de Guimarães",
+      "summary": "O guarda-redes Charles deixou o Vitória de Guimarães após três épocas nos minhotos, rescindindo o contrato que era válido até junho de 2027, informou o clube.",
       "source": "RTP",
-      "date": "Tue, 01 Sep 2026 08:40:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/i-liga-braga-leva-a-melhor-sobre-o-vitoria-no-classico-minhoto_v1762696",
-      "img": "https://cdn-images.rtp.pt/icm/images/14/142d7543a1945598f50236a1dee115af_N.jpg?",
-      "score": 0.73
-    },
-    {
-      "id": "412500d6",
-      "cat": "tecnologia",
-      "title": "WPP vai eliminar até mil postos de trabalho até ao final do ano",
-      "summary": "A WPP vai eliminar até mil postos de trabalho até ao final do ano, avança o Financial Times. Ao mesmo tempo, o grupo publicitário sediado no Reino Unido está a procurar diminuir o seu portefólio imobiliário, com a venda prevista de um dos seus prédios em Londres. No final de junho de 2026, o grupo [",
-      "source": "ECO",
-      "date": "Tue, 01 Sep 2026 10:32:47 +0000",
-      "url": "https://eco.sapo.pt/2026/09/01/wpp-vai-eliminar-ate-mil-postos-de-trabalho-ate-ao-final-do-ano/",
-      "img": "https://eco.imgix.net/uploads/2026/02/cropped-wpp-investor-day-installation-scaled-1.jpg",
+      "date": "Tue, 01 Sep 2026 14:39:24 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/charles-sai-do-vitoria-de-guimaraes_d1762753",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a5/a5fb7daa5f0f4e1f6351bacef690ce0b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
       "id": "2e793be9",
       "cat": "ciencia",
-      "title": "Verão de 2026 deverá ser declarado o mais quente já registrado no Reino Unido",
-      "summary": "Os números do Met Office divulgados na terça-feira provavelmente mostrarão que o recorde anterior, estabelecido em 2025, foi quebrado após um verão sem precedentes de calor persistente.",
+      "title": "O verão de 2026 foi o mais quente já registrado no Reino Unido, diz Met Office",
+      "summary": "Os números do Met Office mostram que o recorde anterior, estabelecido em 2025, foi quebrado após um verão sem precedentes de calor persistente.",
       "source": "BBC News",
-      "date": "Mon, 31 Aug 2026 23:42:55 GMT",
+      "date": "Tue, 01 Sep 2026 12:18:55 GMT",
       "url": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84de/live/4bd31cb0-a51c-11f1-89d5-dd5482a9fcc2.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d6de4176",
+      "cat": "ciencia",
+      "title": "NASA atrasa lançamento da Crew-13 após vazamento encontrado no SpaceX Dragon",
+      "summary": "A NASA e a SpaceX atrasaram a Tripulação-13 depois de encontrarem um vazamento de oxidante no sistema de propulsão da espaçonave Dragon durante os preparativos de pré-lançamento. Os engenheiros estão investigando o problema antes que a tripulação de quatro pessoas possa iniciar sua jornada para a Estação Espacial Internacional.",
+      "source": "ScienceDaily",
+      "date": "Tue, 01 Sep 2026 01:33:37 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
+      "img": "https://www.sciencedaily.com/images/1920/spacex-crew-13-members-inside-dragon-spacecraft.webp",
       "score": 0.73
     },
     {
@@ -289,47 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "4a83380e",
-      "cat": "tecnologia",
-      "title": "Vagas na 2.ª fase sobem para mais de 11 mil e ainda há lugares em Medicina",
-      "summary": "Cerca de 4500 alunos colocados na 1.ª fase não se matricularam, libertando lugares para a 2.ª. Consulte aqui as vagas disponíveis.",
-      "source": "Público",
-      "date": "Tue, 01 Sep 2026 09:56:28 GMT",
-      "url": "https://www.publico.pt/2026/09/01/sociedade/noticia/vagas-2-fase-sobem-11-mil-ha-lugares-medicina-2186661",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "f4e3829c",
-      "cat": "tecnologia",
-      "title": "Acções da Shein afundam mais de 9% na estreia em bolsa",
-      "summary": "Gigante de moda asiático diz que vai aproveitar parte do encaixe (22.300 milhões de euros) para reforçar presença internacional.",
-      "source": "Público",
-      "date": "Tue, 01 Sep 2026 09:40:24 GMT",
-      "url": "https://www.publico.pt/2026/09/01/economia/noticia/accoes-shein-afundam-9-estreia-bolsa-2186662",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "2f184c99",
-      "cat": "tecnologia",
-      "title": "Ministério Público abre inquérito a processo de classificação de exames nacionais",
-      "summary": "Queixa foi apresentada pela Fenprof, ainda antes de a auditoria do que correu mal na classificação digital dos exames ter concluído que 69 escolas submeteram pedidos de reapreciação fora do prazo.",
-      "source": "Público",
-      "date": "Tue, 01 Sep 2026 09:16:31 GMT",
-      "url": "https://www.publico.pt/2026/09/01/sociedade/noticia/ministerio-publico-abre-inquerito-processo-classificacao-exames-nacionais-2186660",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "94349126",
+      "id": "9746be4f",
       "cat": "cultura",
-      "title": "Tomar recebe 200 mil euros para limpeza do rio Nabão",
-      "summary": "O apoio dado à Câmara de Tomar faz parte dos 4,2 milhões de euros disponibilizados e mobilizados pelo Governo para recuperar territórios afetados pelas tempestades de janeiro e fevereiro.",
-      "source": "Observador",
-      "date": "Tue, 01 Sep 2026 11:52:33 +0100",
-      "url": "https://observador.pt/2026/09/01/tomar-recebe-200-mil-euros-para-desassoreamento-e-limpeza-do-rio-nabao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:118/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/06/17131242/6171826.jpg",
+      "title": "O que fazer? Quarta é dia de Hamlet e Museu da Cortiça",
+      "summary": "Mas também há Choro no Nery, Afinidades Electivas, O Bocage de Júlio Pomar e uma conversa com John Watts dos Fischer-Z.",
+      "source": "Público",
+      "date": "Tue, 01 Sep 2026 14:53:00 GMT",
+      "url": "https://www.publico.pt/2026/09/01/fugas/noticia/quarta-dia-hamlet-museu-cortica-2186595",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
