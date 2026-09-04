@@ -1,5 +1,5 @@
 {
-  "last_update": "04/09/2026 11:04 UTC",
+  "last_update": "04/09/2026 16:12 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,17 @@
       "url": "https://www.goodnewsnetwork.org/events060903/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/09/Shaun_White-skier-snowboard-olympic-cropped-pubdomain.jpg",
       "score": 0.82
+    },
+    {
+      "id": "aa97554f",
+      "cat": "ciencia",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Good News Network",
+      "date": "Fri, 04 Sep 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060904/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/09/Shinya-Yamanaka-in-2010.jpg",
+      "score": 0.79
     },
     {
       "id": "169b0b17",
@@ -32,7 +43,7 @@
       "source": "Positive News",
       "date": "Thu, 03 Sep 2026 08:02:45 +0000",
       "url": "https://www.positive.news/society/richard-e-grant-fronts-second-hand-september-as-britons-try-to-buy-fewer-clothes/",
-      "img": null,
+      "img": "https://www.positive.news/wp-content/uploads/2026/09/Oxfam-InuruID-397147-main.jpeg",
       "score": 0.79
     },
     {
@@ -80,36 +91,25 @@
       "score": 0.79
     },
     {
-      "id": "fe0202bb",
-      "cat": "ciencia",
-      "title": "Cientistas descobrem por que embriões de cobra se torcem em espirais",
-      "summary": "Os embriões de cobra começam a vida enrolados em uma espiral distinta para a direita, e os cientistas podem finalmente saber por quê. Seus corpos crescem mais rápido que suas entranhas, criando uma amarra que força o embrião a se curvar e se torcer dentro do ovo. Os pesquisadores chegaram à conclusão depois de estudar mais de",
+      "id": "84a3d013",
+      "cat": "tecnologia",
+      "title": "Novo tratamento injetável ajuda a reconstruir o cérebro após acidente vascular cerebral",
+      "summary": "Os pesquisadores da Duke desenvolveram uma estrutura injetável que ajudou cérebros danificados por derrame a desenvolver novos vasos sanguíneos, apoiar o crescimento dos nervos e recuperar o movimento em ratos. O tratamento parece funcionar, em parte, através do recrutamento das próprias células imunológicas do corpo, incluindo neutrófilos, que podem passar de prejudiciais a helicoidais.",
       "source": "ScienceDaily",
-      "date": "Tue, 01 Sep 2026 08:38:16 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
-      "img": "https://www.sciencedaily.com/images/1920/cape-house-snake-embryo.webp",
+      "date": "Thu, 03 Sep 2026 23:59:21 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
+      "img": "https://www.sciencedaily.com/images/1920/brain-stroke-x-ray.webp",
       "score": 0.79
     },
     {
-      "id": "8c518ae9",
+      "id": "77cb39b3",
       "cat": "economia",
-      "title": "Europa pinta-se de vermelho à espera da criação de emprego nos EUA. Volkswagen dispara quase 9%",
-      "summary": "Acompanhe, ao minuto, a evolução dos mercados desta sexta-feira.",
+      "title": "Criação de emprego nos EUA em agosto pulveriza estimativas e dá margem para Fed subir taxas",
+      "summary": "A maior economia do mundo criou quase o triplo de empregos em agosto face ao antecipado pelos analistas. A saúde do mercado laboral dá novos argumentos à Reserva Federal para endurecer a política monetária já este mês.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 04 Sep 2026 10:17:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/waller-da-gas-as-acoes-asiaticas-europa-fica-de-fora-do-rally",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-02/img_100x100uu2016-02-28-20-40-00-277988.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "5c1a4a19",
-      "cat": "tecnologia",
-      "title": "Surpresa e alívio. Ações da VW atingem máximos de 11 semanas após aprovação do plano de restruturação",
-      "summary": "As ações da Volkswagen (VW) negoceiam esta sexta-feira a subir 6%, tendo chegado a avançar 7% para máximos de 11 semanas, com os investidores a mostrarem entusiasmo (e alívio) por o conselho de supervisão da maior fabricante automóvel da Europa ter chegado, na véspera, a um acordo reestruturação cen",
-      "source": "ECO",
-      "date": "Fri, 04 Sep 2026 09:30:49 +0000",
-      "url": "https://eco.sapo.pt/2026/09/04/surpresa-e-alivio-acoes-da-vw-atingem-maximos-de-11-semanas-apos-aprovacao-do-plano-de-restruturacao/",
-      "img": "https://eco.imgix.net/uploads/2025/10/cropped-doc202509234571242312399708.jpg",
+      "date": "Fri, 04 Sep 2026 14:17:25 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/criacao-de-emprego-nos-eua-em-agosto-pulveriza-estimativas-e-da-margem-para-fed-subir-taxas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-05-14-19-47-524888.jpg",
       "score": 0.76
     },
     {
@@ -135,25 +135,69 @@
       "score": 0.76
     },
     {
-      "id": "ddb20a8a",
+      "id": "9fd26413",
       "cat": "tecnologia",
-      "title": "Após alerta da Ordem, Ministério das Finanças aprova documento que permite contratação de enfermeiros",
-      "summary": "Aprovação surge após a Ordem dos Enfermeiros ter alertado para a existência de cerca de três mil novos enfermeiros disponíveis, ao mesmo tempo que várias unidades do SNS continuam sem poder contratar.",
+      "title": "Julho foi o pior mês de incêndios em Portugal e bateu recordes em parte da Europa",
+      "summary": "Em Portugal, até 31 de Agosto, este ano é o sexto com mais incêndios, e na bacia mediterrânica foi um ano muito mais calmo que 2025. Mas alguns países europeus arderam como nunca.",
       "source": "Público",
-      "date": "Fri, 04 Sep 2026 09:05:23 GMT",
-      "url": "https://www.publico.pt/2026/09/04/sociedade/noticia/ministerio-financas-aprovou-documento-permite-contratacao-enfermeiros-2187011",
+      "date": "Fri, 04 Sep 2026 14:29:36 GMT",
+      "url": "https://www.publico.pt/2026/09/04/azul/noticia/julho-pior-mes-incendios-portugal-bateu-recordes-parte-europa-2187038",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "520e45d5",
-      "cat": "cultura",
-      "title": "Nos primeiros filmes a concurso em Veneza, ganha Malkovich",
-      "summary": "“Wild Horse Nine” coloca Martin McDonagh a caminho dos Óscares, já “Bucking Fastard” leva Herzog para o conto de fadas, sem alcançar a altíssima fasquia de filmes anteriores.",
+      "id": "e2be8088",
+      "cat": "tecnologia",
+      "title": "Drawing Room: 23 galerias e artista peruano em destaque",
+      "summary": "Catarina Real, Inez Teixeira, Rudi Brito, Eduardo Matos e Tomás Cunha Ferreira são os finalistas do Prémio FLAD de Desenho 2026, com vencedor revelado na feira em outubro.",
       "source": "Observador",
-      "date": "Fri, 04 Sep 2026 11:30:50 +0100",
-      "url": "https://observador.pt/2026/09/04/nos-primeiros-filmes-a-concurso-em-veneza-ganha-a-panache-de-malkovich/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:157/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/04112400/114615-wild-horse-nine-john-malkovich-and-sam-rockwell-1.jpg",
+      "date": "Fri, 04 Sep 2026 16:01:15 +0100",
+      "url": "https://observador.pt/2026/09/04/drawing-room-lisboa-regressa-em-outubro-com-23-galerias-e-premio-flad-de-20-mil-euros-para-jovens-artistas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1600:899:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/20220154/drawing-room-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "f0cfe219",
+      "cat": "desporto",
+      "title": "Alexandre Santos é o novo técnico do Nacional",
+      "summary": "O técnico, com um currículo focado nas ligas africanas, chega para substituir João Gião. Primeiro encontro será contra o Sporting, em Alvalade. Presidente remete para segunda restantes detalhes.",
+      "source": "Observador",
+      "date": "Fri, 04 Sep 2026 16:00:20 +0100",
+      "url": "https://observador.pt/2026/09/04/alexandre-santos-e-o-novo-treinador-do-nacional-apos-demissao-de-joao-giao-ao-fim-de-quatro-jornadas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:129/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/04150143/47171520.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "bf890a4d",
+      "cat": "tecnologia",
+      "title": "Aguiar-Branco empenhado na revisão das Finanças Regionais",
+      "summary": "O presidente da Assembleia da República presidiu à sessão solene dos 50 anos da autonomia nos Açores, numa cerimónia marcada pela ausência do Presidente da República e do primeiro-ministro.",
+      "source": "Observador",
+      "date": "Fri, 04 Sep 2026 15:57:12 +0100",
+      "url": "https://observador.pt/2026/09/04/aguiar-branco-promete-empenho-do-parlamento-na-revisao-da-lei-das-financas-regionais-nos-50-anos-da-autonomia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/21180556/47136568.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d2a0cb39",
+      "cat": "saude",
+      "title": "Paragrafino Pescada procura “farmar aura” com esta crónica",
+      "summary": "Deixemos a agricultura a sério que é suja e cansativa para os imigrantes. Nós devemos é apostar em \"farmar aura\" de modo a tornarmos Portugal num lindo país virtual,",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 04 Sep 2026 17:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/paragrafino-pescada-procura-farmar-aura-com-esta-cronica",
+      "img": "https://cdn.jornaldenegocios.pt/images/2012-08/img_100x100uu2012-08-01-11-30-00-35198.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "891d8cb1",
+      "cat": "cultura",
+      "title": "CTT e Cajamar não chegam a acordo sobre venda do banco dos Correios",
+      "summary": "Grupo bancário espanhol tinha manifestado interesse numa potencial compra do Banco CTT, mas as partes não chegaram a um entendimento.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 04 Sep 2026 16:48:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/ctt-e-cajamar-nao-chegam-a-acordo-sobre-venda-do-banco-dos-correios",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-09/img_100x100uu2023-09-27-20-19-21-461364.jpg",
       "score": 0.73
     },
     {
@@ -168,58 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "e172a76d",
-      "cat": "cultura",
-      "title": "FC Porto recebe Moreirense",
-      "summary": "O FC Porto parte para a quinta jornada da I Liga isolado no comando da classificação, só com vitórias, e tem o Moreirense como próximo adversário, em jogo marcado para esta noite no estádio do Dragão.",
-      "source": "RTP",
-      "date": "Fri, 04 Sep 2026 10:33:23 +0100",
-      "url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-recebe-moreirense_d1763330",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7f190af045f6a0bd38bea994e63387b8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "33c9153e",
-      "cat": "desporto",
-      "title": "I Liga: FC Porto recebe Benfica em 20 de setembro e Sporting em 29 de novembro",
-      "summary": "O campeão e líder isolado FC Porto receberá Benfica e Sporting em 20 de setembro e 29 de novembro, nos clássicos da sétima e 12.ª jornadas da I Liga, respetivamente, anunciou esta quinta-feira a Liga Portuguesa de Futebol Profissional (LPFP).",
-      "source": "RTP",
-      "date": "Thu, 03 Sep 2026 21:37:18 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/i-liga-fc-porto-recebe-benfica-em-20-de-setembro-e-sporting-em-29-de-novembro_d1763265",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6b45a301a4b676ae50bf1ce9576e5234?w=350&amp;q=50&amp;rect=0,106,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "56e653c2",
+      "id": "3850a2d1",
       "cat": "tecnologia",
-      "title": "Quem escolhe o que podemos escolher?",
-      "summary": "A forte concentração é uma marca-de-água do mercado português de distribuição alimentar e os dados mais recentes da Worldpanel by Numerator são elucidativos. Continente e Pingo Doce representam, em conjunto, 50% do mercado. O primeiro detém 27,6% e o segundo 22,3%. Segue-se o Lidl, já com 13,8%. Se ",
+      "title": "Espanhóis do Cajamar desistem da compra do Banco CTT",
+      "summary": "Os CTT e o BCC — Grupo Cooperativo Cajamar encerraram as negociações sobre uma potencial aquisição do Banco CTT pelo banco espanhol, avança a Bloomberg. Segundo adianta a agência de notícias, as duas entidades não chegaram a acordo. O interesse espanhol levou os CTT a trabalhar com o BNP Paribas par",
       "source": "ECO",
-      "date": "Fri, 04 Sep 2026 10:51:42 +0000",
-      "url": "https://eco.sapo.pt/opiniao/quem-escolhe-o-que-podemos-escolher/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2023/03/pedro-pimentel-opiniao.png",
-      "score": 0.73
-    },
-    {
-      "id": "14643ae9",
-      "cat": "tecnologia",
-      "title": "Combustíveis vão disparar na próxima semana. Gasolina arrisca a maior subida desde junho de 2022",
-      "summary": "O preço do litro de gasóleo deverá subir 15 cêntimos na segunda-feira, enquanto a gasolina arrisca um aumento de 12 cêntimos por litro, de acordo com as estimativas avançadas pelo Automóvel Club de Portugal (ACP). A confirmar-se, será a maior subida do preço da gasolina em mais de quatro anos, sem c",
-      "source": "ECO",
-      "date": "Fri, 04 Sep 2026 08:35:58 +0000",
-      "url": "https://eco.sapo.pt/2026/09/04/precos-dos-combustiveis-vao-disparar-na-proxima-semana/",
-      "img": "https://eco.imgix.net/uploads/2026/03/cropped-doc2026030746705971ma-19303.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7584815a",
-      "cat": "tecnologia",
-      "title": "A casa indiana permanece fresca sem ar-condicionado por meio da arquitetura inteligente de argila",
-      "summary": "Todo verão parece que uma parte do mundo experimenta temperaturas recordes, então talvez seja a hora dos arquitetos projetarem edifícios projetados para resistir ao calor o mais facilmente possível. A GNN noticiou, principalmente na Ásia, sobre empresas especializadas em projetar casas com refrigeração automática que deixam",
-      "source": "Good News Network",
-      "date": "Thu, 03 Sep 2026 19:00:38 +0000",
-      "url": "https://www.goodnewsnetwork.org/indian-home-stays-cool-without-a-c-through-clever-clay-architecture/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2025/09/credit-CoolAnt-Studio.jpg",
+      "date": "Fri, 04 Sep 2026 15:48:27 +0000",
+      "url": "https://eco.sapo.pt/2026/09/04/espanhois-do-cajamar-desistem-da-compra-do-banco-ctt/",
+      "img": "https://eco.imgix.net/uploads/2025/05/cropped-doc-20210210-30642857-dscf2442.jpg",
       "score": 0.73
     },
     {
@@ -237,7 +237,7 @@
       "id": "26100656",
       "cat": "sociedade",
       "title": "The Spark: sua lavanderia pode ser uma biblioteca",
-      "summary": "Bem-vindo de volta ao The Spark, nossa celebração mensal de como pessoas como você estão criando mudanças positivas, um passo significativo de cada vez. O Spark é generosamente apoiado por Laura Rice. Inscreva-se no boletim informativo semanal do Reasons to be Cheerful aqui e você receberá The Spark em sua caixa de entrada... O post T",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Reasons to be Cheerful",
       "date": "Fri, 04 Sep 2026 08:00:47 +0000",
       "url": "https://reasonstobecheerful.world/the-spark-laundromat-libraries/",
@@ -247,8 +247,8 @@
     {
       "id": "fb4acc2e",
       "cat": "tecnologia",
-      "title": "O que estamos lendo: uma cadeira de rodas robusta o suficiente para trilhas em parques nacionais",
-      "summary": "Bem-vindo de volta à nossa visão semanal dos bastidores sobre o que está fazendo nossa equipe falar. Conte-nos o que você está lendo em info@reasonstobecheerful.world e talvez possamos apresentá-lo aqui. Vistas panorâmicas O Parque Nacional de Zion, em Utah, é pioneiro no transporte de visitantes: para reduzir o",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Reasons to be Cheerful",
       "date": "Wed, 26 Aug 2026 08:00:49 +0000",
       "url": "https://reasonstobecheerful.world/what-were-reading-rugged-wheelchairs-national-parks/",
@@ -256,69 +256,25 @@
       "score": 0.73
     },
     {
-      "id": "ad71a3fe",
+      "id": "240d4016",
       "cat": "tecnologia",
-      "title": "Morreu Tony Gatlif, cronista da alma cigana",
-      "summary": "Cineasta franco-argelino, premiado em Cannes e Locarno, rodou com Fanny Ardant, Romain Duris ou Vincent Lindon ao longo de uma carreira de meio século.",
+      "title": "Rua das Pretas faz show gratuito para imigrantes africanos lusófonos e brasileiros",
+      "summary": "Concerto será realizado no Palacete do Príncipe Real, em Lisboa, neste sábado, 5 de setembro, a partir das 18h30. É preciso retirar os ingressos pela internet, mediante disponibilidade.",
       "source": "Público",
-      "date": "Fri, 04 Sep 2026 10:48:12 GMT",
-      "url": "https://www.publico.pt/2026/09/04/culturaipsilon/noticia/morreu-tony-gatlif-cronista-alma-cigana-2187023",
+      "date": "Fri, 04 Sep 2026 15:06:56 GMT",
+      "url": "https://www.publico.pt/2026/09/04/publico-brasil/noticia/rua-pretas-faz-show-gratuito-imigrantes-africanos-lusofonos-brasileiros-2187058",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "1f2e586f",
+      "id": "7443c0f2",
       "cat": "tecnologia",
-      "title": "Cinco conselhos que gostaria de ter dado a todos os empreendedores imigrantes",
-      "summary": "Empreender é um desafio para qualquer pessoa. Para quem o faz longe do seu país de origem, exige ainda mais coragem, resiliência e capacidade de adaptação. Opinião de Nilzete Pacheco",
+      "title": "Ex-autarca de Gaia Eduardo Vítor Rodrigues absolvido de prevaricação e peculato",
+      "summary": "Estava acusado de ter usado dinheiro do município para comprar bilhetes para assistir a jogos de futebol.",
       "source": "Público",
-      "date": "Fri, 04 Sep 2026 10:04:00 GMT",
-      "url": "https://www.publico.pt/2026/09/04/publico-brasil/opiniao/cinco-conselhos-gostaria-dado-empreendedores-imigrantes-2187020",
+      "date": "Fri, 04 Sep 2026 14:57:15 GMT",
+      "url": "https://www.publico.pt/2026/09/04/local/noticia/exautarca-gaia-eduardo-vitor-rodrigues-absolvido-prevaricacao-peculato-2187066",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "bb5d42b6",
-      "cat": "tecnologia",
-      "title": "Convento de Cristo prevê reaberta ao público este mês",
-      "summary": "O Monumento do Património Mundial dispunha de um financiamento de 5,2 milhões de euros do PRR. A diretora do monumento declara que vão continuar com novos projetos depois das obras acabarem.",
-      "source": "Observador",
-      "date": "Fri, 04 Sep 2026 11:32:55 +0100",
-      "url": "https://observador.pt/2026/09/04/convento-de-cristo-preve-reabrir-claustros-ao-publico-ainda-este-mes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/10125548/2-convento-de-cristo-scaled.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "8f3f2006",
-      "cat": "tecnologia",
-      "title": "Escolas de Nova Iorque restringem o uso de IA por alunos",
-      "summary": "Nova Iorque vai proibir a utilização de IA por alunos das escolas públicas até ao 8.º ano. A medida faz parte de uma política que pretende proteger \"o pensamento crítico dos alunos\".",
-      "source": "Observador",
-      "date": "Fri, 04 Sep 2026 11:27:08 +0100",
-      "url": "https://observador.pt/2026/09/04/uso-da-inteligencia-artificial-restrito-em-escolas-de-nova-iorque/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1800:1012:nowe:0:94/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/01202512/45146096.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "ee65290c",
-      "cat": "tecnologia",
-      "title": "Fundo soberano da Noruega propõe redução da exposição à dívida dos EUA",
-      "summary": "Em resposta a um pedido do Ministério das Finanças sobre a exposição a dívida, os gestores do maior fundo soberano do mundo sugerem uma redução da exposição a Treasuries, trocando-a por obrigações garantidas por hipotecas, que oferecem juros mais altos.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 04 Sep 2026 11:22:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/fundo-soberano-da-noruega-propoe-reducao-da-exposicao-as-divida-dos-eua",
-      "img": "https://cdn.jornaldenegocios.pt/images/2020-05/img_100x100uu2020-05-14-16-52-12-376085.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "22b96482",
-      "cat": "tecnologia",
-      "title": "Inflação do cabaz dos alimentos perto dos 6%",
-      "summary": "Se tivermos em conta apenas os produtos alimentares e tendo por base o cabaz de alimentos da DECO, em agosto era quase 6% (5,89%) mais caro que em agosto de 2025.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 04 Sep 2026 11:15:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/carlos-bastardo/detalhe/inflacao-do-cabaz-dos-alimentos-perto-dos-6",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-21-15-09-00-296280.png",
       "score": 0.7
     },
     {
@@ -330,6 +286,50 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a2b16660",
+      "cat": "desporto",
+      "title": "Vuelta: Wout van Aert vence 13.ª etapa e Enric Mas mantém liderança",
+      "summary": "O ciclista belga Wout van Aert (Visma-Lease a bike) venceu a 13.ª etapa da Volta a Espanha, que ligou Almuñécar a Loja, com o espanhol Enric Mas (Movistar) a manter a liderança.",
+      "source": "RTP",
+      "date": "Fri, 04 Sep 2026 17:39:30 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/vuelta-wout-van-aert-vence-13a-etapa-e-enric-mas-mantem-lideranca_d1763425",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7e/7e216554fe8f66519fd0dad4a8798214?w=350&amp;q=50&amp;rect=0,59,1235,677&amp;auto=format",
+      "score": 0.7
+    },
+    {
+      "id": "0f417d65",
+      "cat": "tecnologia",
+      "title": "Sporting apanha Brondby na Taça Europa futebol feminino, Torreense o FC Kharkiv",
+      "summary": "O Sporting vai defrontar o Brondby da Dinamarca na segunda pré-eliminatória da Taça Europa de futebol feminino, enquanto o Torreense vai encontrar as ucranianas do FC Kharkiv rumo aos oitavos de final, ditou hoje o sorteio.",
+      "source": "RTP",
+      "date": "Fri, 04 Sep 2026 16:51:22 +0100",
+      "url": "https://www.rtp.pt/noticias/sporting/sporting-apanha-brondby-na-taca-europa-futebol-feminino-torreense-o-fc-kharkiv_d1763413",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6a/6ae6bea51111cd341497e3bf035c1c2e?w=350&amp;q=50&amp;rect=0,104,1052,577&amp;auto=format",
+      "score": 0.7
+    },
+    {
+      "id": "89f64f72",
+      "cat": "desporto",
+      "title": "Números e Curiosidades - Jornada 5",
+      "summary": "Os números e curiosidades que marcam esta jornada.",
+      "source": "RTP",
+      "date": "Fri, 04 Sep 2026 16:41:05 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/numeros-e-curiosidades-jornada-5_d1763411",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/85/8518a5ce0f8dca8b12f62a96eb9ed91b?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format",
       "score": 0.7
     }
   ]
