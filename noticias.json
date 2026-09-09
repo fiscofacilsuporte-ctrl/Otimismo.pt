@@ -1,18 +1,7 @@
 {
-  "last_update": "09/09/2026 16:26 UTC",
+  "last_update": "09/09/2026 20:50 UTC",
   "total": 30,
   "news": [
-    {
-      "id": "b47203bb",
-      "cat": "ciencia",
-      "title": "Prata nos mestrados. Ouro na investigação",
-      "summary": "Uma grande escola não pode ser apenas um lugar onde se transmite conhecimento. Tem de ser também um lugar onde se cria conhecimento novo.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 09 Sep 2026 17:14:17 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/deans-corner/pedro-oliveira/detalhe/prata-nos-mestrados-ouro-na-investigacao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-10/img_394x514uu2023-10-27-16-45-24-463281.png",
-      "score": 0.79
-    },
     {
       "id": "1dd24ecc",
       "cat": "tecnologia",
@@ -91,14 +80,25 @@
       "score": 0.79
     },
     {
-      "id": "6c701a2f",
+      "id": "e981ed7f",
       "cat": "tecnologia",
-      "title": "Benfica e Moreirense acertam calendário na Liga",
-      "summary": "O Benfica visita hoje o Moreirense, em jogo em atraso da terceira jornada da I Liga, à procura de um triunfo que lhe permita reduzir distâncias para o líder e campeão FC Porto.",
+      "title": "Apple avança com o dobrável e apresenta o iPhone Duo",
+      "summary": "Decorreu esta quarta-feira o primeiro evento da Apple depois da saída de Tim Cook da liderança da empresa, com o lançamento de um smartphone dobrável. O novo CEO, John Ternus, apresentou também o novo iPhone 18, que vai ter um preço a partir de 1.499 euros em Portugal. Duo terá um custo a partir de ",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 09 Sep 2026 19:56:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/apple-apresenta-iphone-dobravel-em-primeiro-evento-do-novo-ceo-acompanhe-ao-minuto",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-09-19-09-58-529281.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "56a230dc",
+      "cat": "desporto",
+      "title": "Moreirense - Benfica",
+      "summary": "O Benfica visita o Moreirense, em jogo em atraso da terceira jornada da I Liga portuguesa de futebol, à procura de um triunfo que lhe permita reduzir distâncias para o líder e campeão FC Porto.",
       "source": "RTP",
-      "date": "Wed, 09 Sep 2026 10:18:07 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/benfica-e-moreirense-acertam-calendario-na-liga_d1764332",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/93/93ae64ed16ec3a6689ece844bd28e6bd?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Wed, 09 Sep 2026 19:21:59 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/moreirense-benfica_e1764455",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d4/d432073543c6b0805f36108612a01e46?w=350&amp;q=50&amp;rect=0,35,1371,752&amp;auto=format",
       "score": 0.76
     },
     {
@@ -135,39 +135,6 @@
       "score": 0.76
     },
     {
-      "id": "d459d98e",
-      "cat": "tecnologia",
-      "title": "Ministro diz que novo concurso de colocação de professores vai “reduzir drasticamente o tempo em que os alunos estão sem aulas”",
-      "summary": "Novo concurso foi aprovado em Conselho de Ministros. Tutela vai também colocar professores todos os dias nas escolas, através de reservas de recrutamento diárias, a partir de dia 18 deste mês.",
-      "source": "Público",
-      "date": "Wed, 09 Sep 2026 14:24:13 GMT",
-      "url": "https://www.publico.pt/2026/09/09/sociedade/noticia/novo-concurso-colocacao-professores-vai-reduzir-drasticamente-tempo-alunos-estao-aulas-2187499",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "ec6d41f8",
-      "cat": "tecnologia",
-      "title": "Câmara de Lisboa vai gastar mais de 3,2 milhões para arranjar pisos pedonais até 2028",
-      "summary": "Proposta ligada à contratação pública para conservação e manutenção de pavimentos pedonais em Lisboa foi aprovada esta quarta-feira. Reconhece-se que há cada vez mais reclamações.",
-      "source": "Público",
-      "date": "Wed, 09 Sep 2026 14:01:10 GMT",
-      "url": "https://www.publico.pt/2026/09/09/local/noticia/camara-lisboa-vai-gastar-32-milhoes-arranjar-pisos-pedonais-ate-2028-2187439",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "f0dd219b",
-      "cat": "geral",
-      "title": "Montenegro: “Contas públicas equilibradas não valem por si, mas têm grande valor para a vida das pessoas”",
-      "summary": "No final da reunião do Conselho de Ministros, em Bragança, o primeiro-ministro confirmou o prolongamento do apoio extraordinário ao gasóleo agrícola até 31 de Dezembro.",
-      "source": "Público",
-      "date": "Wed, 09 Sep 2026 13:55:42 GMT",
-      "url": "https://www.publico.pt/2026/09/09/politica/noticia/montenegro-contas-publicas-equilibradas-nao-valem-valor-vida-pessoas-2187494",
-      "img": null,
-      "score": 0.73
-    },
-    {
       "id": "bd71fd2c",
       "cat": "tecnologia",
       "title": "12 milhões para viticultores do Douro em dificuldades",
@@ -201,25 +168,25 @@
       "score": 0.73
     },
     {
-      "id": "312b2396",
-      "cat": "tecnologia",
-      "title": "Maior fabricante mundial de botões investe em nova unidade em Famalicão",
-      "summary": "A Louropel, empresa 100% portuguesa de raiz familiar, fabrica entre 10 a 14 milhões de botões por dia, a partir de Famalicão. Expansão industrial vem reforçar fileira dos produtos ecológicos, que representa já um quarto da produção.",
+      "id": "67d5904d",
+      "cat": "cultura",
+      "title": "Apple apresenta dobrável de 2.400 euros e iPhone de câmara renovada",
+      "summary": "A empresa da maçã tirou o seu primeiro dobrável do papel ao fim de 10 anos. Tem as características de um iPhone 18 Pro, com um design diferente do habitual, a um preço que não chega a todas as carteiras.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 09 Sep 2026 16:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/maior-fabricante-mundial-de-botoes-investe-em-nova-unidade-em-famalicao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2017-06/img_100x100uu2017-06-13-17-26-00-311842.jpg",
+      "date": "Wed, 09 Sep 2026 21:01:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/apple-aquece-iphone-18-com-camara-e-fotografia-e-apresenta-dobravel-de-2-400-euros",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-09-19-09-59-529282.jpg",
       "score": 0.73
     },
     {
-      "id": "70f250b2",
+      "id": "90b82a1a",
       "cat": "tecnologia",
-      "title": "OpenAI estreita parceria com Samsung para criar chips de nova geração",
-      "summary": "As duas tecnológicas estão a aprofundar as suas relações e a Samsung vai agora produzir os chips que a OpenAI quer a alimentar o ChatGPT, num momento em que a utilização do \"chatbot\" cresce.",
+      "title": "Após a primeira loja em Almada, Rockport avança para mais seis, incluindo no Porto em 2027",
+      "summary": "Relançamento da marca de calçado em Portugal deu um passo com a primeira loja, em Almada, onde 60% da oferta é produção 100% nacional. O plano prevê mais seis aberturas, duas das quais ainda este ano e em Lisboa. Antecipa vendas na ordem de 1,2 milhões de euros este ano.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 09 Sep 2026 15:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/openai-estreita-parceria-com-samsung-para-criar-chips-de-nova-geracao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-07-10-17-45-524926.jpg",
+      "date": "Wed, 09 Sep 2026 20:10:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/apos-a-primeira-loja-em-almada-rockport-avanca-para-mais-seis-incluindo-no-porto-em-2027",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-08-15-41-45-529228.jpg",
       "score": 0.73
     },
     {
@@ -234,36 +201,47 @@
       "score": 0.73
     },
     {
-      "id": "de33fb05",
+      "id": "9316ed8b",
       "cat": "tecnologia",
-      "title": "Sabalenka rumo ao tri em Flushing Meadows",
-      "summary": "A tenista bielorrussa Aryna Sabalenka ficou na terça-feira a apenas duas vitórias de conseguir o terceiro título consecutivo no Open dos Estados Unidos, depois de vencer a checa Linda Noskova nos quartos de final.",
+      "title": "Rybakina está nas meias-finais e é a nova número um mundial",
+      "summary": "A cazaque Elena Rybakina qualificou-se pela primeira vez para as meias-finais do Open dos Estados Unidos, depois de conseguir uma reviravolta frente à chinesa Qinwen Zheng, garantindo a subida ao primeiro lugar do ranking mundial de ténis.",
       "source": "RTP",
-      "date": "Wed, 09 Sep 2026 10:30:52 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/sabalenka-rumo-ao-tri-em-flushing-meadows_d1764336",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/37/3766a791fd957c5f7b5aa44d842c262f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Wed, 09 Sep 2026 20:59:03 +0100",
+      "url": "https://www.rtp.pt/noticias/tenis/rybakina-esta-nas-meias-finais-e-e-a-nova-numero-um-mundial_d1764465",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ab/abc75f4b173382e0d952e9754ab653b0?w=350&amp;q=50&amp;rect=0,38,1221,669&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "15796054",
-      "cat": "tecnologia",
-      "title": "Bolsas de Jornalismo em Saúde com candidaturas abertas até 25 de setembro",
-      "summary": "A quinta edição das Bolsas de Jornalismo em Saúde, uma iniciativa do Sindicato dos Jornalistas em parceria com a Roche, arrancou esta semana com a abertura das candidaturas. Este ano vão ser atribuídas quatro bolsas, uma por cada área &#8212; digital, imprensa, rádio e televisão &#8211;, com o valor",
-      "source": "ECO",
-      "date": "Wed, 09 Sep 2026 16:06:49 +0000",
-      "url": "https://eco.sapo.pt/2026/09/09/bolsas-de-jornalismo-em-saude-com-candidaturas-abertas-ate-25-de-setembro/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-31741153-scaled-1.jpg",
+      "id": "dd330f23",
+      "cat": "desporto",
+      "title": "Sporting CP - Galatasaray",
+      "summary": "O Sporting inicia a Liga dos Campeões de futebol, com a receção ao tetracampeão turco Galatasaray, num encontro da primeira jornada da fase de liga, que promove o regresso de Rafael Leão ao estádio verde e branco.",
+      "source": "RTP",
+      "date": "Wed, 09 Sep 2026 19:12:23 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-galatasaray_e1764454",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e7916e32b691228db55e8e6bf396c9ed?w=350&amp;q=50&amp;rect=0,92,1312,719&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "cc8afdf0",
+      "id": "da93ab16",
       "cat": "tecnologia",
-      "title": "Startup dos EUA Covenant vai produzir mísseis de cruzeiro na Alemanha",
-      "summary": "A startup norte-americana de defesa Covenant vai iniciar no começo de 2027 a produção em massa de mísseis de cruzeiro de baixo custo na Alemanha, numa altura em que os países europeus procuram reforçar os arsenais de armas de longo alcance. A empresa espera produzir inicialmente mil mísseis Anthem p",
+      "title": "Plano de Bessent desilude e juros dos EUA disparam para máximos de 2023",
+      "summary": "Os juros das obrigações do Tesouro dos EUA a 10 anos subiram para perto de 4,85% esta quarta-feira, o valor mais elevado desde 2023, após o plano de recompra de dívida anunciado por Scott Bessent, secretário do Tesouro dos EUA, ter ficado abaixo das expectativas do mercado. A decisão do Tesouro nort",
       "source": "ECO",
-      "date": "Wed, 09 Sep 2026 15:37:52 +0000",
-      "url": "https://eco.sapo.pt/2026/09/09/startup-dos-eua-covenant-vai-produzir-misseis-de-cruzeiro-na-alemanha/",
-      "img": "https://eco.imgix.net/uploads/2017/08/cropped-missil-1.jpg",
+      "date": "Wed, 09 Sep 2026 18:15:44 +0000",
+      "url": "https://eco.sapo.pt/2026/09/09/plano-de-bessent-desilude-e-juros-dos-eua-disparam-para-maximos-de-2023/",
+      "img": "https://eco.imgix.net/uploads/2025/02/cropped-doc-20250205-44358333-11876903.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c5099e85",
+      "cat": "tecnologia",
+      "title": "Polónia garante 3,4 mil milhões de euros em financiamento militar dos EUA",
+      "summary": "A Polónia garantiu 3,4 mil milhões de euros em financiamento militar dos Estados Unidos, através do programa Foreign Military Financing (FMF), num acordo que prevê reforçar as Forças Armadas polacas e o flanco leste da NATO. É o sexto entre Varsóvia e Washington ao abrigo deste mecanismo e eleva par",
+      "source": "ECO",
+      "date": "Wed, 09 Sep 2026 17:20:10 +0000",
+      "url": "https://eco.sapo.pt/2026/09/09/polonia-garante-34-mil-milhoes-de-euros-em-financiamento-militar-dos-eua/",
+      "img": "https://eco.imgix.net/uploads/2023/02/cropped-doc-20220906-39347429-10163910-2.jpg",
       "score": 0.73
     },
     {
@@ -281,7 +259,7 @@
       "id": "436bd8df",
       "cat": "tecnologia",
       "title": "Cometa interestelar 3I/ATLAS está repleto de metanol",
-      "summary": "O cometa interestelar 3I/ATLAS contém níveis excepcionalmente elevados de metanol, sugerindo que se formou em condições muito diferentes daquelas que moldaram a maioria dos cometas do nosso sistema solar. O ALMA também revelou que pequenos grãos gelados em torno do cometa estão a libertar metanol como cometas em miniatura, dando à astronomia",
+      "summary": "O cometa interestelar 3I/ATLAS contém níveis excepcionalmente elevados de metanol, sugerindo que se formou em condições muito diferentes daquelas que moldaram a maioria dos cometas do nosso sistema solar. O ALMA também revelou que pequenos grãos de gelo em torno do cometa estão a libertar metanol como cometas em miniatura, dando à astronomia",
       "source": "ScienceDaily",
       "date": "Wed, 09 Sep 2026 04:47:39 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm",
@@ -322,14 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "c8ced442",
+      "id": "6958ee38",
+      "cat": "ciencia",
+      "title": "Cuecas enterradas, doces roubados e ciência improvável: Suíça é capital do Ig Nobel",
+      "summary": "Prêmio que celebra pesquisas que “nos fazem rir antes de nos fazer pensar” encontra nova casa em Zurique. E uma das histórias desta edição começou debaixo da terra, com uma simples cueca de algodão. Opinião de Mônica Cabañas",
+      "source": "Público",
+      "date": "Wed, 09 Sep 2026 19:36:16 GMT",
+      "url": "https://www.publico.pt/2026/09/09/publico-brasil/opiniao/cuecas-enterradas-doces-roubados-ciencia-improvavel-suica-capital-ig-nobel-2187550",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "6cb52dbb",
+      "cat": "ciencia",
+      "title": "Queda nos resultados do PISA 2025 “afectou tanto os alunos das escolas públicas como os das privadas”",
+      "summary": "Não há grandes diferenças globais no desempenho de alunos de escolas públicas e privadas no PISA, mas estas agravam-se quando se olha apenas para os estudantes dos cursos científico-humanísticos.",
+      "source": "Público",
+      "date": "Wed, 09 Sep 2026 19:35:50 GMT",
+      "url": "https://www.publico.pt/2026/09/09/sociedade/noticia/queda-resultados-pisa-2025-afectou-tanto-alunos-escolas-publicas-privadas-2187530",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "362181fe",
       "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "title": "OpenAI diz ter resolvido um enigma matemático com quase um século em 88 horas",
+      "summary": "O problema matemático faz parte das equações de Navier-Stokes, que descrevem o movimento de fluidos, tendo a empresa mobilizado cerca de 10.000 agentes de IA (e milhões de dólares) para o resolver.",
+      "source": "Público",
+      "date": "Wed, 09 Sep 2026 19:25:43 GMT",
+      "url": "https://www.publico.pt/2026/09/09/ciencia/noticia/openai-resolvido-enigma-matematico-quase-seculo-88-horas-2187482",
+      "img": null,
       "score": 0.7
     }
   ]
