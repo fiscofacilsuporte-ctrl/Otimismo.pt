@@ -1,7 +1,18 @@
 {
-  "last_update": "08/09/2026 21:02 UTC",
+  "last_update": "09/09/2026 04:19 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "5b65e0ed",
+      "cat": "tecnologia",
+      "title": "O carro que a Europa não entende, movido a uma planta",
+      "summary": "O etanol brasileiro é uma das raras histórias de sucesso energético completo que existem no mundo, uma solução limpa, renovável, nacional, barata.",
+      "source": "Observador",
+      "date": "Wed, 09 Sep 2026 00:16:33 +0100",
+      "url": "https://observador.pt/opiniao/o-carro-que-a-europa-nao-entende-movido-a-uma-planta/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F24175447%2Fobservador-dg-14.jpg",
+      "score": 0.79
+    },
     {
       "id": "f3ef3955",
       "cat": "tecnologia",
@@ -157,47 +168,58 @@
       "score": 0.76
     },
     {
-      "id": "2722cade",
+      "id": "6bd308b1",
       "cat": "tecnologia",
-      "title": "“Bis” de Haaland dá vitória ao Manchester City sobre o FC Porto",
-      "summary": "Depois de uma primeira parte passada à defesa, os portistas arriscaram mais na segunda parte, mas sem capacidade para contrariarem a supremacia inglesa.",
+      "title": "SAD do Benfica com lucro de 19,1 milhões de euros em 2025-26",
+      "summary": "É o segundo exercício consecutivo com resultados positivos para os “encarnados”, que registaram o maior valor de sempre nas receitas de dia de jogo.",
       "source": "Público",
-      "date": "Tue, 08 Sep 2026 20:57:46 GMT",
-      "url": "https://www.publico.pt/2026/09/08/desporto/cronica_de_jogo/bis-haaland-vitoria-manchester-city-fc-porto-2187437",
+      "date": "Tue, 08 Sep 2026 23:49:15 GMT",
+      "url": "https://www.publico.pt/2026/09/09/desporto/noticia/sad-benfica-lucro-191-milhoes-euros-202526-2187449",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "6b996cfb",
+      "id": "09cbc26d",
       "cat": "tecnologia",
-      "title": "Milhares protestaram nas ruas de Berlim contra o crescimento da extrema-direita na Alemanha",
-      "summary": "Manifestantes confessam temer que a democracia na Alemanha “esteja a desmoronar-se”. A atenção está agora nas eleições em Berlim e em Mecklemburgo-Pomerânia Ocidental, marcadas para o final do mês.",
+      "title": "Europeus dizem que o continente “perdeu a normalidade” e não confiam nos líderes",
+      "summary": "Análise do European Council on Foreign Relations diz que europeus ainda sonham, mas não têm esperança nos líderes políticos. “Uma trajectória em vez de grandes sonhos” para convencer os “incertos”.",
       "source": "Público",
-      "date": "Tue, 08 Sep 2026 20:09:41 GMT",
-      "url": "https://www.publico.pt/2026/09/08/mundo/noticia/milhares-protestaram-ruas-berlim-crescimento-extremadireita-alemanha-2187443",
+      "date": "Tue, 08 Sep 2026 22:01:50 GMT",
+      "url": "https://www.publico.pt/2026/09/08/mundo/noticia/ha-sonhos-europa-desfasamento-imaginacao-afastanos-futuro-2187423",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "c0fdeb93",
+      "id": "c7374afe",
       "cat": "tecnologia",
-      "title": "A moção que desbloqueou dois anúncios",
-      "summary": "De tanto querer ser a estrela do início do ano parlamentar, o Chega esqueceu-se do instinto de sobrevivência do primeiro-ministro. Editorial deSónia Sapage",
-      "source": "Público",
-      "date": "Tue, 08 Sep 2026 19:32:08 GMT",
-      "url": "https://www.publico.pt/2026/09/08/opiniao/editorial/mocao-desbloqueou-dois-anuncios-2187436",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "05af90c9",
-      "cat": "tecnologia",
-      "title": "Zelensky diz que Putin vai dar vitória diplomática a Trump",
-      "summary": "Volodymyr Zelensky considera que o presidente russo, Vladimir Putin, precisa de Donald Trump e, como tal, fará o que for necessário para não o antagonizar.",
+      "title": "00h. Governo garante fim de ano com contas equilibradas",
+      "summary": "O ministro das Finanças assegura que os portugueses vão sentir um alívio no IRS já em novembro e garante que, salvo algum cataclismo, o ano vai terminar com as contas equilibradas.",
       "source": "Observador",
-      "date": "Tue, 08 Sep 2026 20:11:28 +0100",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/zelensky-diz-que-putin-vai-dar-vitoria-diplomatica-a-trump/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg",
+      "date": "Wed, 09 Sep 2026 00:20:15 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2415/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "d717da54",
+      "cat": "economia",
+      "title": "Um duplo brilharete",
+      "summary": "Não podemos, contudo, ignorar que este anúncio protagonizado pelo primeiro-ministro comporta riscos claros para a governação futura: ao dar um sinal de que a execução orçamental está melhor do que se esperava, arrisca abrir a fogueira de promessas orçamental para o exercício de 2027.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 08 Sep 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/um-duplo-brilharete",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
+      "score": 0.73
+    },
+    {
+      "id": "f365af9b",
+      "cat": "tecnologia",
+      "title": "Emissões portuguesas terão subido 1,6% em 2025, puxadas pela indústria e eletricidade",
+      "summary": "Estimativas da Comissão Europeia apontam para mais 820 mil toneladas emitidas pelo país. A nível mundial, as emissões de gases com efeito de estufa atingiram um novo máximo histórico.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 08 Sep 2026 21:50:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/emissoes-portuguesas-terao-subido-1-6-em-2025-puxadas-pela-industria-e-eletricidade",
+      "img": "https://cdn.jornaldenegocios.pt/images/2021-08/img_100x100uu2021-08-17-19-49-14-410532.jpg",
       "score": 0.73
     },
     {
@@ -209,28 +231,6 @@
       "date": "Tue, 08 Sep 2026 21:30:00 +0100",
       "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/o-ministro-e-o-da-de-braga",
       "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-16-00-296266.png",
-      "score": 0.73
-    },
-    {
-      "id": "55f89d97",
-      "cat": "economia",
-      "title": "Redução do IRS chega em novembro com retroativos a janeiro",
-      "summary": "Montenegro aproveitou o debate da moção de censura apresentada pelo Chega e avançou com dois anúncios: uma nova descida intercalar no IRS e a repetição do bónus para os pensionistas. Medidas serão aprovadas na próxima semana. Moção foi chumbada, como já se antecipava.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 08 Sep 2026 20:41:47 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/reducao-do-irs-chega-em-novembro-com-retroativos-a-janeiro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-08-16-16-31-529232.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "4ec34994",
-      "cat": "tecnologia",
-      "title": "Parpública confirma entrada do Estado no capital da REN",
-      "summary": "Após a aprovação pelo Tribunal de Contas, a 31 de agosto, a compra dos 13,7% que pertenciam à \"holding\" do fundador da Zara foi fechada na passada segunda-feira.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 08 Sep 2026 19:51:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/parpublica-confirma-entrada-do-estado-no-capital-da-ren",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-21-09-14-19-528570.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +256,25 @@
       "score": 0.73
     },
     {
-      "id": "da1ae031",
+      "id": "e38a842b",
       "cat": "tecnologia",
-      "title": "Senegal vai negociar perfil da dívida soberana e tentar evitar ‘default’",
-      "summary": "O Senegal vai negociar com os credores o perfil e não a reestruturação da dívida, disse esta terça-feira o primeiro-ministro, dias depois de agências de notação financeira terem descido o &#8216;rating&#8217; do país. &#8220;O reperfilamento significa prolongar os prazos de vencimento e renegociar t",
+      "title": "Governo vai continuar a negociar com o Chega o Orçamento para o próximo ano",
+      "summary": "O Governo vai continuar a negociar com o Chega as medidas que exigem aprovação do Parlamento, nomeadamente o Orçamento do Estado para 2027 (OE2027), apesar de esta terça-feira o partido de André Ventura ter tentado derrubar o Executivo através de uma moção de censura. “Continuaremos a dialogar com t",
       "source": "ECO",
-      "date": "Tue, 08 Sep 2026 17:30:36 +0000",
-      "url": "https://eco.sapo.pt/2026/09/08/senegal-vai-negociar-perfil-da-divida-soberana-e-tentar-evitar-default/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-doc202607044740811113087800.jpg",
+      "date": "Tue, 08 Sep 2026 22:25:34 +0000",
+      "url": "https://eco.sapo.pt/2026/09/08/governo-vai-continuar-a-negociar-com-o-chega-o-orcamento-para-o-proximo-ano/",
+      "img": "https://eco.imgix.net/uploads/2026/03/cropped-doc2026033146856552jsg-7867-1.jpg",
       "score": 0.73
     },
     {
-      "id": "1ddbe516",
-      "cat": "ciencia",
-      "title": "Lacunas nas evidências sobre a vacinação de texugos contra a tuberculose, dizem os pesquisadores",
-      "summary": "Os investigadores querem uma maior monitorização do impacto da vacinação na doença e uma revisão das evidências.",
+      "id": "391241bd",
+      "cat": "tecnologia",
+      "title": "Assista: Árvores derrubadas e inundações enquanto o furacão Lowell atinge o oeste do Havaí",
+      "summary": "A tempestade trouxe ventos fortes e chuvas torrenciais a partes da ilha na segunda e terça-feira, gerando preocupações sobre inundações repentinas e deslizamentos de terra.",
       "source": "BBC News",
-      "date": "Mon, 07 Sep 2026 19:11:55 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cddvzz1mjpvo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec4/live/0bf6f3b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
+      "date": "Wed, 09 Sep 2026 01:11:44 GMT",
+      "url": "https://www.bbc.co.uk/news/videos/c2079ne1xx6o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc8e/live/be05e3b0-abea-11f1-9d91-376486f9e679.jpg",
       "score": 0.73
     },
     {
@@ -300,25 +300,25 @@
       "score": 0.73
     },
     {
-      "id": "098fc430",
+      "id": "54aac793",
       "cat": "tecnologia",
-      "title": "IPMA explica o que aconteceu em Aveiro: Granizo e downburst",
-      "summary": "A trovoada que atingiu o distrito de Aveiro juntou as condições necessárias para produzir granizo de grande dimensão e uma forte corrente descendente de ar. O radar de Arouca registou o “downburst”.",
-      "source": "Observador",
-      "date": "Tue, 08 Sep 2026 20:34:03 +0100",
-      "url": "https://observador.pt/2026/09/08/pedras-de-granizo-com-mais-de-2-cm-e-um-downburst-ipma-explica-o-que-aconteceu-em-albergaria-a-velha/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1800:1012:nowe:0:417/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/08200541/downburst-aveiro-2.jpg",
+      "title": "Cartas ao director",
+      "summary": "Excerto das cartas que os leitores enviaram ao director do PÚBLICO, David Pontes.",
+      "source": "Público",
+      "date": "Wed, 09 Sep 2026 02:03:00 GMT",
+      "url": "https://www.publico.pt/2026/09/09/opiniao/opiniao/cartas-director-2187431",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "5c7f643d",
+      "id": "230563a8",
       "cat": "tecnologia",
-      "title": "Campeonato do Mundo de Motonáutica F2 regressa a Ródão",
-      "summary": "Durante os dias 25, 26 e 27 Vila Velha de Ródão vai receber a última prova do mundial de motonáutica de Fórmula 2. Evento importante do ponto de vista turístico e económico para a região.",
+      "title": "As notícias das 4h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Tue, 08 Sep 2026 20:13:16 +0100",
-      "url": "https://observador.pt/2026/09/08/campeonato-do-mundo-de-motonautica-f2-regressa-a-vila-velha-de-rodao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:42/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/03/29174809/23055046.jpg",
+      "date": "Wed, 09 Sep 2026 04:16:25 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2396/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
