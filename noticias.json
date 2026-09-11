@@ -1,12 +1,12 @@
 {
-  "last_update": "11/09/2026 11:03 UTC",
+  "last_update": "11/09/2026 16:19 UTC",
   "total": 30,
   "news": [
     {
       "id": "e027e57f",
       "cat": "tecnologia",
-      "title": "O que deu certo esta semana: as boas notícias que importam",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Soluções para salvar o planeta, protegendo a infância dos algoritmos e o novo mapa-múndi e muito mais O post O que deu certo esta semana: as boas notícias que importam apareceu primeiro no Positive News.",
       "source": "Positive News",
       "date": "Fri, 11 Sep 2026 05:50:39 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
@@ -14,36 +14,14 @@
       "score": 0.82
     },
     {
-      "id": "bd6bde3e",
-      "cat": "tecnologia",
-      "title": "Portugal é o país da União Europeia onde o emprego mais cresce",
-      "summary": "Portugal é o país da União Europeia (UE) onde a taxa de emprego mais subiu entre o primeiro e o segundo trimestre deste ano, a par de Malta, de acordo com os dados divulgados esta sexta-feira pelo Eurostat. Por cá, esse indicador fixou-se em 80,7%, bem acima da média comunitária de 76,4%. &#8220;No ",
-      "source": "ECO",
-      "date": "Fri, 11 Sep 2026 10:08:55 +0000",
-      "url": "https://eco.sapo.pt/2026/09/11/portugal-e-o-pais-da-uniao-europeia-onde-o-emprego-mais-cresce/",
-      "img": "https://eco.imgix.net/uploads/2021/02/cropped-pexels-sora-shimazaki-5668858-1.jpg",
-      "score": 0.79
-    },
-    {
       "id": "4b61c81e",
       "cat": "ambiente",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Há 65 anos, o World Wildlife Fund foi formado para salvar diversas espécies em todo o planeta. Com 35 milhões de apoiadores e escritórios em quase 100 países, o WWF ajudou a estabelecer áreas protegidas como o Parque Nacional de Galápagos e trabalhou para conservar espécies icônicas, incluindo pandas, tigres,",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Good News Network",
       "date": "Fri, 11 Sep 2026 07:00:00 +0000",
       "url": "https://www.goodnewsnetwork.org/events060911/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2015/03/Giant-panda-800px-Bernard_DE_WETTER-c-WWF.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "1dd24ecc",
-      "cat": "tecnologia",
-      "title": "Medicamento para artrite demonstra crescimento substancial de cabelo em 1.400 pacientes com alopecia",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "Good News Network",
-      "date": "Wed, 09 Sep 2026 15:30:43 +0000",
-      "url": "https://www.goodnewsnetwork.org/arthritis-drug-demonstrates-substantial-hair-regrowth-in-1400-alopecia-patients/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Getty-Images-for-Unsplash.jpg",
       "score": 0.79
     },
     {
@@ -80,20 +58,31 @@
       "score": 0.79
     },
     {
-      "id": "6db4af0d",
+      "id": "d31d61d4",
+      "cat": "ciencia",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "ScienceDaily",
+      "date": "Thu, 10 Sep 2026 06:35:52 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
+      "img": "https://www.sciencedaily.com/images/1920/new-tomb-theban-necropolis.webp",
+      "score": 0.79
+    },
+    {
+      "id": "06e94e2e",
       "cat": "tecnologia",
-      "title": "CaixaBI aumenta \"target\" da Sonae. Está \"bem posicionada para prosperar no atual contexto\"",
-      "summary": "Casa de investimento escreve que \"depois de um desempenho forte em 2025, o primeiro semestre de 2026 começou com mais uma evolução positiva\" e mantém, por isso, uma visão otimista \"sobre as perspetivas de longo prazo da Sonae\".",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 11 Sep 2026 11:48:54 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/caixabi-aumenta-target-da-sonae-esta-bem-posicionada-para-prosperar-no-atual-contexto",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-19-14-14-21-520714.jpg",
-      "score": 0.76
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "ScienceDaily",
+      "date": "Thu, 10 Sep 2026 10:33:06 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909231717.htm",
+      "img": "https://www.sciencedaily.com/images/1920/dna-strands-zip-together.webp",
+      "score": 0.79
     },
     {
       "id": "bd22f51c",
       "cat": "ambiente",
-      "title": "A terceira visita da humanidade a Mercúrio começa com a chegada bem-sucedida da missão BepiColombo",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Reimpresso com permissão da World at Large. No dia 3 de setembro, a Agência Espacial Europeia assinalou a chegada bem-sucedida da sua missão BepiColombo a Mercúrio, apenas a terceira nave espacial a visitar o planeta mais interno do nosso sistema solar. Apesar de estar tão perto da Terra, leva aproximadamente o mesmo tempo",
       "source": "Good News Network",
       "date": "Thu, 10 Sep 2026 18:30:34 +0000",
@@ -105,7 +94,7 @@
       "id": "988e7f9c",
       "cat": "ambiente",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "A temporada de furacões no Atlântico atingiu o seu pico climatológico, mas um forte El Niño significa que não se formaram furacões este ano.",
       "source": "BBC News",
       "date": "Thu, 10 Sep 2026 23:22:33 GMT",
       "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
@@ -113,25 +102,14 @@
       "score": 0.76
     },
     {
-      "id": "864246c2",
+      "id": "3e360587",
       "cat": "ciencia",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "ScienceDaily",
-      "date": "Wed, 09 Sep 2026 09:52:53 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
-      "img": "https://www.sciencedaily.com/images/1920/osteoporosis-stages-bone-strength.webp",
-      "score": 0.76
-    },
-    {
-      "id": "7157ed0b",
-      "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "ScienceDaily",
-      "date": "Wed, 09 Sep 2026 03:41:21 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-      "img": "https://www.sciencedaily.com/images/1920/devils-arrows-standing-stones.webp",
+      "date": "Thu, 10 Sep 2026 21:40:57 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909231729.htm",
+      "img": "https://www.sciencedaily.com/images/1920/earth-and-theia-collision-moon-formation.webp",
       "score": 0.76
     },
     {
@@ -146,69 +124,36 @@
       "score": 0.76
     },
     {
-      "id": "3df718e5",
+      "id": "10c61ce8",
       "cat": "tecnologia",
-      "title": "O iPhone dobrável domina atenções, mas a grande mudança chama-se iOS 27",
-      "summary": "O novo sistema operativo da Apple chega a 14 de Setembro. Entre uma Siri renovada e melhorias de desempenho, a principal novidade do ano poderá não exigir a compra de um novo iPhone.",
-      "source": "Público",
-      "date": "Fri, 11 Sep 2026 10:14:42 GMT",
-      "url": "https://www.publico.pt/2026/09/11/enter/noticia/iphone-dobravel-domina-atencoes-mudanca-chamase-ios-27-2187702",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "66f8cbf0",
-      "cat": "ciencia",
-      "title": "Estudo de Passos que propõe reformas para o país será entregue ao Governo e a Seguro",
-      "summary": "Antigo primeiro-ministro, Sérgio Sousa Pinto e Nuno Botelho coordenam estudo que será apresentado no final do ano e já concluiu que o problema central está na produtividade.",
-      "source": "Público",
-      "date": "Fri, 11 Sep 2026 09:42:51 GMT",
-      "url": "https://www.publico.pt/2026/09/11/politica/noticia/estudo-passos-propoe-reformas-pais-sera-entregue-governo-seguro-2187710",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "22501bd1",
-      "cat": "tecnologia",
-      "title": "Câmara do Porto montou quiosques com casas de banho públicas. Depois desmantelou-os",
-      "summary": "Instalação de oito estruturas tinha sido lançada pelo executivo anterior e tinha custado 475,5 mil euros. Com nova liderança na autarquia, equipamento foi retirado, não havendo solução provisória.",
-      "source": "Público",
-      "date": "Fri, 11 Sep 2026 09:20:00 GMT",
-      "url": "https://www.publico.pt/2026/09/11/local/noticia/camara-porto-montou-quiosques-casas-banho-publicas-desmantelouos-2186999",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "c780d700",
-      "cat": "tecnologia",
-      "title": "Castelo de Bode. Abastecimento de Setúbal tem benefícios",
-      "summary": "O Governo quer ter dentro de quatro meses uma solução para a falta de água na Margem Sul do Tejo, apostando na barragem de Castelo de Bode e no Rio Tejo. Quercus diz que proposta é \"a mais eficiente\".",
+      "title": "Champions marcada por espetáculo",
+      "summary": "A jornada inaugural destacou-se com uma chuva de golos e duelos de alto nível. Ainda, o Estrela da Amadora surpreende com vitória sobre o Braga.",
       "source": "Observador",
-      "date": "Fri, 11 Sep 2026 09:19:24 +0100",
-      "url": "https://observador.pt/2026/09/11/abastecimento-de-agua-em-setubal-a-partir-de-castelo-de-bode-beneficiara-consumidores/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/28174137/44649633.jpg",
+      "date": "Fri, 11 Sep 2026 16:25:38 +0100",
+      "url": "https://observador.pt/programas/e-o-campeao-e/champions-marcada-por-espetaculo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
       "score": 0.73
     },
     {
-      "id": "9ee92336",
-      "cat": "economia",
-      "title": "Passos Coelho volta a avisar Montenegro: \"o tempo está a esgotar-se\"",
-      "summary": "O antigo primeiro-ministro aconselha o atual a ser ousado e a ter uma agenda \"verdadeiramente reformista\".",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 11 Sep 2026 11:14:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/passos-coelho-volta-a-avisar-montenegro-o-tempo-esta-a-esgotar-se",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-16-21-35-54-511350.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "5a01313a",
+      "id": "5d9c9cf8",
       "cat": "tecnologia",
-      "title": "Ruben Alves: A minha arma são as minhas histórias",
-      "summary": "“Santo António - o Casamenteiro de Lisboa”, chegou esta semana às salas de cinema. Neste filme, o realizador franco-português Ruben Alves, que ficou conhecido pelo sucesso de \"A Gaiola Dourada\", aborda a gentrificação da capital portuguesa e a forma como a cidade está a perder a sua identidade. Esta",
+      "title": "Associação portuguesa processa Meta, TikTok e YouTube por redes sociais “viciantes”",
+      "summary": "Entidade de defesa dos direitos digitais avançou com quatro ações populares contra algumas das maiores plataformas digitais, numa altura em que aumenta a pressão sobre as tecnológicas dos dois lados do Atlântico.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 11 Sep 2026 11:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/ruben-alves-a-minha-arma-sao-as-minhas-historias",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-11-07-52-00-529368.jpg",
+      "date": "Fri, 11 Sep 2026 15:56:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/social/detalhe/associacao-portuguesa-processa-meta-tiktok-e-youtube-por-redes-sociais-viciantes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-11-13-34-42-529396.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "f9aeadc1",
+      "cat": "tecnologia",
+      "title": "Santander e donos do Novo Banco pedem regulação europeia mais simples",
+      "summary": "CEO de 11 grandes bancos europeus escrevem carta a Von Der Leyen e António Costa apelando a simplificação da regulação bancária que incentive o investimento. Ideia vai no mesmo sentido genérico das propostas de Maria Luís Albuquerque.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 11 Sep 2026 14:15:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/santander-e-donos-do-novo-banco-pedem-regulacao-europeia-mais-simples",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-23-16-12-36-527094.jpg",
       "score": 0.73
     },
     {
@@ -223,47 +168,25 @@
       "score": 0.73
     },
     {
-      "id": "3c83ae1a",
+      "id": "7c3d7298",
       "cat": "tecnologia",
-      "title": "FC Porto e Sporting jogam fora, Benfica recebe Gil Vicente",
-      "summary": "O FC Porto visita o Casa Pia, último classificado, na sexta jornada da I Liga, e procura manter a liderança isolada, perante a ameaça de Benfica, que recebe o Gil Vicente, e Sporting, que joga em Famalicão.",
-      "source": "RTP",
-      "date": "Fri, 11 Sep 2026 11:39:21 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/fc-porto-e-sporting-jogam-fora-benfica-recebe-gil-vicente_d1764802",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/85/851c0983da76bec5789e05ee67fea76f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "00d52d45",
-      "cat": "tecnologia",
-      "title": "Portugal soma o primeiro ponto no Mundial feminino de sub-20 ao empatar com Colômbia",
-      "summary": "Portugal somou esta quinta-feira o primeiro ponto de sempre em Campeonatos do Mundo femininos de sub-20 de futebol, ao empatar 0-0 com a Colômbia, em Lodz, na Polónia, no segundo jogo do Grupo E.",
-      "source": "RTP",
-      "date": "Thu, 10 Sep 2026 20:03:47 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/portugal-soma-o-primeiro-ponto-no-mundial-feminino-de-sub-20-ao-empatar-com-colombia_d1764690",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cfb95dbef29423d35ea433f38369f057?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "f6fa905c",
-      "cat": "tecnologia",
-      "title": "Taxas Euribor sobem a 6 e 12 meses para novos máximos desde novembro e agosto de 2024",
-      "summary": "A Euribor subiu esta sexta-feira a três, a seis e a 12 meses, nos dois prazos mais longos para novos máximos desde novembro e agosto de 2024, depois de o Banco Central Europeu ter subido as taxas diretoras na quinta-feira. Com as alterações de desta sexta-feira, a taxa a três meses, que avançou para",
+      "title": "Fundo Vivalto Partners põe dona da Lusíadas Saúde e gestora do hospital de Cascais à venda",
+      "summary": "O fundo francês Vivalto Partners pôs à venda o grupo de saúde Vivalto Santé, dona da Lusíadas Saúde e da espanhola Ribera Salud, que gere o Hospital de Cascais através de uma parceria público-privada. O processo de alienação tem como objetivo reduzir o endividamento, avança o El Confidencial. A Viva",
       "source": "ECO",
-      "date": "Fri, 11 Sep 2026 10:38:32 +0000",
-      "url": "https://eco.sapo.pt/2026/09/11/taxas-euribor-sobem-a-6-e-12-meses-para-novos-maximos-desde-novembro-e-agosto-de-2024/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-45445303-scaled-1.jpg",
+      "date": "Fri, 11 Sep 2026 15:40:56 +0000",
+      "url": "https://eco.sapo.pt/2026/09/11/fundo-vivalto-partners-poe-dona-da-lusiadas-saude-e-gestora-do-hospital-de-cascais-a-venda/",
+      "img": "https://eco.imgix.net/uploads/2024/01/cropped-23807653-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "0795f9aa",
+      "id": "67360412",
       "cat": "tecnologia",
-      "title": "AIE revê em baixa previsão para a procura de petróleo em 2026",
-      "summary": "A procura mundial de petróleo irá diminuir em 2,5 milhões de barris por dia em 2026, uma revisão em baixa de 940.000 barris por dia em relação ao mês passado, devido ao impasse nas negociações entre os Estados Unidos e o Irão. A previsão publicada esta sexta-feira pela Agência Internacional de Energ",
-      "source": "ECO",
-      "date": "Fri, 11 Sep 2026 09:50:12 +0000",
-      "url": "https://eco.sapo.pt/2026/09/11/aie-reve-em-baixa-previsao-para-a-procura-de-petroleo-em-2026/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-36713302-scaled-1.jpg",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "Good News Network",
+      "date": "Fri, 11 Sep 2026 15:30:45 +0000",
+      "url": "https://www.goodnewsnetwork.org/hotel-staff-give-girls-lost-plushie-the-vip-treatment-before-sending-her-home-with-a-note-look/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Rosie-the-bear-the-a-letter-written-by-the-hotel-credit-@drea_musa-via-TikTok.jpg",
       "score": 0.73
     },
     {
@@ -275,17 +198,6 @@
       "date": "Fri, 11 Sep 2026 10:29:19 GMT",
       "url": "https://www.bbc.co.uk/news/videos/cm2q8pp8epro?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b421/live/1c9c3620-adc8-11f1-bc1f-3f186ca4140c.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "436bd8df",
-      "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "ScienceDaily",
-      "date": "Wed, 09 Sep 2026 04:47:39 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909005217.htm",
-      "img": "https://www.sciencedaily.com/images/1920/comet-3i-atlas-methanol-gas.webp",
       "score": 0.73
     },
     {
@@ -311,25 +223,113 @@
       "score": 0.73
     },
     {
-      "id": "1eb60cbd",
+      "id": "7927efff",
       "cat": "tecnologia",
-      "title": "Suécia. Eleição renhida com imigração no centro da campanha",
-      "summary": "As eleições para o Parlamento, numa campanha marcada também pelos temas do custo de vida, da educação e da saúde, estão renhidas, com vários cenários de governação em aberto.",
-      "source": "Observador",
-      "date": "Fri, 11 Sep 2026 09:35:07 +0100",
-      "url": "https://observador.pt/2026/09/11/eleicoes-renhidas-na-suecia-com-imigracao-no-centro-da-campanha/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/11084644/47745622.jpg",
+      "title": "França: homem condenado a seis meses de prisão depois de ameaçar decapitar professora do filho",
+      "summary": "Homem de 47 anos, pai de três filhos, foi julgado em regime de urgência e detido logo após o veredicto do Tribunal de Toulouse. Caso aconteceu numa escola em Le Fauga, vila com 2600 habitantes.",
+      "source": "Público",
+      "date": "Fri, 11 Sep 2026 14:53:03 GMT",
+      "url": "https://www.publico.pt/2026/09/11/mundo/noticia/franca-homem-condenado-seis-meses-prisao-ameacar-decapitar-professora-filho-2187761",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "2488e6e1",
+      "id": "d521c11d",
       "cat": "tecnologia",
-      "title": "Trump: quem não votar nas intercalares vai \"para o inferno\"",
-      "summary": "As eleições intercalares dos EUA, que vão decorrer no dia 3 de novembro, vão renovar a Câmara dos Representantes e um terço do Senado. Donald Trump diz que os que não votarem \"vão parar ao inferno\".",
+      "title": "A princesa Astrid da Noruega faleceu aos 94 anos, dois dias após o funeral do irmão",
+      "summary": "A irmã do rei Haroldo era, até hoje, o membro mais velho das famílias reais europeias. O rei da Noruega e os filhos destacam a sua dedicação a quem mais precisava.",
+      "source": "Público",
+      "date": "Fri, 11 Sep 2026 14:48:03 GMT",
+      "url": "https://www.publico.pt/2026/09/11/impar/noticia/princesa-astrid-noruega-faleceu-94-anos-dois-dias-apos-funeral-irmao-2187763",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "4fd5821c",
+      "cat": "tecnologia",
+      "title": "JPP quer ouvir Luís Neves em CPI com foco nos contratos entre PJ e Construbarcelos",
+      "summary": "O requerimento entregue pelo deputado único, Filipe Sousa, define 180 dias para a duração da comissão e propõe a audição de membros do Governo que intervieram na nomeação e reconduções de Neves.",
+      "source": "Público",
+      "date": "Fri, 11 Sep 2026 14:45:46 GMT",
+      "url": "https://www.publico.pt/2026/09/11/politica/noticia/jpp-quer-ouvir-luis-neves-cpi-foco-contratos-pj-construbarcelos-2187757",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "d03ef75d",
+      "cat": "tecnologia",
+      "title": "Metro lança serviço para responder a elevadores parados",
+      "summary": "Número de assistência vai oferecer informações sobre disponibilidade de elevadores e percursos alternativos. Em fevereiro havia 38 elevadores e 40 escadas rolantes parados nas estações do Metro.",
       "source": "Observador",
-      "date": "Fri, 11 Sep 2026 09:33:47 +0100",
-      "url": "https://observador.pt/2026/09/11/trump-apela-ao-voto-nas-intercalares-e-brinca-quem-nao-o-fizer-vai-para-o-inferno/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/11083931/47755120.jpg",
+      "date": "Fri, 11 Sep 2026 16:51:11 +0100",
+      "url": "https://observador.pt/2026/09/11/metro-de-lisboa-lanca-servico-de-assistencia-por-telefone-para-responder-a-avarias-de-elevadores/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:808:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/10215508/770-avarias-metro.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "df874b77",
+      "cat": "sociedade",
+      "title": "Ensino perdeu qualidade mas Governo está a adotar medidas",
+      "summary": "O chefe do Governo salienta o reforço na valorização dos professores, a requalificação das escolas e as alterações nos currículos. Outra medida passa pela restrição de telemóveis nas escolas.",
+      "source": "Observador",
+      "date": "Fri, 11 Sep 2026 16:50:00 +0100",
+      "url": "https://observador.pt/2026/09/11/ensino-perdeu-qualidade-mas-governo-esta-a-adotar-medidas-diz-montenegro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3181:1788:nowe:0:166/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/08155316/jporfirio-mocao-censura-mai-luis-neves-parlamento-08-09-2026-011-21.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "b1aeb1c0",
+      "cat": "tecnologia",
+      "title": "Lisboa segue ganhos europeus com impulso do BCP",
+      "summary": "As principais praças europeias fecharam em alta, beneficiadas pelo recuo dos preços do petróleo, depois de várias sessões de aceleração. Ibersol, Nos e BCP lideraram os ganhos.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 11 Sep 2026 16:59:40 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/lisboa-segue-ganhos-europeus-com-impulso-do-bcp",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-02-15-05-15-508476.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "241f4b63",
+      "cat": "tecnologia",
+      "title": "Mundial2030. Mourinho gostava de final em Lisboa mas diz que deve ser em Madrid",
+      "summary": "O treinador português José Mourinho, que orienta os espanhóis do Real Madrid, afirmou que gostaria que a final do Mundial2030 de futebol fosse em Lisboa, mas explicou que Madrid é o local que deve receber o jogo decisivo.",
+      "source": "RTP",
+      "date": "Fri, 11 Sep 2026 17:31:51 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/mundial2030-mourinho-gostava-de-final-em-lisboa-mas-diz-que-deve-ser-em-madrid_d1764868",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/09/0923b93ccaa96322c6d40b001ad6e9dd?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
+      "score": 0.7
+    },
+    {
+      "id": "3accc205",
+      "cat": "tecnologia",
+      "title": "Filipe Coelho crê em Casa Pia mais forte do que na derrota com Benfica",
+      "summary": "O treinador Filipe Coelho considerou hoje que o Casa Pia está mais forte para receber o FC Porto, na sexta jornada da I Liga portuguesa de futebol, do que estava quando foi goleado pelo Benfica.",
+      "source": "RTP",
+      "date": "Fri, 11 Sep 2026 17:29:11 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/filipe-coelho-cre-em-casa-pia-mais-forte-do-que-na-derrota-com-benfica_d1764865",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/58/5864978ce56bc52c8916d233d098f8f9?w=350&amp;q=50&amp;rect=0,40,822,451&amp;auto=format",
       "score": 0.7
     }
   ]
