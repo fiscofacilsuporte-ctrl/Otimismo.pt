@@ -1,11 +1,11 @@
 {
-  "last_update": "12/09/2026 10:32 UTC",
+  "last_update": "12/09/2026 15:25 UTC",
   "total": 30,
   "news": [
     {
       "id": "e027e57f",
       "cat": "tecnologia",
-      "title": "O que deu certo esta semana: as boas notícias que importam",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Positive News",
       "date": "Fri, 11 Sep 2026 05:50:39 +0000",
@@ -27,8 +27,8 @@
     {
       "id": "e428243a",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Primeira licença para limpar resíduos de minas antigas emitida para o estado de WA sob a 'Lei do Bom Samaritano' de 2024",
+      "summary": "A Agência de Proteção Ambiental dos EUA aprovou a primeira licença sob o seu novo &#8220;Bom Samaritano&#8221; lei para remediar minas abandonadas. A licença foi emitida para a Trout Unlimited, uma organização sem fins lucrativos focada na pesca e nos esportistas que se dedica à conservação ribeirinha em todo o país.",
       "source": "Good News Network",
       "date": "Fri, 11 Sep 2026 18:30:04 +0000",
       "url": "https://www.goodnewsnetwork.org/first-permit-to-clean-up-old-mine-waste-issued-for-wa-state-under-2024-good-samaritan-act/",
@@ -38,7 +38,7 @@
     {
       "id": "4b61c81e",
       "cat": "ambiente",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "Boas novas na história, 11 de Setembro",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Good News Network",
       "date": "Fri, 11 Sep 2026 07:00:00 +0000",
@@ -49,8 +49,8 @@
     {
       "id": "169b0b17",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "O que deu certo esta semana: diagnósticos de doenças ‘em segundos’ e muito mais",
+      "summary": "Uma ferramenta ‘sobre-humana’ para detectar doenças cardíacas, a França desacelera o fast fashion e uma espécie volta do abismo, e mais O post O que deu certo esta semana: diagnóstico de doenças ‘em segundos’, e mais apareceu primeiro no Positive News.",
       "source": "Positive News",
       "date": "Fri, 04 Sep 2026 05:09:49 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-36-of-2026/",
@@ -60,8 +60,8 @@
     {
       "id": "75c05081",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "‘Minha mudança de carreira aconteceu porque eu estava usando um casaco de segunda mão’",
+      "summary": "Richard E Grant encontrou ouro em uma loja de caridade – agora ele está liderando um acampamento para inspirar outros a fazerem o mesmo. A postagem ‘Minha pausa na carreira que mudou minha vida aconteceu porque eu estava usando um casaco de segunda mão’ apareceu pela primeira vez em Notícias Positivas.",
       "source": "Positive News",
       "date": "Thu, 03 Sep 2026 08:02:45 +0000",
       "url": "https://www.positive.news/society/richard-e-grant-fronts-second-hand-september-as-britons-try-to-buy-fewer-clothes/",
@@ -91,21 +91,54 @@
       "score": 0.79
     },
     {
-      "id": "f7b4de18",
+      "id": "886829d5",
       "cat": "tecnologia",
-      "title": "Esta é a chave do Euromilhões. Jackpot é de 111 milhões de euros",
-      "summary": "Com um primeiro prémio no valor de 111 milhões de euros, decorreu esta sexta-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta sexta-feira, dia 11 de setembro. Números: 1,",
+      "title": "Governo ainda espera receber em outubro primeiro pagamento do SAFE",
+      "summary": "Um ano após ter sido confirmado que Portugal poderia receber mais de 5,8 mil milhões de euros em empréstimos para a defesa, ainda não há acordo de financiamento com Bruxelas. Ministério de Nuno Melo mantém confiança de que as primeiras verbas chegam no próximo mês. Portugal começa a pagar investimen",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 12 Sep 2026 14:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/governo-ainda-espera-receber-em-outubro-primeiro-pagamento-do-safe",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-07-10-01-11-524925.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "078e9df7",
+      "cat": "desporto",
+      "title": "Carvalhal confia no coletivo do Famalicão para vencer Sporting",
+      "summary": "Carlos Carvalhal, treinador do Famalicão, defendeu hoje que o funcionamento coletivo pode permitir à equipa conquistar a primeira vitória na I Liga portuguesa de futebol, na receção ao Sporting, da sexta jornada.",
+      "source": "RTP",
+      "date": "Sat, 12 Sep 2026 16:57:32 +0100",
+      "url": "https://www.rtp.pt/noticias/1a-liga/carvalhal-confia-no-coletivo-do-famalicao-para-vencer-sporting_d1765026",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ad/ad5a85b815d0071258da62d82a5a56a3?w=350&amp;q=50&amp;rect=0,28,1233,676&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "bb205be2",
+      "cat": "tecnologia",
+      "title": "Turismo náutico cresce, mas falta de infraestruturas trava expansão",
+      "summary": "O turismo náutico mantém uma trajetória de crescimento em Portugal, mas a falta de infraestruturas ameaça limitar a expansão do setor. No Douro, um dos principais polos de turismo fluvial do país, os operadores apontam para uma época alta positiva, mas identificam as eclusas e os cais como alguns do",
       "source": "ECO",
-      "date": "Fri, 11 Sep 2026 19:25:38 +0000",
-      "url": "https://eco.sapo.pt/2026/09/11/esta-e-a-chave-do-euromilhoes-jackpot-e-de-111-milhoes-de-euros-2/",
-      "img": "https://eco.imgix.net/uploads/2020/05/cropped-pndr1637-2.jpg",
+      "date": "Sat, 12 Sep 2026 14:05:45 +0000",
+      "url": "https://eco.sapo.pt/2026/09/12/turismo-nautico-cresce-mas-falta-de-infraestruturas-trava-expansao/",
+      "img": "https://eco.imgix.net/uploads/2019/08/cropped-foto-noticia-1.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "b65304ce",
+      "cat": "tecnologia",
+      "title": "Carneiro acusa Chega de fazer jogo político com IVA dos combustíveis",
+      "summary": "O secretário-geral do PS acusou hoje o Chega de “procurar enganar os portugueses” no debate sobre a redução do IVA nos combustíveis, referindo que o partido contribuiu para o chumbo de propostas dos socialistas nesse setor. “Quem apresentou primeiro essas propostas [de redução do IVA sobre os combus",
+      "source": "ECO",
+      "date": "Sat, 12 Sep 2026 10:43:50 +0000",
+      "url": "https://eco.sapo.pt/2026/09/12/carneiro-acusa-chega-de-fazer-jogo-politico-com-iva-dos-combustiveis/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-47725195-scaled-1.jpg",
       "score": 0.76
     },
     {
       "id": "bd22f51c",
       "cat": "ambiente",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "A terceira visita da humanidade a Mercúrio começa com a chegada bem-sucedida da missão BepiColombo",
+      "summary": "Reimpresso com permissão da World at Large. No dia 3 de setembro, a Agência Espacial Europeia assinalou a chegada bem-sucedida da sua missão BepiColombo a Mercúrio, apenas a terceira nave espacial a visitar o planeta mais interno do nosso sistema solar. Apesar de estar tão perto da Terra, leva aproximadamente o mesmo tempo",
       "source": "Good News Network",
       "date": "Thu, 10 Sep 2026 18:30:34 +0000",
       "url": "https://www.goodnewsnetwork.org/humanitys-3rd-visit-to-mercury-kicks-off-with-the-successful-arrival-of-bepicolombo-mission/",
@@ -124,6 +157,17 @@
       "score": 0.76
     },
     {
+      "id": "d13a7aa0",
+      "cat": "ciencia",
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "source": "ScienceDaily",
+      "date": "Sat, 12 Sep 2026 09:35:56 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
+      "img": "https://www.sciencedaily.com/images/1920/wordle.webp",
+      "score": 0.76
+    },
+    {
       "id": "344fe596",
       "cat": "tecnologia",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -135,21 +179,10 @@
       "score": 0.76
     },
     {
-      "id": "3e360587",
-      "cat": "ciencia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "source": "ScienceDaily",
-      "date": "Thu, 10 Sep 2026 21:40:57 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909231729.htm",
-      "img": "https://www.sciencedaily.com/images/1920/earth-and-theia-collision-moon-formation.webp",
-      "score": 0.76
-    },
-    {
       "id": "8fa1b449",
       "cat": "tecnologia",
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Na propriedade de 10 acres de Doug Tallamy na zona rural da Pensilvânia, as evidências chegam rapidamente. Os tordos agora nidificam em arbustos que antes eram cortados para feno. As mariposas Luna – gigantes verde-esmeralda que se tornaram cada vez mais raras – atingiram números recordes. Tallamy conta com entusiasmo que possui documentos",
       "source": "Reasons to be Cheerful",
       "date": "Thu, 10 Sep 2026 08:00:08 +0000",
       "url": "https://reasonstobecheerful.world/the-national-park-that-stretches-from-coast-to-coast/",
@@ -157,25 +190,47 @@
       "score": 0.76
     },
     {
-      "id": "b3685fb7",
-      "cat": "tecnologia",
-      "title": "Filme com atriz brasileira sobre ditadura na Argentina disputa Leão de Ouro em Veneza",
-      "summary": "Paula Cohen vive uma juíza em Retorno a Buenos Aires , coprodução Itália-Brasil, que fala sobre a ditadura miltar na Argentina. Atriz também está na série Habeas Corpus da Netflix.",
+      "id": "50c62641",
+      "cat": "ciencia",
+      "title": "Cartéis mexicanos usam mineração de criptomoedas para lavagem de dinheiro",
+      "summary": "Uma “mina” clandestina de criptomoedas foi descoberta em Puebla, numa zona abastecida pela barragem de Nuevo Necaxa. As autoridades investigam furto de electricidade e lavagem de dinheiro.",
       "source": "Público",
-      "date": "Sat, 12 Sep 2026 08:30:03 GMT",
-      "url": "https://www.publico.pt/2026/09/12/publico-brasil/noticia/filme-internacional-atriz-brasileira-disputa-leao-ouro-festival-veneza-2187781",
+      "date": "Sat, 12 Sep 2026 14:45:54 GMT",
+      "url": "https://www.publico.pt/2026/09/12/mundo/noticia/carteis-mexicanos-usam-mineracao-criptomoedas-lavagem-dinheiro-2187859",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "0db82c68",
+      "id": "aa5f1565",
       "cat": "tecnologia",
-      "title": "Lojas da Baixa são tema de exposição grátis em Lisboa",
-      "summary": "Moradora da Baixa há dez anos, a artista plástica Isa Toledo percorreu lojas à procura de \"objetos banais\" que expõe numa montra até outubro, com o desejo de chamar a atenção para o comércio local.",
+      "title": "Jorge Pinto pede ao Livre mais rua: “É momento de passar à ofensiva”",
+      "summary": "O co-porta-voz defende que o crescimento do Livre passa por sair da lógica das redes sociais, ouvir a população e transformar a presença local numa forma de influência política.",
+      "source": "Público",
+      "date": "Sat, 12 Sep 2026 13:40:07 GMT",
+      "url": "https://www.publico.pt/2026/09/12/politica/noticia/jorge-pinto-pede-livre-rua-momento-passar-ofensiva-2187851",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "faf75eb1",
+      "cat": "tecnologia",
+      "title": "Dragão testa invencibilidade, arbitragem volta a ser tema",
+      "summary": "Sem Froholdt, o Porto procura manter o pleno em Rio Maior antes de receber o Benfica. Fora de campo, a PJ investiga pressões na arbitragem, enquanto o Estrela tenta a contratação de Renato Sanches.",
       "source": "Observador",
-      "date": "Sat, 12 Sep 2026 09:59:24 +0100",
-      "url": "https://observador.pt/2026/09/12/artigos-de-lojas-da-baixa-como-obras-de-arte-emolduradas-isa-toledo-convida-ao-olhar-com-ternura-para-o-comercio-lisboeta/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:174/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/07192752/dventura-isa-toledo-9-scaled.jpg",
+      "date": "Sat, 12 Sep 2026 13:09:00 +0100",
+      "url": "https://observador.pt/programas/e-o-campeao-e/dragao-testa-invencibilidade-arbitragem-volta-a-ser-tema/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "a4534daa",
+      "cat": "tecnologia",
+      "title": "Acordo UE-Mercosul resiste a Bolsonaro, diz FIBE",
+      "summary": "Vitalino Canas defende que os \"aspetos estruturais\" do tratado superam os conjunturais. Portugal pode ser plataforma do Brasil no acordo, acrescenta.",
+      "source": "Observador",
+      "date": "Sat, 12 Sep 2026 12:40:04 +0100",
+      "url": "https://observador.pt/2026/09/12/vitalino-canas-diz-que-eventual-vitoria-de-flavio-bolsonaro-nao-poe-em-causa-acordo-ue-mercosul/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/29035231/47658026.jpg",
       "score": 0.73
     },
     {
@@ -201,17 +256,6 @@
       "score": 0.73
     },
     {
-      "id": "7792ac0f",
-      "cat": "tecnologia",
-      "title": "Apoio de 12 milhões para o Douro vai depender da uva que ficar por apanhar",
-      "summary": "O apoio extraordinário de 12 milhões de euros será pago diretamente pelo Instituto dos Vinhos do Douro e Porto (IVDP) aos viticultores durienses, em função da quantidade de uvas que fique por colher nesta vindima.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 12 Sep 2026 09:59:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/agricultura-e-pescas/detalhe/apoio-de-12me-para-o-douro-sera-pago-em-funcao-da-quantidade-de-uva-por-colher",
-      "img": "https://cdn.jornaldenegocios.pt/images/2013-10/img_100x100uu2013-10-20-20-04-00-208598.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -223,31 +267,31 @@
       "score": 0.73
     },
     {
-      "id": "b559db4b",
-      "cat": "cultura",
-      "title": "Douro recebe apoio de 12 milhões de euros por uvas não vendidas",
-      "summary": "O apoio extraordinário de 12 milhões de euros será pago diretamente pelo Instituto dos Vinhos do Douro e Porto (IVDP) aos viticultores durienses, em função da quantidade de uvas que fique por colher nesta vindima. Em comunicado, o Ministério da Agricultura e Mar explica algumas das normas para a atr",
-      "source": "ECO",
-      "date": "Sat, 12 Sep 2026 08:59:02 +0000",
-      "url": "https://eco.sapo.pt/2026/09/12/douro-recebe-apoio-de-12-milhoes-de-euros-por-uvas-nao-vendidas/",
-      "img": "https://eco.imgix.net/uploads/2025/07/cropped-doc-20210825-34196914-psc_17_250821.jpg",
+      "id": "2fdd6bda",
+      "cat": "desporto",
+      "title": "Marc Márquez vence corrida sprint do GP de San Marino de MotoGP",
+      "summary": "O espanhol Marc Márquez (Ducati) venceu sábado a corrida sprint do Grande Prémio de San Marino de MotoGP, 14.ª ronda do Campeonato do Mundo de velocidade, e aproximou-se da liderança.",
+      "source": "RTP",
+      "date": "Sat, 12 Sep 2026 17:12:21 +0100",
+      "url": "https://www.rtp.pt/noticias/motos/marc-marquez-vence-corrida-sprint-do-gp-de-san-marino-de-motogp_d1765028",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b4d6ffb5dea51f85d1cb4a354cec1b5a?w=350&amp;q=50&amp;rect=0,64,1234,677&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "a93fccfa",
-      "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "id": "039a9d9f",
+      "cat": "ciencia",
+      "title": "Ondas de calor recordes na França devem tornar o champanhe mais forte",
+      "summary": "Os enólogos podem produzir espumante com até 15% ABV após uma colheita incomum que produziu uvas mais doces.",
       "source": "BBC News",
-      "date": "Sat, 12 Sep 2026 06:09:37 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead9/live/f1274f90-abbd-11f1-be3c-77d601a01c16.jpg",
+      "date": "Sat, 12 Sep 2026 13:00:32 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6fd/live/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg",
       "score": 0.73
     },
     {
       "id": "c97b85a5",
       "cat": "tecnologia",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "O que estamos lendo: e se você pudesse cancelar os algoritmos?",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Reasons to be Cheerful",
       "date": "Wed, 09 Sep 2026 08:00:32 +0000",
@@ -258,7 +302,7 @@
     {
       "id": "26100656",
       "cat": "sociedade",
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title": "The Spark: sua lavanderia pode ser uma biblioteca",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Reasons to be Cheerful",
       "date": "Fri, 04 Sep 2026 08:00:47 +0000",
@@ -267,69 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "fd737b4f",
+      "id": "5d2fa9d2",
       "cat": "tecnologia",
-      "title": "Palácio Estoril: uma história de reis, rainhas e espiões com quase um século",
-      "summary": "Os corredores do hotel de cinco estrelas estão repletos de segredos dos hóspedes célebres que por aqui passaram. O guardião deles é José Diogo, o 007, que aqui trabalha há 62 anos.",
+      "title": "A casa-atelier de Lourdes Castro está à venda: o que sabe e o que não se sabe",
+      "summary": "A entrada no mercado da quinta que pertenceu à artista, na Madeira, reacendeu o debate sobre a possível aquisição pelo Governo Regional e classificação. As dúvidas, no entanto, são ainda muitas.",
       "source": "Público",
-      "date": "Sat, 12 Sep 2026 09:32:03 GMT",
-      "url": "https://www.publico.pt/2026/09/12/fugas/reportagem/palacio-estoril-historia-reis-rainhas-espioes-quase-seculo-2187054",
+      "date": "Sat, 12 Sep 2026 15:10:00 GMT",
+      "url": "https://www.publico.pt/2026/09/12/culturaipsilon/noticia/casaatelier-lourdes-castro-venda-sabe-nao-sabe-2187636",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "94152211",
+      "id": "98fbb1b8",
       "cat": "tecnologia",
-      "title": "Valorizar as boas memórias e tentar suavizar as outras",
-      "summary": "Mãe e filho recordam o que de melhor viveram antes de uma grande mudança nas suas vidas. Vão agora fazer por criar novas memórias felizes.",
-      "source": "Público",
-      "date": "Sat, 12 Sep 2026 09:10:10 GMT",
-      "url": "https://www.publico.pt/2026/09/12/impar/noticia/valorizar-boas-memorias-tentar-suavizar-2187727",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "b75aaeab",
-      "cat": "tecnologia",
-      "title": "A falta de professores provoca ainda mais desigualdades?",
-      "summary": "Com milhares de alunos a iniciar o ano sem aulas a várias disciplinas, cresce a corrida ao privado, o que aprofunda a desigualdade na educação. Ainda, a queda no PISA reflete anos de falhas políticas.",
-      "source": "Observador",
-      "date": "Sat, 12 Sep 2026 11:19:07 +0100",
-      "url": "https://observador.pt/programas/e-o-vencedor-e/a-falta-de-professores-provoca-ainda-mais-desigualdades/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "b633c2d5",
-      "cat": "tecnologia",
-      "title": "As notícias das 11h",
+      "title": "As notícias das 14h",
       "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sat, 12 Sep 2026 11:15:03 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1318/",
+      "date": "Sat, 12 Sep 2026 14:14:25 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2471/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
