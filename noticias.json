@@ -1,7 +1,18 @@
 {
-  "last_update": "13/09/2026 16:03 UTC",
+  "last_update": "13/09/2026 20:39 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "601a0f33",
+      "cat": "tecnologia",
+      "title": "Judoca Jorge Fonseca conquista medalha de prata na Hungria",
+      "summary": "Jorge Fonseca conquistou a medalha de prata nos -100 kg no Grand Slam da Hungria, depois da vitória sobre o italiano Gennaro Pirelli.",
+      "source": "Observador",
+      "date": "Sun, 13 Sep 2026 17:36:25 +0100",
+      "url": "https://observador.pt/2026/09/13/judoca-jorge-fonseca-conquista-medalha-de-prata-no-grand-slam-da-hungria/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/08175026/43319196.jpg",
+      "score": 0.82
+    },
     {
       "id": "e027e57f",
       "cat": "tecnologia",
@@ -12,6 +23,17 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-1347084357.jpeg",
       "score": 0.82
+    },
+    {
+      "id": "2ca076d8",
+      "cat": "tecnologia",
+      "title": "Judoca Jorge Fonseca conquista medalha de prata no Grand Slam da Hungria",
+      "summary": "O judoca português Jorge Fonseca conquistou domingo a medalha de prata nos -100 kg no Grand Slam da Hungria, voltando mais de dois anos depois a subir ao pódio de um torneio desta categoria.",
+      "source": "RTP",
+      "date": "Sun, 13 Sep 2026 18:32:37 +0100",
+      "url": "https://www.rtp.pt/noticias/judo/judoca-jorge-fonseca-conquista-medalha-de-prata-no-grand-slam-da-hungria_d1765163",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d5/d52ecf6295256983a4797eff66dbf9c1?w=350&amp;q=50&amp;rect=0,32,1178,646&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "63ffced0",
@@ -80,47 +102,36 @@
       "score": 0.79
     },
     {
-      "id": "2175ea33",
-      "cat": "geral",
-      "title": "“Não queremos opiniões”: Rewilding exige “regras claras” para proteger o lobo",
-      "summary": "Organização acusa autoridades de travar a conservação do lobo em Portugal. “Parece que está toda a gente apenas à espera que corra bem, sem fazer nada”, afirma Pedro Prata.",
+      "id": "5c21d35c",
+      "cat": "tecnologia",
+      "title": "Projecções apontam para vitória da esquerda na Suécia",
+      "summary": "Os partidos de esquerda conseguiram mais de 50% dos votos, de acordo com as primeiras projecções, o que abre caminho para uma mudança de Governo na Suécia. Extrema-direita perde terreno.",
       "source": "Público",
-      "date": "Sun, 13 Sep 2026 09:33:00 GMT",
-      "url": "https://www.publico.pt/2026/09/13/azul/noticia/nao-queremos-opinioes-rewilding-exige-regras-claras-proteger-lobo-2185056",
+      "date": "Sun, 13 Sep 2026 18:17:48 GMT",
+      "url": "https://www.publico.pt/2026/09/13/mundo/noticia/projeccoes-apontam-vitoria-esquerda-suecia-2187908",
       "img": null,
       "score": 0.76
     },
     {
-      "id": "8d5af40f",
+      "id": "14cf9995",
       "cat": "tecnologia",
-      "title": "Benfica - Gil Vicente",
-      "summary": "O Benfica, em casa com o Gil Vicente, procura uma vitória na sexta jornada da I Liga de futebol, que lhe permita manter a distância para o líder FC Porto.",
-      "source": "RTP",
-      "date": "Sun, 13 Sep 2026 16:53:02 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/benfica-gil-vicente_e1765152",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/06/06b7a12a6f9d5d58dd1d31bab869dcaa?w=350&amp;q=50&amp;rect=0,21,1461,801&amp;auto=format",
+      "title": "Pavlidis desvia de cabeça por cima (0-1, 20')",
+      "summary": "Após quatro vitórias seguidas na Liga, Benfica procura manter senda de triunfos na receção ao Gil Vicente, antes de deslocações de risco a San Siro e ao Dragão. Bah continua de fora. Siga em direto.",
+      "source": "Observador",
+      "date": "Sun, 13 Sep 2026 17:00:09 +0100",
+      "url": "https://observador.pt/liveblogs/benfica-gil-vicente-aguias-procuram-quinto-triunfo-seguido-na-liga-antes-do-classico/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4024:2259:nowe:0:424/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/31224918/gettyimages-2292395774.jpg",
       "score": 0.76
     },
     {
-      "id": "87d2fb75",
+      "id": "c82cab6e",
       "cat": "tecnologia",
-      "title": "Famalicão - Sporting CP. Leões procuram 5ª vitória seguida no campeonato",
-      "summary": "O Sporting defronta domingo à noite o Famalicão. Os leões procuram o quinto triunfo consecutivo no campeonato nacional.",
+      "title": "Gilberto Filipe tornou-se tricampeão do mundo de Equitação de Trabalho",
+      "summary": "Gilberto Filipe, montando o cavalo Morante SS, conquistou o terceiro título mundial de Equitação de Trabalho e tornou-se no primeiro cavaleiro da história da modalidade a alcançar este feito.",
       "source": "RTP",
-      "date": "Sat, 12 Sep 2026 22:17:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/famalicao-sporting-cp-leoes-procuram-5a-vitoria-seguida-no-campeonato_v1765072",
-      "img": "https://cdn-images.rtp.pt/icm/images/ff/ff86ef4019c11fbe59728b9e34fdc27f_N.jpg?",
-      "score": 0.76
-    },
-    {
-      "id": "8385e679",
-      "cat": "tecnologia",
-      "title": "Países europeus avaliam tirar o ouro dos Estados Unidos mas Portugal já não precisa",
-      "summary": "Muitos países têm reservas relevantes de ouro, sob a alçada dos seus bancos centrais, mas isso não quer dizer que as tenham dentro de portas. Daí que, de tempos a tempos, surja a discussão sobre onde guardar e como maximizar o valor &#8211; de refúgio e de investimento &#8211; deste ativo. Nas últim",
-      "source": "ECO",
-      "date": "Sun, 13 Sep 2026 11:59:32 +0000",
-      "url": "https://eco.sapo.pt/2026/09/13/paises-europeus-avaliam-tirar-o-ouro-dos-estados-unidos-mas-portugal-ja-nao-precisa/",
-      "img": "https://eco.imgix.net/uploads/2020/05/cropped-ouro-bdp-1-2.jpg",
+      "date": "Sun, 13 Sep 2026 18:02:19 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/gilberto-filipe-tornou-se-tricampeao-do-mundo-de-equitacao-de-trabalho_d1765160",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0d/0d887a1746dec277ebbeb5eb8a31138d?w=350&amp;q=50&amp;rect=0,97,1234,677&amp;auto=format",
       "score": 0.76
     },
     {
@@ -168,69 +179,36 @@
       "score": 0.76
     },
     {
-      "id": "4c8f3ed8",
-      "cat": "cultura",
-      "title": "A Hora do Chico! venceu o Prémio MOTELX para Melhor Curta de Terror Portuguesa",
-      "summary": "Na sua 20.ª edição, o festival lisboeta atribuiu prémio de melhor curta-metragem portuguesa a João Severo e Rafael Sá Carneiro.",
+      "id": "d27c63dc",
+      "cat": "tecnologia",
+      "title": "Kimi Antonelli vence em Madrid e reforça liderança do Mundial de F1",
+      "summary": "Lando Norris, o campeão do mundo vigente, fechou o pódio, logo atrás de Max Verstappen.",
       "source": "Público",
-      "date": "Sun, 13 Sep 2026 10:51:06 GMT",
-      "url": "https://www.publico.pt/2026/09/13/culturaipsilon/noticia/hora-chico-venceu-premio-motelx-melhor-curta-terror-portuguesa-2187888",
+      "date": "Sun, 13 Sep 2026 16:20:10 GMT",
+      "url": "https://www.publico.pt/2026/09/13/desporto/noticia/kimi-antonelli-vence-madrid-reforca-lideranca-mundial-f1-2187907",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "8bca386b",
+      "id": "1be0caf1",
       "cat": "tecnologia",
-      "title": "\"A curiosidade mórbida existe para nos ajudar a sobreviver\"",
-      "summary": "O conceito é também o título do livro de Coltan Scrivner. Falámos com o cientista comportamental sobre o porquê de procurarmos histórias assustadoras e de querer saber mais sobre situações violentas.",
+      "title": "Para embaixador, UE desconhece avanços do Mercosul nas áreas sanitárias e ambientais",
+      "summary": "Mário Vilalva, que chefiou as embaixadas do Brasil em Portugal e na Alemanha, afirma que países do Mercosul devem dar visibilidade a seus programas de controle sanitário e de combate ao desmatamento.",
+      "source": "Público",
+      "date": "Sun, 13 Sep 2026 16:09:35 GMT",
+      "url": "https://www.publico.pt/2026/09/13/publico-brasil/entrevista/embaixador-ue-desconhece-avancos-mercosul-areas-sanitarias-ambientais-2187894",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "a61a1998",
+      "cat": "tecnologia",
+      "title": "FC Barcelona bate Levante e soma quinta vitória",
+      "summary": "FC Barcelona venceu em casa do Levante por 4-2. Lamine Yamal bisou.",
       "source": "Observador",
-      "date": "Sun, 13 Sep 2026 15:54:27 +0100",
-      "url": "https://observador.pt/especiais/a-curiosidade-morbida-existe-para-nos-ajudar-a-sobreviver-e-e-quando-estamos-mais-seguros-que-mais-curiosidade-temos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3725:2094:nowe:371:386/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/11143848/gettyimages-2260776742-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "94fd3da6",
-      "cat": "tecnologia",
-      "title": "Uma pistola disparou Kimi para mais um dia histórico",
-      "summary": "Lando Norris segurou liderança, ganhou margem na frente mas caiu de forma abrupta por erro na paragem das boxes, que estendeu a passadeira para novo triunfo de Kimi Antonelli com Hamilton a desistir.",
-      "source": "Observador",
-      "date": "Sun, 13 Sep 2026 15:41:21 +0100",
-      "url": "https://observador.pt/2026/09/13/uma-pistola-disparou-kimi-para-mais-um-dia-historico-antonelli-soma-oitava-vitoria-no-mundial-apos-erro-da-mclaren-com-lando-norris/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:113/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/13153228/kimi-antonelli-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "f750effe",
-      "cat": "tecnologia",
-      "title": "15h. Reforma Laboral. CCP diz que é possível um acordo",
-      "summary": "Mas diz que para isso é preciso que o documento contenha “medidas que verdadeiramente interessam”. Ainda, nova troca de acusações entre PS e CHEGA sobre o IVA nos combustíveis no cabaz alimentar.",
-      "source": "Observador",
-      "date": "Sun, 13 Sep 2026 15:15:41 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2454/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.73
-    },
-    {
-      "id": "00075073",
-      "cat": "tecnologia",
-      "title": "Finlândia, o \"Texas da Europa\" dos centros de dados",
-      "summary": "As temperaturas frias e a abundância de espaço e energia limpa atraem gigantes do setor tecnológico, que optam pelo país do Norte da Europa para instalar colossais centros de dados. A Google vai investir 13 mil milhões.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 13 Sep 2026 15:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/finlandia-o-texas-da-europa-dos-centros-de-dados",
-      "img": "https://cdn.jornaldenegocios.pt/images/2017-01/img_100x100uu2017-01-04-23-46-00-300682.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "89a9908c",
-      "cat": "cultura",
-      "title": "Reforma laboral? “Todos querem”. Acordo “é perfeitamente possível”",
-      "summary": "Gustavo Paulo Duarte confia ser viável alcançar um acordo para a revisão da lei laboral, apontando que a proposta rejeitada não é única. “Batemos em paredes de cimento quando discutimos coisas sensíveis, politizadas e ideológicas. Há outros temas”, diz o líder da CCP.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 13 Sep 2026 11:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/emprego/lei-laboral/detalhe/reforma-laboral-todos-querem-acordo-e-perfeitamente-possivel",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-11-19-25-45-529429.jpg",
+      "date": "Sun, 13 Sep 2026 17:57:03 +0100",
+      "url": "https://observador.pt/2026/09/13/fc-barcelona-bate-levante-e-soma-quinta-vitoria-na-liga-espanhola/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/13174841/47767713.jpg",
       "score": 0.73
     },
     {
@@ -245,14 +223,25 @@
       "score": 0.73
     },
     {
-      "id": "2120d5c5",
+      "id": "ea067fad",
       "cat": "tecnologia",
-      "title": "Kimi Antonelli vence em Madrid e reforça liderança do Mundial de F1",
-      "summary": "O piloto italiano Andrea Kimi Antonelli (Mercedes) venceu domingo o Grande Prémio de Espanha de Fórmula 1, 14.ª ronda da temporada, e alargou a vantagem no comando do Mundial.",
+      "title": "Enric Mas confirma triunfo após 21.ª etapa vencida por Tobias Halland Johannessen",
+      "summary": "O espanhol Enric Mas (Movistar) confirmou o triunfo na 81.ª edição da Volta a Espanha em bicicleta, o seu primeiro numa grande Volta, após a 21.ª e última etapa, vencida pelo norueguês Tobias Halland Johannessen (Uno-X).",
       "source": "RTP",
-      "date": "Sun, 13 Sep 2026 17:44:59 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-vence-em-madrid-e-reforca-lideranca-do-mundial-de-f1_d1765151",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e3e16ce7e8218c86be909cd7748a0e54?w=350&amp;q=50&amp;rect=0,108,1303,714&amp;auto=format",
+      "date": "Sun, 13 Sep 2026 20:48:32 +0100",
+      "url": "https://www.rtp.pt/noticias/ciclismo/enric-mas-confirma-triunfo-apos-21a-etapa-vencida-por-tobias-halland-johannessen_d1765170",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c3fc634f3005ce60054f169bb673bcad?w=350&amp;q=50&amp;rect=0,86,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "c1bd0a7e",
+      "cat": "tecnologia",
+      "title": "Trump critica “forças negativas” que querem abrandar IA",
+      "summary": "O Presidente dos Estados Unidos criticou as &#8220;forças negativas&#8221; que procuram abrandar o desenvolvimento da inteligência artificial (IA), numa altura em que se somam os alertas dos maiores executivos da área. &#8220;Há muitas forças negativas a falar sobre isto e não deviam estar a fazê-lo",
+      "source": "ECO",
+      "date": "Sun, 13 Sep 2026 18:47:11 +0000",
+      "url": "https://eco.sapo.pt/2026/09/13/trump-critica-forcas-negativas-que-querem-abrandar-ia/",
+      "img": "https://eco.imgix.net/uploads/2025/07/cropped-45298741-6.jpg",
       "score": 0.73
     },
     {
@@ -322,14 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "84052799",
+      "id": "c8ced442",
       "cat": "tecnologia",
-      "title": "Não há caça a imigrantes em Portugal, afirma dirigente da polícia para estrangeiros",
-      "summary": "João Ribeiro, responsável pela Unidade Nacional de Estrangeiros e Fronteiras nega “caça” a imigrantes indocumentados em Portugal. Ele diz que a polícia faz “abordagem inteligente” em locais de risco.",
-      "source": "Público",
-      "date": "Sun, 13 Sep 2026 14:00:44 GMT",
-      "url": "https://www.publico.pt/2026/09/13/publico-brasil/noticia/nao-ha-caca-imigrantes-portugal-afirma-dirigente-policia-estrangeiros-2187897",
-      "img": null,
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
