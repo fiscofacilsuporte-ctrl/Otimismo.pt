@@ -1,5 +1,5 @@
 {
-  "last_update": "13/09/2026 11:35 UTC",
+  "last_update": "13/09/2026 16:03 UTC",
   "total": 30,
   "news": [
     {
@@ -69,6 +69,17 @@
       "score": 0.79
     },
     {
+      "id": "77dcea79",
+      "cat": "ciencia",
+      "title": "Physicists discover a hidden “curveball” in quantum light",
+      "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a tightly focused laser interacts most strongly with an atom slightly away from the beam’s center. The unexpected shift is similar to the physics that makes a spinning table tennis ball curve th",
+      "source": "ScienceDaily",
+      "date": "Sun, 13 Sep 2026 07:22:01 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm",
+      "img": "https://www.sciencedaily.com/images/1920/ping-pong-ball-spin.webp",
+      "score": 0.79
+    },
+    {
       "id": "2175ea33",
       "cat": "geral",
       "title": "“Não queremos opiniões”: Rewilding exige “regras claras” para proteger o lobo",
@@ -77,6 +88,17 @@
       "date": "Sun, 13 Sep 2026 09:33:00 GMT",
       "url": "https://www.publico.pt/2026/09/13/azul/noticia/nao-queremos-opinioes-rewilding-exige-regras-claras-proteger-lobo-2185056",
       "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "8d5af40f",
+      "cat": "tecnologia",
+      "title": "Benfica - Gil Vicente",
+      "summary": "O Benfica, em casa com o Gil Vicente, procura uma vitória na sexta jornada da I Liga de futebol, que lhe permita manter a distância para o líder FC Porto.",
+      "source": "RTP",
+      "date": "Sun, 13 Sep 2026 16:53:02 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/benfica-gil-vicente_e1765152",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/06/06b7a12a6f9d5d58dd1d31bab869dcaa?w=350&amp;q=50&amp;rect=0,21,1461,801&amp;auto=format",
       "score": 0.76
     },
     {
@@ -91,47 +113,25 @@
       "score": 0.76
     },
     {
-      "id": "9b5054cb",
+      "id": "8385e679",
       "cat": "tecnologia",
-      "title": "Lando Norris conquista pole para Grande Prémio de Espanha por 11 milésimos",
-      "summary": "O britânico Lando Norris (McLaren) conquistou hoje a ‘pole position’ para o Grande Prémio de Espanha de Fórmula 1, 14.ª etapa do Mundial, a primeira no novo circuito citadino da capital espanhola.",
-      "source": "RTP",
-      "date": "Sat, 12 Sep 2026 18:23:54 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/lando-norris-conquista-pole-para-grande-premio-de-espanha-por-11-milesimos_d1765037",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b96c9e60b6611e3115baba53afa5284f?w=350&amp;q=50&amp;rect=0,144,1237,678&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "206379f0",
-      "cat": "desporto",
-      "title": "FC Porto mantém liderança só com vitórias",
-      "summary": "O campeão FC Porto manteve-se sábado 100% vitorioso na edição 2026/27 da I Liga portuguesa de futebol, que lidera isolado, ao vencer no terreno do Casa Pia, após reviravolta, por 4-1, na sexta jornada.",
-      "source": "RTP",
-      "date": "Sat, 12 Sep 2026 18:06:13 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/fc-porto-mantem-lideranca-so-com-vitorias_e1765036",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/aa/aacfb2048c179685cc91d269bf7e1e0f?w=350&amp;q=50&amp;rect=0,147,1232,675&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "38c767ee",
-      "cat": "economia",
-      "title": "Seguro de saúde empresarial impulsiona procura por apólices individuais",
-      "summary": "Apesar do crescimento constante dos seguros de saúde oferecidos pelas empresas aos colaboradores, dados do mercado mostram que, em 2025, os seguros de saúde individuais cresceram mais do dobro dos seguros de grupo, cerca 6,3% contra 0,9%, segundo a Associação Portuguesa de Seguradores (APS). Atualme",
+      "title": "Países europeus avaliam tirar o ouro dos Estados Unidos mas Portugal já não precisa",
+      "summary": "Muitos países têm reservas relevantes de ouro, sob a alçada dos seus bancos centrais, mas isso não quer dizer que as tenham dentro de portas. Daí que, de tempos a tempos, surja a discussão sobre onde guardar e como maximizar o valor &#8211; de refúgio e de investimento &#8211; deste ativo. Nas últim",
       "source": "ECO",
-      "date": "Sat, 12 Sep 2026 16:19:21 +0000",
-      "url": "https://eco.sapo.pt/2026/09/12/seguro-de-saude-empresarial-impulsiona-procura-por-apolices-individuais/",
-      "img": "https://eco.imgix.net/uploads/2025/10/cropped-45098332-scaled-1.jpg",
+      "date": "Sun, 13 Sep 2026 11:59:32 +0000",
+      "url": "https://eco.sapo.pt/2026/09/13/paises-europeus-avaliam-tirar-o-ouro-dos-estados-unidos-mas-portugal-ja-nao-precisa/",
+      "img": "https://eco.imgix.net/uploads/2020/05/cropped-ouro-bdp-1-2.jpg",
       "score": 0.76
     },
     {
-      "id": "bb205be2",
-      "cat": "tecnologia",
-      "title": "Turismo náutico cresce, mas falta de infraestruturas trava expansão",
-      "summary": "O turismo náutico mantém uma trajetória de crescimento em Portugal, mas a falta de infraestruturas ameaça limitar a expansão do setor. No Douro, um dos principais polos de turismo fluvial do país, os operadores apontam para uma época alta positiva, mas identificam as eclusas e os cais como alguns do",
-      "source": "ECO",
-      "date": "Sat, 12 Sep 2026 14:05:45 +0000",
-      "url": "https://eco.sapo.pt/2026/09/12/turismo-nautico-cresce-mas-falta-de-infraestruturas-trava-expansao/",
-      "img": "https://eco.imgix.net/uploads/2019/08/cropped-foto-noticia-1.jpg",
+      "id": "42c88818",
+      "cat": "ciencia",
+      "title": "Researchers Use Math to Ensure a Wordle Win 99% of the Time",
+      "summary": "Millions of people playing their daily Wordle games will be eager to hear about this new research. Using information theory, the team of researchers from Binghamton University and State University of New York has developed a method to solve the game with a 99% success rate. In the The New York Times",
+      "source": "Good News Network",
+      "date": "Sun, 13 Sep 2026 15:22:28 +0000",
+      "url": "https://www.goodnewsnetwork.org/researchers-use-math-to-ensure-a-wordle-win-99-of-the-time/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Wordle-on-phone-graphics-Credit-Binghamton-University-and-State-University-of-New-York.jpeg",
       "score": 0.76
     },
     {
@@ -157,28 +157,6 @@
       "score": 0.76
     },
     {
-      "id": "d13a7aa0",
-      "cat": "ciencia",
-      "title": "Researchers find a Wordle strategy that wins 99% of the time",
-      "summary": "Researchers at Binghamton University have developed a mathematical strategy that can solve Wordle with a 99% success rate. Instead of simply guessing words packed with common letters or choosing the most likely answer, the method uses Shannon entropy, a measure from information theory, to identify g",
-      "source": "ScienceDaily",
-      "date": "Sat, 12 Sep 2026 09:35:56 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm",
-      "img": "https://www.sciencedaily.com/images/1920/wordle.webp",
-      "score": 0.76
-    },
-    {
-      "id": "344fe596",
-      "cat": "tecnologia",
-      "title": "The secret to longer life may be hidden in bat DNA",
-      "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
-      "source": "ScienceDaily",
-      "date": "Fri, 11 Sep 2026 20:25:05 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
-      "img": "https://www.sciencedaily.com/images/1920/greater-bamboo-bat-tylonycteris-robustula.webp",
-      "score": 0.76
-    },
-    {
       "id": "8fa1b449",
       "cat": "tecnologia",
       "title": "The ‘National Park’ That Stretches From Coast to Coast",
@@ -190,47 +168,58 @@
       "score": 0.76
     },
     {
-      "id": "8734c74f",
+      "id": "4c8f3ed8",
       "cat": "cultura",
-      "title": "Viver na Lua ou em Marte tem um enorme obstáculo: as pessoas",
-      "summary": "Investigação, com participação portuguesa, seguiu uma tripulação isolada na Antárctida durante quase um ano. À medida que o Inverno avançava, a proximidade forçada não uniu a equipa — dividiu-a.",
+      "title": "A Hora do Chico! venceu o Prémio MOTELX para Melhor Curta de Terror Portuguesa",
+      "summary": "Na sua 20.ª edição, o festival lisboeta atribuiu prémio de melhor curta-metragem portuguesa a João Severo e Rafael Sá Carneiro.",
       "source": "Público",
-      "date": "Sun, 13 Sep 2026 06:55:00 GMT",
-      "url": "https://www.publico.pt/2026/09/13/ciencia/noticia/viver-lua-marte-enorme-obstaculo-pessoas-2181629",
+      "date": "Sun, 13 Sep 2026 10:51:06 GMT",
+      "url": "https://www.publico.pt/2026/09/13/culturaipsilon/noticia/hora-chico-venceu-premio-motelx-melhor-curta-terror-portuguesa-2187888",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "662b4c98",
+      "id": "8bca386b",
       "cat": "tecnologia",
-      "title": "Modi alerta para o risco do uso de tecnologia e de minerais",
-      "summary": "\"O uso da tecnologia e dos minerais críticos como armas pode tornar-se um obstáculo ao nosso [BRICS] progresso. Por esta razão, temos sublinhado a importância da inclusão na adoção da tecnologia.\"",
+      "title": "\"A curiosidade mórbida existe para nos ajudar a sobreviver\"",
+      "summary": "O conceito é também o título do livro de Coltan Scrivner. Falámos com o cientista comportamental sobre o porquê de procurarmos histórias assustadoras e de querer saber mais sobre situações violentas.",
       "source": "Observador",
-      "date": "Sun, 13 Sep 2026 09:54:02 +0100",
-      "url": "https://observador.pt/2026/09/13/modi-alerta-para-o-risco-do-uso-de-tecnologia-e-de-minerais-criticos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:115/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/13092044/47766304.jpg",
+      "date": "Sun, 13 Sep 2026 15:54:27 +0100",
+      "url": "https://observador.pt/especiais/a-curiosidade-morbida-existe-para-nos-ajudar-a-sobreviver-e-e-quando-estamos-mais-seguros-que-mais-curiosidade-temos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3725:2094:nowe:371:386/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/11143848/gettyimages-2260776742-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "d825ce43",
+      "id": "94fd3da6",
       "cat": "tecnologia",
-      "title": "“Na província não se sentia tanto a opressão do regime”",
-      "summary": "Henrique Araújo, ex-presidente do Supremo Tribunal de Justiça, recorda o período revolucionário do 25 de Abril, os primeiros tempos como juiz e as reformas que a administração da Justiça necessita.",
+      "title": "Uma pistola disparou Kimi para mais um dia histórico",
+      "summary": "Lando Norris segurou liderança, ganhou margem na frente mas caiu de forma abrupta por erro na paragem das boxes, que estendeu a passadeira para novo triunfo de Kimi Antonelli com Hamilton a desistir.",
       "source": "Observador",
-      "date": "Sun, 13 Sep 2026 09:34:38 +0100",
-      "url": "https://observador.pt/programas/justica-cega/na-provincia-nao-se-sentia-tanto-a-opressao-do-regime/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/01/29144757/770-podcast-justica-cega.jpg",
+      "date": "Sun, 13 Sep 2026 15:41:21 +0100",
+      "url": "https://observador.pt/2026/09/13/uma-pistola-disparou-kimi-para-mais-um-dia-historico-antonelli-soma-oitava-vitoria-no-mundial-apos-erro-da-mclaren-com-lando-norris/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:113/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/13153228/kimi-antonelli-1.jpg",
       "score": 0.73
     },
     {
-      "id": "7910a9b5",
+      "id": "f750effe",
       "cat": "tecnologia",
-      "title": "11 livros infantis para o regresso à escola",
-      "summary": "Do primeiro dia de escola às manhãs atribuladas com cereais pelo ar, da magia dos trabalhos de grupo à gazeta aproveitada para brincar: 11 novos livros infantis para um regresso às aulas e à rotina.",
+      "title": "15h. Reforma Laboral. CCP diz que é possível um acordo",
+      "summary": "Mas diz que para isso é preciso que o documento contenha “medidas que verdadeiramente interessam”. Ainda, nova troca de acusações entre PS e CHEGA sobre o IVA nos combustíveis no cabaz alimentar.",
       "source": "Observador",
-      "date": "Sun, 13 Sep 2026 09:18:57 +0100",
-      "url": "https://observador.pt/2026/09/13/11-livros-infantis-para-o-regresso-a-escola/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/11152433/grelha-11-livros-editavel-rgb-2.jpg",
+      "date": "Sun, 13 Sep 2026 15:15:41 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2454/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "00075073",
+      "cat": "tecnologia",
+      "title": "Finlândia, o \"Texas da Europa\" dos centros de dados",
+      "summary": "As temperaturas frias e a abundância de espaço e energia limpa atraem gigantes do setor tecnológico, que optam pelo país do Norte da Europa para instalar colossais centros de dados. A Google vai investir 13 mil milhões.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 13 Sep 2026 15:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/finlandia-o-texas-da-europa-dos-centros-de-dados",
+      "img": "https://cdn.jornaldenegocios.pt/images/2017-01/img_100x100uu2017-01-04-23-46-00-300682.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +245,36 @@
       "score": 0.73
     },
     {
-      "id": "c4758860",
+      "id": "2120d5c5",
       "cat": "tecnologia",
-      "title": "Portugal foi 18.º produtor e 13.º exportador de calçado a nível global",
-      "summary": "Portugal subiu em 2025 ao 18.º lugar entre os maiores produtores mundiais de calçado e ocupou a 13.ª posição entre os principais exportadores em valor, mantendo o 2.º lugar entre os produtores europeus e consolidando a ultrapassagem a Espanha. De acordo com os dados do World Footwear Yearbook 2026, ",
-      "source": "ECO",
-      "date": "Sun, 13 Sep 2026 09:37:55 +0000",
-      "url": "https://eco.sapo.pt/2026/09/13/portugal-foi-18-o-produtor-e-13-o-exportador-de-calcado-a-nivel-global/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-40360537-scaled-1.jpg",
+      "title": "Kimi Antonelli vence em Madrid e reforça liderança do Mundial de F1",
+      "summary": "O piloto italiano Andrea Kimi Antonelli (Mercedes) venceu domingo o Grande Prémio de Espanha de Fórmula 1, 14.ª ronda da temporada, e alargou a vantagem no comando do Mundial.",
+      "source": "RTP",
+      "date": "Sun, 13 Sep 2026 17:44:59 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-vence-em-madrid-e-reforca-lideranca-do-mundial-de-f1_d1765151",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e3/e3e16ce7e8218c86be909cd7748a0e54?w=350&amp;q=50&amp;rect=0,108,1303,714&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "2d0479a1",
+      "id": "a8edab16",
       "cat": "tecnologia",
-      "title": "Homeless Guy Got Famous Playing Amazing Piano in a Church–Now He’s Raised $50K for Charity",
-      "summary": "A homeless man who was recorded playing piano in a church on a cold January night says his whole life has turned around, in the two years since his performance went viral. Rhys Wynne-Jones had been homeless for a decade in England when he sought refuge at St. Mary&#8217;s Church in Penzance—one of B",
-      "source": "Good News Network",
-      "date": "Sat, 12 Sep 2026 17:38:55 +0000",
-      "url": "https://www.goodnewsnetwork.org/homeless-guy-famous-for-playing-piano-in-church-raising-50k/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Formerly-homeless-Rhys-Wynne-Jones-w-piano-SWNS.jpeg",
+      "title": "OpenAI adia entrada em bolsa",
+      "summary": "Sam Altman afastou uma entrada em bolsa da OpenAI em 2026, por considerar que este seria um momento desaconselhável para a operação, avançou a Bloomberg (acesso pago, em inglês). O presidente executivo justificou a decisão com a necessidade de responder aos riscos de segurança associados à inteligên",
+      "source": "ECO",
+      "date": "Sun, 13 Sep 2026 13:54:57 +0000",
+      "url": "https://eco.sapo.pt/2026/09/13/openai-adia-entrada-em-bolsa/",
+      "img": "https://eco.imgix.net/uploads/2025/07/cropped-doc-20250203-44344036-11872436.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "4853c65c",
+      "cat": "cultura",
+      "title": "Comércio defende ‘outra’ reforma laboral",
+      "summary": "O presidente da CCP, Gustavo Paulo Duarte, defendeu ser possível chegar a um acordo, em sede de concertação social, sobre a reforma laboral, desde que esta tenha &#8220;medidas que verdadeiramente interessam&#8221;. &#8220;Não só acho viável, como perfeitamente possível. Por tudo aquilo que se passo",
+      "source": "ECO",
+      "date": "Sun, 13 Sep 2026 12:07:50 +0000",
+      "url": "https://eco.sapo.pt/2026/09/13/comercio-defende-outra-reforma-laboral/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-47097325-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -286,6 +286,17 @@
       "date": "Sat, 12 Sep 2026 13:00:32 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6fd/live/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "3c3287b0",
+      "cat": "ciencia",
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these problems, but the patterns may reveal overlook",
+      "source": "ScienceDaily",
+      "date": "Sun, 13 Sep 2026 06:46:19 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "img": "https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp",
       "score": 0.73
     },
     {
@@ -311,25 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "a35a1c04",
+      "id": "84052799",
       "cat": "tecnologia",
-      "title": "O Renault Symbioz Esprit Alpine é ágil na cidade, mas apetece-lhe estrada",
-      "summary": "O Renault Symbioz posiciona-se entre o Captur e o Austral, mostrando solidez e conforto, quer em cidade, quer em viagens longas. É talvez um dos modelos mais equilibrados da marca francesa.",
+      "title": "Não há caça a imigrantes em Portugal, afirma dirigente da polícia para estrangeiros",
+      "summary": "João Ribeiro, responsável pela Unidade Nacional de Estrangeiros e Fronteiras nega “caça” a imigrantes indocumentados em Portugal. Ele diz que a polícia faz “abordagem inteligente” em locais de risco.",
       "source": "Público",
-      "date": "Sun, 13 Sep 2026 09:12:00 GMT",
-      "url": "https://www.publico.pt/2026/09/13/fugas/noticia/renault-symbioz-esprit-alpine-agil-cidade-apetecelhe-estrada-2185300",
+      "date": "Sun, 13 Sep 2026 14:00:44 GMT",
+      "url": "https://www.publico.pt/2026/09/13/publico-brasil/noticia/nao-ha-caca-imigrantes-portugal-afirma-dirigente-policia-estrangeiros-2187897",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "a53379ec",
-      "cat": "cultura",
-      "title": "Política animal",
-      "summary": "Às vezes diz-se de um ou outro político que ele parece um animal feroz e em todos os partidos surge gente a quem a expressão assenta que nem uma luva.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 13 Sep 2026 12:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/politica-animal",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-21-15-20-00-296329.png",
       "score": 0.7
     }
   ]
