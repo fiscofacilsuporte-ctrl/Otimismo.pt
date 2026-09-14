@@ -1,18 +1,7 @@
 {
-  "last_update": "13/09/2026 20:39 UTC",
+  "last_update": "14/09/2026 04:34 UTC",
   "total": 30,
   "news": [
-    {
-      "id": "601a0f33",
-      "cat": "tecnologia",
-      "title": "Judoca Jorge Fonseca conquista medalha de prata na Hungria",
-      "summary": "Jorge Fonseca conquistou a medalha de prata nos -100 kg no Grand Slam da Hungria, depois da vitória sobre o italiano Gennaro Pirelli.",
-      "source": "Observador",
-      "date": "Sun, 13 Sep 2026 17:36:25 +0100",
-      "url": "https://observador.pt/2026/09/13/judoca-jorge-fonseca-conquista-medalha-de-prata-no-grand-slam-da-hungria/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/08175026/43319196.jpg",
-      "score": 0.82
-    },
     {
       "id": "e027e57f",
       "cat": "tecnologia",
@@ -102,36 +91,14 @@
       "score": 0.79
     },
     {
-      "id": "5c21d35c",
+      "id": "cce45b33",
       "cat": "tecnologia",
-      "title": "Projecções apontam para vitória da esquerda na Suécia",
-      "summary": "Os partidos de esquerda conseguiram mais de 50% dos votos, de acordo com as primeiras projecções, o que abre caminho para uma mudança de Governo na Suécia. Extrema-direita perde terreno.",
-      "source": "Público",
-      "date": "Sun, 13 Sep 2026 18:17:48 GMT",
-      "url": "https://www.publico.pt/2026/09/13/mundo/noticia/projeccoes-apontam-vitoria-esquerda-suecia-2187908",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "14cf9995",
-      "cat": "tecnologia",
-      "title": "Pavlidis desvia de cabeça por cima (0-1, 20')",
-      "summary": "Após quatro vitórias seguidas na Liga, Benfica procura manter senda de triunfos na receção ao Gil Vicente, antes de deslocações de risco a San Siro e ao Dragão. Bah continua de fora. Siga em direto.",
-      "source": "Observador",
-      "date": "Sun, 13 Sep 2026 17:00:09 +0100",
-      "url": "https://observador.pt/liveblogs/benfica-gil-vicente-aguias-procuram-quinto-triunfo-seguido-na-liga-antes-do-classico/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4024:2259:nowe:0:424/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/31224918/gettyimages-2292395774.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "c82cab6e",
-      "cat": "tecnologia",
-      "title": "Gilberto Filipe tornou-se tricampeão do mundo de Equitação de Trabalho",
-      "summary": "Gilberto Filipe, montando o cavalo Morante SS, conquistou o terceiro título mundial de Equitação de Trabalho e tornou-se no primeiro cavaleiro da história da modalidade a alcançar este feito.",
+      "title": "Paris Saint-Germain vence pela primeira vez, Lille sobe à liderança em França",
+      "summary": "O pentacampeão Paris Saint-Germain conseguiu, em Brest, à quarta jornada, a sua primeira vitória na Liga francesa de futebol, numa ronda que marcou a subida do Lille à liderança, com os mesmos 10 pontos de Mónaco e Rennes.",
       "source": "RTP",
-      "date": "Sun, 13 Sep 2026 18:02:19 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/gilberto-filipe-tornou-se-tricampeao-do-mundo-de-equitacao-de-trabalho_d1765160",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0d/0d887a1746dec277ebbeb5eb8a31138d?w=350&amp;q=50&amp;rect=0,97,1234,677&amp;auto=format",
+      "date": "Sun, 13 Sep 2026 22:52:04 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/paris-saint-germain-vence-pela-primeira-vez-lille-sobe-a-lideranca-em-franca_d1765193",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b3/b338912163e51f7529f4366591f63899?w=350&amp;q=50&amp;rect=0,116,1287,706&amp;auto=format",
       "score": 0.76
     },
     {
@@ -179,36 +146,25 @@
       "score": 0.76
     },
     {
-      "id": "d27c63dc",
+      "id": "b6fc2e93",
       "cat": "tecnologia",
-      "title": "Kimi Antonelli vence em Madrid e reforça liderança do Mundial de F1",
-      "summary": "Lando Norris, o campeão do mundo vigente, fechou o pódio, logo atrás de Max Verstappen.",
-      "source": "Público",
-      "date": "Sun, 13 Sep 2026 16:20:10 GMT",
-      "url": "https://www.publico.pt/2026/09/13/desporto/noticia/kimi-antonelli-vence-madrid-reforca-lideranca-mundial-f1-2187907",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "1be0caf1",
-      "cat": "tecnologia",
-      "title": "Para embaixador, UE desconhece avanços do Mercosul nas áreas sanitárias e ambientais",
-      "summary": "Mário Vilalva, que chefiou as embaixadas do Brasil em Portugal e na Alemanha, afirma que países do Mercosul devem dar visibilidade a seus programas de controle sanitário e de combate ao desmatamento.",
-      "source": "Público",
-      "date": "Sun, 13 Sep 2026 16:09:35 GMT",
-      "url": "https://www.publico.pt/2026/09/13/publico-brasil/entrevista/embaixador-ue-desconhece-avancos-mercosul-areas-sanitarias-ambientais-2187894",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "a61a1998",
-      "cat": "tecnologia",
-      "title": "FC Barcelona bate Levante e soma quinta vitória",
-      "summary": "FC Barcelona venceu em casa do Levante por 4-2. Lamine Yamal bisou.",
+      "title": "4h. Sociais-democratas vencem eleições na Suécia",
+      "summary": "A líder do partido já reiterou que está aberta à colaboração com todos os partidos à exceção dos Democratas Suecos. Ainda, Governos portugueses continuam a ser compostos maioritariamente por homens.",
       "source": "Observador",
-      "date": "Sun, 13 Sep 2026 17:57:03 +0100",
-      "url": "https://observador.pt/2026/09/13/fc-barcelona-bate-levante-e-soma-quinta-vitoria-na-liga-espanhola/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/13174841/47767713.jpg",
+      "date": "Mon, 14 Sep 2026 04:13:37 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2400/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "22b4ae4a",
+      "cat": "tecnologia",
+      "title": "A escola está muito doente",
+      "summary": "Há cinquenta anos fizemos uma revolução extraordinária e abrimos a escola a todos. Falta acabar o trabalho. Porque igualdade não é pôr todas as crianças dentro do mesmo edifício durante doze anos",
+      "source": "Observador",
+      "date": "Mon, 14 Sep 2026 00:22:40 +0100",
+      "url": "https://observador.pt/opiniao/a-escola-esta-muito-doente/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A266%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F27174802%2Fwhatsapp-image-2026-07-27-at-122449.jpeg",
       "score": 0.73
     },
     {
@@ -256,17 +212,6 @@
       "score": 0.73
     },
     {
-      "id": "4853c65c",
-      "cat": "cultura",
-      "title": "Comércio defende ‘outra’ reforma laboral",
-      "summary": "O presidente da CCP, Gustavo Paulo Duarte, defendeu ser possível chegar a um acordo, em sede de concertação social, sobre a reforma laboral, desde que esta tenha &#8220;medidas que verdadeiramente interessam&#8221;. &#8220;Não só acho viável, como perfeitamente possível. Por tudo aquilo que se passo",
-      "source": "ECO",
-      "date": "Sun, 13 Sep 2026 12:07:50 +0000",
-      "url": "https://eco.sapo.pt/2026/09/13/comercio-defende-outra-reforma-laboral/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-47097325-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
       "id": "039a9d9f",
       "cat": "ciencia",
       "title": "Record heatwaves in France set to make champagne stronger",
@@ -311,25 +256,80 @@
       "score": 0.73
     },
     {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "id": "ac991b03",
+      "cat": "geral",
+      "title": "PISA 2025: o perigo das verdades pela metade",
+      "summary": "Estes resultados dizem-nos onde estamos e como evoluímos; não dizem, por si, por que razão chegámos aqui. É nesse salto que começam as explicações rápidas, as soluções miríficas e os mitos. Opinião de Francisco Miranda Rodrigues",
+      "source": "Público",
+      "date": "Sun, 13 Sep 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/09/14/opiniao/opiniao/pisa-2025-perigo-verdades-metade-2187759",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "a4745361",
+      "id": "28f7ae4a",
       "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "title": "Uma abordagem temerária às contas públicas",
+      "summary": "Uma coisa é aceitar o défice como um percalço de projecção ou de execução, outra coisa é aceitá-lo como resultado de manobras temerárias face à corrente dos tempos. Opinião de Ricardo Arroja",
+      "source": "Público",
+      "date": "Sun, 13 Sep 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/09/14/opiniao/opiniao/abordagem-temeraria-contas-publicas-2187916",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "685520aa",
+      "cat": "tecnologia",
+      "title": "O paradoxo de Simpson",
+      "summary": "Os dados do PISA 2025 mostram que, na IA, não importa apenas quanto os alunos a utilizam, mas sobretudo como a utilizam. Opinião de João Marôco",
+      "source": "Público",
+      "date": "Sun, 13 Sep 2026 23:05:00 GMT",
+      "url": "https://www.publico.pt/2026/09/14/opiniao/opiniao/paradoxo-simpson-2187750",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "ada550f1",
+      "cat": "desporto",
+      "title": "3h. Estudo. Governos estão mais velhos e qualificados",
+      "summary": "O politólogo António Costa Pinto explica que no recrutamento de ministros, os partidos continuam a ser determinantes. No futebol, Sporting empatou com o Famalicão, o Benfica venceu o Gil Vicente.",
+      "source": "Observador",
+      "date": "Mon, 14 Sep 2026 03:14:10 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2436/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "1cf0e73c",
+      "cat": "tecnologia",
+      "title": "Estado terá de indemnizar trabalhadores despedidos pela TAP há 33 anos",
+      "summary": "O caso remonta ao despedimento coletivo da Air Atlantis, após a sua liquidação pela TAP, em 1993, o que levou trabalhadores a interporem uma ação contra o Estado por danos causados por violações do direito comunitário num acórdão do Supremo de 2009. Tribunal de Justiça da UE veio dar-lhes razão.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 13 Sep 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/estado-tera-de-indemnizar-trabalhadores-despedidos-pela-tap-ha-33-anos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-08/img_100x100uu2022-08-08-19-29-16-433899.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "8cb5ee77",
+      "cat": "tecnologia",
+      "title": "Ponto de não retorno",
+      "summary": "É inegável que quase todos nos sentimos desconfortáveis quando na última semana um investigador da Anthropic, responsável pelo modelo de LLM Claude, veio a público dizer, com todas as letras, que \"a IA pode matar-nos a todos até ao fim da década\".",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 13 Sep 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/ponto-de-nao-retorno",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
+      "score": 0.7
+    },
+    {
+      "id": "b12e1c71",
+      "cat": "tecnologia",
+      "title": "Gustavo Paulo Duarte: “Pior inimigo do salário médio é o decreto do salário mínimo”",
+      "summary": "O presidente da CCP, Gustavo Paulo Duarte, diz que a subida do salário mínimo nacional está a pressionar e a desmotivar cada vez mais a grande maioria dos trabalhadores, atendendo a que as empresas, ao serem obrigadas por decreto a aumentar quem o aufere, deixam de ter margem para distribuir pelos d",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 13 Sep 2026 22:45:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/gustavo-paulo-duarte-pior-inimigo-do-salario-medio-e-o-decreto-do-salario-minimo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-13-18-10-13-529450.jpg",
       "score": 0.7
     }
   ]
