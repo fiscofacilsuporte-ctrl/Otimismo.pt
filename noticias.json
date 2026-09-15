@@ -1,5 +1,5 @@
 {
-  "last_update": "15/09/2026 16:47 UTC",
+  "last_update": "15/09/2026 21:10 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,28 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-1347084357.jpeg",
       "score": 0.82
+    },
+    {
+      "id": "f75eaab8",
+      "cat": "tecnologia",
+      "title": "Turistas brasileiros deixam receitas recorde de 657 milhões em Portugal no primeiro semestre",
+      "summary": "Portugal recebeu 534.379 hóspedes brasileiros no primeiro semestre, mais 5,2% em termos homólogos, que deixaram receitas recorde de 657,13 milhões de euros, segundo dados oficiais. De acordo com dados oficiais do Turismo de Portugal disponibilizados à Lusa, o número de dormidas de turistas provenien",
+      "source": "ECO",
+      "date": "Tue, 15 Sep 2026 19:20:45 +0000",
+      "url": "https://eco.sapo.pt/2026/09/15/turistas-brasileiros-deixam-receitas-recorde-de-657-milhoes-em-portugal-no-primeiro-semestre/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-47179478-scaled-1.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "33dba0d6",
+      "cat": "economia",
+      "title": "Fidelidade e Ageas reforçam quotas no mercado segurador no primeiro semestre",
+      "summary": "O mercado segurador em Portugal registou um forte crescimento no primeiro semestre de 2026, com o total de prémios das seguradoras a atingir 9.417 mil milhões de euros, contra 7.977 mil milhões no mesmo período de 2025. O aumento foi de 1.440 mil milhões de euros, equivalente a 18,1%. A evolução não",
+      "source": "ECO",
+      "date": "Tue, 15 Sep 2026 17:10:56 +0000",
+      "url": "https://eco.sapo.pt/2026/09/15/ranking-do-1o-semestre-2026-fidelidade-e-ageas-reforcam-quotas-no-mercado-segurador/",
+      "img": "https://eco.imgix.net/uploads/2026/09/ranking-seguros-2000x1125-2.jpg",
+      "score": 0.79
     },
     {
       "id": "e0d7dcc4",
@@ -47,25 +69,14 @@
       "score": 0.79
     },
     {
-      "id": "45fd04ea",
+      "id": "0655c447",
       "cat": "tecnologia",
-      "title": "Migraines and acne among five more conditions pharmacists can treat",
-      "summary": "Pharmacies in England will soon offer treatments for a total of 12 common conditions which save people going to their GP first.",
-      "source": "BBC News",
-      "date": "Thu, 10 Sep 2026 00:01:35 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/ce8e7431nmno?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37da/live/cda17b80-ace0-11f1-b1d1-571ed4d7ff2c.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "75a4b5b0",
-      "cat": "tecnologia",
-      "title": "A \"traição\" começou na luta entre o escolhido e o esforçado",
-      "summary": "A poucos dias do primeiro estágio de Zidane, Mbappé disse ser o \"escolhido\" e comparou-se com Dembélé, que reagiu às palavras do amigo. Imprensa diz que balneário da seleção apoia atual Bola de Ouro.",
-      "source": "Observador",
-      "date": "Tue, 15 Sep 2026 15:13:11 +0100",
-      "url": "https://observador.pt/2026/09/15/a-traicao-comecou-na-luta-entre-o-escolhido-e-o-esforcado-problemas-entre-mbappe-e-dembele-chegam-a-selecao-antes-da-estreia-de-zidane/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:83/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/15145628/gettyimages-2285519645-scaled.jpg",
+      "title": "Bessent apoia cheques por votos de Trump e fala em sucesso na recompra de dívida",
+      "summary": "O secretário norte-americano do Tesouro prestou o depoimento anual na Câmara dos Representantes e diz estar satisfeito com a operação de recompra de Treasuries.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 15 Sep 2026 21:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/bessent-apoia-cheques-por-votos-de-trump-e-fala-em-sucesso-na-recompra-de-divida",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-15-19-13-21-529561.jpg",
       "score": 0.76
     },
     {
@@ -77,6 +88,17 @@
       "date": "Tue, 15 Sep 2026 16:50:32 +0100",
       "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-bate-macedonia-do-norte-e-soma-primeira-vitoria-no-europeu-de-voleibol_d1765596",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/01/01c7f4dd84bd68fecaa2fc18c99b2be9?w=350&amp;q=50&amp;rect=103,929,1985,1088&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "4d57b159",
+      "cat": "tecnologia",
+      "title": "Ministra inaugura lar em Mafra ainda sem autorização da Segurança Social para abrir",
+      "summary": "A ministra da Segurança Social inaugurou esta terça-feira o segundo lar da Santa Casa da Misericórdia de Mafra, um investimento de 4,4 milhões de euros que, apesar de pronto, não pode abrir por falta do acordo com o Estado. &#8220;É um feliz investimento de dinheiros públicos numa obra social&#8221;",
+      "source": "ECO",
+      "date": "Tue, 15 Sep 2026 17:26:21 +0000",
+      "url": "https://eco.sapo.pt/2026/09/15/ministra-inaugura-lar-em-mafra-ainda-sem-autorizacao-da-seguranca-social-para-abrir/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-47780511-scaled-1.jpg",
       "score": 0.76
     },
     {
@@ -124,36 +146,91 @@
       "score": 0.76
     },
     {
-      "id": "4cc3c8df",
+      "id": "82c5cde9",
       "cat": "tecnologia",
-      "title": "Fesap quer salário mínimo da função pública nos 1050 euros em 2027",
-      "summary": "Proposta é superior ao que está previsto no acordo plurianual assinado no início do ano. Fesap defende aumento do subsídio de refeição para dez euros.",
+      "title": "Confiança da população dos EUA nas vacinas contra sarampo desce desde 2020",
+      "summary": "A maioria da população norte-americana continua a acreditar na valia das vacinas contra doenças infantis mortais. No entanto, há uma queda na confiança desde a pandemia.",
       "source": "Público",
-      "date": "Tue, 15 Sep 2026 15:00:45 GMT",
-      "url": "https://www.publico.pt/2026/09/15/economia/noticia/fesap-quer-salario-minimo-funcao-publica-1050-euros-2027-2188126",
+      "date": "Tue, 15 Sep 2026 20:20:00 GMT",
+      "url": "https://www.publico.pt/2026/09/15/ciencia/noticia/confianca-populacao-eua-vacinas-sarampo-desce-desde-2020-2188079",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "2d1ac268",
+      "id": "e50a27e1",
       "cat": "tecnologia",
-      "title": "Supremo Tribunal dos EUA trava restrições ao voto por correspondência. Trump critica decisão",
-      "summary": "A poucas semanas do início do voto antecipado em vários estados norte-americanos, a decisão do tribunal mantém em vigor o processo de voto por correspondência já utilizado. Trump classifica a resolução como uma \"grande derrota para os republicanos e para os EUA\".",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 15 Sep 2026 16:41:21 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/supremo-tribunal-dos-eua-trava-restricoes-ao-voto-por-correspondencia-trump-critica-decisao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2017-02/img_100x100uu2017-02-21-11-34-00-303867.jpg",
+      "title": "Centrais sindicais e CIP põem salário mínimo na agenda da concertação social",
+      "summary": "Embora por razões diferentes, UGT e CIP defendem revisão do acordo de 2024. Parceiros sociais e Governo começam nesta quarta-feira a discutir Orçamento do Estado para 2027.",
+      "source": "Público",
+      "date": "Tue, 15 Sep 2026 20:00:00 GMT",
+      "url": "https://www.publico.pt/2026/09/15/economia/noticia/centrais-sindicais-cip-poem-salario-minimo-agenda-concertacao-social-2188173",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "fd920cf3",
+      "id": "0a308ae4",
       "cat": "tecnologia",
-      "title": "O Negócios pergunta. Avanços na IA devem abrandar devido a preocupações de segurança?",
-      "summary": "O Negócios desafia os seus leitores a responderem a uma pergunta no canal do WhatsApp sobre as preocupações expressadas por responsáveis das empresas de inteligência artificial sobre o ritmo de desenvolvimento do setor.",
+      "title": "Seguro diz que melhorar SNS é um dever de todos e reitera apelo a pacto para a saúde",
+      "summary": "Perante o primeiro-ministro e a ministra da Saúde, o chefe de Estado lembrou “o aniversário dos 47 anos do SNS”, que considerou como “uma das grandes realizações da democracia portuguesa”.",
+      "source": "Público",
+      "date": "Tue, 15 Sep 2026 19:50:28 GMT",
+      "url": "https://www.publico.pt/2026/09/15/politica/noticia/seguro-melhorar-sns-reitera-apelo-pacto-saude-2188185",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "14e1d9ee",
+      "cat": "tecnologia",
+      "title": "Almeirim prevê construir 566 novas habitações até 2036",
+      "summary": "Das 566 casas previstas, 306 resultarão de intervenção direta do município. As restantes 260 deverão ser desenvolvidas em parceria com entidades do setor social e cooperativas em terrenos municipais.",
+      "source": "Observador",
+      "date": "Tue, 15 Sep 2026 19:05:34 +0100",
+      "url": "https://observador.pt/2026/09/15/almeirim-preve-construir-566-novas-habitacoes-ate-2036/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/29193055/ilacerda-visita-obras-metro-189-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "80f9f646",
+      "cat": "tecnologia",
+      "title": "O design do calçado português que se mostra em Milão",
+      "summary": "Na MICAM, maior feira de calçado do mundo, em Milão, algumas empresas aproveitam a boa \"reputação\" nacional para tentar conquistar o mundo para lá do formato private label.",
+      "source": "Observador",
+      "date": "Tue, 15 Sep 2026 18:44:13 +0100",
+      "url": "https://observador.pt/2026/09/15/sapatos-pintados-a-mao-aplicacoes-e-flores-3d-o-design-do-calcado-portugues-que-tenta-conquistar-o-mundo-a-partir-de-milao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:384/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/15171041/1000045983-rotated.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ccfbee7b",
+      "cat": "tecnologia",
+      "title": "Crónica de uma noite de Emmys: para onde vais, Netflix?",
+      "summary": "À vitória de \"Widow's Bay\", Matthew Rhys juntou uma vitória dupla nunca antes vista. Jean Smart ganhou tudo com todas as temporadas de Hacks. Quanto à Netflix: será que o gigante adormeceu?",
+      "source": "Observador",
+      "date": "Tue, 15 Sep 2026 18:26:17 +0100",
+      "url": "https://observador.pt/2026/09/15/emmys-ou-a-cronica-da-noite-de-gloria-de-jean-e-matthew-para-onde-vais-netflix/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/15180222/gettyimages-2294878196-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "bcbe764b",
+      "cat": "tecnologia",
+      "title": "Inteligência artificial: o alarme que toca após o incêndio",
+      "summary": "O desemprego visível, o único alarme em que a nossa política confia, está montado para tocar depois de o incêndio ter consumido a casa.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 15 Sep 2026 16:19:10 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/media/o-negocios/detalhe/o-negocios-pergunta-avancos-na-ia-devem-abrandar-devido-a-preocupacoes-de-seguranca",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-15-16-09-39-529557.png",
+      "date": "Tue, 15 Sep 2026 21:05:01 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/inteligencia-artificial-o-alarme-que-toca-apos-o-incendio",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_394x514uu2026-06-08-17-19-48-524955.png",
+      "score": 0.73
+    },
+    {
+      "id": "392f23e7",
+      "cat": "tecnologia",
+      "title": "Criptomoedas descem após Senado dos EUA chumbar legislação para regulamentar setor",
+      "summary": "Ativos cripto registaram um agravamento das perdas depois de uma proposta de lei que criaria regras federais para o setor não ter sido aprovado no Senado. Legislação precisava de 60 votos para ser aprovada.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 15 Sep 2026 20:37:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/criptomoedas-descem-apos-senado-dos-eua-travar-legislacao-para-regulamentar-setor",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-25-09-19-19-525648.jpg",
       "score": 0.73
     },
     {
@@ -168,31 +245,31 @@
       "score": 0.73
     },
     {
-      "id": "f5db1cca",
+      "id": "b68d66a1",
       "cat": "tecnologia",
-      "title": "Quénia acolhe em 2029 primeiro Mundial de atletismo em África",
-      "summary": "Nairobi, capitão do Quénia, vai receber em 2029 os Mundiais de atletismo, a primeira edição da competição disputada no continente africano, seguindo-se a cidade alemã de Munique, em 2031, anunciou hoje a World Athletics.",
+      "title": "Benfica aponta ao tricampeonato de futsal",
+      "summary": "O treinador Cassiano Klein assumiu, esta terça-feira, esperar &quot;uma época muito desafiadora&quot; para a equipa de futsal do Benfica, ao serviço da qual promete lutar pelo tricampeonato e assim revalidar o título de campeão.",
       "source": "RTP",
-      "date": "Tue, 15 Sep 2026 14:36:41 +0100",
-      "url": "https://www.rtp.pt/noticias/atletismo/quenia-acolhe-em-2029-primeiro-mundial-de-atletismo-em-africa_d1765573",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9e094404712a61b5060bb085cb0f29d1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Tue, 15 Sep 2026 20:05:55 +0100",
+      "url": "https://www.rtp.pt/noticias/benfica/benfica-aponta-ao-tricampeonato-de-futsal_d1765635",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/67/67f89af7576636390b4a37d79db8e0ca?w=350&amp;q=50&amp;rect=0,188,2048,1123&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "9e172f76",
+      "id": "a4821c8d",
       "cat": "tecnologia",
-      "title": "MFA Legal & Tech lança área de IVA e impostos indiretos e integra Rita Simão Luis",
-      "summary": "A MFA Legal &#38; Tech integrou Rita Simão Luis, na qualidade de counsel. Com a sua entrada, a boutique formaliza a criação de uma área dedicada a Impostos Indiretos, com foco em IVA, Direito Aduaneiro e Contribuições Especiais, que será coordenada pelo novo reforço juntamente com Bárbara Miragaia. ",
-      "source": "ECO",
-      "date": "Tue, 15 Sep 2026 15:11:23 +0000",
-      "url": "https://eco.sapo.pt/2026/09/15/mfa-legal-tech-lanca-area-de-iva-e-impostos-indiretos-e-integra-rita-simao-luis/",
-      "img": "https://eco.imgix.net/uploads/2025/11/cropped-mfa-foto-instalacoes-03.jpg",
+      "title": "Sporting prepara época \"dura e muito exigente\" no futsal",
+      "summary": "A equipa de futsal do Sporting mantém as ambições intactas para uma temporada que se antevê &quot;dura e muito exigente&quot;, com mais jogos e competições para conquistar, disse, esta terça-feira, o treinador Nuno Dias.",
+      "source": "RTP",
+      "date": "Tue, 15 Sep 2026 19:41:00 +0100",
+      "url": "https://www.rtp.pt/noticias/sporting/sporting-prepara-epoca-dura-e-muito-exigente-no-futsal_d1765631",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4d475e80eeec91642c484c8a0ad10c43?w=350&amp;q=50&amp;rect=0,344,1171,642&amp;auto=format",
       "score": 0.73
     },
     {
       "id": "cce2f5d3",
       "cat": "tecnologia",
-      "title": "$1,000 Bonus for Every Year at the Company: Casino Employees Shocked at Company’s 50th Anniversary",
+      "title": "$1,000 Bonus for Every Year of Work: Casino Employees Shocked at Company’s 50th Anniversary",
       "summary": "When thousands of employees at Station Casinos arrived at one of the company&#8217;s resorts to celebrate its 50th anniversary, they hadn&#8217;t a clue what was about to happen. They were going to hit the jackpot. In a stunning display of profit sharing, business moguls the Fertitta brothers announ",
       "source": "Good News Network",
       "date": "Tue, 15 Sep 2026 15:30:43 +0000",
@@ -223,6 +300,17 @@
       "score": 0.73
     },
     {
+      "id": "1cf9d032",
+      "cat": "saude",
+      "title": "Letby hospital consultant says inquiry makes for grim reading",
+      "summary": "The Thirlwall Inquiry finds some babies could have been saved if action had been taken earlier.",
+      "source": "BBC News",
+      "date": "Tue, 15 Sep 2026 20:43:08 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a33/live/65d09650-b143-11f1-bc1f-3f186ca4140c.jpg",
+      "score": 0.73
+    },
+    {
       "id": "14466bc1",
       "cat": "tecnologia",
       "title": "Smelling chocolate helped men complete more reps without feeling more tired",
@@ -243,94 +331,6 @@
       "url": "https://reasonstobecheerful.world/what-were-reading-australia-says-algorithms-optional/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_2328052395-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "26100656",
-      "cat": "sociedade",
-      "title": "The Spark: Your Laundromat Could Be a Library",
-      "summary": "Welcome back to The Spark, our monthly celebration of how people just like you are creating positive change, one meaningful step at a time. The Spark is generously supported by Laura Rice. Sign up to Reasons to be Cheerful’s weekly newsletter here and you’ll get The Spark in your inbox... The post T",
-      "source": "Reasons to be Cheerful",
-      "date": "Fri, 04 Sep 2026 08:00:47 +0000",
-      "url": "https://reasonstobecheerful.world/the-spark-laundromat-libraries/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_501174550.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "08901a95",
-      "cat": "tecnologia",
-      "title": "Índia vai questionar Google sobre 500 mil contas Gmail falsas ligadas a ameaças de bomba",
-      "summary": "O Governo do estado de Gujarat recebeu um email com ameaças contra várias instituições e autoridades políticas indianas dias antes da recente cimeira dos BRICS, realizada em Nova Deli.",
-      "source": "Público",
-      "date": "Tue, 15 Sep 2026 15:53:44 GMT",
-      "url": "https://www.publico.pt/2026/09/15/enter/noticia/india-vai-questionar-google-500-mil-contas-gmail-falsas-ligadas-ameacas-bomba-2188100",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "10e4210c",
-      "cat": "tecnologia",
-      "title": "Tribunal rejeita providência cautelar de moradores da Amadora contra “muralha de árvores” de Isaltino",
-      "summary": "Moradores da Amadora de uma urbanização na serra de Carnaxide não queriam “muralha de árvores” plantada pela Câmara de Oeiras em frente às suas casas e foram a tribunal. Decisão é agora conhecida.",
-      "source": "Público",
-      "date": "Tue, 15 Sep 2026 15:52:20 GMT",
-      "url": "https://www.publico.pt/2026/09/15/local/noticia/tribunal-rejeita-providencia-cautelar-moradores-amadora-muralha-arvores-isaltino-2188144",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "0be93eae",
-      "cat": "tecnologia",
-      "title": "Petição contra sistema Volta com mais de 37 mil assinaturas",
-      "summary": "A petição feita por cidadãos e não filiada a nenhum partido já conta com 37 mil assinaturas, sendo necessárias 7.500 para que um requerimento possa ser discutido em plenário.",
-      "source": "Observador",
-      "date": "Tue, 15 Sep 2026 15:28:36 +0100",
-      "url": "https://observador.pt/2026/09/15/peticao-contra-sistema-volta-ja-conta-com-mais-de-37-mil-assinaturas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/08153651/46894702.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "2d0b1b2c",
-      "cat": "tecnologia",
-      "title": "Esta calculadora bateu certo. Agora, falta o número mágico",
-      "summary": "A primeira parte da conjugação cósmica está feita: após quatro derrotas, Portugal não deu hipóteses à Macedónia do Norte e ganhou por claros 3-0. No entanto, ainda depende de uma derrota de Israel...",
-      "source": "Observador",
-      "date": "Tue, 15 Sep 2026 15:26:26 +0100",
-      "url": "https://observador.pt/2026/09/15/esta-calculadora-bateu-certo-agora-falta-o-numero-magico-portugal-vence-macedonia-do-norte-e-fica-a-espera-no-europeu/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2082:1172:nowe:0:38/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/15142937/portugal-voleibol-europeu.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c1a5d554",
-      "cat": "tecnologia",
-      "title": "PS pede ao Governo documentos e lista de personalidades envolvidas na compra de 13,7% da REN",
-      "summary": "O deputado socialista Marcos Perestrello criticou que o Estado pague \"quase o dobro\" pela REN, em relação à venda da sua última participação em 2014, tendo incluído \"nesse preço um bónus injustificado superior a 50 milhões de euros ao acionista\".",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 15 Sep 2026 17:21:59 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/ps-pede-ao-governo-documentos-e-lista-de-personalidades-envolvidas-na-compra-de-13-7-da-ren",
-      "img": "https://cdn.jornaldenegocios.pt/images/2014-06/img_100x100uu2014-06-03-21-56-00-224854.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
     }
   ]
 }
