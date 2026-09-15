@@ -1,5 +1,5 @@
 {
-  "last_update": "14/09/2026 21:44 UTC",
+  "last_update": "15/09/2026 04:35 UTC",
   "total": 30,
   "news": [
     {
@@ -69,6 +69,17 @@
       "score": 0.79
     },
     {
+      "id": "c21f5b24",
+      "cat": "tecnologia",
+      "title": "SC Braga arranca vitória sofrida frente ao Estoril",
+      "summary": "O Estoril esteve perto de surpreender na Pedreira e nunca deixou de procurar oportunidades de chegar à baliza de Bernardo Fontes. Ainda que sem deslumbrar e com algum desperdício à mistura, o SC Braga venceu com golo solitário de Jonas Wind aos 83 minutos, aproveitando a vantagem numérica sobre os &",
+      "source": "RTP",
+      "date": "Mon, 14 Sep 2026 20:24:56 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/sc-braga-arranca-vitoria-sofrida-frente-ao-estoril_e1765388",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/04/04c3212b2ed01aaf5c8c9d2a558f2f31?w=350&amp;q=50&amp;rect=0,106,4990,2736&amp;auto=format",
+      "score": 0.76
+    },
+    {
       "id": "8394c04e",
       "cat": "tecnologia",
       "title": "Benfica fecha acordo de 120 milhões com a Adidas",
@@ -124,28 +135,6 @@
       "score": 0.76
     },
     {
-      "id": "99c7f084",
-      "cat": "tecnologia",
-      "title": "Canadá procura uma “aliança única” com a União Europeia, de costas para os EUA",
-      "summary": "O Parlamento Europeu já anunciou a abertura de um escritório em Otava com o objectivo de “aprofundar o diálogo político e a cooperação com o Canadá”.",
-      "source": "Público",
-      "date": "Mon, 14 Sep 2026 19:31:29 GMT",
-      "url": "https://www.publico.pt/2026/09/14/mundo/noticia/canada-procura-alianca-unica-uniao-europeia-costas-eua-2188041",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "f060bb1d",
-      "cat": "tecnologia",
-      "title": "Benfica renova com a Adidas e garante encaixe de 120 milhões de euros",
-      "summary": "Acordo é válido até 2033 e marca alemã vai ainda dar nome ao centro de estágio do Seixal",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 14 Sep 2026 20:23:56 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/benfica-renova-com-a-adidas-e-garante-encaixe-de-120-milhoes-de-euros",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-10-15-30-25-521859.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -165,17 +154,6 @@
       "date": "Mon, 14 Sep 2026 20:52:35 +0100",
       "url": "https://www.rtp.pt/noticias/sporting/joao-simoes-regressa-aos-relvados-pelo-sporting-b-cinco-meses-apos-operacao_d1765403",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/02/02b86ba728778306b2cbc91b4ba4283b?w=350&amp;q=50&amp;rect=0,9,612,336&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "95085995",
-      "cat": "tecnologia",
-      "title": "SC Braga arranca vitória sofrida frente ao Estoril",
-      "summary": "",
-      "source": "RTP",
-      "date": "Mon, 14 Sep 2026 20:24:56 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/i-liga-sc-braga-estoril_e1765388",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
@@ -217,9 +195,9 @@
       "title": "US scraps limits on emissions from coal and gas power plants",
       "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
       "source": "BBC News",
-      "date": "Mon, 14 Sep 2026 20:52:12 GMT",
+      "date": "Mon, 14 Sep 2026 22:04:14 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b345/live/b92e88f0-b046-11f1-b8b3-61fcc3f5ed40.jpg",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9e/live/16cf4830-b0ad-11f1-9c5d-0dd6cc52f198.jpg",
       "score": 0.73
     },
     {
@@ -267,69 +245,91 @@
       "score": 0.73
     },
     {
-      "id": "798223ff",
-      "cat": "tecnologia",
-      "title": "A escola pública fechou a porta?",
-      "summary": "Não podem ser 1300 nem sequer três as crianças que ficam em casa à espera de uma resposta enquanto as aulas já decorrem. Editorial deHelena Pereira",
+      "id": "f58b4a81",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
       "source": "Público",
-      "date": "Mon, 14 Sep 2026 20:30:33 GMT",
-      "url": "https://www.publico.pt/2026/09/14/opiniao/editorial/escola-publica-fechou-porta-2188018",
+      "date": "Tue, 15 Sep 2026 04:20:00 GMT",
+      "url": "https://www.publico.pt/2026/09/15/opiniao/opiniao/cartas-director-2188014",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "82399e45",
+      "id": "319ae64a",
       "cat": "tecnologia",
-      "title": "Mariana Leitão “muitíssimo satisfeita” com palavras de Passos, pede que Montenegro ouça a IL",
-      "summary": "Líder dos liberais recusa posicionar-se acerca de uma eventual comissão parlamentar da inquérito aos problemas na Educação, preferindo aguardar por esclarecimentos do Governo.",
+      "title": "O calvário reformista de Fernando Alexandre",
+      "summary": "Depois dos exames, esta é mais uma prova de que a reforma da educação está a falhar?",
       "source": "Público",
-      "date": "Mon, 14 Sep 2026 20:18:13 GMT",
-      "url": "https://www.publico.pt/2026/09/14/politica/noticia/mariana-leitao-muitissimo-satisfeita-palavras-passos-pede-montenegro-ouca-il-2188050",
+      "date": "Mon, 14 Sep 2026 23:33:40 GMT",
+      "url": "https://www.publico.pt/2026/09/15/politica/noticia/calvario-reformista-fernando-alexandre-2188053",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "3e3bc8c7",
+      "id": "a8169872",
       "cat": "tecnologia",
-      "title": "Estrela da Amadora empata contra o Rio Ave, segue sem perder",
-      "summary": "Ianis Stoica e Abraham Marcus (bis) marcaram os golos do tricolor amadorense, enquanto Francisco Petrasso, Roland Galcik e Jalen Blesa apontaram os tentos dos vila-condenses.",
-      "source": "Observador",
-      "date": "Mon, 14 Sep 2026 21:44:05 +0100",
-      "url": "https://observador.pt/2026/09/14/estrela-da-amadora-segue-sem-derrotas-na-primeira-liga-apos-primeiro-ponto-caseiro-do-rio-ave-3-3/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/14205115/47774721.jpg",
+      "title": "Uma história de duas políticas",
+      "summary": "As histórias que as políticas públicas em matéria de finanças e em matéria de educação nos contam são, a todos os títulos, rigorosamente antagónicas. Opinião de Pedro Norton",
+      "source": "Público",
+      "date": "Mon, 14 Sep 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/09/15/opiniao/opiniao/historia-duas-politicas-2187970",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "4d25f1ae",
+      "id": "4328752d",
       "cat": "tecnologia",
-      "title": "Filhos de Harry e Meghan mudam de escola devido ao trânsito",
-      "summary": "Apenas dois dias após o arranque das aulas, os filhos dos duques de Sussex vão mudar de escola. A equipa de segurança fez testes nas deslocações, mas durante as férias.",
+      "title": "Inteligência artificial: o fim do mundo visto da China",
+      "summary": "Depois dos alertas sobre os riscos da inteligência artificial, olhamos para a forma como a China pretende resolver o problema e, ao mesmo tempo, ganhar a corrida aos EUA.",
       "source": "Observador",
-      "date": "Mon, 14 Sep 2026 21:43:12 +0100",
-      "url": "https://observador.pt/2026/09/14/transito-e-logistica-leva-harry-e-meghan-a-mudar-filhos-de-escola-dois-dias-apos-inicio-das-aulas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4089:2297:nowe:0:158/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/08/18151307/gettyimages-2167198055-scaled.jpg",
+      "date": "Tue, 15 Sep 2026 05:02:14 +0100",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/inteligencia-artificial-o-fim-do-mundo-visto-da-china/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
       "score": 0.7
     },
     {
-      "id": "b1f75f32",
+      "id": "9671a128",
       "cat": "tecnologia",
-      "title": "\"É preciso força para dizer: 'A doença não nos vai definir'\"",
-      "summary": "Demora nos serviços continua a ser criticada pelos seus adversários mas, no final, todos se rendem ao melhor tenista do momento que, aproveitando o contexto, já olha para a hipótese de ser número 1.",
+      "title": "3h. IL não se posiciona sobre CPI ao ministro da Educação",
+      "summary": "Mariana Leitão explica que não vai tomar uma decisão enquanto não ouvir esclarecimentos que já pediu. Ainda, o Ministério Público está a investigar o diretor nacional da Polícia Judiciária.",
       "source": "Observador",
-      "date": "Mon, 14 Sep 2026 21:33:20 +0100",
-      "url": "https://observador.pt/2026/09/14/e-preciso-forca-para-dizer-a-doenca-nao-nos-vai-definir-zverev-do-diagnostico-de-diabetes-aos-dois-titulos-no-grand-slam-num-ano/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:94/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/14212437/zverev-2.jpg",
+      "date": "Tue, 15 Sep 2026 03:13:22 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2437/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "c18a5205",
+      "id": "7955ca81",
       "cat": "tecnologia",
-      "title": "Portugal tem poucas comunidades de energia e Gulbenkian quer criar mais dez",
-      "summary": "O autoconsumo já representa 2,8% do consumo de eletricidade no continente, mas as comunidades de energia continuam a ser residuais. Financiamento, burocracia e falta de apoio técnico ajudam a explicar o atraso.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 14 Sep 2026 21:55:19 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/portugal-tem-poucas-comunidades-de-energia-e-gulbenkian-quer-criar-mais-dez",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_100x100uu2022-11-07-19-15-54-439889.jpg",
+      "title": "2h. Escolas alargam turmas para acomodar alunos sem vaga",
+      "summary": "Diretores de agrupamentos de escolas de Lisboa, a Agência para a Gestão do Sistema Educativo e o MECI estiveram reunidos para resolver a questão. Ainda, incêndio lavram em Proença-a-Nova.",
+      "source": "Observador",
+      "date": "Tue, 15 Sep 2026 02:13:23 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2411/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
