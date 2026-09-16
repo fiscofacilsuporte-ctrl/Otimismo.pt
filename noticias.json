@@ -1,5 +1,5 @@
 {
-  "last_update": "16/09/2026 11:19 UTC",
+  "last_update": "16/09/2026 16:40 UTC",
   "total": 30,
   "news": [
     {
@@ -36,6 +36,28 @@
       "score": 0.79
     },
     {
+      "id": "e58aaff9",
+      "cat": "ciencia",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "summary": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
+      "source": "BBC News",
+      "date": "Wed, 16 Sep 2026 15:53:27 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2b/live/f44bc7f0-b1da-11f1-a44b-aba96a7d56aa.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "4254f27e",
+      "cat": "ciencia",
+      "title": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
+      "summary": "A new study suggests Earth formed almost entirely from material in the inner Solar System, challenging the idea that water-rich material from beyond Jupiter played a major role. If correct, Earth’s water may have been present much closer to the young Sun than scientists previously thought.",
+      "source": "ScienceDaily",
+      "date": "Wed, 16 Sep 2026 07:03:10 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm",
+      "img": "https://www.sciencedaily.com/images/1920/planetary-disc-formation-of-earth.webp",
+      "score": 0.79
+    },
+    {
       "id": "50c4563b",
       "cat": "tecnologia",
       "title": "Fórmula 1 regressa a Portugal em junho",
@@ -44,6 +66,17 @@
       "date": "Wed, 16 Sep 2026 11:47:38 +0100",
       "url": "https://www.rtp.pt/noticias/motores/formula-1-regressa-a-portugal-em-junho_d1765776",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/11/11a46c6b4db35e87e46152d1ca8e67c9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "2934f624",
+      "cat": "tecnologia",
+      "title": "Scientists Determine Australia’s Vast Red Deserts Could Fuel a Hydrogen-Powered Energy Revolution",
+      "summary": "Scientists have revealed that Australia may hold the key to generating ample green energy while creating a major export industry, and that it&#8217;s buried underneath their feet. The breakthrough centers on magnetite, a mineral found in Western Australia’s vast iron ore deposits throughout the Pilb",
+      "source": "Good News Network",
+      "date": "Wed, 16 Sep 2026 15:35:16 +0000",
+      "url": "https://www.goodnewsnetwork.org/scientists-determine-australias-vast-red-deserts-could-fuel-a-hydrogen-powered-energy-revolution/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Classic-Australian-Pilbara-region-banded-iron-formations-credit-Edith-Cowan-University-released.jpg",
       "score": 0.76
     },
     {
@@ -58,25 +91,14 @@
       "score": 0.76
     },
     {
-      "id": "ab13f080",
-      "cat": "ciencia",
-      "title": "The shape behind the Einstein problem just revealed strange new physics",
-      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polarization, and advanced optical devices.",
+      "id": "4fcbfa0b",
+      "cat": "tecnologia",
+      "title": "Scientists recreated what mice saw from brain activity alone",
+      "summary": "Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of reality.",
       "source": "ScienceDaily",
-      "date": "Tue, 15 Sep 2026 09:14:55 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm",
-      "img": "https://www.sciencedaily.com/images/1920/einstein-problem-reveals-unexpected-physics.webp",
-      "score": 0.76
-    },
-    {
-      "id": "1f1c7fbc",
-      "cat": "ciencia",
-      "title": "Supermassive black hole winds are 100 times more powerful than scientists thought",
-      "summary": "Astronomers have discovered that winds from a supermassive black hole are about 100 times more powerful than previously thought. XRISM observations showed the resulting turbulence spreading roughly 300,000 light-years, extending far beyond the black hole’s host galaxy. The energy involved rivals sev",
-      "source": "ScienceDaily",
-      "date": "Tue, 15 Sep 2026 08:34:32 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102429.htm",
-      "img": "https://www.sciencedaily.com/images/1920/hierarchical-structure-of-universe.webp",
+      "date": "Wed, 16 Sep 2026 08:33:18 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
+      "img": "https://www.sciencedaily.com/images/1920/mouse-brain-thoughts-video.webp",
       "score": 0.76
     },
     {
@@ -91,47 +113,36 @@
       "score": 0.76
     },
     {
-      "id": "9a473fb8",
-      "cat": "saude",
-      "title": "Fertilidade: há clínicas a garantir bebés ou o reembolso do dinheiro. Reguladora já aplicou multas",
-      "summary": "É proibido publicitar tratamentos com garantia de resultados. A Entidade Reguladora da Saúde recebeu seis denúncias sobre publicidade de clínicas de fertilidade e aplicou, pelo menos, duas multas.",
-      "source": "Público",
-      "date": "Wed, 16 Sep 2026 10:25:23 GMT",
-      "url": "https://www.publico.pt/2026/09/16/sociedade/noticia/fertilidade-ha-clinicas-garantir-bebes-reembolso-dinheiro-reguladora-ja-aplicou-multas-2188180",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "157172c0",
+      "id": "2be27029",
       "cat": "tecnologia",
-      "title": "Montenegro apoia segundo mandato de António Costa no Conselho Europeu",
-      "summary": "O primeiro-ministro português já manifestou a sua posição no âmbito do PPE, mas também junto dos restantes líderes europeus, confirmou fonte do Governo ao PÚBLICO.",
+      "title": "Este ano foi o primeiro em que houve alunos sem aulas no início do ano lectivo? Falso",
+      "summary": "José Luís Carneiro disse que este ano marcou “a primeira vez” que há crianças sem aulas em escolas públicas no início do ano lectivo. Mas há vários outros casos noticiados nos últimos anos.",
       "source": "Público",
-      "date": "Wed, 16 Sep 2026 09:19:54 GMT",
-      "url": "https://www.publico.pt/2026/09/16/politica/noticia/montenegro-apoia-segundo-mandato-antonio-costa-conselho-europeu-2188209",
+      "date": "Wed, 16 Sep 2026 14:48:38 GMT",
+      "url": "https://www.publico.pt/2026/09/16/politica/noticia/ano-alunos-aulas-inicio-ano-lectivo-falso-2188247",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "5dcac9b9",
-      "cat": "sociedade",
-      "title": "Educação. Colocados 569 alunos de Almada, Sintra e Amadora",
-      "summary": "O Ministério da Educação garante que nenhum aluno \"em escolaridade obrigatória\" ficará sem vaga e destaca os 569 alunos que já obtiveram uma solução.",
+      "id": "7725f8dd",
+      "cat": "tecnologia",
+      "title": "Nem felizes, nem infelizes: que território é este?",
+      "summary": "A felicidade vende-se hoje como um produto, de preferência pronto a consumir. Mas a maior parte dos nossos dias não é feliz nem infeliz, é uma espécie de terra de ninguém entre o desejo e a rotina.",
       "source": "Observador",
-      "date": "Wed, 16 Sep 2026 10:40:48 +0100",
-      "url": "https://observador.pt/2026/09/16/colocados-569-alunos-de-almada-sintra-e-amadora/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/29102157/45662506.jpg",
+      "date": "Wed, 16 Sep 2026 17:04:17 +0100",
+      "url": "https://observador.pt/programas/porque-sim-nao-e-resposta/nem-felizes-nem-infelizes-que-territorio-e-este/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13150413/770-podcastporque-sim-nao-e-resposta.jpg",
       "score": 0.73
     },
     {
-      "id": "4ebe6ae8",
+      "id": "60bb5d58",
       "cat": "tecnologia",
-      "title": "Portugal paga mais de 3% para emitir mil milhões de euros a 12 meses",
-      "summary": "A operação acontece num momento de volatilidade e agravamento dos juros globais, mas os investidores demonstraram uma procura \"sólida\" por dívida pública portuguesa de curto prazo.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 16 Sep 2026 10:59:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/portugal-paga-mais-de-3-para-emitir-mil-milhoes-de-euros-a-12-meses",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-11/img_100x100uu2025-11-25-11-41-03-513525.jpg",
+      "title": "Segurança Social diz que lares podem abrir antes de acordo",
+      "summary": "\"Acordo de cooperação constitui um instrumento de financiamento e enquadramento da resposta social, mas não é, por si só, condição necessária para a abertura\" da estrutura, esclarece Segurança Social.",
+      "source": "Observador",
+      "date": "Wed, 16 Sep 2026 16:11:58 +0100",
+      "url": "https://observador.pt/2026/09/16/seguranca-social-esclarece-que-lares-podem-abrir-antes-de-acordo-formal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:40/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/05/23083947/40644665.jpg",
       "score": 0.73
     },
     {
@@ -157,14 +168,36 @@
       "score": 0.73
     },
     {
-      "id": "932c9625",
+      "id": "c926ebcc",
+      "cat": "economia",
+      "title": "ASF reuniu com 20 empresas tecnológicas, procura soluções de IA para a sua Supervisão",
+      "summary": "A Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF) realizou esta terça-feira, em Lisboa, o InovaSup Day 2026, reunindo 20 empresas tecnológicas e três entidades parceiras. O encontro serviu como consulta preliminar ao mercado, ao abrigo do Código dos Contratos Públicos, para fundamentar",
+      "source": "ECO",
+      "date": "Wed, 16 Sep 2026 15:40:52 +0000",
+      "url": "https://eco.sapo.pt/2026/09/16/asf-reuniu-com-20-empresas-tecnologicas-procura-solucoes-de-ia-para-a-sua-supervisao/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-4-inovasup-day-2026.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "903339da",
       "cat": "tecnologia",
-      "title": "Europeu de Voleibol. Portugal bate Macedónia por 3-0 e sonha com a qualificação",
-      "summary": "Vitória categórica da seleção nacional no fecho do Grupo B do Europeu de Voleibol.",
-      "source": "RTP",
-      "date": "Wed, 16 Sep 2026 11:08:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/europeu-de-voleibol-portugal-bate-macedonia-por-3-0-e-sonha-com-a-qualificacao_v1765764",
-      "img": "https://cdn-images.rtp.pt/icm/images/c0/c04979367a4ad6cc9568c9a83a451617_N.jpg?",
+      "title": "Processos contra a AIMA deixam de estar concentrados em Lisboa",
+      "summary": "Os chamados &#8220;processos AIMA” vão deixar de estar concentrados no Tribunal Administrativo de Círculo de Lisboa. Segundo a proposta discutida esta quarta-feira no Parlamento, estas ações judiciais passarão a ser distribuídas de acordo com a residência ou sede de quem recorreu ao tribunal, elimin",
+      "source": "ECO",
+      "date": "Wed, 16 Sep 2026 15:37:22 +0000",
+      "url": "https://eco.sapo.pt/2026/09/16/processos-contra-a-aima-deixam-de-estar-concentrados-em-lisboa/",
+      "img": "https://eco.imgix.net/uploads/2025/06/cropped-debate-programa-governo23.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "26b2ac81",
+      "cat": "tecnologia",
+      "title": "Empresas estão a contar subir salários em 3,4% em 2027",
+      "summary": "O próximo ano deverá ficar marcado por uma ligeira aceleração dos salários face à evolução que tem sido observada ao longo de 2026. De acordo com as previsões da consultora de recursos humanos Korn Ferry, as empresas estão a contar avançar com um aumento salarial médio de 3,4%, sendo que o setor tec",
+      "source": "ECO",
+      "date": "Wed, 16 Sep 2026 15:28:30 +0000",
+      "url": "https://eco.sapo.pt/2026/09/16/empresas-estao-a-contar-subir-salarios-em-34-em-2027/",
+      "img": "https://eco.imgix.net/uploads/2026/02/cropped-42585605-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -176,17 +209,6 @@
       "date": "Wed, 16 Sep 2026 07:00:00 +0000",
       "url": "https://www.goodnewsnetwork.org/events060916/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/the-met-opera-house-cc-2.0.-Copy.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "cce2f5d3",
-      "cat": "tecnologia",
-      "title": "$1,000 Bonus for Every Year of Work: Casino Employees Shocked at Company’s 50th Anniversary",
-      "summary": "When thousands of employees at Station Casinos arrived at one of the company&#8217;s resorts to celebrate its 50th anniversary, they hadn&#8217;t a clue what was about to happen. They were going to hit the jackpot. In a stunning display of profit sharing, business moguls the Fertitta brothers announ",
-      "source": "Good News Network",
-      "date": "Tue, 15 Sep 2026 15:30:43 +0000",
-      "url": "https://www.goodnewsnetwork.org/1000-bonus-for-every-year-at-the-company-casino-employees-shocked-at-companys-50th-anniversary/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Station-Casinos-released-to-the-press.jpg",
       "score": 0.73
     },
     {
@@ -212,25 +234,14 @@
       "score": 0.73
     },
     {
-      "id": "aaa193c7",
-      "cat": "saude",
-      "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
-      "summary": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.",
-      "source": "BBC News",
-      "date": "Sun, 13 Sep 2026 05:55:19 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c84/live/08ae0610-ad1f-11f1-826f-933990eae6f0.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "14466bc1",
-      "cat": "tecnologia",
-      "title": "Smelling chocolate helped men complete more reps without feeling more tired",
-      "summary": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may influence appetite and motivation by making the brain anticipate eating.",
+      "id": "2b67c4bc",
+      "cat": "ciencia",
+      "title": "Scientists find an immune “false alarm” that may drive rapid aging",
+      "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak into the wrong part of a cell, an immune sensor called cGAS can mistake them for signs of a viral i",
       "source": "ScienceDaily",
-      "date": "Tue, 15 Sep 2026 11:03:54 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm",
-      "img": "https://www.sciencedaily.com/images/1920/man-smelling-chocolate.webp",
+      "date": "Wed, 16 Sep 2026 10:05:35 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
+      "img": "https://www.sciencedaily.com/images/1920/senior-man-aging-face-disease.webp",
       "score": 0.73
     },
     {
@@ -256,58 +267,36 @@
       "score": 0.73
     },
     {
-      "id": "61577596",
+      "id": "5b410ba4",
       "cat": "tecnologia",
-      "title": "Bruxelas quer criar consórcio de seguros contra fenómenos climáticos extremos",
-      "summary": "A Europa é o continente que aquece mais depressa, mas os seguros cobrem apenas um quarto das perdas relacionadas com o clima. Comissão Europeia propõe uma aliança de seguros climáticos.",
+      "title": "Billy Corgan fez do seu épico de angústia juvenil um musical à americana",
+      "summary": "Não foi um concerto de Billy Corgan com orquestra, não foi revisita às canções de Mellon Collie . No Coliseu dos Recreios, um álbum rock feito musical americano. Uma surpresa. Uma curiosidade.",
       "source": "Público",
-      "date": "Wed, 16 Sep 2026 10:26:59 GMT",
-      "url": "https://www.publico.pt/2026/09/16/azul/noticia/bruxelas-quer-criar-consorcio-seguros-fenomenos-climaticos-extremos-2188205",
+      "date": "Wed, 16 Sep 2026 15:37:59 GMT",
+      "url": "https://www.publico.pt/2026/09/16/culturaipsilon/critica/billy-corgan-fez-epico-angustia-juvenil-musical-americana-2188239",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "ec2fbc62",
-      "cat": "saude",
-      "title": "Médicos sugerem modelo híbrido de consultas",
-      "summary": "Investigadores avaliaram 184 mil consultas por vídeo e por telefone feitas através de uma plataforma de telemedicina portuguesa. Apenas 13,4% dos utentes pediram avaliação presencial depois.",
-      "source": "Observador",
-      "date": "Wed, 16 Sep 2026 11:05:59 +0100",
-      "url": "https://observador.pt/2026/09/16/investigadores-sugerem-modelo-hibrido-de-consulta/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1323:744:nowe:44:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/30082040/medico-trabalho.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "d450a82d",
+      "id": "51076af0",
       "cat": "tecnologia",
-      "title": "São João prevê admissão de enfermeiros a curto prazo",
-      "summary": "Unidade Local de Saúde São João promete contratar mais enfermeiros num curto prazo de tempo. O Sindicato dos Enfermeiros exigiu a entrada imediata de novos enfermeiros nesta ULS.",
-      "source": "Observador",
-      "date": "Wed, 16 Sep 2026 10:55:31 +0100",
-      "url": "https://observador.pt/2026/09/16/hospital-sao-joao-preve-admissao-a-curto-prazo-de-mais-enfermeiros/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/29113642/46138367.jpg",
+      "title": "Ministério não pediu balanço de prova-piloto dos exames nacionais nem fez reuniões",
+      "summary": "Constrangimentos registados este Verão durante o processo de digitalização dos exames nacionais “já tinham ocorrido no piloto”, disse ex-presidente do JNE no Parlamento.",
+      "source": "Público",
+      "date": "Wed, 16 Sep 2026 15:10:56 GMT",
+      "url": "https://www.publico.pt/2026/09/16/sociedade/noticia/ministerio-nao-pediu-balanco-provapiloto-exames-nacionais-fez-reunioes-2188246",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "d5939274",
-      "cat": "economia",
-      "title": "SATA convida seis interessados a avançar para propostas não vinculativas da Azores",
-      "summary": "Das oito manifestações de interesse entregues, apenas seis foram convidadas a avançar para a próxima fase. O grupo SATA entendeu que dois não tinham condições para se manter na corrida.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 16 Sep 2026 12:03:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/sata-convida-seis-interessados-a-avancar-para-propostas-nao-vinculativas-da-azores",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-04-15-55-00-519601.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "3c725f18",
+      "id": "9904e29e",
       "cat": "tecnologia",
-      "title": "Governo reúne com parceiros sociais. Aumento do salário mínimo faz parte da agenda",
-      "summary": "O Orçamento do Estado para 2027 começa a entrar na agenda mediática dos partidos e dos parceiros sociais. Acompanhe a evolução da negociação e das discussões em torno do documento que define as metas de receitas e despesas do Estado.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 16 Sep 2026 11:20:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/oe-2027-ja-mexe-fesap-quer-aumento-do-salario-da-funcao-publica-patroes-menos-carga-fiscal",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-29-11-56-04-527416.jpg",
+      "title": "Dario Vitale é o novo diretor criativo da Emporio Armani",
+      "summary": "O designer que esteve na Versace por 9 meses assume agora uma das marcas de outro império da moda italiana. É a primeira vez que o grupo Armani entrega a direção criativa a alguém de fora da família.",
+      "source": "Observador",
+      "date": "Wed, 16 Sep 2026 17:04:39 +0100",
+      "url": "https://observador.pt/2026/09/16/dario-vitale-e-o-novo-diretor-criativo-da-emporio-armani/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2731:1532:nowe:0:308/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/04163626/gettyimages-2239039326-scaled.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Tue, 09 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "89de5bae",
+      "cat": "cultura",
+      "title": "Treino do FC Porto que antecedeu enfarte de Casillas foi moderado, diz Diogo Costa",
+      "summary": "O guarda-redes Diogo Costa classificou como “moderado”, atribuindo-lhe um três numa escala de zero a 10, o treino do FC Porto no qual Iker Casillas sofreu o enfarte, em 2019, descrevendo uma sessão sobretudo tática.",
+      "source": "RTP",
+      "date": "Wed, 16 Sep 2026 18:10:03 +0100",
+      "url": "https://www.rtp.pt/noticias/1a-liga/treino-do-fc-porto-que-antecedeu-enfarte-de-casillas-foi-moderado-diz-diogo-costa_d1765859",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ac/ac7d7b57ba1c453fb1789007bb2a5af2?w=350&amp;q=50&amp;rect=0,46,1233,676&amp;auto=format",
       "score": 0.7
     }
   ]
