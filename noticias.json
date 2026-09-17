@@ -1,27 +1,38 @@
 {
-  "last_update": "17/09/2026 11:27 UTC",
+  "last_update": "17/09/2026 16:47 UTC",
   "total": 30,
   "news": [
     {
-      "id": "99c241ab",
-      "cat": "tecnologia",
-      "title": "“Não somos aliados de ocasião”. Canadá garante que parceria com UE tem como base valores comuns",
-      "summary": "O primeiro-ministro do Canada disse esta quinta-feira que a parceria do seu país com a União Europeia (UE) tem como base valores comuns que precisam de continuar a ser vigiados, defendendo que a aproximação levará à prosperidade de ambos. &#8220;Não somos aliados de ocasião. Não procuramos acordos d",
-      "source": "ECO",
-      "date": "Thu, 17 Sep 2026 11:14:07 +0000",
-      "url": "https://eco.sapo.pt/2026/09/17/nao-somos-aliados-de-ocasiao-canada-garante-que-parceria-com-ue-tem-como-base-valores-comuns/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-20260916-ep-210082a-stp-pbu-0014-medium.jpg",
-      "score": 0.82
+      "id": "7e632a8c",
+      "cat": "ciencia",
+      "title": "51 ways to get the planet tipping the right way",
+      "summary": "Researchers have identified 51 environmental solutions to save the planet. Here are five of the most promising The post 51 ways to get the planet tipping the right way appeared first on Positive News .",
+      "source": "Positive News",
+      "date": "Thu, 17 Sep 2026 05:00:50 +0000",
+      "url": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-178586669.jpeg",
+      "score": 0.85
     },
     {
       "id": "e027e57f",
       "cat": "tecnologia",
-      "title": "What went right this week: the good news that matters",
-      "summary": "Solutions to save the planet, protecting childhood from algorithms, and the new world map, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "title": "What went right this week: solutions to save the world, plus more",
+      "summary": "Solutions to save the planet, protecting childhood from algorithms, and the new world map, plus more The post What went right this week: solutions to save the world, plus more appeared first on Positive News .",
       "source": "Positive News",
       "date": "Fri, 11 Sep 2026 05:50:39 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-1347084357.jpeg",
+      "score": 0.82
+    },
+    {
+      "id": "bc57d058",
+      "cat": "ambiente",
+      "title": "Scientists discover a mysterious new frog hiding in the Amazon",
+      "summary": "Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights how much Amazonian biodiversity remains hidden even as habitat loss and climate change threaten these",
+      "source": "ScienceDaily",
+      "date": "Thu, 17 Sep 2026 10:08:44 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
+      "img": "https://www.sciencedaily.com/images/1920/neotropical-amphibian.webp",
       "score": 0.82
     },
     {
@@ -33,17 +44,6 @@
       "date": "Wed, 16 Sep 2026 07:00:46 +0000",
       "url": "https://www.positive.news/lifestyle/the-sound-of-stillness-what-happened-when-i-stopped-filling-the-silence/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/Gayles_Retreats_Images_Them_Studio-6-copy-1800x0-c-centermain.jpeg",
-      "score": 0.79
-    },
-    {
-      "id": "169b0b17",
-      "cat": "tecnologia",
-      "title": "What went right this week: disease diagnoses ‘in seconds’, plus more",
-      "summary": "A ‘superhuman’ tool to spot heart disease, France slows fast fashion, and a species comes back from the brink, plus more The post What went right this week: disease diagnoses ‘in seconds’, plus more appeared first on Positive News .",
-      "source": "Positive News",
-      "date": "Fri, 04 Sep 2026 05:09:49 +0000",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-36-of-2026/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-2166849864-2.jpeg",
       "score": 0.79
     },
     {
@@ -91,14 +91,14 @@
       "score": 0.76
     },
     {
-      "id": "4c287897",
-      "cat": "tecnologia",
-      "title": "Tempestades. Bruxelas propõe atribuir 261 milhões a Portugal para apoiar recuperação",
-      "summary": "A Comissão Europeia propôs mobilizar 489 milhões de euros do Fundo de Solidariedade da União Europeia (FSUE) para ajudar Portugal, Espanha, Itália e Malta a recuperar dos graves danos causados pelo temporal e pelas inundações nos meses de janeiro e fevereiro deste ano. Deste envelope, a maior parcel",
-      "source": "ECO",
-      "date": "Thu, 17 Sep 2026 11:09:22 +0000",
-      "url": "https://eco.sapo.pt/2026/09/17/tempestades-bruxelas-propoe-atribuir-261-milhoes-a-portugal-para-apoiar-recuperacao/",
-      "img": "https://eco.imgix.net/uploads/2026/02/cropped-doc2026020846517054akr69342.jpg",
+      "id": "37e5e321",
+      "cat": "desporto",
+      "title": "FC Porto e Benfica discutem liderança, Sporting tenta voltar às vitórias",
+      "summary": "O líder FC Porto e o perseguidor Benfica discutem no domingo o comando da I Liga de futebol, ao defrontarem-se no encerramento da sétima jornada, na qual o rival Sporting procura regressar às vitórias, na receção ao Arouca.",
+      "source": "RTP",
+      "date": "Thu, 17 Sep 2026 17:13:14 +0100",
+      "url": "https://www.rtp.pt/noticias/benfica/fc-porto-e-benfica-discutem-lideranca-sporting-tenta-voltar-as-vitorias_d1766079",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c1/c1078277498f15f51c11439f25cfe28c?w=350&amp;q=50&amp;rect=0,61,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
@@ -132,17 +132,6 @@
       "date": "Wed, 16 Sep 2026 11:00:03 +0000",
       "url": "https://www.goodnewsnetwork.org/10-pounds-of-viking-silver-found-in-finland-extend-incredible-year-for-scandinavian-treasure-hunts/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-two-hoards-credit-Lahti-City-Museums.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "4fcbfa0b",
-      "cat": "tecnologia",
-      "title": "Scientists recreated what mice saw from brain activity alone",
-      "summary": "Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of reality.",
-      "source": "ScienceDaily",
-      "date": "Wed, 16 Sep 2026 08:33:18 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
-      "img": "https://www.sciencedaily.com/images/1920/mouse-brain-thoughts-video.webp",
       "score": 0.76
     },
     {
@@ -190,25 +179,36 @@
       "score": 0.73
     },
     {
-      "id": "c769936a",
-      "cat": "tecnologia",
-      "title": "Martim Krupenski: \"É preciso introduzir mais meritocracia\" no mercado da advocacia",
-      "summary": "Da estratégia definida aos erros cometidos, o líder da Morais Leitão faz um balanço do seu mandato até agora. Diz que Portugal é um país atrativo para o investimento, mas reconhece que é premente apostar na estabilidade legislativa e regulamentar.",
+      "id": "bc947d58",
+      "cat": "economia",
+      "title": "Primeiro-ministro faz declaração ao país às 20:00 em São Bento",
+      "summary": "Luís Montenegro deverá abordar as medidas aprovadas em Conselho de Ministros, como o alívio no IRS, o bónus das pensões ou os apoios para compensar a subida dos preços dos combustíveis.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 17 Sep 2026 12:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/martim-krupenski-e-preciso-introduzir-mais-meritocracia-no-mercado-da-advocacia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-16-21-50-55-529588.jpg",
+      "date": "Thu, 17 Sep 2026 17:40:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/primeiro-ministro-faz-declaracao-ao-pais-as-20-00-em-sao-bento",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-15-07-27-22-523664.jpg",
       "score": 0.73
     },
     {
-      "id": "1717fa5a",
+      "id": "e99cb3ff",
       "cat": "tecnologia",
-      "title": "GIMM vai criar acelerador de fármacos e biobanco de amostras em 2027",
-      "summary": "O centro molecular já tem as prioridades traçadas para o próximo ano e está a trabalhar para as concretizar. Para acelerar a cura de doenças, o GIMM vai criar um laboratório de aceleração para novos fármacos, mas também aposta na digitalização do seu biobanco para partilhar com o resto da comunidade",
+      "title": "Operação Marquês: Teixeira dos Santos contraria acusação e diz que Vara na Caixa foi decisão sua",
+      "summary": "O ex-ministro das Finanças de José Sócrates garantiu esta quinta-feira que nomear Armando Vara como administrador da Caixa Geral de Depósitos foi escolha sua e não do antigo primeiro-ministro. Declarações contradizem o antecessor e a acusação do Ministério Público.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 17 Sep 2026 11:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/gimm-vai-criar-acelerador-de-farmacos-e-biobanco-de-amostras-em-2027",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-16-14-57-47-529592.jpg",
+      "date": "Thu, 17 Sep 2026 17:18:51 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/operacao-marques-teixeira-dos-santos-contraria-acusacao-e-diz-que-vara-na-caixa-foi-decisao-sua",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-01/img_100x100uu2022-01-16-18-02-06-420214.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "80112e05",
+      "cat": "tecnologia",
+      "title": "Costa garante \"apoio unânime\" dos 27 para fechar orçamento europeu até ao final do ano",
+      "summary": "Presidente do Conselho Europeu afirmou, após reunir com líderes europeus, que todos estão \"empenhados\" em alcançar um acordo para avançar com um orçamento \"moderno\" no início de 2028. Novas receitas são essenciais para resolver \"quebra-cabeças\" das negociações e gerar consensos.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 17 Sep 2026 16:45:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/costa-garante-apoio-unanime-dos-27-para-fechar-orcamento-europeu-ate-ao-final-do-ano",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-24-08-07-00-528647.jpg",
       "score": 0.73
     },
     {
@@ -223,6 +223,17 @@
       "score": 0.73
     },
     {
+      "id": "22c30913",
+      "cat": "tecnologia",
+      "title": "Torreense estreia-se esta quinta-feira na Liga Europa",
+      "summary": "Os adeptos vão acompanhar o &quot;momento histórico&quot; desde Torres Vedras.",
+      "source": "RTP",
+      "date": "Thu, 17 Sep 2026 15:18:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/torreense-estreia-se-esta-quinta-feira-na-liga-europa_v1766060",
+      "img": "https://cdn-images.rtp.pt/icm/images/b2/b238d14053430105970ccc7b5b2565e2_N.jpg?",
+      "score": 0.73
+    },
+    {
       "id": "752e043d",
       "cat": "tecnologia",
       "title": "Inter Miami conquista Campeones Cup com golo e assistência de Messi",
@@ -234,36 +245,36 @@
       "score": 0.73
     },
     {
-      "id": "171381ae",
-      "cat": "desporto",
-      "title": "Barcelona invicto na Liga espanhola após nova goleada com marca de Cancelo e `hat-trick` de Raphinha",
-      "summary": "O líder FC Barcelona goleou na quarta-feira na receção ao Racing Santander por 7-2, com João Cancelo a marcar o primeiro golo do jogo da sexta jornada da Liga espanhola de futebol, e Raphinha a assinar um &#039;hat-trick&#039;.",
-      "source": "RTP",
-      "date": "Thu, 17 Sep 2026 10:44:24 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/barcelona-invicto-na-liga-espanhola-apos-nova-goleada-com-marca-de-cancelo-e-hat-trick-de-raphinha_d1765977",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ef/ef3da850acc2e14328d368571d356cd5?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "3835a9ed",
-      "cat": "desporto",
-      "title": "Técnico do Lillestrom afasta favoritismo sobre o Torreense",
-      "summary": "O treinador dos noruegueses do Lillestrom assegurou conhecer bem o Torreense e esperar dificuldades para o primeiro jogo na fase de liga da Liga Europa, afastando um teórico favoritismo sobre os estreantes.",
-      "source": "RTP",
-      "date": "Wed, 16 Sep 2026 23:03:14 +0100",
-      "url": "https://www.rtp.pt/noticias/liga-europa/tecnico-do-lillestrom-afasta-favoritismo-sobre-o-torreense_d1765914",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/13/13d96fc64b7024cc169e9bc8b4948d27?w=350&amp;q=50&amp;rect=0,25,1500,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "d01963ed",
+      "id": "0b3425a5",
       "cat": "tecnologia",
-      "title": "A adaptabilidade não se instala com tecnologia",
-      "summary": "É frequentemente atribuída a Charles Darwin a frase: “Não é a espécie mais forte que sobrevive, nem a mais inteligente, mas aquela que melhor se adapta à mudança.” Embora Darwin nunca a tenha escrito exatamente desta forma, a ideia traduz um dos princípios essenciais da seleção natural: não sobreviv",
+      "title": "Marquês: Teixeira dos Santos contraria acusação e diz que Vara na CGD foi decisão sua",
+      "summary": "Um dos ex-ministros das Finanças de José Sócrates. Teixeira dos Santos, garantiu que nomear Armando Vara como administrador da Caixa Geral de Depósitos (CGD) foi escolha sua e não do antigo primeiro-ministro, contradizendo o antecessor e o Ministério Público. &#8220;A escolha foi minha e comuniquei-",
       "source": "ECO",
-      "date": "Thu, 17 Sep 2026 11:22:32 +0000",
-      "url": "https://eco.sapo.pt/opiniao/a-adaptabilidade-nao-se-instala-com-tecnologia/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2024/11/joao-guerra_opiniao.png",
+      "date": "Thu, 17 Sep 2026 15:49:36 +0000",
+      "url": "https://eco.sapo.pt/2026/09/17/marques-teixeira-dos-santos-contraria-acusacao-e-diz-que-vara-na-cgd-foi-decisao-sua/",
+      "img": "https://eco.imgix.net/uploads/2018/04/cropped-20180411182036__ndr9393.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "3d551da4",
+      "cat": "tecnologia",
+      "title": "Vacinação da gripe arranca a 30 de setembro e é alargada a crianças dos dois aos quatro anos",
+      "summary": "A vacinação sazonal contra a gripe vai decorrer entre 30 de setembro e 31 de março de 2027, prevendo como principal novidade o seu alargamento gratuito às crianças entre os dois e quatro anos. A estratégia da campanha de vacinação sazonal de outono e inverno consta de uma norma hoje publicada, com a",
+      "source": "ECO",
+      "date": "Thu, 17 Sep 2026 15:41:13 +0000",
+      "url": "https://eco.sapo.pt/2026/09/17/vacinacao-da-gripe-arranca-a-30-de-setembro-e-e-alargada-a-criancas-dos-dois-aos-quatro-anos/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-45712926-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "f773c0c4",
+      "cat": "tecnologia",
+      "title": "Casa de Santar e jardins em vias de classificação nacional",
+      "summary": "Inserida numa região vinhateira, a Casa de Santar e os seus jardins históricos, em Nelas, estão em vias de classificação de âmbito nacional. A abertura do procedimento foi publicada esta quinta-feira, em Diário da República, na sequência de uma proposta do Departamento dos Bens Culturais. &#8220;Foi",
+      "source": "ECO",
+      "date": "Thu, 17 Sep 2026 14:26:52 +0000",
+      "url": "https://eco.sapo.pt/2026/09/17/casa-de-santar-e-jardins-em-vias-de-classificacao-nacional/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-casa-santar.jpg",
       "score": 0.73
     },
     {
@@ -278,14 +289,14 @@
       "score": 0.73
     },
     {
-      "id": "a55aba59",
-      "cat": "ciencia",
-      "title": "US scraps limits on emissions from coal and gas power plants",
-      "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
+      "id": "69456586",
+      "cat": "tecnologia",
+      "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+      "summary": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
       "source": "BBC News",
-      "date": "Mon, 14 Sep 2026 22:04:14 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9e/live/16cf4830-b0ad-11f1-9c5d-0dd6cc52f198.jpg",
+      "date": "Thu, 17 Sep 2026 13:32:00 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e519/live/c64517f0-b20a-11f1-a430-4d16ee157c41.jpg",
       "score": 0.73
     },
     {
@@ -318,17 +329,6 @@
       "source": "Público",
       "date": "Wed, 16 Sep 2026 23:30:00 GMT",
       "url": "https://www.publico.pt/2026/09/17/opiniao/opiniao/funcao-publica-malandros-costume-2188289",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "ac4f7df4",
-      "cat": "tecnologia",
-      "title": "Evaristo, Gervásio, os amigos deles e as divagações del(I)a",
-      "summary": "A preencher o virtual Evaristo há (ou IA) dois Gervásios, um Llama, um Owen, um Mistral, um Sabiá e um DeepSeek. Fui conhecê-los. Opinião de Nuno Pacheco",
-      "source": "Público",
-      "date": "Wed, 16 Sep 2026 23:20:00 GMT",
-      "url": "https://www.publico.pt/2026/09/17/culturaipsilon/opiniao/evaristo-gervasio-amigos-divagacoes-delia-2187983",
       "img": null,
       "score": 0.7
     }
