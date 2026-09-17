@@ -1,7 +1,18 @@
 {
-  "last_update": "17/09/2026 04:36 UTC",
+  "last_update": "17/09/2026 11:27 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "99c241ab",
+      "cat": "tecnologia",
+      "title": "“Não somos aliados de ocasião”. Canadá garante que parceria com UE tem como base valores comuns",
+      "summary": "O primeiro-ministro do Canada disse esta quinta-feira que a parceria do seu país com a União Europeia (UE) tem como base valores comuns que precisam de continuar a ser vigiados, defendendo que a aproximação levará à prosperidade de ambos. &#8220;Não somos aliados de ocasião. Não procuramos acordos d",
+      "source": "ECO",
+      "date": "Thu, 17 Sep 2026 11:14:07 +0000",
+      "url": "https://eco.sapo.pt/2026/09/17/nao-somos-aliados-de-ocasiao-canada-garante-que-parceria-com-ue-tem-como-base-valores-comuns/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-20260916-ep-210082a-stp-pbu-0014-medium.jpg",
+      "score": 0.82
+    },
     {
       "id": "e027e57f",
       "cat": "tecnologia",
@@ -47,6 +58,17 @@
       "score": 0.79
     },
     {
+      "id": "e2d2de83",
+      "cat": "saude",
+      "title": "Hidden “immune organ” in the skull may help fight brain cancer",
+      "summary": "Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.",
+      "source": "ScienceDaily",
+      "date": "Wed, 16 Sep 2026 22:43:01 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232134.htm",
+      "img": "https://www.sciencedaily.com/images/1920/human-brain-neural-connections-and-electrical-pulses-close.webp",
+      "score": 0.79
+    },
+    {
       "id": "4254f27e",
       "cat": "ciencia",
       "title": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
@@ -69,14 +91,14 @@
       "score": 0.76
     },
     {
-      "id": "8320e55b",
-      "cat": "economia",
-      "title": "O ruído de Cavaco",
-      "summary": "Cavaco não é Passos e está disposto a proteger o atual primeiro-ministro em toda a linha. É isso que é possível inferir das palavras do antigo Presidente da República quando recusou responder a questões de jornalistas à saída do Prémio Champalimaud de Visão.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 16 Sep 2026 23:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/o-ruido-de-cavaco",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
+      "id": "4c287897",
+      "cat": "tecnologia",
+      "title": "Tempestades. Bruxelas propõe atribuir 261 milhões a Portugal para apoiar recuperação",
+      "summary": "A Comissão Europeia propôs mobilizar 489 milhões de euros do Fundo de Solidariedade da União Europeia (FSUE) para ajudar Portugal, Espanha, Itália e Malta a recuperar dos graves danos causados pelo temporal e pelas inundações nos meses de janeiro e fevereiro deste ano. Deste envelope, a maior parcel",
+      "source": "ECO",
+      "date": "Thu, 17 Sep 2026 11:09:22 +0000",
+      "url": "https://eco.sapo.pt/2026/09/17/tempestades-bruxelas-propoe-atribuir-261-milhoes-a-portugal-para-apoiar-recuperacao/",
+      "img": "https://eco.imgix.net/uploads/2026/02/cropped-doc2026020846517054akr69342.jpg",
       "score": 0.76
     },
     {
@@ -135,47 +157,58 @@
       "score": 0.76
     },
     {
-      "id": "4038233b",
+      "id": "fac00a21",
       "cat": "tecnologia",
-      "title": "Milan x Benfica. 1h. Leitão Amaro: proposta do C\"feit\"Faltou amarelo a Gonçalo Ramos\"feita para chumbar \"",
-      "summary": "Nota 6 para Jarred Gillett na vitória histórica do Benfica sobre o Milan. Pedro Henriques fala de um arbitragem \"positiva\" que \"esteve bem nas áreas\" e que só perdeu pelo número elevado de faltas.",
+      "title": "Benfica focado no Clássico no Dragão faz história em Milão",
+      "summary": "Na antecâmara do Clássico, as águias entraram a vencer na Liga Europa com uma vitória histórica frente ao AC Milan (2-0). Ainda, campeonato mundial de Fórmula 1 está de volta ao Autódromo do Algarve.",
       "source": "Observador",
-      "date": "Thu, 17 Sep 2026 00:40:42 +0100",
-      "url": "https://observador.pt/programas/sem-falta/milan-x-benfica-faltou-amarelo-a-goncalo-ramos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg",
+      "date": "Thu, 17 Sep 2026 06:52:40 +0100",
+      "url": "https://observador.pt/programas/vamos-a-bola/benfica-focado-no-classico-no-dragao-faz-historia-em-milao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg",
       "score": 0.73
     },
     {
-      "id": "18b5eb09",
+      "id": "5bb562d2",
       "cat": "tecnologia",
-      "title": "A grande divisão",
-      "summary": "O tempo é de polarização e de vitórias ou derrotas tangenciais. E é neste tempo que vemos a Esquerda, mas também o Centro, tomados por uma obsessão que parece mobilizar todas as suas energias",
+      "title": "NOVA vai ter mestrado em IA Aplicada à Medicina",
+      "summary": "Público noticia que, a partir de 2028, a NOVA Medical School vai liderar um mestrado Erasmus Mundus. No JN em destaque a venda de pílulas do dia seguinte, que subiu 8,8% no primeiro semestre deste ano",
       "source": "Observador",
-      "date": "Thu, 17 Sep 2026 00:25:53 +0100",
-      "url": "https://observador.pt/opiniao/a-grande-divisao/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2040%3A2039%3Anowe%3A216%3A241%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170546%2Fjaime-nogueira-pinto.jpg",
+      "date": "Thu, 17 Sep 2026 06:50:15 +0100",
+      "url": "https://observador.pt/programas/conferencia-de-imprensa/nova-vai-ter-mestrado-em-ia-aplicada-a-medicina/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/04/10163300/770-podcast-conferencia-de-imprensa.jpg",
       "score": 0.73
     },
     {
-      "id": "ac2da942",
+      "id": "6f72dfbd",
       "cat": "tecnologia",
-      "title": "Trump ameaça UE com tarifas se admitir Canadá como membro associado",
-      "summary": "O Presidente dos EUA sugeriu que Washington poderá considerar a parceria entre Otava e Bruxelas um \"ato hostil\" e cortar o comércio com a Europa em \"muitas coisas\".",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 17 Sep 2026 00:37:22 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-ameaca-ue-com-tarifas-se-admitir-canada-como-membro-associado",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-05/img_100x100uu2025-05-06-18-44-43-500835.jpg",
+      "title": "Três filmes para ver esta semana",
+      "summary": "O filme histórico \"A Revolta\", \"Bad Apples\", com Saiorse Ronan, e a comédia familiar \"Só Uma Ilusão\", de Éric Toledano e Olivier Nakache, são as escolhas desta semana de Eurico de Barros.",
+      "source": "Observador",
+      "date": "Thu, 17 Sep 2026 06:31:45 +0100",
+      "url": "https://observador.pt/2026/09/17/tres-filmes-para-ver-esta-semana-318/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1399:787:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/16153156/revolta.jpg",
       "score": 0.73
     },
     {
-      "id": "9e4de538",
-      "cat": "economia",
-      "title": "França prolonga até ao final do ano ajudas devido à subida dos combustíveis",
-      "summary": "O primeiro-ministro francês, Sébastien Lecornu, pediu especificamente aos seus ministros que mantivessem os auxílios aos pescadores, agricultores e empresas de construção.",
+      "id": "c769936a",
+      "cat": "tecnologia",
+      "title": "Martim Krupenski: \"É preciso introduzir mais meritocracia\" no mercado da advocacia",
+      "summary": "Da estratégia definida aos erros cometidos, o líder da Morais Leitão faz um balanço do seu mandato até agora. Diz que Portugal é um país atrativo para o investimento, mas reconhece que é premente apostar na estabilidade legislativa e regulamentar.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 16 Sep 2026 23:14:23 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/franca-prolonga-ate-ao-final-do-ano-ajudas-devido-a-subida-dos-combustiveis",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-16-10-56-44-511315.jpg",
+      "date": "Thu, 17 Sep 2026 12:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/martim-krupenski-e-preciso-introduzir-mais-meritocracia-no-mercado-da-advocacia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-16-21-50-55-529588.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1717fa5a",
+      "cat": "tecnologia",
+      "title": "GIMM vai criar acelerador de fármacos e biobanco de amostras em 2027",
+      "summary": "O centro molecular já tem as prioridades traçadas para o próximo ano e está a trabalhar para as concretizar. Para acelerar a cura de doenças, o GIMM vai criar um laboratório de aceleração para novos fármacos, mas também aposta na digitalização do seu biobanco para partilhar com o resto da comunidade",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 17 Sep 2026 11:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/gimm-vai-criar-acelerador-de-farmacos-e-biobanco-de-amostras-em-2027",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-16-14-57-47-529592.jpg",
       "score": 0.73
     },
     {
@@ -190,6 +223,28 @@
       "score": 0.73
     },
     {
+      "id": "752e043d",
+      "cat": "tecnologia",
+      "title": "Inter Miami conquista Campeones Cup com golo e assistência de Messi",
+      "summary": "O Inter Miami conquistou na quarta-feira a edição 2026 da Campeones Cup, entre os campeões dos Estados Unidos e do México, ao vencer o Cruz Azul por 2-0, com golo e assistência do ‘incontornável’ Lionel Messi.",
+      "source": "RTP",
+      "date": "Thu, 17 Sep 2026 11:09:00 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/inter-miami-conquista-campeones-cup-com-golo-e-assistencia-de-messi_d1765986",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/2b/2b8f53cf9e747868ecb2d5ec40e03b24?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "171381ae",
+      "cat": "desporto",
+      "title": "Barcelona invicto na Liga espanhola após nova goleada com marca de Cancelo e `hat-trick` de Raphinha",
+      "summary": "O líder FC Barcelona goleou na quarta-feira na receção ao Racing Santander por 7-2, com João Cancelo a marcar o primeiro golo do jogo da sexta jornada da Liga espanhola de futebol, e Raphinha a assinar um &#039;hat-trick&#039;.",
+      "source": "RTP",
+      "date": "Thu, 17 Sep 2026 10:44:24 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/barcelona-invicto-na-liga-espanhola-apos-nova-goleada-com-marca-de-cancelo-e-hat-trick-de-raphinha_d1765977",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ef/ef3da850acc2e14328d368571d356cd5?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "3835a9ed",
       "cat": "desporto",
       "title": "Técnico do Lillestrom afasta favoritismo sobre o Torreense",
@@ -201,36 +256,14 @@
       "score": 0.73
     },
     {
-      "id": "f4401e68",
+      "id": "d01963ed",
       "cat": "tecnologia",
-      "title": "Bruxelas aprova cinco projetos de Defesa de 60 milhões de euros cada",
-      "summary": "Os embaixadores dos 27 Estados-membros da União Europeia (UE) aprovaram os primeiros cinco Projetos Europeus de Defesa de Interesse Comum (EDPCI), numa tentativa de acelerar o desenvolvimento conjunto de capacidades e colmatar lacunas consideradas críticas para a segurança europeia. Cada projeto rec",
+      "title": "A adaptabilidade não se instala com tecnologia",
+      "summary": "É frequentemente atribuída a Charles Darwin a frase: “Não é a espécie mais forte que sobrevive, nem a mais inteligente, mas aquela que melhor se adapta à mudança.” Embora Darwin nunca a tenha escrito exatamente desta forma, a ideia traduz um dos princípios essenciais da seleção natural: não sobreviv",
       "source": "ECO",
-      "date": "Wed, 16 Sep 2026 20:43:01 +0000",
-      "url": "https://eco.sapo.pt/2026/09/16/bruxelas-aprova-cinco-projetos-de-defesa-de-60-milhoes-de-euros-cada/",
-      "img": "https://eco.imgix.net/uploads/2026/01/cropped-doc202407154321816111479365.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "865eaa13",
-      "cat": "tecnologia",
-      "title": "Salário mínimo de mil euros já em 2027? UGT defende, patrões afastam",
-      "summary": "A UGT propôs esta quarta-feira que o salário mínimo nacional suba para mil euros já em 2027, pedindo, assim, uma revisão em alta do acordo já firmado em Concertação Social. Contudo, as confederações empresariais não mostraram abertura nesse sentido. Já o Governo, pela voz da ministra do Trabalho, in",
-      "source": "ECO",
-      "date": "Wed, 16 Sep 2026 18:54:16 +0000",
-      "url": "https://eco.sapo.pt/2026/09/16/salario-minimo-de-mil-euros-ja-em-2027-ugt-defende-patroes-afastam/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47467108-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8dcf7773",
-      "cat": "tecnologia",
-      "title": "Parlamento ucraniano ratifica adesão ao Fundo Europeu de Defesa",
-      "summary": "O parlamento ucraniano ratificou hoje a adesão de Kiev ao Fundo Europeu de Defesa (FED), um instrumento financeiro da União Europeia (UE) concebido para apoiar a investigação e o desenvolvimento de tecnologias e equipamentos militares entre os Estados-membros. Na votação na Verkhovna Rada (parlament",
-      "source": "ECO",
-      "date": "Wed, 16 Sep 2026 18:23:53 +0000",
-      "url": "https://eco.sapo.pt/2026/09/16/parlamento-ucraniano-ratifica-adesao-ao-fundo-europeu-de-defesa/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-47506996-scaled-3.jpg",
+      "date": "Thu, 17 Sep 2026 11:22:32 +0000",
+      "url": "https://eco.sapo.pt/opiniao/a-adaptabilidade-nao-se-instala-com-tecnologia/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2024/11/joao-guerra_opiniao.png",
       "score": 0.73
     },
     {
@@ -253,17 +286,6 @@
       "date": "Mon, 14 Sep 2026 22:04:14 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9e/live/16cf4830-b0ad-11f1-9c5d-0dd6cc52f198.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "2b67c4bc",
-      "cat": "ciencia",
-      "title": "Scientists find an immune “false alarm” that may drive rapid aging",
-      "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak into the wrong part of a cell, an immune sensor called cGAS can mistake them for signs of a viral i",
-      "source": "ScienceDaily",
-      "date": "Wed, 16 Sep 2026 10:05:35 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
-      "img": "https://www.sciencedaily.com/images/1920/senior-man-aging-face-disease.webp",
       "score": 0.73
     },
     {
@@ -308,28 +330,6 @@
       "date": "Wed, 16 Sep 2026 23:20:00 GMT",
       "url": "https://www.publico.pt/2026/09/17/culturaipsilon/opiniao/evaristo-gervasio-amigos-divagacoes-delia-2187983",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "b9dc4726",
-      "cat": "tecnologia",
-      "title": "Milan x Benfica. 1h. Leitão Amaro: proposta do C\"feit\"Faltou amarelo",
-      "summary": "António Leitão Amaro compara este caso à moção de censura ao governo também apresentada pelo Chega. Ainda, Trump critica a decisão da Reserva Federal americana que decidiu aumentar taxa de juro.",
-      "source": "Observador",
-      "date": "Thu, 17 Sep 2026 01:15:32 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2386/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
