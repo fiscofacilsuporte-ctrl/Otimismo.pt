@@ -1,5 +1,5 @@
 {
-  "last_update": "17/09/2026 21:14 UTC",
+  "last_update": "18/09/2026 04:21 UTC",
   "total": 30,
   "news": [
     {
@@ -34,17 +34,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
       "img": "https://www.sciencedaily.com/images/1920/neotropical-amphibian.webp",
       "score": 0.82
-    },
-    {
-      "id": "daae9b75",
-      "cat": "cultura",
-      "title": "Alívio do IRS já está aprovado. Salários líquidos vão subir em novembro",
-      "summary": "O Governo aprovou esta quinta-feira em Conselho de Ministros um nova redução do IRS até ao sexto escalão. A medida, que custará cerca de 400 milhões de euros aos cofres públicos, vai fazer sentir-se na carteira dos portugueses já com o salário de novembro, de acordo com o primeiro-ministro, Luís Mon",
-      "source": "ECO",
-      "date": "Thu, 17 Sep 2026 19:06:55 +0000",
-      "url": "https://eco.sapo.pt/2026/09/17/alivio-do-irs-ja-esta-aprovado-salarios-liquidos-vao-subir-em-novembro/",
-      "img": "https://eco.imgix.net/uploads/2025/12/cropped-doc201005101102563002150995-2.jpg",
-      "score": 0.79
     },
     {
       "id": "d386b63d",
@@ -91,6 +80,17 @@
       "score": 0.79
     },
     {
+      "id": "7bc2a8df",
+      "cat": "sociedade",
+      "title": "BE considera apoios do Governo “migalhas devoradas pelo custo de vida”",
+      "summary": "José Manuel Pureza afirma que o primeiro-ministro escolhe não exigir maior solidariedade fiscal aos grandes grupos económicos.",
+      "source": "Público",
+      "date": "Thu, 17 Sep 2026 22:30:52 GMT",
+      "url": "https://www.publico.pt/2026/09/17/politica/noticia/be-considera-apoios-governo-migalhas-devoradas-custo-vida-2188456",
+      "img": null,
+      "score": 0.76
+    },
+    {
       "id": "7dbff576",
       "cat": "tecnologia",
       "title": "FC Porto soma primeira vitória na Champions de andebol de 2026/27",
@@ -121,6 +121,17 @@
       "date": "Thu, 17 Sep 2026 17:13:14 +0100",
       "url": "https://www.rtp.pt/noticias/benfica/fc-porto-e-benfica-discutem-lideranca-sporting-tenta-voltar-as-vitorias_d1766079",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/c1/c1078277498f15f51c11439f25cfe28c?w=350&amp;q=50&amp;rect=0,61,1233,676&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "f6fddb1d",
+      "cat": "economia",
+      "title": "Mais do mesmo",
+      "summary": "Na semana passada fui assistir à apresentação de um estudo sobre crescimento económico, produtividade e os bloqueios da economia portuguesa. Não, não fui ouvir Passos Coelho. Estive na Culturgest, convidada pelo meu antigo colega Bruno Damásio, para o lançamento do livro de que, juntamente com André",
+      "source": "ECO",
+      "date": "Thu, 17 Sep 2026 23:01:35 +0000",
+      "url": "https://eco.sapo.pt/opiniao/mais-do-mesmo/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/09/vera-gouveia-barros.png",
       "score": 0.76
     },
     {
@@ -157,6 +168,17 @@
       "score": 0.76
     },
     {
+      "id": "0259d3f3",
+      "cat": "ciencia",
+      "title": "New wild cat species discovered - with only one known living member",
+      "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "source": "BBC News",
+      "date": "Thu, 17 Sep 2026 23:15:55 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f924/live/5c6733f0-b2b8-11f1-ad9d-efc12ace03e0.jpg",
+      "score": 0.76
+    },
+    {
       "id": "b50e5da7",
       "cat": "tecnologia",
       "title": "Repeat offender fined for searching for gold in protected river",
@@ -177,17 +199,6 @@
       "url": "https://reasonstobecheerful.world/the-national-park-that-stretches-from-coast-to-coast/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/Anonymous_Brooklyn_MI_1765150956-scaled.jpg",
       "score": 0.76
-    },
-    {
-      "id": "90a3a6ef",
-      "cat": "tecnologia",
-      "title": "Gripe: crianças até 4 anos com vacina grátis, farmácias arriscam ter menos oferta para venda",
-      "summary": "Vacinação contra a gripe e contra a covid-19 inicia-se no próximo dia 30 de Setembro. Disponibilidade de vacinas para quem está fora dos grupos de risco e quiser comprar na farmácia pode baixar.",
-      "source": "Público",
-      "date": "Thu, 17 Sep 2026 18:11:00 GMT",
-      "url": "https://www.publico.pt/2026/09/17/sociedade/noticia/vacinacao-gratuita-gripe-alargada-criancas-2-4-anos-2188382",
-      "img": null,
-      "score": 0.73
     },
     {
       "id": "fac00a21",
@@ -223,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "4b07583e",
+      "cat": "tecnologia",
+      "title": "CEO da Nvidia diz que empresa vai vender o dobro dos chips no próximo ano",
+      "summary": "Jensen Huang aponta para um crescimento massivo da fabricante de semicondutores nos próximos seis trimestres. \"A razão é que a IA tem contribuído imensamente para os benefícios de diferentes setores\", disse.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 17 Sep 2026 22:29:46 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/ceo-da-nvidia-diz-que-empresa-vai-vender-o-dobro-dos-chips-no-proximo-ano",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-01-15-57-00-524657.jpg",
+      "score": 0.73
+    },
+    {
       "id": "8d089a39",
       "cat": "tecnologia",
       "title": "Barómetro: PS continua na frente, AD e Chega mantêm empate técnico",
@@ -231,28 +253,6 @@
       "date": "Thu, 17 Sep 2026 21:30:00 +0100",
       "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-ps-continua-na-frente-ad-e-chega-mantem-empate-tecnico",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-15-22-03-16-523742.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "206a1b3a",
-      "cat": "tecnologia",
-      "title": "Wall Street em terreno positivo após subida de taxas da Fed e com petróleo mais barato",
-      "summary": "Principais índices bolsistas nos Estados Unidos protagonizaram subidas na penúltima sessão da semana. Nvidia cresceu mais de 2% depois de o seu CEO anunciar que antevê duplicar a venda de chips no próximo ano.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 17 Sep 2026 21:19:11 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-em-terreno-positivo-apos-subida-de-taxas-da-fed-e-com-petroleo-mais-barato",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-07/img_100x100uu2025-07-24-21-00-20-506423.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "2589764c",
-      "cat": "economia",
-      "title": "Novo bónus para pensões aprovado pelo Executivo",
-      "summary": "Suplemento extraordinário será pago em dezembro aos pensionistas que recebem até 1.611,39 euros.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 17 Sep 2026 20:19:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/novo-bonus-para-pensoes-aprovado-pelo-executivo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-17-20-25-59-529667.jpg",
       "score": 0.73
     },
     {
@@ -267,6 +267,17 @@
       "score": 0.73
     },
     {
+      "id": "dba562ce",
+      "cat": "economia",
+      "title": "A importância da gestão e dos modelos de governação",
+      "summary": "Não há desenvolvimento económico sem a transformação e a metamorfose permanente das organizações. A riqueza das nações nasce no seio das empresas, dependendo da forma como estas combinam recursos, gerem pessoas e estruturam as suas decisões estratégicas. A evidência empírica disponível mostra que a ",
+      "source": "ECO",
+      "date": "Thu, 17 Sep 2026 23:01:12 +0000",
+      "url": "https://eco.sapo.pt/especiais/a-importancia-da-gestao-e-dos-modelos-de-governacao/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-gestao.jpg",
+      "score": 0.73
+    },
+    {
       "id": "60272628",
       "cat": "tecnologia",
       "title": "Do IRS ao Passe Verde, conheça as medidas do Governo para mitigar a subida do custo de vida",
@@ -275,28 +286,6 @@
       "date": "Thu, 17 Sep 2026 20:37:44 +0000",
       "url": "https://eco.sapo.pt/2026/09/17/do-irs-ao-passe-verde-conheca-as-medidas-do-governo-para-mitigar-a-subida-do-custo-de-vida/",
       "img": "https://eco.imgix.net/uploads/2026/09/cropped-47793914-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6de9373d",
-      "cat": "tecnologia",
-      "title": "Solteiro com salário de mil euros vai ‘poupar’ 12 euros por ano com alívio do IRS. Veja as simulações",
-      "summary": "O Governo aprovou esta quinta-feira a redução do IRS até ao sexto escalão, com efeito já no salário de novembro e no subsídio de Natal. De acordo com as simulações divulgadas pelo Ministério das Finanças, um contribuinte solteiro com um rendimento mensal bruto de mil euros vai &#8216;poupar&#8217;, ",
-      "source": "ECO",
-      "date": "Thu, 17 Sep 2026 19:46:51 +0000",
-      "url": "https://eco.sapo.pt/2026/09/17/solteiro-com-salario-de-mil-euros-vai-poupar-12-euros-por-ano-com-alivio-do-irs-veja-as-simulacoes/",
-      "img": "https://eco.imgix.net/uploads/2024/02/cropped-towfiqu-barbhuiya-3agz7a97qwa-unsplash.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "155869b1",
-      "cat": "tecnologia",
-      "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-      "summary": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
-      "source": "BBC News",
-      "date": "Wed, 16 Sep 2026 00:05:51 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af1f/live/e6dc9eb0-b134-11f1-a430-4d16ee157c41.jpg",
       "score": 0.73
     },
     {
@@ -322,13 +311,24 @@
       "score": 0.73
     },
     {
-      "id": "76b67740",
+      "id": "dc73a3ea",
       "cat": "tecnologia",
-      "title": "Ceuta, Mbappé, Florentino e o caso das camisolas meio-vestidas no Real Madrid",
-      "summary": "Três jogadores do Real Madrid estão a ser alvos de críticas por terem escondido mensagens de apoio aos habitantes do enclave espanhol no Norte de África.",
+      "title": "Montenegro culpa Trump e não faz mais do que já tinha prometido",
+      "summary": "Luís Montenegro mostrou-se cauteloso e prefere ter as contas públicas certas do que apoiar de forma mais robusta os portugueses.",
       "source": "Público",
-      "date": "Thu, 17 Sep 2026 18:28:21 GMT",
-      "url": "https://www.publico.pt/2026/09/17/desporto/noticia/ceuta-mbappe-florentino-caso-camisolas-meiovestidas-real-madrid-2188431",
+      "date": "Fri, 18 Sep 2026 00:18:03 GMT",
+      "url": "https://www.publico.pt/2026/09/18/politica/noticia/montenegro-culpa-trump-nao-faz-ja-prometido-2188462",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "01287b56",
+      "cat": "geral",
+      "title": "As mamas são dela",
+      "summary": "Não há um ideal de beleza e todos os corpos femininos são, à sua maneira, belos. Se todos são belos, o de Sydney Sweeney também o é; e é dela; e só ela tem o poder de decidir como o quer usar. Opinião de Susana Peralta",
+      "source": "Público",
+      "date": "Thu, 17 Sep 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/09/18/opiniao/opiniao/mamas-sao-2188435",
       "img": null,
       "score": 0.7
     }
