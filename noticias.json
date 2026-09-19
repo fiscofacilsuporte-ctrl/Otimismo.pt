@@ -1,5 +1,5 @@
 {
-  "last_update": "18/09/2026 20:47 UTC",
+  "last_update": "19/09/2026 04:18 UTC",
   "total": 30,
   "news": [
     {
@@ -91,14 +91,25 @@
       "score": 0.79
     },
     {
-      "id": "288ee3a5",
-      "cat": "saude",
-      "title": "Anthropic cria laboratório para investigação de medicamentos",
-      "summary": "De forma discreta, o laboratório de IA instalou um laboratório em São Francisco para fazer experiências físicas e tentar acelerar a investigação de tratamentos para doenças raras.",
+      "id": "79bbb9bd",
+      "cat": "tecnologia",
+      "title": "Não vale a pena fugir: o Estado apanha-nos sempre",
+      "summary": "Por vezes, até o cidadão mais prudente percebe, com horror, que vai mesmo ter de entabular um diálogo com o Estado. Primeiro, gela. Depois, sua. Por fim, procura uma cadeira porque as pernas tremem.",
       "source": "Observador",
-      "date": "Fri, 18 Sep 2026 18:41:40 +0100",
-      "url": "https://observador.pt/2026/09/18/anthropic-instalou-um-laboratorio-em-sao-francisco-para-tentar-acelerar-investigacao-medica/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:235/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/09193018/gettyimages-2270583457-scaled.jpg",
+      "date": "Sat, 19 Sep 2026 00:27:56 +0100",
+      "url": "https://observador.pt/opiniao/nao-vale-a-pena-fugir-o-estado-apanha-nos-sempre/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2124%3A2124%3Anowe%3A955%3A75%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151538%2Fjporfirio-retratos-redacao-2026-01-81-scaled.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "a613bcb6",
+      "cat": "tecnologia",
+      "title": "Trump anuncia acordo sobre Gronelândia que dá aos EUA “controlo permanente da segurança”",
+      "summary": "O Presidente dos EUA refere que será proibida no território sob administração dinamarquesa qualquer presença militar ou investimentos sensíveis de países \"adversários\".",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 18 Sep 2026 22:56:29 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/europa/detalhe/trump-anuncia-acordo-sobre-gronelandia-que-da-aos-eua-controlo-permanente-da-seguranca",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-13-08-40-24-516311.jpg",
       "score": 0.76
     },
     {
@@ -168,6 +179,17 @@
       "score": 0.76
     },
     {
+      "id": "6cb07860",
+      "cat": "tecnologia",
+      "title": "Discordar sem sair da mesa",
+      "summary": "O Instituto Progresso nasce da ideia de que se pode discordar sem negar ao outro decência, e de que a civilidade pode conviver com o debate político sem destruir o chão comum onde nos movimentamos. Opinião de Bruno Matias",
+      "source": "Público",
+      "date": "Fri, 18 Sep 2026 23:05:00 GMT",
+      "url": "https://www.publico.pt/2026/09/19/opiniao/opiniao/discordar-sair-mesa-2188360",
+      "img": null,
+      "score": 0.73
+    },
+    {
       "id": "fc1eeeb0",
       "cat": "geral",
       "title": "Sindicato dos Jornalistas apela a boicote a declarações de Montenegro sem perguntas",
@@ -190,25 +212,36 @@
       "score": 0.73
     },
     {
-      "id": "f1a84dfd",
+      "id": "578b9616",
       "cat": "tecnologia",
-      "title": "Carta aberta a PM diz que cuidadores são esquecidos",
-      "summary": "\"Cuidar de alguém dependente não é uma escolha de horário laboral. É um trabalho invisível de 24 horas por dia\", escreveram quatro mães numa carta aberta endereçada ao primeiro-ministro.",
+      "title": "2h. Passos Coelho relativiza críticas vindas do seio do PSD",
+      "summary": "O antigo primeiro-ministro vê com naturalidade as críticas de Leonor Beleza. Ainda, o Presidente da República recusou comentar as medidas anunciadas na quinta-feira pelo Governo.",
       "source": "Observador",
-      "date": "Fri, 18 Sep 2026 19:07:25 +0100",
-      "url": "https://observador.pt/2026/09/18/carta-aberta-ao-pm-diz-que-cuidadores-e-cidadaos-com-deficiencia-sao-esquecidos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/09/11170634/14374989_770x433_acf_cropped.jpg",
+      "date": "Sat, 19 Sep 2026 02:15:38 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2415/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "10814b2e",
-      "cat": "cultura",
-      "title": "Redução dos preços dos combustíveis? Partidos em desacordo",
-      "summary": "Carlos Pereira (PS) defende a descida imediata do ISP e João Graça (CH) exige um apoio urgente às famílias. Hugo Carneiro (PSD) diz que as medidas do Governo garantem um alívio real nas carteiras.",
+      "id": "b1c18480",
+      "cat": "tecnologia",
+      "title": "Passos Coelho respeita críticas, mas pede mais \"ousadia\"",
+      "summary": "Antigo primeiro-ministro responde às críticas de Leonor Beleza e afasta mal-estar com o PSD, mas volta a deixar recados a Luís Montenegro: “Era importante que ousasse mais”.",
       "source": "Observador",
-      "date": "Fri, 18 Sep 2026 18:54:53 +0100",
-      "url": "https://observador.pt/programas/explicador/reducao-dos-precos-dos-combustiveis-partidos-em-desacordo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
+      "date": "Sat, 19 Sep 2026 02:00:32 +0100",
+      "url": "https://observador.pt/programas/reportagem-observador/passos-coelho-respeita-criticas-mas-pede-mais-ousadia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/06143620/46660605.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "6281b615",
+      "cat": "tecnologia",
+      "title": "Cidades europeias partilham receitas para tornar a alimentação mais sustentável",
+      "summary": "A Fundação Mendes Gonçalves é a primeira entidade portuguesa a integrar a Organic Cities Network. Alimentação escolar, compras públicas e agricultura sustentável estão entre as áreas prioritárias.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 18 Sep 2026 22:08:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/cidades-europeias-partilham-receitas-para-tornar-a-alimentacao-mais-sustentavel",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-03/img_100x100uu2024-03-04-20-09-24-472208.jpg",
       "score": 0.73
     },
     {
@@ -223,28 +256,6 @@
       "score": 0.73
     },
     {
-      "id": "667d4702",
-      "cat": "tecnologia",
-      "title": "Wall Street dividida em dia de bruxaria tripla. Dow Jones tem pior semana desde março",
-      "summary": "Os três principais índices nova-iorquinos fecham sem rumo definido depois de uma semana turbulenta, com subidas de juros da dívida e dos preços do petróleo - bem como o primeiro aumento de taxas de juro da Fed desde 2023.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 18 Sep 2026 21:21:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-fecha-dividida-em-dia-de-bruxaria-tripla-dow-jones-tem-pior-semana-desde-marco",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-15-20-43-40-525211.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "96ec6dd6",
-      "cat": "economia",
-      "title": "Lucros da Infraestruturas de Portugal caem 44% penalizados por intempéries",
-      "summary": "O resultado líquido desceu para 43,8 milhões no primeiro semestre, contra 78,5 milhões registados no período homólogo, devido ao aumento da despesa com as obras de reconstrução realizadas após as tempestades do início do ano.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 18 Sep 2026 19:20:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/lucros-da-infraestruturas-de-portugal-caem-44-penalizados-por-intemperies",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-27-19-48-53-517414.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -256,6 +267,17 @@
       "score": 0.73
     },
     {
+      "id": "7d24f8e0",
+      "cat": "tecnologia",
+      "title": "`Bis` de Gustavo Varela vale primeiro triunfo da época ao Monza na Liga italiana",
+      "summary": "Um &#039;bis&#039; do jovem futebolista português Gustavo Varela valeu o primeiro triunfo da época ao Monza, à quinta jornada da Liga italiana de futebol, no êxito por 2-1 sobre o Sassuolo.",
+      "source": "RTP",
+      "date": "Fri, 18 Sep 2026 22:58:05 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/bis-de-gustavo-varela-vale-primeiro-triunfo-da-epoca-ao-monza-na-liga-italiana_d1766408",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/2a/2a8971cc55c58413baf9ddd2ae845dee?w=350&amp;q=50&amp;rect=0,38,1282,703&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "204e481a",
       "cat": "tecnologia",
       "title": "Borges admite falta de consistência do Sporting mas está \"otimista\"",
@@ -264,17 +286,6 @@
       "date": "Fri, 18 Sep 2026 15:37:31 +0100",
       "url": "https://www.rtp.pt/noticias/sporting/borges-admite-falta-de-consistencia-do-sporting-mas-esta-otimista_d1766330",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/9d/9d4704a419d745761f0d2cba4b492831?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "8d0d8676",
-      "cat": "tecnologia",
-      "title": "Adeptos do Torreense falam em vitória histórica",
-      "summary": "O Torreense fez história na Liga Europa. Venceu o Lillestrom, na Noruega, por 2-1. A estreia com uma vitória nas competições europeias foi vivida, de forma intensa, em Torres Vedras.",
-      "source": "RTP",
-      "date": "Fri, 18 Sep 2026 14:50:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/adeptos-do-torreense-falam-em-vitoria-historica_v1766313",
-      "img": "https://cdn-images.rtp.pt/icm/images/09/09512b59628a4e836fcac5461fab4177_N.jpg?",
       "score": 0.73
     },
     {
@@ -320,17 +331,6 @@
       "url": "https://reasonstobecheerful.world/the-spark-laundromat-libraries/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_501174550.jpg",
       "score": 0.73
-    },
-    {
-      "id": "05cd431d",
-      "cat": "cultura",
-      "title": "SV Elversberg, a partícula mais pequena da Bundesliga está a aproximar-se de Marte",
-      "summary": "É uma cidade com 7000 habitantes, com uma equipa que, em cinco anos, passou dos regionais para o futebol de elite. O estádio está em obras e, para já, os jogadores equipam-se em pré-fabricados.",
-      "source": "Público",
-      "date": "Fri, 18 Sep 2026 20:00:00 GMT",
-      "url": "https://www.publico.pt/2026/09/18/desporto/noticia/sv-elversberg-particula-bundesliga-aproximarse-marte-2188532",
-      "img": null,
-      "score": 0.7
     }
   ]
 }
