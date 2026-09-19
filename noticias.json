@@ -1,5 +1,5 @@
 {
-  "last_update": "19/09/2026 04:18 UTC",
+  "last_update": "19/09/2026 10:45 UTC",
   "total": 30,
   "news": [
     {
@@ -47,6 +47,17 @@
       "score": 0.82
     },
     {
+      "id": "75b908ff",
+      "cat": "tecnologia",
+      "title": "Trump anuncia acordo com a Dinamarca e a Gronelândia sobre segurança, investimento e defesa",
+      "summary": "Anúncio é feito depois de o Presidente dos EUA admitir, várias vezes, a possível anexação do território autónomo. Dinamarca e Gronelândia falam de um acordo positivo para os três — e para a NATO.",
+      "source": "Público",
+      "date": "Sat, 19 Sep 2026 07:37:20 GMT",
+      "url": "https://www.publico.pt/2026/09/19/mundo/noticia/trump-anuncia-acordo-dinamarca-gronelandia-seguranca-investimento-defesa-2188609",
+      "img": null,
+      "score": 0.79
+    },
+    {
       "id": "d41b06da",
       "cat": "tecnologia",
       "title": "Cataract Surgery Restores Sight for 54-Year-Old Chimpanzee–the First Such Procedure at Chimp Haven",
@@ -91,17 +102,6 @@
       "score": 0.79
     },
     {
-      "id": "79bbb9bd",
-      "cat": "tecnologia",
-      "title": "Não vale a pena fugir: o Estado apanha-nos sempre",
-      "summary": "Por vezes, até o cidadão mais prudente percebe, com horror, que vai mesmo ter de entabular um diálogo com o Estado. Primeiro, gela. Depois, sua. Por fim, procura uma cadeira porque as pernas tremem.",
-      "source": "Observador",
-      "date": "Sat, 19 Sep 2026 00:27:56 +0100",
-      "url": "https://observador.pt/opiniao/nao-vale-a-pena-fugir-o-estado-apanha-nos-sempre/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2124%3A2124%3Anowe%3A955%3A75%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151538%2Fjporfirio-retratos-redacao-2026-01-81-scaled.jpg",
-      "score": 0.76
-    },
-    {
       "id": "a613bcb6",
       "cat": "tecnologia",
       "title": "Trump anuncia acordo sobre Gronelândia que dá aos EUA “controlo permanente da segurança”",
@@ -110,17 +110,6 @@
       "date": "Fri, 18 Sep 2026 22:56:29 +0100",
       "url": "https://www.jornaldenegocios.pt/economia/europa/detalhe/trump-anuncia-acordo-sobre-gronelandia-que-da-aos-eua-controlo-permanente-da-seguranca",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-13-08-40-24-516311.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "9973c4c5",
-      "cat": "tecnologia",
-      "title": "Torreense recoloca Portugal em primeiro lugar no ranking da UEFA",
-      "summary": "A vitória do Torreense em solo norueguês, em jogo a contar para a Liga Europa, fez mexer o ranking anual da UEFA, que garante uma vaga extra para a próxima edição da Liga dos Campeões aos dois primeiros colocados. Portugal ocupa, agora, a primeira posição nesta corrida.",
-      "source": "RTP",
-      "date": "Fri, 18 Sep 2026 17:52:00 +0100",
-      "url": "https://www.rtp.pt/noticias/liga-europa/torreense-recoloca-portugal-em-primeiro-lugar-no-ranking-da-uefa_d1766350",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/46/460214ef76465266f0897a8831978904?w=350&amp;q=50&amp;rect=0,505,4261,2336&amp;auto=format",
       "score": 0.76
     },
     {
@@ -179,58 +168,25 @@
       "score": 0.76
     },
     {
-      "id": "6cb07860",
+      "id": "393fd813",
       "cat": "tecnologia",
-      "title": "Discordar sem sair da mesa",
-      "summary": "O Instituto Progresso nasce da ideia de que se pode discordar sem negar ao outro decência, e de que a civilidade pode conviver com o debate político sem destruir o chão comum onde nos movimentamos. Opinião de Bruno Matias",
-      "source": "Público",
-      "date": "Fri, 18 Sep 2026 23:05:00 GMT",
-      "url": "https://www.publico.pt/2026/09/19/opiniao/opiniao/discordar-sair-mesa-2188360",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "fc1eeeb0",
-      "cat": "geral",
-      "title": "Sindicato dos Jornalistas apela a boicote a declarações de Montenegro sem perguntas",
-      "summary": "Sindicato acusa primeiro-ministro de ter tornado habitual a realização de declarações públicas sem um período posterior para questões dos jornalistas.",
-      "source": "Público",
-      "date": "Fri, 18 Sep 2026 20:07:35 GMT",
-      "url": "https://www.publico.pt/2026/09/18/politica/noticia/sindicato-jornalistas-apela-boicote-declaracoes-montenegro-perguntas-2188597",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "bae9677e",
-      "cat": "cultura",
-      "title": "No banco de Antero de Quental, os Filhos de Alguém continuam à espera da Esperança",
-      "summary": "Peça que se estreia este sábado no Teatro Micaelense, em Ponta Delgada, é um retrato poético da marginalização, a partir do banco onde o escritor se suicidou.",
-      "source": "Público",
-      "date": "Fri, 18 Sep 2026 20:02:36 GMT",
-      "url": "https://www.publico.pt/2026/09/18/culturaipsilon/noticia/banco-antero-quental-filhos-alguem-continuam-espera-esperanca-2188561",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "578b9616",
-      "cat": "tecnologia",
-      "title": "2h. Passos Coelho relativiza críticas vindas do seio do PSD",
-      "summary": "O antigo primeiro-ministro vê com naturalidade as críticas de Leonor Beleza. Ainda, o Presidente da República recusou comentar as medidas anunciadas na quinta-feira pelo Governo.",
+      "title": "Montenegro aproveita ida aos EUA e promove laços comerciais",
+      "summary": "Primeiro-ministro vai aproveitar a deslocação aos Estados Unidos para participar na Assembleia Geral das Nações Unidas, para \"vincar a crescente importância dos laços económicos e comerciais\".",
       "source": "Observador",
-      "date": "Sat, 19 Sep 2026 02:15:38 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2415/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 19 Sep 2026 10:42:38 +0100",
+      "url": "https://observador.pt/2026/09/19/primeiro-ministro-aproveitara-deslocacao-aos-eua-para-vincar-lacos-economicos-e-comerciais/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:192/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/19095309/47789915.jpg",
       "score": 0.73
     },
     {
-      "id": "b1c18480",
+      "id": "ce502bb6",
       "cat": "tecnologia",
-      "title": "Passos Coelho respeita críticas, mas pede mais \"ousadia\"",
-      "summary": "Antigo primeiro-ministro responde às críticas de Leonor Beleza e afasta mal-estar com o PSD, mas volta a deixar recados a Luís Montenegro: “Era importante que ousasse mais”.",
-      "source": "Observador",
-      "date": "Sat, 19 Sep 2026 02:00:32 +0100",
-      "url": "https://observador.pt/programas/reportagem-observador/passos-coelho-respeita-criticas-mas-pede-mais-ousadia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/06143620/46660605.jpg",
+      "title": "Primeiro-ministro aproveitará deslocação aos EUA para \"vincar laços económicos e comerciais\" crescentes",
+      "summary": "Durante a próxima semana Luis Montenegro vai participar na 81.ª Assembleia Geral das Nações Unidas e será o convidado da Bolsa de Valores de Nova Iorque para a tradicional cerimónia do \"closing bell\".",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 19 Sep 2026 10:31:28 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/primeiro-ministro-aproveitara-deslocacao-aos-eua-para-vincar-lacos-economicos-e-comerciais-crescentes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-04-14-08-37-527697.jpg",
       "score": 0.73
     },
     {
@@ -245,17 +201,6 @@
       "score": 0.73
     },
     {
-      "id": "2bc0b05c",
-      "cat": "tecnologia",
-      "title": "Barómetro: Luís Neves passa de melhor a pior ministro e afunda \"prestígio\" de Montenegro",
-      "summary": "As polémicas em torno de Luís Neves tiveram impacto na avaliação que é feita ao ministro da Administração Interna. Mas os efeitos também se alastram ao primeiro-ministro. Maioria dos inquiridos defende que Neves deve ser demitido.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 18 Sep 2026 21:32:21 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-luis-neves-passa-de-melhor-a-pior-ministro-e-afunda-prestigio-de-montenegro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-08-10-42-52-529220.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -267,9 +212,31 @@
       "score": 0.73
     },
     {
+      "id": "a4da8bfa",
+      "cat": "tecnologia",
+      "title": "Holub ganhou tempo com adeus à natação para fazer \"coisas incríveis\" como o esqui",
+      "summary": "Tamila Holub ganhou tempo quando abandonou a natação, ocupando-o agora com os treinos para estar nos Jogos Olímpicos de Inverno2030, um desafio bem recebido pelo Comité Olímpico de Portugal e para o qual ainda procura apoios.",
+      "source": "RTP",
+      "date": "Sat, 19 Sep 2026 10:40:20 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/holub-ganhou-tempo-com-adeus-a-natacao-para-fazer-coisas-incriveis-como-o-esqui_d1766454",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "2885da6d",
+      "cat": "tecnologia",
+      "title": "Sporting obrigado a vencer Arouca para se aproximar da liderança",
+      "summary": "O Sporting está hoje obrigado a regressar às vitórias na receção ao Arouca para se aproximar, provisoriamente, da liderança da I Liga portuguesa de futebol, numa sétima jornada em que os rivais FC Porto e Benfica se defrontam.",
+      "source": "RTP",
+      "date": "Sat, 19 Sep 2026 09:46:47 +0100",
+      "url": "https://www.rtp.pt/noticias/sporting/sporting-obrigado-a-vencer-arouca-para-se-aproximar-da-lideranca_d1766439",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/10/10eaa80e1b18546a845a3b50f8180258?w=350&amp;q=50&amp;rect=0,19,1232,675&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "7d24f8e0",
       "cat": "tecnologia",
-      "title": "`Bis` de Gustavo Varela vale primeiro triunfo da época ao Monza na Liga italiana",
+      "title": "\"Bis\" de Gustavo Varela vale primeiro triunfo da época ao Monza na Liga italiana",
       "summary": "Um &#039;bis&#039; do jovem futebolista português Gustavo Varela valeu o primeiro triunfo da época ao Monza, à quinta jornada da Liga italiana de futebol, no êxito por 2-1 sobre o Sassuolo.",
       "source": "RTP",
       "date": "Fri, 18 Sep 2026 22:58:05 +0100",
@@ -278,14 +245,14 @@
       "score": 0.73
     },
     {
-      "id": "204e481a",
+      "id": "b1cbca0f",
       "cat": "tecnologia",
-      "title": "Borges admite falta de consistência do Sporting mas está \"otimista\"",
-      "summary": "O treinador do Sporting admite que o Sporting tem de ser “mais consistente” na I Liga, mas revela-se otimista e classifica o trabalho da sua equipa técnica como “muito positivo”.",
-      "source": "RTP",
-      "date": "Fri, 18 Sep 2026 15:37:31 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/borges-admite-falta-de-consistencia-do-sporting-mas-esta-otimista_d1766330",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/9d/9d4704a419d745761f0d2cba4b492831?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "title": "Montenegro toca sino de fecho da bolsa de Nova Iorque na terça-feira",
+      "summary": "O primeiro-ministro vai aproveitar a deslocação aos Estados Unidos, na próxima semana, durante a qual participa na 81.ª Assembleia Geral das Nações Unidas, para &#8220;vincar a crescente importância dos laços económicos e comerciais&#8221; com este país. Um dos momentos altos é a participação na cer",
+      "source": "ECO",
+      "date": "Sat, 19 Sep 2026 09:44:56 +0000",
+      "url": "https://eco.sapo.pt/2026/09/19/montenegro-toca-sino-de-fecho-da-bolsa-de-nova-iorque-na-terca-feira/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47220656-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -331,6 +298,39 @@
       "url": "https://reasonstobecheerful.world/the-spark-laundromat-libraries/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_501174550.jpg",
       "score": 0.73
+    },
+    {
+      "id": "b0348972",
+      "cat": "tecnologia",
+      "title": "A importância (e a magia) das bibliotecas itinerantes",
+      "summary": "O Sr. Loisas fechou a loja e, numa carripana-biblioteca amarela, fez chegar livros lá longe. Conseguiu assim tornar lugares e pessoas mais felizes.",
+      "source": "Público",
+      "date": "Sat, 19 Sep 2026 09:10:00 GMT",
+      "url": "https://www.publico.pt/2026/09/19/impar/noticia/importancia-magia-bibliotecas-itinerantes-2188457",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "08a4c105",
+      "cat": "tecnologia",
+      "title": "Casa do Frango: no Parque das Nações, um elogio ao que é nacional",
+      "summary": "Ainda não fez um ano desde a abertura, mas há traços que nos lembra as velhas churrasqueiras, como a toalha de papel ou as travessas de inox.",
+      "source": "Público",
+      "date": "Sat, 19 Sep 2026 08:41:00 GMT",
+      "url": "https://www.publico.pt/2026/09/19/fugas/noticia/casa-frango-parque-nacoes-elogio-nacional-2187569",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "45520c3d",
+      "cat": "tecnologia",
+      "title": "Montenegro ativa o sino que fecha a bolsa de Nova Iorque",
+      "summary": "Luís Montenegro vai participar pela segunda vez na Assembleia Geral das Nações Unidas, em Nova Iorque, na próxima semana. E vai acionar o sino que marca o fecho da bolsa de Nova Iorque.",
+      "source": "Observador",
+      "date": "Sat, 19 Sep 2026 11:12:19 +0100",
+      "url": "https://observador.pt/2026/09/19/montenegro-vai-ativar-o-sino-que-marca-o-fecho-da-bolsa-de-nova-iorque/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/17174356/47789920.jpg",
+      "score": 0.7
     }
   ]
 }
