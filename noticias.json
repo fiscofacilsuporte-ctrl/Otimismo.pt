@@ -1,5 +1,5 @@
 {
-  "last_update": "19/09/2026 10:45 UTC",
+  "last_update": "19/09/2026 15:46 UTC",
   "total": 30,
   "news": [
     {
@@ -47,17 +47,6 @@
       "score": 0.82
     },
     {
-      "id": "75b908ff",
-      "cat": "tecnologia",
-      "title": "Trump anuncia acordo com a Dinamarca e a Gronelândia sobre segurança, investimento e defesa",
-      "summary": "Anúncio é feito depois de o Presidente dos EUA admitir, várias vezes, a possível anexação do território autónomo. Dinamarca e Gronelândia falam de um acordo positivo para os três — e para a NATO.",
-      "source": "Público",
-      "date": "Sat, 19 Sep 2026 07:37:20 GMT",
-      "url": "https://www.publico.pt/2026/09/19/mundo/noticia/trump-anuncia-acordo-dinamarca-gronelandia-seguranca-investimento-defesa-2188609",
-      "img": null,
-      "score": 0.79
-    },
-    {
       "id": "d41b06da",
       "cat": "tecnologia",
       "title": "Cataract Surgery Restores Sight for 54-Year-Old Chimpanzee–the First Such Procedure at Chimp Haven",
@@ -102,14 +91,14 @@
       "score": 0.79
     },
     {
-      "id": "a613bcb6",
-      "cat": "tecnologia",
-      "title": "Trump anuncia acordo sobre Gronelândia que dá aos EUA “controlo permanente da segurança”",
-      "summary": "O Presidente dos EUA refere que será proibida no território sob administração dinamarquesa qualquer presença militar ou investimentos sensíveis de países \"adversários\".",
+      "id": "8411d2c7",
+      "cat": "sociedade",
+      "title": "O que é a \"windfall tax\" em cinco perguntas e respostas",
+      "summary": "A proposta de lei do Governo para a criação de uma nova contribuição de solidariedade temporária sobre o setor petrolífero pretende aplicar uma taxa de 33% sobre os lucros extraordinários, utilizando o dinheiro para mitigar os efeitos da subida dos combustíveis. O explicador da semana esclarece a me",
       "source": "Jornal de Negócios",
-      "date": "Fri, 18 Sep 2026 22:56:29 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/europa/detalhe/trump-anuncia-acordo-sobre-gronelandia-que-da-aos-eua-controlo-permanente-da-seguranca",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-13-08-40-24-516311.jpg",
+      "date": "Sat, 19 Sep 2026 15:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/o-que-e-a-windfall-tax-em-cinco-perguntas-e-respostas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-17-15-41-31-529660.png",
       "score": 0.76
     },
     {
@@ -168,36 +157,80 @@
       "score": 0.76
     },
     {
-      "id": "393fd813",
+      "id": "90e2221c",
       "cat": "tecnologia",
-      "title": "Montenegro aproveita ida aos EUA e promove laços comerciais",
-      "summary": "Primeiro-ministro vai aproveitar a deslocação aos Estados Unidos para participar na Assembleia Geral das Nações Unidas, para \"vincar a crescente importância dos laços económicos e comerciais\".",
+      "title": "Nem “voluntarista nem “pai da austeridade”: a promessa de Luís Montenegro",
+      "summary": "Primeiro-ministro reiterou não trocar a política do seu Governo e revelou estar a trabalhar para que Portugal tenha mais receitas no próximo orçamento da UE, recusando fazê-lo “de mão estendida”.",
+      "source": "Público",
+      "date": "Sat, 19 Sep 2026 13:30:47 GMT",
+      "url": "https://www.publico.pt/2026/09/19/politica/noticia/voluntarista-pai-austeridade-promessa-luis-montenegro-2188638",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "28d5196b",
+      "cat": "tecnologia",
+      "title": "Ouro da Venezuela quase a caminho dos Estados Unidos",
+      "summary": "Governo e oposição negoceiam transferência das reservas, no valor de cerca de 3500 milhões de euros, de Londres para Nova Iorque. Caracas só poderá usá-lo para aceder a créditos internacionais.",
+      "source": "Público",
+      "date": "Sat, 19 Sep 2026 11:28:32 GMT",
+      "url": "https://www.publico.pt/2026/09/19/mundo/noticia/ouro-venezuela-quase-caminho-estados-unidos-2188626",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "5c0ba663",
+      "cat": "tecnologia",
+      "title": "\"O fim dos tratamentos não significa o fim do sofrimento\"",
+      "summary": "Depois de um cancro, a vida nem sempre volta ao que era: a dor e as sequelas físicas e emocionais podem permanecer. A oncologista Isabel Fernandes acompanha quem está doente e quem sobrevive.",
       "source": "Observador",
-      "date": "Sat, 19 Sep 2026 10:42:38 +0100",
-      "url": "https://observador.pt/2026/09/19/primeiro-ministro-aproveitara-deslocacao-aos-eua-para-vincar-lacos-economicos-e-comerciais/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:192/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/19095309/47789915.jpg",
+      "date": "Sat, 19 Sep 2026 14:29:44 +0100",
+      "url": "https://observador.pt/especiais/cancro-o-fim-dos-tratamentos-nao-significa-o-fim-do-sofrimento/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2278:1278:nowe:222:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/15133513/ts154a3357.jpg",
       "score": 0.73
     },
     {
-      "id": "ce502bb6",
+      "id": "7f03bcf9",
       "cat": "tecnologia",
-      "title": "Primeiro-ministro aproveitará deslocação aos EUA para \"vincar laços económicos e comerciais\" crescentes",
-      "summary": "Durante a próxima semana Luis Montenegro vai participar na 81.ª Assembleia Geral das Nações Unidas e será o convidado da Bolsa de Valores de Nova Iorque para a tradicional cerimónia do \"closing bell\".",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 19 Sep 2026 10:31:28 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/primeiro-ministro-aproveitara-deslocacao-aos-eua-para-vincar-lacos-economicos-e-comerciais-crescentes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-04-14-08-37-527697.jpg",
+      "title": "Luís Montenegro. \"Não vou ser o pai da austeridade\"",
+      "summary": "Primeiro-ministro recusa \"ilusão\" de apoios que contrariem subida dos combustíveis. E recusa medidas \"facilitistas\" que no passado pressionaram as contas públicas. \"Não vou ser o pai da austeridade\".",
+      "source": "Observador",
+      "date": "Sat, 19 Sep 2026 13:42:45 +0100",
+      "url": "https://observador.pt/2026/09/19/montenegro-recusa-ser-o-pai-da-austeridade-por-ajudas-facilistas-aos-combustiveis-mais-5-ou-10-centimos-vao-alterar-vida-das-pessoas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/05225123/47387081.jpg",
       "score": 0.73
     },
     {
-      "id": "6281b615",
+      "id": "226cb248",
       "cat": "tecnologia",
-      "title": "Cidades europeias partilham receitas para tornar a alimentação mais sustentável",
-      "summary": "A Fundação Mendes Gonçalves é a primeira entidade portuguesa a integrar a Organic Cities Network. Alimentação escolar, compras públicas e agricultura sustentável estão entre as áreas prioritárias.",
+      "title": "Dívida pública francesa subirá para recorde en 2027",
+      "summary": "O nível de endividamento de França vai continuar a aumentar, atingindo 119,3% do Produto Interno Bruto (PIB) em 2026 e 121,7% em 2027, níveis recorde.",
+      "source": "Observador",
+      "date": "Sat, 19 Sep 2026 13:13:29 +0100",
+      "url": "https://observador.pt/2026/09/19/divida-publica-francesa-subira-para-um-recorde-de-ate-1217-do-pib-em-2027/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/19124827/47483761.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "cf0831a7",
+      "cat": "tecnologia",
+      "title": "Luís Montenegro diz que não será \"o pai da austeridade\"",
+      "summary": "Primeiro-ministro reitera que o Governo não alinhará em medidas facilitistas e voluntaristas que tornariam o dinheiro mais caro para Portugal.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 18 Sep 2026 22:08:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/cidades-europeias-partilham-receitas-para-tornar-a-alimentacao-mais-sustentavel",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-03/img_100x100uu2024-03-04-20-09-24-472208.jpg",
+      "date": "Sat, 19 Sep 2026 15:49:48 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/luis-montenegro-diz-que-nao-sera-o-pai-da-austeridade",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-25-20-27-00-519170.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "434710a7",
+      "cat": "tecnologia",
+      "title": "Subenshi: o império nascido na ria",
+      "summary": "O restaurante em Gaia marca a primeira experiência desenhada como um todo. Moliceiro dourado, DJ, vista para o Douro e o Kaitai Show reforçam a ambição de levar a marca ao mundo.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 19 Sep 2026 13:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/subenshi-o-imperio-nascido-na-ria",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-18-32-42-529767.jpg",
       "score": 0.73
     },
     {
@@ -212,69 +245,69 @@
       "score": 0.73
     },
     {
-      "id": "a4da8bfa",
+      "id": "63ba5233",
       "cat": "tecnologia",
-      "title": "Holub ganhou tempo com adeus à natação para fazer \"coisas incríveis\" como o esqui",
-      "summary": "Tamila Holub ganhou tempo quando abandonou a natação, ocupando-o agora com os treinos para estar nos Jogos Olímpicos de Inverno2030, um desafio bem recebido pelo Comité Olímpico de Portugal e para o qual ainda procura apoios.",
+      "title": "Farioli destaca a importância do clássico \"para a cidade, clube e adeptos\"",
+      "summary": "O treinador do FC Porto, Francesco Farioli, negou hoje que o primeiro clássico da temporada frente ao Benfica, no domingo, seja &quot;decisivo&quot; nas contas da I Liga de futebol, mas assume que tem um significado importante.",
       "source": "RTP",
-      "date": "Sat, 19 Sep 2026 10:40:20 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/holub-ganhou-tempo-com-adeus-a-natacao-para-fazer-coisas-incriveis-como-o-esqui_d1766454",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "date": "Sat, 19 Sep 2026 15:47:54 +0100",
+      "url": "https://www.rtp.pt/noticias/benfica/farioli-destaca-a-importancia-do-classico-para-a-cidade-clube-e-adeptos_d1766487",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/60/60201e5806163ac44ba50a538e130923?w=350&amp;q=50&amp;rect=0,152,4039,2214&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "2885da6d",
+      "id": "f2839b1e",
       "cat": "tecnologia",
-      "title": "Sporting obrigado a vencer Arouca para se aproximar da liderança",
-      "summary": "O Sporting está hoje obrigado a regressar às vitórias na receção ao Arouca para se aproximar, provisoriamente, da liderança da I Liga portuguesa de futebol, numa sétima jornada em que os rivais FC Porto e Benfica se defrontam.",
+      "title": "Sporting quer regressar às vitórias diante do Arouca",
+      "summary": "O Sporting joga este sábado com o Arouca em Alvalade.",
       "source": "RTP",
-      "date": "Sat, 19 Sep 2026 09:46:47 +0100",
-      "url": "https://www.rtp.pt/noticias/sporting/sporting-obrigado-a-vencer-arouca-para-se-aproximar-da-lideranca_d1766439",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/10/10eaa80e1b18546a845a3b50f8180258?w=350&amp;q=50&amp;rect=0,19,1232,675&amp;auto=format",
+      "date": "Sat, 19 Sep 2026 15:05:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/sporting-quer-regressar-as-vitorias-diante-do-arouca_v1766482",
+      "img": "https://cdn-images.rtp.pt/icm/images/6e/6e88914c8bc1b41050d4e40c26e6f4ef_N.jpg?",
       "score": 0.73
     },
     {
-      "id": "7d24f8e0",
+      "id": "28dee6bd",
       "cat": "tecnologia",
-      "title": "\"Bis\" de Gustavo Varela vale primeiro triunfo da época ao Monza na Liga italiana",
-      "summary": "Um &#039;bis&#039; do jovem futebolista português Gustavo Varela valeu o primeiro triunfo da época ao Monza, à quinta jornada da Liga italiana de futebol, no êxito por 2-1 sobre o Sassuolo.",
+      "title": "Benfica vai discutir no Dragão a liderança da Liga",
+      "summary": "Uma eventual vitória dos encarnados permite-lhes ultrapassar o Porto.",
       "source": "RTP",
-      "date": "Fri, 18 Sep 2026 22:58:05 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/bis-de-gustavo-varela-vale-primeiro-triunfo-da-epoca-ao-monza-na-liga-italiana_d1766408",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/2a/2a8971cc55c58413baf9ddd2ae845dee?w=350&amp;q=50&amp;rect=0,38,1282,703&amp;auto=format",
+      "date": "Sat, 19 Sep 2026 15:01:53 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/benfica-vai-discutir-no-dragao-a-lideranca-da-liga_v1766481",
+      "img": "https://cdn-images.rtp.pt/icm/images/26/26ed591c62237916861de466eb69d516_N.jpg?",
       "score": 0.73
     },
     {
-      "id": "b1cbca0f",
+      "id": "4592f010",
+      "cat": "desporto",
+      "title": "Da bicicleta ao transporte público, mobilidade sustentável “acelera” de Bragança a Lisboa",
+      "summary": "Expandir e ligar “com segurança” as redes pedonal e ciclável, reforçar a intermodalidade, melhorar a oferta de transportes públicos e retirar espaço ao automóvel. É este o caminho que Lisboa quer seguir na mobilidade, nos próximos anos, para reduzir o ruído, o congestionamento e as emissões, além de",
+      "source": "ECO",
+      "date": "Sat, 19 Sep 2026 14:51:38 +0000",
+      "url": "https://eco.sapo.pt/2026/09/19/da-bicicleta-ao-transporte-publico-mobilidade-sustentavel-acelera-de-braganca-a-lisboa/",
+      "img": "https://eco.imgix.net/uploads/2022/05/cropped-ciclovia-almirantre-reis12.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "e45c988a",
       "cat": "tecnologia",
-      "title": "Montenegro toca sino de fecho da bolsa de Nova Iorque na terça-feira",
-      "summary": "O primeiro-ministro vai aproveitar a deslocação aos Estados Unidos, na próxima semana, durante a qual participa na 81.ª Assembleia Geral das Nações Unidas, para &#8220;vincar a crescente importância dos laços económicos e comerciais&#8221; com este país. Um dos momentos altos é a participação na cer",
+      "title": "Luís Montenegro diz que não será “o pai da austeridade”",
+      "summary": "O primeiro-ministro, Luís Montenegro, afirmou este sábado que não será &#8220;o pai da austeridade&#8221;, mas sublinhou que o Governo não alinhará em medidas facilitistas e voluntaristas que tornariam o dinheiro mais caro para Portugal. &#8220;Se nós desequilibrarmos as contas, se nós formos demasi",
       "source": "ECO",
-      "date": "Sat, 19 Sep 2026 09:44:56 +0000",
-      "url": "https://eco.sapo.pt/2026/09/19/montenegro-toca-sino-de-fecho-da-bolsa-de-nova-iorque-na-terca-feira/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-47220656-scaled-1.jpg",
+      "date": "Sat, 19 Sep 2026 14:16:32 +0000",
+      "url": "https://eco.sapo.pt/2026/09/19/luis-montenegro-diz-que-nao-sera-o-pai-da-austeridade/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc2026053047204742mar-4801-1.jpg",
       "score": 0.73
     },
     {
-      "id": "de8338e2",
+      "id": "00671d7e",
       "cat": "tecnologia",
-      "title": "Kylian Mbappé troca Nike pela suíça On",
-      "summary": "A parceria comercial que unia Kylian Mbappé à Nike terminou ao fim de duas décadas. O jogador francês juntou-se à suíça On, que tem o tenista Roger Federer entre os acionistas, e conseguiu ganhar espaço no universo de futebol ao mesmo tempo que desferiu um importante golpe na marca norte-americana, ",
+      "title": "Canábis medicinal: O país que exporta o que não quer discutir",
+      "summary": "Portugal exportou quase 80 toneladas de canábis medicinal em 2025 — 79.883 quilos, mais 156% do que no ano anterior e oito vezes mais do que em 2022, segundo os relatórios oficiais do Infarmed. O ritmo tem vindo a acelerar: só no primeiro semestre de 2026 saíram 66 toneladas. Em 2024, o Infarmed já ",
       "source": "ECO",
-      "date": "Fri, 18 Sep 2026 18:55:51 +0000",
-      "url": "https://eco.sapo.pt/2026/09/18/kylian-mbappe-troca-nike-pela-suica-on/",
-      "img": "https://eco.imgix.net/uploads/2022/12/cropped-doc-20221218-40020007-10372547.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "b212d45f",
-      "cat": "economia",
-      "title": "Tempestades afundam lucros da IP em 44,2% no primeiro semestre",
-      "summary": "A Infraestruturas de Portugal (IP) apresentou um resultado líquido de 43,8 milhões de euros no primeiro semestre deste ano, uma quebra de 44,2% face aos 78,5 milhões que tinha registado em igual período do ano passado. A empresa pública frisa que este recuo nos lucros, equivalente a 7,2% do volume d",
-      "source": "ECO",
-      "date": "Fri, 18 Sep 2026 18:09:49 +0000",
-      "url": "https://eco.sapo.pt/2026/09/18/reparacoes-das-tempestades-afundam-lucros-da-ip-em-442-no-primeiro-semestre/",
-      "img": "https://eco.imgix.net/uploads/2026/02/cropped-cropped-doc2026021246545726miguelalopes-3.jpg",
+      "date": "Sat, 19 Sep 2026 13:58:03 +0000",
+      "url": "https://eco.sapo.pt/opiniao/canabis-medicinal-o-pais-que-exporta-o-que-nao-quer-discutir/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/09/bruno-mourao-martins-opiniao.png",
       "score": 0.73
     },
     {
@@ -298,39 +331,6 @@
       "url": "https://reasonstobecheerful.world/the-spark-laundromat-libraries/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_501174550.jpg",
       "score": 0.73
-    },
-    {
-      "id": "b0348972",
-      "cat": "tecnologia",
-      "title": "A importância (e a magia) das bibliotecas itinerantes",
-      "summary": "O Sr. Loisas fechou a loja e, numa carripana-biblioteca amarela, fez chegar livros lá longe. Conseguiu assim tornar lugares e pessoas mais felizes.",
-      "source": "Público",
-      "date": "Sat, 19 Sep 2026 09:10:00 GMT",
-      "url": "https://www.publico.pt/2026/09/19/impar/noticia/importancia-magia-bibliotecas-itinerantes-2188457",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "08a4c105",
-      "cat": "tecnologia",
-      "title": "Casa do Frango: no Parque das Nações, um elogio ao que é nacional",
-      "summary": "Ainda não fez um ano desde a abertura, mas há traços que nos lembra as velhas churrasqueiras, como a toalha de papel ou as travessas de inox.",
-      "source": "Público",
-      "date": "Sat, 19 Sep 2026 08:41:00 GMT",
-      "url": "https://www.publico.pt/2026/09/19/fugas/noticia/casa-frango-parque-nacoes-elogio-nacional-2187569",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "45520c3d",
-      "cat": "tecnologia",
-      "title": "Montenegro ativa o sino que fecha a bolsa de Nova Iorque",
-      "summary": "Luís Montenegro vai participar pela segunda vez na Assembleia Geral das Nações Unidas, em Nova Iorque, na próxima semana. E vai acionar o sino que marca o fecho da bolsa de Nova Iorque.",
-      "source": "Observador",
-      "date": "Sat, 19 Sep 2026 11:12:19 +0100",
-      "url": "https://observador.pt/2026/09/19/montenegro-vai-ativar-o-sino-que-marca-o-fecho-da-bolsa-de-nova-iorque/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/17174356/47789920.jpg",
-      "score": 0.7
     }
   ]
 }
