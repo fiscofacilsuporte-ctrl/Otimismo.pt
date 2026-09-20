@@ -1,5 +1,5 @@
 {
-  "last_update": "19/09/2026 20:27 UTC",
+  "last_update": "20/09/2026 04:36 UTC",
   "total": 30,
   "news": [
     {
@@ -36,14 +36,14 @@
       "score": 0.82
     },
     {
-      "id": "bc57d058",
-      "cat": "ambiente",
-      "title": "Scientists discover a mysterious new frog hiding in the Amazon",
-      "summary": "Scientists discovered a new frog species in the flooded forests of the western Amazon, distinguishing it from nearly identical relatives through DNA and its unique call. Adenomera varcena highlights how much Amazonian biodiversity remains hidden even as habitat loss and climate change threaten these",
+      "id": "84dbdd6e",
+      "cat": "ciencia",
+      "title": "Scientists discover the first diplodocus ever found outside North America",
+      "summary": "A 150-million-year-old dinosaur fossil from Spain has been identified as the first confirmed Diplodocus ever found outside North America. The giant sauropod measured about 25 meters long and was preserved well enough for researchers to match distinctive features in its tail bones to the famous genus",
       "source": "ScienceDaily",
-      "date": "Thu, 17 Sep 2026 10:08:44 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
-      "img": "https://www.sciencedaily.com/images/1920/neotropical-amphibian.webp",
+      "date": "Fri, 18 Sep 2026 22:51:08 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260918024807.htm",
+      "img": "https://www.sciencedaily.com/images/1920/diplodocus-illustration.webp",
       "score": 0.82
     },
     {
@@ -80,15 +80,26 @@
       "score": 0.79
     },
     {
-      "id": "1d8aee98",
-      "cat": "ciencia",
-      "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
-      "summary": "NASA’s Roman Space Telescope may now have enough fuel for at least 22 years of science, more than double its original 10 year design life. An extremely precise course correction, extra fuel at launch, and additional expected savings could keep the powerful observatory studying the universe for decad",
-      "source": "ScienceDaily",
-      "date": "Fri, 18 Sep 2026 07:31:56 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
-      "img": "https://www.sciencedaily.com/images/1920/nasa-roman-space-telescope-delta-v-thrusters.webp",
-      "score": 0.79
+      "id": "d059c817",
+      "cat": "tecnologia",
+      "title": "4h. NATO saúda acordo sobre a Gronelândia",
+      "summary": "Um porta-voz da NATO afirmou à BBC que a aliança militar acolheu favoravelmente o acordo. Ainda, André Ventura garante que \"está pronto\" para ser primeiro-ministro.",
+      "source": "Observador",
+      "date": "Sun, 20 Sep 2026 04:14:54 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2406/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.76
+    },
+    {
+      "id": "072d53a5",
+      "cat": "tecnologia",
+      "title": "3h. Combate ao fogo em Coimbra entrou em resolução",
+      "summary": "Mais de 600 operacionais permanecem no local. Ainda, André Ventura garante que está pronto para ser primeiro ministro.",
+      "source": "Observador",
+      "date": "Sun, 20 Sep 2026 03:15:58 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2442/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.76
     },
     {
       "id": "df18256b",
@@ -113,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "f8256d02",
+      "cat": "desporto",
+      "title": "New York City is Putting ‘The Park’ Back in Park Avenue – And Adding a Protected Bike Lane (LOOK)",
+      "summary": "Until the 1920s Park Avenue in Manhattan actually park running through it. Now, New York City has unveiled a new plan for transforming Park Avenue back into its original natural character, adding trees, benches, and a protected bike lane. Mayor Mamdani and the NYC Department of Transportation are up",
+      "source": "Good News Network",
+      "date": "Sat, 19 Sep 2026 21:56:51 +0000",
+      "url": "https://www.goodnewsnetwork.org/new-york-city-is-putting-the-park-back-in-park-avenue/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Park-Avenue-redesign-in-NYC-Credit-Starr-Whitehouse-Landscape-Architects-and-Planners.jpeg",
+      "score": 0.76
+    },
+    {
       "id": "c7dae6a7",
       "cat": "tecnologia",
       "title": "Unsealed for the First Time, This 600-yo Tomb in Peru Was Just Declared the ‘Discovery of the Decade’",
@@ -121,17 +143,6 @@
       "date": "Fri, 18 Sep 2026 15:30:26 +0000",
       "url": "https://www.goodnewsnetwork.org/unsealed-for-the-first-time-this-600-yo-tomb-in-peru-was-just-declared-the-discovery-of-the-decade/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-newly-discovered-tomb-seen-in-the-center-©-ANDINA-Editora-Peru.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "b330e56a",
-      "cat": "tecnologia",
-      "title": "New Cat Species Identified for the First Time in Over 100 Years–Meet the Tilcayo",
-      "summary": "In a story that proves &#8216;explorer&#8217; is still a good answer to the question &#8220;what do you want to be when you grow up?&#8221; a whole new cat species has been identified for the first time in over 100 years. Found in Bolivia, the animal is smaller than the average housecat, but now ent",
-      "source": "Good News Network",
-      "date": "Fri, 18 Sep 2026 08:45:29 +0000",
-      "url": "https://www.goodnewsnetwork.org/new-cat-species-identified-for-the-first-time-in-over-100-years-meet-the-tilcayo/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/imrs-e1789720878162.jpg",
       "score": 0.76
     },
     {
@@ -157,6 +168,17 @@
       "score": 0.76
     },
     {
+      "id": "213c7561",
+      "cat": "ciencia",
+      "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
+      "summary": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake, Lielaphis slashi, is a species scientists had never formally recognized before. ",
+      "source": "ScienceDaily",
+      "date": "Fri, 18 Sep 2026 08:07:03 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
+      "img": "https://www.sciencedaily.com/images/1920/slashi-snake.webp",
+      "score": 0.76
+    },
+    {
       "id": "8fa1b449",
       "cat": "tecnologia",
       "title": "The ‘National Park’ That Stretches From Coast to Coast",
@@ -168,69 +190,36 @@
       "score": 0.76
     },
     {
-      "id": "2e84505d",
+      "id": "37c4e0a4",
       "cat": "tecnologia",
-      "title": "Macron e Carney desafiam Trump numa ilha francesa da América do Norte",
-      "summary": "Presidente francês está em São Pedro e Miquelão, único território ultramarino francês na América do Norte, e recebe este domingo o primeiro-ministro canadiano no arquipélago ao largo do Canadá.",
+      "title": "O PISA depois da espuma dos dias",
+      "summary": "O imperativo democrático exige escolas públicas de qualidade. Não se condene mais gerações de estudantes e professores. Em termos históricos, como se comprova, vinte anos são um piscar de olhos. Opinião de Paulo Prudêncio",
       "source": "Público",
-      "date": "Sat, 19 Sep 2026 19:02:06 GMT",
-      "url": "https://www.publico.pt/2026/09/19/mundo/noticia/macron-carney-desafiam-trump-ilha-francesa-america-norte-2188666",
+      "date": "Sat, 19 Sep 2026 23:05:00 GMT",
+      "url": "https://www.publico.pt/2026/09/20/opiniao/opiniao/pisa-espuma-dias-2188365",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "87de922d",
+      "id": "1a69c05c",
       "cat": "tecnologia",
-      "title": "Novo apoio aos autocarros surge quando o primeiro ainda está por arrancar",
-      "summary": "Candidaturas ao apoio oficializado a 29 de Junho só devem abrir para a semana. Associação Nacional de Transportes de Passageiros diz que “atraso está a causar graves problemas de tesouraria”.",
+      "title": "Uma pessoa morreu num tiroteio no Bairro da Serafina, em Lisboa",
+      "summary": "A investigação está a cargo da Polícia Judiciária.",
       "source": "Público",
-      "date": "Sat, 19 Sep 2026 18:50:00 GMT",
-      "url": "https://www.publico.pt/2026/09/19/economia/noticia/novo-apoio-autocarros-surge-arrancar-2188651",
+      "date": "Sat, 19 Sep 2026 23:01:12 GMT",
+      "url": "https://www.publico.pt/2026/09/20/local/noticia/pessoa-morreu-tiroteio-bairro-serafina-lisboa-2188682",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "00e5bc2e",
+      "id": "8329d6c5",
       "cat": "tecnologia",
-      "title": "Do RER ao MK: as siglas de Manu Koné",
-      "summary": "O jogador francês, MK para os amigos, construiu uma carreira à base de talento, memória e personalidade. Dentro e fora do campo, sabe como conquistar adeptos.",
-      "source": "Público",
-      "date": "Sat, 19 Sep 2026 18:37:31 GMT",
-      "url": "https://www.publico.pt/2026/09/19/desporto/noticia/rer-mk-siglas-manu-kone-2188667",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "664a153e",
-      "cat": "tecnologia",
-      "title": "Centeno critica Marcelo por ter dado posse a Governo",
-      "summary": "Mário Centeno intervinha esta tarde na primeira conferência do Instituto Progresso e recordando as seis legislaturas interrompidas que Portugal teve no século XXI.",
+      "title": "Isto não é uma legenda. É um epitáfio sobre o Ocidente.",
+      "summary": "Um defensor de Bin Laden, dos atacantes do 7 de Outubro e da poligamia acompanhado por uma mulher que usa niqab, a receber em Londres das mãos da Arcebispa de Cantuária um prémio no dia 11 de Setembro",
       "source": "Observador",
-      "date": "Sat, 19 Sep 2026 19:02:34 +0100",
-      "url": "https://observador.pt/2026/09/19/centeno-critica-marcelo-por-ter-dado-posse-a-governo-sem-apoio-parlamentar-e-elogia-cavaco-em-2015-c-audio/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/07120423/45009626.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "11545399",
-      "cat": "tecnologia",
-      "title": "O entusiasmo era tanto que a energia positiva dividiu-se",
-      "summary": "Num jogo intenso e com muitos duelos físicos, a Roma começou melhor com Koné em destaque, mas Lautaro liderou a reação do campeão, por entre as mudanças falhadas de Gasperini (2-2). Mora não entrou.",
-      "source": "Observador",
-      "date": "Sat, 19 Sep 2026 19:02:16 +0100",
-      "url": "https://observador.pt/2026/09/19/o-entusiasmo-era-tanto-que-a-energia-positiva-dividiu-se-por-roma-e-milao-kone-e-lautaro-bisaram-e-deixaram-lideranca-totalmente-em-aberto/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:98/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/19185835/gettyimages-2296098862-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "0fc6db31",
-      "cat": "desporto",
-      "title": "Barrenechea sofre entorse do joelho com rotura do menisco",
-      "summary": "O Benfica, segundo classificado com 16 pontos, visita o líder e campeão FC Porto, que soma 18, no domingo, no clássico da sétima jornada da I Liga.",
-      "source": "Observador",
-      "date": "Sat, 19 Sep 2026 18:26:07 +0100",
-      "url": "https://observador.pt/2026/09/19/i-liga-enzo-barrenechea-sofre-entorse-do-joelho-com-rotura-do-menisco/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/19174351/47501169.jpg",
+      "date": "Sun, 20 Sep 2026 00:25:10 +0100",
+      "url": "https://observador.pt/opiniao/isto-nao-e-uma-legenda-e-um-epitafio-sobre-o-ocidente/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2666%3A2665%3Anowe%3A0%3A814%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170545%2Fhelena-matos.jpg",
       "score": 0.73
     },
     {
@@ -256,6 +245,17 @@
       "score": 0.73
     },
     {
+      "id": "daf4dd72",
+      "cat": "tecnologia",
+      "title": "FC Porto e Benfica medem forças num clássico com liderança em jogo",
+      "summary": "Líder isolado da I Liga, o FC Porto recebe este domingo o Benfica, no Estádio do Dragão, num clássico que pode provocar a primeira grande reviravolta da temporada. Os &quot;dragões&quot; defendem um percurso imaculado, enquanto as &quot;águias&quot; procuram chegar à liderança pela primeira vez desd",
+      "source": "RTP",
+      "date": "Sat, 19 Sep 2026 23:40:49 +0100",
+      "url": "https://www.rtp.pt/noticias/benfica/fc-porto-e-benfica-medem-forcas-num-classico-com-lideranca-em-jogo_d1766526",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b7/b7c7578cf2ef5f357412645d3227f3e7?w=350&amp;q=50&amp;rect=0,145,2906,1593&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "169c14e5",
       "cat": "tecnologia",
       "title": "Borussia Dortmund é o novo líder isolado da Bundesliga",
@@ -275,17 +275,6 @@
       "date": "Sat, 19 Sep 2026 20:31:00 +0100",
       "url": "https://www.rtp.pt/noticias/futebol-internacional/terceira-recuperacao-seguida-do-inter-milao-resulta-em-empate-em-roma_d1766522",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/22/228dee6926d83f9a56c71d82c0ebc9e1?w=350&amp;q=50&amp;rect=0,364,3072,1684&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "a8bfd9b6",
-      "cat": "desporto",
-      "title": "Arsenal sofre derrota pesada em Brighton e pode deixar fugir Manchester City",
-      "summary": "O campeão Arsenal caiu hoje com estrondo em Brighton, sofrendo uma derrota pesada por 3-0 perante a equipa da casa, pondo fim a um arranque perfeito de temporada, na quinta jornada da Liga inglesa de futebol.",
-      "source": "RTP",
-      "date": "Sat, 19 Sep 2026 20:23:45 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-sofre-derrota-pesada-em-brighton-e-pode-deixar-fugir-manchester-city_d1766518",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/1c/1c863f94bcc3307c9839cd07abcd7a37?w=350&amp;q=50&amp;rect=0,185,3793,2079&amp;auto=format",
       "score": 0.73
     },
     {
@@ -331,6 +320,17 @@
       "url": "https://reasonstobecheerful.world/the-spark-laundromat-libraries/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_501174550.jpg",
       "score": 0.73
+    },
+    {
+      "id": "621e0446",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
+      "source": "Público",
+      "date": "Sun, 20 Sep 2026 04:00:00 GMT",
+      "url": "https://www.publico.pt/2026/09/20/opiniao/opiniao/cartas-director-2188600",
+      "img": null,
+      "score": 0.7
     }
   ]
 }
