@@ -1,5 +1,5 @@
 {
-  "last_update": "20/09/2026 15:54 UTC",
+  "last_update": "20/09/2026 20:40 UTC",
   "total": 30,
   "news": [
     {
@@ -25,14 +25,25 @@
       "score": 0.82
     },
     {
-      "id": "0a04ecba",
+      "id": "9821322d",
       "cat": "tecnologia",
-      "title": "Pedro Acosta estreia-se a vencer e dá à KTM triunfo que escapava desde Oliveira",
-      "summary": "O espanhol Pedro Acosta (KTM) conquistou hoje a primeira vitória num Grande Prémio de MotoGP, na Áustria, devolvendo à marca austríaca um triunfo em corridas principais que escapava desde o sucesso de Miguel Oliveira na Tailândia, em 2022.",
+      "title": "\"Almofada\" das pensões \"não devia investir em dívida portuguesa\"",
+      "summary": "A criação de um fundo soberano é positiva, mas é preciso perceber o propósito concreto. João Pratas considera também que há outro veículo já existente, o Fundo de Estabilização Financeira da Segurança Social, cuja política de investimento deveria ser revista por forma a rentabilizar estas poupanças.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 20 Sep 2026 19:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/almofada-das-pensoes-nao-devia-investir-em-divida-portuguesa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-14-51-22-529737.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "244368de",
+      "cat": "tecnologia",
+      "title": "Portugal conquista duas medalhas nos Mundiais de acrobática de juniores",
+      "summary": "Os par misto português constituído por Mariana Pinheiro e Jorge Silva sagrou-se hoje campeão do mundo de juniores de ginástica acrobática, em Pesaro, em Itália.",
       "source": "RTP",
-      "date": "Sun, 20 Sep 2026 16:55:06 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/pedro-acosta-estreia-se-a-vencer-e-da-a-ktm-triunfo-que-escapava-desde-oliveira_d1766632",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec392979a661eb494c95c3f04e57e3bb?w=350&amp;q=50&amp;rect=0,61,1024,561&amp;auto=format",
+      "date": "Sun, 20 Sep 2026 22:07:48 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-conquista-duas-medalhas-nos-mundiais-de-acrobatica-de-juniores_d1766695",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b62c649fe194241fcc5e007dd7ffe0a?w=350&amp;q=50&amp;rect=0,128,1920,1053&amp;auto=format",
       "score": 0.79
     },
     {
@@ -69,14 +80,25 @@
       "score": 0.79
     },
     {
-      "id": "679fae81",
-      "cat": "desporto",
-      "title": "LC feminina. Prova arranca com candidatos reforçados e Benfica em busca de pontos",
-      "summary": "A fase de liga da Liga dos Campeões feminina de futebol arranca esta terça-feira com 18 clubes e um Benfica mais ambicioso, depois de se tornar hexacampeão nacional e de ter conquistado a Taça de Portugal e a Supertaça.",
+      "id": "debcceb8",
+      "cat": "tecnologia",
+      "title": "Ciclismo/Mundiais. Evenepoel faz história `condenando` novamente Ganna",
+      "summary": "Remco Evenepoel tornou-se hoje no primeiro ciclista a conquistar quatro títulos consecutivos de contrarrelógio, encabeçando um pódio de luxo em Montreal ocupado pelo novamente ‘vice’ Filippo Ganna e pelo promissor Paul Seixas.",
       "source": "RTP",
-      "date": "Sun, 20 Sep 2026 16:42:04 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/lc-feminina-prova-arranca-com-candidatos-reforcados-e-benfica-em-busca-de-pontos_d1766626",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/07/07208e9e2eb2207565b77ff5b07b9e5c?w=350&amp;q=50&amp;rect=0,13,1208,662&amp;auto=format",
+      "date": "Sun, 20 Sep 2026 22:02:41 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/ciclismomundiais-evenepoel-faz-historia-condenando-novamente-ganna_d1766694",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/51/5186e9df8161ee25e59093dddfbdbc56?w=350&amp;q=50&amp;rect=0,51,6000,3289&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "1e789212",
+      "cat": "tecnologia",
+      "title": "Juventus vence Atalanta na estreia de Conceição a marcar esta época",
+      "summary": "A Juventus regressou hoje às vitórias na Liga italiana de futebol, após dois jogos sem vencer, ao bater a Atalanta por 2-0, com golos de Francisco Conceição, o primeiro do português no campeonato esta época, e Bremer.",
+      "source": "RTP",
+      "date": "Sun, 20 Sep 2026 21:11:34 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/juventus-vence-atalanta-na-estreia-de-conceicao-a-marcar-esta-epoca_d1766677",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7f774242183adf93a1c52a051f271eb3?w=350&amp;q=50&amp;rect=0,32,3072,1684&amp;auto=format",
       "score": 0.76
     },
     {
@@ -135,25 +157,69 @@
       "score": 0.76
     },
     {
-      "id": "76834215",
-      "cat": "tecnologia",
-      "title": "Centenas de judeus entraram no Pátio das Mesquitas, em Jerusalém, antes do Yom Kippur",
-      "summary": "Cada vez mais visitantes israelitas desafiam acordo que rege espaço religioso disputado. Durante a madrugada, Netanyahu juntou-se a milhares de pessoas que rezavam no Muro Ocidental.",
+      "id": "b35b3b26",
+      "cat": "ciencia",
+      "title": "Cientistas criam o primeiro mapa integrado do sistema da histamina no cérebro humano",
+      "summary": "Estudo português conclui que a histamina, habitualmente associada a alergias e ao sono, poderá desempenhar uma acção fulcral na saúde mental e no bom funcionamento emocional e cognitivo.",
       "source": "Público",
-      "date": "Sun, 20 Sep 2026 13:56:52 GMT",
-      "url": "https://www.publico.pt/2026/09/20/mundo/noticia/centenas-judeus-entraram-patio-mesquitas-jerusalem-yom-kippur-2188701",
+      "date": "Sun, 20 Sep 2026 18:47:00 GMT",
+      "url": "https://www.publico.pt/2026/09/20/ciencia/noticia/cientistas-criam-mapa-integrado-sistema-histamina-cerebro-humano-2188502",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "83b55107",
+      "id": "3a011aca",
+      "cat": "cultura",
+      "title": "Filme de animação de Alexandre Siqueira com menção honrosa no Festival de Toronto",
+      "summary": "Produzido pelo BAP Studios com Espanha e França, Terminal obteve uma menção especial no prémio de melhor curta de animação. No próximo mês será exibido na Semana Internacional de Cine de Valladolid.",
+      "source": "Público",
+      "date": "Sun, 20 Sep 2026 18:11:55 GMT",
+      "url": "https://www.publico.pt/2026/09/20/culturaipsilon/noticia/filme-animacao-alexandre-siqueira-mencao-honrosa-festival-toronto-2188724",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "9e77d2e5",
       "cat": "tecnologia",
-      "title": "Queniana Agnes Jebet Ngetich bate recorde da meia-maratona",
-      "summary": "A queniana Agnes Jebet Ngetich quebrou o recorde do mundo da meia-maratona, ao vencer a prova dos Mundiais de Estrada, em Copenhaga. Sueco Andreas Almgren obteve uma nova melhor marca europeia.",
+      "title": "Remco não perdeu o fôlego e voltou a entrar para a história",
+      "summary": "O belga chegou ao Canadá para escrever a sua história em duas batalhas — uma já está. No arranque dos Mundiais, o belga voou para o quarto ouro seguido, batendo Ganna e o surpreendente Seixas.",
       "source": "Observador",
-      "date": "Sun, 20 Sep 2026 12:53:21 +0100",
-      "url": "https://observador.pt/2026/09/20/queniana-agnes-jebet-ngetich-bate-recorde-do-mundo-da-meia-maratona-em-copenhaga/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:106/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/20124532/43805593.jpg",
+      "date": "Sun, 20 Sep 2026 20:16:20 +0100",
+      "url": "https://observador.pt/2026/09/20/remco-nao-perdeu-o-folego-e-voltou-a-entrar-para-a-historia-evenepoel-e-o-primeiro-a-ganhar-quatro-mundiais-consecutivos-no-contrarrelogio/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:159/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/20200843/gettyimages-2296276165-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "7a9caa70",
+      "cat": "tecnologia",
+      "title": "As boas turmas",
+      "summary": "As boas turmas não se avaliam pela quantidade das boas notas a que se chegue. Mas pelos diferentes caminhos com que todos aprendem, para lá do indispensável, até que sejam capazes de as conquistar.",
+      "source": "Observador",
+      "date": "Sun, 20 Sep 2026 19:48:22 +0100",
+      "url": "https://observador.pt/opiniao/as-boas-turmas/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "cf89da67",
+      "cat": "tecnologia",
+      "title": "Vitória de Guimarães empata com Moreirense",
+      "summary": "O jovem avançado Tiago Andrade adiantou os forasteiros, aos 52 minutos, mas, sobre o final, o central croata restabeleceu a igualdade.",
+      "source": "Observador",
+      "date": "Sun, 20 Sep 2026 19:33:14 +0100",
+      "url": "https://observador.pt/2026/09/20/vitoria-de-guimaraes-empata-com-moreirense-com-golo-sobre-o-final/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/20174131/47807197.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "8cca1c29",
+      "cat": "tecnologia",
+      "title": "Entre acelerar e travar, IA vai seguir a duas velocidades. E nem todos estão de acordo",
+      "summary": "Com alguns modelos a ganharem vida própria, o fundador do Claude veio alertar de que é necessário abrandar o ritmo para garantir a segurança de todos os envolvidos no processo. Sam Altman posicionou-se ao seu lado, mas há quem não concorde. Aumentam os receios quanto ao impacto nos futuros IPO, mas ",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 20 Sep 2026 19:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/entre-acelerar-e-travar-ia-vai-seguir-a-duas-velocidades-e-nem-todos-estao-de-acordo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-20-16-49-13-529786.jpg",
       "score": 0.73
     },
     {
@@ -179,14 +245,14 @@
       "score": 0.73
     },
     {
-      "id": "83ff214a",
+      "id": "056cd9bd",
       "cat": "tecnologia",
-      "title": "Italiana Lisa Pigato conquista Caldas da Rainha Ladies Open em ténis",
-      "summary": "A italiana Lisa Pigato sagrou-se hoje campeã do Caldas da Rainha Ladies Open em ténis, ao derrotar a checa Gabriela Knutson, que perdeu pelo segundo ano consecutivo na final do torneio português.",
-      "source": "RTP",
-      "date": "Sun, 20 Sep 2026 17:49:27 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/italiana-lisa-pigato-conquista-caldas-da-rainha-ladies-open-em-tenis_d1766642",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/81/814fd6a6a457383e1390c00a0bee7182?w=350&amp;q=50&amp;rect=0,109,2180,1195&amp;auto=format",
+      "title": "EUA emitem dívida de curto prazo para captar um bilião",
+      "summary": "Os Estados Unidos deverão captar cerca de um bilião de dólares ao longo do próximo ano através de títulos do Tesouro com maturidade até 12 meses, segundo o Financial Times (acesso pago, em inglês). O recurso crescente a dívida de curto prazo reduz os custos imediatos, mas deixa as contas públicas ma",
+      "source": "ECO",
+      "date": "Sun, 20 Sep 2026 18:19:46 +0000",
+      "url": "https://eco.sapo.pt/2026/09/20/eua-recorrem-a-divida-curta-para-captar-um-biliao/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-doc202605124708560012948966.jpg",
       "score": 0.73
     },
     {
@@ -256,80 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "76ed5840",
+      "id": "b636374b",
       "cat": "tecnologia",
-      "title": "Santos Silva considera uma “vergonha” a posição da União Europeia sobre Israel",
-      "summary": "“As tecnologias devem ser reguladas, como os restantes poderes”, defende. E salienta o modo como o Papa abre a doutrina social da Igreja e aproxima a social-democracia da democracia cristã.",
+      "title": "A vida generosa e não apenas cruel",
+      "summary": "É estranho como, para muitos, a chegada das estações deixa de os comover, queixam-se do frio ou do calor, como se estar vivo fosse uma sucessão de inconvenientes meteorológicos. Crónica de Cláudia Lucas Chéu",
       "source": "Público",
-      "date": "Sun, 20 Sep 2026 14:02:48 GMT",
-      "url": "https://www.publico.pt/2026/09/20/politica/noticia/santos-silva-considera-vergonha-posicao-uniao-europeia-israel-2188693",
+      "date": "Sun, 20 Sep 2026 19:33:00 GMT",
+      "url": "https://www.publico.pt/2026/09/20/p3/cronica/vida-generosa-nao-apenas-cruel-2188564",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "3ac697d2",
-      "cat": "tecnologia",
-      "title": "Itália quer banir burqas e niqabs nas escolas e limitar número de alunos estrangeiros nas turmas",
-      "summary": "Anúncio foi feito pela primeira-ministra italiana no encontro da juventude do seu partido. Giorgia Meloni não revelou qual será o limite no número dos alunos estrangeiros por turma.",
-      "source": "Público",
-      "date": "Sun, 20 Sep 2026 13:51:44 GMT",
-      "url": "https://www.publico.pt/2026/09/20/mundo/noticia/italia-quer-banir-burqas-niqabs-escolas-limitar-numero-alunos-estrangeiros-turmas-2188705",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "3a34d789",
-      "cat": "tecnologia",
-      "title": "Arco que Trump quer construir pode ser complexo militar",
-      "summary": "Donald Trump afirmou que o enorme arco que quer construir entre o Lincoln Memorial e o Cemitério Nacional de Arlington poderá tornar-se um \"complexo militar de primeira categoria\".",
-      "source": "Observador",
-      "date": "Sun, 20 Sep 2026 15:05:03 +0100",
-      "url": "https://observador.pt/2026/09/20/trump-diz-que-arco-que-planeia-construir-em-washington-pode-tornar-se-complexo-militar/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/20142945/47800272.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "4ce91a76",
-      "cat": "tecnologia",
-      "title": "Ciclone tropical mais forte deverá poupar os Açores",
-      "summary": "O ciclone tropical \"Six\", que se encontrava às 09:00 de hoje a 730 km a sudoeste dos Açores, intensificou-se nas últimas horas, mas não se prevê que atravesse o arquipélago, revelou o IPMA.",
-      "source": "Observador",
-      "date": "Sun, 20 Sep 2026 14:26:56 +0100",
-      "url": "https://observador.pt/2026/09/20/ciclone-tropical-intensifica-se-mas-nao-devera-afetar-os-acores/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/04/30185749/21379782.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "f0e85979",
-      "cat": "tecnologia",
-      "title": "Desde o regresso ao poder, Trump já comprou e vendeu mais ativos do que todo o Congresso",
-      "summary": "O Presidente dos Estados Unidos levou a cabo cerca de 28.700 operações financeiras nos 17 meses que separam a tomada de posse e o fim de junho. No mesmo período, os membros do Congresso levaram a cabo perto de 22.200 negociações.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 20 Sep 2026 16:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/desde-o-regresso-ao-poder-trump-ja-comprou-e-vendeu-mais-ativos-do-que-todo-o-congresso",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-04-07-33-00-529111.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "a18577df",
-      "cat": "tecnologia",
-      "title": "Comparar preços dos combustíveis pode poupar 15 euros num depósito",
-      "summary": "Supermercados, postos \"low cost\" e independentes podem estar entre as opções mais baratas, mas cupões, cartões e aplicações reduzem a diferença face às grandes marcas. Comparar preços e descontos ajuda a perceber onde compensa abastecer.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 20 Sep 2026 14:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/comparar-precos-dos-combustiveis-pode-poupar-15-euros-num-deposito",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-10-11-25-07-521842.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
