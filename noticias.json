@@ -1,5 +1,5 @@
 {
-  "last_update": "20/09/2026 20:40 UTC",
+  "last_update": "21/09/2026 04:34 UTC",
   "total": 30,
   "news": [
     {
@@ -47,14 +47,14 @@
       "score": 0.79
     },
     {
-      "id": "d41b06da",
-      "cat": "tecnologia",
-      "title": "Cataract Surgery Restores Sight for 54-Year-Old Chimpanzee–the First Such Procedure at Chimp Haven",
-      "summary": "After becoming completely blind from cataracts, a 54-year-old chimpanzee named Pierre is seeing again following a successful surgery at Chimp Haven, the world’s largest chimpanzee sanctuary. The procedure, the first cataract surgery performed for a resident at Chimp Haven, restored functional sight ",
+      "id": "9ad1263c",
+      "cat": "ciencia",
+      "title": "Cavemen Used Mammoth Tusk Patterns to Create Unique Art, Reveals New Research",
+      "summary": "[Stephen Beech &#124; SWNS news] Cavemen used mammoth tusk patterns to create unique art, reveals new research. Intricate designs engraved on the surface of 18,000-year-old female figurines carved from mammoth ivory were inspired by &#8220;distinctive&#8221; growth patterns visible in the tusks, say",
       "source": "Good News Network",
-      "date": "Fri, 18 Sep 2026 12:30:44 +0000",
-      "url": "https://www.goodnewsnetwork.org/cataract-surgery-restores-sight-for-54-year-old-chimpanzee-the-first-such-procedure-at-chimp-haven/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Pierre-the-Chimp-recovering-from-cataract-surgery-credit-Chimp-Haven-supplied.jpg",
+      "date": "Mon, 21 Sep 2026 03:20:17 +0000",
+      "url": "https://www.goodnewsnetwork.org/cavemen-used-mammoth-tusk-patterns-to-create-unique-art-reveals-new-research/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Ice-Age-craftspeople-mimicked-lines-of-mammoth-ivory-SWNS.jpeg",
       "score": 0.79
     },
     {
@@ -78,6 +78,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0701/live/5c142ed0-b1f0-11f1-bc1f-3f186ca4140c.jpg",
       "score": 0.79
+    },
+    {
+      "id": "904ef1fe",
+      "cat": "economia",
+      "title": "Portugueses não investem nos mercados “porque não há os estímulos certos”",
+      "summary": "João Pratas, presidente da APFIPP, não espera para breve uma conta de poupança e investimento, apesar da urgência do tema. Para o Orçamento do Estado (OE) para 2027 pede incentivos a que as poupanças sejam canalizadas para os mercados.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 20 Sep 2026 22:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/portugueses-nao-investem-nos-mercados-porque-nao-ha-os-estimulos-certos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-14-37-23-529731.jpg",
+      "score": 0.76
     },
     {
       "id": "debcceb8",
@@ -110,17 +121,6 @@
       "date": "Sat, 19 Sep 2026 21:56:51 +0000",
       "url": "https://www.goodnewsnetwork.org/new-york-city-is-putting-the-park-back-in-park-avenue/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Park-Avenue-redesign-in-NYC-Credit-Starr-Whitehouse-Landscape-Architects-and-Planners.jpeg",
-      "score": 0.76
-    },
-    {
-      "id": "c7dae6a7",
-      "cat": "tecnologia",
-      "title": "Unsealed for the First Time, This 600-yo Tomb in Peru Was Just Declared the ‘Discovery of the Decade’",
-      "summary": "An unspoiled, undiscovered tomb containing the remains of an elite society belong to a major Andean civilization has been uncovered in Peru. Located in the UNESCO World Heritage-listed site of Chan Chan, inside a palatial complex called Utzh An, its contents of 38 skeletons and a wealth of grave goo",
-      "source": "Good News Network",
-      "date": "Fri, 18 Sep 2026 15:30:26 +0000",
-      "url": "https://www.goodnewsnetwork.org/unsealed-for-the-first-time-this-600-yo-tomb-in-peru-was-just-declared-the-discovery-of-the-decade/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/The-newly-discovered-tomb-seen-in-the-center-©-ANDINA-Editora-Peru.jpg",
       "score": 0.76
     },
     {
@@ -157,80 +157,47 @@
       "score": 0.76
     },
     {
-      "id": "b35b3b26",
-      "cat": "ciencia",
-      "title": "Cientistas criam o primeiro mapa integrado do sistema da histamina no cérebro humano",
-      "summary": "Estudo português conclui que a histamina, habitualmente associada a alergias e ao sono, poderá desempenhar uma acção fulcral na saúde mental e no bom funcionamento emocional e cognitivo.",
-      "source": "Público",
-      "date": "Sun, 20 Sep 2026 18:47:00 GMT",
-      "url": "https://www.publico.pt/2026/09/20/ciencia/noticia/cientistas-criam-mapa-integrado-sistema-histamina-cerebro-humano-2188502",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "3a011aca",
-      "cat": "cultura",
-      "title": "Filme de animação de Alexandre Siqueira com menção honrosa no Festival de Toronto",
-      "summary": "Produzido pelo BAP Studios com Espanha e França, Terminal obteve uma menção especial no prémio de melhor curta de animação. No próximo mês será exibido na Semana Internacional de Cine de Valladolid.",
-      "source": "Público",
-      "date": "Sun, 20 Sep 2026 18:11:55 GMT",
-      "url": "https://www.publico.pt/2026/09/20/culturaipsilon/noticia/filme-animacao-alexandre-siqueira-mencao-honrosa-festival-toronto-2188724",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "9e77d2e5",
+      "id": "2c295e0f",
       "cat": "tecnologia",
-      "title": "Remco não perdeu o fôlego e voltou a entrar para a história",
-      "summary": "O belga chegou ao Canadá para escrever a sua história em duas batalhas — uma já está. No arranque dos Mundiais, o belga voou para o quarto ouro seguido, batendo Ganna e o surpreendente Seixas.",
+      "title": "1h. FC Porto líder isolado após vencer Benfica por 3-1",
+      "summary": "Dragões levam a melhor no primeiro clássico da época frente aos encarnados. Ainda, hecatombe para Friedrich Merz. CDU perde em Berlim para a esquerda radical e em Mecklemburgo para a extrema-direita.",
       "source": "Observador",
-      "date": "Sun, 20 Sep 2026 20:16:20 +0100",
-      "url": "https://observador.pt/2026/09/20/remco-nao-perdeu-o-folego-e-voltou-a-entrar-para-a-historia-evenepoel-e-o-primeiro-a-ganhar-quatro-mundiais-consecutivos-no-contrarrelogio/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:159/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/20200843/gettyimages-2296276165-scaled.jpg",
+      "date": "Mon, 21 Sep 2026 01:14:59 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2390/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "7a9caa70",
-      "cat": "tecnologia",
-      "title": "As boas turmas",
-      "summary": "As boas turmas não se avaliam pela quantidade das boas notas a que se chegue. Mas pelos diferentes caminhos com que todos aprendem, para lá do indispensável, até que sejam capazes de as conquistar.",
+      "id": "242bbeba",
+      "cat": "geral",
+      "title": "Tolentino Mendonça: poeta, pensador, construtor de pontes",
+      "summary": "A Medalha de Honra que lhe atribuímos foi o nosso agradecimento, o agradecimento de Lisboa. Faço votos de que continue a levar a nossa língua pelo mundo e a construir pontes.",
       "source": "Observador",
-      "date": "Sun, 20 Sep 2026 19:48:22 +0100",
-      "url": "https://observador.pt/opiniao/as-boas-turmas/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg",
+      "date": "Mon, 21 Sep 2026 00:24:57 +0100",
+      "url": "https://observador.pt/opiniao/tolentino-mendonca-poeta-pensador-construtor-de-pontes/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A548%3A548%3Anowe%3A329%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F05%2F14174715%2F42848410.jpg",
       "score": 0.73
     },
     {
-      "id": "cf89da67",
+      "id": "2c149190",
       "cat": "tecnologia",
-      "title": "Vitória de Guimarães empata com Moreirense",
-      "summary": "O jovem avançado Tiago Andrade adiantou os forasteiros, aos 52 minutos, mas, sobre o final, o central croata restabeleceu a igualdade.",
+      "title": "O socialismo norte-americano (1)",
+      "summary": "Foi em resultado da crescente popularidade que Alexandria Ocasio-Cortez e Rashida Tlaib asseguraram, nas eleições intercalares de 2018, os primeiros lugares da DSA na Câmara dos Representantes",
       "source": "Observador",
-      "date": "Sun, 20 Sep 2026 19:33:14 +0100",
-      "url": "https://observador.pt/2026/09/20/vitoria-de-guimaraes-empata-com-moreirense-com-golo-sobre-o-final/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1333:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/20174131/47807197.jpg",
+      "date": "Mon, 21 Sep 2026 00:21:23 +0100",
+      "url": "https://observador.pt/opiniao/o-socialismo-norte-americano-1/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2659%3A2660%3Anowe%3A0%3A280%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpatricia-fernandes.jpg",
       "score": 0.73
     },
     {
-      "id": "8cca1c29",
+      "id": "ab5250b9",
       "cat": "tecnologia",
-      "title": "Entre acelerar e travar, IA vai seguir a duas velocidades. E nem todos estão de acordo",
-      "summary": "Com alguns modelos a ganharem vida própria, o fundador do Claude veio alertar de que é necessário abrandar o ritmo para garantir a segurança de todos os envolvidos no processo. Sam Altman posicionou-se ao seu lado, mas há quem não concorde. Aumentam os receios quanto ao impacto nos futuros IPO, mas ",
+      "title": "Presidente da APFIPP: “Alterações a reformas têm de ter apoio político muito grande”",
+      "summary": "Apesar de considerar que o cenário atual não é “assustador”, João Pratas alerta que a situação da Segurança Social vai piorar. Ainda assim, o presidente da APFIPP diz compreender que seja necessário um período de reflexão da sociedade sobre o estudo do grupo de trabalho.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 20 Sep 2026 19:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/entre-acelerar-e-travar-ia-vai-seguir-a-duas-velocidades-e-nem-todos-estao-de-acordo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-20-16-49-13-529786.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "51e7b4f2",
-      "cat": "cultura",
-      "title": "Pacote da habitação “pode voltar a trazer interesse dos fundos para o imobiliário”",
-      "summary": "Os fundos de investimento imobiliário estão concentrados nos segmentos comercial e industrial, mas há interesse em acrescentar uma linha de negócio dedicada à habitação, segundo a associação que representa o setor. As medidas do Governo estão a suscitar interesse por parte das sociedades.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 20 Sep 2026 16:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/pacote-da-habitacao-pode-voltar-a-trazer-interesse-dos-fundos-para-o-imobiliario",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-14-49-05-529736.jpg",
+      "date": "Sun, 20 Sep 2026 22:45:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/presidente-da-apfipp-alteracoes-a-reformas-tem-de-ter-apoio-politico-muito-grande",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-14-34-50-529730.jpg",
       "score": 0.73
     },
     {
@@ -264,6 +231,17 @@
       "date": "Sun, 20 Sep 2026 12:06:44 +0000",
       "url": "https://eco.sapo.pt/reportagem/douro-diversifica-oferta-turistica-do-vinho-ao-azeite-termas-ou-caminhadas/",
       "img": "https://eco.imgix.net/uploads/2024/03/cropped-doc-20180606-24304469-es__7155.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "6bebcf2d",
+      "cat": "sociedade",
+      "title": "Good News in History September 20",
+      "summary": "46 years ago today, Blizzard of Ozz, the debut solo album of the great and lately deceased metal singer Ozzy Osbourne, was released to moderate reviews and success. However it grew to become a staple of the genre, and was ranked as the ninth-greatest heavy metal album of all time by Rolling Stone. I",
+      "source": "Good News Network",
+      "date": "Sun, 20 Sep 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060920/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/09/Blizzard-of-Ozz-cover-art-fair-use.jpg",
       "score": 0.73
     },
     {
@@ -322,13 +300,35 @@
       "score": 0.73
     },
     {
-      "id": "b636374b",
-      "cat": "tecnologia",
-      "title": "A vida generosa e não apenas cruel",
-      "summary": "É estranho como, para muitos, a chegada das estações deixa de os comover, queixam-se do frio ou do calor, como se estar vivo fosse uma sucessão de inconvenientes meteorológicos. Crónica de Cláudia Lucas Chéu",
+      "id": "b7f9c949",
+      "cat": "cultura",
+      "title": "Onde estão, afinal, os “alunos de Crato”?",
+      "summary": "É abusiva, se não mesmo ridícula, a tentativa de apropriação dos bons resultados de Portugal no PISA de 2015 por parte do ex-ministro. Opinião de Nuno Serra",
       "source": "Público",
-      "date": "Sun, 20 Sep 2026 19:33:00 GMT",
-      "url": "https://www.publico.pt/2026/09/20/p3/cronica/vida-generosa-nao-apenas-cruel-2188564",
+      "date": "Sun, 20 Sep 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/09/21/opiniao/opiniao/onde-estao-afinal-alunos-crato-2188635",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "fe6ccd49",
+      "cat": "tecnologia",
+      "title": "Quando os governantes querem ser diretores-gerais",
+      "summary": "Nos últimos anos, e em particular com o atual Governo, assistimos a uma intervenção crescente de ministros e secretários de Estado em matérias que pertencem ao domínio da gestão administrativa. Opinião de David Xavier",
+      "source": "Público",
+      "date": "Sun, 20 Sep 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/09/21/opiniao/opiniao/governantes-querem-diretoresgerais-2188265",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "8d0d9770",
+      "cat": "ciencia",
+      "title": "O segredo é a alma da fusão? E se corre mal?",
+      "summary": "A fusão dos 1.º e 2.º ciclos, a acontecer, exige estudo, planeamento, rigor, competência e responsabilidade, isto é, tudo o que tem faltado ao “grande reformador”. Opinião de Mário Nogueira",
+      "source": "Público",
+      "date": "Sun, 20 Sep 2026 23:20:00 GMT",
+      "url": "https://www.publico.pt/2026/09/21/opiniao/opiniao/segredo-alma-fusao-corre-mal-2188256",
       "img": null,
       "score": 0.7
     }
