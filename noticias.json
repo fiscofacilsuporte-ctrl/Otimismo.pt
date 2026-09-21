@@ -1,5 +1,5 @@
 {
-  "last_update": "21/09/2026 04:34 UTC",
+  "last_update": "21/09/2026 12:36 UTC",
   "total": 30,
   "news": [
     {
@@ -25,14 +25,14 @@
       "score": 0.82
     },
     {
-      "id": "9821322d",
+      "id": "4dc25628",
       "cat": "tecnologia",
-      "title": "\"Almofada\" das pensões \"não devia investir em dívida portuguesa\"",
-      "summary": "A criação de um fundo soberano é positiva, mas é preciso perceber o propósito concreto. João Pratas considera também que há outro veículo já existente, o Fundo de Estabilização Financeira da Segurança Social, cuja política de investimento deveria ser revista por forma a rentabilizar estas poupanças.",
+      "title": "Famílias puseram 662 milhões de euros em certificados em agosto",
+      "summary": "Apesar de o saldo conjunto ser positivo, houve mais resgates do que subscrições nos certificados do Tesouro. A procura por certificados de aforro compensou.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 20 Sep 2026 19:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/almofada-das-pensoes-nao-devia-investir-em-divida-portuguesa",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-14-51-22-529737.jpg",
+      "date": "Mon, 21 Sep 2026 11:18:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/familias-puseram-662-milhoes-de-euros-em-certificados-em-agosto",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-04/img_100x100uu2025-04-14-18-40-13-499554.jpg",
       "score": 0.79
     },
     {
@@ -80,14 +80,36 @@
       "score": 0.79
     },
     {
-      "id": "904ef1fe",
-      "cat": "economia",
-      "title": "Portugueses não investem nos mercados “porque não há os estímulos certos”",
-      "summary": "João Pratas, presidente da APFIPP, não espera para breve uma conta de poupança e investimento, apesar da urgência do tema. Para o Orçamento do Estado (OE) para 2027 pede incentivos a que as poupanças sejam canalizadas para os mercados.",
+      "id": "3ab53f7d",
+      "cat": "tecnologia",
+      "title": "Rússia. Putin renova maioria parlamentar com mais deputados",
+      "summary": "Até ao momento foram apurados os resultados em 95% das assembleias de voto, atribuindo a vitória com 58% dos votos à Rússia Unida. O partido conta com 355 deputados, um novo recorde.",
+      "source": "Observador",
+      "date": "Mon, 21 Sep 2026 11:28:14 +0100",
+      "url": "https://observador.pt/2026/09/21/putin-renova-maioria-parlamentar-na-russia-com-recorde-de-deputados/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/21104720/47808329.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "67d53508",
+      "cat": "tecnologia",
+      "title": "Entrevista na íntegra a João Pratas, presidente da Associação Portuguesa de Fundos de Investimento, Pensões e Patrimónios (APFIPP)",
+      "summary": "",
       "source": "Jornal de Negócios",
-      "date": "Sun, 20 Sep 2026 22:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/portugueses-nao-investem-nos-mercados-porque-nao-ha-os-estimulos-certos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-14-37-23-529731.jpg",
+      "date": "Mon, 21 Sep 2026 12:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/entrevista-na-integra-a-joao-pratas-presidente-da-associacao-portuguesa-de-fundos-de-investimento-pensoes-e-patrimonios-apfipp",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-11-51-00-529716.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "d95edf63",
+      "cat": "tecnologia",
+      "title": "Seleção começa preparação para a Liga das Nações",
+      "summary": "Portugal começa hoje a preparar a estreia na Liga das Nações frente ao País de Gales com um treino de recuperação na Cidade do Futebol, em Oeiras, no primeiro dia de trabalho no ‘terreno’ de Jorge Jesus.",
+      "source": "RTP",
+      "date": "Mon, 21 Sep 2026 10:44:23 +0100",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-comeca-preparacao-para-a-liga-das-nacoes_d1766758",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7e/7e6208b52d6248404ebfe6eeb3d18836?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.76
     },
     {
@@ -102,25 +124,47 @@
       "score": 0.76
     },
     {
-      "id": "1e789212",
+      "id": "34926e74",
       "cat": "tecnologia",
-      "title": "Juventus vence Atalanta na estreia de Conceição a marcar esta época",
-      "summary": "A Juventus regressou hoje às vitórias na Liga italiana de futebol, após dois jogos sem vencer, ao bater a Atalanta por 2-0, com golos de Francisco Conceição, o primeiro do português no campeonato esta época, e Bremer.",
-      "source": "RTP",
-      "date": "Sun, 20 Sep 2026 21:11:34 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/juventus-vence-atalanta-na-estreia-de-conceicao-a-marcar-esta-epoca_d1766677",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7f774242183adf93a1c52a051f271eb3?w=350&amp;q=50&amp;rect=0,32,3072,1684&amp;auto=format",
+      "title": "Abreu Advogados reforça presença em Angola em parceria com a JBA Advogados",
+      "summary": "A Abreu Advogados reforça a sua presença em Angola através de uma nova parceria estratégica com a JBA Advogados, sociedade de advogados angolana integrada na rede Abreu International. &#8220;Esta colaboração representa um passo natural na evolução da presença da Sociedade no mercado angolano, conjug",
+      "source": "ECO",
+      "date": "Mon, 21 Sep 2026 12:18:36 +0000",
+      "url": "https://eco.sapo.pt/2026/09/21/abreu-advogados-reforca-presenca-em-angola-em-parceria-com-a-jba-advogados/",
+      "img": "https://eco.imgix.net/uploads/2026/09/joaobcosta-perfil.jpg",
       "score": 0.76
     },
     {
-      "id": "f8256d02",
-      "cat": "desporto",
-      "title": "New York City is Putting ‘The Park’ Back in Park Avenue – And Adding a Protected Bike Lane (LOOK)",
-      "summary": "Until the 1920s Park Avenue in Manhattan actually park running through it. Now, New York City has unveiled a new plan for transforming Park Avenue back into its original natural character, adding trees, benches, and a protected bike lane. Mayor Mamdani and the NYC Department of Transportation are up",
+      "id": "62440dab",
+      "cat": "tecnologia",
+      "title": "Desempregados inscritos no IEFP aumentam em cadeia pelo segundo mês consecutivo",
+      "summary": "O número de desempregados inscritos nos centros do Instituto do Emprego e Formação Profissional (IEFP) voltou a subir em cadeia em agosto, de acordo com os dados divulgados esta segunda-feira. Ainda assim, em comparação com o registado há um ano, houve uma quebra, havendo agora menos 28 mil inscrito",
+      "source": "ECO",
+      "date": "Mon, 21 Sep 2026 11:15:00 +0000",
+      "url": "https://eco.sapo.pt/2026/09/21/desempregados-inscritos-no-iefp-aumentam-em-cadeia-pelo-segundo-mes-consecutivo/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc2024081443403207-ps07953.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "ee99fc8b",
+      "cat": "tecnologia",
+      "title": "Historic Philanthropic Gift Will Expand Veterinary Care Access to Millions of Americans and Their Pets",
+      "summary": "Hoping to allow millions of pet owners to access critical veterinary care beyond their budgets, a philanthropic organization has announced a groundbreaking $250 million commitment over the next 5 years The initiative represents one of the largest, private philanthropic investments ever made in Ameri",
       "source": "Good News Network",
-      "date": "Sat, 19 Sep 2026 21:56:51 +0000",
-      "url": "https://www.goodnewsnetwork.org/new-york-city-is-putting-the-park-back-in-park-avenue/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Park-Avenue-redesign-in-NYC-Credit-Starr-Whitehouse-Landscape-Architects-and-Planners.jpeg",
+      "date": "Mon, 21 Sep 2026 11:00:29 +0000",
+      "url": "https://www.goodnewsnetwork.org/historic-philanthropic-gift-will-expand-veterinary-care-access-to-millions-of-americans-and-their-pets/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/veterinarian-pet-care-animal-hospital-credit-Jonatan-Bustos-via-Unsplash.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "66a9aa2b",
+      "cat": "tecnologia",
+      "title": "Good News in History September 21",
+      "summary": "45 years ago today, Sandra Day O&#8217;Connor was sworn in as the first female Supreme Court Justice. She was approved in the Senate 99-0, with one Montana Senator being absent from who vote, who later sent her a copy of A River Runs Through It, by way of an apology. In her first year on the [&#8230",
+      "source": "Good News Network",
+      "date": "Mon, 21 Sep 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events060921/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/09/Sandra-Day-OConnor-being-sworn-in-public-domain.jpg",
       "score": 0.76
     },
     {
@@ -157,47 +201,47 @@
       "score": 0.76
     },
     {
-      "id": "2c295e0f",
+      "id": "e147b1c2",
       "cat": "tecnologia",
-      "title": "1h. FC Porto líder isolado após vencer Benfica por 3-1",
-      "summary": "Dragões levam a melhor no primeiro clássico da época frente aos encarnados. Ainda, hecatombe para Friedrich Merz. CDU perde em Berlim para a esquerda radical e em Mecklemburgo para a extrema-direita.",
-      "source": "Observador",
-      "date": "Mon, 21 Sep 2026 01:14:59 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2390/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Ver Mais Além , de Esther Kinsky : entrar docilmente nessa sala escura",
+      "summary": "Esther Kinsky concentra as atenções na realidade substancial da sala de cinema e preserva as cores de um fetichismo comovente.",
+      "source": "Público",
+      "date": "Mon, 21 Sep 2026 10:15:01 GMT",
+      "url": "https://www.publico.pt/2026/09/21/culturaipsilon/critica/entrar-docilmente-sala-escura-2185574",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "242bbeba",
+      "id": "a71a20aa",
+      "cat": "tecnologia",
+      "title": "Plano para renovar Valença concilia mercado e auditório",
+      "summary": "Criação de um novo eixo urbano entre o Fórum Intercultural de Valença, o Mercado Municipal e o Campo da Feira é uma das novidades do plano, que quer afirmar \"conjunto como o novo coração da cidade\".",
+      "source": "Observador",
+      "date": "Mon, 21 Sep 2026 12:14:36 +0100",
+      "url": "https://observador.pt/2026/09/21/masterplan-para-renovar-valenca-planeia-conciliar-mercado-e-auditorio/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1536:863:nowe:0:162/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/21112528/fortaleza-de-valenca.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "c04a3ccc",
       "cat": "geral",
-      "title": "Tolentino Mendonça: poeta, pensador, construtor de pontes",
-      "summary": "A Medalha de Honra que lhe atribuímos foi o nosso agradecimento, o agradecimento de Lisboa. Faço votos de que continue a levar a nossa língua pelo mundo e a construir pontes.",
+      "title": "Metade dos consumidores pede crédito para pagar contas",
+      "summary": "Cerca de 53% dos consumidores em Portugal recorreu a crédito para pagar contas nos últimos seis meses, de acordo com o European Consumer Payment Report 2026 da Intrum.",
       "source": "Observador",
-      "date": "Mon, 21 Sep 2026 00:24:57 +0100",
-      "url": "https://observador.pt/opiniao/tolentino-mendonca-poeta-pensador-construtor-de-pontes/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A548%3A548%3Anowe%3A329%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F05%2F14174715%2F42848410.jpg",
+      "date": "Mon, 21 Sep 2026 11:48:50 +0100",
+      "url": "https://observador.pt/programas/boa-moeda-ma-moeda/metade-dos-consumidores-pede-credito-para-pagar-contas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg",
       "score": 0.73
     },
     {
-      "id": "2c149190",
+      "id": "639dd2ef",
       "cat": "tecnologia",
-      "title": "O socialismo norte-americano (1)",
-      "summary": "Foi em resultado da crescente popularidade que Alexandria Ocasio-Cortez e Rashida Tlaib asseguraram, nas eleições intercalares de 2018, os primeiros lugares da DSA na Câmara dos Representantes",
-      "source": "Observador",
-      "date": "Mon, 21 Sep 2026 00:21:23 +0100",
-      "url": "https://observador.pt/opiniao/o-socialismo-norte-americano-1/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2659%3A2660%3Anowe%3A0%3A280%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170556%2Fpatricia-fernandes.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ab5250b9",
-      "cat": "tecnologia",
-      "title": "Presidente da APFIPP: “Alterações a reformas têm de ter apoio político muito grande”",
-      "summary": "Apesar de considerar que o cenário atual não é “assustador”, João Pratas alerta que a situação da Segurança Social vai piorar. Ainda assim, o presidente da APFIPP diz compreender que seja necessário um período de reflexão da sociedade sobre o estudo do grupo de trabalho.",
+      "title": "Putin renova maioria parlamentar na Rússia com recorde de deputados",
+      "summary": "O partido que apoia o regime do Presidente Vladimir Putin, Rússia Unida, revalidou a maioria parlamentar com um número recorde de pelo menos 355 dos 450 deputados.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 20 Sep 2026 22:45:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/presidente-da-apfipp-alteracoes-a-reformas-tem-de-ter-apoio-politico-muito-grande",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-14-34-50-529730.jpg",
+      "date": "Mon, 21 Sep 2026 12:39:51 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/europa/detalhe/putin-renova-maioria-parlamentar-na-russia-com-recorde-de-deputados",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-21-12-39-36-529828.jpg",
       "score": 0.73
     },
     {
@@ -212,36 +256,14 @@
       "score": 0.73
     },
     {
-      "id": "056cd9bd",
-      "cat": "tecnologia",
-      "title": "EUA emitem dívida de curto prazo para captar um bilião",
-      "summary": "Os Estados Unidos deverão captar cerca de um bilião de dólares ao longo do próximo ano através de títulos do Tesouro com maturidade até 12 meses, segundo o Financial Times (acesso pago, em inglês). O recurso crescente a dívida de curto prazo reduz os custos imediatos, mas deixa as contas públicas ma",
+      "id": "28724ffe",
+      "cat": "cultura",
+      "title": "Governo torna permanente apoio às artes e ofícios tradicionais iniciado no PRR",
+      "summary": "O Governo vai criar a Rede Portuguesa Saber Fazer, tornando permanente a política de apoio às artes e ofícios tradicionais iniciada com financiamento do Plano de Recuperação e Resiliência (PRR), anunciou esta segunda-feira a ministra da Cultura. A Rede Portuguesa Saber Fazer tem por objetivo assegur",
       "source": "ECO",
-      "date": "Sun, 20 Sep 2026 18:19:46 +0000",
-      "url": "https://eco.sapo.pt/2026/09/20/eua-recorrem-a-divida-curta-para-captar-um-biliao/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-doc202605124708560012948966.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "35e69f95",
-      "cat": "tecnologia",
-      "title": "Douro diversifica oferta turística do vinho ao azeite, termas ou caminhadas",
-      "summary": "Das tradicionais lagaradas ao corte de uvas, caminhadas, miradouros, mas também apanha da azeitona, provas de vinho ou azeite e termas, o Douro diversifica cada vez mais as experiências para mostrar o Património Mundial aos turistas. “Tivemos uma bandeira muito grande, para mim igual ou superior à c",
-      "source": "ECO",
-      "date": "Sun, 20 Sep 2026 12:06:44 +0000",
-      "url": "https://eco.sapo.pt/reportagem/douro-diversifica-oferta-turistica-do-vinho-ao-azeite-termas-ou-caminhadas/",
-      "img": "https://eco.imgix.net/uploads/2024/03/cropped-doc-20180606-24304469-es__7155.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6bebcf2d",
-      "cat": "sociedade",
-      "title": "Good News in History September 20",
-      "summary": "46 years ago today, Blizzard of Ozz, the debut solo album of the great and lately deceased metal singer Ozzy Osbourne, was released to moderate reviews and success. However it grew to become a staple of the genre, and was ranked as the ninth-greatest heavy metal album of all time by Rolling Stone. I",
-      "source": "Good News Network",
-      "date": "Sun, 20 Sep 2026 07:00:00 +0000",
-      "url": "https://www.goodnewsnetwork.org/events060920/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/09/Blizzard-of-Ozz-cover-art-fair-use.jpg",
+      "date": "Mon, 21 Sep 2026 11:37:52 +0000",
+      "url": "https://eco.sapo.pt/2026/09/21/governo-torna-permanente-apoio-as-artes-e-oficios-tradicionais-iniciado-no-prr/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-47454486-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -300,35 +322,13 @@
       "score": 0.73
     },
     {
-      "id": "b7f9c949",
-      "cat": "cultura",
-      "title": "Onde estão, afinal, os “alunos de Crato”?",
-      "summary": "É abusiva, se não mesmo ridícula, a tentativa de apropriação dos bons resultados de Portugal no PISA de 2015 por parte do ex-ministro. Opinião de Nuno Serra",
-      "source": "Público",
-      "date": "Sun, 20 Sep 2026 23:30:00 GMT",
-      "url": "https://www.publico.pt/2026/09/21/opiniao/opiniao/onde-estao-afinal-alunos-crato-2188635",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "fe6ccd49",
+      "id": "267d1181",
       "cat": "tecnologia",
-      "title": "Quando os governantes querem ser diretores-gerais",
-      "summary": "Nos últimos anos, e em particular com o atual Governo, assistimos a uma intervenção crescente de ministros e secretários de Estado em matérias que pertencem ao domínio da gestão administrativa. Opinião de David Xavier",
+      "title": "Enter TV n.º 9: os robôs que querem invadir as nossas casas",
+      "summary": "No segundo programa especial dedicado &agrave; IFA, fomos conhecer os rob&ocirc;s que j&aacute; est&atilde;o a chegar &agrave;s f&aacute;bricas e preparam-se para entrar nas nossas casas.",
       "source": "Público",
-      "date": "Sun, 20 Sep 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/09/21/opiniao/opiniao/governantes-querem-diretoresgerais-2188265",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "8d0d9770",
-      "cat": "ciencia",
-      "title": "O segredo é a alma da fusão? E se corre mal?",
-      "summary": "A fusão dos 1.º e 2.º ciclos, a acontecer, exige estudo, planeamento, rigor, competência e responsabilidade, isto é, tudo o que tem faltado ao “grande reformador”. Opinião de Mário Nogueira",
-      "source": "Público",
-      "date": "Sun, 20 Sep 2026 23:20:00 GMT",
-      "url": "https://www.publico.pt/2026/09/21/opiniao/opiniao/segredo-alma-fusao-corre-mal-2188256",
+      "date": "Mon, 21 Sep 2026 11:35:14 GMT",
+      "url": "https://www.publico.pt/2026/09/21/video/enter-tv-n9-robos-querem-invadir-casas-20260921-121106",
       "img": null,
       "score": 0.7
     }
