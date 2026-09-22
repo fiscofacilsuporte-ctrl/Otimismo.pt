@@ -1,5 +1,5 @@
 {
-  "last_update": "21/09/2026 21:55 UTC",
+  "last_update": "22/09/2026 04:30 UTC",
   "total": 30,
   "news": [
     {
@@ -58,6 +58,39 @@
       "score": 0.79
     },
     {
+      "id": "01c401f4",
+      "cat": "tecnologia",
+      "title": "Stem cells reverse stroke damage and restore movement in mice",
+      "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human bra",
+      "source": "ScienceDaily",
+      "date": "Mon, 21 Sep 2026 21:49:32 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+      "img": "https://www.sciencedaily.com/images/1920/mouse-brain-after-stroke-and-neural-stem-cell-transplantation.webp",
+      "score": 0.79
+    },
+    {
+      "id": "f89b4590",
+      "cat": "ciencia",
+      "title": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
+      "summary": "Researchers have found evidence that long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties. The discovery could lead to new treatments that target the brain's dopamine system.",
+      "source": "ScienceDaily",
+      "date": "Mon, 21 Sep 2026 23:48:58 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
+      "img": "https://www.sciencedaily.com/images/1920/brain-scan-glitch-disease.webp",
+      "score": 0.79
+    },
+    {
+      "id": "164edd12",
+      "cat": "tecnologia",
+      "title": "Passos: o drama de ter razão e não ter votos",
+      "summary": "Passos vai ter finalmente um plano para o País. Será uma espécie de moção de censura construtiva que enfrenta um problema: tem ideias, um primeiro-ministro alternativo, mas faltam-lhe os votos.",
+      "source": "Observador",
+      "date": "Tue, 22 Sep 2026 00:22:26 +0100",
+      "url": "https://observador.pt/opiniao/passos-o-drama-de-ter-razao-e-nao-ter-votos/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2414%3A2414%3Anowe%3A74%3A952%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170559%2Frui-pedro-antunes.jpg",
+      "score": 0.76
+    },
+    {
       "id": "dc27270a",
       "cat": "tecnologia",
       "title": "Donatella Versace cria nova marca",
@@ -113,28 +146,6 @@
       "score": 0.76
     },
     {
-      "id": "4e9d10b3",
-      "cat": "ciencia",
-      "title": "NASA just powered up Roman’s massive 300-megapixel camera",
-      "summary": "NASA’s Roman Space Telescope has successfully activated its 300-megapixel infrared camera, which will capture enormous stretches of the cosmos with Hubble-like sharpness. Its planet-hunting coronagraph is also working as expected, putting Roman another major step closer to beginning science operatio",
-      "source": "ScienceDaily",
-      "date": "Mon, 21 Sep 2026 08:10:58 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
-      "img": "https://www.sciencedaily.com/images/1920/nasa-roman-space-telescope-observes-cosmos.webp",
-      "score": 0.76
-    },
-    {
-      "id": "6f69e13c",
-      "cat": "ciencia",
-      "title": "Stanford scientists discover the human brain may actually be two separate organs",
-      "summary": "Scientists have found that the human brain develops from two distinct cellular systems, suggesting that evolution fused together two ancient nervous systems with very different jobs. The discovery also allowed researchers to grow human hindbrain neurons in the lab, opening new possibilities for stud",
-      "source": "ScienceDaily",
-      "date": "Mon, 21 Sep 2026 06:12:51 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
-      "img": "https://www.sciencedaily.com/images/1920/brain-scan-mri.webp",
-      "score": 0.76
-    },
-    {
       "id": "8fa1b449",
       "cat": "tecnologia",
       "title": "The ‘National Park’ That Stretches From Coast to Coast",
@@ -146,36 +157,36 @@
       "score": 0.76
     },
     {
-      "id": "a0c3f928",
-      "cat": "tecnologia",
-      "title": "Reconquista à portugueza",
-      "summary": "Se fosse jovem, não deixava que uns tipos destes começassem a levantar cabelo, porque depois já se sabe como é, quando damos por ela, já ninguém os pára. Crónica de Cláudia Lucas Chéu",
-      "source": "Público",
-      "date": "Mon, 21 Sep 2026 20:05:39 GMT",
-      "url": "https://www.publico.pt/2026/09/21/p3/cronica/reconquista-portugueza-2188824",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "d63ef641",
-      "cat": "tecnologia",
-      "title": "Taxa de aprovação de Trump está no patamar mais baixo de sempre",
-      "summary": "Republicanos reprovam a forma como o Presidente tem gerido o aumento do custo de vida, considerado o tema com mais influência nas eleições intercalares de Novembro.",
-      "source": "Público",
-      "date": "Mon, 21 Sep 2026 19:28:55 GMT",
-      "url": "https://www.publico.pt/2026/09/21/mundo/noticia/taxa-aprovacao-trump-patamar-baixo-2188850",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "132ad791",
+      "id": "9ce4d30c",
       "cat": "geral",
-      "title": "Kremlin avisa que sanções dos EUA prejudicam esforços de paz",
-      "summary": "De acordo com o jornal The Moscow Times. O porta-voz do Kremlin, Dmitry Peskov, afirmou que as novas sanções impostas pelos Estados Unidos vão prejudicar o diálogo bilateral",
+      "title": "Mário Centeno faz a rodagem do carro",
+      "summary": "Está Centeno a preparar-se para concorrer ao cargo de primeiro-ministro?",
+      "source": "Público",
+      "date": "Tue, 22 Sep 2026 01:38:15 GMT",
+      "url": "https://www.publico.pt/2026/09/22/politica/noticia/mario-centeno-faz-rodagem-carro-2188861",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "10186836",
+      "cat": "geral",
+      "title": "Grandes Prémios de Fórmula 1 passam de 305 para 290 quilómetros em 2027",
+      "summary": "Redução corresponde a menos duas ou três voltas por corrida.",
+      "source": "Público",
+      "date": "Mon, 21 Sep 2026 21:50:44 GMT",
+      "url": "https://www.publico.pt/2026/09/21/desporto/noticia/premios-formula-1-passam-305-290-quilometros-2027-2188854",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "80cb5c9a",
+      "cat": "tecnologia",
+      "title": "IL pressiona Governo a baixar imposto sobre os combustíveis",
+      "summary": "A IL voltou ao Parlamento para exigir ao Governo que execute a resolução aprovada em maio — com votos de Chega, PS, PCP e BE — que recomenda a descida do ISP nos combustíveis.",
       "source": "Observador",
-      "date": "Mon, 21 Sep 2026 21:10:55 +0100",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/kremlin-avisa-que-sancoes-dos-eua-prejudicam-esforcos-de-paz/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg",
+      "date": "Tue, 22 Sep 2026 00:28:31 +0100",
+      "url": "https://observador.pt/2026/09/22/il-pressiona-governo-a-cumprir-recomendacao-aprovada-em-maio-pelo-parlamento-para-reduzir-isp/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/27131108/46104521.jpg",
       "score": 0.73
     },
     {
@@ -267,47 +278,36 @@
       "score": 0.73
     },
     {
-      "id": "c34cdadc",
-      "cat": "geral",
-      "title": "Uma barafunda e tanto",
-      "summary": "Até hoje é impossível calcular a quantidade de livros que os Grandes Modelos de Linguagem já engoliram e deglutiram no seu tubo digestivo tecnológico. Crónica de Ana Lázaro",
+      "id": "2aa979b8",
+      "cat": "tecnologia",
+      "title": "Morreu Jorge Palma, a voz Frágil do Bairro do Amor",
+      "summary": "Compositor e intérprete de Deixa-me Rir ou A Gente Vai Continuar , Palma morre aos 76 anos, após meio século de carreira.",
       "source": "Público",
-      "date": "Mon, 21 Sep 2026 20:17:42 GMT",
-      "url": "https://www.publico.pt/2026/09/21/impar/cronica/barafunda-tanto-2188806",
+      "date": "Tue, 22 Sep 2026 00:05:54 GMT",
+      "url": "https://www.publico.pt/2026/09/22/culturaipsilon/noticia/morreu-jorge-palma-2188860",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "2a1b6fb6",
+      "id": "5a9896aa",
       "cat": "tecnologia",
-      "title": "As notícias das 21h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "3h. Jorge Palma. Líder do PS recorda \"homem livre\"",
+      "summary": "Artista morreu aos 76 anos, na sequência de uma paragem cardiorrespiratória. Ainda nesta edição, os alertas dos responsáveis de secretas europeias: Rússia pode testar a NATO nos próximos meses.",
       "source": "Observador",
-      "date": "Mon, 21 Sep 2026 21:12:54 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1764/",
+      "date": "Tue, 22 Sep 2026 03:15:15 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2444/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "b1747b33",
-      "cat": "desporto",
-      "title": "\"Três jogos com automutilações que não podem acontecer\"",
-      "summary": "À margem dos Portugal Football Globes, o presidente do Sporting assegurou que não existiu qualquer reunião para discutir o futuro de Rui Borges, mas não escondeu desagrado com os resultados recentes.",
-      "source": "Observador",
-      "date": "Mon, 21 Sep 2026 20:51:49 +0100",
-      "url": "https://observador.pt/2026/09/21/foram-tres-jogos-com-automutilacoes-que-nao-podem-acontecer-varandas-garante-que-rui-borges-nunca-esteve-em-causa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2300:nowe:0:280/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/21204548/doc202608234765202720260823es03-scaled.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "a7fddd33",
+      "id": "d990cca2",
       "cat": "tecnologia",
-      "title": "Medo…!",
-      "summary": "De cada vez que o PS fala sobre habitação, passa-me um calafrio pela espinha. Porque confunde ideologia com soluções.",
+      "title": "Músico Jorge Palma morreu aos 76 anos",
+      "summary": "Um dos cantores e compositores mais marcantes da música portuguesa contemporânea morreu esta segunda-feira à noite.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 21 Sep 2026 21:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/20260921-200457-medo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-16-00-296266.png",
+      "date": "Tue, 22 Sep 2026 00:55:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/cultura/detalhe/musico-jorge-palma-morreu-aos-76-anos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2014-11/img_100x100uu2014-11-07-09-33-00-237198.jpg",
       "score": 0.7
     },
     {
