@@ -1,5 +1,5 @@
 {
-  "last_update": "22/09/2026 11:23 UTC",
+  "last_update": "22/09/2026 16:45 UTC",
   "total": 30,
   "news": [
     {
@@ -22,6 +22,17 @@
       "date": "Fri, 11 Sep 2026 05:50:39 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-1347084357.jpeg",
+      "score": 0.82
+    },
+    {
+      "id": "2cd558ba",
+      "cat": "ciencia",
+      "title": "For the first time, scientists watch sound jump between quantum states",
+      "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based",
+      "source": "ScienceDaily",
+      "date": "Tue, 22 Sep 2026 09:17:20 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
+      "img": "https://www.sciencedaily.com/images/1920/quantum-jumps-in-sound.webp",
       "score": 0.82
     },
     {
@@ -69,25 +80,14 @@
       "score": 0.79
     },
     {
-      "id": "f89b4590",
-      "cat": "ciencia",
-      "title": "Brain scans reveal a possible cause of long COVID fatigue and brain fog",
-      "summary": "Researchers have found evidence that long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties. The discovery could lead to new treatments that target the brain's dopamine system.",
-      "source": "ScienceDaily",
-      "date": "Mon, 21 Sep 2026 23:48:58 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260920222412.htm",
-      "img": "https://www.sciencedaily.com/images/1920/brain-scan-glitch-disease.webp",
-      "score": 0.79
-    },
-    {
-      "id": "d2cfb1ee",
+      "id": "968379d1",
       "cat": "tecnologia",
-      "title": "UE e Filipinas assinam tratado de livre comércio",
-      "summary": "A presidente da Comissão Europeia avançou que o acordo de livre comércio entre a UE e as Filipinas foi assinado, três anos após a sua visita a Manila. O acordo representa \"um avanço\", considerou a UE.",
-      "source": "Observador",
-      "date": "Tue, 22 Sep 2026 08:36:26 +0100",
-      "url": "https://observador.pt/2026/09/22/uniao-europeia-e-filipinas-concluem-as-negociacoes-sobre-tratado-de-livre-comercio/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:25/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/22073615/47814064.jpg",
+      "title": "Vendas da Jysk em Portugal sobem 40% para 84,8 milhões em 2025-2026",
+      "summary": "Em termos globais, a Jysk encerrou o exercício de 2025/26 com um volume de negócios de 7.000 milhões de euros, o que se traduz num crescimento de 12,9%, um recorde para a multinacional dinamarquesa.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 22 Sep 2026 15:50:48 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/vendas-da-jysk-em-portugal-sobem-40-para-84-8-milhoes-em-2025-2026",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-08-01-05-42-491843.jpg",
       "score": 0.76
     },
     {
@@ -135,17 +135,6 @@
       "score": 0.76
     },
     {
-      "id": "0259d3f3",
-      "cat": "ciencia",
-      "title": "New wild cat species discovered - with only one known living member",
-      "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
-      "source": "BBC News",
-      "date": "Thu, 17 Sep 2026 23:15:55 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a267/live/b9315260-b357-11f1-b1d1-571ed4d7ff2c.png",
-      "score": 0.76
-    },
-    {
       "id": "8fa1b449",
       "cat": "tecnologia",
       "title": "The ‘National Park’ That Stretches From Coast to Coast",
@@ -157,58 +146,36 @@
       "score": 0.76
     },
     {
-      "id": "007a4984",
+      "id": "497cf5a4",
       "cat": "tecnologia",
-      "title": "UE e Filipinas anunciam acordo para a liberalização do comércio bilateral",
-      "summary": "Parâmetros-chave do acordo incluem a eliminação de 94% das tarifas e princípios “transparentes” em matéria de energia e matérias-primas críticas.",
+      "title": "Na Assembleia Geral da ONU, Trump volta a ameaçar Irão com a “aniquilação”",
+      "summary": "Perante os líderes mundiais reunidos em Nova Iorque, Presidente dos Estados Unidos promete “levar o Inferno” ao Irão mas acredita que acordo será assinado após as eleições intercalares.",
       "source": "Público",
-      "date": "Tue, 22 Sep 2026 09:55:40 GMT",
-      "url": "https://www.publico.pt/2026/09/22/economia/noticia/ue-filipinas-anunciam-acordo-liberalizacao-comercio-bilateral-2188878",
+      "date": "Tue, 22 Sep 2026 15:30:32 GMT",
+      "url": "https://www.publico.pt/2026/09/22/mundo/noticia/assembleia-geral-onu-trump-volta-ameacar-irao-aniquilacao-2188940",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "a2d05971",
-      "cat": "tecnologia",
-      "title": "Jornalista do PÚBLICO distinguida em prémio europeu de jornalismo de ciência e saúde",
-      "summary": "Filipa Almeida Mendes foi uma das vencedoras do Prémio de Jornalismo Semmelweis-Richter, com um trabalho sobre a capacidade de a inteligência artificial estimar o risco de milhares de doenças.",
+      "id": "132d31ea",
+      "cat": "geral",
+      "title": "A casa, e depois? O que fica para lá da obra",
+      "summary": "A arquitetura não termina quando a obra acaba. É depois, no uso, no desgaste, na manutenção e na transformação, que uma casa começa verdadeiramente a ser habitada. Crónica de Diogo Menéres Pimentel",
       "source": "Público",
-      "date": "Tue, 22 Sep 2026 09:42:45 GMT",
-      "url": "https://www.publico.pt/2026/09/22/ciencia/noticia/jornalista-publico-distinguida-premio-europeu-jornalismo-ciencia-saude-2188870",
+      "date": "Tue, 22 Sep 2026 15:20:42 GMT",
+      "url": "https://www.publico.pt/2026/09/22/p3/cronica/casa-fica-obra-2187969",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "1d7f1600",
+      "id": "9fbc025a",
       "cat": "tecnologia",
-      "title": "Lei de Programação Militar. Marinha quer terceiro submarino",
-      "summary": "Aquisição de novas fragatas será financiada pelos empréstimos do Instrumento de Ação para a Segurança da Europa. Lei que estabelece investimento para as Forças Armadas terá de ser revista este ano.",
-      "source": "Observador",
-      "date": "Tue, 22 Sep 2026 09:02:24 +0100",
-      "url": "https://observador.pt/2026/09/22/marinha-quer-terceiro-submarino-na-lei-de-programacao-militar/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/22050512/47796225.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6eec1525",
-      "cat": "economia",
-      "title": "Subida do preço das casas abranda pelo segundo trimestre consecutivo",
-      "summary": "Com menos transações, o ritmo de crescimento dos preços abrandou, mas o aumento continua a ser expressivo. Valor dos imóveis subiu 16,5% no segundo trimestre deste ano.",
+      "title": "Confiança do consumidor da Zona Euro e UE interrompe recuperação em setembro",
+      "summary": "O indicador fixou-se em -15,8 pontos na UE e -16,5 pontos na Zona Euro, tendo-se afastado novamente da média de longo prazo após quatro meses de recuperação, assinala a Comissão Europeia.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 22 Sep 2026 11:47:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/subida-do-preco-das-casas-abranda-pelo-segundo-trimestre-consecutivo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-05-13-49-14-491448.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7b7cf8d4",
-      "cat": "economia",
-      "title": "CP convida Alstom e Talgo a apresentar propostas para fornecer comboios para alta velocidade",
-      "summary": "Franceses e espanhóis passam fase de pré-qualificação do concurso lançado pela CP, com um preço base de 504 milhões de euros, para a compra de 12 automotoras de alta velocidade. Primeiro comboio deve ser entregue em 2031.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 22 Sep 2026 11:44:21 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/cp-convida-alstom-e-talgo-a-apresentar-propostas-para-fornecer-comboios-para-alta-velocidade",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-07/img_100x100uu2024-07-02-20-34-15-480478.jpg",
+      "date": "Tue, 22 Sep 2026 16:29:59 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/confianca-do-consumidor-da-zona-euro-e-ue-interrompe-recuperacao-em-setembro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-18-11-29-03-518658.jpg",
       "score": 0.73
     },
     {
@@ -223,47 +190,25 @@
       "score": 0.73
     },
     {
-      "id": "f8c0b2a1",
-      "cat": "tecnologia",
-      "title": "Presidente do V. Guimarães agastado com início de época \"frustrante\"",
-      "summary": "O presidente do Vitória de Guimarães, Rui Rodrigues, afirmou que o 14.º lugar na I Liga “não se coaduna” com o que a equipa minhota tem mostrado no relvado, num início de época “frustrante”.",
+      "id": "1c730eb2",
+      "cat": "desporto",
+      "title": "SAD do Sporting de Braga com resultado positivo de 17,3 ME em 2025/26",
+      "summary": "A sociedade anónima desportiva (SAD) do Sporting de Braga apresentou um resultado líquido de 17,3 milhões de euros (ME) em 2025/26, informou hoje o sexto classificado da I Liga portuguesa de futebol.",
       "source": "RTP",
-      "date": "Tue, 22 Sep 2026 12:54:20 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/presidente-do-v-guimaraes-agastado-com-inicio-de-epoca-frustrante_d1766960",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6bb88f9eb06ff29879c69e096e649c9f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Tue, 22 Sep 2026 15:27:58 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/sad-do-sporting-de-braga-com-resultado-positivo-de-173-me-em-202526_d1767000",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "89a2c108",
-      "cat": "tecnologia",
-      "title": "Novobanco lança fundos da “guru da inovação” Cathie Wood focados em IA e no espaço",
-      "summary": "O Novobanco acaba de lançar quatro novos fundos ETF (Exchange Traded Funds) da ARK Invest, a gestora norte-americana fundada e liderada por Cathie Wood, conhecida por ter identificado cedo oportunidades em empresas com potencial para mudar indústrias, como a Tesla ou a Spacex, de Elon Musk, Nvidia o",
-      "source": "ECO",
-      "date": "Tue, 22 Sep 2026 10:51:41 +0000",
-      "url": "https://eco.sapo.pt/2026/09/22/novobanco-lanca-fundos-da-guru-da-inovacao-cathie-wood-focados-em-ia-e-no-espaco/",
-      "img": "https://eco.imgix.net/uploads/2022/11/cropped-web-summit-202201.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "78f92ac6",
-      "cat": "sociedade",
-      "title": "Donald Trump responde a boicote das televisões com canal no YouTube",
-      "summary": "Menos de 24 horas após as cadeias de televisão norte-americanas CBS, NBC, ABC e Fox terem anunciado que a sua &#8216;pool&#8217; de jornalista deixaria de cobrir as atividades de Donald Trump, num gesto de solidariedade CNN, do canal MS NOW e do meio de comunicação online Politico, cujo acesso à Cas",
-      "source": "ECO",
-      "date": "Tue, 22 Sep 2026 10:50:54 +0000",
-      "url": "https://eco.sapo.pt/2026/09/22/donald-trump-responde-a-boicote-das-televisoes-com-canal-no-youtube/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-trump-tv-2-1.png",
-      "score": 0.73
-    },
-    {
-      "id": "d6a15c4d",
-      "cat": "tecnologia",
-      "title": "Portugal vai aderir a rede europeia para testes de veículos autónomos",
-      "summary": "Portugal vai entrar na rede europeia de testes transfronteiriços de veículos autónomos. A declaração será assinada pela secretária de Estado da Mobilidade, Cristina Pinto Dias, na próxima semana. &#8220;Na próxima semana irei assinar a declaração conjunta de intenções sobre a criação de um campo de ",
-      "source": "ECO",
-      "date": "Tue, 22 Sep 2026 10:46:50 +0000",
-      "url": "https://eco.sapo.pt/2026/09/22/portugal-vai-aderir-a-rede-europeia-para-testes-de-veiculos-autonomos/",
-      "img": "https://eco.imgix.net/uploads/2024/06/cropped-doc-20240619-43069690-3ra_9159.jpg",
+      "id": "39a9987e",
+      "cat": "ciencia",
+      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+      "source": "BBC News",
+      "date": "Tue, 22 Sep 2026 12:54:14 GMT",
+      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c8/live/a2ab36e0-b673-11f1-b711-df5e4d50c2fd.jpg",
       "score": 0.73
     },
     {
@@ -300,36 +245,91 @@
       "score": 0.73
     },
     {
-      "id": "43d39dff",
-      "cat": "tecnologia",
-      "title": "André Villas-Boas: “Há uma santa aliança entre Benfica e Sporting que não posso aceitar”",
-      "summary": "Dirigente elogiou prestação do árbitro no clássico de domingo, dizendo que especialistas da arbitragem avaliaram positivamente Miguel Nogueira. Rivais de Lisboa unidos contra portistas, acusa.",
+      "id": "29222d44",
+      "cat": "geral",
+      "title": "UE cede à pressão francesa e retira dois oligarcas russos da lista das sanções",
+      "summary": "Sanções contra indivíduos e entidades passam a vigorar por três anos e não seis meses. Paris alegou razões de segurança nacional para pedir o levantamento das medidas aplicadas a Alisher Usmanov.",
       "source": "Público",
-      "date": "Tue, 22 Sep 2026 10:31:31 GMT",
-      "url": "https://www.publico.pt/2026/09/22/desporto/noticia/andre-villasboas-ha-santa-alianca-benfica-sporting-nao-aceitar-2188875",
+      "date": "Tue, 22 Sep 2026 15:52:39 GMT",
+      "url": "https://www.publico.pt/2026/09/22/mundo/noticia/ue-cede-pressao-francesa-retira-dois-oligarcas-russos-lista-sancoes-2188948",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "0ec3a3b2",
-      "cat": "tecnologia",
-      "title": "\"Jorge Palma deixa-nos um legado e uma marca indelével\"",
-      "summary": "O baixista dos Radio Macau, Alexandre Cortez, recorda Jorge Palma como \"um enorme poeta\" do cancioneiro. E sublinha que o músico deixa \"um legado importantíssimo\".",
+      "id": "5958960d",
+      "cat": "geral",
+      "title": "FPS e Surfers Cove unidas para desenvolver surf português",
+      "summary": "A Federação Portuguesa de Surf assinou protocolo com a Surfers Cove, em Óbidos, para estágios, formação técnica e competições. Wavegarden gera até 1.000 ondas por hora.",
       "source": "Observador",
-      "date": "Tue, 22 Sep 2026 10:00:15 +0100",
-      "url": "https://observador.pt/programas/resposta-pronta/jorge-palma-deixa-nos-um-legado-e-uma-marca-indelevel/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/12/13163802/770-podcast-resposta-pronta.jpg",
+      "date": "Tue, 22 Sep 2026 17:08:30 +0100",
+      "url": "https://observador.pt/2026/09/22/federacao-portuguesa-de-surf-e-surfers-cove-unem-se-para-desenvolvimento-do-surf-portugues/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/02185934/41794806.jpg",
       "score": 0.7
     },
     {
-      "id": "7c5f46c4",
+      "id": "64939dc4",
+      "cat": "geral",
+      "title": "Sete meios aéreos combatem fogo em Santo Tirso",
+      "summary": "O fogo deflagrou pelas 15h08 em Água Longa, Santo Tirso. Proteção Civil garante que não há feridos nem casas ameaçadas.",
+      "source": "Observador",
+      "date": "Tue, 22 Sep 2026 17:08:13 +0100",
+      "url": "https://observador.pt/2026/09/22/sete-meios-aereos-e-mais-de-100-operacionais-combatem-fogo-em-santo-tirso/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/21084044/47799531.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "96f756ec",
       "cat": "tecnologia",
-      "title": "Governo pede urgência ao Parlamento para aprovar redução intercalar do IRS",
-      "summary": "Governo opta por pedido de autorização legislativa e pede processo urgente, com votação em simultâneo das três fases de generalidade, especialidade e votação final global, o que poderá dificultar propostas de alteração dos partidos.",
+      "title": "Detido por falsificar contratos para legalizar imigrantes",
+      "summary": "Cidadão estrangeiro de 36 anos usava contratos falsos para obter atestados de residência e iniciar processos na AIMA. É a segunda detenção neste inquérito.",
+      "source": "Observador",
+      "date": "Tue, 22 Sep 2026 17:07:34 +0100",
+      "url": "https://observador.pt/2026/09/22/detido-no-porto-suspeito-de-falsificar-centenas-de-contratos-de-arrendamento-para-legalizar-imigrantes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2449:1377:nowe:0:128/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/06180742/igor-martins-operacaopretoriano-06-001.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "d0362e7a",
+      "cat": "tecnologia",
+      "title": "O que é a Trump TV, o serviço de \"streaming\" que chegou no meio da polémica com as televisões dos EUA",
+      "summary": "Poucos dias depois de revogar o acesso de três grandes órgãos de comunicação à Casa Branca, a Administração Trump revela novo serviço de \"streaming\".",
       "source": "Jornal de Negócios",
-      "date": "Tue, 22 Sep 2026 12:00:31 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/impostos/irs/detalhe/governo-pede-urgencia-ao-parlamento-para-aprovar-reducao-intercalar-do-irs",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-16-14-36-00-518610.jpg",
+      "date": "Tue, 22 Sep 2026 17:29:08 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/o-que-e-a-trump-tv-o-servico-de-streaming-que-chegou-no-meio-da-polemica-com-as-televisoes-dos-eua",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-22-17-26-48-529897.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "5083c6fc",
+      "cat": "tecnologia",
+      "title": "Ativo do dia: Nasdaq celebra novos máximos com euforia na IA",
+      "summary": "O ativo: Nasdaq é a segunda maior bolsa do mundo, logo depois da New York Stock Exchange (NYSE). O índice tecnológico Nasdaq é composto por milhares de ações não financeiras e acolhe as gigantes do setor, incluindo as sete magníficas: Apple, Microsoft, Nvidia, Alphabet, Amazon, Meta Platforms e Tesl",
+      "source": "ECO",
+      "date": "Tue, 22 Sep 2026 16:05:04 +0000",
+      "url": "https://eco.sapo.pt/2026/09/22/ativo-do-dia-nasdaq-celebra-novos-maximos-com-euforia-na-ia/",
+      "img": "https://eco.imgix.net/uploads/2026/09/proposta-1-indice.jpg",
       "score": 0.7
     }
   ]
