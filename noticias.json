@@ -1,5 +1,5 @@
 {
-  "last_update": "23/09/2026 11:19 UTC",
+  "last_update": "23/09/2026 16:41 UTC",
   "total": 30,
   "news": [
     {
@@ -34,6 +34,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
       "img": "https://www.sciencedaily.com/images/1920/quantum-jumps-in-sound.webp",
       "score": 0.82
+    },
+    {
+      "id": "ed9ef4e8",
+      "cat": "sociedade",
+      "title": "Scientists Pioneer Chemical Bath Method to Restore Aging EV Batteries Without Breaking Them Down",
+      "summary": "What if instead of investing billions into battery recycling plants, you could simply take your aging electric vehicle battery back, give it a good scrub, and get all that lost range back? That&#8217;s near the mark of what Cornell University scientists have recently demonstrated, if a little editor",
+      "source": "Good News Network",
+      "date": "Wed, 23 Sep 2026 13:00:49 +0000",
+      "url": "https://www.goodnewsnetwork.org/scientists-pioneer-chemical-bath-method-to-restore-aging-ev-batteries-without-breaking-them-down/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/A-conventional-battery-pack-credit-Getty-Images-via-Unsplash-.jpg",
+      "score": 0.79
     },
     {
       "id": "6630c168",
@@ -80,25 +91,36 @@
       "score": 0.79
     },
     {
-      "id": "ceb7cf21",
-      "cat": "cultura",
-      "title": "Governo promete fazer \"o possível\" para manter trabalhadores do PRR na Função Pública",
-      "summary": "Fim do PRR deixa em aberto o futuro de centenas de trabalhadores contratados com o PRR. Mas Manuel Castro Almeida assegura que o Governo vai procurar soluções para que esses trabalhadores não fiquem desempregados. \"São uma parte importante do sucesso do PRR\", diz.",
+      "id": "20b2578f",
+      "cat": "tecnologia",
+      "title": "Topbrands planeia abrir 25 lojas em dois anos. Estreia acontece em outubro",
+      "summary": "Empresa portuguesa, que fornece grandes insígnias do retalho, decidiu dar o salto para acelerar conquista do consumidor final. Primeiro apostou no \"online\" e agora estreia-se no mundo físico.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 23 Sep 2026 11:05:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/governo-promete-fazer-o-possivel-para-manter-trabalhadores-do-prr-na-funcao-publica",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-23-10-58-17-529927.jpg",
+      "date": "Wed, 23 Sep 2026 16:44:58 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/topbrands-planeia-abrir-25-lojas-em-dois-anos-estreia-acontece-em-outubro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-05/img_100x100uu2024-05-05-21-48-54-476595.jpg",
       "score": 0.76
     },
     {
-      "id": "33dc40a5",
-      "cat": "economia",
-      "title": "Carga fiscal aumentou para 35,3% do PIB em 2025",
-      "summary": "A carga fiscal subiu para 35,3% do Produto Interno Bruto (PIB) em 2025, mais 0,3 pontos percentuais face ao valor registado no ano anterior, de acordo com os dados divulgados esta quarta-feira pelo Instituto Nacional de Estatística (INE). Uma evolução que resulta de um crescimento nominal da receita",
+      "id": "33e033ff",
+      "cat": "tecnologia",
+      "title": "Jorge Jesus confirma titularidade do capitão. Ronaldo admite: \"Os portugueses estão a contar comigo\".",
+      "summary": "&quot;Símbolo de Portugal e da Seleção&quot;, de acordo com o selecionador nacional, Cristiano Ronaldo entra diretamente para o onze titular de Jorge Jesus, no seu primeiro desafio internacional. O técnico admite lutar por todos os troféus. O capitão, por sua vez, tem em vista os mil golos e assegur",
+      "source": "RTP",
+      "date": "Wed, 23 Sep 2026 17:14:55 +0100",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/jorge-jesus-confirma-titularidade-do-capitao-ronaldo-admite-os-portugueses-estao-a-contar-comigo_d1767276",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6a/6aa3ae3f53cf06b4c73b9d0ca0d0e112?w=350&amp;q=50&amp;rect=0,51,1233,676&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "363abdc2",
+      "cat": "tecnologia",
+      "title": "Seixal, Lisboa e Castelo do Bode. Planos para Almada diversificam fontes de água",
+      "summary": "Os municípios de Almada e do Seixal vão assinar um acordo para o licenciamento de um furo de captação de água, visando a resolução a curto prazo do problema de abastecimento do concelho de Almada. O anúncio foi feito nesta quarta-feira pela ministra do Ambiente, Maria da Graça Carvalho. O acordo ent",
       "source": "ECO",
-      "date": "Wed, 23 Sep 2026 11:11:00 +0000",
-      "url": "https://eco.sapo.pt/2026/09/23/carga-fiscal-aumentou-para-353-do-pib-em-2025/",
-      "img": "https://eco.imgix.net/uploads/2025/10/cropped-oe2026-03.jpg",
+      "date": "Wed, 23 Sep 2026 15:59:52 +0000",
+      "url": "https://eco.sapo.pt/2026/09/23/seixal-lisboa-e-castelo-do-bode-planos-para-almada-diversificam-fontes-de-agua/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-conf-transporte-publico040.jpg",
       "score": 0.76
     },
     {
@@ -135,91 +157,47 @@
       "score": 0.76
     },
     {
-      "id": "517def59",
+      "id": "e0eed476",
       "cat": "tecnologia",
-      "title": "Quem te ensinou a olhar?",
-      "summary": "Primeiro fixa-se o olhar, depois vem a observação. A seguir aparece a piada. E, quando damos por isso, certas palavras regressam ao quotidiano com uma leveza que julgávamos ultrapassada.",
+      "title": "Entre a serra e o silêncio dos homens",
+      "summary": "A verdadeira coragem não está em ignorar a dor ou em fingir que está tudo bem, mas em reconhecer os sinais do corpo e procurar ajuda. Crónica de João da Silva",
       "source": "Público",
-      "date": "Wed, 23 Sep 2026 09:07:00 GMT",
-      "url": "https://www.publico.pt/2026/09/23/impar/noticia/ensinou-olhar-2188961",
+      "date": "Wed, 23 Sep 2026 16:05:57 GMT",
+      "url": "https://www.publico.pt/2026/09/23/impar/cronica/serra-silencio-homens-2189060",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "a35de744",
+      "id": "5b07df20",
       "cat": "tecnologia",
-      "title": "\"Histórias onde as liberdades de expressão e imprensa venceram\". Primeiro episódio de Devida Vénia revisita caso Silva Resende",
-      "summary": "Foi a primeira vez que o Estado portugu&ecirc;s foi condenado por viola&ccedil;&atilde;o do direito &agrave; liberdade de express&atilde;o.",
-      "source": "Público",
-      "date": "Wed, 23 Sep 2026 09:05:00 GMT",
-      "url": "https://www.publico.pt/2026/09/23/video/historias-onde-liberdades-expressao-imprensa-venceram-episodio-devida-venia-revisita-caso-silva-resende-20260918-135658",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "1b8ea828",
-      "cat": "tecnologia",
-      "title": "OCDE revê em baixa crescimento da zona euro para 1% em 2027",
-      "summary": "Apesar de reconhecer que o desempenho da economia este ano está a ser mais forte do que o esperado, a OCDE ficou agora mais pessimista em relação ao que irá acontecer em 2027.",
-      "source": "Público",
-      "date": "Wed, 23 Sep 2026 08:50:32 GMT",
-      "url": "https://www.publico.pt/2026/09/23/economia/noticia/ocde-reve-baixa-crescimento-zona-euro-1-2027-2188999",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "362b94c8",
-      "cat": "geral",
-      "title": "Água em Almada. Acordo pode levar \"2 a 3 anos\" a concretizar",
-      "summary": "Inês de Medeiros diz que tudo depende da rapidez da execução dos trabalhos. Autarca de Almada revela que concelho tem encontrado número \"surpreendente\" de desvios e que por isso aumentou fiscalização.",
+      "title": "PRR deixou obras avaliadas em 220 milhões de euros de fora",
+      "summary": "O ministro da Economia afirmou que as obras que não foram concluídas com financiamento do PRR serão terminadas com fundos do Orçamento do Estado, admitindo que só haverá uma solução em outubro.",
       "source": "Observador",
-      "date": "Wed, 23 Sep 2026 10:18:08 +0100",
-      "url": "https://observador.pt/programas/explicador/agua-em-almada-acordo-pode-levar-2-a-3-anos-a-concretizar/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
+      "date": "Wed, 23 Sep 2026 15:15:10 +0100",
+      "url": "https://observador.pt/2026/09/23/prr-deixou-obras-avaliadas-em-220-milhoes-de-euros-fora-mas-contas-exatas-so-em-outubro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/23122556/47821455.jpg",
       "score": 0.73
     },
     {
-      "id": "01ed5ee6",
-      "cat": "tecnologia",
-      "title": "China. Menina de seis anos bate recorde no cubo mágico",
-      "summary": "Lian Yunzhi estabeleceu o novo recorde mundial feminino, resolvendo o cubo mágico em 4,27 segundos. Treina três horas por dia. O recorde mundial masculino é de 3,51 segundos, que pertence a Yiheng.",
+      "id": "4f3f300c",
+      "cat": "ciencia",
+      "title": "Investigação à indústria pedreira portuguesa \"sem provas\"",
+      "summary": "Investigação britânica a pedreira portuguesa encerra por \"falta de provas\". Produtor britânico alegou que a produção de calcário em Portugal beneficiava de subsídios públicos.",
       "source": "Observador",
-      "date": "Wed, 23 Sep 2026 09:31:03 +0100",
-      "url": "https://observador.pt/2026/09/23/menina-chinesa-de-seis-anos-estabelece-recorde-mundial-no-cubo-magico/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1586:892:nowe:325:392/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/03/16144010/21003527.jpg",
+      "date": "Wed, 23 Sep 2026 15:14:38 +0100",
+      "url": "https://observador.pt/2026/09/23/investigacao-britanica-sem-provas-de-subsidios-a-industria-pedreira-portuguesa/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/02070929/43631923.jpg",
       "score": 0.73
     },
     {
-      "id": "23e062d7",
+      "id": "02a4caaa",
       "cat": "tecnologia",
-      "title": "Sensible Soccers editam esta semana novo álbum",
-      "summary": "Camminando di Notte, o quinto álbum da banda, é editado na sexta-feira, dia para o qual está marcado o primeiro concerto de apresentação, no Theatro Circo em Braga.",
+      "title": "Preço das casa desacelera e vendas caem",
+      "summary": "O preço das casas em Portugal registou um aumento homólogo de 16,5% no segundo trimestre, uma desaceleração face aos 17,8% do trimestre anterior, de acordo com o INE. O número de transacções caiu 6,4%.",
       "source": "Observador",
-      "date": "Wed, 23 Sep 2026 09:00:23 +0100",
-      "url": "https://observador.pt/2026/09/23/sensible-soccers-editam-esta-semana-novo-album-camminando-di-notte/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3500:1968:nowe:0:182/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/13105808/sensible-soccers-8966.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "0aed56a4",
-      "cat": "economia",
-      "title": "Contas públicas com excedente de 0,5% do PIB no 1º semestre",
-      "summary": "Contas públicas passaram de défice a excedente. Depois de primeiro trimestre negativo (-0,7%), o excedente expressivo de 1,6% no segundo trimestre pôs as contas do semestre no verde. Dívida pública de 2025 foi afinal de 89,2%.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 23 Sep 2026 11:14:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/contas-publicas-com-excedente-de-0-5-do-pib-no-1-semestre",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-09-40-12-529682.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "90ff324f",
-      "cat": "saude",
-      "title": "Governo remete para outubro \"soluções\" para obras inacabadas do PRR",
-      "summary": "Ministro Manuel Castro Almeida reiterou, no Parlamento, que o Governo \"não quer deixar nenhuma obra a meio\" e que está a procurar soluções para dar cumprimento a esses projetos. Orçamento do Estado, PT2030 e empréstimos do BEI são hipóteses em cima da mesa.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 23 Sep 2026 10:47:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/governo-remete-para-outubro-solucoes-para-obras-inacabadas-do-prr",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-16-13-14-44-529583.jpg",
+      "date": "Wed, 23 Sep 2026 15:09:17 +0100",
+      "url": "https://observador.pt/programas/boa-moeda-ma-moeda/preco-das-casa-desacelera-e-vendas-caem/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/11/16233301/770-podcast-boa-moeda-ma-moedaainda-bem.jpg",
       "score": 0.73
     },
     {
@@ -234,36 +212,36 @@
       "score": 0.73
     },
     {
-      "id": "7e4b78e8",
-      "cat": "desporto",
-      "title": "Champions feminina. Benfica vence Juventus em Turim",
-      "summary": "O Benfica, hexacampeão português, venceu esta terça-feira por 2-1 na visita à Juventus, em jogo da primeira jornada da fase de liga da Liga dos Campeões feminina de futebol.",
-      "source": "RTP",
-      "date": "Tue, 22 Sep 2026 19:27:55 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/champions-feminina-benfica-vence-juventus-em-turim_d1767073",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/79/7921a85286122ae90534c7a993fcb4bd?w=350&amp;q=50&amp;rect=0,20,1463,802&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "49106607",
-      "cat": "economia",
-      "title": "Afinal, economia cresceu 2,7% em 2024",
-      "summary": "O Instituto Nacional de Estatística (INE) reviu esta quarta-feira em alta o crescimento do Produto Interno Bruto (PIB) de 2024 para 2,7%, mais 0,5 pontos percentuais do que na estimativa anterior. O organismo de estatística nacional confirmou ainda o crescimento de 1,9% no ano passado. Os dados prel",
-      "source": "ECO",
-      "date": "Wed, 23 Sep 2026 10:13:42 +0000",
-      "url": "https://eco.sapo.pt/2026/09/23/afinal-economia-cresceu-27-em-2024/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-6p1a6025-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "d4c2a636",
+      "id": "8195b4c4",
       "cat": "tecnologia",
-      "title": "Flagship Restoration Project in Brazil’s Cerrado Savannah Working to Restore 4.4 Million Acres",
-      "summary": "A Brazilian ecosystem-scale restoration program was honored at a recent UN conference as one of the 3 most ambitious and impactful currently underway around the world. The immediate instinct might be to assume the project is taking place in the Amazon Rainforest, the largest in the world and famousl",
-      "source": "Good News Network",
-      "date": "Wed, 23 Sep 2026 11:00:25 +0000",
-      "url": "https://www.goodnewsnetwork.org/flagship-restoration-project-in-brazils-cerrado-savannah-working-to-restore-4-4-million-acres/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Brazil-Collage.jpg",
+      "title": "Isack Hadjar renova com Red Bull e mantém dupla com Verstappen na F1 em 2027",
+      "summary": "O piloto francês Isack Hadjar renovou contrato com a Red Bull para a temporada de 2027, voltando a formar dupla com o tetracampeão mundial Max Verstappen, anunciou hoje a equipa de Fórmula 1.",
+      "source": "RTP",
+      "date": "Wed, 23 Sep 2026 13:47:34 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/isack-hadjar-renova-com-red-bull-e-mantem-dupla-com-verstappen-na-f1-em-2027_d1767219",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6a/6a19b24ed3032ceb55c1ef7e8c0e09f2?w=350&amp;q=50&amp;rect=0,4,1024,561&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "642772d1",
+      "cat": "economia",
+      "title": "Saldo, PIB, dívida pública e poupança: guia para não se perder nos números da economia",
+      "summary": "O Instituto Nacional de Estatística (INE) e o Banco de Portugal atualizaram esta quarta-feira vários indicadores económicos, bem como as projeções para o ano corrente. O saldo orçamental, o rácio da dívida pública face ao Produto Interno Bruto (PIB), o crescimento da economia e a taxa de poupança da",
+      "source": "ECO",
+      "date": "Wed, 23 Sep 2026 16:21:59 +0000",
+      "url": "https://eco.sapo.pt/2026/09/23/saldo-pib-divida-publica-e-poupanca-guia-para-nao-se-perder-nos-numeros-da-economia/",
+      "img": "https://eco.imgix.net/uploads/2025/10/cropped-oe2026-07.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "511fab1c",
+      "cat": "tecnologia",
+      "title": "Cerca de seis mil professores apresentaram baixa desde o início do ano escolar",
+      "summary": "Cerca de seis mil professores apresentaram baixa médica desde o início do ano escolar, disse o ministro da Educação, referindo que, na terça-feira, estavam ainda por preencher dois mil horários, a maioria em Lisboa e Setúbal. O balanço foi feito pelo ministro da Educação, Ciência e Inovação na Assem",
+      "source": "ECO",
+      "date": "Wed, 23 Sep 2026 16:00:24 +0000",
+      "url": "https://eco.sapo.pt/2026/09/23/cerca-de-seis-mil-professores-apresentaram-baixa-desde-o-inicio-do-ano-escolar/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-47823598-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -300,6 +278,50 @@
       "score": 0.73
     },
     {
+      "id": "0f6e3f14",
+      "cat": "tecnologia",
+      "title": "Dez eurodeputados portugueses “votaram contra a moção de apoio a Ceuta”? Enganador",
+      "summary": "Havia mais do que uma moção, mas o facto da primeira ser aprovada impossibilitou a ida de outras a votos. E o texto pode não ser encarado como “apoio a Ceuta”.",
+      "source": "Público",
+      "date": "Wed, 23 Sep 2026 16:29:03 GMT",
+      "url": "https://www.publico.pt/2026/09/23/politica/noticia/dez-eurodeputados-portugueses-votaram-mocao-apoio-ceuta-enganador-2189038",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "1611ce9e",
+      "cat": "cultura",
+      "title": "As Raízes Vivas do Ribatejo: festival em Santarém celebra gastronomia e cultura ribatejanas",
+      "summary": "Vinte chefs vão “cozinhar” o Ribatejo no festival guiado por Rodrigo Castelo — sempre rural, mesmo que se tenha mudado para a cidade. A 25 e 26 de Setembro, nas Portas do Sol.",
+      "source": "Público",
+      "date": "Wed, 23 Sep 2026 16:26:41 GMT",
+      "url": "https://www.publico.pt/2026/09/23/fugas/noticia/raizes-vivas-ribatejo-festival-santarem-celebra-gastronomia-cultura-ribatejanas-2188890",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "cc791c10",
+      "cat": "tecnologia",
+      "title": "Governo quer endurecer fiscalização e multas sobre contrabando de combustíveis",
+      "summary": "Maria da Graça Carvalho diz que o Executivo tem realizado auditorias e remete para uma proposta de lei já entregue no Parlamento. Ministra foi questionada sobre os alertas da ANAREC relativos à entrada irregular de combustível proveniente de Espanha.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 23 Sep 2026 17:09:13 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/governo-quer-endurecer-fiscalizacao-e-multas-sobre-contrabando-de-combustiveis",
+      "img": "https://cdn.jornaldenegocios.pt/images/2021-10/img_100x100uu2021-10-01-20-34-13-413666.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "35a4c66f",
+      "cat": "tecnologia",
+      "title": "Lisboa segue perdas europeias sob pressão das elétricas e retalhistas",
+      "summary": "As praças internacionais foram pressionadas por uma nova subida do petróleo. O PSI registou uma queda moderada, com as cotadas do grupo EDP e do retalho no topo das perdas.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 23 Sep 2026 16:59:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/lisboa-segue-perdas-europeias-sob-pressao-das-eletricas-e-retalhistas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-02-15-05-15-508476.jpg",
+      "score": 0.7
+    },
+    {
       "id": "c8ced442",
       "cat": "tecnologia",
       "title": "Soldados ingénuos, como formigas no Chapitô",
@@ -308,28 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "90ac3b84",
-      "cat": "tecnologia",
-      "title": "Médio do Benfica Enzo Barrenechea operado ao joelho esquerdo",
-      "summary": "O médio argentino Enzo Barrenechea, do Benfica, foi submetido a uma artroscopia do joelho esquerdo para recuperar de uma entorse, que resultou na rotura do menisco medial, informou esta terça-feira à noite o clube da I Liga de futebol.",
-      "source": "RTP",
-      "date": "Wed, 23 Sep 2026 09:47:25 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/medio-do-benfica-enzo-barrenechea-operado-ao-joelho-esquerdo_d1767178",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/db/db0994dc6cfb461d1c3e0f0a30c0241d?w=350&amp;q=50&amp;rect=0,31,1208,662&amp;auto=format",
       "score": 0.7
     }
   ]
