@@ -1,5 +1,5 @@
 {
-  "last_update": "23/09/2026 21:24 UTC",
+  "last_update": "24/09/2026 04:24 UTC",
   "total": 30,
   "news": [
     {
@@ -22,17 +22,6 @@
       "date": "Fri, 11 Sep 2026 05:50:39 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-1347084357.jpeg",
-      "score": 0.82
-    },
-    {
-      "id": "2cd558ba",
-      "cat": "ciencia",
-      "title": "For the first time, scientists watch sound jump between quantum states",
-      "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abruptly vanish from one energy state to another. The breakthrough could open new paths for quantum computing, error correction, highly sensitive biological sensors, and next-generation sound-based",
-      "source": "ScienceDaily",
-      "date": "Tue, 22 Sep 2026 09:17:20 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm",
-      "img": "https://www.sciencedaily.com/images/1920/quantum-jumps-in-sound.webp",
       "score": 0.82
     },
     {
@@ -80,6 +69,17 @@
       "score": 0.79
     },
     {
+      "id": "e17e9975",
+      "cat": "ciencia",
+      "title": "These tropical trees breathe at night to survive drought",
+      "summary": "Some tropical trees have evolved a clever way to survive drought by taking in carbon dioxide at night, allowing them to keep their pores closed during the hot daytime and conserve water. By comparing three Clusia species, researchers discovered that this water-saving form of photosynthesis, known as",
+      "source": "ScienceDaily",
+      "date": "Wed, 23 Sep 2026 08:05:24 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922005712.htm",
+      "img": "https://www.sciencedaily.com/images/1920/clusia-grandiflora.webp",
+      "score": 0.79
+    },
+    {
       "id": "01c401f4",
       "cat": "tecnologia",
       "title": "Stem cells reverse stroke damage and restore movement in mice",
@@ -91,36 +91,25 @@
       "score": 0.79
     },
     {
-      "id": "9f50fa44",
+      "id": "43216279",
       "cat": "tecnologia",
-      "title": "Mariana Leite Soares vence 7.ª edição do Prémio Revelação Teatro D. Maria II",
-      "summary": "Nascida no Porto em 1996, encarnou José Afonso na peça que o Teatro Experimental do Porto lhe dedicou no ano passado e estreia Absoluto , o seu primeiro espectáculo a título individual, no próximo mês.",
-      "source": "Público",
-      "date": "Wed, 23 Sep 2026 19:38:39 GMT",
-      "url": "https://www.publico.pt/2026/09/23/culturaipsilon/noticia/mariana-leite-soares-vence-7-edicao-premio-revelacao-teatro-d-maria-ii-2189101",
-      "img": null,
+      "title": "EUA e China prolongam tréguas comerciais por dois meses",
+      "summary": "Enquanto o Presidente chinês, Xi Jinping, aterrava nos EUA para a primeira visita de Estado em mais de uma década, o secretário do Tesouro norte-americano, Scott Bessent, anunciava a extensão do acordo comercial temporário assinado no ano passado.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 24 Sep 2026 00:40:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/eua-e-china-prolongam-treguas-comerciais-por-dois-meses",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-23-23-35-17-529962.jpg",
       "score": 0.76
     },
     {
-      "id": "3705f2e8",
+      "id": "f717c956",
       "cat": "tecnologia",
-      "title": "Câmara de Lisboa aprova 25,8 milhões de euros para programa de dinamização da procura turística até 2029",
-      "summary": "A Câmara de Lisboa aprovou 25,8 milhões para o turismo e oito milhões para a Web Summit. Sob críticas da oposição, viabilizou ainda verbas para a ModaLisboa e atribuição de medalhas honoríficas.",
-      "source": "Público",
-      "date": "Wed, 23 Sep 2026 19:17:54 GMT",
-      "url": "https://www.publico.pt/2026/09/23/local/noticia/camara-lisboa-aprova-258-milhoes-euros-programa-dinamizacao-procura-turistica-ate-2029-2189083",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "5f26ff91",
-      "cat": "tecnologia",
-      "title": "Ministério da Cultura ainda não pagou bolsas literárias nem jurados do Prémio Oceanos",
-      "summary": "Direcção-Geral do Livro, dos Arquivos e das Bibliotecas não se compromete com datas dos pagamentos devidos aos bolseiros de criação literária e aos jurados dos prémios Oceanos e PEN Clube.",
-      "source": "Público",
-      "date": "Wed, 23 Sep 2026 19:00:03 GMT",
-      "url": "https://www.publico.pt/2026/09/23/culturaipsilon/noticia/ministerio-cultura-nao-pagou-bolsas-literarias-jurados-premio-oceanos-2189062",
-      "img": null,
+      "title": "Montenegro reitera na ONU \"realidade absurda e insensata\" de aumento dos combustíveis",
+      "summary": "O primeiro-ministro afirmou que Portugal está \"na linha da frente da transição energética\" e assegurou que o país vai duplicar a capacidade instalada de produção de energia renovável.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 23 Sep 2026 23:22:28 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-reitera-na-onu-realidade-absurda-e-insensata-de-aumento-dos-combustiveis",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-17-11-01-22-529631.jpg",
       "score": 0.76
     },
     {
@@ -135,14 +124,25 @@
       "score": 0.76
     },
     {
-      "id": "33e033ff",
+      "id": "f16f68eb",
       "cat": "tecnologia",
-      "title": "Jorge Jesus confirma titularidade do capitão. Ronaldo admite: \"Os portugueses estão a contar comigo\".",
+      "title": "Jorge Jesus confirma titularidade do capitão. Ronaldo diz: \"Os portugueses estão a contar comigo\"",
       "summary": "&quot;Símbolo de Portugal e da Seleção&quot;, de acordo com o selecionador nacional, Cristiano Ronaldo entra diretamente para o onze titular de Jorge Jesus, no seu primeiro desafio internacional. O técnico admite lutar por todos os troféus. O capitão, por sua vez, tem em vista os mil golos e assegur",
       "source": "RTP",
       "date": "Wed, 23 Sep 2026 17:14:55 +0100",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/jorge-jesus-confirma-titularidade-do-capitao-ronaldo-admite-os-portugueses-estao-a-contar-comigo_d1767276",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/jorge-jesus-confirma-titularidade-do-capitao-ronaldo-diz-os-portugueses-estao-a-contar-comigo_d1767276",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/6a/6aa3ae3f53cf06b4c73b9d0ca0d0e112?w=350&amp;q=50&amp;rect=0,51,1233,676&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "e00ab207",
+      "cat": "tecnologia",
+      "title": "Emprego: Bons números escondem problemas estruturais",
+      "summary": "Após meses a fio, o país assistiu a uma discussão prolongada sobre o pacote laboral, que acabou por não gerar consenso nem na concertação social nem no Parlamento, onde acabou chumbado. Os ângulos de discussão incidiam, sobretudo, sobre se o pacote era preciso numa altura de crescimento do emprego, ",
+      "source": "ECO",
+      "date": "Wed, 23 Sep 2026 23:01:13 +0000",
+      "url": "https://eco.sapo.pt/especiais/emprego-bons-numeros-escondem-problemas-estruturais/",
+      "img": "https://eco.imgix.net/uploads/2025/12/cropped-doc2012100915115148pn1420121009.jpg",
       "score": 0.76
     },
     {
@@ -157,17 +157,6 @@
       "score": 0.76
     },
     {
-      "id": "21c1de0d",
-      "cat": "ciencia",
-      "title": "This new concrete is stronger and pulls CO2 from the air",
-      "summary": "Researchers have created a concrete mixture that is both stronger and capable of absorbing carbon dioxide. The best formula, combining zeolite with bamboo biochar, boosted compressive strength by 7.48% and tensile strength by 15% compared with conventional concrete. It also captured about 1.2 grams ",
-      "source": "ScienceDaily",
-      "date": "Tue, 22 Sep 2026 07:46:55 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm",
-      "img": "https://www.sciencedaily.com/images/1920/co2-absorbing-concrete.webp",
-      "score": 0.76
-    },
-    {
       "id": "8fa1b449",
       "cat": "tecnologia",
       "title": "The ‘National Park’ That Stretches From Coast to Coast",
@@ -179,36 +168,58 @@
       "score": 0.76
     },
     {
-      "id": "9d0b707a",
-      "cat": "ciencia",
-      "title": "PJM exige reforma e Defesa promete rever lei orgânica",
-      "summary": "Lei orgânica de 2009 é uma \"âncora ao passado\", avisa diretor-geral da PJM. Nuno Melo confirma estudo de alterações legislativas e novos investimentos em modernização.",
+      "id": "a57ff54a",
+      "cat": "tecnologia",
+      "title": "In memoriam Walter Osswald",
+      "summary": "Partiu como viveu, de forma recatada, mas tão digna. E nós ficamos com a esperança de que tudo o que fomos apreendendo com o nosso mestre permita construir um mundo mais digno, humano e fraterno. Opinião de Ana Sofia Carvalho",
+      "source": "Público",
+      "date": "Wed, 23 Sep 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/09/24/opiniao/opiniao/in-memoriam-walter-osswald-2189034",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "20cba9f0",
+      "cat": "tecnologia",
+      "title": "1h. EUA e China prolongam tréguas comerciais",
+      "summary": "Anúncio do secretário do Tesouro norte-americano em entrevista à Fox News, pouco depois da chegada de Xi Jinping a território norte-americano. Ainda nesta edição, o último adeus a Jorge Palma.",
       "source": "Observador",
-      "date": "Wed, 23 Sep 2026 21:19:26 +0100",
-      "url": "https://observador.pt/2026/09/23/diretor-da-policia-judiciaria-militar-apela-a-refundacao-legal-que-ministro-diz-estar-a-estudar/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3200:1801:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/10/22162305/32630307.jpg",
+      "date": "Thu, 24 Sep 2026 01:15:20 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2393/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "babd9154",
+      "id": "572d979c",
       "cat": "tecnologia",
-      "title": "Juros da dívida francesa em máximos de 2008. Prémio de risco inquieta mercados",
-      "summary": "Em França, os investidores exigem cada vez mais retornos para financiarem o Estado. E há quem defenda que é mais importante observar o diferencial de risco da dívida pública gaulesa face à neerlandesa - e não face à alemã, que é a referência europeia.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 23 Sep 2026 20:01:57 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/juros-da-divida-francesa-em-maximos-de-2008-premio-de-risco-inquieta-mercados",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-20-19-25-11-516862.jpg",
+      "title": "PS quer ir \"além do PIB\" para medir progresso",
+      "summary": "A pouco mais de um mês dos Estados Gerais, Carneiro voltou a reunir Conselho Estratégico, desta vez para debater alternativas ao indicador mais batido para medir a prosperidade.",
+      "source": "Observador",
+      "date": "Thu, 24 Sep 2026 00:42:44 +0100",
+      "url": "https://observador.pt/2026/09/24/ha-vida-para-alem-do-pib-ps-rejeita-crescimento-como-indicador-unico-na-preparacao-do-programa-politico/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/26173346/dventura-report-jose-luis-carneiro-rota-pelo-interior-43-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "f1b6913f",
+      "id": "97dd06cd",
       "cat": "tecnologia",
-      "title": "Eslováquia limita margem dos postos de combustível a 10 cêntimos por litro",
-      "summary": "A medida anunciada pelo primeiro-ministro eslovaco entrará em vigor a 1 de outubro.",
+      "title": "Portugal assina memorando com países do Golfo",
+      "summary": "Paulo Rangel assinou o acordo à margem da Assembleia Geral da ONU, em Nova Iorque. O memorando cria um novo quadro de consultas regulares entre Portugal e os países do Golfo.",
+      "source": "Observador",
+      "date": "Thu, 24 Sep 2026 00:35:47 +0100",
+      "url": "https://observador.pt/2026/09/24/portugal-assina-memorando-de-entendimento-para-reforcar-parceria-com-paises-do-golfo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/17124617/47301315.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c2fc1b2a",
+      "cat": "tecnologia",
+      "title": "Administração Trump pondera proibir exportações de gasóleo durante 90 dias",
+      "summary": "O objetivo da Casa Branca é lançar um pacote de medidas para reduzir o custo da energia antes das eleições intercalares, em novembro, avançou o Politico.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 23 Sep 2026 18:33:10 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/eslovaquia-limita-margem-dos-postos-de-combustivel-a-10-centimos-por-litro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-23-18-32-44-529948.jpg",
+      "date": "Wed, 23 Sep 2026 22:41:04 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/administracao-trump-pondera-proibir-exportacoes-de-gasoleo-durante-90-dias",
+      "img": "https://cdn.jornaldenegocios.pt/images/2019-08/img_100x100uu2019-08-06-13-09-36-358811.jpg",
       "score": 0.73
     },
     {
@@ -223,13 +234,13 @@
       "score": 0.73
     },
     {
-      "id": "23e19891",
+      "id": "739b5f21",
       "cat": "desporto",
       "title": "Benfica exige interdição do Estádio do Dragão",
       "summary": "O Benfica avançou com uma exposição formal junto do Conselho de Disciplina (CD) da Federação Portuguesa de Futebol, exigindo a interdição do Estádio do Dragão e a aplicação de castigos pesados ao FC Porto.",
       "source": "RTP",
       "date": "Wed, 23 Sep 2026 23:09:24 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/benfica-exige-interdicao-do-estadio-do-dragao_d1767349",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/benfica-exige-interdicao-do-estadio-do-dragao_d1767349",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/eb/eba554ba2cfed3efabe75524ebfc4cd3?w=350&amp;q=50&amp;rect=0,101,1233,676&amp;auto=format",
       "score": 0.73
     },
@@ -242,17 +253,6 @@
       "date": "Wed, 23 Sep 2026 17:09:58 +0000",
       "url": "https://eco.sapo.pt/2026/09/23/telemovel-do-diretor-nacional-da-pj-nao-foi-apreendido-nas-buscas-garante-pgr/",
       "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc2026060847252579-aps1142.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "eaf844ea",
-      "cat": "tecnologia",
-      "title": "Tekever admite IPO. “Está no nosso horizonte”",
-      "summary": "Depois de anunciar o primeiro fecho de uma ronda de 580 milhões de dólares (mais de 500 milhões de euros), a Tekever já está a preparar-se para &#8220;uma possível abertura de capital&#8221; através de um IPO. Embora sem prazo, essa possibilidade &#8220;é algo que está no horizonte&#8221; da unicórn",
-      "source": "ECO",
-      "date": "Wed, 23 Sep 2026 16:39:28 +0000",
-      "url": "https://eco.sapo.pt/2026/09/23/tekever-admite-ipo-esta-no-nosso-horizonte/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-tekever-ar6-2-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -278,6 +278,17 @@
       "score": 0.73
     },
     {
+      "id": "e900143c",
+      "cat": "tecnologia",
+      "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
+      "summary": "Stonehenge’s six-ton Altar Stone may have been carried from Scotland to Dogger Bank by glaciers before prehistoric people transported it hundreds of kilometers to Salisbury Plain. The possible multistage journey suggests remarkable organization and raises the possibility that the stone was valued lo",
+      "source": "ScienceDaily",
+      "date": "Wed, 23 Sep 2026 06:26:41 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
+      "img": "https://www.sciencedaily.com/images/1920/inside-circle-of-stones-at-stonehenge.webp",
+      "score": 0.73
+    },
+    {
       "id": "c97b85a5",
       "cat": "tecnologia",
       "title": "What We’re Reading: What If You Could Opt Out of Algorithms?",
@@ -289,36 +300,25 @@
       "score": 0.73
     },
     {
-      "id": "bacc64c9",
+      "id": "e8e834bb",
       "cat": "tecnologia",
-      "title": "O monstro Polo. De tempestade a furacão 5 em 33 horas",
-      "summary": "O furacão Polo chegou à categoria 5 quase de um dia para o outro. Como ganhou força tão depressa junto ao México, com ventos de 300 km/h. E o tufão Dujuan, que causou chuvas de 300 mm no Japão?",
-      "source": "Observador",
-      "date": "Wed, 23 Sep 2026 21:31:23 +0100",
-      "url": "https://observador.pt/2026/09/23/pacifico-a-arder-de-um-lado-um-megafuracao-com-ventos-de-300-km-h-assusta-o-mexico-do-outro-um-tufao-com-300-mm-de-chuva-inunda-o-japao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/23210745/202609221539-202609222047-g18-abi-meso-vis2-ir13-polostronger-nolabels0.jpg",
+      "title": "Carlos Cabreiro tem condições para continuar director da PJ?",
+      "summary": "O Ministério Público realizou nesta quarta-feira buscas a várias instalações da Polícia Judiciária.",
+      "source": "Público",
+      "date": "Thu, 24 Sep 2026 00:25:46 GMT",
+      "url": "https://www.publico.pt/2026/09/24/politica/noticia/carlos-cabreiro-condicoes-continuar-director-pj-2189113",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "3bdf31de",
-      "cat": "tecnologia",
-      "title": "Seguro com \"enorme expectativa\" antes de encontrar Papa",
-      "summary": "Recém-chegado a Roma, Seguro renovou também o convite a uma visita papal a Portugal. Espera conversa com Leão XIV para falar sobre \"amizade dos portugueses\", IA e dignidade humana nos tempos atuais.",
-      "source": "Observador",
-      "date": "Wed, 23 Sep 2026 21:18:35 +0100",
-      "url": "https://observador.pt/2026/09/23/seguro-com-enorme-expectativa-em-ouvir-o-papa-num-tempo-em-que-lideres-mundiais-esquecem-a-diplomacia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/23194820/47825214.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "658ab3fa",
-      "cat": "tecnologia",
-      "title": "Mecanismo para inquilinos declararem rendas ao Fisco continua sem funcionar",
-      "summary": "O relatório de atividades da Provedoria de Justiça diz que o mecanismo demorou a ser implementado pelo Fisco, que os dados fornecidos à AT pelos inquilinos continuam a não ser trabalhados e que há dúvidas sobre para que serão afinal utilizados.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 23 Sep 2026 21:48:45 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/mecanismo-para-inquilinos-declararem-rendas-ao-fisco-continua-sem-funcionar",
-      "img": "https://cdn.jornaldenegocios.pt/images/2019-03/img_100x100uu2019-03-13-21-52-00-350280.jpg",
+      "id": "76168494",
+      "cat": "geral",
+      "title": "Reforma flexível: e se reformar-se não tiver de ser um interruptor?",
+      "summary": "O sistema atual está pensado para uma realidade monolítica, quando, pelo contrário, há diversos envelhecimentos, capacidades e vontades. Opinião de Carla Castro",
+      "source": "Público",
+      "date": "Wed, 23 Sep 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/09/24/opiniao/opiniao/reforma-flexivel-reformarse-nao-interruptor-2189066",
+      "img": null,
       "score": 0.7
     },
     {
