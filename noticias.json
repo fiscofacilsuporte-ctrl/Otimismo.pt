@@ -1,5 +1,5 @@
 {
-  "last_update": "24/09/2026 11:32 UTC",
+  "last_update": "24/09/2026 16:59 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,28 @@
       "url": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-178586669.jpeg",
       "score": 0.85
+    },
+    {
+      "id": "76d0c0d6",
+      "cat": "ciencia",
+      "title": "Scientists find two tiny new snails with shells that close like doors",
+      "summary": "Scientists discovered two tiny new snail species in Montenegro, showing that even Europe still holds animals unknown to science. One lives in the threatened Komarnica Canyon, where a proposed hydropower reservoir could destroy habitat before its full biodiversity is understood.",
+      "source": "ScienceDaily",
+      "date": "Thu, 24 Sep 2026 07:59:43 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035936.htm",
+      "img": "https://www.sciencedaily.com/images/1920/a-cochlostoma-snail.webp",
+      "score": 0.85
+    },
+    {
+      "id": "027098ca",
+      "cat": "tecnologia",
+      "title": "Millions Channeled to Irrigation Improvements, Leak Repairs Along Colorado River by Corporate Coalition",
+      "summary": "On Monday, e-commerce giant Amazon announced a $20 million investment to conserve water in the Colorado River Basin that&#8217;s currently stressed by a mixture of demand and historic drought. In launching the Colorado River Basin Collaborative, (CRBC) and joining existing organizations the Water Re",
+      "source": "Good News Network",
+      "date": "Thu, 24 Sep 2026 13:00:30 +0000",
+      "url": "https://www.goodnewsnetwork.org/millions-channeled-to-irrigation-improvements-leak-repairs-along-colorado-river-by-corporate-coalition/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/1564px-Lake_Mead_1-cc-license-wikimedia-commons-Kjkolb-.jpg",
+      "score": 0.82
     },
     {
       "id": "e027e57f",
@@ -47,21 +69,10 @@
       "score": 0.79
     },
     {
-      "id": "8e804949",
-      "cat": "saude",
-      "title": "Exceptional Detection Rates of Bladder Cancer Recorded in Study of Simple, Yet State-of-the-Art Test",
-      "summary": "An observational study in the UK has just produced substantially positive results for a new, non-invasive, genetic urine test for bladder cancer. Demonstrating extremely high accuracy for negatively diagnosing bladder cancer, it also correctly identified bladder cancer-associated genes in 71 of 77 p",
-      "source": "Good News Network",
-      "date": "Tue, 22 Sep 2026 18:30:33 +0000",
-      "url": "https://www.goodnewsnetwork.org/exceptional-detection-rates-of-bladder-cancer-recorded-in-study-of-simple-yet-state-of-the-art-test/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/06/woman-scientist-microscope-research-lab-test-pubdomain-National-Cancer-Institute.jpg",
-      "score": 0.79
-    },
-    {
       "id": "b372c076",
       "cat": "tecnologia",
       "title": "What went right this week: the EU’s social media ban for kids, plus more",
-      "summary": "EU to ban social media for kids, England approves life-extending cancer drug, and reading linked to better health, plus more The post What went right this week: the EU&#8217;s social media ban for kids, plus more appeared first on Positive News .",
+      "summary": "EU to ban social media for kids, England approves life-extending cancer drug, and reading linked to better health, plus more The post What went right this week: the EU’s social media ban for kids, plus more appeared first on Positive News .",
       "source": "Positive News",
       "date": "Fri, 18 Sep 2026 05:28:35 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-38-of-2026/",
@@ -69,47 +80,14 @@
       "score": 0.79
     },
     {
-      "id": "e17e9975",
-      "cat": "ciencia",
-      "title": "These tropical trees breathe at night to survive drought",
-      "summary": "Some tropical trees have evolved a clever way to survive drought by taking in carbon dioxide at night, allowing them to keep their pores closed during the hot daytime and conserve water. By comparing three Clusia species, researchers discovered that this water-saving form of photosynthesis, known as",
-      "source": "ScienceDaily",
-      "date": "Wed, 23 Sep 2026 08:05:24 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005712.htm",
-      "img": "https://www.sciencedaily.com/images/1920/clusia-grandiflora.webp",
-      "score": 0.79
-    },
-    {
-      "id": "01c401f4",
+      "id": "00e45a06",
       "cat": "tecnologia",
-      "title": "Stem cells reverse stroke damage and restore movement in mice",
-      "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human bra",
-      "source": "ScienceDaily",
-      "date": "Mon, 21 Sep 2026 21:49:32 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
-      "img": "https://www.sciencedaily.com/images/1920/mouse-brain-after-stroke-and-neural-stem-cell-transplantation.webp",
-      "score": 0.79
-    },
-    {
-      "id": "c133f96f",
-      "cat": "tecnologia",
-      "title": "Yokocho: este não é só mais um restaurante de ramen em Lisboa",
-      "summary": "A abertura do Yokocho assinala a criação do Food District, o grupo de restauração de Tiago Penão, André Simões de Almeida e José Maria Trocado. A ambição é crescer de forma selectiva.",
-      "source": "Público",
-      "date": "Thu, 24 Sep 2026 09:12:00 GMT",
-      "url": "https://www.publico.pt/2026/09/24/fugas/reportagem/yokocho-nao-so-restaurante-ramen-lisboa-2188914",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "d49ca249",
-      "cat": "tecnologia",
-      "title": "Triatlo/Mundiais. Portugal inicia competição com quatro júniores em Pontevedra",
-      "summary": "Portugal inicia hoje a participação nos Mundiais de triatlo com quatro dos seus 14 atletas a competirem nos escalões juniores em Pontevedra, Espanha, onde no domingo Vasco Vilaça pode ser o primeiro homem luso a tornar-se campeão.",
+      "title": "Dinis Ferreira vice-campeão do mundo de triatlo de juniores",
+      "summary": "O português Dinis Ferreira sagrou-se vice-campeão do mundo de triatlo de juniores, em Pontevedra, alcançando o primeiro pódio de Portugal na derradeira etapa do Mundial que decorre em Espanha.",
       "source": "RTP",
-      "date": "Thu, 24 Sep 2026 09:37:26 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/triatlomundiais-portugal-inicia-competicao-com-quatro-juniores-em-pontevedra_d1767413",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a7/a77e2e956ec97587d31dcf91995166eb?w=350&amp;q=50&amp;rect=18,0,764,419&amp;auto=format",
+      "date": "Thu, 24 Sep 2026 14:39:10 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/dinis-ferreira-vice-campeao-do-mundo-de-triatlo-de-juniores_d1767474",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/1c/1c04db9a1b07844bf63770fd09f7b910?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.76
     },
     {
@@ -121,6 +99,17 @@
       "date": "Tue, 22 Sep 2026 23:02:29 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d6/live/9c8a92d0-b185-11f1-9730-e36fcedc2d41.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "ce6bf265",
+      "cat": "tecnologia",
+      "title": "Scientists thought they knew how this 70-year-old leukemia drug worked",
+      "summary": "A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little effect. The unexpected result points to a hidden cellular role that could help explain why people respo",
+      "source": "ScienceDaily",
+      "date": "Thu, 24 Sep 2026 08:47:28 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035932.htm",
+      "img": "https://www.sciencedaily.com/images/1920/degradation-of-nudt5.webp",
       "score": 0.76
     },
     {
@@ -146,91 +135,91 @@
       "score": 0.76
     },
     {
-      "id": "a066ea08",
+      "id": "de10ba5e",
       "cat": "tecnologia",
-      "title": "Primeiro-ministro australiano diz que agente da OpenAI pirateou site do Governo",
-      "summary": "Anthony Albanese manifestou “desilusão” pela demora da empresa a comunicar o sucedido e pediu garantias de estarem em vigor os protocolos adequados para gerir a inteligência artificial.",
+      "title": "Laboratório de IA criado pela Anthropic anuncia uma descoberta comparável ao CRISPR",
+      "summary": "Anthropic afirma que o Claude descobriu um mecanismo biológico desconhecido. A descoberta foi testada em laboratório, mas ainda precisa de confirmação independente.",
       "source": "Público",
-      "date": "Thu, 24 Sep 2026 10:13:29 GMT",
-      "url": "https://www.publico.pt/2026/09/24/enter/noticia/primeiroministro-australiano-agente-openai-pirateou-site-governo-2189124",
+      "date": "Thu, 24 Sep 2026 15:56:29 GMT",
+      "url": "https://www.publico.pt/2026/09/24/enter/noticia/laboratorio-ia-criado-anthropic-anuncia-descoberta-comparavel-crispr-2189201",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "df5df521",
-      "cat": "ambiente",
-      "title": "Trinta mil mosquitos estéreis vão ser libertados em Lisboa — mas não vão picar",
-      "summary": "Os mosquitos libertados pertencem à espécie Aedes albopictus , conhecida como mosquito-tigre-asiático, e que, “por serem machos”, não picam, uma vez que só as fêmeas precisam de sangue.",
+      "id": "83133308",
+      "cat": "ciencia",
+      "title": "Dados ajudam nas políticas de saúde, mas é preciso melhorar acesso para investigação",
+      "summary": "O uso de dados ajuda a fazer um retrato da população e a definir medidas para melhorar acesso a cuidados de saúde. Mas o acesso à informação e a interoperabilidade dos sistemas permanece um desafio.",
       "source": "Público",
-      "date": "Thu, 24 Sep 2026 08:46:46 GMT",
-      "url": "https://www.publico.pt/2026/09/24/ciencia/noticia/trinta-mil-mosquitos-estereis-vao-libertados-lisboa-nao-vao-picar-2189126",
+      "date": "Thu, 24 Sep 2026 15:46:03 GMT",
+      "url": "https://www.publico.pt/2026/09/24/sociedade/noticia/dados-ajudam-politicas-saude-preciso-melhorar-acesso-investigacao-2189191",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "2d9fa855",
+      "id": "b763ef43",
       "cat": "tecnologia",
-      "title": "Taiwan reforça patrulhamento na disputada ilha Pratas",
-      "summary": "Presença crescente de navios chineses junto ao atol de Pratas leva Taiwan a reforçar a vigilância marítima. Taipé endureceu a resposta e apreendeu nove embarcações em oito operações.",
-      "source": "Observador",
-      "date": "Thu, 24 Sep 2026 11:33:17 +0100",
-      "url": "https://observador.pt/2026/09/24/taiwan-reforca-patrulhamento-na-disputada-ilha-pratas-face-a-pressao-da-china/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/24062927/45618181.jpg",
+      "title": "CFP avisa que excedente este ano não significa “uma melhoria estrutural das finanças públicas”",
+      "summary": "Entidade que avalia a política orçamental em Portugal reviu em alta projecções para o PIB e o saldo orçamental este ano, mas prevê que défices estarão de volta em 2027, atingindo 1,7% em 2030.",
+      "source": "Público",
+      "date": "Thu, 24 Sep 2026 15:18:18 GMT",
+      "url": "https://www.publico.pt/2026/09/24/economia/noticia/cfp-alerta-excedente-ano-nao-significa-melhoria-estrutural-financas-publicas-2189196",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "d290829b",
-      "cat": "cultura",
-      "title": "Teatro So promove reflexão artística em espaço público",
-      "summary": "O (IN)DISCIPLINA, iniciativa do Teatro So, propõe um pensamento e uma prática que ultrapassa tradição e encontra no espaço público um lugar comum para a criação, o diálogo e a participação.",
-      "source": "Observador",
-      "date": "Thu, 24 Sep 2026 10:57:40 +0100",
-      "url": "https://observador.pt/2026/09/24/teatro-so-promove-reflexao-em-vila-nova-de-milfontes-sobre-artes-em-espaco-publico/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:11/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/24102456/captura-de-ecra-2026-09-24-as-102308.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "faad04cc",
-      "cat": "cultura",
-      "title": "Sustentabilidade da NEYA Hotels reconhecida pela B Corp",
-      "summary": "A certificação B Corp, atribuída à NEYA, reconhece o percurso sustentável da marca, reforçando uma visão de hotelaria em que o impacto social e ambiental faz parte da forma de pensar o negócio.",
-      "source": "Observador",
-      "date": "Thu, 24 Sep 2026 10:27:14 +0100",
-      "url": "https://observador.pt/2026/09/24/sustentabilidade-da-neya-hotels-reconhecida-pela-b-corp/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2249:nowe:0:209/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/21170938/156-joao-bizarro-fotografia-20260909.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "5b6aafc0",
+      "id": "3eca7563",
       "cat": "tecnologia",
-      "title": "Grupo polaco vai converter palacete histórico em Lisboa em casas de luxo",
-      "summary": "Nascido no século XVIII como um palacete residencial de traça pombalina, na Rua das Janelas Verdes, tendo corporizado a Escola Básica n.º 18, o edifício vai renascer como The Verdian pelas mãos da ReTrend.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 24 Sep 2026 11:59:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/grupo-polaco-vai-converter-palacete-historico-em-lisboa-em-casas-de-luxo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-24-11-08-15-529974.jpg",
+      "title": "Gilberto quer vitória de Lula. Vê um retrocesso em Bolsonaro",
+      "summary": "Gilberto Gil refere que \"Flávio descende de um grupo político que foi para nós do campo progressista um certo retrocesso\". O músico foi ministro da Cultura entre 2003 e 2008, mandato de Lula da Silva.",
+      "source": "Observador",
+      "date": "Thu, 24 Sep 2026 13:57:43 +0100",
+      "url": "https://observador.pt/2026/09/24/gilberto-gil-deseja-vitoria-de-lula-e-ve-em-flavio-bolsonaro-um-retrocesso/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/24091206/47733387.jpg",
       "score": 0.73
     },
     {
-      "id": "17f8916c",
+      "id": "32815801",
+      "cat": "tecnologia",
+      "title": "São Tomé. Primeiro-ministro pede maioria",
+      "summary": "Líder da Ação Democrática Independente (ADI) pede maioria e consenso partidário. Apesar de pequenas picardias dentro da ADI, acha que a população perceberá que no domingo é importante ir às urnas.",
+      "source": "Observador",
+      "date": "Thu, 24 Sep 2026 13:57:00 +0100",
+      "url": "https://observador.pt/2026/09/24/eleicoes-em-sao-tome-primeiro-ministro-e-lider-da-adi-pede-maioria-e-consenso-partidario-no-que-e-essencial-para-o-pais/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:137/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/24091731/47823779.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "efe851f9",
       "cat": "economia",
-      "title": "Preço do metro quadrado em Portugal aumenta e bate recordes. Mas subida volta a abrandar",
-      "summary": "O metro quadrado subiu para 2.254 euros em agosto, aumentando 14,7% em termos homólogos. Prolonga-se, assim, a subida que se verifica de forma contínua desde dezembro de 2023. No mês passado, aumento tinha sido de 15,2%.",
+      "title": "ELITE ultrapassa as 50 empresas em Portugal com nova edição do programa no Norte",
+      "summary": "A rede do grupo Euronext direcionada para PME dá as boas-vindas a seis novas empresas no lançamento do seu quarto grupo em Portugal.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 24 Sep 2026 11:48:57 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/preco-do-metro-quadrado-em-portugal-aumenta-e-bate-recordes-mas-subida-volta-a-abrandar",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-29-20-29-24-524565.jpg",
+      "date": "Thu, 24 Sep 2026 16:45:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/elite-ultrapassa-as-50-empresas-em-portugal-com-nova-edicao-do-programa-no-norte",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-02/img_100x100uu2024-02-08-20-09-15-470156.jpg",
       "score": 0.73
     },
     {
-      "id": "34aec1c2",
+      "id": "1ba3655f",
       "cat": "tecnologia",
-      "title": "Confiança empresarial na Alemanha sobe para máximo de mais de três anos",
-      "summary": "\"A economia alemã continua a sua recuperação\", comentou o presidente do instituto Ifo, Clemens Fuest, ao apresentar a pesquisa.",
+      "title": "Schnabel troca BCE pelo FMI. Chegou a ser apontada como sucessora de Lagarde",
+      "summary": "A responsável alemã do conselho executivo do BCE, um dos nomes cogitados para a presidência da instituição, foi escolhida para diretora do Departamento Monetário e dos Mercados de Capitais do FMI.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 24 Sep 2026 10:45:43 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/zona-euro/detalhe/confianca-empresarial-na-alemanha-sobe-para-maximo-de-mais-de-tres-anos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-18-16-10-58-520649.jpg",
+      "date": "Thu, 24 Sep 2026 16:32:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/taxas-de-juro/detalhe/schnabel-troca-bce-pelo-fmi-chegou-a-ser-apontada-como-sucessora-de-lagarde",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-08-13-16-15-514242.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "7b28f59a",
+      "cat": "tecnologia",
+      "title": "Sem mexidas no IRS, Conselho das Finanças Públicas prevê excedente de 0,2% este ano",
+      "summary": "Conselho das Finanças Públicas espera excedente de 0,2% este ano, sem considerar ainda os efeitos do IRS. Menor peso dos apoios das tempestades, dividendo da CGD e venda de imóveis ajudam à melhoria. Economia mais resiliente também sobe previsão para 2,2% este ano.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 24 Sep 2026 15:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/sem-mexidas-no-irs-cfp-preve-excedente-de-0-2-este-ano",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-15-15-48-15-522079.jpg",
       "score": 0.73
     },
     {
@@ -245,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "b88ed6ce",
+      "cat": "tecnologia",
+      "title": "Deco acredita em Jesus, um dos melhores treinadores de sempre do futebol português",
+      "summary": "O antigo futebolista internacional português Deco disse hoje acreditar que o treinador Jorge Jesus vai ter sucesso na seleção lusa, considerando o novo selecionador um dos melhores de sempre do país.",
+      "source": "RTP",
+      "date": "Thu, 24 Sep 2026 18:50:58 +0100",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/deco-acredita-em-jesus-um-dos-melhores-treinadores-de-sempre-do-futebol-portugues_d1767528",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ee/ee7ed53c1e8173f7fdb01d61d3b104b5?w=350&amp;q=50&amp;rect=0,81,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "277b82a2",
       "cat": "tecnologia",
       "title": "MotoGP em Portugal pelo menos até 2029",
@@ -256,47 +256,25 @@
       "score": 0.73
     },
     {
-      "id": "5ee06188",
+      "id": "d679f434",
       "cat": "tecnologia",
-      "title": "Jaime Faria segue para a segunda ronda em Hangzhou",
-      "summary": "O português Jaime Faria, sétimo cabeça de série, qualificou-se para a segunda ronda do torneio de Hangzhou, na China, depois de afastar o francês Terence Atmane, num encontro em que salvou dois pontos de encontro.",
-      "source": "RTP",
-      "date": "Thu, 24 Sep 2026 12:26:59 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/jaime-faria-segue-para-a-segunda-ronda-em-hangzhou_d1767442",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1b6f39fe100dc802b87de649870c5c5d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "title": "Metro do Porto ganha mais 20 quilómetros em duas linhas por 421 milhões de euros",
+      "summary": "O Governo aprovou esta quinta-feira em Conselho de Ministros um reforço da rede do Metro do Porto e um aumento do valor para o metrobus do Mondego. Na Linha de Gondomar surgirá um investimento de 237 milhões de euros que permitirá construir uma ligação de sete quilómetros entre o Estádio do Dragão e",
+      "source": "ECO",
+      "date": "Thu, 24 Sep 2026 16:40:30 +0000",
+      "url": "https://eco.sapo.pt/2026/09/24/metro-do-porto-ganha-mais-20-quilometros-em-duas-linhas-por-421-milhoes-de-euros/",
+      "img": "https://eco.imgix.net/uploads/2022/11/cropped-porto62.jpg",
       "score": 0.73
     },
     {
-      "id": "5e579da4",
-      "cat": "tecnologia",
-      "title": "Portugal vai continuar a receber Mundial de MotoGP até 2029",
-      "summary": "O Grande Prémio de Portugal vai manter-se no calendário do Mundial de motociclismo de velocidade até 2029, pelo menos, anunciaram esta quinta-feira os organizadores do campeonato. &#8220;Confirmado: MotoGP vai continuar a ser corrido em Portugal até 2029&#8221;, lê-se numa mensagem na rede social X ",
-      "source": "ECO",
-      "date": "Thu, 24 Sep 2026 10:48:19 +0000",
-      "url": "https://eco.sapo.pt/2026/09/24/portugal-vai-continuar-a-receber-mundial-de-motogp-ate-2029/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-46002319-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "216f85ca",
-      "cat": "tecnologia",
-      "title": "Preço do metro quadrado abranda em agosto, mas atinge novo recorde de 2.254 euros",
-      "summary": "A avaliação das casas realizada pelos bancos para efeitos de concessão de crédito à habitação continuou a subir em agosto, mas a um ritmo mais lento. O valor mediano da avaliação bancária atingiu 2.254 euros por metro quadrado, um valor recorde, mais 14,7% do que no mesmo mês de 2025, segundo os dad",
-      "source": "ECO",
-      "date": "Thu, 24 Sep 2026 10:17:45 +0000",
-      "url": "https://eco.sapo.pt/2026/09/24/preco-do-metro-quadrado-abranda-em-agosto-mas-atinge-novo-recorde-de-2-254-euros/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-6p1a2630.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "38782d6d",
-      "cat": "ambiente",
-      "title": "Bugalho desvaloriza Passos, que “não é central” no rumo do Governo",
-      "summary": "Sebastião Bugalho considera que Pedro Passos Coelho “não é central” na ação do atual Governo e rejeita que o executivo de Luís Montenegro esteja a definir a sua atuação em função das críticas do antigo primeiro-ministro. Em entrevista ao jornal Público e à Renascença, o vice-presidente do PSD afirmo",
-      "source": "ECO",
-      "date": "Thu, 24 Sep 2026 07:41:18 +0000",
-      "url": "https://eco.sapo.pt/2026/09/24/bugalho-desvaloriza-passos-que-nao-e-central-no-rumo-do-governo/",
-      "img": "https://eco.imgix.net/uploads/2024/05/cropped-doc-20240509-42827427-ca_calm5207-3.jpg",
+      "id": "fb631160",
+      "cat": "ciencia",
+      "title": "Elephants use medicinal plants to treat themselves, researchers find",
+      "summary": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
+      "source": "BBC News",
+      "date": "Thu, 24 Sep 2026 11:42:42 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a1a/live/57752de0-b667-11f1-b785-7d19738c6de2.jpg",
       "score": 0.73
     },
     {
@@ -311,26 +289,48 @@
       "score": 0.73
     },
     {
-      "id": "39a9987e",
-      "cat": "ciencia",
-      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
-      "source": "BBC News",
-      "date": "Tue, 22 Sep 2026 12:54:14 GMT",
-      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c8/live/a2ab36e0-b673-11f1-b711-df5e4d50c2fd.jpg",
+      "id": "8de3a86f",
+      "cat": "tecnologia",
+      "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
+      "summary": "A large Danish study found that children diagnosed with ADHD or autism today more closely resemble their peers in the general population than those diagnosed 10 years ago. The shift suggests that rising diagnosis rates may partly reflect broader identification and changing diagnostic patterns, rathe",
+      "source": "ScienceDaily",
+      "date": "Thu, 24 Sep 2026 09:45:17 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm",
+      "img": "https://www.sciencedaily.com/images/1920/human-brain-on-colorful-puzzle-pieces.webp",
       "score": 0.73
     },
     {
-      "id": "e900143c",
+      "id": "976a81e3",
       "cat": "tecnologia",
-      "title": "Stonehenge’s 6-ton altar stone may have traveled from Scotland by glacier",
-      "summary": "Stonehenge’s six-ton Altar Stone may have been carried from Scotland to Dogger Bank by glaciers before prehistoric people transported it hundreds of kilometers to Salisbury Plain. The possible multistage journey suggests remarkable organization and raises the possibility that the stone was valued lo",
-      "source": "ScienceDaily",
-      "date": "Wed, 23 Sep 2026 06:26:41 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005715.htm",
-      "img": "https://www.sciencedaily.com/images/1920/inside-circle-of-stones-at-stonehenge.webp",
-      "score": 0.73
+      "title": "14h. \"Portugal mobilizou reservas energéticas para França\"",
+      "summary": "Líder socialista revela que Governo comprou petróleo que não é possível refinar em Portugal. Ainda, ministra da justiça tem total confiança no director nacional da PJ.",
+      "source": "Observador",
+      "date": "Thu, 24 Sep 2026 14:14:32 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2483/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
     }
   ]
 }
