@@ -1,5 +1,5 @@
 {
-  "last_update": "25/09/2026 11:39 UTC",
+  "last_update": "25/09/2026 17:01 UTC",
   "total": 30,
   "news": [
     {
@@ -14,25 +14,14 @@
       "score": 0.85
     },
     {
-      "id": "76d0c0d6",
-      "cat": "ciencia",
-      "title": "Scientists find two tiny new snails with shells that close like doors",
-      "summary": "Scientists discovered two tiny new snail species in Montenegro, showing that even Europe still holds animals unknown to science. One lives in the threatened Komarnica Canyon, where a proposed hydropower reservoir could destroy habitat before its full biodiversity is understood.",
-      "source": "ScienceDaily",
-      "date": "Thu, 24 Sep 2026 07:59:43 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260923035936.htm",
-      "img": "https://www.sciencedaily.com/images/1920/a-cochlostoma-snail.webp",
-      "score": 0.85
-    },
-    {
-      "id": "f17ba6a3",
+      "id": "027098ca",
       "cat": "tecnologia",
-      "title": "Triatlo/Mundiais. Prata dá \"consistência\" ao sonho olímpico de Dinis Ferreira",
-      "summary": "O júnior Dinis Ferreira ainda está “a processar” a medalha de prata conquistada nos Mundiais de triatlo de Pontevedra, feito que dá mais “consistência” ao sonho de todos os atletas de ser “campeão olímpico”.",
-      "source": "RTP",
-      "date": "Fri, 25 Sep 2026 12:40:22 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/triatlomundiais-prata-da-consistencia-ao-sonho-olimpico-de-dinis-ferreira_d1767674",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/69/695b8eb3e686a2d2186a0f481c612515?w=350&amp;q=50&amp;rect=18,0,764,419&amp;auto=format",
+      "title": "Millions Channeled to Irrigation Improvements, Leak Repairs Along Colorado River by Corporate Coalition",
+      "summary": "On Monday, e-commerce giant Amazon announced a $20 million investment to conserve water in the Colorado River Basin that&#8217;s currently stressed by a mixture of demand and historic drought. In launching the Colorado River Basin Collaborative, (CRBC) and joining existing organizations the Water Re",
+      "source": "Good News Network",
+      "date": "Thu, 24 Sep 2026 13:00:30 +0000",
+      "url": "https://www.goodnewsnetwork.org/millions-channeled-to-irrigation-improvements-leak-repairs-along-colorado-river-by-corporate-coalition/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/1564px-Lake_Mead_1-cc-license-wikimedia-commons-Kjkolb-.jpg",
       "score": 0.82
     },
     {
@@ -69,6 +58,17 @@
       "score": 0.82
     },
     {
+      "id": "04a37f14",
+      "cat": "ciencia",
+      "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
+      "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites, and researchers say many more undiscovered sea spiders may still be hiding in the r",
+      "source": "ScienceDaily",
+      "date": "Fri, 25 Sep 2026 09:56:06 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
+      "img": "https://www.sciencedaily.com/images/1920/sea-spider-tanystylum-kiixin.webp",
+      "score": 0.79
+    },
+    {
       "id": "4c633ff1",
       "cat": "tecnologia",
       "title": "Portugal na rota dos drones russos?",
@@ -80,14 +80,36 @@
       "score": 0.76
     },
     {
-      "id": "d79c7f68",
+      "id": "6835c74b",
+      "cat": "economia",
+      "title": "Inaugurado em Beja centro de formação para operadores de maquinaria pesada num investimento de seis milhões",
+      "summary": "O novo Centro de Capacitação cria 30 empregos e pode receber 500 formandos por ano.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 25 Sep 2026 16:16:33 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/inaugurado-em-beja-centro-de-formacao-para-operadores-de-maquinaria-pesada-num-investimento-de-seis-milhoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-25-16-14-39-530109.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "e6887014",
       "cat": "tecnologia",
-      "title": "Triatlo/Mundiais. Filipe Marques favorito a pódio na classe adaptada PTS5",
-      "summary": "O paratriatleta Filipe Marques destaca-se hoje entre um quinteto de Portugal quanto à possibilidade de medalha nos Mundiais de Pontevedra, Espanha, na classe adaptada de PTS5 na qual já foi bronze em 2024.",
+      "title": "Os sonhos e motivações que levam atletas olímpicos a conquistar medalhas",
+      "summary": "Dos sonhos de criança à vontade de receber uma carta do Comité Olímpico, são várias as motivações que levaram atletas a empenharem-se no alto rendimento e a conquistar medalhas olímpicas em condições menos favoráveis que as atuais.",
       "source": "RTP",
-      "date": "Fri, 25 Sep 2026 09:55:21 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/triatlomundiais-filipe-marques-favorito-a-podio-na-classe-adaptada-pts5_d1767639",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a7/a73055dfd3821574e6a86811f9ef689b?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format",
+      "date": "Fri, 25 Sep 2026 16:06:24 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/os-sonhos-e-motivacoes-que-levam-atletas-olimpicos-a-conquistar-medalhas_d1767731",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "1bcfcbfa",
+      "cat": "tecnologia",
+      "title": "Dominguinhos quer “sobras” das agendas do PRR a financiar produtos prestes a chegar ao mercado",
+      "summary": "O que não for usado dos cerca de 3.000 mil milhões de euros de dotação das agendas mobilizadoras do Plano de Recuperação e Resiliência (PRR) deverá ser utilizado para financiar produtos, que foram validados pelo IAPMEI no âmbito destes projetos, e que estão numa fase próxima de lançamento no mercado",
+      "source": "ECO",
+      "date": "Fri, 25 Sep 2026 14:59:57 +0000",
+      "url": "https://eco.sapo.pt/2026/09/25/dominguinhos-quer-sobras-das-agendas-do-prr-a-financiar-produtos-prestes-a-chegar-ao-mercado/",
+      "img": "https://eco.imgix.net/uploads/2025/06/cropped-z62_7633-1.jpg",
       "score": 0.76
     },
     {
@@ -124,13 +146,13 @@
       "score": 0.76
     },
     {
-      "id": "e48c7c8e",
-      "cat": "tecnologia",
-      "title": "Para que serve a uva do Douro se não para vinho? Alguma pode ir para sumos e vinagre",
-      "summary": "Sumos e vinagres podem ajudar a escoar (alguma) produção de uva do Douro, mas nunca serão a panaceia para os males da região.",
+      "id": "22c819d9",
+      "cat": "geral",
+      "title": "Madeira desliga as luzes proteger primeiros voos da freira-da-madeira",
+      "summary": "A população da ilha é convidada a desligar a iluminação exterior no domingo, entre as 20h e as 23h, para evitar a desorientação das aves juvenis a caminho do mar.",
       "source": "Público",
-      "date": "Fri, 25 Sep 2026 10:39:49 GMT",
-      "url": "https://www.publico.pt/2026/09/25/terroir/reportagem/serve-uva-douro-nao-vinho-ir-sumos-vinagre-2188895",
+      "date": "Fri, 25 Sep 2026 11:45:00 GMT",
+      "url": "https://www.publico.pt/2026/09/25/azul/noticia/madeira-desliga-luzes-proteger-voos-freiradamadeira-2189158",
       "img": null,
       "score": 0.73
     },
@@ -157,14 +179,25 @@
       "score": 0.73
     },
     {
-      "id": "ab707a68",
+      "id": "c8b00641",
       "cat": "tecnologia",
-      "title": "Crédito à habitação dá maior salto desde 2003. Depósitos crescem ao ritmo mais lento em dois anos",
-      "summary": "Em agosto, o \"stock\" de empréstimos para a habitação subiu mais 0,2 pontos percentuais do que em julho, acelerando 11,2% - um valor que não se observava desde 2003. Já o dinheiro que as famílias têm em depósitos desacelerou e atingiu o ritmo mais baixo de crescimento desde 2024.",
+      "title": "Histórico Hotel da Encumeada executado está em leilão por 6,5 milhões",
+      "summary": "Envolvido numa complexa teia de mudanças de proprietários, processos judiciais de execução e uma falhada venda por 5,3 milhões a um fundo internacional, o Valley View Hotel Encumeada, situada na Serra de Água, na Madeira, volta à praça por um valor base de 7,6 milhões de euros.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 25 Sep 2026 11:59:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/credito-a-habitacao-da-maior-salto-desde-2003-depositos-crescem-ao-ritmo-mais-lento-em-dois-anos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-07/img_100x100uu2025-07-18-15-29-31-506135.jpg",
+      "date": "Fri, 25 Sep 2026 17:24:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/historico-hotel-da-encumeada-executado-esta-em-leilao-por-6-5-milhoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-25-16-56-29-530115.png",
+      "score": 0.73
+    },
+    {
+      "id": "c0261c12",
+      "cat": "tecnologia",
+      "title": "Lisboa termina semana com ganhos moderados. BCP lidera subidas",
+      "summary": "O PSI seguiu o tom positivo da maioria das praças europeias, com o alívio do petróleo e dos juros da dívida. BCP e grupo EDP impulsionaram o índice nacional.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 25 Sep 2026 16:52:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/lisboa-termina-semana-com-ganhos-moderados-bcp-lidera-subidas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-02-15-05-15-508478.jpg",
       "score": 0.73
     },
     {
@@ -179,47 +212,69 @@
       "score": 0.73
     },
     {
-      "id": "19af860e",
-      "cat": "tecnologia",
-      "title": "GP de Portugal antecipado para outubro em 2027, Argentina regressa e Hungria sai",
-      "summary": "O Grande Prémio de Portugal de MotoGP vai disputar-se entre 01 e 03 de outubro de 2027, em Portimão, sendo antecipado face a este ano, segundo o calendário hoje divulgado pelo promotor do Mundial de Velocidade, a Dorna.",
+      "id": "9e7dd3d0",
+      "cat": "desporto",
+      "title": "18h30 o primeiro onze de Jesus",
+      "summary": "",
       "source": "RTP",
-      "date": "Fri, 25 Sep 2026 12:47:48 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/gp-de-portugal-antecipado-para-outubro-em-2027-argentina-regressa-e-hungria-sai_d1767675",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/8e/8ef0f49599a8fa92d5d580c6420e9d70?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format",
+      "date": "Fri, 25 Sep 2026 18:34:15 +0100",
+      "url": "https://www.rtp.pt/noticias/pais/18h30-o-primeiro-onze-de-jesus_a1767769",
+      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "e7e7805a",
-      "cat": "ambiente",
-      "title": "Consegue o consumidor distinguir uma escolha sustentável de uma alegação de marketing?",
-      "summary": "A sustentabilidade tornou-se um argumento cada vez mais presente nas decisões de compra. Expressões como “eco”, “verde”, “amigo do ambiente” ou “neutro em carbono” multiplicam-se em embalagens e campanhas. Mas será que o consumidor consegue perceber quando está perante uma vantagem ambiental real e ",
-      "source": "ECO",
-      "date": "Fri, 25 Sep 2026 11:34:36 +0000",
-      "url": "https://eco.sapo.pt/opiniao/consegue-o-consumidor-distinguir-uma-escolha-sustentavel-de-uma-alegacao-de-marketing/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/09/soraia-franco-leite-opiniao.png",
+      "id": "2b0b7ec1",
+      "cat": "desporto",
+      "title": "18h30 o primeiro onze de Jesus",
+      "summary": "",
+      "source": "RTP",
+      "date": "Fri, 25 Sep 2026 18:33:02 +0100",
+      "url": "https://www.rtp.pt/noticias/pais/18h30-o-primeiro-onze-de-jesus_a1767546",
+      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "54750da9",
+      "id": "4cb613f8",
       "cat": "tecnologia",
-      "title": "“Baterias deixam de ser lixo para ser um ativo.” Agenda de 168 milhões põe Portugal na vanguarda da reciclagem",
-      "summary": "Estão apresentados os resultados da agenda mobilizadora NGS – New Generation Storage, do Plano de Recuperação e Resiliência (PRR). O projeto de 168,14 milhões de euros, que pretendia reforçar a cadeia de valor das baterias e do armazenamento de energia em Portugal e que foi liderado pelo Grupo DST, ",
+      "title": "Ativo do dia. Taxa de juro de Portugal a 10 anos em máximos de 2017",
+      "summary": "O ativo Obrigações do Tesouro a 10 anos. É o benchmark da dívida pública portuguesa e serve de referência para custos de financiamento cobrados a empresas financeiras e não financeiras no país. Quando os juros da dívida portuguesa sobem, isto significa que o Estado irá pagar mais para se financiar n",
       "source": "ECO",
-      "date": "Fri, 25 Sep 2026 11:21:58 +0000",
-      "url": "https://eco.sapo.pt/2026/09/25/baterias-deixam-de-ser-lixo-para-ser-um-ativo-agenda-de-178-milhoes-poe-portugal-na-vanguarda-da-reciclagem/",
-      "img": "https://eco.imgix.net/uploads/2026/02/cropped-galp-eletricos-carregamentos.jpg",
+      "date": "Fri, 25 Sep 2026 16:47:38 +0000",
+      "url": "https://eco.sapo.pt/2026/09/25/ativo-do-dia-taxa-de-juro-de-portugal-a-10-anos-em-maximos-de-2017/",
+      "img": "https://eco.imgix.net/uploads/2026/09/proposta-1-obrigacoes.jpg",
       "score": 0.73
     },
     {
-      "id": "ebe5b92e",
+      "id": "a68a6488",
       "cat": "tecnologia",
-      "title": "Crédito à habitação cresce ao ritmo mais alto desde 2003 com salto de 11,2% em agosto",
-      "summary": "O stock de empréstimos para habitação concedidos pelos bancos a residentes em Portugal atingiu 119,1 mil milhões de euros no final de agosto, um acréscimo de 1.038 milhões de euros face ao mês anterior e um novo histórico, segundo dados divulgados esta sexta-feira pelo Banco de Portugal. Em termos h",
+      "title": "Luís Montenegro volta à liderança da exposição televisiva",
+      "summary": "O primeiro-ministro, Luís Montenegro, regressou ao topo do ranking de exposição mediática do serviço Telenews, da MediaMonitor, do Grupo Marktest. Depois de cinco meses no topo, a primeira posição tinha sido ocupada em julho pelo ministro da Educação, Fernando Alexandre, que agora ocupa a oitava pos",
       "source": "ECO",
-      "date": "Fri, 25 Sep 2026 10:50:12 +0000",
-      "url": "https://eco.sapo.pt/2026/09/25/credito-a-habitacao-cresce-ao-ritmo-mais-alto-desde-2003-com-salto-de-112-em-agosto/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-43768853-scaled-1.jpg",
+      "date": "Fri, 25 Sep 2026 16:29:04 +0000",
+      "url": "https://eco.sapo.pt/2026/09/25/luis-montenegro-volta-a-lideranca-da-exposicao-televisiva/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc20260814476122832f3a1230-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "250958fe",
+      "cat": "tecnologia",
+      "title": "Teens Set World Record for Most Sports Balls Recycled in One Day, Diverting 2,675 Pounds from Landfills",
+      "summary": "In March, GNN reported on the attempt by teens to set a Guinness World Record for the most racquet sport balls recycled in a single day, and we&#8217;re happy to tell you: they pulled it off. It took awhile, but last weekend a group of teen environmentalists from California collected about 22,000 mo",
+      "source": "Good News Network",
+      "date": "Thu, 24 Sep 2026 15:30:31 +0000",
+      "url": "https://www.goodnewsnetwork.org/teens-set-world-record-for-most-sports-balls-recycled-in-one-day-diverting-2675-pounds-from-landfills/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Another-Bounce-Habits-of-Waste-released.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "59b86a96",
+      "cat": "tecnologia",
+      "title": "Portuguese Company Turns Cork Wood into Limitless Material, Even to Insulate Spacecraft",
+      "summary": "In Portugal, a 150-year-old business making corks is showing that it&#8217;s absolutely possible to teach an old dog new tricks. Having cultivated cork oak trees since the time of the monarchy, Corticeira Amorim have popped open the potential of this humble material, transforming it into a sustainab",
+      "source": "Good News Network",
+      "date": "Thu, 24 Sep 2026 11:00:21 +0000",
+      "url": "https://www.goodnewsnetwork.org/portuguese-company-turns-cork-wood-into-limitless-material-even-to-insulate-spacecraft/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Stacks-of-harvested-cork-oak-bark-credit-Carsten-Niehaus-CC-3.0.-via-Wikimedia.jpg",
       "score": 0.73
     },
     {
@@ -234,58 +289,36 @@
       "score": 0.73
     },
     {
-      "id": "994a9472",
-      "cat": "tecnologia",
-      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
-      "summary": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
+      "id": "7c9608a6",
+      "cat": "saude",
+      "title": "NHS to suspend staff suspected of snooping on patient records",
+      "summary": "There have been too many cases of staff abusing patient trust, and enough is enough, the head of the NHS in England says.",
       "source": "BBC News",
-      "date": "Wed, 23 Sep 2026 23:42:38 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b5f/live/11ea22b0-b736-11f1-aa9c-3d062fa3aea7.jpg",
+      "date": "Fri, 25 Sep 2026 12:47:03 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1a3/live/6f930ce0-b8dc-11f1-bc1f-3f186ca4140c.jpg",
       "score": 0.73
     },
     {
-      "id": "72a9e3e0",
-      "cat": "tecnologia",
-      "title": "Novo apoio aos transportes abrange o último trimestre do ano",
-      "summary": "Mecanismo anunciado após o Conselho de Ministros vai “compensar os operadores mais afectados com base nos custos suportados entre Outubro e Dezembro, assegurando a cobertura até 70% dos custos”.",
-      "source": "Público",
-      "date": "Fri, 25 Sep 2026 11:04:47 GMT",
-      "url": "https://www.publico.pt/2026/09/25/economia/noticia/novo-apoio-transportes-abrange-ultimo-trimestre-ano-2189278",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "9e046c28",
+      "id": "ab5a3296",
       "cat": "geral",
-      "title": "Christine Webb: “O excepcionalismo humano é algo invisível, oculto e profundamente normalizado”",
-      "summary": "Em O Símio Arrogante , a primatóloga Christine Webb disseca o mito do excepcionalismo humano e o complexo de superioridade que o sustenta.",
+      "title": "Tesão e tensão na Bienal de Veneza",
+      "summary": "",
       "source": "Público",
-      "date": "Fri, 25 Sep 2026 11:00:00 GMT",
-      "url": "https://www.publico.pt/2026/09/25/culturaipsilon/entrevista/christine-webb-excepcionalismo-humano-algo-invisivel-oculto-profundamente-normalizado-2188146",
+      "date": "Fri, 25 Sep 2026 12:26:43 GMT",
+      "url": "https://www.publico.pt/2026/09/25/newsletter/ipsilon",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "7f330b45",
+      "id": "af6572f7",
       "cat": "tecnologia",
-      "title": "Papa Leão XIV mostra apoio aos jornalistas durante viagem para França",
-      "summary": "O Papa Leão XIV chegou esta sexta-feira a Paris, para uma visita de quatro dias e, a bordo do avião papal, manifestou o seu apoio aos jornalistas e disse apreciar uma boa cobertura mediática, quando questionado por um repórter da CNN sobre as restrições impostas pelo presidente dos EUA, Donald Trump",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 25 Sep 2026 12:23:12 +0100",
-      "url": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/papa-leao-xiv-mostra-apoio-aos-jornalistas-durante-viagem-para-franca",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-25-12-21-45-530084.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c886cc74",
-      "cat": "tecnologia",
-      "title": "Mesmo Valor vai investir 475 milhões na construção de 2.300 casas",
-      "summary": "Com 18 empreendimentos concluídos, totalizando cerca de mil frações entregues, a promotora imobiliária tem atualmente 21 projetos em curso nas cidades do Porto, Matosinhos e Vila Nova de Gaia.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 25 Sep 2026 12:14:53 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/mesmo-valor-vai-investir-475-milhoes-na-construcao-de-2-300-casas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-25-11-02-07-530077.png",
+      "title": "“Já não temos por onde esticar”. Bárbara deixou de poder comprar carne de vaca, factura do gás ameaça negócio de Carlos",
+      "summary": "O PÚBLICO voltou a falar com as quatro famílias e empresas que entrevistou em 2022, para perceber como evoluíram os rendimentos, despesas e negócios, e como avaliam as novas medidas do Governo.",
+      "source": "Público",
+      "date": "Fri, 25 Sep 2026 12:10:10 GMT",
+      "url": "https://www.publico.pt/2026/09/25/sociedade/noticia/ja-nao-onde-esticar-barbara-deixou-comprar-carne-vaca-factura-gas-ameaca-negocio-carlos-2189195",
+      "img": null,
       "score": 0.7
     },
     {
@@ -297,39 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "050859da",
-      "cat": "sociedade",
-      "title": "What We’re Reading: Singapore Is Paying People to Read",
-      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you&#8217;ve been reading at info@reasonstobecheerful.world and we just might feature it here. Read receipts We hear it over and over: People aren’t reading anymore. Would more people be motivated t",
-      "source": "Reasons to be Cheerful",
-      "date": "Wed, 23 Sep 2026 08:00:22 +0000",
-      "url": "https://reasonstobecheerful.world/what-were-reading-singapore-paying-people-to-read/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_2526789219-scaled.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "cf815248",
-      "cat": "tecnologia",
-      "title": "In Remote Alaska, the Promise and Limits of Vertical Farming",
-      "summary": "This story was originally published by Civil Eats. The town of Skagway, in southeast Alaska, is home to approximately 1,000 year-round residents and hosts more than 1.3 million summer cruise ship passengers. Isolated in the winter, and reliant on a barge system to bring food up from the Lower 48... ",
-      "source": "Reasons to be Cheerful",
-      "date": "Fri, 18 Sep 2026 08:00:09 +0000",
-      "url": "https://reasonstobecheerful.world/in-remote-alaska-the-promise-and-limits-of-vertical-farming/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/260817-3-in-remote-alaska-promise-limits-vertical-farming-skagway-brewing-co-molly-mccluskey.jpg",
       "score": 0.7
     }
   ]
