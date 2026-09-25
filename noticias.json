@@ -1,5 +1,5 @@
 {
-  "last_update": "25/09/2026 17:01 UTC",
+  "last_update": "25/09/2026 21:26 UTC",
   "total": 30,
   "news": [
     {
@@ -58,6 +58,17 @@
       "score": 0.82
     },
     {
+      "id": "899ed231",
+      "cat": "tecnologia",
+      "title": "Judoca paralímpico Djibrilo Iafa conquista bronze nos Mundiais IBSA",
+      "summary": "O judoca paralímpico português Djibrilo Iafa conquistou hoje a medalha de bronze nos Mundiais da federação internacional de desportos para cegos (IBSA), na categoria de -70 kg J1, em Tiblisi, Geórgia.",
+      "source": "RTP",
+      "date": "Fri, 25 Sep 2026 19:12:09 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/judoca-paralimpico-djibrilo-iafa-conquista-bronze-nos-mundiais-ibsa_d1767773",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.79
+    },
+    {
       "id": "04a37f14",
       "cat": "ciencia",
       "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
@@ -69,47 +80,25 @@
       "score": 0.79
     },
     {
-      "id": "4c633ff1",
-      "cat": "tecnologia",
-      "title": "Portugal na rota dos drones russos?",
-      "summary": "Estará Portugal ameaçado por possíveis lançamentos de drones russos? Especialistas consideram o cenário como plausível. Eduardo Catroga analisa a atuação do primeiro-ministro e deixa avisos.",
-      "source": "Observador",
-      "date": "Fri, 25 Sep 2026 08:03:34 +0100",
-      "url": "https://observador.pt/newsletters/360/portugal-na-rota-dos-drones-russos-catogra-diz-que-montenegro-nao-e-cavaco-e-o-verao-de-quatro-meses/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25120046/360-16x9-1.png",
-      "score": 0.76
-    },
-    {
-      "id": "6835c74b",
-      "cat": "economia",
-      "title": "Inaugurado em Beja centro de formação para operadores de maquinaria pesada num investimento de seis milhões",
-      "summary": "O novo Centro de Capacitação cria 30 empregos e pode receber 500 formandos por ano.",
+      "id": "f5dbecb5",
+      "cat": "ciencia",
+      "title": "Empresas europeias querem regras verdes estáveis e criticam incerteza da simplificação",
+      "summary": "Nove em cada dez gestores dizem que a transição sustentável reforça a competitividade a longo prazo. Só 29% veem efeitos positivos nas recentes iniciativas europeias de simplificação, aponta novo estudo.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 25 Sep 2026 16:16:33 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/inaugurado-em-beja-centro-de-formacao-para-operadores-de-maquinaria-pesada-num-investimento-de-seis-milhoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-25-16-14-39-530109.jpg",
+      "date": "Fri, 25 Sep 2026 20:27:35 +0100",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/governacao/detalhe/empresas-europeias-querem-regras-verdes-estaveis-e-criticam-incerteza-da-simplificacao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-16-12-34-54-529577.png",
       "score": 0.76
     },
     {
-      "id": "e6887014",
+      "id": "92ba2b71",
       "cat": "tecnologia",
-      "title": "Os sonhos e motivações que levam atletas olímpicos a conquistar medalhas",
-      "summary": "Dos sonhos de criança à vontade de receber uma carta do Comité Olímpico, são várias as motivações que levaram atletas a empenharem-se no alto rendimento e a conquistar medalhas olímpicas em condições menos favoráveis que as atuais.",
+      "title": "Miguel Oliveira nono nos treinos de prova italiana que pode dar título a Bulega",
+      "summary": "O português Miguel Oliveira (BMW) terminou hoje na nona posição o primeiro dia de treinos livres da ronda italiana do Mundial de Superbikes, em Cremona, onde Nicolò Bulega (Ducati) pode conquistar o título mundial.",
       "source": "RTP",
-      "date": "Fri, 25 Sep 2026 16:06:24 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/os-sonhos-e-motivacoes-que-levam-atletas-olimpicos-a-conquistar-medalhas_d1767731",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "1bcfcbfa",
-      "cat": "tecnologia",
-      "title": "Dominguinhos quer “sobras” das agendas do PRR a financiar produtos prestes a chegar ao mercado",
-      "summary": "O que não for usado dos cerca de 3.000 mil milhões de euros de dotação das agendas mobilizadoras do Plano de Recuperação e Resiliência (PRR) deverá ser utilizado para financiar produtos, que foram validados pelo IAPMEI no âmbito destes projetos, e que estão numa fase próxima de lançamento no mercado",
-      "source": "ECO",
-      "date": "Fri, 25 Sep 2026 14:59:57 +0000",
-      "url": "https://eco.sapo.pt/2026/09/25/dominguinhos-quer-sobras-das-agendas-do-prr-a-financiar-produtos-prestes-a-chegar-ao-mercado/",
-      "img": "https://eco.imgix.net/uploads/2025/06/cropped-z62_7633-1.jpg",
+      "date": "Fri, 25 Sep 2026 19:53:15 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/miguel-oliveira-nono-nos-treinos-de-prova-italiana-que-pode-dar-titulo-a-bulega_d1767783",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7be3392d4ee5931ede59c2c2d120d66a?w=350&amp;q=50&amp;rect=0,73,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
@@ -146,58 +135,69 @@
       "score": 0.76
     },
     {
-      "id": "22c819d9",
-      "cat": "geral",
-      "title": "Madeira desliga as luzes proteger primeiros voos da freira-da-madeira",
-      "summary": "A população da ilha é convidada a desligar a iluminação exterior no domingo, entre as 20h e as 23h, para evitar a desorientação das aves juvenis a caminho do mar.",
+      "id": "f64e9b62",
+      "cat": "tecnologia",
+      "title": "Oito momentos em família, num Imaginário de lobos, castelos e.. ratos",
+      "summary": "Vêm aí recriações históricas em Almourol e no Castelo de São Jorge, um Festival Imaginário em Sintra e histórias com espaço para árvores e animais.",
       "source": "Público",
-      "date": "Fri, 25 Sep 2026 11:45:00 GMT",
-      "url": "https://www.publico.pt/2026/09/25/azul/noticia/madeira-desliga-luzes-proteger-voos-freiradamadeira-2189158",
+      "date": "Fri, 25 Sep 2026 17:27:47 GMT",
+      "url": "https://www.publico.pt/2026/09/25/impar/noticia/oito-momentos-familia-imaginario-lobos-castelos-ratos-2189331",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "d56dbb68",
-      "cat": "geral",
-      "title": "Portugal, o tráfico de escravo e os pedidos de indemnizações",
-      "summary": "As Nações Unidas abriram a porta com uma resolução aprovada em Março, o Gana lidera o movimento que pede reparações e parece que Portugal até quer dar apoio. A sério? Onde é que isso já se discutiu?",
-      "source": "Observador",
-      "date": "Fri, 25 Sep 2026 08:29:32 +0100",
-      "url": "https://observador.pt/programas/contra-corrente/portugal-o-trafico-de-escravo-e-os-pedidos-de-indemnizacoes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "f135d78d",
-      "cat": "desporto",
-      "title": "Penálti bizarro na Bolívia pára o jogo: futebol ou novela?",
-      "summary": "O guarda redes não gostou da decisão do árbitro e encostou-se ao poste em protesto. E Vasco Vilaça só precisa de um 5.º lugar para ser campeão mundial de triatlo. O título já cá canta, ou não?",
-      "source": "Observador",
-      "date": "Fri, 25 Sep 2026 08:20:31 +0100",
-      "url": "https://observador.pt/programas/tres-toques/penalti-bizarro-na-bolivia-para-o-jogo-futebol-ou-novela/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/06151953/770-podcast-tres-toques-2025-v2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "c8b00641",
+      "id": "4a387e74",
       "cat": "tecnologia",
-      "title": "Histórico Hotel da Encumeada executado está em leilão por 6,5 milhões",
-      "summary": "Envolvido numa complexa teia de mudanças de proprietários, processos judiciais de execução e uma falhada venda por 5,3 milhões a um fundo internacional, o Valley View Hotel Encumeada, situada na Serra de Água, na Madeira, volta à praça por um valor base de 7,6 milhões de euros.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 25 Sep 2026 17:24:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/historico-hotel-da-encumeada-executado-esta-em-leilao-por-6-5-milhoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-25-16-56-29-530115.png",
+      "title": "Seguro expressa confiança na PJ e espera que seja reforçada com resultados apurados",
+      "summary": "António José Seguro diz esperar que os resultados da investigação do Ministério Público a Carlos Cabreiro, director nacional da PJ, sejam “o mais rapidamente posível” apurados.",
+      "source": "Público",
+      "date": "Fri, 25 Sep 2026 17:23:46 GMT",
+      "url": "https://www.publico.pt/2026/09/25/politica/noticia/seguro-expressa-confianca-pj-espera-reforcada-resultados-apurados-2189348",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "c0261c12",
+      "id": "92b2322a",
       "cat": "tecnologia",
-      "title": "Lisboa termina semana com ganhos moderados. BCP lidera subidas",
-      "summary": "O PSI seguiu o tom positivo da maioria das praças europeias, com o alívio do petróleo e dos juros da dívida. BCP e grupo EDP impulsionaram o índice nacional.",
+      "title": "Lula acusa Trump de ingerência a favor de Bolsonaro e procura mobilizar eleitorado",
+      "summary": "“Eu disse a Trump que, se ele interferir, vai perder”, disse Lula da Silva, na corrida às presidenciais de 4 de Outubro. Vídeo publicitário da campanha diz que “Trump quer é colonizar o Brasil”.",
+      "source": "Público",
+      "date": "Fri, 25 Sep 2026 17:20:40 GMT",
+      "url": "https://www.publico.pt/2026/09/25/mundo/noticia/lula-acusa-trump-ingerencia-favor-bolsonaro-procura-mobilizar-eleitorado-2189342",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "735a5594",
+      "cat": "tecnologia",
+      "title": "Passos Coelho e a amnésia de Sebastião Bugalho",
+      "summary": "Alberto Gonçalves comenta as declarações de Sebastião Bugalho sobre Pedro Passos Coelho, nas quais o eurodeputado desvaloriza as opiniões do ex-primeiro-ministro",
+      "source": "Observador",
+      "date": "Fri, 25 Sep 2026 19:01:58 +0100",
+      "url": "https://observador.pt/programas/ideias-feitas/passos-coelho-e-a-amnesia-de-sebastiao-bugalho/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/14123800/770-podcastideias-feitas.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "8365e09c",
+      "cat": "tecnologia",
+      "title": "Wall Street termina semana em terreno positivo. Meta trava tecnológicas",
+      "summary": "Os principais índices bolsistas norte-americanos chegaram ao fim da sessão desta sexta-feira com subidas impulsionadas pela quebra no preço do petróleo. Em contraciclo esteve a Meta, que caiu mais de 3%.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 25 Sep 2026 16:52:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/lisboa-termina-semana-com-ganhos-moderados-bcp-lidera-subidas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-02-15-05-15-508478.jpg",
+      "date": "Fri, 25 Sep 2026 21:24:29 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-termina-semana-em-terreno-positivo-meta-trava-tecnologicas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-15-20-46-34-523741.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "6f174e5b",
+      "cat": "tecnologia",
+      "title": "Centeno: Comparação com Passos é \"despropositada\" e não \"gostaria nada\" de ser primeiro-ministro",
+      "summary": "\"O nosso passado é completamente diferente, a minha dedicação à vida académica não tem paralelo com nenhuma figura que vocês vejam, em particular o doutor Passos Coelho\", disse Mário Centeno à margem da apresentação do seu livro \"Contas Certas\".",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 25 Sep 2026 21:18:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/centeno-comparacao-com-passos-e-despropositada-e-nao-gostaria-de-ser-primeiro-ministro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-25-21-15-33-530154.jpg",
       "score": 0.73
     },
     {
@@ -212,47 +212,36 @@
       "score": 0.73
     },
     {
-      "id": "9e7dd3d0",
-      "cat": "desporto",
-      "title": "18h30 o primeiro onze de Jesus",
-      "summary": "",
-      "source": "RTP",
-      "date": "Fri, 25 Sep 2026 18:34:15 +0100",
-      "url": "https://www.rtp.pt/noticias/pais/18h30-o-primeiro-onze-de-jesus_a1767769",
-      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "2b0b7ec1",
-      "cat": "desporto",
-      "title": "18h30 o primeiro onze de Jesus",
-      "summary": "",
-      "source": "RTP",
-      "date": "Fri, 25 Sep 2026 18:33:02 +0100",
-      "url": "https://www.rtp.pt/noticias/pais/18h30-o-primeiro-onze-de-jesus_a1767546",
-      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "4cb613f8",
+      "id": "9952dc46",
       "cat": "tecnologia",
-      "title": "Ativo do dia. Taxa de juro de Portugal a 10 anos em máximos de 2017",
-      "summary": "O ativo Obrigações do Tesouro a 10 anos. É o benchmark da dívida pública portuguesa e serve de referência para custos de financiamento cobrados a empresas financeiras e não financeiras no país. Quando os juros da dívida portuguesa sobem, isto significa que o Estado irá pagar mais para se financiar n",
-      "source": "ECO",
-      "date": "Fri, 25 Sep 2026 16:47:38 +0000",
-      "url": "https://eco.sapo.pt/2026/09/25/ativo-do-dia-taxa-de-juro-de-portugal-a-10-anos-em-maximos-de-2017/",
-      "img": "https://eco.imgix.net/uploads/2026/09/proposta-1-obrigacoes.jpg",
+      "title": "Ricardo Batista confia na \"equipa\" para manter o terceiro lugar",
+      "summary": "Ricardo Batista considerou hoje que o “jogo de equipa” pode ajudá-lo domingo a manter o terceiro lugar nos Mundiais de triatlo e o primeiro de Vasco Vilaça, assumindo que a finalíssima de Pontevedra é uma prova com contornos distintos.",
+      "source": "RTP",
+      "date": "Fri, 25 Sep 2026 21:03:52 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/ricardo-batista-confia-na-equipa-para-manter-o-terceiro-lugar_d1767797",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/34/3461639e8b285479143815780b068258?w=350&amp;q=50&amp;rect=0,0,1233,676&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "a68a6488",
+      "id": "21ff6615",
       "cat": "tecnologia",
-      "title": "Luís Montenegro volta à liderança da exposição televisiva",
-      "summary": "O primeiro-ministro, Luís Montenegro, regressou ao topo do ranking de exposição mediática do serviço Telenews, da MediaMonitor, do Grupo Marktest. Depois de cinco meses no topo, a primeira posição tinha sido ocupada em julho pelo ministro da Educação, Fernando Alexandre, que agora ocupa a oitava pos",
+      "title": "IL diz que Governo tem obrigação moral de descer ISP e questiona reservas de combustíveis",
+      "summary": "A presidente da IL afirmou esta sexta-feira que o Governo está moralmente obrigado a cumprir a resolução aprovada em maio e descer o ISP e levantou dúvidas sobre as reservas de combustíveis do país, acusando o executivo de paternalismo. Em declarações aos jornalistas à entrada para a `rentrée´ do Nú",
       "source": "ECO",
-      "date": "Fri, 25 Sep 2026 16:29:04 +0000",
-      "url": "https://eco.sapo.pt/2026/09/25/luis-montenegro-volta-a-lideranca-da-exposicao-televisiva/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc20260814476122832f3a1230-scaled-1.jpg",
+      "date": "Fri, 25 Sep 2026 20:22:20 +0000",
+      "url": "https://eco.sapo.pt/2026/09/25/il-diz-que-governo-tem-obrigacao-moral-de-descer-isp-e-questiona-reservas-de-combustiveis/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-mocao-censura23.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1b209f35",
+      "cat": "ambiente",
+      "title": "Mário Centeno recusa comparação com Passos Coelho. “É despropositada”",
+      "summary": "Mário Centeno, ex-ministro das Finanças, que também foi governador do Banco de Portugal, recusa semelhanças com o antigo primeiro-ministro Pedro Passos Coelho no que toca à intervenção que ambos têm tido no espaço público. A reação aconteceu à margem a apresentação do seu novo livro &#8220;Contas Ce",
+      "source": "ECO",
+      "date": "Fri, 25 Sep 2026 19:39:47 +0000",
+      "url": "https://eco.sapo.pt/2026/09/25/mario-centeno-recusa-comparacao-com-passos-coelho-e-despropositada/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc2026070947437383ma-08487.jpg",
       "score": 0.73
     },
     {
@@ -274,7 +263,7 @@
       "source": "Good News Network",
       "date": "Thu, 24 Sep 2026 11:00:21 +0000",
       "url": "https://www.goodnewsnetwork.org/portuguese-company-turns-cork-wood-into-limitless-material-even-to-insulate-spacecraft/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Stacks-of-harvested-cork-oak-bark-credit-Carsten-Niehaus-CC-3.0.-via-Wikimedia.jpg",
+      "img": null,
       "score": 0.73
     },
     {
@@ -300,25 +289,25 @@
       "score": 0.73
     },
     {
-      "id": "ab5a3296",
-      "cat": "geral",
-      "title": "Tesão e tensão na Bienal de Veneza",
-      "summary": "",
-      "source": "Público",
-      "date": "Fri, 25 Sep 2026 12:26:43 GMT",
-      "url": "https://www.publico.pt/2026/09/25/newsletter/ipsilon",
-      "img": null,
+      "id": "88a15c26",
+      "cat": "tecnologia",
+      "title": "Saúde. Seguro afirma estar \"sempre disponível\" para pacto",
+      "summary": "No Fórum Internacional de Saúde de Cascais, o Presidente da República exigeiu valorização de carreiras e fixação de profissionais e e alertou ainda para os efeitos das alterações climáticas na saúde.",
+      "source": "Observador",
+      "date": "Fri, 25 Sep 2026 19:56:14 +0100",
+      "url": "https://observador.pt/2026/09/25/seguro-reafirma-se-sempre-disponivel-para-promover-pacto-para-a-saude/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/25183900/47836536.jpg",
       "score": 0.7
     },
     {
-      "id": "af6572f7",
+      "id": "92d8847e",
       "cat": "tecnologia",
-      "title": "“Já não temos por onde esticar”. Bárbara deixou de poder comprar carne de vaca, factura do gás ameaça negócio de Carlos",
-      "summary": "O PÚBLICO voltou a falar com as quatro famílias e empresas que entrevistou em 2022, para perceber como evoluíram os rendimentos, despesas e negócios, e como avaliam as novas medidas do Governo.",
-      "source": "Público",
-      "date": "Fri, 25 Sep 2026 12:10:10 GMT",
-      "url": "https://www.publico.pt/2026/09/25/sociedade/noticia/ja-nao-onde-esticar-barbara-deixou-comprar-carne-vaca-factura-gas-ameaca-negocio-carlos-2189195",
-      "img": null,
+      "title": "OE: Montenegro e Albuquerque reúnem-se na terça-feira",
+      "summary": "Fundo de coesão, Centro Internacional de Negócios e custos da saúde estão na agenda. Para o líder regional, a Lei das Finanças Regionais \"penaliza\" quem cresce.",
+      "source": "Observador",
+      "date": "Fri, 25 Sep 2026 19:48:09 +0100",
+      "url": "https://observador.pt/2026/09/25/albuquerque-reune-se-com-montenegro-na-terca-feira-para-negociar-verbas-da-madeira-no-orcamento-do-estado-2027/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3543:1992:nowe:0:151/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/03/09221634/doc202303094043319608-hg-7227.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
