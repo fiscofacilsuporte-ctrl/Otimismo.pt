@@ -1,5 +1,5 @@
 {
-  "last_update": "26/09/2026 04:39 UTC",
+  "last_update": "26/09/2026 11:12 UTC",
   "total": 30,
   "news": [
     {
@@ -54,7 +54,7 @@
       "source": "RTP",
       "date": "Sat, 26 Sep 2026 00:05:47 +0100",
       "url": "https://www.rtp.pt/noticias/desporto/campeonato-do-mundo-de-triatlo-dinis-ferreira-e-vice-campeao-mundial-de-juniores_v1767828",
-      "img": "https://cdn-images.rtp.pt/icm/images/41/41d078c06635137c26efe490a1e7ac90_N.jpg?",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c06024e2491439777b5522671ea3c3be?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.79
     },
     {
@@ -77,17 +77,6 @@
       "date": "Sat, 26 Sep 2026 00:25:22 +0100",
       "url": "https://observador.pt/opiniao/o-governo-anda-a-brincar-com-os-pobrezinhos/",
       "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2124%3A2124%3Anowe%3A955%3A75%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151538%2Fjporfirio-retratos-redacao-2026-01-81-scaled.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "f5dbecb5",
-      "cat": "ciencia",
-      "title": "Empresas europeias querem regras verdes estáveis e criticam incerteza da simplificação",
-      "summary": "Nove em cada dez gestores dizem que a transição sustentável reforça a competitividade a longo prazo. Só 29% veem efeitos positivos nas recentes iniciativas europeias de simplificação, aponta novo estudo.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 25 Sep 2026 20:27:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/governacao/detalhe/empresas-europeias-querem-regras-verdes-estaveis-e-criticam-incerteza-da-simplificacao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-16-12-34-54-529577.png",
       "score": 0.76
     },
     {
@@ -135,13 +124,24 @@
       "score": 0.76
     },
     {
-      "id": "32ed0461",
-      "cat": "geral",
-      "title": "Centeno não quer ser primeiro-ministro nem militante do PS",
-      "summary": "Apresentação do livro de Centeno reuniu antigos colegas de Governo, incluindo António Costa. Ex-ministro quer continuar fora do PS e considera esforço da “geringonça” a receita para a estabilidade.",
+      "id": "b2ae022e",
+      "cat": "tecnologia",
+      "title": "Na Terra de Miranda: An Picuote, antre peinhas i hortas",
+      "summary": "Picote é uma espécie de bastião na defesa da lhéngua mirandesa. Fala-se – e, sobretudo, escreve-se – mirandês por todo o lado, da toponímia, aos folhetos e placas, conta a leitora Fernanda Gamito.",
       "source": "Público",
-      "date": "Fri, 25 Sep 2026 20:51:07 GMT",
-      "url": "https://www.publico.pt/2026/09/25/politica/noticia/centeno-nao-quer-primeiroministro-militante-ps-2189364",
+      "date": "Sat, 26 Sep 2026 09:22:00 GMT",
+      "url": "https://www.publico.pt/2026/09/26/fugas/noticia/terra-miranda-an-picuote-antre-peinhas-i-hortas-2188823",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "79f5b27b",
+      "cat": "tecnologia",
+      "title": "Canadá vai criar enquadramento para o mercado de remoção de carbono ao abrigo do Acordo de Paris",
+      "summary": "Com as exportações de petróleo e gás natural, o Canadá é um dos principais emissores de CO2 do planeta. Mas o Governo quer acelerar tecnologias e soluções naturais para retirar carbono da atmosfera.",
+      "source": "Público",
+      "date": "Sat, 26 Sep 2026 09:08:35 GMT",
+      "url": "https://www.publico.pt/2026/09/26/azul/noticia/canada-vai-criar-enquadramento-mercado-remocao-carbono-abrigo-acordo-paris-2189271",
       "img": null,
       "score": 0.73
     },
@@ -157,25 +157,36 @@
       "score": 0.73
     },
     {
-      "id": "8365e09c",
+      "id": "92dd2664",
       "cat": "tecnologia",
-      "title": "Wall Street termina semana em terreno positivo. Meta trava tecnológicas",
-      "summary": "Os principais índices bolsistas norte-americanos chegaram ao fim da sessão desta sexta-feira com subidas impulsionadas pela quebra no preço do petróleo. Em contraciclo esteve a Meta, que caiu mais de 3%.",
+      "title": "Governo pede à ANA mais detalhes sobre procura, pistas e expansão do aeroporto de Lisboa",
+      "summary": "Em comunicado, o Ministério das Infraestruturas considera positiva a revisão das projeções de tráfego feita pela concessionária, depois de o Governo ter contestado as estimativas iniciais, que apontavam para cerca de 45 milhões de passageiros em 2045.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 25 Sep 2026 21:24:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-termina-semana-em-terreno-positivo-meta-trava-tecnologicas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-15-20-46-34-523741.jpg",
+      "date": "Sat, 26 Sep 2026 10:38:36 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/governo-pede-a-ana-mais-detalhes-sobre-procura-pistas-e-expansao-do-aeroporto-de-lisboa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-04-09-28-32-524819.jpg",
       "score": 0.73
     },
     {
-      "id": "6f174e5b",
+      "id": "07cf973a",
       "cat": "tecnologia",
-      "title": "Centeno: Comparação com Passos é \"despropositada\" e não \"gostaria nada\" de ser primeiro-ministro",
-      "summary": "\"O nosso passado é completamente diferente, a minha dedicação à vida académica não tem paralelo com nenhuma figura que vocês vejam, em particular o doutor Passos Coelho\", disse Mário Centeno à margem da apresentação do seu livro \"Contas Certas\".",
+      "title": "Lançamento de GTA VI vai ter efeitos (negativos) na produtividade norte-americana",
+      "summary": "Jogadores que vão tirar alguns dias ou até mesmo uma semana para experimentarem o novo título podem ter um efeito negativo de mil milhões de dólares na economia. Setor da tecnologia será o mais afetado.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 25 Sep 2026 21:18:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/centeno-comparacao-com-passos-e-despropositada-e-nao-gostaria-de-ser-primeiro-ministro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-25-21-15-33-530154.jpg",
+      "date": "Sat, 26 Sep 2026 10:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/lancamento-de-gta-vi-vai-ter-efeitos-negativos-na-produtividade-norte-americana",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-25-21-23-41-530155.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "6ac3df71",
+      "cat": "tecnologia",
+      "title": "Francisco Calheiros: Turismo continua de boa saúde mas foco deve mudar",
+      "summary": "\"Não é o número de turistas e o número de dormidas que deve ser a nossa principal prioridade, a nossa principal prioridade deve ser a criação de valor\", defende o presidente da Confederação do Turismo de Portugal.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 26 Sep 2026 09:24:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/francisco-calheiros-turismo-continua-de-boa-saude-mas-foco-deve-mudar",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-14-16-14-35-525153.jpg",
       "score": 0.73
     },
     {
@@ -212,17 +223,6 @@
       "score": 0.73
     },
     {
-      "id": "1b209f35",
-      "cat": "ambiente",
-      "title": "Mário Centeno recusa comparação com Passos Coelho. “É despropositada”",
-      "summary": "Mário Centeno, ex-ministro das Finanças, que também foi governador do Banco de Portugal, recusa semelhanças com o antigo primeiro-ministro Pedro Passos Coelho no que toca à intervenção que ambos têm tido no espaço público. A reação aconteceu à margem a apresentação do seu novo livro &#8220;Contas Ce",
-      "source": "ECO",
-      "date": "Fri, 25 Sep 2026 19:39:47 +0000",
-      "url": "https://eco.sapo.pt/2026/09/25/mario-centeno-recusa-comparacao-com-passos-coelho-e-despropositada/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc2026070947437383ma-08487.jpg",
-      "score": 0.73
-    },
-    {
       "id": "99a9cef2",
       "cat": "ambiente",
       "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
@@ -245,24 +245,13 @@
       "score": 0.73
     },
     {
-      "id": "b1d25da6",
+      "id": "71754c89",
       "cat": "tecnologia",
-      "title": "Alinhamento da IA: como garantir que as máquinas respeitam os humanos?",
-      "summary": "Governos, cientistas e empresas discutem como controlar sistemas cada vez mais capazes. O desafio é assegurar que a inteligência artificial serve objectivos humanos sem causar danos imprevistos.",
+      "title": "Há eleitores em São Tomé e Príncipe que continuam a ir ao “banho” sempre que há eleições",
+      "summary": "Santomenses voltam às urnas depois de uma campanha discreta, sob o signo da descrença, num país a braços com a falta de energia e a compra de votos. O “banho” pode render 500 dobras ou 20 euros.",
       "source": "Público",
-      "date": "Fri, 25 Sep 2026 21:00:00 GMT",
-      "url": "https://www.publico.pt/2026/09/25/enter/noticia/alinhamento-ia-garantir-maquinas-respeitam-humanos-2189338",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "84e4a086",
-      "cat": "tecnologia",
-      "title": "A França de Zidane começou a ganhar, a Itália de Mancini entrou a perder",
-      "summary": "Mbappé marcou e saiu lesionado no triunfo dos “bleus” sobre a Turquia, Lukebakio brilhou pela Bélgica com um grande golo à “squadra azzurra”, que teve Doumbia como suplente utilizado.",
-      "source": "Público",
-      "date": "Fri, 25 Sep 2026 20:46:46 GMT",
-      "url": "https://www.publico.pt/2026/09/25/desporto/noticia/franca-zidane-comecou-ganhar-italia-mancini-entrou-perder-2189378",
+      "date": "Sat, 26 Sep 2026 09:30:00 GMT",
+      "url": "https://www.publico.pt/2026/09/26/mundo/noticia/ha-eleitores-sao-tome-principe-continuam-ir-banho-ha-eleicoes-2189365",
       "img": null,
       "score": 0.7
     },
@@ -300,14 +289,25 @@
       "score": 0.7
     },
     {
-      "id": "37c37de7",
+      "id": "76f8cb77",
       "cat": "tecnologia",
-      "title": "⛽Governo reduz desconto do ISP na gasolina e no gasóleo",
-      "summary": "O Governo vai reduzir o desconto do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP), perante a esperada descida dos preços do gasóleo e da gasolina na próxima semana. O apoio sobre o gasóleo desce para 0,85 cêntimos no caso do gasóleo e 0,07 cêntimos na gasolina. Na portaria, publicada es",
+      "title": "Presidente da Confederação do Turismo vê privatização total da TAP “num futuro próximo”",
+      "summary": "O presidente da Confederação do Turismo de Portugal (CTP) assume-se como &#8220;um TAPista&#8221;, um defensor da companhia aérea nacional, em privatização, que é determinante para o turismo em Portugal e que &#8220;tem passado&#8221; e &#8220;aguentado tudo&#8221;. &#8220;Declaração de interesses: ",
       "source": "ECO",
-      "date": "Fri, 25 Sep 2026 22:11:12 +0000",
-      "url": "https://eco.sapo.pt/2026/09/25/%e2%9b%bdgoverno-reduz-desconto-do-isp-na-gasolina-e-no-gasoleo/",
-      "img": "https://eco.imgix.net/uploads/2026/03/cropped-doc2026030746705971ma-19303.jpg",
+      "date": "Sat, 26 Sep 2026 10:29:11 +0000",
+      "url": "https://eco.sapo.pt/2026/09/26/presidente-da-confederacao-de-turismo-ve-privatizacao-total-da-tap-num-futuro-proximo/",
+      "img": "https://eco.imgix.net/uploads/2025/09/cropped-doc20250929457501242909rm08.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "a0b0070b",
+      "cat": "tecnologia",
+      "title": "ECO Quiz. Lisboa entrou na lista mundial de cidades com risco de bolha imobiliária?",
+      "summary": "Se está a ler esta notícia numa app, aceda aqui ao quiz O índice global do banco suíço UBS coloca, pela primeira vez, a capital portuguesa entre as metrópoles mundiais onde o preço das casas pode estar inflacionado sem fundamentos económicos. Ou seja, Lisboa tem elevado risco de o custo dos imóveis ",
+      "source": "ECO",
+      "date": "Sat, 26 Sep 2026 10:12:20 +0000",
+      "url": "https://eco.sapo.pt/2026/09/26/eco-quiz-lisboa-entrou-na-lista-mundial-de-cidades-com-risco-de-bolha-imobiliaria/",
+      "img": "https://eco.imgix.net/uploads/2026/09/26-09-25-eco-quiz-2000x1125-1.jpg",
       "score": 0.7
     },
     {
