@@ -1,5 +1,5 @@
 {
-  "last_update": "26/09/2026 16:14 UTC",
+  "last_update": "26/09/2026 20:58 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,17 @@
       "url": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-178586669.jpeg",
       "score": 0.85
+    },
+    {
+      "id": "027098ca",
+      "cat": "tecnologia",
+      "title": "Millions Channeled to Irrigation Improvements, Leak Repairs Along Colorado River by Corporate Coalition",
+      "summary": "On Monday, e-commerce giant Amazon announced a $20 million investment to conserve water in the Colorado River Basin that&#8217;s currently stressed by a mixture of demand and historic drought. In launching the Colorado River Basin Collaborative, (CRBC) and joining existing organizations the Water Re",
+      "source": "Good News Network",
+      "date": "Thu, 24 Sep 2026 13:00:30 +0000",
+      "url": "https://www.goodnewsnetwork.org/millions-channeled-to-irrigation-improvements-leak-repairs-along-colorado-river-by-corporate-coalition/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/1564px-Lake_Mead_1-cc-license-wikimedia-commons-Kjkolb-.jpg",
+      "score": 0.82
     },
     {
       "id": "1e43f759",
@@ -36,14 +47,14 @@
       "score": 0.82
     },
     {
-      "id": "df083a94",
-      "cat": "tecnologia",
-      "title": "Campeonato do Mundo de Triatlo. Dinis Ferreira é vice-campeão mundial de juniores",
-      "summary": "Dinis Ferreira é vice-campeão do mundo de triatlo em juniores. Com medalha de prata nos Mundiais, o atleta português ficou a dois segundos do vencedor.",
-      "source": "RTP",
-      "date": "Sat, 26 Sep 2026 00:05:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/campeonato-do-mundo-de-triatlo-dinis-ferreira-e-vice-campeao-mundial-de-juniores_v1767828",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c0/c06024e2491439777b5522671ea3c3be?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "id": "ed9ef4e8",
+      "cat": "sociedade",
+      "title": "Scientists Pioneer Chemical Bath Method to Restore Aging EV Batteries Without Breaking Them Down",
+      "summary": "What if instead of investing billions into battery recycling plants, you could simply take your aging electric vehicle battery back, give it a good scrub, and get all that lost range back? That&#8217;s near the mark of what Cornell University scientists have recently demonstrated, if a little editor",
+      "source": "Good News Network",
+      "date": "Wed, 23 Sep 2026 13:00:49 +0000",
+      "url": "https://www.goodnewsnetwork.org/scientists-pioneer-chemical-bath-method-to-restore-aging-ev-batteries-without-breaking-them-down/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/A-conventional-battery-pack-credit-Getty-Images-via-Unsplash-.jpg",
       "score": 0.79
     },
     {
@@ -80,47 +91,14 @@
       "score": 0.79
     },
     {
-      "id": "29724bf7",
-      "cat": "tecnologia",
-      "title": "George Russell vence Grande Prémio do Azerbaijão de Fórmula 1",
-      "summary": "Kimi Antonelli, colega de equipa do britânico, mantém-se na liderança do Mundial de pilotos, agora com 66 pontos de avanço.",
-      "source": "Público",
-      "date": "Sat, 26 Sep 2026 14:14:08 GMT",
-      "url": "https://www.publico.pt/2026/09/26/desporto/noticia/george-russell-vence-premio-azerbaijao-formula-1-2189410",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "4ebeb5c5",
-      "cat": "tecnologia",
-      "title": "O governo anda a brincar com “os pobrezinhos”",
-      "summary": "O fracasso do Volta só foi evitado por causa dos mais pobres, dos mais desprotegidos e dos mais necessitados. Para o governo, o que interessa é que somos \"um caso de sucesso\". Não estão orgulhosos?",
-      "source": "Observador",
-      "date": "Sat, 26 Sep 2026 00:25:22 +0100",
-      "url": "https://observador.pt/opiniao/o-governo-anda-a-brincar-com-os-pobrezinhos/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2124%3A2124%3Anowe%3A955%3A75%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151538%2Fjporfirio-retratos-redacao-2026-01-81-scaled.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "efa9aab5",
-      "cat": "tecnologia",
-      "title": "George Russell vence Grande Prémio do Azerbaijão de Fórmula 1",
-      "summary": "O piloto britânico George Russell (Mercedes) alcançou sábado a terceira vitória da temporada na Fórmula 1, ao triunfar no Grande Prémio do Azerbaijão, a 15.ª prova da presente edição do Mundial.",
+      "id": "2f63b35a",
+      "cat": "desporto",
+      "title": "Campeão FC Porto vence Sporting por 80-76 e conquista Supertaça de basquetebol",
+      "summary": "O FC Porto, campeão nacional, conquistou sábado a Supertaça Mário Saldanha em basquetebol, ao vencer o Sporting por 80-76 na 41.ª edição da prova, disputada no Pavilhão Desportivo de Albufeira.",
       "source": "RTP",
-      "date": "Sat, 26 Sep 2026 16:22:19 +0100",
-      "url": "https://www.rtp.pt/noticias/motores/george-russell-vence-grande-premio-do-azerbaijao-de-formula-1_d1767913",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4be038a98c113570dcd4ff1579d3b154?w=350&amp;q=50&amp;rect=0,65,1381,757&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "5223e297",
-      "cat": "tecnologia",
-      "title": "Finalíssima em Pontevedra. Vasco Vilaça procura título mundial de triatlo",
-      "summary": "Vasco Vilaça pode sagrar-se campeão do mundo de triatlo este domingo.",
-      "source": "RTP",
-      "date": "Sat, 26 Sep 2026 15:35:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/finalissima-em-pontevedra-vasco-vilaca-procura-titulo-mundial-de-triatlo_v1767916",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6c/6c9400fc6b77c8089d60467532e73e58?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sat, 26 Sep 2026 19:52:34 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/campeao-fc-porto-vence-sporting-por-80-76-e-conquista-supertaca-de-basquetebol_d1767944",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a7/a7850fa1251fd3129416f589b80e6872?w=350&amp;q=50&amp;rect=0,120,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
@@ -146,36 +124,80 @@
       "score": 0.76
     },
     {
-      "id": "2cf1fd20",
+      "id": "ad00bec8",
       "cat": "tecnologia",
-      "title": "Clubes da Premier League ponderam processos contra Manchester City",
-      "summary": "Clube foi considerado culpado de 114 infracções às regras do fairplay financeiro da UEFA. City pode ver serem-lhe retirados oito títulos de campeão da Premier League.",
+      "title": "Apoio extraordinário para o Douro não chegará aos anunciados 50 cêntimos por quilo de uva",
+      "summary": "Os viticultores já perceberam que a maioria receberá, no melhor dos casos, 27 cêntimos por quilo de uvas não vindimadas. O Governo diz que o apoio é ao hectare. Candidaturas arrancam segunda-feira.",
       "source": "Público",
-      "date": "Sat, 26 Sep 2026 13:34:14 GMT",
-      "url": "https://www.publico.pt/2026/09/26/desporto/noticia/clubes-premier-league-ponderam-processos-manchester-city-2189405",
+      "date": "Sat, 26 Sep 2026 18:30:00 GMT",
+      "url": "https://www.publico.pt/2026/09/26/terroir/noticia/apoio-extraordinario-douro-nao-chegara-anunciados-50-centimos-quilo-uva-2189339",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "d65d8518",
+      "id": "1d6b5ab3",
       "cat": "tecnologia",
-      "title": "Inventar o que não existe. Palavras também",
-      "summary": "“Um texto livre”, diz quem o escreveu. “Um texto muito maluco”, diz quem o ilustrou. Liberdade e loucura num livro original sobre linguagem verbal, que a visual soube acompanhar e ampliar.",
+      "title": "Vai votar nestas eleições? O e-Título poderá ser baixado até no dia da votação",
+      "summary": "Tribunal Superior Eleitoral (TSE) avisa que, ao contrário de eleições anteriores, o aplicativo e-Título poderá ser baixado no telefone celular tanto no primeiro quanto no segundo turno de votação.",
       "source": "Público",
-      "date": "Sat, 26 Sep 2026 12:38:30 GMT",
-      "url": "https://www.publico.pt/2026/09/26/impar/noticia/inventar-nao-existe-palavras-tambem-2189401",
+      "date": "Sat, 26 Sep 2026 18:27:44 GMT",
+      "url": "https://www.publico.pt/2026/09/26/publico-brasil/noticia/vai-votar-eleicoes-etitulo-podera-baixado-ate-dia-votacao-2189423",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "d48d7b98",
+      "id": "0ce286ee",
       "cat": "tecnologia",
-      "title": "Quando o ruído vale mais do que a obra",
-      "summary": "Questionem-se os 175 mil euros, naturalmente. Mas reconheça-se também a dimensão do investimento, a capacidade de concretização e, sobretudo, aquilo que ficou para os alunos de Cascais.",
+      "title": "Em Paris, o Papa pediu esperança em vez de “aridez espiritual” e dignidade para os migrantes",
+      "summary": "O segundo dia da visita do Papa Leão XIV a França contou com uma grande missa ao ar livre e com a visita a um centro de acolhimento de migrantes, onde reforçou o compromisso com a sua defesa.",
+      "source": "Público",
+      "date": "Sat, 26 Sep 2026 18:24:11 GMT",
+      "url": "https://www.publico.pt/2026/09/26/mundo/noticia/paris-papa-pediu-esperanca-aridez-espiritual-dignidade-migrantes-2189428",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "d91f23ef",
+      "cat": "tecnologia",
+      "title": "Goncourt retira candidato a prémio por suspeita de uso de IA",
+      "summary": "\"C’était ça ou mourir\", do escritor haitiano Thélyson Orélien, era candidato ao importante prémio francês. Autor e editora desmentem categoricamente as acusações.",
       "source": "Observador",
-      "date": "Sat, 26 Sep 2026 00:19:15 +0100",
-      "url": "https://observador.pt/opiniao/quando-o-ruido-vale-mais-do-que-a-obra/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A996%3A996%3Anowe%3A120%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F09%2F25231802%2Fsandra-damas.jpg",
+      "date": "Sat, 26 Sep 2026 17:40:38 +0100",
+      "url": "https://observador.pt/2026/09/26/premio-literario-goncourt-retira-romance-candidato-por-suspeita-de-uso-de-inteligencia-artificial/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/26150413/gettyimages-2296272443-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "3d36592d",
+      "cat": "tecnologia",
+      "title": "15h. PSD e CDS retomam alterações à Lei de Bases da Saúde",
+      "summary": "Coligação de centro direita insiste na restrição do SNS a estrangeiros não residentes. E ainda, George Russel venceu o Grande Prémio do Azerbaijão de F1.",
+      "source": "Observador",
+      "date": "Sat, 26 Sep 2026 15:16:52 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2467/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "6b98ab71",
+      "cat": "tecnologia",
+      "title": "Cuba está aberta a relações comerciais e de negócios com empresas dos EUA",
+      "summary": "Governo de Havana diz que continua \"disposto ao diálogo com os Estados Unidos para tentar encontrar uma solução para as divergências bilaterais\".",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 26 Sep 2026 19:03:15 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/cuba-esta-aberta-a-relacoes-comerciais-e-de-negocios-com-empresas-dos-eua",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-26-19-02-16-530162.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "9e070d74",
+      "cat": "tecnologia",
+      "title": "Papa Leão XIV sublinha \"sede de sentido\" perante cerca de 800 mil fiéis em Paris",
+      "summary": "Antes da celebração religiosa, durante a manhã, Leão XIV visitou a Maison Bakhita, uma associação diocesana de apoio aos migrantes.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 26 Sep 2026 17:27:16 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/papa-leao-xiv-sublinha-sede-de-sentido-perante-cerca-de-800-mil-fieis-em-paris",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-26-17-25-11-530157.jpg",
       "score": 0.73
     },
     {
@@ -190,17 +212,6 @@
       "score": 0.73
     },
     {
-      "id": "21f83b73",
-      "cat": "tecnologia",
-      "title": "PSD e CDS-PP voltam a propor restrição do acesso ao SNS por estrangeiros não residentes",
-      "summary": "No texto, PSD e CDS-PP afirmam que esta iniciativa visa retomar o propósito da apresentada na anterior legislatura, interrompida devido à convocação de eleições legislativas antecipadas, e que acabou por fazer 'cair' o projeto aprovado na altura na generalidade com o apoio do Chega.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 26 Sep 2026 12:41:59 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/psd-e-cds-pp-voltam-a-propor-restricao-do-acesso-ao-sns-por-estrangeiros-nao-residentes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-06/img_100x100uu2023-06-20-07-53-28-455215.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -209,6 +220,39 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "eff1848c",
+      "cat": "tecnologia",
+      "title": "Mundiais Ciclismo. Demi Vollering chegou finalmente ao arco-íris",
+      "summary": "A neerlandesa Demi Vollering sagrou-se finalmente campeã mundial de fundo, com o maior nome feminino do ciclismo da atualidade a conquistar hoje em Montreal um dos únicos títulos que lhe faltava.",
+      "source": "RTP",
+      "date": "Sat, 26 Sep 2026 21:31:02 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundiais-ciclismo-demi-vollering-chegou-finalmente-ao-arco-iris_d1767954",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/15/15d76ee17366569e74d9cfd0df542b34?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "c8a1b7bb",
+      "cat": "tecnologia",
+      "title": "Mundiais Triatlo. Maria Tomé 20.ª nas Elites, Cassandre Beaugrand campeã",
+      "summary": "A triatleta portuguesa Maria Tomé terminou hoje em 20.º lugar a superfinal de Pontevedra, que coroou a francesa campeã olímpica Cassandre Beaugrand com o ouro Mundial, com a pontuação perfeita.",
+      "source": "RTP",
+      "date": "Sat, 26 Sep 2026 21:06:54 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundiais-triatlo-maria-tome-20a-nas-elites-cassandre-beaugrand-campea_d1767951",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/23/23fdf46f2198c82c91308068d6966fac?w=350&amp;q=50&amp;rect=0,24,1234,677&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "250958fe",
+      "cat": "tecnologia",
+      "title": "Teens Set World Record for Most Sports Balls Recycled in One Day, Diverting 2,675 Pounds from Landfills",
+      "summary": "In March, GNN reported on the attempt by teens to set a Guinness World Record for the most racquet sport balls recycled in a single day, and we&#8217;re happy to tell you: they pulled it off. It took awhile, but last weekend a group of teen environmentalists from California collected about 22,000 mo",
+      "source": "Good News Network",
+      "date": "Thu, 24 Sep 2026 15:30:31 +0000",
+      "url": "https://www.goodnewsnetwork.org/teens-set-world-record-for-most-sports-balls-recycled-in-one-day-diverting-2675-pounds-from-landfills/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/credit-Another-Bounce-Habits-of-Waste-released.jpg",
       "score": 0.73
     },
     {
@@ -234,25 +278,14 @@
       "score": 0.73
     },
     {
-      "id": "34cb60ee",
-      "cat": "tecnologia",
-      "title": "As notícias das 2h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "id": "8f849c47",
+      "cat": "cultura",
+      "title": "Passe Ferroviário Verde alargado aos comboios suburbanos",
+      "summary": "O Passe Ferroviário Verde pode começar a ser utilizado nos comboios suburbanos da CP em Lisboa e no Porto a partir deste domingo.",
       "source": "Observador",
-      "date": "Sat, 26 Sep 2026 02:16:08 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2422/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "5704f1e7",
-      "cat": "tecnologia",
-      "title": "Passe Ferroviário Verde alargado aos comboios suburbanos de Lisboa e Porto a partir de domingo",
-      "summary": "Ministério diz que a medida \"permite poupanças aos passageiros e uma simplificação dos títulos monomodais de transporte em particular para quem se desloca de territórios exteriores às Áreas Metropolitanas do Porto e de Lisboa\",",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 26 Sep 2026 16:31:45 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/passe-ferroviario-verde-alargado-aos-comboios-suburbanos-de-lisboa-e-porto-a-partir-de-domingo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-05-13-29-37-491430.jpg",
+      "date": "Sat, 26 Sep 2026 17:14:38 +0100",
+      "url": "https://observador.pt/2026/09/26/passe-ferroviario-verde-alargado-aos-comboios-suburbanos-de-lisboa-e-porto-a-partir-de-domingo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/12151643/44908735.jpg",
       "score": 0.7
     },
     {
@@ -278,58 +311,25 @@
       "score": 0.7
     },
     {
-      "id": "cf4232e3",
+      "id": "385dd98e",
       "cat": "tecnologia",
-      "title": "Oura vai entrar na bolsa. Empresa dos anéis inteligentes nas mãos de CEO e príncipes pode valer 15,6 mil milhões",
-      "summary": "Nasceu na cidade finlandesa de Oulu, a duas horas de comboio da Lapónia, a próxima tecnológica badalada a entrar em Wall Street. A Oura Health, conhecida pelos anéis inteligentes Oura Ring, lançou esta segunda-feira uma oferta pública inicial (IPO &#8211; Initial Public Offering) para captar até 2,2",
+      "title": "Em Santa Maria, ‘voa-se em gravidade zero’ para a próxima corrida espacial",
+      "summary": "Saltos, gritos, palmas. É tudo o que se ouve por baixo do barulho ensurdecedor vindo do avião Airbus A310 que aterrou pelas 12h no aeroporto de Santa Maria, nos Açores. Trinta e cinco jovens dos 14 aos 17 anos, dos quais 25 portugueses e os restantes estónios, saem pela porta traseira da aeronave e ",
       "source": "ECO",
-      "date": "Sat, 26 Sep 2026 16:10:04 +0000",
-      "url": "https://eco.sapo.pt/2026/09/26/oura-ring-vai-entrar-na-bolsa-empresa-dos-aneis-inteligentes-nas-maos-de-ceo-e-principes-pode-valer-156-mil-milhoes/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-oura-ring.jpg",
+      "date": "Sat, 26 Sep 2026 17:11:10 +0000",
+      "url": "https://eco.sapo.pt/reportagem/em-santa-maria-voa-se-em-gravidade-zero-para-a-proxima-corrida-espacial/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-lt-7033.jpg",
       "score": 0.7
     },
     {
-      "id": "c1e8b1e7",
+      "id": "0dc283d0",
       "cat": "tecnologia",
-      "title": "📹 Dica ECO dos Fundos: O que é o DUC?",
-      "summary": "Sabia que desde o final do ano passado existe o Documento Único de Cobrança (DUC), o meio preferencial para regularizar dívidas dos beneficiários de fundos europeus? O objetivo foi criar uma forma de pagamento segura e simples, evitando pagamentos de montantes errados ou fora de prazo. &#8220;Anteri",
+      "title": "Consórcio da Mota-Engil vai construir primeira fase do metro de Luanda",
+      "summary": "A Mota-Engil integra o consórcio escolhido para executar a primeira fase das obras do metro de superfície de Luanda, um dos maiores projetos de transportes em preparação na capital angolana. A construtora portuguesa participa na empreitada de 2,25 mil milhões de dólares &#8212; o equivalente a 1,98 ",
       "source": "ECO",
-      "date": "Sat, 26 Sep 2026 14:41:38 +0000",
-      "url": "https://eco.sapo.pt/2026/09/26/%f0%9f%93%b9-dica-eco-dos-fundos-o-que-e-o-duc/",
-      "img": "https://eco.imgix.net/uploads/2026/09/eco-dos-fundos-ep-4500-37-25-18still006.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "055c2b74",
-      "cat": "desporto",
-      "title": "Passe Ferroviário Verde chega aos suburbanos da CP de Lisboa e Porto a partir de amanhã",
-      "summary": "Os detentores do Passe Ferroviário Verde (PFV) poderão começar a usar o título de transporte nos comboios suburbanos da CP em Lisboa e no Porto a partir de amanhã, domingo, informa o Ministério das Infraestruturas e Habitação em comunicado. Desde o arranque em outubro de 2024, já foram vendidos 1,4 ",
-      "source": "ECO",
-      "date": "Sat, 26 Sep 2026 13:56:05 +0000",
-      "url": "https://eco.sapo.pt/2026/09/26/passe-ferroviario-verde-chega-aos-suburbanos-da-cp-de-lisboa-e-porto-a-partir-de-amanha/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc2026042046962118-aps6271.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "050859da",
-      "cat": "sociedade",
-      "title": "What We’re Reading: Singapore Is Paying People to Read",
-      "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you&#8217;ve been reading at info@reasonstobecheerful.world and we just might feature it here. Read receipts We hear it over and over: People aren’t reading anymore. Would more people be motivated t",
-      "source": "Reasons to be Cheerful",
-      "date": "Wed, 23 Sep 2026 08:00:22 +0000",
-      "url": "https://reasonstobecheerful.world/what-were-reading-singapore-paying-people-to-read/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_2526789219-scaled.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "cf815248",
-      "cat": "tecnologia",
-      "title": "In Remote Alaska, the Promise and Limits of Vertical Farming",
-      "summary": "This story was originally published by Civil Eats. The town of Skagway, in southeast Alaska, is home to approximately 1,000 year-round residents and hosts more than 1.3 million summer cruise ship passengers. Isolated in the winter, and reliant on a barge system to bring food up from the Lower 48... ",
-      "source": "Reasons to be Cheerful",
-      "date": "Fri, 18 Sep 2026 08:00:09 +0000",
-      "url": "https://reasonstobecheerful.world/in-remote-alaska-the-promise-and-limits-of-vertical-farming/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/260817-3-in-remote-alaska-promise-limits-vertical-farming-skagway-brewing-co-molly-mccluskey.jpg",
+      "date": "Sat, 26 Sep 2026 16:53:53 +0000",
+      "url": "https://eco.sapo.pt/2026/09/26/consorcio-da-mota-engil-vai-construir-primeira-fase-do-metro-de-luanda/",
+      "img": "https://eco.imgix.net/uploads/2023/09/cropped-cropped-mota-engil-sede-porto-scaled-2.jpg",
       "score": 0.7
     }
   ]
