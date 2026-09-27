@@ -1,5 +1,5 @@
 {
-  "last_update": "26/09/2026 20:58 UTC",
+  "last_update": "27/09/2026 04:59 UTC",
   "total": 30,
   "news": [
     {
@@ -47,17 +47,6 @@
       "score": 0.82
     },
     {
-      "id": "ed9ef4e8",
-      "cat": "sociedade",
-      "title": "Scientists Pioneer Chemical Bath Method to Restore Aging EV Batteries Without Breaking Them Down",
-      "summary": "What if instead of investing billions into battery recycling plants, you could simply take your aging electric vehicle battery back, give it a good scrub, and get all that lost range back? That&#8217;s near the mark of what Cornell University scientists have recently demonstrated, if a little editor",
-      "source": "Good News Network",
-      "date": "Wed, 23 Sep 2026 13:00:49 +0000",
-      "url": "https://www.goodnewsnetwork.org/scientists-pioneer-chemical-bath-method-to-restore-aging-ev-batteries-without-breaking-them-down/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/A-conventional-battery-pack-credit-Getty-Images-via-Unsplash-.jpg",
-      "score": 0.79
-    },
-    {
       "id": "e1224f2a",
       "cat": "ciencia",
       "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
@@ -91,13 +80,24 @@
       "score": 0.79
     },
     {
-      "id": "2f63b35a",
+      "id": "869f0fcc",
+      "cat": "tecnologia",
+      "title": "Um mundo que desaba sem que outro surja",
+      "summary": "Sobre Guterres que nos embaraça, a relevância de Portugal que pode ser procurada em organizações regionais longe da Europa ao invés de no Conselho de Segurança, mais o acordo EUA/Dinamarca de 1941.",
+      "source": "Observador",
+      "date": "Sun, 27 Sep 2026 00:22:17 +0100",
+      "url": "https://observador.pt/opiniao/um-mundo-que-desaba-sem-que-outro-surja/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2224%3A2224%3Anowe%3A226%3A374%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170541%2Fandre-amaral.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "eaba4552",
       "cat": "desporto",
       "title": "Campeão FC Porto vence Sporting por 80-76 e conquista Supertaça de basquetebol",
       "summary": "O FC Porto, campeão nacional, conquistou sábado a Supertaça Mário Saldanha em basquetebol, ao vencer o Sporting por 80-76 na 41.ª edição da prova, disputada no Pavilhão Desportivo de Albufeira.",
       "source": "RTP",
       "date": "Sat, 26 Sep 2026 19:52:34 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/campeao-fc-porto-vence-sporting-por-80-76-e-conquista-supertaca-de-basquetebol_d1767944",
+      "url": "https://www.rtp.pt/noticias/basquetebol/campeao-fc-porto-vence-sporting-por-80-76-e-conquista-supertaca-de-basquetebol_d1767944",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/a7/a7850fa1251fd3129416f589b80e6872?w=350&amp;q=50&amp;rect=0,120,1233,676&amp;auto=format",
       "score": 0.76
     },
@@ -122,61 +122,6 @@
       "url": "https://reasonstobecheerful.world/how-the-architecture-of-sound-is-transforming-cities/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_2579816857-scaled.jpg",
       "score": 0.76
-    },
-    {
-      "id": "ad00bec8",
-      "cat": "tecnologia",
-      "title": "Apoio extraordinário para o Douro não chegará aos anunciados 50 cêntimos por quilo de uva",
-      "summary": "Os viticultores já perceberam que a maioria receberá, no melhor dos casos, 27 cêntimos por quilo de uvas não vindimadas. O Governo diz que o apoio é ao hectare. Candidaturas arrancam segunda-feira.",
-      "source": "Público",
-      "date": "Sat, 26 Sep 2026 18:30:00 GMT",
-      "url": "https://www.publico.pt/2026/09/26/terroir/noticia/apoio-extraordinario-douro-nao-chegara-anunciados-50-centimos-quilo-uva-2189339",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "1d6b5ab3",
-      "cat": "tecnologia",
-      "title": "Vai votar nestas eleições? O e-Título poderá ser baixado até no dia da votação",
-      "summary": "Tribunal Superior Eleitoral (TSE) avisa que, ao contrário de eleições anteriores, o aplicativo e-Título poderá ser baixado no telefone celular tanto no primeiro quanto no segundo turno de votação.",
-      "source": "Público",
-      "date": "Sat, 26 Sep 2026 18:27:44 GMT",
-      "url": "https://www.publico.pt/2026/09/26/publico-brasil/noticia/vai-votar-eleicoes-etitulo-podera-baixado-ate-dia-votacao-2189423",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "0ce286ee",
-      "cat": "tecnologia",
-      "title": "Em Paris, o Papa pediu esperança em vez de “aridez espiritual” e dignidade para os migrantes",
-      "summary": "O segundo dia da visita do Papa Leão XIV a França contou com uma grande missa ao ar livre e com a visita a um centro de acolhimento de migrantes, onde reforçou o compromisso com a sua defesa.",
-      "source": "Público",
-      "date": "Sat, 26 Sep 2026 18:24:11 GMT",
-      "url": "https://www.publico.pt/2026/09/26/mundo/noticia/paris-papa-pediu-esperanca-aridez-espiritual-dignidade-migrantes-2189428",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "d91f23ef",
-      "cat": "tecnologia",
-      "title": "Goncourt retira candidato a prémio por suspeita de uso de IA",
-      "summary": "\"C’était ça ou mourir\", do escritor haitiano Thélyson Orélien, era candidato ao importante prémio francês. Autor e editora desmentem categoricamente as acusações.",
-      "source": "Observador",
-      "date": "Sat, 26 Sep 2026 17:40:38 +0100",
-      "url": "https://observador.pt/2026/09/26/premio-literario-goncourt-retira-romance-candidato-por-suspeita-de-uso-de-inteligencia-artificial/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/26150413/gettyimages-2296272443-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "3d36592d",
-      "cat": "tecnologia",
-      "title": "15h. PSD e CDS retomam alterações à Lei de Bases da Saúde",
-      "summary": "Coligação de centro direita insiste na restrição do SNS a estrangeiros não residentes. E ainda, George Russel venceu o Grande Prémio do Azerbaijão de F1.",
-      "source": "Observador",
-      "date": "Sat, 26 Sep 2026 15:16:52 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2467/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.73
     },
     {
       "id": "6b98ab71",
@@ -256,6 +201,17 @@
       "score": 0.73
     },
     {
+      "id": "59b86a96",
+      "cat": "tecnologia",
+      "title": "Portuguese Company Turns Cork Wood into Limitless Material, Even to Insulate Spacecraft",
+      "summary": "In Portugal, a 150-year-old business making corks is showing that it&#8217;s absolutely possible to teach an old dog new tricks. Having cultivated cork oak trees since the time of the monarchy, Corticeira Amorim have popped open the potential of this humble material, transforming it into a sustainab",
+      "source": "Good News Network",
+      "date": "Thu, 24 Sep 2026 11:00:21 +0000",
+      "url": "https://www.goodnewsnetwork.org/portuguese-company-turns-cork-wood-into-limitless-material-even-to-insulate-spacecraft/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Stacks-of-harvested-cork-oak-bark-credit-Carsten-Niehaus-CC-3.0.-via-Wikimedia.jpg",
+      "score": 0.73
+    },
+    {
       "id": "99a9cef2",
       "cat": "ambiente",
       "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
@@ -278,14 +234,58 @@
       "score": 0.73
     },
     {
-      "id": "8f849c47",
-      "cat": "cultura",
-      "title": "Passe Ferroviário Verde alargado aos comboios suburbanos",
-      "summary": "O Passe Ferroviário Verde pode começar a ser utilizado nos comboios suburbanos da CP em Lisboa e no Porto a partir deste domingo.",
+      "id": "5d0da4d1",
+      "cat": "tecnologia",
+      "title": "Uma cimeira entre iguais?",
+      "summary": "Mas o líder chinês tem uma ideia sobre o futuro, que explica, aliás, a sua “amizade sem limites” com Vladimir Putin: pôr fim à hegemonia ocidental sobre o mundo. Análise de Teresa de Sousa",
+      "source": "Público",
+      "date": "Sat, 26 Sep 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/09/27/mundo/analise/cimeira-iguais-2189409",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "48d23b26",
+      "cat": "tecnologia",
+      "title": "Quem decide o que é anti-semitismo?",
+      "summary": "Uma perspectiva judaica sobre a crítica a Israel e os limites do anti-sionismo. Opinião de Alfredo Marvão Pereira",
+      "source": "Público",
+      "date": "Sat, 26 Sep 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/09/27/opiniao/opiniao/decide-antisemitismo-2189162",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "afa40c0e",
+      "cat": "tecnologia",
+      "title": "PISA 2025: o que podem fazer as escolas?",
+      "summary": "Os responsáveis escolares dirão, com razão, que estas práticas já existem. Não o nego. O desafio é analisar a sua eficácia, continuidade e a abrangência da implementação. Opinião de Jorge Sarmento Morais",
+      "source": "Público",
+      "date": "Sat, 26 Sep 2026 23:20:00 GMT",
+      "url": "https://www.publico.pt/2026/09/27/opiniao/opiniao/pisa-2025-podem-escolas-2189197",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "916fd5c2",
+      "cat": "desporto",
+      "title": "2h.Incêndio na Chamusca combatido por mais de 250 bombeiros",
+      "summary": "O fogo deflagrou por volta das oito da noite numa zona de mato e eucaliptal na Carregueira, distrito de Santarém. No desporto, Jorge Jesus diz que não tem medo da seleção norueguesa.",
       "source": "Observador",
-      "date": "Sat, 26 Sep 2026 17:14:38 +0100",
-      "url": "https://observador.pt/2026/09/26/passe-ferroviario-verde-alargado-aos-comboios-suburbanos-de-lisboa-e-porto-a-partir-de-domingo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/07/12151643/44908735.jpg",
+      "date": "Sun, 27 Sep 2026 02:13:33 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2423/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "a2f7731d",
+      "cat": "cultura",
+      "title": "Os falsos pretextos de Francisco Assis",
+      "summary": "A triste exibição de Costa acabou por confirmar linha a linha a crítica que fiz, e faço, a Francisco Assis, ao sentido do seu voto e ao partido a que ambos pertencem",
+      "source": "Observador",
+      "date": "Sun, 27 Sep 2026 00:25:07 +0100",
+      "url": "https://observador.pt/opiniao/os-falsos-pretextos-de-francisco-assis/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1843%3A1838%3Anowe%3A1084%3A166%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F06%2F23181612%2Fdventura-miguel-morgado-4-scaled.jpg",
       "score": 0.7
     },
     {
