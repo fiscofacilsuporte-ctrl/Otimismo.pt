@@ -1,5 +1,5 @@
 {
-  "last_update": "27/09/2026 11:51 UTC",
+  "last_update": "27/09/2026 16:49 UTC",
   "total": 30,
   "news": [
     {
@@ -47,6 +47,17 @@
       "score": 0.82
     },
     {
+      "id": "0f4cae59",
+      "cat": "tecnologia",
+      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+      "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer’s brain, although research",
+      "source": "ScienceDaily",
+      "date": "Sun, 27 Sep 2026 09:53:39 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+      "img": "https://www.sciencedaily.com/images/1920/senior-woman-taking-vitamin-supplement-medication-pill.webp",
+      "score": 0.79
+    },
+    {
       "id": "e1224f2a",
       "cat": "ciencia",
       "title": "Scientists may have misread a 2-billion-year-old clue about Earth",
@@ -58,36 +69,36 @@
       "score": 0.79
     },
     {
-      "id": "3435a71b",
-      "cat": "ciencia",
-      "title": "Quantum computer simulates matter “popping into existence”",
-      "summary": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator. The breakthrough suggests quantum computers could eventually help researchers investigate how matter formed and evolved after the Big Bang.",
-      "source": "ScienceDaily",
-      "date": "Sat, 26 Sep 2026 09:47:38 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
-      "img": "https://www.sciencedaily.com/images/1920/string-breaking-dynamics-quantum-simulator.webp",
-      "score": 0.79
+      "id": "4a1f2c19",
+      "cat": "tecnologia",
+      "title": "O que vai ditar o rumo das bolsas mundiais no último trimestre",
+      "summary": "Quando analisamos fatores de impulso e riscos nos mercados acionistas, há especificidades próprias de cada geografia, mas há temas que se alinham em todas as regiões, como a melhoria das contas das empresas, pelo lado positivo, ou as tensões geopolíticas e a escalada dos juros da dívida pelo negativ",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 27 Sep 2026 16:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/o-que-vai-ditar-as-bolsas-mundiais-no-ultimo-trimestre",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-21-14-47-00-526959.jpg",
+      "score": 0.76
     },
     {
-      "id": "04a37f14",
-      "cat": "ciencia",
-      "title": "Scientists discovered two bizarre new sea spiders that are “nightmare fuel”",
-      "summary": "Scientists discovered two strange new sea spider species in the Salish Sea, including a hairy-legged, red-eyed species that can groom itself with comb-like appendages. Another is frequently covered in tiny parasites, and researchers say many more undiscovered sea spiders may still be hiding in the r",
-      "source": "ScienceDaily",
-      "date": "Fri, 25 Sep 2026 09:56:06 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260925005412.htm",
-      "img": "https://www.sciencedaily.com/images/1920/sea-spider-tanystylum-kiixin.webp",
-      "score": 0.79
-    },
-    {
-      "id": "eaba4552",
-      "cat": "desporto",
-      "title": "Campeão FC Porto vence Sporting por 80-76 e conquista Supertaça de basquetebol",
-      "summary": "O FC Porto, campeão nacional, conquistou sábado a Supertaça Mário Saldanha em basquetebol, ao vencer o Sporting por 80-76 na 41.ª edição da prova, disputada no Pavilhão Desportivo de Albufeira.",
+      "id": "00a8e5ec",
+      "cat": "tecnologia",
+      "title": "Lara Fernandes e André Fiúza vice-campeões mundiais de acrobática em exercício combinado",
+      "summary": "Os portugueses Lara Fernandes e André Fiúza sagraram-se domingo vice-campeões do mundo de ginástica acrobática, na final de combinado de pares mistos, em Pesaro, Itália, onde conquistaram ainda o bronze no exercício dinâmico.",
       "source": "RTP",
-      "date": "Sat, 26 Sep 2026 19:52:34 +0100",
-      "url": "https://www.rtp.pt/noticias/basquetebol/campeao-fc-porto-vence-sporting-por-80-76-e-conquista-supertaca-de-basquetebol_d1767944",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a7/a7850fa1251fd3129416f589b80e6872?w=350&amp;q=50&amp;rect=0,120,1233,676&amp;auto=format",
+      "date": "Sun, 27 Sep 2026 18:03:33 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/lara-fernandes-e-andre-fiuza-vice-campeoes-mundiais-de-acrobatica-em-exercicio-combinado_d1768055",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f48b4bb8caeb08074405bc62e32b7f01?w=350&amp;q=50&amp;rect=0,195,1920,1053&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "7da99fad",
+      "cat": "tecnologia",
+      "title": "Piloto italiano Nicolò Bulega conquista título mundial de Superbikes",
+      "summary": "O italiano Nicolò Bulega (Ducati) conquistou domingo o título de campeão mundial de Superbikes, ao terminar em segundo lugar a segunda corrida principal da ronda italiana, em Cremona, na qual Miguel Oliveira abandonou por queda.",
+      "source": "RTP",
+      "date": "Sun, 27 Sep 2026 17:07:24 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/piloto-italiano-nicolo-bulega-conquista-titulo-mundial-de-superbikes_d1768051",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c6b6ab5be79df8b2823ed2bb09ac51b1?w=350&amp;q=50&amp;rect=0,128,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
@@ -99,17 +110,6 @@
       "date": "Sun, 27 Sep 2026 11:38:11 +0000",
       "url": "https://eco.sapo.pt/2026/09/27/prevoir-portugal-quer-atingir-os-60-milhoes-de-euros-em-cinco-anos/",
       "img": "https://eco.imgix.net/uploads/2026/09/luiz-ferraz-2.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "33868c16",
-      "cat": "tecnologia",
-      "title": "Restaurante N.º 6: português de 4 costados",
-      "summary": "Caro P. Todos os restaurantes têm um passado, mesmo que surjam aos nossos olhos em modo de estreia absoluta. O Nº 6 (Rua da Esperança, 6, em Lisboa), traz na bagagem a experiência em restauração dos quatro mentores do projecto e não renega a passagem de dois deles (Pedro e Natacha) por uma das melho",
-      "source": "ECO",
-      "date": "Sun, 27 Sep 2026 09:00:28 +0000",
-      "url": "https://eco.sapo.pt/2026/09/27/restaurante-n-o-6-portugues-de-4-costados/",
-      "img": "https://eco.imgix.net/uploads/2026/09/2amesa-restaurante-no6-2000x1125-1.jpg",
       "score": 0.76
     },
     {
@@ -135,6 +135,50 @@
       "score": 0.76
     },
     {
+      "id": "8366aba3",
+      "cat": "tecnologia",
+      "title": "O ébola continua a espalhar-se: “Não está a encolher; está a deslocar-se”",
+      "summary": "Quivu do Norte é a nova província debaixo de olho, com uma explosão de casos que encheu os já escassos centros de tratamento. Surto na República Democrática do Congo já matou 3779 pessoas.",
+      "source": "Público",
+      "date": "Sun, 27 Sep 2026 14:36:00 GMT",
+      "url": "https://www.publico.pt/2026/09/27/ciencia/noticia/ebola-continua-espalharse-nao-encolher-deslocarse-2189359",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "1edde79c",
+      "cat": "tecnologia",
+      "title": "Consumos problemáticos afectam mais rapazes, com baixo rendimento escolar e que saem à noite",
+      "summary": "Uma maior supervisão parental contribui para uma melhoria dos resultados nos consumos de droga ou de álcool mais do que no jogo online ou na dependência das redes sociais, sugere relatório do ICAD.",
+      "source": "Público",
+      "date": "Sun, 27 Sep 2026 14:27:28 GMT",
+      "url": "https://www.publico.pt/2026/09/27/sociedade/noticia/consumos-problematicos-afectam-rapazes-baixo-rendimento-escolar-saem-noite-2189302",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "d1b9e458",
+      "cat": "tecnologia",
+      "title": "No dia da ascensão de Bulega, o falcão voltou a ir ao chão",
+      "summary": "Depois de ter caído na curva 2 na corrida 1, Miguel Oliveira voltou a ir ao chão este domingo, agora na curva 10, não conseguindo dar seguimento a um grande arranque. Bulega é o novo campeão do mundo.",
+      "source": "Observador",
+      "date": "Sun, 27 Sep 2026 15:05:05 +0100",
+      "url": "https://observador.pt/2026/09/27/no-dia-da-ascensao-de-bulega-o-falcao-voltou-a-ir-ao-chao-miguel-oliveira-soma-nova-queda-em-cremona-na-corrida-de-consagracao-do-italiano/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:341/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/26155139/gettyimages-2296457257-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "21ca5217",
+      "cat": "tecnologia",
+      "title": "Sanchez anuncia reforma da habitação na terça-feira",
+      "summary": "Primeiro-ministro espanhol assegurou que o Executivo \"está a trabalhar\" para levar a Conselho de Ministros, na terça-feira, um decreto sobre \"emergência habitacional\".",
+      "source": "Observador",
+      "date": "Sun, 27 Sep 2026 13:28:41 +0100",
+      "url": "https://observador.pt/2026/09/27/caso-maricarmen-sanchez-anuncia-reforma-da-habitacao-na-terca-feira-governo-esta-a-trabalhar-em-contrarrelogio/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/27132109/47843927.jpg",
+      "score": 0.73
+    },
+    {
       "id": "bb445c7d",
       "cat": "tecnologia",
       "title": "Centeno: “Qualquer semelhança entre mim e Passos Coelho é mera coincidência”",
@@ -146,25 +190,14 @@
       "score": 0.73
     },
     {
-      "id": "c37044e0",
+      "id": "03971696",
       "cat": "tecnologia",
       "title": "Marcas portuguesas juntam forças para conquistar mercado chinês de gama alta",
       "summary": "Doze marcas nacionais participam na exposição \"Not a Love Story - A Journey Through Portuguese Contemporary Design\", patente no Cimen Hall, em Xangai.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 27 Sep 2026 09:42:26 +0100",
-      "url": "https://www.jornaldenegocios.pt/lusa/detalhe/marcas-portuguesas-juntam-forcas-para-conquistar-mercado-chines-de-gama-alta",
+      "date": "Sun, 27 Sep 2026 09:42:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/marcas-portuguesas-juntam-forcas-para-conquistar-mercado-chines-de-gama-alta",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-27-17-27-53-519320.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6b98ab71",
-      "cat": "tecnologia",
-      "title": "Cuba está aberta a relações comerciais e de negócios com empresas dos EUA",
-      "summary": "Governo de Havana diz que continua \"disposto ao diálogo com os Estados Unidos para tentar encontrar uma solução para as divergências bilaterais\".",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 26 Sep 2026 19:03:15 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/cuba-esta-aberta-a-relacoes-comerciais-e-de-negocios-com-empresas-dos-eua",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-26-19-02-16-530162.jpg",
       "score": 0.73
     },
     {
@@ -179,25 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "eff1848c",
-      "cat": "tecnologia",
-      "title": "Mundiais Ciclismo. Demi Vollering chegou finalmente ao arco-íris",
-      "summary": "A neerlandesa Demi Vollering sagrou-se finalmente campeã mundial de fundo, com o maior nome feminino do ciclismo da atualidade a conquistar hoje em Montreal um dos únicos títulos que lhe faltava.",
+      "id": "f59c6ae8",
+      "cat": "saude",
+      "title": "Liga das Nações. Noruega - Portugal (19h45)",
+      "summary": "Portugal procura fugir na liderança do Grupo A4 da Liga das Nações de futebol, mas para isso tem de bater em Oslo a Noruega, seleção nórdica que está imbatível em casa desde 2023.",
       "source": "RTP",
-      "date": "Sat, 26 Sep 2026 21:31:02 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundiais-ciclismo-demi-vollering-chegou-finalmente-ao-arco-iris_d1767954",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/15/15d76ee17366569e74d9cfd0df542b34?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "c8a1b7bb",
-      "cat": "tecnologia",
-      "title": "Mundiais Triatlo. Maria Tomé 20.ª nas Elites, Cassandre Beaugrand campeã",
-      "summary": "A triatleta portuguesa Maria Tomé terminou hoje em 20.º lugar a superfinal de Pontevedra, que coroou a francesa campeã olímpica Cassandre Beaugrand com o ouro Mundial, com a pontuação perfeita.",
-      "source": "RTP",
-      "date": "Sat, 26 Sep 2026 21:06:54 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundiais-triatlo-maria-tome-20a-nas-elites-cassandre-beaugrand-campea_d1767951",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/23/23fdf46f2198c82c91308068d6966fac?w=350&amp;q=50&amp;rect=0,24,1234,677&amp;auto=format",
+      "date": "Sun, 27 Sep 2026 18:35:37 +0100",
+      "url": "https://www.rtp.pt/noticias/ligadasnacoes/liga-das-nacoes-noruega-portugal-19h45_d1768057",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b1/b1a6706f832ee800e84e2212879614ff?w=350&amp;q=50&amp;rect=0,36,984,539&amp;auto=format",
       "score": 0.73
     },
     {
@@ -234,6 +256,17 @@
       "score": 0.73
     },
     {
+      "id": "d960c551",
+      "cat": "tecnologia",
+      "title": "Father and son crowned Sheep Dog World Trial champions",
+      "summary": "David and Jack Howells say they \"never in million years\" thought they would win the double.",
+      "source": "BBC News",
+      "date": "Sun, 27 Sep 2026 16:08:29 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyq0l4qjklo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a77/live/5ab904c0-b597-11f1-8ac1-4d5f189a56fb.jpg",
+      "score": 0.73
+    },
+    {
       "id": "99a9cef2",
       "cat": "ambiente",
       "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
@@ -245,80 +278,36 @@
       "score": 0.73
     },
     {
-      "id": "fb631160",
-      "cat": "ciencia",
-      "title": "Elephants use medicinal plants to treat themselves, researchers find",
-      "summary": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
-      "source": "BBC News",
-      "date": "Thu, 24 Sep 2026 11:42:42 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a1a/live/57752de0-b667-11f1-b785-7d19738c6de2.jpg",
+      "id": "cf2a42bc",
+      "cat": "tecnologia",
+      "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+      "summary": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obesity",
+      "source": "ScienceDaily",
+      "date": "Sat, 26 Sep 2026 08:31:07 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+      "img": "https://www.sciencedaily.com/images/1920/zepbound-tirzepatide-injection-pen.webp",
       "score": 0.73
     },
     {
-      "id": "814a76fe",
+      "id": "c44868f4",
       "cat": "tecnologia",
-      "title": "O caso Elvira Vigna",
-      "summary": "Treze anos depois de Nada a Dizer , o único livro de Elvira Vigna até agora publicado em Portugal, chega às livrarias Por Escrito . A escritora brasileira morreu em 2017, aos 69 anos.",
+      "title": "No Dia do Turismo, o Alentejo revela as estratégias para o mercado brasileiro",
+      "summary": "Com perdas acumuladas no segmento médio desde a pandemia, entidade turística redesenha a sua presença no Brasil com aposta no luxo, nas raízes partilhadas e na alta gastronomia.",
       "source": "Público",
-      "date": "Sun, 27 Sep 2026 10:09:00 GMT",
-      "url": "https://www.publico.pt/2026/09/27/culturaipsilon/noticia/caso-elvira-vigna-2188418",
+      "date": "Sun, 27 Sep 2026 14:15:18 GMT",
+      "url": "https://www.publico.pt/2026/09/27/publico-brasil/noticia/dia-turismo-alentejo-revela-estrategias-mercado-brasileiro-2189452",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "21ffc97b",
-      "cat": "cultura",
-      "title": "Filme francês La Gradiva vence a 30.ª edição do Festival Queer Lisboa",
-      "summary": "Foi simultaneamente a escolha do júri e dos espectadores. É “um fresco sobre as intermitências da juventude” a “toca a fragilidade da natureza humana”, segundo os jurados.",
-      "source": "Público",
-      "date": "Sun, 27 Sep 2026 09:53:23 GMT",
-      "url": "https://www.publico.pt/2026/09/27/culturaipsilon/noticia/filme-frances-gradiva-vence-30-edicao-festival-queer-lisboa-2189442",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "c17eb2d9",
+      "id": "6ff703c5",
       "cat": "tecnologia",
-      "title": "China envia dois pandas-gigantes para os Estados Unidos",
-      "summary": "Presidente chinês apresentou os animais como “embaixadores da amizade” entre os dois países. Animais usados pela China como trunfo diplomático para cultivar relações com outros países.",
-      "source": "Público",
-      "date": "Sun, 27 Sep 2026 08:28:33 GMT",
-      "url": "https://www.publico.pt/2026/09/27/mundo/noticia/china-envia-dois-pandasgigantes-estados-unidos-2189440",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "4e12867a",
-      "cat": "tecnologia",
-      "title": "Fogo na Chamusca \"prestes a entrar na fase de vigilância\"",
-      "summary": "O incêndio que despoletou numa zona de mato e eucaliptal na Carregueira, concelho da Chamusca, no sábado à noite, \"já está em conclusão, disse à Lusa a Proteção Civil.",
+      "title": "15h. Cinco homens detidos perto de base militar britânica",
+      "summary": "Autoridades confirmam detenções por suspeita de tentativa de atentado terrorista. E ainda, Gonçalo Matias acredita que AD vencerá próximas eleições com maioria absoluta.",
       "source": "Observador",
-      "date": "Sun, 27 Sep 2026 10:31:30 +0100",
-      "url": "https://observador.pt/2026/09/27/incendio-na-chamusca-prestes-a-entrar-na-fase-de-vigilancia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/19091552/47627423.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "5d716d6a",
-      "cat": "tecnologia",
-      "title": "China envia dois pandas-gigantes para os EUA",
-      "summary": "A China enviou neste domingo dois pandas-gigantes para os Estados Unidos (EUA), segundo a imprensa oficial chinesa, em mais uma demonstração da chamada \"diplomacia do panda\".",
-      "source": "Observador",
-      "date": "Sun, 27 Sep 2026 10:28:25 +0100",
-      "url": "https://observador.pt/2026/09/27/china-envia-dois-pandas-gigantes-para-os-estados-unidos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1125:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/27042536/47541980.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "719f6e54",
-      "cat": "tecnologia",
-      "title": "Irlanda do Norte. Grupo unionista autorizado a desfilar",
-      "summary": "Um grupo unionista obteve autorização para desfilar numa localidade de maioria católica e nacionalista na Irlanda do Norte, após o Supremo Tribunal ter anulado uma decisão que proibia a marcha.",
-      "source": "Observador",
-      "date": "Sun, 27 Sep 2026 10:25:00 +0100",
-      "url": "https://observador.pt/2026/09/27/justica-da-irlanda-do-norte-anula-proibicao-de-desfile-unionista/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:122/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/27052517/47453948.jpg",
+      "date": "Sun, 27 Sep 2026 15:14:55 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-15h-2468/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
