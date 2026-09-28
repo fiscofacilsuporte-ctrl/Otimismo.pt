@@ -1,5 +1,5 @@
 {
-  "last_update": "27/09/2026 21:14 UTC",
+  "last_update": "28/09/2026 05:01 UTC",
   "total": 30,
   "news": [
     {
@@ -12,28 +12,6 @@
       "url": "https://www.positive.news/society/51-ways-to-get-the-planet-tipping-the-right-way/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-178586669.jpeg",
       "score": 0.85
-    },
-    {
-      "id": "df1af2ad",
-      "cat": "tecnologia",
-      "title": "Triatlo. Vasco Vilaça sagra-se Campeão do Mundo, Ricardo Batista conquista o bronze",
-      "summary": "Vasco Vilaça sagrou-se domingo Campeão do Mundo de triatlo de Elites, tornando-se o primeiro português a consegui-lo no setor masculino, ao terminar na segunda posição, a superfinal disputada em Pontevedra, Espanha.",
-      "source": "RTP",
-      "date": "Sun, 27 Sep 2026 19:40:38 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/triatlo-vasco-vilaca-sagra-se-campeao-do-mundo-ricardo-batista-conquista-o-bronze_d1768067",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b4cc668f444ac6f4b1438a57221f4f5f?w=350&amp;q=50&amp;rect=0,21,1232,675&amp;auto=format",
-      "score": 0.82
-    },
-    {
-      "id": "027098ca",
-      "cat": "tecnologia",
-      "title": "Millions Channeled to Irrigation Improvements, Leak Repairs Along Colorado River by Corporate Coalition",
-      "summary": "On Monday, e-commerce giant Amazon announced a $20 million investment to conserve water in the Colorado River Basin that&#8217;s currently stressed by a mixture of demand and historic drought. In launching the Colorado River Basin Collaborative, (CRBC) and joining existing organizations the Water Re",
-      "source": "Good News Network",
-      "date": "Thu, 24 Sep 2026 13:00:30 +0000",
-      "url": "https://www.goodnewsnetwork.org/millions-channeled-to-irrigation-improvements-leak-repairs-along-colorado-river-by-corporate-coalition/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/09/1564px-Lake_Mead_1-cc-license-wikimedia-commons-Kjkolb-.jpg",
-      "score": 0.82
     },
     {
       "id": "1e43f759",
@@ -56,6 +34,17 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-1347084357.jpeg",
       "score": 0.82
+    },
+    {
+      "id": "d92a7bff",
+      "cat": "ciencia",
+      "title": "CA Researchers Identify Odors That Repel Honeybees From Pesticides",
+      "summary": "In a win for pollinator conservation, researchers at the University of California, Riverside, have identified chemical compounds that can safely repel honey bees from pesticide-treated crops. The research offers a potential solution to one of agriculture’s most urgent challenges: pesticides leading ",
+      "source": "Good News Network",
+      "date": "Sun, 27 Sep 2026 22:50:42 +0000",
+      "url": "https://www.goodnewsnetwork.org/ca-researchers-identify-odors-that-repel-honeybees-from-pesticides/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Honeybee-by-Yu-Fang-University-of-California-Riverside-released.jpg",
+      "score": 0.79
     },
     {
       "id": "16d598ef",
@@ -89,39 +78,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260925093201.htm",
       "img": "https://www.sciencedaily.com/images/1920/pyrobitumen-rich-karelian-rocks.webp",
       "score": 0.79
-    },
-    {
-      "id": "e5dd2364",
-      "cat": "tecnologia",
-      "title": "V de Vanessa, V de Vilaça: Portugal de novo campeão do mundo de triatlo",
-      "summary": "O português repete o feito que Vanessa Fernandes, há 19 anos, também já tinha alcançado. Ricardo Batista teve igualmente um grande resultado, acabando o Mundial com o bronze.",
-      "source": "Público",
-      "date": "Sun, 27 Sep 2026 17:51:16 GMT",
-      "url": "https://www.publico.pt/2026/09/27/desporto/noticia/vasco-vilaca-sagrase-campeao-mundo-triatlo-2189472",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "2fd9cb06",
-      "cat": "tecnologia",
-      "title": "Chega dividido sobre presença da Reconquista no partido",
-      "summary": "Afonso Gonçalves diz que há \"muitos elementos\" da Reconquista e acusa partido de \"cobardia política\" devido à posição sobre remigração. No partido, o crescimento do movimento divide opiniões.",
-      "source": "Observador",
-      "date": "Sun, 27 Sep 2026 20:09:09 +0100",
-      "url": "https://observador.pt/especiais/chega-dividido-sobre-absorver-ou-afastar-reconquista-discurso-extremista-assusta-mas-ha-quem-desvalorize/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1405:nowe:0:131/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/23110646/obs22042026ruioliveira000030.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "4a1f2c19",
-      "cat": "tecnologia",
-      "title": "O que vai ditar o rumo das bolsas mundiais no último trimestre",
-      "summary": "Quando analisamos fatores de impulso e riscos nos mercados acionistas, há especificidades próprias de cada geografia, mas há temas que se alinham em todas as regiões, como a melhoria das contas das empresas, pelo lado positivo, ou as tensões geopolíticas e a escalada dos juros da dívida pelo negativ",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 27 Sep 2026 16:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/o-que-vai-ditar-as-bolsas-mundiais-no-ultimo-trimestre",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-21-14-47-00-526959.jpg",
-      "score": 0.76
     },
     {
       "id": "8d5a85c6",
@@ -168,47 +124,47 @@
       "score": 0.76
     },
     {
-      "id": "18192d49",
+      "id": "aef5e835",
       "cat": "tecnologia",
-      "title": "Sai Pogacar, entra McNulty, o novo campeão do mundo de ciclismo",
-      "summary": "Portugal teve um desempenho fraco nesta prova em linha dos Mundiais, não conseguindo colocar nenhum ciclista no top 50. Quatro desistiram e apenas Nélson Oliveira e Ivo Oliveira acabaram a prova.",
-      "source": "Público",
-      "date": "Sun, 27 Sep 2026 19:50:32 GMT",
-      "url": "https://www.publico.pt/2026/09/27/desporto/noticia/sai-pogacar-entra-mcnulty-novo-campeao-mundo-ciclismo-2189482",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "fce683eb",
-      "cat": "tecnologia",
-      "title": "Em terreno favorável, campanha de Lula pede vitória já na primeira volta",
-      "summary": "A uma semana da primeira volta das eleições presidenciais, as sondagens mantêm o cenário de incerteza. Em São Luís, apoiantes do PT quiseram mostrar-se presentes e optimistas na reeleição.",
-      "source": "Público",
-      "date": "Sun, 27 Sep 2026 19:00:49 GMT",
-      "url": "https://www.publico.pt/2026/09/27/mundo/reportagem/terreno-favoravel-campanha-lula-pede-vitoria-ja-primeira-volta-2189478",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "975795fe",
-      "cat": "tecnologia",
-      "title": "Mulher encontrada morta dentro da piscina de casa no Estoril",
-      "summary": "Primeiro alerta para a ocorrência foi dado cerca das 12h35 deste domingo. PSP foi a primeira a responder. Caso também foi comunicado ao Ministério Público.",
+      "title": "2h. Mau tempo. Sete distritos de Portugal sob aviso amarelo",
+      "summary": "IPMA prevê trovoada, precipitação e queda de granizo. O aviso amarelo está em vigor entre as 12:00 e as 21:00 desta segunda feira. Ainda, Vasco Vilaça é o novo campeão mundial de triatlo.",
       "source": "Observador",
-      "date": "Sun, 27 Sep 2026 19:41:23 +0100",
-      "url": "https://observador.pt/2026/09/27/mulher-encontrada-morta-dentro-da-piscina-de-casa-no-estoril-pj-investiga/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:56/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/30184506/pj-policia-judiciaria-fotografia-geral-200x131-1-1.jpg",
+      "date": "Mon, 28 Sep 2026 02:15:22 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2424/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "271b2f44",
-      "cat": "cultura",
-      "title": "O regresso à normalidade através das bolas paradas",
-      "summary": "Foi através de dois lances de bola parada que a Dinamarca superou a muralha do País de Gales e somou a primeira vitória nesta Liga das Nações (2-0). Froholdt entrou na segunda parte.",
+      "id": "a9ef9572",
+      "cat": "tecnologia",
+      "title": "1h. PR e ministra da Cultura congratulam Vasco Vilaça",
+      "summary": "António José Seguro e Margarida Balseiro Lopes felicitaram a conquista histórica na rede social X. Ainda, Portugal venceu a Noruega por 2-1 e é líder isolado no grupo 4 da Liga das Nações.",
       "source": "Observador",
-      "date": "Sun, 27 Sep 2026 19:04:41 +0100",
-      "url": "https://observador.pt/2026/09/27/o-regresso-a-normalidade-atraves-das-bolas-paradas-dinamarca-vence-na-rececao-ao-pais-de-gales-e-cola-se-a-noruega-e-portugal/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2306:nowe:0:427/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/27190354/gettyimages-2296871527-scaled.jpg",
+      "date": "Mon, 28 Sep 2026 01:13:51 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2397/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "3b6b144a",
+      "cat": "tecnologia",
+      "title": "Virtude hipócrita e suicida",
+      "summary": "Pagamos o gasóleo mais caro de sempre, a indústria europeia foge para o Texas e para a China, e as emissões do mundo bateram um recorde. A política energética europeia falhou nos objetivos que tinha.",
+      "source": "Observador",
+      "date": "Mon, 28 Sep 2026 00:23:18 +0100",
+      "url": "https://observador.pt/opiniao/virtude-hipocrita-e-suicida/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A266%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F27174802%2Fwhatsapp-image-2026-07-27-at-122449.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "86823cc3",
+      "cat": "tecnologia",
+      "title": "A perceção do risco",
+      "summary": "A ameaça russa aumenta com o tempo, na medida em que a ausência de uma vitória na Ucrânia potencializa o desespero de Vladimir Putin.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 27 Sep 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/a-percecao-do-risco",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
       "score": 0.73
     },
     {
@@ -234,14 +190,36 @@
       "score": 0.73
     },
     {
-      "id": "d330abba",
+      "id": "24cc7a5e",
       "cat": "tecnologia",
-      "title": "João Félix quer todos a puxar para o mesmo lado",
-      "summary": "O autor do primeiro golo de Portugal contra a Noruega diz que é importante que todos queiram o mesmo e que assim &quot;estamos mais perto de ganhar&quot;.",
+      "title": "Jorge Jesus \"satisfeito\" com o triunfo de Portugal",
+      "summary": "O selecionador nacional mostrou-se &quot;satisfeito&quot; com a vitória de Portugal, por 2-1 em Oslo, contra uma equipa que, segundo Jorge Jesus &quot;está no top 5 da Europa&quot;.",
       "source": "RTP",
-      "date": "Sun, 27 Sep 2026 23:05:48 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/joao-felix-quer-todos-a-puxar-para-o-mesmo-lado_v1768088",
-      "img": "https://cdn-images.rtp.pt/icm/images/61/6174e04d4ebc88f1ed9dbb39ffc54d26_N.jpg?",
+      "date": "Sun, 27 Sep 2026 23:28:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/jorge-jesus-satisfeito-com-o-triunfo-de-portugal_v1768091",
+      "img": "https://cdn-images.rtp.pt/icm/images/3c/3c7d57ae0fd6e174c5a94dd27e62d32b_N.jpg?",
+      "score": 0.73
+    },
+    {
+      "id": "9b937558",
+      "cat": "tecnologia",
+      "title": "Gonçalo Ramos considerou \"muito importante\" a vitória de Portugal",
+      "summary": "O avançado Gonçalo Ramos considerou &quot;muito importante contra uma grande seleção&quot; a vitória de Portugal, acrescentando que &quot;é sempre bom ganhar aqui&quot;.",
+      "source": "RTP",
+      "date": "Sun, 27 Sep 2026 23:22:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/goncalo-ramos-considerou-muito-importante-a-vitoria-de-portugal_v1768090",
+      "img": "https://cdn-images.rtp.pt/icm/images/18/18a5a57e7ebe52db4cecf9e5ce62bdf5_N.jpg?",
+      "score": 0.73
+    },
+    {
+      "id": "e179ba1f",
+      "cat": "tecnologia",
+      "title": "Advogados subscrevem carta aberta contra multas em atos que possam atrasar processos",
+      "summary": "Mais de 200 advogados subscreveram uma carta aberta contra as alterações ao Código do Processo Penal, que preveem multas por manobras vistas como dilatórias, pedindo ao parlamento a sua alteração. De acordo com o documento a que a Lusa teve acesso, o grupo de advogados defende que a Justiça deve ser",
+      "source": "ECO",
+      "date": "Sun, 27 Sep 2026 23:55:36 +0000",
+      "url": "https://eco.sapo.pt/2026/09/28/advogados-subscrevem-carta-aberta-contra-multas-em-atos-que-possam-atrasar-processos/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-doc2025041044751357ac-09-04-2025-37.jpg",
       "score": 0.73
     },
     {
@@ -300,14 +278,47 @@
       "score": 0.73
     },
     {
-      "id": "26d5ab0a",
+      "id": "f817f89f",
       "cat": "tecnologia",
-      "title": "Avião aterra de emergência no aeroporto do Porto. 14 passageiros assistidos",
-      "summary": "Ativado plano de emergência no Aeroporto Francisco Sá Carneiro devido à aterragem de emergência de um avião da Delta Airlines que seguia de Barcelona para Boston. Foram assistidas 14 pessoas.",
+      "title": "Lula da Silva, Flávio Bolsonaro e a corrida pelo voto dos mais pobres",
+      "summary": "No Brasil, o Bolsa Família chega às eleições como uma questão central para milhões de eleitores. O PÚBLICO foi perceber o peso deste apoio social na campanha presidencial.",
+      "source": "Público",
+      "date": "Mon, 28 Sep 2026 04:35:00 GMT",
+      "url": "https://www.publico.pt/2026/09/28/mundo/noticia/lula-silva-flavio-bolsonaro-corrida-voto-pobres-2189421",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "dbc426f1",
+      "cat": "tecnologia",
+      "title": "Cartas ao director",
+      "summary": "Excertos de cartas enviadas pelos leitores ao director do jornal, David Pontes.",
+      "source": "Público",
+      "date": "Mon, 28 Sep 2026 03:16:00 GMT",
+      "url": "https://www.publico.pt/2026/09/28/opiniao/opiniao/cartas-director-2189435",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "c2c2ac38",
+      "cat": "tecnologia",
+      "title": "A implosão da União Europeia não é uma impossibilidade",
+      "summary": "A história da política é pródiga em inversões de papéis. Em Portugal, por exemplo, o PS, que levou o país para a bancarrota em 2011, é hoje um partido com cartas para mostrar na frente orçamental. Opinião de Ricardo Arroja",
+      "source": "Público",
+      "date": "Sun, 27 Sep 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/09/28/opiniao/opiniao/implosao-uniao-europeia-nao-impossibilidade-2189470",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "5fb8450d",
+      "cat": "tecnologia",
+      "title": "Trégua comercial entre EUA e China dá alívio às empresas europeias mas não afasta pressão",
+      "summary": "Suspensão por mais dois meses de tarifas adicionais e controlos à exportação de terras raras afasta alguns dos riscos imediatos para as empresas europeias no meio das tensões entre norte-americanos e chineses. Porém, a pressão concorrencial da China sobre a UE mantém-se e tende a agravar-se.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 27 Sep 2026 19:56:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/aviao-aterra-de-emergencia-no-aeroporto-do-porto-14-passageiros-assistidos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-27-19-55-23-530168.jpg",
+      "date": "Sun, 27 Sep 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/tregua-comercial-entre-eua-e-china-da-alivio-as-empresas-europeias-mas-nao-afasta-pressao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-24-10-42-06-529973.jpg",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
