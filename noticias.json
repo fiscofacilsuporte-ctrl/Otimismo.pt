@@ -1,5 +1,5 @@
 {
-  "last_update": "29/09/2026 22:09 UTC",
+  "last_update": "30/09/2026 05:14 UTC",
   "total": 30,
   "news": [
     {
@@ -56,17 +56,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
       "img": "https://www.sciencedaily.com/images/1920/senior-woman-taking-vitamin-supplement-medication-pill.webp",
       "score": 0.79
-    },
-    {
-      "id": "238485d9",
-      "cat": "tecnologia",
-      "title": "OpenAI procura 30 mil milhões em ronda de financiamento após travar novo modelo de IA",
-      "summary": "Avaliação da dona do ChatGPT poderá chegar a cerca de 1,4 biliões de dólares. A notícia surge depois de a OpenAI ter travado o lançamento do seu mais recente modelo por questões de segurança.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 29 Sep 2026 20:49:40 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/openai-procura-30-mil-milhoes-em-ronda-de-financiamento-apos-travar-novo-modelo-de-ia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-06/img_100x100uu2025-06-17-13-57-42-504263.jpg",
-      "score": 0.76
     },
     {
       "id": "7e947e97",
@@ -135,80 +124,69 @@
       "score": 0.76
     },
     {
-      "id": "4954b19e",
-      "cat": "cultura",
-      "title": "Cinco dos sete sindicatos da PSP rejeitaram proposta sobre suplemento aos polícias nas fronteiras",
-      "summary": "Acordo foi apenas assinado pelo Sindicato dos Polícias Portugueses e Sindicato Independente dos Agentes de Polícia. Os restantes aguardam pelo articulado. Há quem acuse Governo de fazer “teatro”.",
+      "id": "59e6b443",
+      "cat": "economia",
+      "title": "Arrendamento: quando a “confiança no mercado” significa perder a segurança da casa",
+      "summary": "Talvez a principal oportunidade seja esta: construir uma lei que devolva confiança ao mercado sem retirar segurança a quem tem na habitação não um investimento, mas a sua casa para viver. Opinião de Luís Mendes",
       "source": "Público",
-      "date": "Tue, 29 Sep 2026 20:45:06 GMT",
-      "url": "https://www.publico.pt/2026/09/29/sociedade/noticia/cinco-sete-sindicatos-psp-rejeitaram-proposta-suplemento-policias-fronteiras-2189756",
+      "date": "Tue, 29 Sep 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/09/30/opiniao/opiniao/arrendamento-confianca-mercado-significa-perder-seguranca-casa-2189708",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "36ff8866",
-      "cat": "ciencia",
-      "title": "Caso Gémeas: Ministra da Justiça pede “decisão rápida” para “bem de todos”",
-      "summary": "Rita Alarcão Júdice diz que caso mostra que “instituições estão a funcionar”. Sobre a investigação do MP à Polícia Judiciária diz que a instituição é “uma casa forte, construída sobre a rocha”.",
-      "source": "Público",
-      "date": "Tue, 29 Sep 2026 20:34:06 GMT",
-      "url": "https://www.publico.pt/2026/09/29/sociedade/noticia/caso-gemeas-ministra-justica-pede-decisao-rapida-bem-2189751",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "2c8bf3e1",
+      "id": "5fed1e73",
       "cat": "tecnologia",
-      "title": "Algarve entra no novo ano hidrológico com 74% de água nas principais albufeiras",
-      "summary": "A actual situação das reservas “não pode abrandar estes investimentos”, diz José Pimenta Machado.",
-      "source": "Público",
-      "date": "Tue, 29 Sep 2026 20:23:13 GMT",
-      "url": "https://www.publico.pt/2026/09/29/azul/noticia/algarve-entra-novo-ano-hidrologico-74-agua-principais-albufeiras-2189754",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "31c05649",
-      "cat": "tecnologia",
-      "title": "Solos contaminados. AML pede à Câmara que apresente mapa",
-      "summary": "Assembleia Municipal de Lisboa aprovou recomendações do PAN e do PEV sobre solos contaminados e biodiversidade, com PSD a votar contra as principais propostas.",
+      "title": "As saias da Prada e os looks dos Globos de Ouro",
+      "summary": "O melhor e o pior dos desfiles na Semana da Moda de Milão (da \"Store\" da Gucci às 63 saias de Miuccia) e ainda os vestidos mais memoráveis da passadeira vermelha.",
       "source": "Observador",
-      "date": "Tue, 29 Sep 2026 20:15:34 +0100",
-      "url": "https://observador.pt/2026/09/29/assembleia-municipal-de-lisboa-aprova-recomendacao-para-mapear-solos-contaminados-incluindo-terrenos-do-aeroporto-humberto-delgado/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/05143113/32731048.jpg",
+      "date": "Wed, 30 Sep 2026 06:02:37 +0100",
+      "url": "https://observador.pt/programas/do-avesso/as-saias-da-prada-e-os-looks-dos-globos-de-ouro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/29154007/770-podcast-do-avesso.jpg",
       "score": 0.73
     },
     {
-      "id": "3512e9e5",
+      "id": "e47dc281",
       "cat": "tecnologia",
-      "title": "Bónus fiscal para cérebros. Maioria são gestores e diretores",
-      "summary": "Tribunal de Contas diz que dos quase mil inscritos neste incentivo, só 11% são investigadores e professores. Regime foi criado em 2024 para atrair quadros altamente qualificados para a investigação.",
+      "title": "Do \"tico-tico\" ao x-ato. Ferramentas que dão forma à matéria",
+      "summary": "Uma caixa na exposição guarda as ferramentas que Teresa Carreira usa. A artista explica o processo de criação e conta que quase todos os dias recolhe pedaços de madeira na rua para levar para casa.",
       "source": "Observador",
-      "date": "Tue, 29 Sep 2026 20:05:30 +0100",
-      "url": "https://observador.pt/2026/09/29/incentivo-fiscal-para-atrair-cerebros-tinha-946-inscritos-mas-so-11-eram-investigadores-e-professores-maioria-eram-gestores/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1365:767:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/09164607/istock-1468693046.jpg",
+      "date": "Wed, 30 Sep 2026 06:02:17 +0100",
+      "url": "https://observador.pt/programas/a-nossa-cultura/do-tico-tico-ao-x-ato-ferramentas-que-dao-forma-a-materia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/10/10120711/770-podcast-a-nossa-cultura-radio-observador-viseu-1.jpg",
       "score": 0.73
     },
     {
-      "id": "ab672809",
+      "id": "82b4beb1",
       "cat": "tecnologia",
-      "title": "19h. MNE nega acordo sobre indemnizações às antigas colónias",
-      "summary": "MNE responde a André Ventura e nega negociações sobre indemnizações às antigas colónias.Ainda, Governo chega a acordo com dois sindicatos para novo suplemento remuneratório aos agentes das fronteiras.",
+      "title": "4h. Proença na Dinamarca para reunião urgente com JJ e CR7",
+      "summary": "Ronaldo chegou um entendimento com Jorge Jesus, depois de nova conversa, e a aparente confusão antes do treino ficou resolvida. Ainda, vacinação contra a gripe e a covid-19 arranca esta quarta-feira.",
       "source": "Observador",
-      "date": "Tue, 29 Sep 2026 19:20:16 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-19h-2179/",
+      "date": "Wed, 30 Sep 2026 04:16:21 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2416/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "eb507d52",
-      "cat": "tecnologia",
-      "title": "Bolsonaro e Lula concentram final de campanha nos três estados mais ricos e populosos",
-      "summary": "Os dois principais candidatos à vitória nas eleições presidenciais, cuja primeira volta se realiza no próximo domingo, vão estar sobretudo em São Paulo, Minas Gerais e Rio de Janeiro, num momento em que as sondagens apontam para um empate técnico.",
+      "id": "0e097c66",
+      "cat": "cultura",
+      "title": "OE2027: Primeiro-ministro pede responsabilidade à oposição para manter estabilidade política",
+      "summary": "Na abertura do Conselho Nacional do PSD, Montenegro avisou os partidos da oposição que há espaço para melhorar mas não para deturpar o documento, prometendo apresentar um Orçamento \"rigoroso e enxuto\".",
       "source": "Jornal de Negócios",
-      "date": "Tue, 29 Sep 2026 21:09:48 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/bolsonaro-e-lula-concentram-final-de-campanha-nos-tres-estados-mais-ricos-e-populosos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-07-19-58-35-521670.jpg",
+      "date": "Tue, 29 Sep 2026 23:49:11 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/oe2027-primeiro-ministro-pede-responsabilidade-a-oposicao-para-manter-estabilidade-politica",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-23-15-30-08-529939.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "efc7b492",
+      "cat": "cultura",
+      "title": "Montenegro diz contar com PS na revisão constitucional mas sem excluir ninguém",
+      "summary": "O primeiro-ministro falava no início do Conselho Nacional do PSD, em que anunciou que o ex-deputado e antigo juiz do Tribunal Constitucional Paulo Mota Pinto irá liderar o grupo trabalho do PSD que, nos próximos três meses, irá desenvolver o projeto do partido de revisão da Constituição.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 29 Sep 2026 23:24:04 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-diz-contar-com-ps-na-revisao-constitucional-mas-sem-excluir-ninguem",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-17-11-01-22-529631.jpg",
       "score": 0.73
     },
     {
@@ -322,14 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "9f7aba83",
+      "id": "6c4da4a2",
       "cat": "tecnologia",
-      "title": "Rendas sobem ao plenário com voto contra do PS e ameaças do Chega",
-      "summary": "A proposta de lei do Governo que altera a lei do arrendamento vai ser debatida esta quarta-feira e não terá o apoio dos socialistas, que contrariam “a forma e o conteúdo”. Também o Chega diz que “tal como está” o diploma vai votar contra e desafia o Governo a pedir a descida à comissão sem votação p",
+      "title": "Um homem matou duas ex-namoradas. Como foi possível?",
+      "summary": "Um homem matou duas ex-namoradas. Como foi possível? O novo podcast narrativo do PÚBLICO reconstrói esta história em sete episódios. Neste episódio conversamos com a jornalista Ana Cristina Pereira.",
+      "source": "Público",
+      "date": "Wed, 30 Sep 2026 04:30:00 GMT",
+      "url": "https://www.publico.pt/2026/09/30/sociedade/noticia/homem-matou-duas-exnamoradas-possivel-2189744",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "0e7aaa75",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
+      "source": "Público",
+      "date": "Wed, 30 Sep 2026 04:00:00 GMT",
+      "url": "https://www.publico.pt/2026/09/30/opiniao/opiniao/cartas-director-2189685",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "6c2c9355",
+      "cat": "tecnologia",
+      "title": "Preço da eletricidade subiu 22,8% na UE desde fevereiro. Gás aumentou 88,4%",
+      "summary": "O relatório anual da Eurelectric indica que o sistema elétrico europeu resistiu melhor às tensões geopolíticas de 2026 do que os combustíveis fósseis, graças ao maior peso das energias limpas na produção de eletricidade.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 29 Sep 2026 21:58:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/rendas-sobem-ao-plenario-com-voto-contra-do-ps-e-ameacas-do-chega",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-14-38-30-526072.jpg",
+      "date": "Wed, 30 Sep 2026 00:23:17 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/preco-da-eletricidade-subiu-22-8-na-ue-desde-fevereiro-gas-aumentou-88-4",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-17-39-53-524402.jpg",
       "score": 0.7
     }
   ]
