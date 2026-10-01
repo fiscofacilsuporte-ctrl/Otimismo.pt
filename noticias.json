@@ -1,5 +1,5 @@
 {
-  "last_update": "01/10/2026 12:57 UTC",
+  "last_update": "01/10/2026 22:35 UTC",
   "total": 30,
   "news": [
     {
@@ -16,12 +16,23 @@
     {
       "id": "1e43f759",
       "cat": "ciencia",
-      "title": "What went right this week: the good news that matters",
-      "summary": "Kosovo was cleared of landmines, Germany set a date for quitting oil, and a new species was discovered, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "title": "What went right this week: a brighter future for Kosovo, plus more",
+      "summary": "Kosovo was cleared of landmines, Germany set a date for quitting oil, and a new species was discovered, plus more The post What went right this week: a brighter future for Kosovo, plus more appeared first on Positive News .",
       "source": "Positive News",
       "date": "Fri, 25 Sep 2026 05:11:56 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-487000750-2.jpg",
+      "score": 0.82
+    },
+    {
+      "id": "4d411443",
+      "cat": "ciencia",
+      "title": "This giant stick insect fooled scientists for decades",
+      "summary": "Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group. The discovery also revealed that a familiar stick insect had been misidentified for decades, showing how much biodiversity may still b",
+      "source": "ScienceDaily",
+      "date": "Thu, 01 Oct 2026 09:59:22 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+      "img": "https://www.sciencedaily.com/images/1920/adult-female-clemencantha-goliath.webp",
       "score": 0.82
     },
     {
@@ -58,14 +69,69 @@
       "score": 0.79
     },
     {
-      "id": "afb7eded",
+      "id": "6268e8ff",
+      "cat": "ciencia",
+      "title": "Could quitting ultra-processed food boost your mental health?",
+      "summary": "People with depression who dramatically cut ultra-processed foods experienced notable improvements in their symptoms in a small preliminary study. Researchers suspect healthier eating may benefit the brain partly by reducing gut damage and chronic inflammation.",
+      "source": "ScienceDaily",
+      "date": "Thu, 01 Oct 2026 02:34:01 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
+      "img": "https://www.sciencedaily.com/images/1920/unhealthy-ultraprocessed-junk-food.webp",
+      "score": 0.79
+    },
+    {
+      "id": "fd03022e",
       "cat": "tecnologia",
-      "title": "Portugal leva 25 atletas a históricos Jogos Olímpicos da Juventude Dakar2026",
-      "summary": "Portugal vai estar representado por 25 atletas, distribuídos por 11 modalidades, nos Jogos Olímpicos da Juventude Dakar2026, o primeiro evento olímpico realizado em África, que vai decorrer entre 31 de outubro e 13 de novembro.",
-      "source": "RTP",
-      "date": "Thu, 01 Oct 2026 14:25:57 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-leva-25-atletas-a-historicos-jogos-olimpicos-da-juventude-dakar2026_d1768873",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c37f4a81c101fc1a14a5fbc1b46e0559?w=350&amp;q=50&amp;rect=0,10,1460,800&amp;auto=format",
+      "title": "Brasil bate recorde de produção de petróleo pelo 3º mês",
+      "summary": "Os dados da ANP mostram crescimento de 2,6% face a julho e de 18,4% em termos homólogos. A queima de gás natural caiu 11% em relação ao mês anterior.",
+      "source": "Observador",
+      "date": "Thu, 01 Oct 2026 22:47:06 +0100",
+      "url": "https://observador.pt/2026/10/01/brasil-bate-recorde-de-producao-de-petroleo-pelo-terceiro-mes-seguido-46-milhoes-de-barris-por-dia-em-agosto/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/04203510/45932215.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "dfbf56ac",
+      "cat": "tecnologia",
+      "title": "Portugal vence Dinamarca na Liga das Nações no primeiro jogo sem Ronaldo",
+      "summary": "Os golos da Seleção Nacional foram apontados por João Cancelo, Gonçalo Ramos, Vitinha e João Félix. Portugal somou a terceira vitória em outros tantos jogos na competição.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 01 Oct 2026 22:20:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/portugal-vence-dinamarca-na-liga-das-nacoes-no-primeiro-jogo-sem-ronaldo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-01-22-18-53-530444.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "60d95894",
+      "cat": "tecnologia",
+      "title": "Brasil bate recorde pelo terceiro mês consecutivo na produção de petróleo",
+      "summary": "Os dados mostram que o resultado superou a marca histórica anterior de 4,498 milhões de barris por dia, registada em julho, e reforça a trajetória de crescimento com o Brasil a bater o recorde pelo terceiro mês consecutivo.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 01 Oct 2026 22:12:37 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/brasil-bate-recorde-pelo-terceiro-mes-consecutivo-na-producao-de-petroleo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-06-07-26-33-519715.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "a082f84a",
+      "cat": "tecnologia",
+      "title": "Guimarães aposta na inovação para acelerar produtividade e salários",
+      "summary": "Com 43% do emprego concentrado na indústria transformadora, sobretudo cutelaria e metalomecânica, e as exportações próximas dos 1,5 mil milhões de euros anuais, Guimarães tem uma forte base industrial. Mas ainda não consegue traduzir essa capacidade numa maior produtividade e salários que se mantêm ",
+      "source": "ECO",
+      "date": "Thu, 01 Oct 2026 18:23:46 +0000",
+      "url": "https://eco.sapo.pt/2026/10/01/guimaraes-aposta-na-inovacao-para-acelerar-produtividade-e-salarios/",
+      "img": "https://eco.imgix.net/uploads/2026/01/cropped-guimaraes011.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "a95469b4",
+      "cat": "tecnologia",
+      "title": "Chinese Commercial Reactor Achieves Nuclear Fusion with Clean Hydrogen-Boron Fuel",
+      "summary": "In a world first, Chinese engineers have achieved brief nuclear fusion with a much cleaner and abundant fuel supply in what an international review team called a “significant and valuable” advance in the field. Using hydrogen-boron as fuel, a state-backed energy company used a laser and radio waves ",
+      "source": "Good News Network",
+      "date": "Thu, 01 Oct 2026 15:30:26 +0000",
+      "url": "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/ENN-Groups-EXL-50U-spherical-device-which-successfully-achieved-hydrogen-boron-fusion-reactions-credit-handout.jpg",
       "score": 0.76
     },
     {
@@ -80,17 +146,6 @@
       "score": 0.76
     },
     {
-      "id": "21c94849",
-      "cat": "tecnologia",
-      "title": "First Ever Recorded Sea Turtle Nests on America’s West Coast",
-      "summary": "A bombshell report last week from the LA Times details that a series of olive ridley sea turtles which laid their eggs on beaches in Southern California are the first of their race ever recorded buildings nests on the country&#8217;s West Coast. It didn&#8217;t take long for the female—in broad dayl",
-      "source": "Good News Network",
-      "date": "Wed, 30 Sep 2026 09:52:15 +0000",
-      "url": "https://www.goodnewsnetwork.org/first-ever-recorded-sea-turtle-nests-on-americas-west-coast/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/09/Eggs-from-an-olive-ridley-sea-turtle-were-laid-near-Seal-Beach-Credit-City-of-Huntington-Beach.jpg",
-      "score": 0.76
-    },
-    {
       "id": "a6fe9c52",
       "cat": "tecnologia",
       "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
@@ -99,28 +154,6 @@
       "date": "Wed, 30 Sep 2026 08:27:27 EDT",
       "url": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
       "img": "https://www.sciencedaily.com/images/1920/magnetar-magnetic-field.webp",
-      "score": 0.76
-    },
-    {
-      "id": "14a91e74",
-      "cat": "tecnologia",
-      "title": "Bats may have first evolved in Europe 65 million years ago",
-      "summary": "A huge genomic and fossil study suggests bats first evolved in Europe around 65 to 60 million years ago before spreading across the globe. The findings also indicate that flight and echolocation emerged near the beginning of bat evolution, potentially helping explain how bats became one of the most ",
-      "source": "ScienceDaily",
-      "date": "Wed, 30 Sep 2026 01:12:36 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
-      "img": "https://www.sciencedaily.com/images/1920/fossilized-palaeochiropteryx-tupaiodon.webp",
-      "score": 0.76
-    },
-    {
-      "id": "14c31e71",
-      "cat": "ciencia",
-      "title": "Creatine may help build muscle even without exercise, researchers find",
-      "summary": "Creatine helped middle-aged adults gain muscle and strength even without a structured workout program in a new 12-week study. When combined with exercise and a calorie-reduced diet, it produced even greater strength gains while helping participants add lean tissue and lose fat. Researchers say the r",
-      "source": "ScienceDaily",
-      "date": "Tue, 29 Sep 2026 23:12:34 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm",
-      "img": "https://www.sciencedaily.com/images/1920/pouring-sport-supplement-powder-in-glass-of-water.webp",
       "score": 0.76
     },
     {
@@ -135,58 +168,47 @@
       "score": 0.76
     },
     {
-      "id": "df1d7b09",
+      "id": "ba71db9c",
       "cat": "tecnologia",
-      "title": "Aprovado projecto do Chega que elimina comissão de reembolso no crédito com taxa variável",
-      "summary": "A iniciativa que elimina a comissão de reembolso antecipado nos contratos de crédito à habitação com taxa de juro variável foi aprovado com a abstenção do PSD, CDS, Iniciativa Liberal, PCP e Livre.",
+      "title": "Portugal vai continuar. Com golos e já com nota artística",
+      "summary": "Terceiro jogo com Jorge Jesus, terceira vitória, desta vez por 2-4 frente à Dinamarca. Sem Ronaldo a fazer sombra, Gonçalo Ramos brilhou a grande altura.",
       "source": "Público",
-      "date": "Thu, 01 Oct 2026 12:30:25 GMT",
-      "url": "https://www.publico.pt/2026/10/01/economia/noticia/aprovado-projecto-chega-elimina-comissao-reembolso-credito-taxa-variavel-2189953",
+      "date": "Thu, 01 Oct 2026 20:44:13 GMT",
+      "url": "https://www.publico.pt/2026/10/01/desporto/cronica_de_jogo/portugal-vai-continuar-golos-ja-nota-artistica-2190027",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "2da18014",
-      "cat": "desporto",
-      "title": "Combustíveis e trânsito a crescer: porquê? — Debate",
-      "summary": "Combustíveis a preços recorde e chuva nas ruas não travam o trânsito nas grandes cidades. O consumo volta a subir e obriga a perguntar: o que falha no transporte público?",
+      "id": "2056f44e",
+      "cat": "ciencia",
+      "title": "As cunhas a Lacerda Sales vindas do PS",
+      "summary": "Além do caso das gémeas luso-brasileiras, investigação do DIAP Regional de Lisboa detetou várias solicitações de políticos e figuras públicas ligadas ao PS ao ex-secretário de Estado da Saúde.",
       "source": "Observador",
-      "date": "Thu, 01 Oct 2026 12:31:54 +0100",
-      "url": "https://observador.pt/programas/contra-corrente/combustiveis-e-transito-a-crescer-porque-debate/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
+      "date": "Thu, 01 Oct 2026 23:14:22 +0100",
+      "url": "https://observador.pt/2026/10/01/cunhas-a-lacerda-sales-vindas-do-ps-da-filha-de-ferro-rodrigues-com-dica-de-mariana-vieira-da-silva-a-edite-estrela-e-a-catarina-mendes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:7/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/24172003/dventura-cpigemeas-lacerda-sales-3-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "0f1a9e76",
+      "id": "ac5336f0",
       "cat": "tecnologia",
-      "title": "Risco de desequilíbrio entre oferta e procura de água",
-      "summary": "Estudo \"Península de Setúbal – Resiliência Hídrica\" destaca que desequilíbrio pode ser evitado através da implementação de medidas estruturais a curto e médio prazo, como a reutilização de água.",
+      "title": "Exibição \"excelente\", \"de risco\" ou ambas?",
+      "summary": "Mário Cagica elogia a qualidade atacante da seleção na vitória por 4-2 na Dinamarca. No entanto, aponta a permeabilidade na transição defensiva como o ponto fraco a melhorar.",
       "source": "Observador",
-      "date": "Thu, 01 Oct 2026 12:12:51 +0100",
-      "url": "https://observador.pt/2026/10/01/peninsula-de-setubal-enfrenta-risco-de-desequilibrio-entre-oferta-e-procura-de-agua/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1300:731:nowe:0:4/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/11/16203519/torneira-agua.jpg",
+      "date": "Thu, 01 Oct 2026 22:59:45 +0100",
+      "url": "https://observador.pt/programas/relat-rio-de-jogo/dinamarca-x-portugal-exibicao-excelente-de-risco-ou-ambas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/03175204/770-podcast-relatorio-de-jogo-mario-cagic.jpg",
       "score": 0.73
     },
     {
-      "id": "125f2820",
+      "id": "2a630b9a",
       "cat": "tecnologia",
-      "title": "Contribuições extraordinárias testam previsibilidade fiscal do país",
-      "summary": "A nova contribuição extraordinária sobre as petrolíferas que o Governo pretende aplicar não deverá, por si só, afastar investimentos, mas os advogados alertam para o impacto da acumulação de encargos na previsibilidade fiscal e na própria coerência política.",
+      "title": "Novo crédito para a casa tem maior queda em ano e meio no início do travão do BdP",
+      "summary": "Depois de ter superado, em março, a fasquia dos 3 mil milhões de euros concedidos num só mês, o montante tem vindo a oscilar. O primeiro mês das novas regras do Banco de Portugal coincidiu com um tombo na concessão de novos empréstimos.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 01 Oct 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/justica/lex/detalhe/contribuicoes-extraordinarias-testam-previsibilidade-fiscal-do-pais",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-30-16-55-00-510376.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6fffc8e0",
-      "cat": "economia",
-      "title": "Consórcio da Mota-Engil assina contrato de 700 milhões no Brasil",
-      "summary": "A construtora portuguesa integra um consórcio no qual detém 33%. O investimento estimado é de cerca de 700 milhões de euros.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 01 Oct 2026 12:55:47 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/construcao/detalhe/consorcio-da-mota-engil-assina-contrato-de-700-milhoes-no-brasil",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-13-20-07-00-520288.jpg",
+      "date": "Thu, 01 Oct 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/credito/detalhe/novo-credito-para-a-casa-tem-maior-queda-em-ano-e-meio-no-inicio-do-travao-do-bdp",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-29-20-29-24-524565.jpg",
       "score": 0.73
     },
     {
@@ -201,47 +223,58 @@
       "score": 0.73
     },
     {
-      "id": "6bc58b6b",
+      "id": "a8e2b4df",
       "cat": "tecnologia",
-      "title": "Rafael Leão herda número 7 de Ronaldo. Bruno ou Bernardo são os novos capitães da seleção nacional",
-      "summary": "Rafael Leão vai esta quinta-feira vestir a camisola 7 da seleção portuguesa frente à Dinamarca, em jogo da Liga das Nações de futebol, número que durante duas décadas pertenceu a Cristiano Ronaldo, que abandonou o estágio. De acordo com a lista dos 23 jogadores inscritos na UEFA para o encontro em C",
-      "source": "ECO",
-      "date": "Thu, 01 Oct 2026 12:43:56 +0000",
-      "url": "https://eco.sapo.pt/2026/10/01/rafael-leao-herda-numero-7-de-ronaldo-bruno-ou-bernardo-sao-os-novos-capitaes-da-selecao-nacional/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-44642921-scaled-1.jpg",
+      "title": "Liga Nações. Gales vence Noruega e alcança primeira vitória no grupo de Portugal",
+      "summary": "O País de Gales alcançou a primeira vitória no Grupo A4 da Liga das Nações de futebol, liderado por Portugal, ao ganhar com reviravolta na receção à Noruega (2-1), próxima adversária dos lusos, na terceira jornada.",
+      "source": "RTP",
+      "date": "Thu, 01 Oct 2026 23:15:29 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-gales-vence-noruega-e-alcanca-primeira-vitoria-no-grupo-de-portugal_d1769015",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/66/66511c355e93e51a8104ff78ee7f50ed?w=350&amp;q=50&amp;rect=0,87,1341,735&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "06ee2aeb",
-      "cat": "tecnologia",
-      "title": "MMR Legal Services tem nova morada no Porto e reforça a presença na região Norte",
-      "summary": "A MMR Legal Services passa a operar numa nova morada no Porto, na Rua do Passeio Alegre, numa mudança que &#8220;acompanha o crescimento da atividade da sociedade no Norte do País e oferece aos clientes da região instalações mais amplas, pensadas para os receber com o conforto, a discrição e a exigê",
-      "source": "ECO",
-      "date": "Thu, 01 Oct 2026 12:06:18 +0000",
-      "url": "https://eco.sapo.pt/2026/10/01/mmr-legal-services-tem-nova-morada-no-porto-e-reforca-a-presenca-na-regiao-norte/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-ines-sousa-fernandes-site.png",
+      "id": "7eebcec3",
+      "cat": "desporto",
+      "title": "Cancelo marca para Portugal",
+      "summary": "O defesa João Cancelo, depois de tabelar com Gonçalo Ramos, atirou para o fundo da baliza dinamarquesa. Está feito o primeiro golo de Portugal.",
+      "source": "RTP",
+      "date": "Thu, 01 Oct 2026 21:11:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/cancelo-marca-para-portugal_v1768990",
+      "img": "https://cdn-images.rtp.pt/icm/images/da/da069d10d9928050a317a1ac8a8f72bd_N.jpg?",
       "score": 0.73
     },
     {
-      "id": "8b1b23e6",
+      "id": "7a8aacc8",
       "cat": "tecnologia",
-      "title": "Mota-Engil ‘pesa’ um terço no consórcio da concessão rodoviária de 700 milhões no Brasil",
-      "summary": "A subsidiária da Mota-Engil no Brasil já assinou o contrato de concessão para a exploração, operação, manutenção, conservação, modernização e ampliação de capacidade da Rota dos Sertões, no Brasil. Em comunicado enviado esta quinta-feira à CMVM, o grupo liderado por Carlos Mota Santos esclarece que ",
+      "title": "UGT reivindica salário mínimo nacional acima de 1.000 euros em janeiro",
+      "summary": "O secretariado nacional da UGT aprovou esta quinta-feira a sua política reivindicativa 2026-2027, que inclui a exigência de que o salário mínimo nacional seja fixado acima dos mil euros em janeiro de 2027, adiantou a entidade. De acordo com uma nota enviada a acompanhar o documento, a UGT destacou q",
       "source": "ECO",
-      "date": "Thu, 01 Oct 2026 12:05:29 +0000",
-      "url": "https://eco.sapo.pt/2026/10/01/mota-engil-pesa-um-terco-no-consorcio-que-ganhou-concessao-rodoviaria-de-700-milhoes-no-brasil/",
-      "img": "https://eco.imgix.net/uploads/2026/03/cropped-carlos-mota-santos-capital-markets-day-scaled-4.jpg",
+      "date": "Thu, 01 Oct 2026 20:28:18 +0000",
+      "url": "https://eco.sapo.pt/2026/10/01/ugt-reivindica-salario-minimo-nacional-acima-de-1-000-euros-em-janeiro/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-22865866-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "c528b1b3",
-      "cat": "cultura",
-      "title": "Gold beetles to Darwin's finds - the 70 million museum artefacts going online",
-      "summary": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
+      "id": "d1368c0f",
+      "cat": "ambiente",
+      "title": "Kristin. Prorrogada isenção da Taxa de Gestão de Resíduos até final do ano",
+      "summary": "O Governo aprovou nesta quinta-feira a prorrogação, até ao final do ano, da isenção do pagamento da Taxa de Gestão de Resíduos (TGR) decorrentes dos danos provocados pela tempestade Kristin e das operações de limpeza e reconstrução. Segundo o comunicado do Conselho de Ministros, foi aprovado um decr",
+      "source": "ECO",
+      "date": "Thu, 01 Oct 2026 18:39:35 +0000",
+      "url": "https://eco.sapo.pt/2026/10/01/kristin-prorrogada-isencao-da-taxa-de-gestao-de-residuos-ate-final-do-ano/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-kristin-6meses03.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "2db742b9",
+      "cat": "tecnologia",
+      "title": "SpaceX launches crew to ISS",
+      "summary": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.",
       "source": "BBC News",
-      "date": "Wed, 30 Sep 2026 00:46:29 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f156/live/89546d90-b29c-11f1-9b18-ad61bef6e34f.jpg",
+      "date": "Thu, 01 Oct 2026 16:32:17 GMT",
+      "url": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/809f/live/1b9fbe20-bdb5-11f1-babe-4199b0e7ccea.jpg",
       "score": 0.73
     },
     {
@@ -267,47 +300,25 @@
       "score": 0.73
     },
     {
-      "id": "ce2b4bb5",
+      "id": "3d29394e",
       "cat": "tecnologia",
-      "title": "Carlos Cabreiro defende ter condições para continuar a dirigir a Polícia Judiciária",
-      "summary": "Remetendo para “sede própria” toda as respostas às suspeitas que pendem sobre si, Cabreiro disse sentir a confiança do Ministério da Justiça.",
+      "title": "Figuras do PS socorreram-se de Lacerda Sales para saberem de doentes em Santa Maria",
+      "summary": "Quando estava no Governo, o hoje arguido encaminhava pedidos que recebia para o director clínico do Hospital de Santa Maria: “O desejo era obter contrato. Peço desculpa pelo incómodo.”",
       "source": "Público",
-      "date": "Thu, 01 Oct 2026 12:30:41 GMT",
-      "url": "https://www.publico.pt/2026/10/01/sociedade/noticia/carlos-cabreiro-defende-condicoes-continuar-dirigir-policia-judiciaria-2189947",
+      "date": "Thu, 01 Oct 2026 21:39:51 GMT",
+      "url": "https://www.publico.pt/2026/10/01/sociedade/noticia/figuras-ps-socorreramse-lacerda-sales-saberem-doentes-santa-maria-2190028",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "b715c748",
+      "id": "01e7e749",
       "cat": "tecnologia",
-      "title": "Não Me Esqueças: uma livraria online onde “o livro tem vida”",
-      "summary": "A livraria de Júnea e Francisco Paletta conta já com cerca de 350 livros em circulação, que estão disponíveis para compra e revenda.",
+      "title": "Seguro defende que o país precisa de líderes que saibam decidir e unir",
+      "summary": "Dirigindo-se aos novos oficiais do Exército, o Presidente da República e comandante supremo das Forças Armadas disse-lhes que vão enfrentar combates “completamente diferentes” dos que os antecessores.",
       "source": "Público",
-      "date": "Thu, 01 Oct 2026 12:30:08 GMT",
-      "url": "https://www.publico.pt/2026/10/01/p3/noticia/nao-esquecas-livraria-online-onde-livro-vida-2189671",
+      "date": "Thu, 01 Oct 2026 20:53:04 GMT",
+      "url": "https://www.publico.pt/2026/10/01/politica/noticia/seguro-defende-pais-precisa-lideres-saibam-decidir-unir-2190026",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "2b2cdb04",
-      "cat": "cultura",
-      "title": "PAN vai realizar novo congresso para eleger direção",
-      "summary": "Tribunal Constitucional declarou ilegal uma parte do regulamento do último Congresso do PAN. Um movimento de oposição interna pede a demissão de Inês Sousa Real e eleições internas.",
-      "source": "Observador",
-      "date": "Thu, 01 Oct 2026 12:33:52 +0100",
-      "url": "https://observador.pt/2026/10/01/pan-vai-realizar-novo-congresso-apos-decisao-do-tribunal-constitucional-que-invalidou-eleicao-da-direcao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:25/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/23162722/46398068.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "dfcc6821",
-      "cat": "tecnologia",
-      "title": "Dono do BPI estuda compra das operações da Cetelem em Portugal e Espanha",
-      "summary": "O CaixaBank terá contratado o Morgan Stanley para analisar uma potencial aquisição da empresa de crédito ao consumo detida pelo BNP Paribas.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 01 Oct 2026 13:18:12 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/dono-do-bpi-estuda-compra-das-operacoes-da-cetelem-em-portugal-e-espanha",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-11/img_100x100uu2024-11-19-12-38-13-490087.jpg",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
