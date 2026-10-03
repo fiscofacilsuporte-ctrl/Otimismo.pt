@@ -1,5 +1,5 @@
 {
-  "last_update": "03/10/2026 16:06 UTC",
+  "last_update": "03/10/2026 20:56 UTC",
   "total": 30,
   "news": [
     {
@@ -23,6 +23,17 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-487000750-2.jpg",
       "score": 0.82
+    },
+    {
+      "id": "37348870",
+      "cat": "tecnologia",
+      "title": "FC Porto conquista Supertaça feminina de voleibol",
+      "summary": "“Azuis e brancas” venceram o Sp. Braga por 3-1, em Santo Tirso, e arrebataram o primeiro troféu depois do fim da parceria com a AJM.",
+      "source": "Público",
+      "date": "Sat, 03 Oct 2026 19:04:04 GMT",
+      "url": "https://www.publico.pt/2026/10/03/desporto/noticia/fc-porto-conquista-supertaca-feminina-voleibol-2190228",
+      "img": null,
+      "score": 0.79
     },
     {
       "id": "a0107873",
@@ -58,28 +69,6 @@
       "score": 0.79
     },
     {
-      "id": "b027fc2d",
-      "cat": "tecnologia",
-      "title": "“Os danos têm de ser reparados”: ONU confronta EUA com o legado nuclear nas Ilhas Marshall",
-      "summary": "O custo humano destes testes foi “grave e duradouro”, afirma o relatório do Alto Comissariado da ONU para os Direitos Humanos, acrescentando que ainda não houve uma resolução justa das reclamações.",
-      "source": "Público",
-      "date": "Sat, 03 Oct 2026 15:30:00 GMT",
-      "url": "https://www.publico.pt/2026/10/03/azul/noticia/danos-reparados-onu-confronta-eua-legado-nuclear-ilhas-marshall-2190043",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "4d2ba798",
-      "cat": "tecnologia",
-      "title": "“O prometido clima de conciliação política no Brasil não aconteceu”, diz pesquisador",
-      "summary": "Renato Flores Jr. afirma que o país, que vai às urnas neste domingo, 4 de outubro, está tão polarizado, que população não consegue sentir efeitos do crescimento econômico e do baixo desemprego.",
-      "source": "Público",
-      "date": "Sat, 03 Oct 2026 13:51:10 GMT",
-      "url": "https://www.publico.pt/2026/10/03/publico-brasil/noticia/prometido-clima-conciliacao-politica-brasil-nao-aconteceu-pesquisador-2190189",
-      "img": null,
-      "score": 0.76
-    },
-    {
       "id": "9487bd0a",
       "cat": "tecnologia",
       "title": "Antarctica’s Wind Farm Saves 122,000 Gallons of Diesel Over 15 Years Powering McMurdo Station",
@@ -88,17 +77,6 @@
       "date": "Fri, 02 Oct 2026 13:00:15 +0000",
       "url": "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Ross-Island-Wind-Farm-credit-retrived-from-Meridian-Energy-e1790930850358.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "a95469b4",
-      "cat": "tecnologia",
-      "title": "Chinese Commercial Reactor Achieves Nuclear Fusion with Clean Hydrogen-Boron Fuel",
-      "summary": "In a world first, Chinese engineers have achieved brief nuclear fusion with a much cleaner and abundant fuel supply in what an international review team called a “significant and valuable” advance in the field. Using hydrogen-boron as fuel, a state-backed energy company used a laser and radio waves ",
-      "source": "Good News Network",
-      "date": "Thu, 01 Oct 2026 15:30:26 +0000",
-      "url": "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/ENN-Groups-EXL-50U-spherical-device-which-successfully-achieved-hydrogen-boron-fusion-reactions-credit-handout.jpg",
       "score": 0.76
     },
     {
@@ -135,36 +113,36 @@
       "score": 0.76
     },
     {
-      "id": "e01f73d1",
+      "id": "5144db8f",
       "cat": "tecnologia",
-      "title": "Condenação do Manchester City ameaça pôr em xeque as relações entre Reino Unido e Emirados Árabes Unidos",
-      "summary": "Abu Dhabi diz ao Governo britânico que uma condenação muito dura pode alienar milhões de libras em investimento. Oposição acusa Burnham, que foi mayor de Manchester, de apoiar donos do clube.",
+      "title": "Primeiro foi a “abertura” e, com tempo, Vítor Matos quer tornar a Cucina di Toscani mais “italiana”",
+      "summary": "Um dos novos projectos no Porto fica no Lenscape. No restaurante, para já de cozinha “internacional”, o chef conta vir a introduzir aos poucos mais pratos da cozinha regional italiana.",
       "source": "Público",
-      "date": "Sat, 03 Oct 2026 14:58:22 GMT",
-      "url": "https://www.publico.pt/2026/10/03/mundo/noticia/condenacao-manchester-city-ameaca-xeque-relacoes-reino-unido-emirados-arabes-unidos-2190080",
+      "date": "Sat, 03 Oct 2026 20:10:00 GMT",
+      "url": "https://www.publico.pt/2026/10/03/fugas/noticia/abertura-tempo-vitor-matos-quer-tornar-cucina-di-toscani-italiana-2189660",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "5e51c496",
-      "cat": "geral",
-      "title": "Democratas ganham força e podem controlar o Senado",
-      "summary": "Reconquista do Senado era considerada difícil mas sondagens mostram candidatos democratas na frente em vários estados republicanos. Custo de vida e proximidade a Trump prejudicam republicanos.",
-      "source": "Observador",
-      "date": "Sat, 03 Oct 2026 16:21:47 +0100",
-      "url": "https://observador.pt/2026/10/03/eua-democratas-ganham-forca-em-estados-republicanos-e-controlo-do-senado-esta-mais-proximo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/05111435/39798355.jpg",
+      "id": "b771e04c",
+      "cat": "tecnologia",
+      "title": "“É o coração do bairro”: o primeiro grande centro comercial de Portugal nasceu há 50 anos",
+      "summary": "Centro Comercial da Portela, no concelho de Loures, faz 50 anos, e alguns dos primeiros lojistas continuam lá. Histórias do shopping em formato circular e “familiar” que é o centro de uma urbanização.",
+      "source": "Público",
+      "date": "Sat, 03 Oct 2026 19:19:00 GMT",
+      "url": "https://www.publico.pt/2026/10/03/local/noticia/coracao-bairro-centro-comercial-portugal-nasceu-ha-50-anos-2189835",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "e81f9b4d",
+      "id": "117deb52",
       "cat": "tecnologia",
-      "title": "16h. André Ventura vai ser o Presidente da CPI a Luís Neves",
-      "summary": "Líder do Chega diz que vai garantir a imparcialidade e promete não colocar obstáculos à intervenção dos restantes partidos. Ainda, Presidente da República defende mais investimento para o interior.",
+      "title": "Marc Márquez vence sprint e aproxima-se de Jorge Martín",
+      "summary": "Espanhol Marc Márquez (Ducati) venceu a corrida sprint do Grande Prémio do Japão de MotoGP e reduziu para sete pontos a desvantagem para o atual líder do Mundial, Jorge Martín (Aprilia).",
       "source": "Observador",
-      "date": "Sat, 03 Oct 2026 16:11:22 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2377/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 03 Oct 2026 19:16:54 +0100",
+      "url": "https://observador.pt/2026/10/03/marc-marquez-vence-sprint-no-japao-e-aproxima-se-de-jorge-martin/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/03093931/47877592.jpg",
       "score": 0.73
     },
     {
@@ -179,17 +157,6 @@
       "score": 0.73
     },
     {
-      "id": "957a42cc",
-      "cat": "tecnologia",
-      "title": "Fernando Alexandre: \"Poupança dá maior segurança e um futuro melhor\"",
-      "summary": "Ao longo da Semana Mundial do Investidor, a CMVM desafiou dez personalidades a falarem sobre literacia financeira. Fernando Alexandre, ministro da Educação, Ciência e Inovação, responde à pergunta: se pudesse voltar aos 18 anos, que conselho financeiro daria a si próprio?",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 03 Oct 2026 12:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/fernando-alexandre-poupanca-da-maior-seguranca-e-um-futuro-melhor",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-02-19-21-39-530569.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -201,14 +168,36 @@
       "score": 0.73
     },
     {
-      "id": "d931670e",
+      "id": "61eaa166",
       "cat": "tecnologia",
-      "title": "Vitória de Guimarães vence Fafe em encontro de preparação",
-      "summary": "O Vitória de Guimarães, da I Liga portuguesa de futebol, derrotou hoje o Fafe, da Liga 3, por 3-1, num jogo particular disputado na academia do clube vimaranense, à porta fechada.",
+      "title": "Movimento liderado por ex-candidato ao Vitória de Guimarães pede auditoria à SAD",
+      "summary": "O movimento ‘Vencer, sentir, crescer’ (VSC) propôs ao presidente da mesa da assembleia geral (MAG) do Vitória de Guimarães que se vote a realização de uma auditoria económico-financeira à SAD na próxima reunião magna, informou hoje, em comunicado.",
       "source": "RTP",
-      "date": "Sat, 03 Oct 2026 16:20:37 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/vitoria-de-guimaraes-vence-fafe-em-encontro-de-preparacao_d1769363",
+      "date": "Sat, 03 Oct 2026 22:42:09 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/movimento-liderado-por-ex-candidato-ao-vitoria-de-guimaraes-pede-auditoria-a-sad_d1769434",
       "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "c6843e73",
+      "cat": "tecnologia",
+      "title": "Villas-Boas espera boa resolução no caso de Cristiano Ronaldo",
+      "summary": "O presidente do FC Porto, André Villas-Boas, disse hoje esperar que possa ser encontrada uma boa resolução para o caso do abandono de Cristiano Ronaldo do estágio da seleção portuguesa de futebol.",
+      "source": "RTP",
+      "date": "Sat, 03 Oct 2026 22:41:32 +0100",
+      "url": "https://www.rtp.pt/noticias/fc-porto/villas-boas-espera-boa-resolucao-no-caso-de-cristiano-ronaldo_d1769433",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/af/af5f3795791a079fac2ed26b783df1ec?w=350&amp;q=50&amp;rect=0,0,5490,3010&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "eef6247a",
+      "cat": "desporto",
+      "title": "Central russo Aleksey Kovalchuk reforça voleibol do Sporting",
+      "summary": "O russo Aleksey Kovalchuk vai reforçar a equipa de voleibol do Sporting, anunciou hoje o clube campeão português, sem revelar a duração do vínculo com o central.",
+      "source": "RTP",
+      "date": "Sat, 03 Oct 2026 22:34:53 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/central-russo-aleksey-kovalchuk-reforca-voleibol-do-sporting_d1769430",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ae/aed3ce8c0ea7591c63c68ff8383edebe?w=350&amp;q=50&amp;rect=0,99,1024,561&amp;auto=format",
       "score": 0.73
     },
     {
@@ -223,17 +212,6 @@
       "score": 0.73
     },
     {
-      "id": "d8c30c1f",
-      "cat": "tecnologia",
-      "title": "Trump elogia Europa pela libertação do gasóleo",
-      "summary": "O Presidente norte-americano, Donald Trump, elogiou os países europeus pelo acordo alcançado pelo G7 para libertar 100 milhões de barris de petróleo e gasóleo com o objetivo de aliviar os preços dos combustíveis, e afastou a proibição das exportações de gasóleo. &#8220;A Europa foi ótima, pois vai l",
-      "source": "ECO",
-      "date": "Sat, 03 Oct 2026 08:32:52 +0000",
-      "url": "https://eco.sapo.pt/2026/10/03/trump-elogia-europa-pela-libertacao-do-gasoleo/",
-      "img": "https://eco.imgix.net/uploads/2026/08/cropped-47433074-scaled-3.jpg",
-      "score": 0.73
-    },
-    {
       "id": "053b8dcf",
       "cat": "tecnologia",
       "title": "Fan ‘Storms Out’ as Team Loses on TV, Only to Become Hero for Woman Stuck in Mud Chest-high",
@@ -242,6 +220,17 @@
       "date": "Sat, 03 Oct 2026 14:59:55 +0000",
       "url": "https://www.goodnewsnetwork.org/fan-storms-out-as-team-loses-and-finds-woman-stuck-in-mud/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/mudhole-rescue-by-Alastair-Cass-via-SWNS.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "50736e31",
+      "cat": "ciencia",
+      "title": "Hunter-Gatherers Don’t Have Trouble Sleeping: Why? and What Can We Learn from Them?",
+      "summary": "The BBC recently spoke with a sleep scientist who&#8217;s spent much of his career studying the sleeping habits of the last remaining, contactable, hunter-gatherer societies on Earth. What he found might surprise you—it might also help you get a few more Zzz. Much of modern society is sleep deprived",
+      "source": "Good News Network",
+      "date": "Fri, 02 Oct 2026 18:30:12 +0000",
+      "url": "https://www.goodnewsnetwork.org/hunter-gatherers-dont-have-trouble-sleeping-why-and-what-can-we-learn-from-them/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/03/Man-From-Hadza-in-Tanzania-David-Raichlen-of-USC-and-Brian-Wood-of-UCLA-e1790938298146.jpg",
       "score": 0.73
     },
     {
@@ -289,25 +278,47 @@
       "score": 0.73
     },
     {
-      "id": "77482490",
+      "id": "e75f2687",
       "cat": "tecnologia",
-      "title": "Presidente alemão condena extremismos políticos",
-      "summary": "O chefe de Estado alemão lamentou \"a intolerável demagogia política das forças extremistas, que dão rédea solta à sua sede de destruição\". \"Populistas de todos os quadrantes destabilizam democracia.\"",
+      "title": "Mulher de 102 anos morre em casa devido a cheias em Espanha",
+      "summary": "Autoridades resgataram 90 pessoas esta sexta-feira na cidade espanhola de Albacete. Catalunha sob alerta máximo devido a previsão de \"mini furacão mediterrâneo\" na madrugada de domingo.",
       "source": "Observador",
-      "date": "Sat, 03 Oct 2026 17:00:01 +0100",
-      "url": "https://observador.pt/2026/10/03/presidente-alemao-alerta-que-extremismos-politicos-poem-em-causa-a-unidade-do-pais/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1988:1116:nowe:0:103/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/03161533/47734859.jpg",
+      "date": "Sat, 03 Oct 2026 21:31:09 +0100",
+      "url": "https://observador.pt/2026/10/03/mulher-de-102-anos-morre-durante-cheias-em-espanha/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/09/18269595.jpg",
       "score": 0.7
     },
     {
-      "id": "94edd335",
+      "id": "2f28e6d1",
       "cat": "tecnologia",
-      "title": "André Ventura assume presidência da comissão de inquérito a Luís Neves",
-      "summary": "Líder do Chega disse também que o partido já entregou na Assembleia da República os nomes que integrarão a comissão e que serão sete.",
+      "title": "PCP acusa PS de estar a contribuir para a \"máscara\" do Chega",
+      "summary": "\"Quando o PS falha, o Chega está lá para dar a mão; quando o Chega faz birra, o PS está lá para dar suporte\", critica o líder do PCP. Paulo Raimundo lamenta, sobretudo, a atuação do PS face ao Governo",
+      "source": "Observador",
+      "date": "Sat, 03 Oct 2026 21:19:32 +0100",
+      "url": "https://observador.pt/2026/10/03/pcp-acusa-ps-de-estar-a-contribuir-para-a-mascara-do-chega/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/03210652/47875112.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "11a89286",
+      "cat": "tecnologia",
+      "title": "Filipa Calvão: “O Tribunal de Contas não pode sair de cena”",
+      "summary": "O TdC tem que ter um acompanhamento mais intenso sobre a certificação de mecanismos de controlo interno, “sob pena de o sistema ficar fragilizado”, diz a presidente. Desresponsabilização dos gestores públicos é outra grande preocupação.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 03 Oct 2026 15:36:48 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/andre-ventura-assume-presidencia-da-comissao-de-inquerito-a-luis-neves",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-23-19-05-09-529949.jpg",
+      "date": "Sat, 03 Oct 2026 21:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/o-tribunal-de-contas-nao-pode-sair-de-cena",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-01-17-45-00-530425.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "b0b70484",
+      "cat": "tecnologia",
+      "title": "Explicador: A defesa da UE",
+      "summary": "No discurso do Estado da União, Ursula Von der Leyen apresentou várias medidas no âmbito da defesa europeia, entre elas um mecanismo semelhante ao Artigo 4.º da NATO. O explicador da semana esclarece de que se trata.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 03 Oct 2026 18:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-a-defesa-da-ue",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-02-15-07-02-530493.jpg",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
