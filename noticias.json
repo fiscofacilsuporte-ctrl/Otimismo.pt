@@ -1,5 +1,5 @@
 {
-  "last_update": "02/10/2026 22:04 UTC",
+  "last_update": "03/10/2026 04:59 UTC",
   "total": 30,
   "news": [
     {
@@ -168,25 +168,14 @@
       "score": 0.76
     },
     {
-      "id": "564c0868",
+      "id": "1be1e405",
       "cat": "tecnologia",
-      "title": "Governante prevê floresta mais protegida no próximo verão",
-      "summary": "285 tratores e motorroçadoras novas para sapadores florestais. Secretário de Estado das Florestas confia em território mais protegido no verão de 2027.",
-      "source": "Observador",
-      "date": "Fri, 02 Oct 2026 22:32:54 +0100",
-      "url": "https://observador.pt/2026/10/02/incendios-governante-confiante-numa-floresta-mais-protegida-no-proximo-verao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/16104856/47779737.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "01ea0316",
-      "cat": "saude",
-      "title": "Ministra e MP divergem sobre falta de procuradores",
-      "summary": "Ministra da Justiça celebra reforço \"muito expressivo\" e recusa cursos extraordinários. Vice-procurador-geral pede número \"adequado\" de magistrados para investigações.",
-      "source": "Observador",
-      "date": "Fri, 02 Oct 2026 21:52:35 +0100",
-      "url": "https://observador.pt/2026/10/02/ministra-sublinha-numero-recorde-de-vagas-para-candidatos-a-procurador-mas-ministerio-publico-diz-que-nao-chegam/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/20192139/42660513.jpg",
+      "title": "Desgosto grande, ameaça maior",
+      "summary": "Foram tempos de esperança, até que chegaram as más notícias: : não é verdade que a democracia seja indispensável para o desenvolvimento económico e social, técnico e científico. Opinião de António Barreto",
+      "source": "Público",
+      "date": "Sat, 03 Oct 2026 04:50:00 GMT",
+      "url": "https://www.publico.pt/2026/10/03/opiniao/opiniao/desgosto-ameaca-maior-2190148",
+      "img": null,
       "score": 0.73
     },
     {
@@ -223,6 +212,17 @@
       "score": 0.73
     },
     {
+      "id": "31f82204",
+      "cat": "ciencia",
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+      "source": "BBC News",
+      "date": "Fri, 02 Oct 2026 23:37:13 GMT",
+      "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5343/live/bc021660-be5f-11f1-b36c-81ad410b221e.jpg",
+      "score": 0.73
+    },
+    {
       "id": "2db742b9",
       "cat": "tecnologia",
       "title": "SpaceX launches crew to ISS",
@@ -231,17 +231,6 @@
       "date": "Thu, 01 Oct 2026 16:32:17 GMT",
       "url": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/809f/live/1b9fbe20-bdb5-11f1-babe-4199b0e7ccea.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "3a86e486",
-      "cat": "tecnologia",
-      "title": "Scrapping pensions triple lock 'morally wrong', says union boss",
-      "summary": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister.",
-      "source": "BBC News",
-      "date": "Tue, 29 Sep 2026 09:10:03 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3865/live/f2dc70f0-bbd4-11f1-9dd5-e33ded893e86.png",
       "score": 0.73
     },
     {
@@ -267,47 +256,58 @@
       "score": 0.73
     },
     {
-      "id": "5f21b46b",
+      "id": "f47036c9",
       "cat": "tecnologia",
-      "title": "Outubro arranca com novas regras para tuk-tuks no Porto",
-      "summary": "Tuk-tuks e veículos pesados de passageiros em serviço ocasional têm novas regras relativamente a locais de tomada e largada de passageiros. Zona de Restrição da cidade perde pontos de paragem.",
+      "title": "O Grupo do Leão tinha cinco “leoas”",
+      "summary": "Se ainda não eram do grupo, não podiam estar no famoso retrato que Columbano Bordalo Pinheiro fez do Grupo do Leão. Até parece simples. Opinião de Bárbara Reis",
       "source": "Público",
-      "date": "Fri, 02 Oct 2026 20:55:54 GMT",
-      "url": "https://www.publico.pt/2026/10/02/local/noticia/outubro-arranca-novas-regras-tuktuks-porto-2190127",
+      "date": "Sat, 03 Oct 2026 04:40:00 GMT",
+      "url": "https://www.publico.pt/2026/10/03/culturaipsilon/opiniao/grupo-leao-cinco-leoas-2190144",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "14245cac",
+      "id": "8d148730",
       "cat": "tecnologia",
-      "title": "Liga das Nações: França falha pleno na estreia de Zidane em casa ante a Itália",
-      "summary": "Michael Olise voltou a marcar, mas Bastoni aproveitou erro francês para empatar. Kevin De Bruyne e Lukaku dão triunfo (3-0) à Bélgica ante a Turquia.",
+      "title": "O propósito neoliberal e a insensibilidade social de Luís Montenegro",
+      "summary": "A legislação de Assunção Cristas, aprovada em 2012, durante o Governo de Pedro Passos Coelho e Paulo Portas, foi a primeira adesão ao ideário neoliberal e à liberalização do mercado do arrendamento. Opinião de São José Almeida",
       "source": "Público",
-      "date": "Fri, 02 Oct 2026 20:51:26 GMT",
-      "url": "https://www.publico.pt/2026/10/02/desporto/noticia/liga-nacoes-franca-falha-pleno-estreia-zidane-casa-italia-2190147",
+      "date": "Sat, 03 Oct 2026 04:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/03/politica/opiniao/proposito-neoliberal-insensibilidade-social-luis-montenegro-2190088",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "ad51f002",
+      "id": "afcbc541",
       "cat": "tecnologia",
-      "title": "Hoje não vou à escola",
-      "summary": "Estou gorda, mas depois penso que não, não estou gorda, só preciso de comer menos açúcar e comidas processadas, o que é que eu vou vestir para a escola, tenho avaliações hoje ou não, algum teste. Crónica de Cláudia Lucas Chéu",
-      "source": "Público",
-      "date": "Fri, 02 Oct 2026 20:05:00 GMT",
-      "url": "https://www.publico.pt/2026/10/02/p3/cronica/hoje-nao-vou-escola-2189988",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "b60a6973",
-      "cat": "tecnologia",
-      "title": "22h. Mãe das gémeas alega ter direito a tudo o que recebeu",
-      "summary": "Daniela Martins assegura que não cometeu nenhuma ilegalidade, e que tudo o que recebeu para as filhas estava dentro das normas. E ainda, a ameaça de Trump aos aliados pode ter impacto na Rússia.",
+      "title": "Presidenciais no Brasil: uma primeira volta previsível?",
+      "summary": "As sondagens mostram que Lula da Silva e Flávio Bolsonaro devem passar à segunda volta das presidenciais brasileiras. Mas poderá haver alguma surpresa? Pedro Benevides é o convidado.",
       "source": "Observador",
-      "date": "Fri, 02 Oct 2026 22:13:32 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1876/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 03 Oct 2026 05:03:34 +0100",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/presidenciais-no-brasil-uma-primeira-volta-previsivel/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/23154139/770-podcast-a-historia-do-dia-com-luis-soares.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "1aa7243d",
+      "cat": "sociedade",
+      "title": "O caso das gémeas mostra a importância de um telefone no SNS",
+      "summary": "Quem tiver nascido nas famílias certas, quem tiver estudado nas escolas certas, quem tiver os amigos certos e quem tiver entrado no partido certo, terá na agenda o número certo de telemóvel e salva-se",
+      "source": "Observador",
+      "date": "Sat, 03 Oct 2026 00:25:51 +0100",
+      "url": "https://observador.pt/opiniao/o-caso-das-gemeas-mostra-a-importancia-de-um-telefone-no-sns/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2124%3A2124%3Anowe%3A955%3A75%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151538%2Fjporfirio-retratos-redacao-2026-01-81-scaled.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "b606a2a3",
+      "cat": "tecnologia",
+      "title": "O Ocidente que resistiu a bordo de um Boeing",
+      "summary": "Os israelitas a bordo, com a indispensável ajuda do comandante, perceberam que ou tratavam do assunto ou o assunto trataria deles. Já haverá \"activistas\" a exigir a sua punição.",
+      "source": "Observador",
+      "date": "Sat, 03 Oct 2026 00:24:38 +0100",
+      "url": "https://observador.pt/opiniao/o-ocidente-que-resistiu-a-bordo-de-um-boeing/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F09%2F17060954%2Fcolunista_agoncalves_467.png",
       "score": 0.7
     },
     {
