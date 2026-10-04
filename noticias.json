@@ -1,5 +1,5 @@
 {
-  "last_update": "04/10/2026 05:32 UTC",
+  "last_update": "04/10/2026 12:11 UTC",
   "total": 30,
   "news": [
     {
@@ -58,6 +58,50 @@
       "score": 0.79
     },
     {
+      "id": "2817a02a",
+      "cat": "tecnologia",
+      "title": "Max Verstappen voltou a ser feliz na Malásia, Antonelli reforça liderança do Mundial",
+      "summary": "Primeiro triunfo do tetracampeão de Fórmula 1 em 2026, à 16.ª corrida da época. Abandono de Russel deixa líder mais confortável. Hamilton foi de 2.º a 17.º para terminar no 3.º lugar.",
+      "source": "Público",
+      "date": "Sun, 04 Oct 2026 10:46:54 GMT",
+      "url": "https://www.publico.pt/2026/10/04/desporto/noticia/max-verstappen-voltou-feliz-malasia-antonelli-reforca-lideranca-mundial-2190238",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "c1f6158c",
+      "cat": "tecnologia",
+      "title": "Coligação do primeiro-ministo ganha eleições na Letónia com maioria reforçada",
+      "summary": "A Lista Unida, de Andris Kulbergas, elegeu 42 dos 100 deputados do Parlamento, o melhor resultado desde a recuperação da independência do país em 1991.",
+      "source": "Público",
+      "date": "Sun, 04 Oct 2026 10:46:31 GMT",
+      "url": "https://www.publico.pt/2026/10/04/mundo/noticia/coligacao-primeiroministo-ganha-eleicoes-letonia-maioria-reforcada-2190244",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "59b301fa",
+      "cat": "tecnologia",
+      "title": "Maria Luís Albuquerque: \"Investir não é procurar ganhos rápidos, é fazer escolhas conscientes\"",
+      "summary": "Ao longo da Semana Mundial do Investidor, a CMVM desafiou dez personalidades a falarem sobre literacia financeira. Maria Luís Albuquerque, comissária europeia dos serviços financeiros e União da Poupança e dos Investimentos, responde à questão: o que diria a alguém que tem medo de investir?",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 04 Oct 2026 12:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/maria-luis-albuquerque-investir-nao-e-procurar-ganhos-rapidos-e-fazer-escolhas-conscientes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-02-10-11-48-530467.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "0b86c3ec",
+      "cat": "cultura",
+      "title": "Good News in History, October 4",
+      "summary": "22 years ago today, SpaceShipOne, funded by Microsoft’s Paul Allen, became the first private manned spacecraft to fly into sub-orbital space. That same year, its innovative design won the $10 million Ansari X Prize. Piloted and returned to Earth by Mike Melvill, he became the first-ever licensed US ",
+      "source": "Good News Network",
+      "date": "Sun, 04 Oct 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events061004/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/10/SpaceShipOne-after-first-private-space-launch-2004-cc-D-Ramey-Logan.jpg",
+      "score": 0.76
+    },
+    {
       "id": "9487bd0a",
       "cat": "tecnologia",
       "title": "Antarctica’s Wind Farm Saves 122,000 Gallons of Diesel Over 15 Years Powering McMurdo Station",
@@ -102,47 +146,58 @@
       "score": 0.76
     },
     {
-      "id": "d6d2cb9e",
+      "id": "2351c910",
       "cat": "tecnologia",
-      "title": "5h. Brasil. Mais de 158 milhões chamados hoje às urnas",
-      "summary": "Lula da Silva procura a reeleição aos 80 anos, enquanto o senador Flávio Bolsonaro tenta devolver o poder ao campo bolsonarista. Ainda, em Espanha, Valência está a ser palco de protestos.",
-      "source": "Observador",
-      "date": "Sun, 04 Oct 2026 05:15:03 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1570/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Portugal já foi terra de elefantes. Agora quer continuar a ser do lince e, quem sabe, do quebra-ossos",
+      "summary": "No livro Portugal Selvagem: Extinções e Regressos relembram-se espécies que desapareceram e outras que regressaram ou mostram sinais de poder vir a fazê-lo, com alertas à sua fragilidade.",
+      "source": "Público",
+      "date": "Sun, 04 Oct 2026 09:02:00 GMT",
+      "url": "https://www.publico.pt/2026/10/04/azul/noticia/portugal-ja-terra-elefantes-quer-continuar-lince-sabe-quebraossos-2189552",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "c257493a",
+      "id": "4380200f",
       "cat": "tecnologia",
-      "title": "2h. Flydubai. Netanyahu convidou piloto a visitar Israel",
-      "summary": "O primeiro-ministro israelita convidou o piloto indiano na qualidade de convidado de honra. Ainda, o responsável pela segurança da OpenAI demitiu-se.",
+      "title": "Max teve a pior partida mas ainda foi a tempo de partir tudo",
+      "summary": "Numa corrida que começou 1h30 depois do previsto por causa da chuva, Max Verstappen foi superado pelos Mercedes no arranque mas deu a volta ao texto e ganhou Grande Prémio do Bahrain dez meses depois.",
       "source": "Observador",
-      "date": "Sun, 04 Oct 2026 02:12:08 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2430/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sun, 04 Oct 2026 11:22:21 +0100",
+      "url": "https://observador.pt/2026/10/04/max-teve-a-pior-partida-mas-ainda-foi-a-tempo-de-partir-tudo-verstappen-consegue-primeira-vitoria-do-ano-e-antonelli-volta-a-ganhar/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:169/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/04110721/verstappen.jpg",
       "score": 0.73
     },
     {
-      "id": "e977fa3f",
+      "id": "5494b589",
       "cat": "tecnologia",
-      "title": "Não é fácil ser um europeu médio",
-      "summary": "O macaco que singra na Europa pode até ganhar uma carreira universitária mas essa esforçada conquista vem mais do teatro de variedades do que das avenidas largas da emancipação.",
+      "title": "Annie Silva Pais: do luxo às senhas de racionamento",
+      "summary": "Vivia na melhor zona de Havana, frequentava festas em embaixadas e pertencia à elite com acesso a luxos impensáveis para os cubanos. Mas escolheu juntar-se à revolução cubana, com Fidel e Che.",
       "source": "Observador",
-      "date": "Sun, 04 Oct 2026 00:22:26 +0100",
-      "url": "https://observador.pt/opiniao/nao-e-facil-ser-um-europeu-medio/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1941%3A1940%3Anowe%3A488%3A542%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170600%2Ftiago-cavaco.jpg",
+      "date": "Sun, 04 Oct 2026 10:52:52 +0100",
+      "url": "https://observador.pt/especiais/das-festas-nas-embaixadas-as-senhas-de-racionamento-a-portuguesa-annie-silva-pais-juntou-se-a-revolucao-cubana/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2276:1280:nowe:142:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/02153535/1280especial-3.jpg",
       "score": 0.73
     },
     {
-      "id": "95eb261f",
+      "id": "88436b71",
       "cat": "tecnologia",
-      "title": "O ano dos IPO cripto não aconteceu. Mas há uma empresa a querer \"furar\" o pessimismo",
-      "summary": "A Blockchain.com estará a preparar um IPO já para este ano, apesar de as mais recentes entradas em bolsa do setor terem falhado em convencer os investidores. A recuperação da bitcoin pode ser uma janela de oportunidade para a empresa.",
+      "title": "O \"glamour parisiense\" de uma joalharia centenária no Rossio",
+      "summary": "Entre pratarias, anéis de noivado e relógios, a Ferreira Marques faz 100 anos com a quarta geração à frente da joalharia, mas com futuro incerto pela pressão das rendas.",
+      "source": "Observador",
+      "date": "Sun, 04 Oct 2026 10:30:25 +0100",
+      "url": "https://observador.pt/especiais/relogios-de-150-a-22-mil-euros-no-cenario-de-james-bond-inspirado-no-glamour-parisiense-os-100-anos-da-joalharia-ferreira-marques-no-rossio/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4036:2263:nowe:60:83/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/02112728/dventura-joalharia-ferreira-marques-26-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d20c4c3a",
+      "cat": "economia",
+      "title": "Da sede às regras na habitação, o que marcou o 1.º ano de Santos Pereira à frente do Banco de Portugal",
+      "summary": "Álvaro Santos Pereira assumiu a liderança do Banco de Portugal há um ano e tem vindo a fazer mudanças na instituição, ao alterar os planos para a sede e fechar um acordo para a reforma do antecessor, Mário Centeno.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 03 Oct 2026 17:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/o-ano-dos-ipo-cripto-nao-aconteceu-mas-ha-uma-empresa-a-querer-furar-o-pessimismo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-25-09-19-19-525648.jpg",
+      "date": "Sun, 04 Oct 2026 09:57:23 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/da-sede-as-regras-na-habitacao-o-que-marcou-o-1-ano-de-santos-pereira-a-frente-do-banco-de-portugal",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-09-39-00-528450.jpg",
       "score": 0.73
     },
     {
@@ -157,6 +212,28 @@
       "score": 0.73
     },
     {
+      "id": "dfb7bb84",
+      "cat": "tecnologia",
+      "title": "Max Verstappen vence GP do Bahrain de Fórmula 1",
+      "summary": "O piloto neerlandês Max Verstappen (Red Bull) venceu hoje o Grande Prémio do Bahrain de Fórmula 1, 16.ª ronda da temporada, disputado no circuito de Sepang, na Malásia.",
+      "source": "RTP",
+      "date": "Sun, 04 Oct 2026 12:53:03 +0100",
+      "url": "https://www.rtp.pt/noticias/formula-1/max-verstappen-vence-gp-do-bahrain-de-formula-1_d1769478",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "c342e061",
+      "cat": "tecnologia",
+      "title": "Jorge Jesus e Bruno Fernandes apelam à união",
+      "summary": "Em entrevista exclusiva à RTP Antena 1, Jorge Jesus é taxativo e assume &quot;que não quer ser um fator de desestabilização&quot;. Isto depois de alguns assobios na chegada ao Porto após a vitória na Dinamarca.",
+      "source": "RTP",
+      "date": "Sun, 04 Oct 2026 11:37:52 +0100",
+      "url": "https://www.rtp.pt/noticias/ligadasnacoes/jorge-jesus-e-bruno-fernandes-apelam-a-uniao_d1769471",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/71/715c736f9974f75ba9b35fae0666aab4?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "61eaa166",
       "cat": "tecnologia",
       "title": "Movimento liderado por ex-candidato ao Vitória de Guimarães pede auditoria à SAD",
@@ -168,47 +245,47 @@
       "score": 0.73
     },
     {
-      "id": "c6843e73",
+      "id": "82b2cab2",
+      "cat": "cultura",
+      "title": "Da sede às regras na habitação, de Centeno à compra de ações, o ano acelerado de Santos Pereira no Banco de Portugal",
+      "summary": "Álvaro Santos Pereira assumiu a liderança do Banco de Portugal há um ano e tem vindo a fazer mudanças na instituição, mudou os planos para a sede, fechou um acordo para a reforma do antecessor, Mário Centeno, dedicou uma particular atenção à banca no crédito à habitação, mas também ficou com uma &#8",
+      "source": "ECO",
+      "date": "Sun, 04 Oct 2026 09:12:08 +0000",
+      "url": "https://eco.sapo.pt/2026/10/04/da-sede-as-regras-na-habitacao-de-centeno-a-compra-de-acoes-o-ano-acelerado-de-santos-pereira-no-banco-de-portugal/",
+      "img": "https://eco.imgix.net/uploads/2026/07/retratos-alvaro-santos-pereira-2000x1125-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "29582a59",
       "cat": "tecnologia",
-      "title": "Villas-Boas espera boa resolução no caso de Cristiano Ronaldo",
-      "summary": "O presidente do FC Porto, André Villas-Boas, disse hoje esperar que possa ser encontrada uma boa resolução para o caso do abandono de Cristiano Ronaldo do estágio da seleção portuguesa de futebol.",
-      "source": "RTP",
-      "date": "Sat, 03 Oct 2026 22:41:32 +0100",
-      "url": "https://www.rtp.pt/noticias/fc-porto/villas-boas-espera-boa-resolucao-no-caso-de-cristiano-ronaldo_d1769433",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/af/af5f3795791a079fac2ed26b783df1ec?w=350&amp;q=50&amp;rect=0,0,5490,3010&amp;auto=format",
+      "title": "Mais de 158 milhões de brasileiros são chamados às urnas para as eleições gerais",
+      "summary": "Mais de 158 milhões de brasileiros são chamados este domingo às urnas para as eleições gerais do país, em que se procura também eleger o próximo Presidente, num escrutínio altamente polarizado entre Lula da Silva e Flávio Bolsonaro. As eleições, cujo voto é obrigatório no Brasil, pretendem eleger go",
+      "source": "ECO",
+      "date": "Sun, 04 Oct 2026 08:42:28 +0000",
+      "url": "https://eco.sapo.pt/2026/10/04/mais-de-158-milhoes-de-brasileiros-sao-chamados-as-urnas-para-as-eleicoes-gerais/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47879794-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "eef6247a",
-      "cat": "desporto",
-      "title": "Central russo Aleksey Kovalchuk reforça voleibol do Sporting",
-      "summary": "O russo Aleksey Kovalchuk vai reforçar a equipa de voleibol do Sporting, anunciou hoje o clube campeão português, sem revelar a duração do vínculo com o central.",
-      "source": "RTP",
-      "date": "Sat, 03 Oct 2026 22:34:53 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/central-russo-aleksey-kovalchuk-reforca-voleibol-do-sporting_d1769430",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ae/aed3ce8c0ea7591c63c68ff8383edebe?w=350&amp;q=50&amp;rect=0,99,1024,561&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "053b8dcf",
+      "id": "8a52f2db",
       "cat": "tecnologia",
-      "title": "Fan ‘Storms Out’ as Team Loses on TV, Only to Become Hero for Woman Stuck in Mud Chest-high",
-      "summary": "Just after Alastair Cass stormed out of his house because his football team lost he become a hero for a woman in dire need of a win—to save her life. The 40-year-old left home in &#8220;frustration&#8221; after his beloved Arsenal team was hammered by Brighton 3-0. When he got outside, he heard a wo",
-      "source": "Good News Network",
-      "date": "Sat, 03 Oct 2026 14:59:55 +0000",
-      "url": "https://www.goodnewsnetwork.org/fan-storms-out-as-team-loses-and-finds-woman-stuck-in-mud/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/mudhole-rescue-by-Alastair-Cass-via-SWNS.jpeg",
+      "title": "Locais de voto e horários: o que os eleitores brasileiros em Portugal precisam hoje de saber",
+      "summary": "Mais de 134.000 brasileiros recenseados em Portugal deverão votar obrigatoriamente nas eleições presidenciais deste domingo, 04 de outubro, nas mesas de voto disponíveis no país, que estarão abertas das 08 horas às 17 horas. De acordo com a legislação brasileira, citada no &#8216;site&#8217; do Trib",
+      "source": "ECO",
+      "date": "Sun, 04 Oct 2026 05:45:52 +0000",
+      "url": "https://eco.sapo.pt/2026/10/04/locais-de-voto-e-horarios-o-que-os-eleitores-brasileiros-em-portugal-precisam-hoje-de-saber/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-pexels-jonathanborba-15831910-1-scaled-2.jpg",
       "score": 0.73
     },
     {
-      "id": "50736e31",
-      "cat": "ciencia",
-      "title": "Hunter-Gatherers Don’t Have Trouble Sleeping: Why? and What Can We Learn from Them?",
-      "summary": "The BBC recently spoke with a sleep scientist who&#8217;s spent much of his career studying the sleeping habits of the last remaining, contactable, hunter-gatherer societies on Earth. What he found might surprise you—it might also help you get a few more Zzz. Much of modern society is sleep deprived",
+      "id": "7f585154",
+      "cat": "tecnologia",
+      "title": "AI Chatbots Will Never Replace Advice From Elders, Say Seven of 10 in New Poll",
+      "summary": "More than seven in 10 Brits believe AI will never replace advice from their elders. A study of 2,000 adults found while 21 percent use these artificial intelligence tools for help several times a week, 92 percent believe some forms of wisdom can only be gained through lived experience. In fact, 71 p",
       "source": "Good News Network",
-      "date": "Fri, 02 Oct 2026 18:30:12 +0000",
-      "url": "https://www.goodnewsnetwork.org/hunter-gatherers-dont-have-trouble-sleeping-why-and-what-can-we-learn-from-them/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/03/Man-From-Hadza-in-Tanzania-David-Raichlen-of-USC-and-Brian-Wood-of-UCLA-e1790938298146.jpg",
+      "date": "Sun, 04 Oct 2026 11:00:36 +0000",
+      "url": "https://www.goodnewsnetwork.org/ai-chatbots-will-never-replace-advice-from-elders-say-seven-of-10-in-new-poll/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Senior-Actress-Sue-Johnston-for-Maltesers-SWNS.jpeg",
       "score": 0.73
     },
     {
@@ -254,83 +331,6 @@
       "url": "https://reasonstobecheerful.world/home-for-denver-homeless-college-students/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/shutterstock_1440479351-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "593fee6f",
-      "cat": "tecnologia",
-      "title": "Como viver num mundo sem regras?",
-      "summary": "A Putin, que perde todos os dias, só resta a escalada. A questão é saber até onde irá no seu desespero. Análise de Teresa de Sousa",
-      "source": "Público",
-      "date": "Sun, 04 Oct 2026 05:00:00 GMT",
-      "url": "https://www.publico.pt/2026/10/04/mundo/analise/viver-mundo-regras-2190211",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "efbaf577",
-      "cat": "tecnologia",
-      "title": "Testemunhas como nós",
-      "summary": "Benjamin Netanyahu, o seu ministro da Cultura e outros membros do Governo israelita acusaram Yuval Abraham e Rachel Szor de traição. Editorial deSónia Sapage",
-      "source": "Público",
-      "date": "Sun, 04 Oct 2026 04:30:00 GMT",
-      "url": "https://www.publico.pt/2026/10/04/opiniao/editorial/testemunhas-2190126",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "16a1b5b8",
-      "cat": "cultura",
-      "title": "Cartas ao director",
-      "summary": "",
-      "source": "Público",
-      "date": "Sun, 04 Oct 2026 04:00:00 GMT",
-      "url": "https://www.publico.pt/2026/10/04/opiniao/opiniao/cartas-director-2190192",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "11a89286",
-      "cat": "tecnologia",
-      "title": "Filipa Calvão: “O Tribunal de Contas não pode sair de cena”",
-      "summary": "O TdC tem que ter um acompanhamento mais intenso sobre a certificação de mecanismos de controlo interno, “sob pena de o sistema ficar fragilizado”, diz a presidente. Desresponsabilização dos gestores públicos é outra grande preocupação.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 03 Oct 2026 21:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/o-tribunal-de-contas-nao-pode-sair-de-cena",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-01-17-45-00-530425.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "b0b70484",
-      "cat": "tecnologia",
-      "title": "Explicador: A defesa da UE",
-      "summary": "No discurso do Estado da União, Ursula Von der Leyen apresentou várias medidas no âmbito da defesa europeia, entre elas um mecanismo semelhante ao Artigo 4.º da NATO. O explicador da semana esclarece de que se trata.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 03 Oct 2026 18:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-a-defesa-da-ue",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-02-15-07-02-530493.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
     }
   ]
 }
