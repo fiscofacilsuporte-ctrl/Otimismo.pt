@@ -1,5 +1,5 @@
 {
-  "last_update": "03/10/2026 20:56 UTC",
+  "last_update": "04/10/2026 05:32 UTC",
   "total": 30,
   "news": [
     {
@@ -23,17 +23,6 @@
       "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-487000750-2.jpg",
       "score": 0.82
-    },
-    {
-      "id": "37348870",
-      "cat": "tecnologia",
-      "title": "FC Porto conquista Supertaça feminina de voleibol",
-      "summary": "“Azuis e brancas” venceram o Sp. Braga por 3-1, em Santo Tirso, e arrebataram o primeiro troféu depois do fim da parceria com a AJM.",
-      "source": "Público",
-      "date": "Sat, 03 Oct 2026 19:04:04 GMT",
-      "url": "https://www.publico.pt/2026/10/03/desporto/noticia/fc-porto-conquista-supertaca-feminina-voleibol-2190228",
-      "img": null,
-      "score": 0.79
     },
     {
       "id": "a0107873",
@@ -113,36 +102,36 @@
       "score": 0.76
     },
     {
-      "id": "5144db8f",
+      "id": "d6d2cb9e",
       "cat": "tecnologia",
-      "title": "Primeiro foi a “abertura” e, com tempo, Vítor Matos quer tornar a Cucina di Toscani mais “italiana”",
-      "summary": "Um dos novos projectos no Porto fica no Lenscape. No restaurante, para já de cozinha “internacional”, o chef conta vir a introduzir aos poucos mais pratos da cozinha regional italiana.",
-      "source": "Público",
-      "date": "Sat, 03 Oct 2026 20:10:00 GMT",
-      "url": "https://www.publico.pt/2026/10/03/fugas/noticia/abertura-tempo-vitor-matos-quer-tornar-cucina-di-toscani-italiana-2189660",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "b771e04c",
-      "cat": "tecnologia",
-      "title": "“É o coração do bairro”: o primeiro grande centro comercial de Portugal nasceu há 50 anos",
-      "summary": "Centro Comercial da Portela, no concelho de Loures, faz 50 anos, e alguns dos primeiros lojistas continuam lá. Histórias do shopping em formato circular e “familiar” que é o centro de uma urbanização.",
-      "source": "Público",
-      "date": "Sat, 03 Oct 2026 19:19:00 GMT",
-      "url": "https://www.publico.pt/2026/10/03/local/noticia/coracao-bairro-centro-comercial-portugal-nasceu-ha-50-anos-2189835",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "117deb52",
-      "cat": "tecnologia",
-      "title": "Marc Márquez vence sprint e aproxima-se de Jorge Martín",
-      "summary": "Espanhol Marc Márquez (Ducati) venceu a corrida sprint do Grande Prémio do Japão de MotoGP e reduziu para sete pontos a desvantagem para o atual líder do Mundial, Jorge Martín (Aprilia).",
+      "title": "5h. Brasil. Mais de 158 milhões chamados hoje às urnas",
+      "summary": "Lula da Silva procura a reeleição aos 80 anos, enquanto o senador Flávio Bolsonaro tenta devolver o poder ao campo bolsonarista. Ainda, em Espanha, Valência está a ser palco de protestos.",
       "source": "Observador",
-      "date": "Sat, 03 Oct 2026 19:16:54 +0100",
-      "url": "https://observador.pt/2026/10/03/marc-marquez-vence-sprint-no-japao-e-aproxima-se-de-jorge-martin/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/03093931/47877592.jpg",
+      "date": "Sun, 04 Oct 2026 05:15:03 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1570/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "c257493a",
+      "cat": "tecnologia",
+      "title": "2h. Flydubai. Netanyahu convidou piloto a visitar Israel",
+      "summary": "O primeiro-ministro israelita convidou o piloto indiano na qualidade de convidado de honra. Ainda, o responsável pela segurança da OpenAI demitiu-se.",
+      "source": "Observador",
+      "date": "Sun, 04 Oct 2026 02:12:08 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2430/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "e977fa3f",
+      "cat": "tecnologia",
+      "title": "Não é fácil ser um europeu médio",
+      "summary": "O macaco que singra na Europa pode até ganhar uma carreira universitária mas essa esforçada conquista vem mais do teatro de variedades do que das avenidas largas da emancipação.",
+      "source": "Observador",
+      "date": "Sun, 04 Oct 2026 00:22:26 +0100",
+      "url": "https://observador.pt/opiniao/nao-e-facil-ser-um-europeu-medio/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1941%3A1940%3Anowe%3A488%3A542%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170600%2Ftiago-cavaco.jpg",
       "score": 0.73
     },
     {
@@ -198,17 +187,6 @@
       "date": "Sat, 03 Oct 2026 22:34:53 +0100",
       "url": "https://www.rtp.pt/noticias/outras-modalidades/central-russo-aleksey-kovalchuk-reforca-voleibol-do-sporting_d1769430",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/ae/aed3ce8c0ea7591c63c68ff8383edebe?w=350&amp;q=50&amp;rect=0,99,1024,561&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "84e17d99",
-      "cat": "economia",
-      "title": "Prova dos 9. Salários subiram mesmo 15% nos últimos dois anos como diz Montenegro?",
-      "summary": "Numa altura em que o custo de vida preocupa os portugueses (tema que até já foi debatido no Parlamento), o primeiro-ministro assinalou que, apesar de &#8220;ninguém falar disso&#8221;, os salários líquidos aumentaram cerca de 15% nos últimos dois anos. O mercado de trabalho tem dados provas contínua",
-      "source": "ECO",
-      "date": "Sat, 03 Oct 2026 10:15:52 +0000",
-      "url": "https://eco.sapo.pt/2026/10/03/prova-dos-9-salarios-subiram-mesmo-15-nos-ultimos-dois-anos-como-diz-montenegro/",
-      "img": "https://eco.imgix.net/uploads/2017/11/cropped-prova_9_manchete-01-01-7-scaled.png",
       "score": 0.73
     },
     {
@@ -278,25 +256,36 @@
       "score": 0.73
     },
     {
-      "id": "e75f2687",
+      "id": "593fee6f",
       "cat": "tecnologia",
-      "title": "Mulher de 102 anos morre em casa devido a cheias em Espanha",
-      "summary": "Autoridades resgataram 90 pessoas esta sexta-feira na cidade espanhola de Albacete. Catalunha sob alerta máximo devido a previsão de \"mini furacão mediterrâneo\" na madrugada de domingo.",
-      "source": "Observador",
-      "date": "Sat, 03 Oct 2026 21:31:09 +0100",
-      "url": "https://observador.pt/2026/10/03/mulher-de-102-anos-morre-durante-cheias-em-espanha/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/09/18269595.jpg",
+      "title": "Como viver num mundo sem regras?",
+      "summary": "A Putin, que perde todos os dias, só resta a escalada. A questão é saber até onde irá no seu desespero. Análise de Teresa de Sousa",
+      "source": "Público",
+      "date": "Sun, 04 Oct 2026 05:00:00 GMT",
+      "url": "https://www.publico.pt/2026/10/04/mundo/analise/viver-mundo-regras-2190211",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "2f28e6d1",
+      "id": "efbaf577",
       "cat": "tecnologia",
-      "title": "PCP acusa PS de estar a contribuir para a \"máscara\" do Chega",
-      "summary": "\"Quando o PS falha, o Chega está lá para dar a mão; quando o Chega faz birra, o PS está lá para dar suporte\", critica o líder do PCP. Paulo Raimundo lamenta, sobretudo, a atuação do PS face ao Governo",
-      "source": "Observador",
-      "date": "Sat, 03 Oct 2026 21:19:32 +0100",
-      "url": "https://observador.pt/2026/10/03/pcp-acusa-ps-de-estar-a-contribuir-para-a-mascara-do-chega/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/03210652/47875112.jpg",
+      "title": "Testemunhas como nós",
+      "summary": "Benjamin Netanyahu, o seu ministro da Cultura e outros membros do Governo israelita acusaram Yuval Abraham e Rachel Szor de traição. Editorial deSónia Sapage",
+      "source": "Público",
+      "date": "Sun, 04 Oct 2026 04:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/04/opiniao/editorial/testemunhas-2190126",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "16a1b5b8",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
+      "source": "Público",
+      "date": "Sun, 04 Oct 2026 04:00:00 GMT",
+      "url": "https://www.publico.pt/2026/10/04/opiniao/opiniao/cartas-director-2190192",
+      "img": null,
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
