@@ -1,5 +1,5 @@
 {
-  "last_update": "04/10/2026 21:12 UTC",
+  "last_update": "05/10/2026 05:15 UTC",
   "total": 30,
   "news": [
     {
@@ -45,28 +45,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2c/live/87a986d0-bcdb-11f1-afec-ebbb2634c4cd.png",
       "score": 0.79
-    },
-    {
-      "id": "af31b646",
-      "cat": "ciencia",
-      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
-      "summary": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron can preserve a stable magnetic signal, potentially acting like a microscopic fossi",
-      "source": "ScienceDaily",
-      "date": "Sat, 03 Oct 2026 09:12:14 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
-      "img": "https://www.sciencedaily.com/images/1920/lunar-topography-and-magnetic-anomalies.webp",
-      "score": 0.79
-    },
-    {
-      "id": "8f341fab",
-      "cat": "tecnologia",
-      "title": "Trump escolhe director de inteligência como responsável pela IA e cria “Força de Superinteligência”",
-      "summary": "Donald Trump junta serviços de informações, Pentágono e regulador numa “Força de Superinteligência”. Surge dias depois de um acordo voluntário de segurança com seis líderes do sector.",
-      "source": "Público",
-      "date": "Sun, 04 Oct 2026 19:18:59 GMT",
-      "url": "https://www.publico.pt/2026/10/04/enter/noticia/trump-escolhe-director-inteligencia-responsavel-ia-cria-forca-superinteligencia-2190267",
-      "img": null,
-      "score": 0.76
     },
     {
       "id": "5ad991f7",
@@ -124,47 +102,25 @@
       "score": 0.76
     },
     {
-      "id": "ab92a170",
+      "id": "803e6cf4",
       "cat": "tecnologia",
-      "title": "Quatro eleitores morrem após passarem mal em locais de votação no Brasil",
-      "summary": "Todos eles terão morrido de causas naturais, embora em Pernambuco, a investigação está em curso. O Incidente obrigou à mudança da assembleia de voto para outra sala.",
-      "source": "Público",
-      "date": "Sun, 04 Oct 2026 20:13:59 GMT",
-      "url": "https://www.publico.pt/2026/10/04/mundo/noticia/quatro-eleitores-morrem-apos-passarem-mal-locais-votacao-brasil-2190283",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "103ec86c",
-      "cat": "desporto",
-      "title": "Só lhe faltava este: Evenepoel é campeão europeu",
-      "summary": "Entre os portugueses, o veterano Nélson Oliveira foi o melhor, na 27.ª posição.",
-      "source": "Público",
-      "date": "Sun, 04 Oct 2026 18:21:11 GMT",
-      "url": "https://www.publico.pt/2026/10/04/desporto/noticia/so-faltava-evenepoel-campeao-europeu-2190279",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "9c1b0468",
-      "cat": "geral",
-      "title": "A capacidade de estar triste",
-      "summary": "Sem capacidade para estar triste qualquer pessoa entende um insucesso como uma derrocada que se insinua. O reconhecimento de um erro como uma culpa sem reparação. Ou a tristeza como uma vergonha.",
+      "title": "A onda do PL e os recordes. Os números da noite eleitoral",
+      "summary": "Candidatos ao Congresso bateram recorde de número de votos. PL de Bolsonaro ganha maior bancada do Senado e maior número de estados. Quatro familiares do ex-Presidente estreiam-se no Congresso.",
       "source": "Observador",
-      "date": "Sun, 04 Oct 2026 20:27:11 +0100",
-      "url": "https://observador.pt/opiniao/a-capacidade-de-estar-triste/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg",
+      "date": "Mon, 05 Oct 2026 02:40:07 +0100",
+      "url": "https://observador.pt/2026/10/05/a-onda-do-pl-os-lugares-do-apelido-bolsonaro-e-os-recordes-de-michelle-e-nikolas-os-numeros-da-primeira-volta-das-eleicoes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:209/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/17153355/45110391.jpg",
       "score": 0.73
     },
     {
-      "id": "c4a15901",
+      "id": "83f833ac",
       "cat": "tecnologia",
-      "title": "O fenómeno que está causar chuvas diluvianas na Catalunha",
-      "summary": "Não é um medicane, nem uma DANA. É um Sistema Convectivo e Vórtice de Mesoescala. Barcelona bateu recordes de precipitação.",
+      "title": "A lição de Espanha sobre a deriva extremista dos socialistas",
+      "summary": "Primeiro os socialistas de Pedro Sánchez acolheram no Governo os extremistas do Podemos. Depois as políticas e o discurso do extremismo tornaram-se na bóia de salvação de um poder cansado e corrupto.",
       "source": "Observador",
-      "date": "Sun, 04 Oct 2026 19:31:14 +0100",
-      "url": "https://observador.pt/2026/10/04/fenomeno-que-esta-a-causar-chuvas-diluvianas-na-catalunha/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3543:1992:nowe:0:185/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/04182812/gettyimages-2224268656.jpg",
+      "date": "Mon, 05 Oct 2026 00:25:29 +0100",
+      "url": "https://observador.pt/opiniao/a-licao-de-espanha-sobre-a-deriva-extremista-dos-socialistas/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg",
       "score": 0.73
     },
     {
@@ -198,6 +154,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "66dc5ed6",
+      "cat": "tecnologia",
+      "title": "Abandono de Ronaldo. \"Nunca foi um caso e até pode ser convocado para o próximo jogo\" - Jorge Jesus",
+      "summary": "Jorge Jesus afirmou na conferência de imprensa após a vitória sobre a Noruega que o importante foi Portugal ganhar a uma das melhores equipas da Europa. Mas antes destas palavras, a primeira pergunta foi sobre a ausência de Ronaldo. O selecionador sorriu e acabou por dizer que esta história toda &qu",
+      "source": "RTP",
+      "date": "Mon, 05 Oct 2026 00:01:25 +0100",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/abandono-de-ronaldo-nunca-foi-um-caso-e-ate-pode-ser-convocado-para-o-proximo-jogo-jorge-jesus_d1769585",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/99/99b912d6b46989fc725bc3395de31119?w=350&amp;q=50&amp;rect=0,173,2920,1601&amp;auto=format",
       "score": 0.73
     },
     {
@@ -289,6 +256,17 @@
       "score": 0.73
     },
     {
+      "id": "7dac6f3a",
+      "cat": "tecnologia",
+      "title": "Your gut bacteria may reveal how fast your brain is aging",
+      "summary": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain aging may appear decades before obvious symptoms and could eventually make the gu",
+      "source": "ScienceDaily",
+      "date": "Sun, 04 Oct 2026 07:28:03 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+      "img": "https://www.sciencedaily.com/images/1920/gut-microbiome-interaction-within-brain.webp",
+      "score": 0.73
+    },
+    {
       "id": "00be9302",
       "cat": "sociedade",
       "title": "The Spark: The ‘Community Lighthouses’ Where Neighbors Help Neighbors",
@@ -311,25 +289,47 @@
       "score": 0.73
     },
     {
-      "id": "ba77d90b",
+      "id": "78e25a2e",
       "cat": "tecnologia",
-      "title": "Este era o jogo Dele mas ele mostrou que também é capaz",
-      "summary": "Portugal voltou a ter um futebol ofensivo enquanto teve pernas, quebrou no final mas somou quarto triunfo seguido com uma jogada fabulosa concluída por Ramos no jogo que devia ser de Ronaldo (2-1).",
-      "source": "Observador",
-      "date": "Sun, 04 Oct 2026 22:00:28 +0100",
-      "url": "https://observador.pt/2026/10/04/este-era-o-jogo-dele-mas-ele-mostrou-que-tambem-e-capaz-a-cronica-do-portugal-noruega/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:158/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/04215150/goncalo-ramos-1.jpg",
+      "title": "Sánchez: medir vantagens, pesar riscos",
+      "summary": "Pedro Sánchez pôs um país a medir vantagens e desvantagens de eleições antecipadas. O quadro político não é claro, não dá uma resposta óbvia e a rua não é o único indicador. Editorial deMarta Moitinho Oliveira",
+      "source": "Público",
+      "date": "Mon, 05 Oct 2026 04:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/05/opiniao/editorial/sanchez-medir-vantagens-pesar-riscos-2190242",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "c8ced442",
+      "id": "bbaaa733",
       "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "title": "Para já, o Brasil escolhe Flávio Bolsonaro. O que explica este resultado?",
+      "summary": "Flávio e Lula vão disputar a segunda volta das presidenciais brasileiras. O filho de Bolsonaro parte à frente, depois de uma primeira volta que reforçou a força eleitoral do bolsonarismo.",
+      "source": "Público",
+      "date": "Mon, 05 Oct 2026 04:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/05/mundo/noticia/ja-brasil-escolhe-flavio-bolsonaro-explica-resultado-2190286",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "13e18843",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
+      "source": "Público",
+      "date": "Mon, 05 Oct 2026 04:00:00 GMT",
+      "url": "https://www.publico.pt/2026/10/05/opiniao/opiniao/cartas-director-2190255",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "88b9245c",
+      "cat": "tecnologia",
+      "title": "As notícias das 5h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Mon, 05 Oct 2026 05:18:12 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1571/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
