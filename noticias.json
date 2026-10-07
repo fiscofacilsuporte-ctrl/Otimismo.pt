@@ -1,5 +1,5 @@
 {
-  "last_update": "06/10/2026 18:15 UTC",
+  "last_update": "07/10/2026 05:34 UTC",
   "total": 30,
   "news": [
     {
@@ -36,6 +36,17 @@
       "score": 0.82
     },
     {
+      "id": "87b2e1aa",
+      "cat": "cultura",
+      "title": "Maioria dos compromissos do acordo de rendimentos foi cumprida",
+      "summary": "Grande parte das medidas fiscais assumidas pelo Governo junto dos parceiros sociais já avançou. Mas há medidas para a agricultura por concretizar, e ainda estão por rever os apoios ao investimento.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 06 Oct 2026 21:49:55 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/orcamento-do-estado/detalhe/maioria-dos-compromissos-do-acordo-de-rendimentos-foi-cumprida",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-29-20-11-54-524564.jpg",
+      "score": 0.79
+    },
+    {
       "id": "c992c5b7",
       "cat": "tecnologia",
       "title": "The women putting community at the heart of elephant conservation",
@@ -45,6 +56,17 @@
       "url": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
       "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/09/SharedLand_Story02b_WebHeader_1800x1080.jpg",
       "score": 0.79
+    },
+    {
+      "id": "3bf826e2",
+      "cat": "tecnologia",
+      "title": "PS abstém-se no OE2027 para evitar \"precipício político\" e não espera surpresas",
+      "summary": "De acordo com André Moz Caldas, se o Orçamento do Estado para o próximo ano não fosse aprovado seria criada \"uma situação de instabilidade política indesejável\".",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 06 Oct 2026 21:33:44 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ps-abstem-se-no-oe2027-para-evitar-precipicio-politico-e-nao-espera-surpresas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-09/img_100x100uu2022-09-29-14-51-51-437158.jpg",
+      "score": 0.76
     },
     {
       "id": "e56f2b2b",
@@ -91,14 +113,14 @@
       "score": 0.76
     },
     {
-      "id": "5b6fe49c",
-      "cat": "tecnologia",
-      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
-      "summary": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed the formation of hydrogen in the early universe, affecting the cosmic microwave ba",
+      "id": "3a906b43",
+      "cat": "ciencia",
+      "title": "Animals may have evolved 200 million years earlier than we thought",
+      "summary": "New research suggests animals could have evolved as early as 800 to 700 million years ago, roughly 200 million years earlier than some previous estimates. If so, the first animals may have lived before or during Snowball Earth, leaving behind little trace because their soft bodies were rarely preser",
       "source": "ScienceDaily",
-      "date": "Sun, 04 Oct 2026 08:05:54 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
-      "img": "https://www.sciencedaily.com/images/1920/cosmic-explosion-big-bang-universe-creation-gravitational-waves.webp",
+      "date": "Tue, 06 Oct 2026 22:29:56 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261003234023.htm",
+      "img": "https://www.sciencedaily.com/images/1920/ediacaran-sea-floor.webp",
       "score": 0.76
     },
     {
@@ -113,69 +135,58 @@
       "score": 0.76
     },
     {
-      "id": "ed1df27e",
-      "cat": "ambiente",
-      "title": "Reflorestação entra no mercado de carbono, mas sem dar resposta aos eucaliptais abandonados",
-      "summary": "Reflorestação e gestão florestal melhorada juntam-se às novas florestações no Mercado Voluntário de Carbono. Na consulta pública, o eucalipto dividiu opiniões.",
+      "id": "f7fa8887",
+      "cat": "tecnologia",
+      "title": "Jaguar Type 01: ícone britânico renasce eléctrico e com mais de 1000 cavalos",
+      "summary": "Com 1030cv, aceleração dos 0 aos 100 km/h em 3,2 segundos e até 720 quilómetros de autonomia (WLTP), o novo eléctrico rompe com o passado para tentar conquistar uma nova geração de condutores.",
       "source": "Público",
-      "date": "Tue, 06 Oct 2026 15:58:19 GMT",
-      "url": "https://www.publico.pt/2026/10/06/azul/noticia/reflorestacao-entra-mercado-carbono-dar-resposta-eucaliptais-abandonados-2190422",
+      "date": "Wed, 07 Oct 2026 00:01:00 GMT",
+      "url": "https://www.publico.pt/2026/10/07/enter/noticia/jaguar-type-01-icone-britanico-renasce-electrico-1000-cavalos-2190337",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "4eaed263",
+      "id": "7452a0e7",
       "cat": "tecnologia",
-      "title": "Espanha prolonga controlos de passageiros oriundos de Itália",
-      "summary": "No dia 1 de agosto, o Governo italiano suspendeu o Acordo de livre circulação de pessoas com Espanha. Esta é a quarta vez que Madrid prolonga estes controlos em resposta a Roma.",
-      "source": "Observador",
-      "date": "Tue, 06 Oct 2026 13:56:36 +0100",
-      "url": "https://observador.pt/2026/10/06/espanha-prolonga-controlos-de-passageiros-oriundos-de-italia-ate-22-outubro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:485/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/31212328/gettyimages-1708820862-scaled.jpg",
+      "title": "Montenegro destrona Sócrates",
+      "summary": "A diferença entre o crescimento da despesa e o da riqueza que a financia é a maior de sempre: 2,3 pontos percentuais por cada ano do seu (des)governo nunca visto. Opinião de Mário Centeno",
+      "source": "Público",
+      "date": "Tue, 06 Oct 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/07/opiniao/opiniao/montenegro-destrona-socrates-2190405",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "72e302da",
+      "id": "4c885d9d",
       "cat": "tecnologia",
-      "title": "Djokovic não teve o caminho pensado mas chegou ao destino",
-      "summary": "Depois da derrota no tie break do primeiro set, Alex de Minaur foi assistido, fez o 1-0 mas não aguentou mais e desistiu. Djokovic prolongou a série de triunfos seguidos em Pequim... mas não festejou.",
+      "title": "4h. Empresa do Minho vai distribui robôs humanoides chineses",
+      "summary": "SDATA AI assina parceria com mercado chinês de inteligência artificial para distribuir robôs humanoides em Portugal. Ainda nesta edição, o emotivo adeus de Leonel Messi da seleção argentina.",
       "source": "Observador",
-      "date": "Tue, 06 Oct 2026 13:49:17 +0100",
-      "url": "https://observador.pt/2026/10/06/nao-teve-o-caminho-pensado-mas-chegou-de-novo-ao-destino-djokovic-soma-34-a-vitoria-consecutiva-e-conquista-open-de-pequim/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:113/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/06134329/djokovic-2.jpg",
+      "date": "Wed, 07 Oct 2026 04:18:23 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2423/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "3185f10c",
+      "id": "ea243e41",
       "cat": "tecnologia",
-      "title": "Revista Observador Lifestyle, casas remodeladas, nas bancas",
-      "summary": "Na edição 33 destacamos casas remodeladas que convidam a deitar mãos à obra e visitamos o primeiro projeto de Siza Vieira, agora aberto a estadias. Sugerimos hotéis, restaurantes e design português.",
+      "title": "Seis pilares, 17 medidas e um timing que até calhou bem",
+      "summary": "Movimento Unum teve primeiro evento público com sala cheia e discutiu durante duas horas reformas para arbitragem nacional que serão agora entregues à Direção: \"São os nossos dirigentes que decidem\".",
       "source": "Observador",
-      "date": "Tue, 06 Oct 2026 13:32:37 +0100",
-      "url": "https://observador.pt/2026/10/06/revista-observador-lifestyle-casas-remodeladas-ja-nas-bancas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/06133148/lifestyle-33-art-770x433-1.jpg",
+      "date": "Wed, 07 Oct 2026 00:51:21 +0100",
+      "url": "https://observador.pt/2026/10/07/seis-pilares-17-medidas-e-um-timing-que-ate-calhou-bem-movimento-unum-apresenta-propostas-para-reforma-da-arbitragem/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/08181011/slbfcp-diogofariareis-9018-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "90eb2368",
+      "id": "b2879e57",
       "cat": "tecnologia",
-      "title": "Primeiro-ministro francês acusa esquerda radical de querer lançar país no caos",
-      "summary": "Sébastien Lecornu respondia durante a sessão de perguntas ao Governo na Assembleia Nacional à presidente do grupo parlamentar da França Insubmissa (LFI, esquerda radical), Mathilde Panot, que tinha criticado duramente o executivo.",
+      "title": "CGA reduz valor de quase 3 mil pensões já atribuídas",
+      "summary": "A Caixa Geral de Aposentações (CGA) está a corrigir em baixa valores de pensões já atribuídas, afetando pensionistas com 40 anos ou mais de carreira, de acordo com o Bloco de Esquerda e o PCP. Governo diz que estão em causa 2,9 mil pensões e um valor médio de 93 euros.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 06 Oct 2026 17:37:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/europa/detalhe/primeiro-ministro-frances-acusa-esquerda-radical-de-querer-lancar-pais-no-caos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-16-10-56-44-511315.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "dbad6f56",
-      "cat": "economia",
-      "title": "IVA a 6%, casas a preço de 23%",
-      "summary": "Se o objetivo é que a descida do imposto chegue ao preço final, é necessário primeiro eliminar a incerteza.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 06 Oct 2026 17:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/iva-a-6-casas-a-preco-de-23",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_394x514uu2026-10-06-10-36-12-530625.png",
+      "date": "Wed, 07 Oct 2026 06:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/seguranca-social/detalhe/cga-reduz-valor-de-quase-3-mil-pensoes-ja-atribuidas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-08/img_100x100uu2024-08-05-19-59-13-482771.jpg",
       "score": 0.73
     },
     {
@@ -190,6 +201,28 @@
       "score": 0.73
     },
     {
+      "id": "8e4e9684",
+      "cat": "tecnologia",
+      "title": "Liga Nações: Espanha avança para os quartos com quarta vitória na Croácia",
+      "summary": "A seleção espanhola, campeã europeia e mundial em título, junta-se a Portugal na próxima fase da competição. Mikel Merino assinou um bis em Split.",
+      "source": "RTP",
+      "date": "Tue, 06 Oct 2026 23:38:28 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-nacoes-espanha-avanca-para-os-quartos-com-quarta-vitoria-na-croacia_d1769984",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b4b3b1176fd70522efe3fe554b0b69da?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "0972106f",
+      "cat": "tecnologia",
+      "title": "Portugal fecha qualificação para o Euro sub-21 com triunfo sobre República Checa",
+      "summary": "A seleção portuguesa de futebol de sub-21 encerrou hoje a qualificação para o Campeonato da Europa da categoria com uma vitória por 2-0 sobre a República Checa, depois de já ter garantido a presença na fase final.",
+      "source": "RTP",
+      "date": "Tue, 06 Oct 2026 20:26:39 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/portugal-fecha-qualificacao-para-o-euro-sub-21-com-triunfo-sobre-republica-checa_d1769950",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/41/412788b20192380ecb0c9df03a9dbae1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "a90f4caf",
       "cat": "tecnologia",
       "title": "Fernando Gomes tem \"esperança\" que situação de Ronaldo seja resolvida \"a bem\"",
@@ -201,25 +234,14 @@
       "score": 0.73
     },
     {
-      "id": "3eea3b99",
+      "id": "23d92f0b",
       "cat": "tecnologia",
-      "title": "Mundial de Hóquei. Seleção feminina bate Colômbia",
-      "summary": "Portugal soma mais uma vitória no Mundial de Hóquei em Patins feminino.",
-      "source": "RTP",
-      "date": "Tue, 06 Oct 2026 14:51:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/mundial-de-hoquei-selecao-feminina-bate-colombia_v1769895",
-      "img": "https://cdn-images.rtp.pt/icm/images/61/6181386b95fc29609b2f4819ef3f8098_N.jpg?",
-      "score": 0.73
-    },
-    {
-      "id": "55285ecc",
-      "cat": "tecnologia",
-      "title": "Iúri Leitão lidera convocados portugueses para Mundiais de ciclismo de pista",
-      "summary": "Iúri Leitão ‘lidera’ os seis convocados de Portugal para o Mundial de pista, com a lista a não incluir Rui Oliveira, o outro campeão olímpico de madison em Paris2024, divulgou hoje a Federação Portuguesa de Ciclismo (FPC).",
-      "source": "RTP",
-      "date": "Mon, 05 Oct 2026 22:56:00 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/iuri-leitao-lidera-convocados-portugueses-para-mundiais-de-ciclismo-de-pista_d1769809",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a4/a498c1a289e570f2cc0cb9c073a48e1a?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format",
+      "title": "John Galliano por 29,95 euros é mesmo John Galliano?",
+      "summary": "Quem atravessou a adolescência nos anos 90 a folhear revistas de moda lembra-se bem do impacto de John Galliano, um pioneiro na sua disciplina. Aprecia, pois, esta reviravolta no guião que é um designer de alta-costura se associar a uma loja de fast fashion &#8211; o topo da criatividade e artifício",
+      "source": "ECO",
+      "date": "Tue, 06 Oct 2026 22:49:32 +0000",
+      "url": "https://eco.sapo.pt/opiniao/john-galliano-por-2995-euros-e-mesmo-john-galliano/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2017/02/logo_eco-07.png",
       "score": 0.73
     },
     {
@@ -234,25 +256,14 @@
       "score": 0.73
     },
     {
-      "id": "05307434",
-      "cat": "tecnologia",
-      "title": "Aon Reinsurance Iberia tem novo Senior Treaty Broker",
-      "summary": "Ignacio Llobet foi nomeado novo Senior Treaty Broker da Aon Reinsurance Solutions Iberia. De acordo com o jornal Seguros News, esta nomeação insere-se no plano de investir em talento para responder às necessidades dos seus clientes &#8220;num contexto de riscos cada vez mais complexo e num momento e",
-      "source": "ECO",
-      "date": "Tue, 06 Oct 2026 16:51:46 +0000",
-      "url": "https://eco.sapo.pt/2026/10/06/aon-reinsurance-iberia-tem-novo-senior-treaty-broker/",
-      "img": "https://eco.imgix.net/uploads/2026/09/ignacio-llobet-2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1438569d",
-      "cat": "tecnologia",
-      "title": "Polónia vai investir 23 mil milhões na proteção da população e defesa civil",
-      "summary": "O Governo polaco vai investir mais de 102 mil milhões de zlótis (23,4 mil milhões de euros) na proteção da população e na defesa civil entre 2027 e 2031, anunciou hoje o primeiro-ministro, Donald Tusk. A iniciativa insere-se no vasto esforço de reforço da segurança empreendido por Varsóvia desde a i",
-      "source": "ECO",
-      "date": "Tue, 06 Oct 2026 16:14:14 +0000",
-      "url": "https://eco.sapo.pt/2026/10/06/polonia-vai-investir-23-mil-milhoes-na-protecao-da-populacao-e-defesa-civil/",
-      "img": "https://eco.imgix.net/uploads/2024/03/cropped-42427779-scaled-3.jpg",
+      "id": "67ee4c45",
+      "cat": "ciencia",
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "source": "BBC News",
+      "date": "Tue, 06 Oct 2026 23:07:44 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641f/live/0b408380-c075-11f1-aa5a-7b59b59b45bf.jpg",
       "score": 0.73
     },
     {
@@ -278,17 +289,6 @@
       "score": 0.73
     },
     {
-      "id": "31f82204",
-      "cat": "ciencia",
-      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
-      "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
-      "source": "BBC News",
-      "date": "Fri, 02 Oct 2026 23:37:13 GMT",
-      "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5343/live/bc021660-be5f-11f1-b36c-81ad410b221e.jpg",
-      "score": 0.73
-    },
-    {
       "id": "00be9302",
       "cat": "sociedade",
       "title": "The Spark: The ‘Community Lighthouses’ Where Neighbors Help Neighbors",
@@ -311,25 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "0e1a77fa",
+      "id": "79c85ba7",
       "cat": "tecnologia",
-      "title": "Princesa Märtha Louise e o marido acusam amigos de difamação e traição",
-      "summary": "“Antigos parceiros, colegas de trabalho de confiança, um membro da família” aproveitaram-se da confiança dada pelo casal e tranformaram-na numa “arma” para divulgar “informações confidenciais”.",
+      "title": "Amigos da Coesão querem novos impostos europeus “justos e simples”. Mas quais?",
+      "summary": "Portugal é um dos 17 Estados-membros que reclamam uma discussão “construtiva” sobre novos recursos próprios da UE, para poder evitar cortes de 40% na despesa do próximo orçamento comunitário.",
       "source": "Público",
-      "date": "Tue, 06 Oct 2026 17:30:42 GMT",
-      "url": "https://www.publico.pt/2026/10/06/impar/noticia/princesa-martha-louise-marido-acusam-amigos-difamacao-traicao-2190462",
+      "date": "Wed, 07 Oct 2026 05:15:00 GMT",
+      "url": "https://www.publico.pt/2026/10/07/economia/noticia/amigos-coesao-querem-novos-impostos-europeus-justos-simples-2190345",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "59f64bd5",
+      "id": "353d3323",
       "cat": "tecnologia",
-      "title": "Teixeira da Mota sobre Carrilho: \"Julio Iglesias também só gostava de ser fotografado de um dos lados\"",
-      "summary": "Devida V&eacute;nia &eacute; um videocast com Francisco Teixeira da Mota e Leonor Caldeira sobre liberdade de express&atilde;o e alguns processos judiciais que envolveram jornalistas.",
-      "source": "Público",
-      "date": "Tue, 06 Oct 2026 17:20:58 GMT",
-      "url": "https://www.publico.pt/2026/10/06/video/teixeira-mota-carrilho-julio-iglesias-tambem-so-gostava-fotografado-lados-20261006-172710",
-      "img": null,
+      "title": "3h. Leonel Messi despede-se da seleção argetina",
+      "summary": "Perante cerca de 85 mil pessoas, Messi foi homenageado antes, durante e depois do jogo. Ainda, Governo francês prepara regresso à normalidade nas escolas depois de dias de protestos.",
+      "source": "Observador",
+      "date": "Wed, 07 Oct 2026 03:14:58 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2459/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
