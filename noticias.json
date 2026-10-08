@@ -1,5 +1,5 @@
 {
-  "last_update": "07/10/2026 22:59 UTC",
+  "last_update": "08/10/2026 05:43 UTC",
   "total": 30,
   "news": [
     {
@@ -47,17 +47,6 @@
       "score": 0.82
     },
     {
-      "id": "5c38f39e",
-      "cat": "tecnologia",
-      "title": "\"Treinar ajuda a passar o tempo e a aliviar a cabeça\"",
-      "summary": "Manuel tem 71 anos, Melissa tem 14. O halterofilismo juntou-os. Ele foi campeão nacional há décadas. Ela trouxe agora para Portugal a medalha de bronze no campeonato europeu. Encontro de gerações.",
-      "source": "Observador",
-      "date": "Wed, 07 Oct 2026 20:48:25 +0100",
-      "url": "https://observador.pt/programas/sem-idade-o-desporto-em-duas-geracoes/treinar-ajuda-a-passar-o-tempo-e-a-aliviar-a-cabeca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/06182544/thumb-sem-idade.jpg",
-      "score": 0.79
-    },
-    {
       "id": "c992c5b7",
       "cat": "tecnologia",
       "title": "The women putting community at the heart of elephant conservation",
@@ -80,28 +69,6 @@
       "score": 0.79
     },
     {
-      "id": "f4154ce6",
-      "cat": "tecnologia",
-      "title": "BBC e Channel 4 negoceiam parceria para cortar custos e combater plataformas de streaming",
-      "summary": "A BBC e a Channel 4 estão em conversações preliminares com o Governo britânico para aprofundar a colaboração entre as duas emissoras públicas e juntar algumas operações, numa tentativa de reduzir custos e responder à crescente concorrência dos serviços de streaming, segundo a Reuters. Uma das opções",
-      "source": "ECO",
-      "date": "Wed, 07 Oct 2026 19:49:13 +0000",
-      "url": "https://eco.sapo.pt/2026/10/07/bbc-e-channel-4-negoceiam-parceria-para-cortar-custos-e-combater-plataformas-de-streaming/",
-      "img": "https://eco.imgix.net/uploads/2025/11/cropped-doc202408014331999611515101.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "c49a2d2f",
-      "cat": "tecnologia",
-      "title": "Ex-ministro Caldeira Cabral vai coordenar primeiro Livro Branco do alojamento local",
-      "summary": "O primeiro Livro Branco do Alojamento Local em Portugal vai ser coordenado pelo ex-ministro da Economia Manuel Caldeira Cabral e publicado até maio de 2027, recebendo o documento contributos até ao final deste ano, avançou Elsa Pereira. “Neste momento, o QR Code que apresentamos estará disponível no",
-      "source": "ECO",
-      "date": "Wed, 07 Oct 2026 19:22:00 +0000",
-      "url": "https://eco.sapo.pt/2026/10/07/ex-ministro-caldeira-cabral-vai-coordenar-primeiro-livro-branco-do-alojamento-local/",
-      "img": "https://eco.imgix.net/uploads/2019/01/cropped-comissacc83o-financcca7as03.jpg",
-      "score": 0.76
-    },
-    {
       "id": "e56f2b2b",
       "cat": "tecnologia",
       "title": "Good News in History, October 6",
@@ -113,14 +80,14 @@
       "score": 0.76
     },
     {
-      "id": "09fdb7fc",
-      "cat": "saude",
-      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries, while human cartilage taken from knee r",
-      "source": "ScienceDaily",
-      "date": "Tue, 06 Oct 2026 09:03:47 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-      "img": "https://www.sciencedaily.com/images/1920/knee-joint-arthritis-cartilage-injury.webp",
+      "id": "07fa3748",
+      "cat": "ciencia",
+      "title": "Wonky wych elm in County Down crowned Tree of the Year",
+      "summary": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014.",
+      "source": "BBC News",
+      "date": "Thu, 08 Oct 2026 05:31:37 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d11/live/6cea0bc0-c286-11f1-98ea-35e6bf307fc9.jpg",
       "score": 0.76
     },
     {
@@ -135,36 +102,36 @@
       "score": 0.76
     },
     {
-      "id": "3f12a46b",
-      "cat": "tecnologia",
-      "title": "Governo gere pressão do custo de vida com margem curta e esperança em Bruxelas",
-      "summary": "Executivo tenta conter o impacto político do custo de vida sem comprometer as contas públicas. E enquanto gere o tempo e as oposições descontentes, deposita esperanças numa resposta europeia.",
-      "source": "Público",
-      "date": "Wed, 07 Oct 2026 20:48:52 GMT",
-      "url": "https://www.publico.pt/2026/10/07/politica/noticia/governo-gere-pressao-custo-vida-margem-curta-esperanca-bruxelas-2190612",
-      "img": null,
+      "id": "54e10811",
+      "cat": "ciencia",
+      "title": "Caso de peste na Rússia preocupa. Pode chegar cá?",
+      "summary": "A Rússia tentou negar, mas há uma investigação em curso a um potencial caso de peste pneumónica na Sibéria. China, EUA e Europa mostram preocupação. OMS avalia risco. Uma conversa com Miguel Castanho.",
+      "source": "Observador",
+      "date": "Thu, 08 Oct 2026 05:03:52 +0100",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/caso-de-peste-na-russia-preocupa-pode-chegar-ca/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/23154139/770-podcast-a-historia-do-dia-com-luis-soares.jpg",
       "score": 0.73
     },
     {
-      "id": "0a52d185",
-      "cat": "tecnologia",
-      "title": "Tem mais de 45 anos e está desempregado? Feira oferece ajuda para buscar trabalho",
-      "summary": "Feira acontece no sábado, 10 de outubro, em Braga. Empresas, recrutadores e especialistas em trabalho vão avaliar currículos e dar dicas sobre como conquistar uma vaga e enfrentar o etarismo.",
-      "source": "Público",
-      "date": "Wed, 07 Oct 2026 19:41:27 GMT",
-      "url": "https://www.publico.pt/2026/10/07/publico-brasil/noticia/45-anos-desempregado-feira-oferece-ajuda-buscar-trabalho-2190614",
-      "img": null,
+      "id": "80e88489",
+      "cat": "geral",
+      "title": "Advogados dizem que Christa Pike está \"zangada e confusa\"",
+      "summary": "Os advogados da reclusa descrevem \"confusão cognitiva\" e danos físicos graves. Tribunal ordenou a preservação de todas as provas da execução falhada.",
+      "source": "Observador",
+      "date": "Thu, 08 Oct 2026 00:53:42 +0100",
+      "url": "https://observador.pt/2026/10/08/onde-estou-advogados-dizem-que-christa-pike-esta-zangada-e-confusa-apos-execucao-falhada/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2576:1445:nowe:0:1073/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/30190159/prisao-istock.jpg",
       "score": 0.73
     },
     {
-      "id": "f856032a",
+      "id": "138eada9",
       "cat": "tecnologia",
-      "title": "De uma assentada, Governo francês promete dar respostas aos estudantes e baixar o preço do gasóleo",
-      "summary": "Sébastien Lecornu disse que o Governo está a tentar resolver os problemas dos estudantes, dos agricultores e das famílias. E apelou à aprovação de um Orçamento demasiado curto para permitir folgas.",
-      "source": "Público",
-      "date": "Wed, 07 Oct 2026 19:25:15 GMT",
-      "url": "https://www.publico.pt/2026/10/07/mundo/noticia/assentada-governo-frances-promete-dar-respostas-estudantes-baixar-preco-gasoleo-2190603",
-      "img": null,
+      "title": "Primeiro-ministro francês propõe ajuste de 54 mil milhões para reduzir défice para 5% em 2027",
+      "summary": "Sébastien Lecornu defendeu a necessidade de que França tenha um orçamento antes das presidenciais previstas para a próxima primavera.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 07 Oct 2026 23:54:22 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/primeiro-ministro-frances-propoe-ajuste-de-54-mil-milhoes-para-reduzir-defice-para-5-em-2027",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-16-10-56-44-511315.jpg",
       "score": 0.73
     },
     {
@@ -245,6 +212,17 @@
       "score": 0.73
     },
     {
+      "id": "78430c24",
+      "cat": "ambiente",
+      "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
+      "summary": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF.",
+      "source": "BBC News",
+      "date": "Thu, 08 Oct 2026 05:00:04 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/239f/live/5580dbc0-c24b-11f1-ab30-1f92d324dff9.jpg",
+      "score": 0.73
+    },
+    {
       "id": "e3e4f37e",
       "cat": "tecnologia",
       "title": "Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
@@ -256,25 +234,14 @@
       "score": 0.73
     },
     {
-      "id": "67ee4c45",
+      "id": "d8a59475",
       "cat": "ciencia",
-      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-      "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
-      "source": "BBC News",
-      "date": "Tue, 06 Oct 2026 23:07:44 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641f/live/0b408380-c075-11f1-aa5a-7b59b59b45bf.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1f935761",
-      "cat": "tecnologia",
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-      "source": "BBC News",
-      "date": "Tue, 06 Oct 2026 11:24:19 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg",
+      "title": "Webb finds a surprising atmosphere on a scorching lava world",
+      "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists understand how rocky planets retain atmospheres and what the young, molten Earth",
+      "source": "ScienceDaily",
+      "date": "Wed, 07 Oct 2026 07:58:25 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm",
+      "img": "https://www.sciencedaily.com/images/1920/lava-world-molten-rock-exoplanet-with-atmosphere.webp",
       "score": 0.73
     },
     {
@@ -300,25 +267,47 @@
       "score": 0.73
     },
     {
-      "id": "023eeba9",
-      "cat": "tecnologia",
-      "title": "Centeno vai ser administrador de seguradora do Abanca",
-      "summary": "Ex-governador do Banco de Portugal e ex-ministro das Finanças terminou esta semana o período de afastamento e avança para o setor privado.",
-      "source": "Observador",
-      "date": "Wed, 07 Oct 2026 21:29:19 +0100",
-      "url": "https://observador.pt/2026/10/07/centeno-vai-ser-administrador-nao-executivo-em-seguradora-do-grupo-espanhol-abanca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/09192618/47437383.jpg",
+      "id": "eba0ea78",
+      "cat": "cultura",
+      "title": "IVA zero, rendas e super-ricos: o que os partidos querem levar ao OE2027",
+      "summary": "BE, Livre, PAN, JPP e PCP indicaram áreas e detalharam propostas para o OE2027, sobretudo para responder ao aumento do custo de vida. PS, IL, Chega, PSD e CDS não responderam.",
+      "source": "Público",
+      "date": "Thu, 08 Oct 2026 05:37:00 GMT",
+      "url": "https://www.publico.pt/2026/10/08/politica/noticia/iva-zero-rendas-superricos-partidos-querem-levar-oe2027-2190140",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "348da2ca",
+      "id": "aed8ea4f",
       "cat": "tecnologia",
-      "title": "A tecnologia está a mudar a forma como praticamos desporto?",
-      "summary": "Wearables, sensores e inteligência artificial transformam os treinos em conhecimento. Mas, entre números, alertas e algoritmos, importa perguntar: até que ponto devemos acreditar no nosso pulso?",
+      "title": "António Vitorino: “Não vou dizer ‘bloco central só houve um, o de Soares e Mota Pinto e mais nenhum’”",
+      "summary": "Antigo ministro do PS e ex-comissário europeu garante estar reformado da política activa e não afasta a reedição do bloco central, como defendeu Centeno e ex-ministros do PSD.",
+      "source": "Público",
+      "date": "Thu, 08 Oct 2026 05:32:00 GMT",
+      "url": "https://www.publico.pt/2026/10/08/politica/entrevista/antonio-vitorino-nao-vou-dizer-bloco-central-so-soares-mota-pinto-2190570",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "58f229ec",
+      "cat": "tecnologia",
+      "title": "Juntar a Direcção-Geral da Saúde com o Instituto Ricardo Jorge é uma decisão que levanta dúvidas",
+      "summary": "Autonomia do INSA e a eventual saída da autoridade de saúde da esfera do Ministério da Saúde preocupam. Ministra Ana Paula Martins já avisou que a reforma “não vai agradar a muitos”.",
+      "source": "Público",
+      "date": "Thu, 08 Oct 2026 05:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/08/sociedade/noticia/juntar-direccaogeral-saude-instituto-ricardo-jorge-decisao-levanta-duvidas-2190617",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "87c26384",
+      "cat": "tecnologia",
+      "title": "4h. Marcha pela Vida. Relação diz que só acaso evitou o pior",
+      "summary": "Desembargadores explicam que engenho só não provocou incêndio porque a chama se apagou quando o objeto foi atirado. Ainda, Sebastião Bugalho diz que Mário Centeno não tem ideias para o país.",
       "source": "Observador",
-      "date": "Wed, 07 Oct 2026 21:28:37 +0100",
-      "url": "https://observador.pt/especiais/o-corpo-transformado-em-dados-a-tecnologia-esta-a-mudar-a-forma-como-praticamos-desporto/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1683:nowe:0:305/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/04141121/igor-martins-ivancouras-03-039.jpg",
+      "date": "Thu, 08 Oct 2026 04:16:56 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2424/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Wed, 07 Oct 2026 23:30:00 +0100",
       "url": "https://www.jornaldenegocios.pt/economia/impostos/irs/detalhe/escaloes-mais-altos-ainda-nao-recuperaram-do-enorme-aumento-de-impostos",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-02-11-21-34-525972.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
