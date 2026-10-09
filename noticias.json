@@ -1,5 +1,5 @@
 {
-  "last_update": "08/10/2026 23:13 UTC",
+  "last_update": "09/10/2026 05:47 UTC",
   "total": 30,
   "news": [
     {
@@ -25,17 +25,6 @@
       "score": 0.82
     },
     {
-      "id": "1e43f759",
-      "cat": "ciencia",
-      "title": "What went right this week: a brighter future for Kosovo, plus more",
-      "summary": "Kosovo was cleared of landmines, Germany set a date for quitting oil, and a new species was discovered, plus more The post What went right this week: a brighter future for Kosovo, plus more appeared first on Positive News .",
-      "source": "Positive News",
-      "date": "Fri, 25 Sep 2026 05:11:56 +0000",
-      "url": "https://www.positive.news/society/good-news-stories-from-week-39-of-2026/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/09/iStock-487000750-2.jpg",
-      "score": 0.82
-    },
-    {
       "id": "a4d743d1",
       "cat": "ciencia",
       "title": "This “golden tree” coral was too strange for any known family",
@@ -56,6 +45,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
       "img": "https://www.sciencedaily.com/images/1920/extreme-debris-disk.webp",
       "score": 0.82
+    },
+    {
+      "id": "662cfdf3",
+      "cat": "tecnologia",
+      "title": "What went right this week: the good news that matters",
+      "summary": "A pivotal moment for climate justice in Australia, the Nobel prize, and a promising drug for Parkinson’s, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "source": "Positive News",
+      "date": "Fri, 09 Oct 2026 05:09:55 +0000",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/shutterstock_1156815706.jpg",
+      "score": 0.79
     },
     {
       "id": "525b5a1f",
@@ -135,47 +135,47 @@
       "score": 0.76
     },
     {
-      "id": "a112be5d",
-      "cat": "tecnologia",
-      "title": "Cavalo suspenso no air du temps",
-      "summary": "A verdade é que um rei montado de forma heróica num cavalo abatido não me provocou um efeito satírico, antes uma espécie de asco. Crónica de Cláudia Lucas Chéu",
+      "id": "00999a5e",
+      "cat": "cultura",
+      "title": "FC Porto, SAD regista prejuízo de 21,1 milhões de euros em 2025-26",
+      "summary": "Desequilíbrio entre compras e vendas na abordagem ao mercado de transferências ditou boa parte do resultado, que contrasta com os 39,2 milhões positivos da época anterior.",
       "source": "Público",
-      "date": "Thu, 08 Oct 2026 19:49:13 GMT",
-      "url": "https://www.publico.pt/2026/10/08/p3/cronica/cavalo-suspenso-air-du-temps-2190714",
+      "date": "Thu, 08 Oct 2026 23:23:37 GMT",
+      "url": "https://www.publico.pt/2026/10/09/desporto/noticia/fc-porto-sad-regista-prejuizo-211-milhoes-euros-202526-2190771",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "2ead0412",
-      "cat": "cultura",
-      "title": "Nuno Crespo: “Exercer a nossa humanidade em plena ditadur...",
-      "summary": "Nuno Crespo, crítico de arte, curador-chefe da 1.ª Trienal de Arte do Vaticano: “Os artistas têm a capacidade de iluminar conversas difíceis num momento em que todas as conversas parecem impossíveis”.",
-      "source": "Observador",
-      "date": "Thu, 08 Oct 2026 21:06:37 +0100",
-      "url": "https://observador.pt/programas/convidado-extra/nuno-crespo-exercer-a-nossa-humanidade-em-plena-ditadura-do-algoritmo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13105535/770-podcast-convidado-extra.jpg",
+      "id": "fa8ed145",
+      "cat": "tecnologia",
+      "title": "Menos complexidade, mais inovação na contratação pública (e privada)",
+      "summary": "O novo Código dos Contratos Públicos vai no bom caminho. Simplifica processos, responsabiliza quem tem de ser responsabilizado e, dessa forma, promove uma cultura de maior tolerância ao risco. Opinião de Paulo Calçada",
+      "source": "Público",
+      "date": "Thu, 08 Oct 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/10/09/opiniao/opiniao/menos-complexidade-inovacao-contratacao-publica-privada-2189512",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "83a9695f",
+      "id": "b595a466",
       "cat": "tecnologia",
-      "title": "MAI sobe 364 milhões de euros. Foco em salários da PSP e GNR",
-      "summary": "MAI absorve uma despesa de 3,1 mil milhões de euros, mais 13% do que no ano passado. A \"melhoria das condições das forças de segurança\" é \"prioridade estratégica\" e leva a maioria da verbas.",
-      "source": "Observador",
-      "date": "Thu, 08 Oct 2026 21:02:45 +0100",
-      "url": "https://observador.pt/2026/10/08/orcamento-da-seguranca-interna-sobe-364-milhoes-de-euros-com-foco-nos-salarios-de-policias-e-gnr/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/08114323/jporfirio-audicao-mai-luis-neves-parlamento-08-09-2026-03-10-scaled.jpg",
+      "title": "Comboio colide com carro em Vila Nova de Barquinha e corta circulação na Linha da Beira Baixa",
+      "summary": "O comboio circulava no sentido Entroncamento-Abrantes e a passagem de nível estava sinalizada, de acordo com fonte do comando do Médio Tejo.",
+      "source": "Público",
+      "date": "Thu, 08 Oct 2026 23:03:07 GMT",
+      "url": "https://www.publico.pt/2026/10/09/local/noticia/comboio-colide-carro-vila-nova-barquinha-corta-circulacao-linha-beira-baixa-2190770",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "f1bbee18",
+      "id": "fd965970",
       "cat": "tecnologia",
-      "title": "O que OE2027 promete para o clima — e omite",
-      "summary": "Praias, abrigos climáticos, barragens e recuperação pós-Kristin: o OE2027 multiplica as promessas para o ambiente, mas deixa as dotações específicas por revelar.",
+      "title": "República de Seguro, OE central e o Luís da Europa",
+      "summary": "O primeiro discurso de Seguro num 5 de Outubro e o primeiro discurso de Montenegro no Parlamento Europeu foram os temas à mesa de uma Vichyssoise especial gravada em Estrasburgo.",
       "source": "Observador",
-      "date": "Thu, 08 Oct 2026 20:49:09 +0100",
-      "url": "https://observador.pt/2026/10/08/orcamento-preve-obras-em-praias-abrigos-climaticos-nas-cidades-e-novas-intervencoes-contra-as-cheias-e-a-seca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2121:1192:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/03162822/cidades-verdes.jpg",
+      "date": "Fri, 09 Oct 2026 00:37:13 +0100",
+      "url": "https://observador.pt/programas/vichyssoise/republica-de-seguro-oe-central-e-o-luis-da-europa/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151448/770-podcast-vichyssoise.jpg",
       "score": 0.73
     },
     {
@@ -300,25 +300,25 @@
       "score": 0.73
     },
     {
-      "id": "f3b4c96d",
-      "cat": "geral",
-      "title": "Miranda Sarmento vincula PS ao OE2027 e apela a que não aprove propostas do Chega",
-      "summary": "Ministro das Finanças apela à responsabilidade do PS para que não desvirtue a proposta que entrou no Parlamento. Sem nomear, governante respondeu às críticas do ex-governador do Banco de Portugal.",
-      "source": "Público",
-      "date": "Thu, 08 Oct 2026 19:38:53 GMT",
-      "url": "https://www.publico.pt/2026/10/08/politica/noticia/miranda-sarmento-vincula-ps-oe2027-apela-nao-aprove-propostas-chega-2190750",
-      "img": null,
+      "id": "725efca9",
+      "cat": "tecnologia",
+      "title": "Bugalho: \"Ambiência de bloco central é o sonho de Ventura\"",
+      "summary": "O vice-presidente e porta-voz do PSD rejeitou a ideia de um entendimento de fundo entre PS e PSD, atirou a Mário Centeno e ainda defendeu a legitimidade de Moedas para falar sobre Passos.",
+      "source": "Observador",
+      "date": "Fri, 09 Oct 2026 00:46:13 +0100",
+      "url": "https://observador.pt/programas/vichyssoise/bugalho-ambiencia-de-bloco-central-e-o-sonho-de-ventura/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151448/770-podcast-vichyssoise.jpg",
       "score": 0.7
     },
     {
-      "id": "b25c2bfe",
+      "id": "db093a71",
       "cat": "tecnologia",
-      "title": "Sem a ajuda do PRR, orçamento da Saúde cai 1,5% e quer cortar nas despesas extras com pessoal",
-      "summary": "Governo volta a querer reduzir gastos com a aquisição de bens e serviços, meta que falhou este ano. Despesa com pessoal aumenta, mas executivo quer menos gastos com soluções extraordinárias.",
-      "source": "Público",
-      "date": "Thu, 08 Oct 2026 19:38:53 GMT",
-      "url": "https://www.publico.pt/2026/10/08/sociedade/noticia/ajuda-prr-orcamento-saude-cai-15-quer-cortar-despesas-extras-pessoal-2190745",
-      "img": null,
+      "title": "Halle Berry impedida de se aproximar do filho",
+      "summary": "A filha de Halle Berry com Gabriel Aubry disse nunca ter presenciado nenhuma agressão da mãe contra o seu irmão. Em tribunal, Nahla Aubry disse recordar quando Olivier Martinez agrediu o seu pai.",
+      "source": "Observador",
+      "date": "Fri, 09 Oct 2026 00:43:09 +0100",
+      "url": "https://observador.pt/2026/10/09/halle-berry-impedida-de-se-aproximar-do-filho-apos-acusacao-de-agressao-pelo-ex-marido-olivier-martinez/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:37/q:70/plain/https://s3.observador.pt/wp-content/uploads/2015/09/154695119.jpg",
       "score": 0.7
     },
     {
