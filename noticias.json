@@ -1,5 +1,5 @@
 {
-  "last_update": "09/10/2026 22:32 UTC",
+  "last_update": "10/10/2026 05:30 UTC",
   "total": 30,
   "news": [
     {
@@ -69,28 +69,6 @@
       "score": 0.79
     },
     {
-      "id": "6a00a0a6",
-      "cat": "tecnologia",
-      "title": "Nem da nossa vida sabemos bem",
-      "summary": "Cada pessoa é um inventário de memórias e de projecções, uma espécie de armazém onde se acumulam episódios, desejos, medos, pequenas vitórias que ninguém viu e derrotas que exagerámos. Crónica de Cláudia Lucas Chéu",
-      "source": "Público",
-      "date": "Fri, 09 Oct 2026 19:45:00 GMT",
-      "url": "https://www.publico.pt/2026/10/09/p3/cronica/vida-sabemos-bem-2190736",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "b38ba341",
-      "cat": "tecnologia",
-      "title": "Câmara Municipal do Porto anuncia pré-acordo para comprar cinemas do Stop",
-      "summary": "Autarquia já tinha manifestado intenção de adquirir as duas salas do centro comercial. Equipamento deverá integrar rede de centros de criação que foi apresentado nesta sexta-feira.",
-      "source": "Público",
-      "date": "Fri, 09 Oct 2026 19:10:26 GMT",
-      "url": "https://www.publico.pt/2026/10/09/local/noticia/camara-municipal-porto-anuncia-preacordo-comprar-cinemas-stop-2190882",
-      "img": null,
-      "score": 0.76
-    },
-    {
       "id": "60d2db32",
       "cat": "tecnologia",
       "title": "Ronaldo e Samu Costa marcam na vitória do Al Nassr na Liga saudita",
@@ -126,23 +104,12 @@
     {
       "id": "6c1a32a3",
       "cat": "ciencia",
-      "title": "Nearly 200-year-old Tortoise Becomes First to Contribute Extraordinary Epigenome to Aging Research",
-      "summary": "A giant tortoise called Jonathan reinforces what we know from humans about healthy aging, say scientists, only the difference is that Jon is almost 200. Researchers have been conducting genetic tests on Jonathan who, at an estimated 194-years-old, is believed to be the world&#8217;s oldest living la",
+      "title": "Nearly 200-year-old Tortoise Becomes First to Contribute Extraordinary Epigenome to Research on Aging",
+      "summary": "A giant tortoise called Jonathan reinforces what we know about humans and healthy aging, say scientists—especially because Jon is almost 200. Researchers have been conducting genetic tests on Jonathan who, at an estimated 194-years-old, is believed to be the world&#8217;s oldest living land animal. ",
       "source": "Good News Network",
       "date": "Thu, 08 Oct 2026 18:30:07 +0000",
       "url": "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/12/Jonathan-oldest-tortoise-by-St-Helena-Tourism.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "9d49ac22",
-      "cat": "tecnologia",
-      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
-      "summary": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
-      "source": "BBC News",
-      "date": "Thu, 08 Oct 2026 19:39:32 GMT",
-      "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74f/live/9b2c8e90-c34e-11f1-bc2e-018d645d8d21.jpg",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jonathan-left-arrived-in-St-Helena-as-a-gift-to-Sir-William-Grey-Wilson-in-1882-.jpeg",
       "score": 0.76
     },
     {
@@ -157,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "a972fe2a",
+      "cat": "tecnologia",
+      "title": "O Sporting foi ao banco buscar a chave da vitória em Braga",
+      "summary": "“Leões” triunfam por 1-3 sobre o Sp. Braga no regresso do campeonato após a pausa para as selecções. Suárez e Zalazar foram fundamentais.",
+      "source": "Público",
+      "date": "Fri, 09 Oct 2026 21:19:46 GMT",
+      "url": "https://www.publico.pt/2026/10/09/desporto/cronica_de_jogo/sporting-banco-buscar-chave-vitoria-braga-2190899",
+      "img": null,
+      "score": 0.73
+    },
+    {
       "id": "91eab117",
       "cat": "tecnologia",
       "title": "Acordo entre Trump e Putin, condenado por Zelensky, reabre EUA ao petróleo russo a um mês das eleições",
@@ -168,25 +146,14 @@
       "score": 0.73
     },
     {
-      "id": "8d4ec68c",
-      "cat": "economia",
-      "title": "Fenprof chama \"farsa orçamental\" ao OE2027",
-      "summary": "Sindicatos de professores rejeitam proposta do Governo para a Educação, que prevê 7.787,9 milhões de euros em 2027. Fenprof diz que cumprir compromissos não é novo investimento.",
+      "id": "5ea23276",
+      "cat": "ciencia",
+      "title": "Como A Caça ao Estripador se transformou numa peça de teatro",
+      "summary": "Se adorou ouvir o podcast plus, não vai querer perder a hipótese de mergulhar n'A Caça ao Estripador de Lisboa: a primeira peça de teatro imersivo que nasce de uma investigação do Observador.",
       "source": "Observador",
-      "date": "Fri, 09 Oct 2026 21:18:52 +0100",
-      "url": "https://observador.pt/2026/10/09/professores-contra-o-oe2027-fenprof-denuncia-farsa-e-fne-exige-que-educacao-seja-prioridade-nacional/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:386/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/02/10200918/dventura-prof-joao-pedro-pinto-escola-braamcamp-freire-24-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "17adf42c",
-      "cat": "tecnologia",
-      "title": "Espionagem nas secretas surgiu \"no pior momento possível\"",
-      "summary": "Antigo diretor do BND foi acusado de espionagem e traição menos de dois meses depois de Merz ter avançado com uma reforma da agência. Desafio passa por reconquistar confiança dos eleitores e aliados.",
-      "source": "Observador",
-      "date": "Fri, 09 Oct 2026 21:16:28 +0100",
-      "url": "https://observador.pt/especiais/escandalo-de-espionagem-abala-servicos-secretos-que-merz-quer-reformar-bomba-atomica-caiu-no-pior-momento-possivel/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2300:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/02/03200833/gettyimages-1460037045-scaled.jpg",
+      "date": "Sat, 10 Oct 2026 01:25:57 +0100",
+      "url": "https://observador.pt/newsletters/observadores-premium/como-a-caca-ao-estripador-de-lisboa-se-transformou-numa-peca-de-teatro-imersivo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25121013/obs-16x9-1.png",
       "score": 0.73
     },
     {
@@ -223,14 +190,14 @@
       "score": 0.73
     },
     {
-      "id": "09370d36",
+      "id": "1c589ac8",
       "cat": "tecnologia",
-      "title": "Programa para valorizar queijos da região Centro é finalista dos Prémios dos Fundos Europeus",
-      "summary": "O Programa de Valorização da Fileira do Queijo da Região Centro &#8212; que abrange produtos de Denominação de Origem Protegida (DOP) da Beira Baixa, Serra da Estrela e Rabaçal &#8212; é finalista dos Prémios dos Fundos Europeus 2026, na categoria &#8220;Portugal + Próximo dos Cidadãos&#8221;. Esta ",
+      "title": "Marcelo Rebelo de Sousa ao ECO (a 10 de outubro de 2016): “Atenção à estabilidade fiscal”",
+      "summary": "ECO promove a conferência Fábrica2030, pelo décimo aniversário, no dia 14 de outubro no Porto, para discutir a escala das empresas. Conheça a agenda e inscreva-se aqui, últimos lugares disponíveis. O ECO nasceu precisamente há dez anos, António Costa era o primeiro-ministro da &#8216;Geringonça&#821",
       "source": "ECO",
-      "date": "Fri, 09 Oct 2026 18:56:14 +0000",
-      "url": "https://eco.sapo.pt/2026/10/09/programa-para-valorizar-queijos-da-regiao-centro-e-finalista-dos-premios-dos-fundos-europeus/",
-      "img": "https://eco.imgix.net/uploads/2021/03/cropped-queijos-dop_easy-resize-com.jpg",
+      "date": "Fri, 09 Oct 2026 23:01:00 +0000",
+      "url": "https://eco.sapo.pt/2026/10/10/marcelo-rebelo-de-sousa-ao-eco-a-10-de-outubro-de-2016-atencao-a-estabilidade-fiscal/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-captura-de-ecra-2026-10-10-as-025925.png",
       "score": 0.73
     },
     {
@@ -267,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "e3e4f37e",
+      "cat": "tecnologia",
+      "title": "Hurricane Isaias strengthens to a major category three storm",
+      "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
+      "source": "BBC News",
+      "date": "Fri, 09 Oct 2026 12:54:28 GMT",
+      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11af/live/b7dc7730-c3b2-11f1-a0b5-7b6bc14012a9.png",
+      "score": 0.73
+    },
+    {
       "id": "51038a20",
       "cat": "tecnologia",
       "title": "How NYC Students Saved School Lunch",
@@ -300,14 +278,36 @@
       "score": 0.73
     },
     {
-      "id": "417af8d9",
+      "id": "21b97f05",
       "cat": "tecnologia",
-      "title": "Lula em campanha sem panfletos nem pedidos de voto",
-      "summary": "A primeira campanha de rua de Lula para a segunda volta, em Ceilândia, ficou marcada pela ausência de panfletos e de apelos ao voto — e por eleitores ainda indecisos.",
+      "title": "Semana de quatro dias: experimentar mais e melhor",
+      "summary": "Compreendo que reduzir horas mantendo o serviço pareça contraintuitivo. Mas, perante a evidência acumulada nos últimos três anos, não compreendo que as elites portuguesas ignorem este caminho. Opinião de Pedro Gomes",
+      "source": "Público",
+      "date": "Fri, 09 Oct 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/10/10/opiniao/opiniao/semana-quatro-dias-experimentar-melhor-2190787",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "a37fd3cc",
+      "cat": "tecnologia",
+      "title": "As novas regras para as licenças das mães e dos pais.",
+      "summary": "Portugal prepara novas regras para as licenças parentais. Neste episódio explicamos o que muda, quais os novos direitos e como se pretende incentivar maior partilha entre mães e pais.",
       "source": "Observador",
-      "date": "Fri, 09 Oct 2026 22:23:28 +0100",
-      "url": "https://observador.pt/2026/10/09/lula-faz-comicio-em-reduto-bolsonarista-e-eleitores-estranham-falta-de-material-de-campanha/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/09194304/47913872.jpg",
+      "date": "Sat, 10 Oct 2026 05:03:25 +0100",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/as-novas-regras-para-as-licencas-das-maes-e-dos-pais/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/23154139/770-podcast-a-historia-do-dia-com-luis-soares.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "1eb54805",
+      "cat": "tecnologia",
+      "title": "4h. Isaias atinge Flórida como furacão de categoria dois",
+      "summary": "Com ventos destrutivos e uma onda de tempestades, meio milhão de pessoas estão sem energia elétrica. Ainda, regras para lojas de 'souvenirs\" com princípios das políticas para Alojamento Local",
+      "source": "Observador",
+      "date": "Sat, 10 Oct 2026 04:14:42 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2426/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
