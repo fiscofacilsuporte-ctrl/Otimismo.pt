@@ -1,5 +1,5 @@
 {
-  "last_update": "10/10/2026 05:30 UTC",
+  "last_update": "10/10/2026 12:18 UTC",
   "total": 30,
   "news": [
     {
@@ -69,6 +69,17 @@
       "score": 0.79
     },
     {
+      "id": "868acb54",
+      "cat": "economia",
+      "title": "China está prestes a entrar para o clube dos países de rendimento elevado",
+      "summary": "O Banco Mundial mantém a China entre as economias de rendimento médio-alto, apesar de quase meio século de crescimento acelerado. A recuperação dos preços e a valorização do yuan podem alterar a classificação no próximo ano.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 10 Oct 2026 10:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/segunda-maior-economia-do-mundo-continua-fora-do-clube-dos-paises-de-rendimento-elevado",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-08-02-38-00-491917.jpg",
+      "score": 0.76
+    },
+    {
       "id": "60d2db32",
       "cat": "tecnologia",
       "title": "Ronaldo e Samu Costa marcam na vitória do Al Nassr na Liga saudita",
@@ -77,28 +88,6 @@
       "date": "Fri, 09 Oct 2026 22:41:07 +0100",
       "url": "https://www.rtp.pt/noticias/futebol-internacional/ronaldo-e-samu-costa-marcam-na-vitoria-do-al-nassr-na-liga-saudita_d1770775",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/9f/9fb4831d3b61588640ed37c9870787d3?w=350&amp;q=50&amp;rect=0,24,1500,822&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "3755acb7",
-      "cat": "tecnologia",
-      "title": "Gaia rejeita estação de Alta Velocidade em Santo Ovídeo e quer alternativa em Mafamude e Vilar do Paraíso",
-      "summary": "A poucos dias do lançamento da primeira pedra da linha de alta velocidade, a Câmara Municipal de Gaia &#8220;reafirma a sua oposição à localização prevista para a estação em Santo Ovídio e exige que as entidades responsáveis reconsiderem uma solução para evitar perturbações profundas e prolongadas n",
-      "source": "ECO",
-      "date": "Fri, 09 Oct 2026 21:01:37 +0000",
-      "url": "https://eco.sapo.pt/2026/10/09/gaia-rejeita-estacao-de-comboio-de-alta-velocidade-em-santo-ovideo-e-quer-alternativa-em-mafamude-e-vilar-do-paraiso/",
-      "img": "https://eco.imgix.net/uploads/2026/02/cropped-menezes011.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "0afdf2cc",
-      "cat": "tecnologia",
-      "title": "Venda de posição na REN ao Estado permite “valorização adequada do investimento” da Fidelidade",
-      "summary": "Caso venha a obter ‘luz verde’ do Tribunal de Contas, a venda da posição de 5,32% na REN ao Estado português “poderá permitir uma valorização adequada do investimento realizado pela Fidelidade e, simultaneamente, poderá ter um impacto positivo no capital de solvência da seguradora”. Fonte oficial da",
-      "source": "ECO",
-      "date": "Fri, 09 Oct 2026 19:33:06 +0000",
-      "url": "https://eco.sapo.pt/2026/10/09/venda-de-posicao-na-ren-ao-estado-permite-valorizacao-adequada-do-investimento-da-fidelidade/",
-      "img": "https://eco.imgix.net/uploads/2024/10/cropped-fidelidade04.jpg",
       "score": 0.76
     },
     {
@@ -124,36 +113,80 @@
       "score": 0.76
     },
     {
-      "id": "a972fe2a",
-      "cat": "tecnologia",
-      "title": "O Sporting foi ao banco buscar a chave da vitória em Braga",
-      "summary": "“Leões” triunfam por 1-3 sobre o Sp. Braga no regresso do campeonato após a pausa para as selecções. Suárez e Zalazar foram fundamentais.",
+      "id": "d3590a61",
+      "cat": "saude",
+      "title": "Depois de A Parede , 13 contos de Marlen Haushofer regressam à casa",
+      "summary": "A casa e aquilo que nela se procura preservar. Por vezes, essa protecção torna possível muita crueldade.",
       "source": "Público",
-      "date": "Fri, 09 Oct 2026 21:19:46 GMT",
-      "url": "https://www.publico.pt/2026/10/09/desporto/cronica_de_jogo/sporting-banco-buscar-chave-vitoria-braga-2190899",
+      "date": "Sat, 10 Oct 2026 10:33:00 GMT",
+      "url": "https://www.publico.pt/2026/10/10/culturaipsilon/critica/parede-13-contos-marlen-haushofer-regressam-casa-2190435",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "91eab117",
+      "id": "a5f4b1d1",
       "cat": "tecnologia",
-      "title": "Acordo entre Trump e Putin, condenado por Zelensky, reabre EUA ao petróleo russo a um mês das eleições",
-      "summary": "Rússia fornecerá diesel “imediatamente” aos EUA, anunciou Trump e confirmou Putin. Zelensky arrasa decisão. Preços dos combustíveis estavam a penalizavar republicanos nas sondagens.",
+      "title": "Menstruação Leve Leve: Catarina levou 300 cuecas menstruais a São Tomé e Príncipe",
+      "summary": "Com a parceria de uma marca de cuecas menstruais e com o dinheiro angariado, a jovem criou uma iniciativa que tem como objectivo tornar “a dignidade menstrual mais visível”.",
       "source": "Público",
-      "date": "Fri, 09 Oct 2026 20:56:21 GMT",
-      "url": "https://www.publico.pt/2026/10/09/mundo/noticia/acordo-trump-putin-condenado-zelensky-reabre-eua-petroleo-russo-mes-eleicoes-2190896",
+      "date": "Sat, 10 Oct 2026 10:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/10/p3/noticia/menstruacao-leve-leve-catarina-levou-300-cuecas-menstruais-sao-tome-principe-2190567",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "5ea23276",
-      "cat": "ciencia",
-      "title": "Como A Caça ao Estripador se transformou numa peça de teatro",
-      "summary": "Se adorou ouvir o podcast plus, não vai querer perder a hipótese de mergulhar n'A Caça ao Estripador de Lisboa: a primeira peça de teatro imersivo que nasce de uma investigação do Observador.",
+      "id": "4b58b473",
+      "cat": "tecnologia",
+      "title": "Vitória tem Covid Longa e quer ir à escola sem rótulos",
+      "summary": "Fadiga crónica, febres e dores sem diagnóstico durante anos. Estima-se que 100 mil portugueses têm Covid Longa — 17,6% dos casos identificados são crianças e jovens.",
       "source": "Observador",
-      "date": "Sat, 10 Oct 2026 01:25:57 +0100",
-      "url": "https://observador.pt/newsletters/observadores-premium/como-a-caca-ao-estripador-de-lisboa-se-transformou-numa-peca-de-teatro-imersivo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/25121013/obs-16x9-1.png",
+      "date": "Sat, 10 Oct 2026 11:20:45 +0100",
+      "url": "https://observador.pt/2026/10/10/diagnosticada-com-covid-longa-vitoria-quer-ir-a-escola-sem-medo-de-rotulos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/06/27081053/31053652.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "94c876d1",
+      "cat": "tecnologia",
+      "title": "Paulo Saragoça da Mata: \"A lei não distingue prazos\"",
+      "summary": "O advogado analisa os prazos processuais, na sequência da notícia de que o PGR deu instruções aos procuradores para recorrerem das decisões dos juízes que anulam investigações demoradas.",
+      "source": "Observador",
+      "date": "Sat, 10 Oct 2026 11:17:21 +0100",
+      "url": "https://observador.pt/programas/resposta-pronta/paulo-saragoca-da-mata-a-vida-tem-mais-imaginacao-do-que-o-direito/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1683:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2023/07/03164959/1q9a2321.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "a8f11e12",
+      "cat": "tecnologia",
+      "title": "11h. Espanha. Começam hoje os comícios para as eleições",
+      "summary": "O PP está em Madrid e o PSOE arranca a pré-campanha em Sevilha. E ainda, o Procurador-Geral da República quer impedir os juízes de anular investigações do Ministério Público demasiado demoradas",
+      "source": "Observador",
+      "date": "Sat, 10 Oct 2026 11:17:15 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-11h-1327/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "c7f8918a",
+      "cat": "economia",
+      "title": "A arte de vender exclusividade",
+      "summary": "Sentir-se especial e rodear-se de objetos de qualidade e exclusivos é uma aspiração que atravessa o comportamento dos consumidores. As marcas souberam captar o sentimento e deram força a uma tendência de marketing: a “premiumização”. Os serviços premium tanto servem para conquistar novos mercados en",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 10 Oct 2026 11:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/detalhe/a-arte-de-vender-exclusividade",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-09-10-34-00-530820.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "8a702f85",
+      "cat": "tecnologia",
+      "title": "Presidência irlandesa da UE propõe cortes de 8% na proposta orçamental e quer acordo até ao Natal",
+      "summary": "A presidência irlandesa do Conselho da União Europeia (UE) propôs hoje cortes de 8% na proposta comunitária de orçamento plurianual para 2028 a 2034, para um total de 1,62 biliões de euros, sem mexer na coesão e agricultura. Thomas Byrne espera acordo até ao Natal",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 10 Oct 2026 10:54:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/presidencia-irlandesa-da-ue-propoe-cortes-de-8-na-proposta-orcamental-ate-2034",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-17-12-17-57-511386.jpg",
       "score": 0.73
     },
     {
@@ -190,14 +223,36 @@
       "score": 0.73
     },
     {
-      "id": "1c589ac8",
+      "id": "38050ae1",
       "cat": "tecnologia",
-      "title": "Marcelo Rebelo de Sousa ao ECO (a 10 de outubro de 2016): “Atenção à estabilidade fiscal”",
-      "summary": "ECO promove a conferência Fábrica2030, pelo décimo aniversário, no dia 14 de outubro no Porto, para discutir a escala das empresas. Conheça a agenda e inscreva-se aqui, últimos lugares disponíveis. O ECO nasceu precisamente há dez anos, António Costa era o primeiro-ministro da &#8216;Geringonça&#821",
+      "title": "Preço grossista da eletricidade ibérica é o terceiro mais caro de sempre no outono",
+      "summary": "O preço da eletricidade no mercado grossista ibérico está a registar, este outono, um dos períodos mais caros da sua história, de acordo com cálculos da agência EFE, numa altura de maior utilização das centrais a gás. Segundo estes dados, que têm por base a informação do mercado ibérico OMIE, este i",
       "source": "ECO",
-      "date": "Fri, 09 Oct 2026 23:01:00 +0000",
-      "url": "https://eco.sapo.pt/2026/10/10/marcelo-rebelo-de-sousa-ao-eco-a-10-de-outubro-de-2016-atencao-a-estabilidade-fiscal/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-captura-de-ecra-2026-10-10-as-025925.png",
+      "date": "Sat, 10 Oct 2026 09:34:31 +0000",
+      "url": "https://eco.sapo.pt/2026/10/10/preco-grossista-da-eletricidade-iberica-e-o-terceiro-mais-caro-de-sempre-no-outono/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-doc201412011855891004510428.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c3fd1300",
+      "cat": "tecnologia",
+      "title": "Um Orçamento sem potência",
+      "summary": "A conferência de imprensa de apresentação do Orçamento do Estado para 2027 começou com um pequeno vídeo que celebra essencialmente o passado: o quarto ano com excedente orçamental, a dívida pública abaixo dos 90%, as cinco subidas da classificação da dívida pública em dois anos, o crescimento da eco",
+      "source": "ECO",
+      "date": "Sat, 10 Oct 2026 09:30:25 +0000",
+      "url": "https://eco.sapo.pt/opiniao/um-orcamento-sem-potencia/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2021/06/andre-verissimo-opiniao-01-01-versao-final-01.png",
+      "score": 0.73
+    },
+    {
+      "id": "b252800c",
+      "cat": "tecnologia",
+      "title": "Reunião magna da UGT marcada por escolha de sucessor de Lucinda Dâmaso",
+      "summary": "O 15.º Congresso da UGT arranca neste sábado na Figueira da Foz, quase quatro meses após o &#8220;chumbo&#8221; da lei laboral, numa reunião que será marcada pela escolha de quem vai suceder a Lucinda Dâmaso na presidência da central sindical, dado que a ex-vice presidente do PSD, que está no cargo ",
+      "source": "ECO",
+      "date": "Sat, 10 Oct 2026 09:06:37 +0000",
+      "url": "https://eco.sapo.pt/2026/10/10/reuniao-magna-da-ugt-marcada-por-escolha-de-sucessor-de-lucinda-damaso/",
+      "img": "https://eco.imgix.net/uploads/2025/11/cropped-doc202511264609983520251126filipeamorim4470-1.jpg",
       "score": 0.73
     },
     {
@@ -276,61 +331,6 @@
       "url": "https://reasonstobecheerful.world/the-spark-the-community-lighthouses/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/First-Grace-UMC-2-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "21b97f05",
-      "cat": "tecnologia",
-      "title": "Semana de quatro dias: experimentar mais e melhor",
-      "summary": "Compreendo que reduzir horas mantendo o serviço pareça contraintuitivo. Mas, perante a evidência acumulada nos últimos três anos, não compreendo que as elites portuguesas ignorem este caminho. Opinião de Pedro Gomes",
-      "source": "Público",
-      "date": "Fri, 09 Oct 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/10/10/opiniao/opiniao/semana-quatro-dias-experimentar-melhor-2190787",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "a37fd3cc",
-      "cat": "tecnologia",
-      "title": "As novas regras para as licenças das mães e dos pais.",
-      "summary": "Portugal prepara novas regras para as licenças parentais. Neste episódio explicamos o que muda, quais os novos direitos e como se pretende incentivar maior partilha entre mães e pais.",
-      "source": "Observador",
-      "date": "Sat, 10 Oct 2026 05:03:25 +0100",
-      "url": "https://observador.pt/programas/a-hist-ria-do-dia/as-novas-regras-para-as-licencas-das-maes-e-dos-pais/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/23154139/770-podcast-a-historia-do-dia-com-luis-soares.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "1eb54805",
-      "cat": "tecnologia",
-      "title": "4h. Isaias atinge Flórida como furacão de categoria dois",
-      "summary": "Com ventos destrutivos e uma onda de tempestades, meio milhão de pessoas estão sem energia elétrica. Ainda, regras para lojas de 'souvenirs\" com princípios das políticas para Alojamento Local",
-      "source": "Observador",
-      "date": "Sat, 10 Oct 2026 04:14:42 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2426/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "29ec8233",
-      "cat": "tecnologia",
-      "title": "Carneiro duvida de verbas para pós-PRR e tempestades e acusa Governo de \"incompetência\"",
-      "summary": "Líder do PS disse que o partido vai analisar a proposta orçamental para perceber se os montantes inscritos são suficientes para responder a duas das condições colocadas pelos socialistas para viabilizar o Orçamento.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 09 Oct 2026 22:00:03 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-duvida-de-verbas-para-pos-prr-e-tempestades-e-acusa-governo-de-incompetencia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-15-01-00-524387.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "5f2e6a44",
-      "cat": "tecnologia",
-      "title": "Wall Street no verde à espera de época de resultados positiva. SpaceX pressiona operadoras móveis",
-      "summary": "As principais bolsas norte-americanas subiram, impulsionadas pela antecipação de mais uma temporada de resultados trimestrais positiva. Em quebra esteve o setor das telecomunicações, após a SpaceX reforçar a corrida à área.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 09 Oct 2026 21:19:40 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-no-verde-a-espera-de-epoca-de-resultados-positiva-spacex-pressiona-operadoras-moveis",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-08-21-07-12-521764.jpg",
-      "score": 0.7
     }
   ]
 }
