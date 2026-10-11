@@ -1,7 +1,18 @@
 {
-  "last_update": "11/10/2026 05:25 UTC",
+  "last_update": "11/10/2026 12:35 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "da88ebfd",
+      "cat": "ciencia",
+      "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+      "summary": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infect",
+      "source": "ScienceDaily",
+      "date": "Sat, 10 Oct 2026 20:45:37 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+      "img": "https://www.sciencedaily.com/images/1920/production-of-birch-tar.webp",
+      "score": 0.85
+    },
     {
       "id": "3e6964d1",
       "cat": "tecnologia",
@@ -11,28 +22,6 @@
       "date": "Fri, 02 Oct 2026 05:46:05 +0000",
       "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/10/RS24644_Timnit-Gebru-2026-right-livelihood-laureate-002.jpg",
-      "score": 0.82
-    },
-    {
-      "id": "a4d743d1",
-      "cat": "ciencia",
-      "title": "This “golden tree” coral was too strange for any known family",
-      "summary": "A brilliant yellow coral discovered off Costa Rica proved so unusual that scientists had to create an entirely new family to classify it. The meter-tall colonies rise from seafloors covered in brittle stars, inspiring the Tolkien-inspired name Laurinque elenya, or “golden tree of the stars.” Advance",
-      "source": "ScienceDaily",
-      "date": "Thu, 08 Oct 2026 09:18:54 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
-      "img": "https://www.sciencedaily.com/images/1920/laurinque-elenya.webp",
-      "score": 0.82
-    },
-    {
-      "id": "8845f5ef",
-      "cat": "ciencia",
-      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-      "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 rare “extreme debris disks” around young stars, researchers found that their dus",
-      "source": "ScienceDaily",
-      "date": "Wed, 07 Oct 2026 09:09:15 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
-      "img": "https://www.sciencedaily.com/images/1920/extreme-debris-disk.webp",
       "score": 0.82
     },
     {
@@ -69,6 +58,28 @@
       "score": 0.79
     },
     {
+      "id": "f8cf262d",
+      "cat": "tecnologia",
+      "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
+      "summary": "Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly from outside the body, the seed-sized technology has shown promising results in ear",
+      "source": "ScienceDaily",
+      "date": "Sat, 10 Oct 2026 20:23:19 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm",
+      "img": "https://www.sciencedaily.com/images/1920/tiny-wireless-device-treats-chronic-pain.webp",
+      "score": 0.79
+    },
+    {
+      "id": "99ebbff0",
+      "cat": "cultura",
+      "title": "Jon Fosse no Fólio: “Continuo a ser aquele rapaz de 12 anos que está a escrever”",
+      "summary": "No primeiro sábado do Festival Literário Internacional de Óbidos, o norueguês de 67 anos, Prémio Nobel da Literatura 2023 , foi a grande atracção. Volta ao Fólio esta tarde, na Livraria do Mercado.",
+      "source": "Público",
+      "date": "Sun, 11 Oct 2026 09:56:08 GMT",
+      "url": "https://www.publico.pt/2026/10/11/culturaipsilon/noticia/jon-folio-continuo-rapaz-12-anos-escrever-2190971",
+      "img": null,
+      "score": 0.76
+    },
+    {
       "id": "7d21d731",
       "cat": "tecnologia",
       "title": "Lost Italian Statue by Trevi Fountain Artist Discovered in Salvage Yard Among the Garden Ornaments",
@@ -91,91 +102,36 @@
       "score": 0.76
     },
     {
-      "id": "fc6e258e",
+      "id": "a9ee108f",
       "cat": "tecnologia",
-      "title": "Só 10% chegaria ao ensino superior, mas aqui o futuro não depende da origem",
-      "summary": "Soraia tem 18 anos e sonha ser m&eacute;dica dentista. Leandro, 12, ainda anda &agrave; descoberta. O Gulbenkian Aprender quer dar-lhes oportunidades para irem mais longe.",
+      "title": "Nova licença parental: quantos dias podem ser gozados e quanto vão receber os pais?",
+      "summary": "PSD e PS chegaram a acordo para aumentar a licença parental paga a 100% de 120 para 150 dias. O período pode chegar aos 210 dias, mas com condições de partilha e remuneração inferior.",
       "source": "Público",
-      "date": "Sun, 11 Oct 2026 05:00:00 GMT",
-      "url": "https://www.publico.pt/2026/10/11/video/so-10-chegariam-ensino-superior-aqui-futuro-nao-depende-origem-20261008-122444",
+      "date": "Sun, 11 Oct 2026 12:01:47 GMT",
+      "url": "https://www.publico.pt/2026/10/11/politica/noticia/nova-licenca-parental-dias-podem-gozados-vao-receber-pais-2190948",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "ea9df11c",
-      "cat": "tecnologia",
-      "title": "O regresso à Idade Média",
-      "summary": "O Presidente americano parece ter mergulhado numa espiral de loucura, que cresce à medida que se aproximam as eleições intercalares. Opinião de Teresa de Sousa",
+      "id": "5e867863",
+      "cat": "saude",
+      "title": "Quando não há cura para a doença, ser cuidado em casa faz muita diferença",
+      "summary": "Bernardino, de 89 anos, é um dos cinco doentes actualmente abrangido por projecto da Cruz Vermelha Portuguesa que leva cuidados paliativos ao domicílio de doentes em fim de vida no concelho do Porto.",
       "source": "Público",
-      "date": "Sun, 11 Oct 2026 04:58:00 GMT",
-      "url": "https://www.publico.pt/2026/10/11/opiniao/opiniao/regresso-idade-media-2190935",
+      "date": "Sun, 11 Oct 2026 11:36:00 GMT",
+      "url": "https://www.publico.pt/2026/10/11/sociedade/reportagem/nao-ha-cura-doenca-cuidado-casa-faz-diferenca-2190387",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "7538f733",
-      "cat": "sociedade",
-      "title": "A herança do facilitismo: quem são, afinal, os “rascas”?",
-      "summary": "O que temos hoje não é uma juventude sem causas, mas uma geração moldada por um “abandono familiar involuntário” e por uma escola transformada em pronto-socorro social. Opinião de João Nuno Tavares",
-      "source": "Público",
-      "date": "Sat, 10 Oct 2026 23:20:00 GMT",
-      "url": "https://www.publico.pt/2026/10/11/opiniao/opiniao/heranca-facilitismo-sao-afinal-rascas-2190796",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "e8490fb5",
+      "id": "8717358e",
       "cat": "tecnologia",
-      "title": "Obama em Lisboa: IA, democracia e farpas a Trump",
-      "summary": "Em Lisboa, dez mil pessoas aplaudiram Barack Obama. O ex-presidente dos EUA alertou para o crescimento do autoritarismo e criticou a política de Trump e os riscos da IA.",
+      "title": "O meu filho já experimentou álcool. E agora?",
+      "summary": "Primeiras noitadas, primeiras cervejas, primeiros shots. E as primeiras bebedeiras. O contacto com o álcool pode começar na adolescência, por curiosidade ou pressão de grupo. Como reagir a isto?",
       "source": "Observador",
-      "date": "Sun, 11 Oct 2026 00:57:38 +0100",
-      "url": "https://observador.pt/2026/10/11/obama-em-lisboa-as-farpas-a-trump-os-avisos-sobre-ia-e-os-riscos-para-a-democracia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3200:1799:nowe:0:167/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/10211527/nrp11285-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "08e8cd07",
-      "cat": "tecnologia",
-      "title": "A desesperança do Santo António",
-      "summary": "Políticos passados, fossem ateus ou agnósticos, tinham formação cristã ao contrário da maioria dos actuais. A política tornou-se num jogo sem a capacidade de elevação que a coragem política exige.",
-      "source": "Observador",
-      "date": "Sun, 11 Oct 2026 00:22:14 +0100",
-      "url": "https://observador.pt/opiniao/a-desesperanca-do-santo-antonio/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2224%3A2224%3Anowe%3A226%3A374%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170541%2Fandre-amaral.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "81a84850",
-      "cat": "tecnologia",
-      "title": "\"Ensino atual é castrador de inovação\", considera CEO do BPI",
-      "summary": "A falta de mudança no ensino foi a principal crítica do CEO do BPI, especialmente tendo em conta o mundo em mudança. Os líderes da Meo, EDP e Generali Tranquilidade sustentam que as empresas têm de colaborar e executar para continuarem a dar competitividade ao país.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 10 Oct 2026 19:20:20 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/educacao/detalhe/ensino-atual-e-castrador-de-inovacao-considera-ceo-do-bpi",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-10-17-26-07-530891.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "80919d07",
-      "cat": "tecnologia",
-      "title": "Frederico Varandas: liderança \"nasce connosco\" e um líder não procura \"popularidade\"",
-      "summary": "O Presidente do Sporting participou num painel no VI Game Changers Forum com Filipe de Botton, líder da Logoplaste. Discutiu-se liderança e responsabilidades de quem está \"no topo da pirâmide\".",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 10 Oct 2026 19:14:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/frederico-varandas-lideranca-nasce-connosco-e-um-lider-nao-procura-popularidade",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-10-18-44-00-530901.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "2d1fe130",
-      "cat": "economia",
-      "title": "Gestores pedem mais ambição e \"escala\" às empresas portuguesas para competir lá fora",
-      "summary": "Vasco Antunes Pereira, da Lusíadas Saúde, Alberto Ramos, do Bankinter, e Miguel Cardoso Pinto, da EY, discutiram os contornos do investimento em Portugal, com condução de Alexandra Andrade, da Adecco, no VI Game Changers Forum.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 10 Oct 2026 18:27:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/gestores-pedem-mais-ambicao-e-escala-as-empresas-portuguesas-para-competir-la-fora",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-10-18-05-18-530896.jpg",
+      "date": "Sun, 11 Oct 2026 10:40:36 +0100",
+      "url": "https://observador.pt/especiais/o-meu-filho-ja-experimentou-alcool-e-agora/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/09112248/770alcool.jpg",
       "score": 0.73
     },
     {
@@ -223,25 +179,36 @@
       "score": 0.73
     },
     {
-      "id": "a836e68a",
+      "id": "2b38a193",
       "cat": "tecnologia",
-      "title": "Mitrena: Porto de Setúbal vai “lançar um concurso, porque a concessão acabou”",
-      "summary": "Desmantelar navios que hoje vão \"morrer\" na costa da Índia, construir eólicas, readaptar navios de cruzeiro são algumas das perspetivas de conquista de indústrias de alto valor acrescentado para o porto de Setúbal. Vítor Caldeirinha, presidente dos Portos de Lisboa e Setúbal, conta o que está a ser ",
+      "title": "Montenegro apela ao fim da conjuntura que leva à insensatez da subida do preço do petróleo",
+      "summary": "O primeiro-ministro condenou a conjuntura internacional &#8220;difícil&#8221; que leva à insensatez da subida do preço do petróleo, que tem &#8220;penalizado as economias e as pessoas&#8221;, pedindo o seu fim. &#8220;Nós temos de resolver esta questão (&#8230;) nas próximas semanas, nos próximos te",
       "source": "ECO",
-      "date": "Sat, 10 Oct 2026 17:58:45 +0000",
-      "url": "https://eco.sapo.pt/entrevista/mitrena-porto-de-setubal-vai-lancar-um-concurso-porque-a-concessao-acabou/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-vitor-caldeirinha07.jpg",
+      "date": "Sun, 11 Oct 2026 12:19:58 +0000",
+      "url": "https://eco.sapo.pt/2026/10/11/montenegro-apela-ao-fim-da-conjuntura-que-leva-a-insensatez-da-subida-do-preco-do-petroleo/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47921873-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "27aa8428",
+      "id": "32d68cf1",
       "cat": "tecnologia",
-      "title": "Daughter Gets to Join Dad as Co-Pilot, With Mom Serving on Flight’s Cabin Crew: A Surprise Full Circle Moment",
-      "summary": "A young pilot flew a commercial jet alongside her father as captain for the first time—while her mother worked in the cabin crew on the same flight. 22-year-old Zoë took to the skies with both her parents aboard the Dutch airline KLM flying out of Amsterdam. The unique family’s work shift came as a ",
+      "title": "Faminto: Daqui ninguém sai com fome",
+      "summary": "&#160; Caro M. O Faminto (faminto.pt), localizado na Avenida D. Carlos I, nº 61, abriu em Março deste ano. É um espaço onde se pode entrar por dois acessos. Um direto, na esquina com a Rua da Esperança. Outro, um pouco mais abaixo, partilhado com a entrada do Inspira Santos Boutique Hotel. Restauran",
+      "source": "ECO",
+      "date": "Sun, 11 Oct 2026 08:00:14 +0000",
+      "url": "https://eco.sapo.pt/2026/10/11/faminto-daqui-ninguem-sai-com-fome/",
+      "img": "https://eco.imgix.net/uploads/2026/10/2amesa-restaurante-no6-2000x1125-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "efd97263",
+      "cat": "cultura",
+      "title": "Good News in History, October 11",
+      "summary": "51 years ago today, Saturday Night Live premiered on NBC with George Carlin as host. The seminal comedy television program in American history, SNL has launched the careers of dozens of talented writers, comics, and actors. Broadcast from Studio 8H at NBC&#8217;s headquarters in the Comcast Building",
       "source": "Good News Network",
-      "date": "Sat, 10 Oct 2026 15:25:15 +0000",
-      "url": "https://www.goodnewsnetwork.org/daughter-gets-to-join-dad-as-co-pilot-with-mom-serving-on-cabin-crew/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Family-is-airline-crew-released-by-Zoe-de-Bruijn-via-SWNS.jpeg",
+      "date": "Sun, 11 Oct 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events061011/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/10/chevy-chase-weekend-update.jpg",
       "score": 0.73
     },
     {
@@ -311,25 +278,58 @@
       "score": 0.73
     },
     {
-      "id": "08d69c8e",
+      "id": "726aedfd",
       "cat": "tecnologia",
-      "title": "As notícias das 4h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Papa Leão XIV vai ser operado a um nódulo no pulmão",
+      "summary": "\"Foi detetado numa fase muito inicial e bem localizado\", afirmou o representante da Igreja Católica, que vai passar por uma cirurgia \"nos próximos dias\" para a remoção do nódulo.",
       "source": "Observador",
-      "date": "Sun, 11 Oct 2026 04:14:30 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2427/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sun, 11 Oct 2026 11:34:17 +0100",
+      "url": "https://observador.pt/2026/10/11/papa-leao-xiv-anuncia-que-tem-um-nodulo-no-pulmao-sera-submetido-a-uma-cirurgia-nos-proximos-dias/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1934:1084:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/02114047/jporfirio-papa-leao-beirute-libano-02-12-dia2-01-1.jpg",
       "score": 0.7
     },
     {
-      "id": "c8ced442",
+      "id": "345c0691",
       "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "title": "MotoGP. Bezzecchi vence e Martín recupera liderança",
+      "summary": "Com o resultado deste domingo, a Aprilia passou a liderar também o campeonato de construtores, com 503 pontos, mais 12 do que a Ducati.",
+      "source": "Observador",
+      "date": "Sun, 11 Oct 2026 11:18:59 +0100",
+      "url": "https://observador.pt/2026/10/11/bezzecchi-vence-na-indonesia-e-martin-recupera-lideranca-do-mundial-de-motogp/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/11105801/47921730.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "ddf2b3e0",
+      "cat": "tecnologia",
+      "title": "Papa Leão XIV vai ser operado para remover nódulo num pulmão",
+      "summary": "O líder da igreja Católica anunciou que o nódulo foi detetado recentemente durante exames de controlo e numa fase \"muito inicial\".",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 11 Oct 2026 13:26:35 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/papa-leao-xiv-vai-ser-operado-para-remover-nodulo-num-pulmao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-11-13-25-43-530925.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "d9f1e5c6",
+      "cat": "tecnologia",
+      "title": "Por dentro das campanhas eleitorais",
+      "summary": "Ensaio do jornalista João Diogo Correia sobre os bastidores das mais importantes corridas eleitorais nas últimas décadas.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 11 Oct 2026 13:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/weekend/livros/detalhe/por-dentro-das-campanhas-eleitorais",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-09-10-58-00-530825.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "af37e46f",
+      "cat": "tecnologia",
+      "title": "O bloco central",
+      "summary": "A discussão do Orçamento do Estado para 2027 arranca em plena polémica entre Jorge Jesus e Cristiano Ronaldo.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 11 Oct 2026 12:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/o-bloco-central",
+      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-21-15-20-00-296329.png",
       "score": 0.7
     }
   ]
