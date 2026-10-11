@@ -1,5 +1,5 @@
 {
-  "last_update": "11/10/2026 12:35 UTC",
+  "last_update": "11/10/2026 21:45 UTC",
   "total": 30,
   "news": [
     {
@@ -23,17 +23,6 @@
       "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/10/RS24644_Timnit-Gebru-2026-right-livelihood-laureate-002.jpg",
       "score": 0.82
-    },
-    {
-      "id": "429b5a45",
-      "cat": "ambiente",
-      "title": "Local Opinion and Involvement Found as Key Determinant in World’s Conservation Success Stories",
-      "summary": "Scientists seeking out why some endangered animals or ecosystems are thriving while others are in decline have made an encouraging determination. Across a worldwide, cross-section of conservation success stories, they found it wasn&#8217;t a question of money, but of the actions of the locals, that ",
-      "source": "Good News Network",
-      "date": "Fri, 09 Oct 2026 13:00:08 +0000",
-      "url": "https://www.goodnewsnetwork.org/local-opinion-and-involvement-found-as-key-determinant-in-worlds-conservation-success-stories/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Professor-Josh-Cinner-working-on-coral-reef-conservation-with-local-community-in-PNG.jpg",
-      "score": 0.79
     },
     {
       "id": "662cfdf3",
@@ -69,14 +58,47 @@
       "score": 0.79
     },
     {
-      "id": "99ebbff0",
-      "cat": "cultura",
-      "title": "Jon Fosse no Fólio: “Continuo a ser aquele rapaz de 12 anos que está a escrever”",
-      "summary": "No primeiro sábado do Festival Literário Internacional de Óbidos, o norueguês de 67 anos, Prémio Nobel da Literatura 2023 , foi a grande atracção. Volta ao Fólio esta tarde, na Livraria do Mercado.",
+      "id": "c1380053",
+      "cat": "tecnologia",
+      "title": "Superbikes: Miguel Oliveira oitavo no Estoril em nova vitória e recorde de Bulega",
+      "summary": "Português partiu da quarta posição, mas acabou por pagar o preço de duas saídas de trajectória. No Mundial de piloto, continua na 11.ª posição.",
       "source": "Público",
-      "date": "Sun, 11 Oct 2026 09:56:08 GMT",
-      "url": "https://www.publico.pt/2026/10/11/culturaipsilon/noticia/jon-folio-continuo-rapaz-12-anos-escrever-2190971",
+      "date": "Sun, 11 Oct 2026 16:34:50 GMT",
+      "url": "https://www.publico.pt/2026/10/11/desporto/noticia/superbikes-miguel-oliveira-oitavo-estoril-nova-vitoria-recorde-bulega-2191007",
       "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "a1f6980a",
+      "cat": "tecnologia",
+      "title": "Vicente Pereira sonha em participar nos Jogos Paralímpicos",
+      "summary": "Vicente Pereira é um nadador português com síndrome de Down. Tem 17 títulos de Campeão Mundial, 27 Europeus e inúmeros recordes em provas para atletas com síndrome de Down.",
+      "source": "RTP",
+      "date": "Sun, 11 Oct 2026 22:10:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/vicente-pereira-sonha-em-participar-nos-jogos-paralimpicos_v1771066",
+      "img": "https://cdn-images.rtp.pt/icm/images/46/46ca0b205517a7076a00e4123da1cd09_N.jpg?",
+      "score": 0.76
+    },
+    {
+      "id": "56e538b0",
+      "cat": "tecnologia",
+      "title": "Superbikes: Miguel Oliveira oitavo no Estoril em nova vitória e recorde de Bulega",
+      "summary": "A temporada termina no próximo fim de semana, com a prova de Jerez de la Frontera, em Espanha, de sexta-feira a 18 de outubro.",
+      "source": "RTP",
+      "date": "Sun, 11 Oct 2026 18:48:35 +0100",
+      "url": "https://www.rtp.pt/noticias/motores/superbikes-miguel-oliveira-oitavo-no-estoril-em-nova-vitoria-e-recorde-de-bulega_d1771046",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6e7ff7428bae25cab3ff45a356897343?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "45b0089a",
+      "cat": "tecnologia",
+      "title": "Giant Tortoise Population is Thriving–Survey Finds 180,000 on One Island Chain",
+      "summary": "A landmark survey of the world’s largest free-roaming giant tortoise population has revealed the once-endangered species is now thriving. The latest count of tortoises on the Seychelles atoll of Aldabra revealed that there are approximately 180,000 living on the islands. This is the highest figure e",
+      "source": "Good News Network",
+      "date": "Sun, 11 Oct 2026 16:11:41 +0000",
+      "url": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Giant-Tortoises-in-the-Seychelles-SWNS.jpeg",
       "score": 0.76
     },
     {
@@ -102,36 +124,69 @@
       "score": 0.76
     },
     {
-      "id": "a9ee108f",
-      "cat": "tecnologia",
-      "title": "Nova licença parental: quantos dias podem ser gozados e quanto vão receber os pais?",
-      "summary": "PSD e PS chegaram a acordo para aumentar a licença parental paga a 100% de 120 para 150 dias. O período pode chegar aos 210 dias, mas com condições de partilha e remuneração inferior.",
-      "source": "Público",
-      "date": "Sun, 11 Oct 2026 12:01:47 GMT",
-      "url": "https://www.publico.pt/2026/10/11/politica/noticia/nova-licenca-parental-dias-podem-gozados-vao-receber-pais-2190948",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "5e867863",
-      "cat": "saude",
-      "title": "Quando não há cura para a doença, ser cuidado em casa faz muita diferença",
-      "summary": "Bernardino, de 89 anos, é um dos cinco doentes actualmente abrangido por projecto da Cruz Vermelha Portuguesa que leva cuidados paliativos ao domicílio de doentes em fim de vida no concelho do Porto.",
-      "source": "Público",
-      "date": "Sun, 11 Oct 2026 11:36:00 GMT",
-      "url": "https://www.publico.pt/2026/10/11/sociedade/reportagem/nao-ha-cura-doenca-cuidado-casa-faz-diferenca-2190387",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "8717358e",
-      "cat": "tecnologia",
-      "title": "O meu filho já experimentou álcool. E agora?",
-      "summary": "Primeiras noitadas, primeiras cervejas, primeiros shots. E as primeiras bebedeiras. O contacto com o álcool pode começar na adolescência, por curiosidade ou pressão de grupo. Como reagir a isto?",
+      "id": "c4058562",
+      "cat": "geral",
+      "title": "É urgente a esperança",
+      "summary": "Talvez algumas dessas contestações possam não ser substantivas. Talvez algumas demagógicas, até. Mas enquanto têm força para contestar encontram disponibilidade para acreditar.",
       "source": "Observador",
-      "date": "Sun, 11 Oct 2026 10:40:36 +0100",
-      "url": "https://observador.pt/especiais/o-meu-filho-ja-experimentou-alcool-e-agora/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/09112248/770alcool.jpg",
+      "date": "Sun, 11 Oct 2026 18:39:03 +0100",
+      "url": "https://observador.pt/opiniao/e-urgente-a-esperanca/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0c7535cf",
+      "cat": "tecnologia",
+      "title": "Kipruto vence Chicago com recorde pessoal",
+      "summary": "O queniano Amos Kipruto e a etíope Hawi Feysa brilharam em Chicago, com recordes pessoais que os colocam entre os melhores maratonistas de sempre.",
+      "source": "Observador",
+      "date": "Sun, 11 Oct 2026 18:36:48 +0100",
+      "url": "https://observador.pt/2026/10/11/kipruto-e-feysa-vencem-maratona-de-chicago-com-grandes-marcas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:59/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/11164325/45835263.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "51e4c09f",
+      "cat": "tecnologia",
+      "title": "45 migrantes resgatados ao largo de Gavdos",
+      "summary": "A operação decorreu no âmbito da missão 'JO Greece 2026', da Frontex. Em três dias, a Polícia Marítima portuguesa salvou no total 190 pessoas nas águas ao largo de Gavdos.",
+      "source": "Observador",
+      "date": "Sun, 11 Oct 2026 18:32:31 +0100",
+      "url": "https://observador.pt/2026/10/11/policia-maritima-resgata-45-migrantes-em-operacao-na-grecia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:177/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/12/17100222/39896595.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "6e0c1de8",
+      "cat": "economia",
+      "title": "Passos Coelho: \"PSD tinha a obrigação de explorar entendimento com CDS, Chega e IL\"",
+      "summary": "O ex-primeiro-ministro diz que \"não está candidato a nada\", deixou críticas aos Governos de António Costa e deixa recados ao Executivo liderado por Luís Montenegro.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 11 Oct 2026 22:16:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/passos-coelho-psd-tinha-a-obrigacao-de-explorar-entendimento-com-cds-chega-e-il",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-11-21-11-25-530940.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ba832359",
+      "cat": "tecnologia",
+      "title": "Canadá diz que acordo sobre gasóleo russo \"contraria diretamente\" esforços de paz",
+      "summary": "Donald Trump anunciou na sexta-feira um acordo com o Presidente da Rússia, Vladimir Putin, para fornecer 300 mil toneladas de gasóleo russo ao mercado norte-americano e mundial.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 11 Oct 2026 21:46:37 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/canada-diz-que-acordo-sobre-gasoleo-russo-contraria-diretamente-esforcos-de-paz",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-11-21-44-49-530942.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c71c94e3",
+      "cat": "tecnologia",
+      "title": "Depois da refinação e distribuição, Galp abre porta à venda das renováveis e prepara saída do residencial",
+      "summary": "A petrolífera avalia a venda da carteira de 430 mil clientes residenciais e alternativas para os ativos renováveis. Em simultâneo, prepara uma possível parceria com os acionistas da Moeve e reforça a presença no pré-sal brasileiro.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 11 Oct 2026 21:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/depois-da-refinacao-e-distribuicao-galp-abre-porta-a-venda-das-renovaveis-e-prepara-saida-do-residencial",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-03-14-27-51-517781.jpg",
       "score": 0.73
     },
     {
@@ -146,36 +201,25 @@
       "score": 0.73
     },
     {
-      "id": "3e075fcb",
+      "id": "62066ed9",
       "cat": "tecnologia",
-      "title": "Académico de Viseu bate o Estoril em cima dos 90 minutos",
-      "summary": "Messeguem, num remate de fora da área, deu a vitória à equipa da casa.",
+      "title": "Benfica regressa aos triunfos frente ao Vitória",
+      "summary": "Depois da derrota no Dragão, na última jornada, águias bateram os vimaranenses por 2-0 na Luz.",
       "source": "RTP",
-      "date": "Sat, 10 Oct 2026 20:37:26 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/academico-de-viseu-bate-o-estoril-em-cima-dos-90-minutos_e1770920",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e21e2e914f3882ecef45c13fa40d8514?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sun, 11 Oct 2026 18:19:56 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/benfica-regressa-aos-triunfos-frente-ao-vitoria_e1771040",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/75/75c2b3146885a588fe582ee94cfaac37?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "ea1ee3fd",
-      "cat": "desporto",
-      "title": "Marco Silva reconhece que Benfica não tem outra solução além de ganhar",
-      "summary": "Treinador encarnado garante que não há margem para deslizes.",
-      "source": "RTP",
-      "date": "Sat, 10 Oct 2026 18:49:29 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/marco-silva-reconhece-que-benfica-nao-tem-outra-solucao-alem-de-ganhar_d1770913",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c4b0a95bcce6a117424488bf7fc57b91?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "7b247869",
-      "cat": "tecnologia",
-      "title": "Pietuszewski salva o FC Porto na Madeira",
-      "summary": "Dragões sofreram para vencer o Marítimo. Equipa de Farioli segue invicta no campeonato com oito vitórias em oito jogos: veja os golos.",
-      "source": "RTP",
-      "date": "Sat, 10 Oct 2026 18:11:49 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/pietuszewski-salva-o-fc-porto-na-madeira_e1770893",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7d2aca72070a3c0650eee3e228e73a23?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "id": "d954992c",
+      "cat": "economia",
+      "title": "Gerir o Resultado ou o Futuro?",
+      "summary": "Durante anos, os gestores foram recompensados por cortar custos, proteger margens e preservar capital. Fizeram exatamente aquilo que lhes pediram. Mas o problema é que o mundo mudou e os critérios de sucesso não acompanharam essa mudança. Hoje, uma empresa de seguros pode melhorar a rentabilidade aj",
+      "source": "ECO",
+      "date": "Sun, 11 Oct 2026 13:30:41 +0000",
+      "url": "https://eco.sapo.pt/opiniao/gerir-o-resultado-ou-o-futuro/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2024/09/nuno-matos_opiniao.png",
       "score": 0.73
     },
     {
@@ -212,6 +256,17 @@
       "score": 0.73
     },
     {
+      "id": "31e0d8e3",
+      "cat": "ambiente",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "source": "BBC News",
+      "date": "Sun, 11 Oct 2026 19:08:04 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/35c07920-c5a8-11f1-9a39-31b474234113.jpg",
+      "score": 0.73
+    },
+    {
       "id": "250af29c",
       "cat": "tecnologia",
       "title": "Isaias becomes major category three storm before landfall",
@@ -231,17 +286,6 @@
       "date": "Fri, 09 Oct 2026 15:32:30 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "e3e4f37e",
-      "cat": "tecnologia",
-      "title": "Hurricane Isaias strengthens to a major category three storm",
-      "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
-      "source": "BBC News",
-      "date": "Fri, 09 Oct 2026 12:54:28 GMT",
-      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11af/live/b7dc7730-c3b2-11f1-a0b5-7b6bc14012a9.png",
       "score": 0.73
     },
     {
@@ -278,58 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "726aedfd",
+      "id": "2207ecfe",
       "cat": "tecnologia",
-      "title": "Papa Leão XIV vai ser operado a um nódulo no pulmão",
-      "summary": "\"Foi detetado numa fase muito inicial e bem localizado\", afirmou o representante da Igreja Católica, que vai passar por uma cirurgia \"nos próximos dias\" para a remoção do nódulo.",
-      "source": "Observador",
-      "date": "Sun, 11 Oct 2026 11:34:17 +0100",
-      "url": "https://observador.pt/2026/10/11/papa-leao-xiv-anuncia-que-tem-um-nodulo-no-pulmao-sera-submetido-a-uma-cirurgia-nos-proximos-dias/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1934:1084:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/02114047/jporfirio-papa-leao-beirute-libano-02-12-dia2-01-1.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "345c0691",
-      "cat": "tecnologia",
-      "title": "MotoGP. Bezzecchi vence e Martín recupera liderança",
-      "summary": "Com o resultado deste domingo, a Aprilia passou a liderar também o campeonato de construtores, com 503 pontos, mais 12 do que a Ducati.",
-      "source": "Observador",
-      "date": "Sun, 11 Oct 2026 11:18:59 +0100",
-      "url": "https://observador.pt/2026/10/11/bezzecchi-vence-na-indonesia-e-martin-recupera-lideranca-do-mundial-de-motogp/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/11105801/47921730.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "ddf2b3e0",
-      "cat": "tecnologia",
-      "title": "Papa Leão XIV vai ser operado para remover nódulo num pulmão",
-      "summary": "O líder da igreja Católica anunciou que o nódulo foi detetado recentemente durante exames de controlo e numa fase \"muito inicial\".",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 11 Oct 2026 13:26:35 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/papa-leao-xiv-vai-ser-operado-para-remover-nodulo-num-pulmao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-11-13-25-43-530925.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "d9f1e5c6",
-      "cat": "tecnologia",
-      "title": "Por dentro das campanhas eleitorais",
-      "summary": "Ensaio do jornalista João Diogo Correia sobre os bastidores das mais importantes corridas eleitorais nas últimas décadas.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 11 Oct 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/livros/detalhe/por-dentro-das-campanhas-eleitorais",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-09-10-58-00-530825.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "af37e46f",
-      "cat": "tecnologia",
-      "title": "O bloco central",
-      "summary": "A discussão do Orçamento do Estado para 2027 arranca em plena polémica entre Jorge Jesus e Cristiano Ronaldo.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 11 Oct 2026 12:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/o-bloco-central",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-21-15-20-00-296329.png",
+      "title": "PS pede audição urgente de 16 entidades de sectores afectados pelo aumento do custo da energia",
+      "summary": "“Estes impactos não se distribuem de forma homogénea entre os diferentes sectores da economia e da sociedade”, explica o PS no requerimento.",
+      "source": "Público",
+      "date": "Sun, 11 Oct 2026 17:12:06 GMT",
+      "url": "https://www.publico.pt/2026/10/11/politica/noticia/ps-pede-audicao-urgente-16-entidades-sectores-afectados-aumento-custo-energia-2191013",
+      "img": null,
       "score": 0.7
     }
   ]
