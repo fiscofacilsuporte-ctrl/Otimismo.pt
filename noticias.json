@@ -1,5 +1,5 @@
 {
-  "last_update": "10/10/2026 21:29 UTC",
+  "last_update": "11/10/2026 05:25 UTC",
   "total": 30,
   "news": [
     {
@@ -69,17 +69,6 @@
       "score": 0.79
     },
     {
-      "id": "a0c1b022",
-      "cat": "tecnologia",
-      "title": "FC Porto ficou a um centímetro de perder pontos na Madeira",
-      "summary": "Campeão nacional continua 100% vitorioso no campeonato após triunfo por 1-2 sobre o Marítimo. Pietuszewski marcou o golo da vitória nos últimos minutos.",
-      "source": "Público",
-      "date": "Sat, 10 Oct 2026 18:57:58 GMT",
-      "url": "https://www.publico.pt/2026/10/10/desporto/cronica_de_jogo/fc-porto-ficou-centimetro-perder-pontos-madeira-2190962",
-      "img": null,
-      "score": 0.76
-    },
-    {
       "id": "7d21d731",
       "cat": "tecnologia",
       "title": "Lost Italian Statue by Trevi Fountain Artist Discovered in Salvage Yard Among the Garden Ornaments",
@@ -102,47 +91,58 @@
       "score": 0.76
     },
     {
-      "id": "0c223543",
+      "id": "fc6e258e",
       "cat": "tecnologia",
-      "title": "A estrela do futebol Cristiano Ronaldo como símbolo da nação é uma jogada política arriscada?",
-      "summary": "Na mensagem ao país do último Natal, o primeiro-ministro, Luís Montenegro, pediu “mentalidade Cristiano Ronaldo” aos portugueses. Não foi o primeiro político a apontar CR7 como símbolo. Nem o último.",
+      "title": "Só 10% chegaria ao ensino superior, mas aqui o futuro não depende da origem",
+      "summary": "Soraia tem 18 anos e sonha ser m&eacute;dica dentista. Leandro, 12, ainda anda &agrave; descoberta. O Gulbenkian Aprender quer dar-lhes oportunidades para irem mais longe.",
       "source": "Público",
-      "date": "Sat, 10 Oct 2026 20:00:00 GMT",
-      "url": "https://www.publico.pt/2026/10/10/politica/noticia/estrela-futebol-cristiano-ronaldo-simbolo-nacao-jogada-politica-arriscada-2190941",
+      "date": "Sun, 11 Oct 2026 05:00:00 GMT",
+      "url": "https://www.publico.pt/2026/10/11/video/so-10-chegariam-ensino-superior-aqui-futuro-nao-depende-origem-20261008-122444",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "583cce33",
+      "id": "ea9df11c",
       "cat": "tecnologia",
-      "title": "MAR x FCP. “Pietuszewski em jogo no segundo golo do Porto”",
-      "summary": "Nota 7 para a equipa de arbitragem do Marítimo x Porto. “VAR deu uma ajuda preciosa num momento decisivo”. Num jogo decidido por 1 centímetro, Pedro Henriques fala dos efeitos positivos da tecnologia.",
-      "source": "Observador",
-      "date": "Sat, 10 Oct 2026 21:28:34 +0100",
-      "url": "https://observador.pt/programas/sem-falta/mar-x-fcp-pietuszewski-em-jogo-no-segundo-golo-do-porto/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/23172325/770-podcast-sem-falta-betclic.jpg",
+      "title": "O regresso à Idade Média",
+      "summary": "O Presidente americano parece ter mergulhado numa espiral de loucura, que cresce à medida que se aproximam as eleições intercalares. Opinião de Teresa de Sousa",
+      "source": "Público",
+      "date": "Sun, 11 Oct 2026 04:58:00 GMT",
+      "url": "https://www.publico.pt/2026/10/11/opiniao/opiniao/regresso-idade-media-2190935",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "d72da87a",
-      "cat": "tecnologia",
-      "title": "MAR x FCP. “A entrada de Pietuszewski mexeu com o jogo”",
-      "summary": "Apesar da remontada do Porto, Filipe Coelho diz que o jogo “não foi espetacular”. Diogo Costa não ofereceu a habitual segurança e ficou ligado ao golo do Marítimo. 8 vitórias em 8 jogos para Farioli.",
-      "source": "Observador",
-      "date": "Sat, 10 Oct 2026 21:26:36 +0100",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/mar-x-fcp-a-entrada-de-pietuszewski-mexeu-com-o-jogo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/03175151/770-podcast-relatorio-de-jogo-filipe-coelho.jpg",
+      "id": "7538f733",
+      "cat": "sociedade",
+      "title": "A herança do facilitismo: quem são, afinal, os “rascas”?",
+      "summary": "O que temos hoje não é uma juventude sem causas, mas uma geração moldada por um “abandono familiar involuntário” e por uma escola transformada em pronto-socorro social. Opinião de João Nuno Tavares",
+      "source": "Público",
+      "date": "Sat, 10 Oct 2026 23:20:00 GMT",
+      "url": "https://www.publico.pt/2026/10/11/opiniao/opiniao/heranca-facilitismo-sao-afinal-rascas-2190796",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "c90e3bf2",
+      "id": "e8490fb5",
       "cat": "tecnologia",
-      "title": "MAR x FCP. “Diogo Costa mostrou excesso de confiança”",
-      "summary": "“Vitória difícil e sem nota artística” em que valeu aos dragões uma obra-prima de Pietuszewski. Luís Pinto Coelho afirma ainda que Diogo Costa foi o pior do lado do FCP. Nota 17 à exibição da equipa.",
+      "title": "Obama em Lisboa: IA, democracia e farpas a Trump",
+      "summary": "Em Lisboa, dez mil pessoas aplaudiram Barack Obama. O ex-presidente dos EUA alertou para o crescimento do autoritarismo e criticou a política de Trump e os riscos da IA.",
       "source": "Observador",
-      "date": "Sat, 10 Oct 2026 21:26:35 +0100",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/mar-x-fcp-diogo-costa-mostrou-excesso-de-confianca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/28160057/770-podcast-relatorio-de-jogo-luis-pinto.jpg",
+      "date": "Sun, 11 Oct 2026 00:57:38 +0100",
+      "url": "https://observador.pt/2026/10/11/obama-em-lisboa-as-farpas-a-trump-os-avisos-sobre-ia-e-os-riscos-para-a-democracia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3200:1799:nowe:0:167/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/10211527/nrp11285-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "08e8cd07",
+      "cat": "tecnologia",
+      "title": "A desesperança do Santo António",
+      "summary": "Políticos passados, fossem ateus ou agnósticos, tinham formação cristã ao contrário da maioria dos actuais. A política tornou-se num jogo sem a capacidade de elevação que a coragem política exige.",
+      "source": "Observador",
+      "date": "Sun, 11 Oct 2026 00:22:14 +0100",
+      "url": "https://observador.pt/opiniao/a-desesperanca-do-santo-antonio/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2224%3A2224%3Anowe%3A226%3A374%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170541%2Fandre-amaral.jpg",
       "score": 0.73
     },
     {
@@ -187,6 +187,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "3e075fcb",
+      "cat": "tecnologia",
+      "title": "Académico de Viseu bate o Estoril em cima dos 90 minutos",
+      "summary": "Messeguem, num remate de fora da área, deu a vitória à equipa da casa.",
+      "source": "RTP",
+      "date": "Sat, 10 Oct 2026 20:37:26 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/academico-de-viseu-bate-o-estoril-em-cima-dos-90-minutos_e1770920",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e21e2e914f3882ecef45c13fa40d8514?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -300,14 +311,14 @@
       "score": 0.73
     },
     {
-      "id": "c771d03f",
+      "id": "08d69c8e",
       "cat": "tecnologia",
-      "title": "Sindicato dos chefes da PSP alerta para desmotivação se exigências não forem correspondidas",
-      "summary": "O caderno reivindicativo passa pela revisão das tabelas salariais, pela reformulação dos conteúdos funcionais e pela actualização das tabelas remuneratórias e dos respectivos suplementos.",
-      "source": "Público",
-      "date": "Sat, 10 Oct 2026 20:13:51 GMT",
-      "url": "https://www.publico.pt/2026/10/10/sociedade/noticia/sindicato-chefes-psp-alerta-desmotivacao-exigencias-nao-correspondidas-2190964",
-      "img": null,
+      "title": "As notícias das 4h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sun, 11 Oct 2026 04:14:30 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2427/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
