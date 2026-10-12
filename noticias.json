@@ -1,5 +1,5 @@
 {
-  "last_update": "11/10/2026 21:45 UTC",
+  "last_update": "12/10/2026 05:36 UTC",
   "total": 30,
   "news": [
     {
@@ -58,17 +58,6 @@
       "score": 0.79
     },
     {
-      "id": "c1380053",
-      "cat": "tecnologia",
-      "title": "Superbikes: Miguel Oliveira oitavo no Estoril em nova vitória e recorde de Bulega",
-      "summary": "Português partiu da quarta posição, mas acabou por pagar o preço de duas saídas de trajectória. No Mundial de piloto, continua na 11.ª posição.",
-      "source": "Público",
-      "date": "Sun, 11 Oct 2026 16:34:50 GMT",
-      "url": "https://www.publico.pt/2026/10/11/desporto/noticia/superbikes-miguel-oliveira-oitavo-estoril-nova-vitoria-recorde-bulega-2191007",
-      "img": null,
-      "score": 0.76
-    },
-    {
       "id": "a1f6980a",
       "cat": "tecnologia",
       "title": "Vicente Pereira sonha em participar nos Jogos Paralímpicos",
@@ -124,43 +113,54 @@
       "score": 0.76
     },
     {
-      "id": "c4058562",
+      "id": "cbb4ddbf",
+      "cat": "tecnologia",
+      "title": "Setembro foi o segundo mais quente de sempre e o planeta voltou a ultrapassar 1,5°C",
+      "summary": "Pelo segundo mês seguido, a temperatura global ficou acima de 1,5°C em relação ao período pré-industrial. Oceano bateu recorde para Setembro. El Niño caminha para um dos mais fortes de que há registo.",
+      "source": "Público",
+      "date": "Mon, 12 Oct 2026 02:05:00 GMT",
+      "url": "https://www.publico.pt/2026/10/12/azul/noticia/setembro-segundo-quente-planeta-voltou-ultrapassar-15c-2190847",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "fd1d0040",
+      "cat": "tecnologia",
+      "title": "Passos não exclui regresso à política e elogia Ventura: “bastante mérito” e “iniciativa notável”",
+      "summary": "O antigo primeiro-ministro admite equacionar um regresso se o PSD não “entregar um resultado satisfatório”, mas insiste que não está a preparar nenhuma candidatura.",
+      "source": "Público",
+      "date": "Sun, 11 Oct 2026 22:22:24 GMT",
+      "url": "https://www.publico.pt/2026/10/11/politica/noticia/passos-nao-exclui-regresso-politica-elogia-ventura-bastante-merito-iniciativa-notavel-2191021",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "86cc9d17",
       "cat": "geral",
-      "title": "É urgente a esperança",
-      "summary": "Talvez algumas dessas contestações possam não ser substantivas. Talvez algumas demagógicas, até. Mas enquanto têm força para contestar encontram disponibilidade para acreditar.",
+      "title": "Passos assume-se como protocandidato a primeiro-ministro",
+      "summary": "Antigo primeiro-ministro comparou Montenegro a Costa, lamentou falta de reformas, elogiou Ventura, criticou o \"não é não\" e disse abertamente que pondera voltar se atual Governo não for bem sucedido.",
       "source": "Observador",
-      "date": "Sun, 11 Oct 2026 18:39:03 +0100",
-      "url": "https://observador.pt/opiniao/e-urgente-a-esperanca/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg",
+      "date": "Mon, 12 Oct 2026 00:26:37 +0100",
+      "url": "https://observador.pt/especiais/agora-e-oficial-passos-assume-se-como-protocandidato-a-primeiro-ministro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/06143620/46660605.jpg",
       "score": 0.73
     },
     {
-      "id": "0c7535cf",
+      "id": "2a8cc96a",
       "cat": "tecnologia",
-      "title": "Kipruto vence Chicago com recorde pessoal",
-      "summary": "O queniano Amos Kipruto e a etíope Hawi Feysa brilharam em Chicago, com recordes pessoais que os colocam entre os melhores maratonistas de sempre.",
+      "title": "00h. Passos Coelho pondera regresso se PSD for mal sucedido",
+      "summary": "Antigo primeiro-ministro deu primeira entrevista após sair do Governo, na SIC Notícias. Insurge-se contra o Executivo de Montenegro que diz já nada poder fazer pelo SNS e fala em deveres por cumprir.",
       "source": "Observador",
-      "date": "Sun, 11 Oct 2026 18:36:48 +0100",
-      "url": "https://observador.pt/2026/10/11/kipruto-e-feysa-vencem-maratona-de-chicago-com-grandes-marcas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:59/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/11164325/45835263.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "51e4c09f",
-      "cat": "tecnologia",
-      "title": "45 migrantes resgatados ao largo de Gavdos",
-      "summary": "A operação decorreu no âmbito da missão 'JO Greece 2026', da Frontex. Em três dias, a Polícia Marítima portuguesa salvou no total 190 pessoas nas águas ao largo de Gavdos.",
-      "source": "Observador",
-      "date": "Sun, 11 Oct 2026 18:32:31 +0100",
-      "url": "https://observador.pt/2026/10/11/policia-maritima-resgata-45-migrantes-em-operacao-na-grecia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:177/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/12/17100222/39896595.jpg",
+      "date": "Mon, 12 Oct 2026 00:17:15 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2443/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
       "id": "6e0c1de8",
       "cat": "economia",
-      "title": "Passos Coelho: \"PSD tinha a obrigação de explorar entendimento com CDS, Chega e IL\"",
-      "summary": "O ex-primeiro-ministro diz que \"não está candidato a nada\", deixou críticas aos Governos de António Costa e deixa recados ao Executivo liderado por Luís Montenegro.",
+      "title": "Passos Coelho: \"PSD tinha a obrigação de explorar um entendimento com CDS, Chega e IL\"",
+      "summary": "O ex-primeiro-ministro diz que \"não está candidato a nada\", deixou críticas aos governos de António Costa e deixa recados ao Executivo liderado por Luís Montenegro.",
       "source": "Jornal de Negócios",
       "date": "Sun, 11 Oct 2026 22:16:00 +0100",
       "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/passos-coelho-psd-tinha-a-obrigacao-de-explorar-entendimento-com-cds-chega-e-il",
@@ -201,14 +201,14 @@
       "score": 0.73
     },
     {
-      "id": "62066ed9",
+      "id": "94755a80",
       "cat": "tecnologia",
-      "title": "Benfica regressa aos triunfos frente ao Vitória",
-      "summary": "Depois da derrota no Dragão, na última jornada, águias bateram os vimaranenses por 2-0 na Luz.",
+      "title": "I Liga. Águias somam e seguem na Luz",
+      "summary": "O Benfica venceu o Vitória por duas bolas a zero, no Estádio da Luz, com golos assinados por Dahl e Sudakov.",
       "source": "RTP",
-      "date": "Sun, 11 Oct 2026 18:19:56 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/benfica-regressa-aos-triunfos-frente-ao-vitoria_e1771040",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/75/75c2b3146885a588fe582ee94cfaac37?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Mon, 12 Oct 2026 07:12:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/i-liga-aguias-somam-e-seguem-na-luz_v1771105",
+      "img": "https://cdn-images.rtp.pt/icm/images/4b/4bb03916f96067483511687dd2e8a313_N.jpg?",
       "score": 0.73
     },
     {
@@ -234,17 +234,6 @@
       "score": 0.73
     },
     {
-      "id": "32d68cf1",
-      "cat": "tecnologia",
-      "title": "Faminto: Daqui ninguém sai com fome",
-      "summary": "&#160; Caro M. O Faminto (faminto.pt), localizado na Avenida D. Carlos I, nº 61, abriu em Março deste ano. É um espaço onde se pode entrar por dois acessos. Um direto, na esquina com a Rua da Esperança. Outro, um pouco mais abaixo, partilhado com a entrada do Inspira Santos Boutique Hotel. Restauran",
-      "source": "ECO",
-      "date": "Sun, 11 Oct 2026 08:00:14 +0000",
-      "url": "https://eco.sapo.pt/2026/10/11/faminto-daqui-ninguem-sai-com-fome/",
-      "img": "https://eco.imgix.net/uploads/2026/10/2amesa-restaurante-no6-2000x1125-1.jpg",
-      "score": 0.73
-    },
-    {
       "id": "efd97263",
       "cat": "cultura",
       "title": "Good News in History, October 11",
@@ -256,6 +245,17 @@
       "score": 0.73
     },
     {
+      "id": "d98253bc",
+      "cat": "ciencia",
+      "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "summary": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+      "source": "BBC News",
+      "date": "Sun, 11 Oct 2026 23:48:25 GMT",
+      "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/911a/live/4f78adc0-c5d9-11f1-8047-553502192765.jpg",
+      "score": 0.73
+    },
+    {
       "id": "31e0d8e3",
       "cat": "ambiente",
       "title": "Orangutans released back into Borneo forest after devastating fires",
@@ -264,28 +264,6 @@
       "date": "Sun, 11 Oct 2026 19:08:04 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/35c07920-c5a8-11f1-9a39-31b474234113.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "250af29c",
-      "cat": "tecnologia",
-      "title": "Isaias becomes major category three storm before landfall",
-      "summary": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
-      "source": "BBC News",
-      "date": "Fri, 09 Oct 2026 16:46:32 GMT",
-      "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/ed683ba0-c3ee-11f1-9a39-31b474234113.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "33ca8fb0",
-      "cat": "tecnologia",
-      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-      "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
-      "source": "BBC News",
-      "date": "Fri, 09 Oct 2026 15:32:30 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
       "score": 0.73
     },
     {
@@ -322,14 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "2207ecfe",
+      "id": "53aa206c",
       "cat": "tecnologia",
-      "title": "PS pede audição urgente de 16 entidades de sectores afectados pelo aumento do custo da energia",
-      "summary": "“Estes impactos não se distribuem de forma homogénea entre os diferentes sectores da economia e da sociedade”, explica o PS no requerimento.",
+      "title": "A revolta em França pode mudar o cenário político no país?",
+      "summary": "Os protestos estudantis em França expõem desigualdades sociais e colocam pressão sobre o Governo a seis meses das presidenciais. Quem pode beneficiar desta revolta?",
       "source": "Público",
-      "date": "Sun, 11 Oct 2026 17:12:06 GMT",
-      "url": "https://www.publico.pt/2026/10/11/politica/noticia/ps-pede-audicao-urgente-16-entidades-sectores-afectados-aumento-custo-energia-2191013",
+      "date": "Mon, 12 Oct 2026 04:29:00 GMT",
+      "url": "https://www.publico.pt/2026/10/12/mundo/noticia/revolta-franca-mudar-cenario-politico-pais-2190996",
       "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "b625faf8",
+      "cat": "tecnologia",
+      "title": "As notícias da 1h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Mon, 12 Oct 2026 01:17:44 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2411/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
