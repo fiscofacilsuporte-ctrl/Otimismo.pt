@@ -1,5 +1,5 @@
 {
-  "last_update": "13/10/2026 14:00 UTC",
+  "last_update": "13/10/2026 22:34 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,17 @@
       "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/10/RS24644_Timnit-Gebru-2026-right-livelihood-laureate-002.jpg",
       "score": 0.82
+    },
+    {
+      "id": "0a3a77e9",
+      "cat": "tecnologia",
+      "title": "Raquel Mendes é a nova diretora de marketing do Activobank",
+      "summary": "O ActivoBank nomeou Raquel Mendes para a direção de marketing, cargo que Andreia Teixeira ocupava desde 2019. A nomeação surge um mês depois de Andreia Teixeira ter subido a administradora executiva do ActivoBank, com os pelouros de marketing, comunicação, transformação e inovação, experience design",
+      "source": "ECO",
+      "date": "Tue, 13 Oct 2026 17:58:21 +0000",
+      "url": "https://eco.sapo.pt/2026/10/13/raquel-mendes-e-a-nova-diretora-de-marketing-do-activobank/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-1780340389255.png",
+      "score": 0.79
     },
     {
       "id": "66f1a35c",
@@ -47,14 +58,36 @@
       "score": 0.79
     },
     {
-      "id": "45b0089a",
+      "id": "3ebb6456",
       "cat": "tecnologia",
-      "title": "Giant Tortoise Population is Thriving–Survey Finds 180,000 on One Island Chain",
-      "summary": "A landmark survey of the world’s largest free-roaming giant tortoise population has revealed the once-endangered species is now thriving. The latest count of tortoises on the Seychelles atoll of Aldabra revealed that there are approximately 180,000 living on the islands. This is the highest figure e",
+      "title": "Cornell suspende festas em fraternidades até o final do ano",
+      "summary": "O presidente Michael Kotlikoff anunciou a suspensão de todos os eventos sociais nas fraternidades até ao fim do ano letivo. Investigação independente foi entregue a ex-procuradora-geral Sally Yates.",
+      "source": "Observador",
+      "date": "Tue, 13 Oct 2026 21:49:23 +0100",
+      "url": "https://observador.pt/2026/10/13/universidade-cornell-suspende-festas-em-fraternidades-pelo-resto-do-ano-letivo-apos-caso-de-alegada-violacao-em-grupo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:157/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/28233340/gettyimages-1762566453.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "05c9a11f",
+      "cat": "ciencia",
+      "title": "Scientists Shocked to Discover ‘D-rex’, a Giant Fungus from Chinese Forests Dating Back 65 Million Years",
+      "summary": "Deep in the forests of southwest China, scientists have discovered a ‘fungal giant’ that challenges our understanding of how large fungi can become. The newly described species, Dianjunus rex, or &#8220;King of Dian,&#8221; named for an ancient Chinese kingdom, produces vertical fruiting bodies up t",
       "source": "Good News Network",
-      "date": "Sun, 11 Oct 2026 16:11:41 +0000",
-      "url": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Giant-Tortoises-in-the-Seychelles-SWNS.jpeg",
+      "date": "Tue, 13 Oct 2026 18:30:53 +0000",
+      "url": "https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/pictured-the-stromata-of-Dianjunus-rex-in-the-field.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "09d92b84",
+      "cat": "tecnologia",
+      "title": "Italian Bio-methane Plant Comes Online, Providing Renewable Gas to Over 3,000 Homes",
+      "summary": "A European energy developer has switched on a major biomethane plant in southern Italy that will save some 9,000 tons of CO2 annually by producing a natural gas substitute with agricultural waste. Located in Grottole, in the &#8216;instep&#8217; of the Italian Peninsula, the plant will ultimately pr",
+      "source": "Good News Network",
+      "date": "Tue, 13 Oct 2026 15:30:50 +0000",
+      "url": "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/The-Grottole-biomethane-plant-operated-by-Axpo-credit-Axpo-released.jpg",
       "score": 0.76
     },
     {
@@ -80,69 +113,14 @@
       "score": 0.76
     },
     {
-      "id": "d73636f7",
+      "id": "e0eb3d45",
       "cat": "tecnologia",
-      "title": "A família primeiro? A coerência que se exige a Rita Matias",
-      "summary": "As perguntas que aqui deixo são sobre o exercício de funções públicas e o regime de proteção na maternidade. Uma deputada que participa em iniciativas destas deve estar disponível para lhes responder. Opinião de Carla Eliana Tavares",
-      "source": "Público",
-      "date": "Tue, 13 Oct 2026 13:00:00 GMT",
-      "url": "https://www.publico.pt/2026/10/13/opiniao/opiniao/familia-coerencia-exige-rita-matias-2191224",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "f24fa0a7",
-      "cat": "tecnologia",
-      "title": "Mais de um terço do calçado da Shein e Temu falha regras europeias",
-      "summary": "Investigação foi feita em sete países europeus, incluindo Portugal. Dos pares analisados, 35,5% apresentaram pelo menos uma não conformidade com os limites regulamentares aplicáveis a substâncias.",
-      "source": "Público",
-      "date": "Tue, 13 Oct 2026 11:33:37 GMT",
-      "url": "https://www.publico.pt/2026/10/13/impar/noticia/terco-calcado-shein-temu-falha-regras-europeias-2191209",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "94765324",
-      "cat": "tecnologia",
-      "title": "Kim junta mísseis, bombas e drones e abre um museu de “tesouros nacionais” na Coreia do Norte",
-      "summary": "Kim Jong-un inaugurou exibição permanente de armamento em Pyongyang que inclui um míssil intercontinental que, segundo o regime norte-coreano, tem capacidade para atingir os EUA.",
-      "source": "Público",
-      "date": "Tue, 13 Oct 2026 11:23:42 GMT",
-      "url": "https://www.publico.pt/2026/10/13/mundo/noticia/kim-junta-misseis-bombas-drones-abre-museu-tesouros-nacionais-coreia-norte-2191204",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "39e1216e",
-      "cat": "tecnologia",
-      "title": "\"Labor\": escrita e maternidade na estreia de Catarina Barros",
-      "summary": "No primeiro livro de Catarina Barros, distinguida com a primeira bolsa Penguin, a autora atravessa 20 trabalhos precários enquanto reflete sobre escrita e maternidade. Que trabalhão este Labor.",
-      "source": "Observador",
-      "date": "Tue, 13 Oct 2026 12:56:22 +0100",
-      "url": "https://observador.pt/2026/10/13/o-labor-da-escrita-e-da-maternidade-na-estreia-literaria-de-catarina-barros/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1199:675:nowe:0:335/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/12151254/catarinabarros-draft-joanalinda1060912l1060912.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "13d9a1eb",
-      "cat": "tecnologia",
-      "title": "Porque está a economia global tão resiliente?",
-      "summary": "Tendo em conta a dimensão dos riscos potenciais, é preciso manter a esperança de que a resiliência atual se mantenha. Muito dependerá de os líderes políticos evitarem extremos e não comprometerem uma das inovações tecnológicas mais importantes da história da humanidade.",
+      "title": "Reguladores dos EUA multam Bank of America em 1,2 mil milhões de dólares",
+      "summary": "As infrações estão relacionadas com a lavagem de dinheiro e violações de sanções programas de sanções que envolvem países como a Rússia e o Irão. “Mesmo as maiores instituições financeiras não estão acima da lei”, diz secretário do Tesouro.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 13 Oct 2026 14:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/economistas/nouriel-roubini/detalhe/porque-esta-a-economia-global-tao-resiliente",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_394x514uu2026-07-21-19-25-00-526980.png",
-      "score": 0.73
-    },
-    {
-      "id": "77ba02c0",
-      "cat": "economia",
-      "title": "Banco francês Crédit Agricole compra alemão IKB",
-      "summary": "A transação, cujos detalhes financeiros não foram divulgados, deverá ser concluída no final do segundo trimestre de 2027, após a obtenção da aprovação das entidades reguladoras.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 13 Oct 2026 13:06:54 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/banco-frances-credit-agricole-compra-alemao-ikb",
-      "img": "https://cdn.jornaldenegocios.pt/images/2019-03/img_100x100uu2019-03-06-11-47-44-349856.jpg",
+      "date": "Tue, 13 Oct 2026 23:12:31 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/reguladores-dos-eua-multam-bank-of-america-em-1-2-mil-milhoes-de-dolares",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-04/img_100x100uu2025-04-15-14-44-47-499589.jpg",
       "score": 0.73
     },
     {
@@ -157,47 +135,14 @@
       "score": 0.73
     },
     {
-      "id": "497f4090",
-      "cat": "tecnologia",
-      "title": "Benfica e Torreense em busca da segunda vitória na Liga Europa",
-      "summary": "Benfica e Torreense disputam na quinta-feira a segunda jornada da fase de liga da Liga Europa, com a equipa da II Liga a fazer a estreia europeia em casa, frente aos ingleses do Sunderland.",
+      "id": "dc836f6c",
+      "cat": "desporto",
+      "title": "Stopira despede-se da seleção de Cabo Verde ao fim de 18 anos",
+      "summary": "O defesa Stopira, autor do golo decisivo do Torreense na inédita conquista da Taça de Portugal de futebol, anunciou hoje o fim da carreira internacional por Cabo Verde, ao fim de 18 anos ao serviço da seleção.",
       "source": "RTP",
-      "date": "Tue, 13 Oct 2026 12:34:36 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/benfica-e-torreense-em-busca-da-segunda-vitoria-na-liga-europa_d1771376",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/57/57205f2713ac67dcec27179e4a6257e4?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "77f18d41",
-      "cat": "tecnologia",
-      "title": "Ministra reconhece que é preciso investimento criterioso nos tribunais",
-      "summary": "A ministra da Justiça, Rita Alarcão Júdice, reconheceu a necessidade de investimento criterioso para responder às necessidades concretas dos tribunais em todo o território. &#8220;Cabe-nos garantir que [magistrados e funcionários judiciais] dispõem das condições para exercer as suas funções e que os",
-      "source": "ECO",
-      "date": "Tue, 13 Oct 2026 13:09:33 +0000",
-      "url": "https://eco.sapo.pt/2026/10/13/ministra-reconhece-que-e-preciso-investimento-criterioso-nos-tribunais/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47932641-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "23530be1",
-      "cat": "tecnologia",
-      "title": "Netflix compra direitos televisivos do Mundial de 2030 em Espanha",
-      "summary": "A Netflix adquiriu os direitos exclusivos do Mundial de Futebol de 2030 para Espanha e Andorra, garantindo a transmissão em direto dos 104 jogos do torneio, que Portugal, Espanha e Marrocos vão coorganizar. A seleção espanhola chegará à prova como campeã do mundo em título. O valor do acordo não foi",
-      "source": "ECO",
-      "date": "Tue, 13 Oct 2026 12:37:07 +0000",
-      "url": "https://eco.sapo.pt/2026/10/13/netflix-compra-direitos-televisivos-do-mundial-de-2030-em-espanha/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-47493487-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "c600b250",
-      "cat": "tecnologia",
-      "title": "Mais de 4.000 casas retiradas do arrendamento em Espanha após decretos do Governo",
-      "summary": "As medidas previstas nos decretos sobre habitação aprovados pelo Governo de Pedro Sánchez estão a ter impacto na oferta de arrendamento residencial em Espanha. Segundo avança o Expansión, 4.235 habitações foram retiradas do mercado ou desviadas para outras modalidades em apenas dez dias. Os dados ci",
-      "source": "ECO",
-      "date": "Tue, 13 Oct 2026 12:32:20 +0000",
-      "url": "https://eco.sapo.pt/2026/10/13/mais-de-4-000-casas-retiradas-do-arrendamento-em-espanha-apos-decretos-do-governo/",
-      "img": "https://eco.imgix.net/uploads/2025/09/cropped-doc2009092510160743espanha.jpg",
+      "date": "Tue, 13 Oct 2026 19:19:13 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/stopira-despede-se-da-selecao-de-cabo-verde-ao-fim-de-18-anos_d1771452",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a0/a07ff7fbd2aaed5da6112706bca0395e?w=350&amp;q=50&amp;rect=0,35,1236,678&amp;auto=format",
       "score": 0.73
     },
     {
@@ -209,17 +154,6 @@
       "date": "Tue, 13 Oct 2026 13:00:10 +0000",
       "url": "https://www.goodnewsnetwork.org/barbie-honors-serena-williams-with-new-signature-doll-to-serve-inspiration-to-next-generation-of-women/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/released-by-Barbie.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "be4d5ceb",
-      "cat": "tecnologia",
-      "title": "Montana High School Softball Player Discovered Long-Lost Sister on Opposing Team",
-      "summary": "A softball diamond in Montana was the scene of a larger-than-life family reunion. Like something out of Field of Dreams, a teen softball player had lined up against an out-of-state team for an August match—and her long-lost biological sister was on the opposite roster. Samantha Rensvold was adopted ",
-      "source": "Good News Network",
-      "date": "Mon, 12 Oct 2026 18:30:44 +0000",
-      "url": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Kyann-Dean-left-and-Samantha-Rensvold-right-credit-Rensvold-family-photo.jpg",
       "score": 0.73
     },
     {
@@ -289,36 +223,80 @@
       "score": 0.73
     },
     {
-      "id": "17934f54",
-      "cat": "desporto",
-      "title": "\"Em Espanha, Ronaldo seria suspenso pelo menos por 2 anos\"",
-      "summary": "Lúcio Correia, professor de Direito de Desporto, critica a Federação Portuguesa de Futebol por ‘fato à medida’ disciplinar para Cristiano Ronaldo e diz que o atleta está a ser beneficiado.",
-      "source": "Observador",
-      "date": "Tue, 13 Oct 2026 13:26:39 +0100",
-      "url": "https://observador.pt/programas/justica-cega/em-espanha-ronaldo-seria-suspenso-pelo-menos-por-2-anos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/01/29144757/770-podcast-justica-cega.jpg",
+      "id": "f59f84b9",
+      "cat": "tecnologia",
+      "title": "O presidente do imigrante",
+      "summary": "As redes sociais mudaram o comportamento de boa parte dos cidadãos, com impacto nas decisões sobre votos, como nas eleições presidências brasileiras. Crónica de Duda Las Casas",
+      "source": "Público",
+      "date": "Tue, 13 Oct 2026 21:44:10 GMT",
+      "url": "https://www.publico.pt/2026/10/13/publico-brasil/cronica/presidente-imigrante-2191305",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "0b5d45c4",
+      "id": "01501cf8",
       "cat": "tecnologia",
-      "title": "As notícias das 13h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Tue, 13 Oct 2026 13:17:36 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2474/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Conselho Superior de Defesa analisou situação internacional e das forças nacionais destacadas",
+      "summary": "Foi a terceira reunião deste órgão consultivo no mandato de António José Seguro.",
+      "source": "Público",
+      "date": "Tue, 13 Oct 2026 21:24:38 GMT",
+      "url": "https://www.publico.pt/2026/10/13/politica/noticia/conselho-superior-defesa-analisou-situacao-internacional-forcas-nacionais-destacadas-2191302",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "2429bfe0",
+      "id": "a84e2831",
       "cat": "tecnologia",
-      "title": "Margem financeira a triplicar impulsiona preço-alvo das ações da Galp",
-      "summary": "O Citi, a JB Capital e a Alantra Equities decidiram rever em alta as suas previsões para o desempenho da petrolífera em bolsa, apontando todos para subidas - embora o banco norte-americano veja um potencial de valorização inferior a 1%.",
+      "title": "Papa Leão XIV diagnosticado com cancro, médicos removeram um lobo do pulmão",
+      "summary": "“O exame histológico intra-operatório confirmou o diagnóstico de adenocarcinoma pulmonar, conforme suspeitado pelos exames pré-operatórios”, refere nota divulgada pelo Vaticano.",
+      "source": "Público",
+      "date": "Tue, 13 Oct 2026 20:52:35 GMT",
+      "url": "https://www.publico.pt/2026/10/13/mundo/noticia/papa-leao-xiv-diagnosticado-cancro-medicos-removeram-lobulo-pulmao-2191303",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "a13bbd50",
+      "cat": "geral",
+      "title": "Seguro preside ao terceiro Conselho de Defesa",
+      "summary": "O órgão presidido por António José Seguro analisou a segurança internacional e as forças destacadas. Foi a terceira reunião desde o início do mandato, em março de 2026.",
+      "source": "Observador",
+      "date": "Tue, 13 Oct 2026 22:53:07 +0100",
+      "url": "https://observador.pt/2026/10/13/conselho-superior-de-defesa-analisou-situacao-internacional-e-das-forcas-nacionais-destacadas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16152531/47609596.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "dafe2ed9",
+      "cat": "geral",
+      "title": "João Leão alerta para queda dos fundos europeus em Portugal",
+      "summary": "João Leão, membro português do Tribunal de Contas Europeu, avisou o Parlamento: fim do PRR e novo orçamento da UE (2028-2034) vão reduzir verbas para Portugal.",
+      "source": "Observador",
+      "date": "Tue, 13 Oct 2026 22:52:33 +0100",
+      "url": "https://observador.pt/2026/10/13/joao-leao-alerta-para-reducao-mais-acentuada-dos-fundos-europeus-a-partir-de-2030/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/05/21050150/31756476.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "2ea708b1",
+      "cat": "economia",
+      "title": "“Vou andar por aí”",
+      "summary": "Neste “vou andar por aí”, Passos Coelho está a ser um instrumento para a consolidação do poder de André Ventura.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 13 Oct 2026 14:45:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/margem-financeira-a-triplicar-impulsiona-preco-alvo-das-acoes-da-galp",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-07/img_100x100uu2024-07-22-17-54-14-481884.jpg",
+      "date": "Tue, 13 Oct 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/vou-andar-por-ai",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
+      "score": 0.7
+    },
+    {
+      "id": "0efc51ec",
+      "cat": "tecnologia",
+      "title": "Meta já conseguiu apanhar as rivais nos modelos mais avançados de IA, assegura Zuckerberg",
+      "summary": "O CEO da dona do Instagram garante que o novo modelo de IA da empresa, o Muse Wonder, consegue obter um melhor desempenho que os sistemas rivais da OpenAI e da Anthropic. Ao contrário de outros executivos do setor, Zuckerberg afasta receios de uma IA descontrolada.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 13 Oct 2026 22:23:52 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/meta-ja-conseguiu-apanhar-as-rivais-nos-modelos-mais-avancados-de-ia-assegura-zuckerberg",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-23-11-18-57-520923.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +308,28 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "d7d85ff7",
+      "cat": "tecnologia",
+      "title": "Mundial Hóquei. Portugal - Espanha",
+      "summary": "O grande clássico entre Portugal e Espanha no Campeonato do Mundo de Hóquei em Patins joga-se, em Assunção, no Paraguai. A partida terá transmissão em direto na RTP1 e com relato na RTP Antena 1.",
+      "source": "RTP",
+      "date": "Tue, 13 Oct 2026 22:02:30 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundial-hoquei-portugal-espanha_d1771499",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/10/102ca64c9017c1cd7d13d295332aeab4?w=350&amp;q=50&amp;rect=0,35,1232,675&amp;auto=format",
       "score": 0.7
     }
   ]
