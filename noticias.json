@@ -1,5 +1,5 @@
 {
-  "last_update": "12/10/2026 15:07 UTC",
+  "last_update": "13/10/2026 00:30 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,17 @@
       "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
       "img": "https://www.positive.news/wp-content/uploads/2026/10/RS24644_Timnit-Gebru-2026-right-livelihood-laureate-002.jpg",
       "score": 0.82
+    },
+    {
+      "id": "6c70d46a",
+      "cat": "tecnologia",
+      "title": "Sem mencionar Passos Coelho, Montenegro diz que quem quer o insucesso do PSD “tem de esperar sentado”",
+      "summary": "No Porto, a celebrar um ano sobre a vitória de Pedro Duarte nas eleições autárquicas, o primeiro-ministro disse ainda que “o PSD não ganha nada em estar acorrentado” a partidos à sua direita.",
+      "source": "Público",
+      "date": "Mon, 12 Oct 2026 22:10:34 GMT",
+      "url": "https://www.publico.pt/2026/10/12/politica/noticia/mencionar-passos-coelho-montenegro-quer-insucesso-psd-esperar-sentado-2191168",
+      "img": null,
+      "score": 0.79
     },
     {
       "id": "66f1a35c",
@@ -47,36 +58,14 @@
       "score": 0.79
     },
     {
-      "id": "1074fc51",
+      "id": "e02e93b8",
       "cat": "tecnologia",
-      "title": "Israelita Lior Zach vai construir Kura de cinco estrelas e criar 100 empregos no Alto Douro",
-      "summary": "Depois do Village by Boa, que abriu há quatro anos no Porto, o grupo Boa Hotels prevê abrir em 2029 o Kura, que resultará da conversão da atual Quinta da Barroca num \"wellness resort\" de cinco estrelas com 70 quartos, 50 villas privadas e um SPA.",
+      "title": "Estados da UE compraram 320 mil milhões de dólares de hidrocarbonetos à Rússia desde 2022, alega Kremlin",
+      "summary": "Só este ano, até ao final de setembro, os europeus terão despendido 21,3 mil milhões de dólares em hidrocarbonetos russos, de acordo com o vice-primeiro-ministro com a pasta da Energia, Alexandre Novak.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 12 Oct 2026 13:48:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/israelita-lior-zach-vai-construir-kura-de-cinco-estrelas-e-criar-100-empregos-no-alto-douro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-12-13-09-05-530982.png",
-      "score": 0.76
-    },
-    {
-      "id": "dfe0186c",
-      "cat": "tecnologia",
-      "title": "IMF – Minutas FED: Divisão quanto às razões para subir as taxas",
-      "summary": "Minutas FED: Divisão quanto às razões para subir as taxas Canadá: Taxa de desemprego atingiu os 6,5% em setembro; Petróleo renovou mínimos de mais de cinco semanas; Ouro encerra semana em alta ligeira",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 12 Oct 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/analise-tecnica/detalhe/imf-minutas-fed-divisao-quanto-as-razoes-para-subir-as-taxas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2018-02/img_100x100uu2018-02-19-09-52-00-326372.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "d26bdcb3",
-      "cat": "tecnologia",
-      "title": "Meo e Nokia aceleram a evolução para redes autónomas e nativas de IA",
-      "summary": "A Meo e a Nokia anunciaram esta segunda-feira o reforço da colaboração para acelerar redes autónomas e nativas de inteligência artificial (IA), através de um programa de inovação conjunto que inclui IA e automação em ambientes reais de rede. Em comunicado, as empresas explicam que a &#8220;iniciativ",
-      "source": "ECO",
-      "date": "Mon, 12 Oct 2026 13:20:20 +0000",
-      "url": "https://eco.sapo.pt/2026/10/12/meo-e-nokia-aceleram-a-evolucao-para-redes-autonomas-e-nativas-de-ia/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-ana-figueiredo25.jpg",
+      "date": "Tue, 13 Oct 2026 00:01:05 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/estados-da-ue-compraram-320-mil-milhoes-de-dolares-de-hidrocarbonetos-a-russia-desde-2022-alega-kremlin",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-26-08-18-30-515243.jpg",
       "score": 0.76
     },
     {
@@ -88,17 +77,6 @@
       "date": "Sun, 11 Oct 2026 16:11:41 +0000",
       "url": "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Giant-Tortoises-in-the-Seychelles-SWNS.jpeg",
-      "score": 0.76
-    },
-    {
-      "id": "7d21d731",
-      "cat": "tecnologia",
-      "title": "Lost Italian Statue by Trevi Fountain Artist Discovered in Salvage Yard Among the Garden Ornaments",
-      "summary": "A Roman artifact from the Italian sculptor responsible for the Trevi Fountain was discovered in a reclamation yard for a mere 300 British pounds ($400). The 27-inch-tall (68cm) model was fashioned by Pietro Bracci as a pitch for a giant bronze sculpture of Pope Clement XII, which was commissioned by",
-      "source": "Good News Network",
-      "date": "Sat, 10 Oct 2026 13:46:41 +0000",
-      "url": "https://www.goodnewsnetwork.org/lost-italian-statue-by-trevi-fountain-artist-discovered-in-salvage-yard/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Model-detail-by-Baroque-master-Pietro-Bracci-of-Pope-Clement-XII-circa-1736-Woolley-and-Wallis-SWNS.jpeg",
       "score": 0.76
     },
     {
@@ -124,69 +102,69 @@
       "score": 0.76
     },
     {
-      "id": "8b176203",
+      "id": "b26067da",
       "cat": "tecnologia",
-      "title": "Pela primeira vez em França, candidato da esquerda às presidenciais não é do Partido Socialista",
-      "summary": "Raphaël Glucksmann vai ser o rosto da esquerda na eleição de 2027. É contra acordo com a esquerda radical nas legislativas logo após as presidenciais e é a favor de se “virar a página” da era Macron.",
+      "title": "Revelados os sete finalistas do Prémio Novos Artistas Fundação EDP 2026/2027",
+      "summary": "A distinção reconhece os melhores talentos emergentes portugueses ou com residência em Portugal na área das artes plásticas e visuais. Os agora finalistas expõem em 2027 no MAAT, em Lisboa.",
       "source": "Público",
-      "date": "Mon, 12 Oct 2026 14:35:47 GMT",
-      "url": "https://www.publico.pt/2026/10/12/mundo/noticia/primeira-franca-candidato-esquerda-presidenciais-nao-partido-socialista-2191091",
+      "date": "Mon, 12 Oct 2026 23:00:01 GMT",
+      "url": "https://www.publico.pt/2026/10/13/culturaipsilon/noticia/revelados-sete-finalistas-premio-novos-artistas-fundacao-edp-20262027-2191123",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "1e139852",
-      "cat": "cultura",
-      "title": "Torre da Péla, construção do século XIV “escondida” no Martim Moniz, será reabilitada",
-      "summary": "A edificação, uma das 77 torres da Cerca Fernandina, tem estado sujeita à degradação. Mas empreitada quer “revitalizar um documento histórico que testemunha o último perímetro urbano medieval”.",
+      "id": "bf9b1949",
+      "cat": "tecnologia",
+      "title": "UE vai limitar importações de híbridos chineses a 350 mil veículos por ano",
+      "summary": "O acordo foi firmado na última sexta-feira, após dois dias de intensas negociações em Pequim.",
       "source": "Público",
-      "date": "Mon, 12 Oct 2026 14:01:00 GMT",
-      "url": "https://www.publico.pt/2026/10/12/local/noticia/torre-construcao-seculo-xiv-escondida-martim-moniz-sera-reabilitada-2190463",
+      "date": "Mon, 12 Oct 2026 21:25:26 GMT",
+      "url": "https://www.publico.pt/2026/10/12/economia/noticia/ue-vai-limitar-importacoes-hibridos-chineses-350-mil-veiculos-ano-2191137",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "5a44d0bd",
-      "cat": "saude",
-      "title": "Provedora de Justiça alerta para falta de respostas",
-      "summary": "Provedora de justiça lembra que as pessoas que estão institucionalizadas ou privadas da liberdade têm menos possibilidades de procurar ajuda e dependem particularmente das respostas do Estado.",
+      "id": "de3a0ce2",
+      "cat": "tecnologia",
+      "title": "EDP anuncia finalistas da 16.ª edição Prémio Novos Artistas",
+      "summary": "Da pintura ao som e imagem em movimento, os sete finalistas — selecionados de 550 candidatos — vivem espalhados por Lisboa, Berlim, Viena e Londres.",
       "source": "Observador",
-      "date": "Mon, 12 Oct 2026 13:40:48 +0100",
-      "url": "https://observador.pt/2026/10/12/provedora-de-justica-alerta-para-falta-de-respostas-na-saude-mental/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/18191809/47466910.jpg",
+      "date": "Tue, 13 Oct 2026 00:26:16 +0100",
+      "url": "https://observador.pt/2026/10/13/fundacao-edp-anuncia-sete-finalistas-na-16-a-edicao-premio-novos-artistas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/03163619/6-maat-photo-fgsg-fotografia-de-arquitectura-courtesy-of-edp-foundation-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "c3483cc6",
+      "id": "8c7bc2e2",
       "cat": "tecnologia",
-      "title": "Indianos pedem demissão do chefe da comissão eleitoral",
-      "summary": "Movimento \"Baratas\", criado online para unir a indignação da Geração Z, exige demissão do presidente da comissão eleitoral da Índia, que acreditam estar a beneficiar o primeiro-ministro Narendra Modi.",
+      "title": "Estabilidade política não é política económica",
+      "summary": "O Orçamento do Estado para 2027 deverá ser aprovado sem grandes dramas e confirma o consenso em torno do equilíbrio das contas públicas. Mas é preciso ir mais longe.",
       "source": "Observador",
-      "date": "Mon, 12 Oct 2026 13:36:42 +0100",
-      "url": "https://observador.pt/2026/10/12/milhares-de-indianos-nas-ruas-para-pedir-demissao-do-chefe-da-comissao-eleitoral/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/12112100/47917795.jpg",
+      "date": "Tue, 13 Oct 2026 00:24:39 +0100",
+      "url": "https://observador.pt/opiniao/estabilidade-politica-nao-e-politica-economica/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2385%3A2384%3Anowe%3A266%3A399%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Fhelena-garrido.jpg",
       "score": 0.73
     },
     {
-      "id": "18d1dc39",
-      "cat": "tecnologia",
-      "title": "\"Mundo vai precisar de mais 23% de energia até 2050\"",
-      "summary": "Secretário-geral da Organização de Países Exportadores de Petróleo atribui a \"escassez\" que o mundo sofre, atualmente, de \"diesel, combustível para aviões e gasolina\" à falta de investimento.",
-      "source": "Observador",
-      "date": "Mon, 12 Oct 2026 13:31:28 +0100",
-      "url": "https://observador.pt/2026/10/12/organizacao-dos-paises-exportadores-de-petroleo-mundo-vai-precisar-de-mais-23-de-energia-ate-2050/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:33/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/12121511/45851191.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "01ceb882",
-      "cat": "tecnologia",
-      "title": "Ventura diz que tempo para acordo de legislatura \"já passou\"",
-      "summary": "O líder do Chega respondia à entrevista de Pedro Passos Coelho, na qual insistiu que o PSD \"tinha obrigação\" de explorar um acordo de legislatura com Chega e IL.",
+      "id": "91e50743",
+      "cat": "economia",
+      "title": "Derrama de IRC \"não é amiga do investimento”",
+      "summary": "Portugal tem de apostar não apenas na estabilidade fiscal, mas na sua simplificação, defende o \"country manager\" da EY Portugal. Proposta de Orçamento do Estado não tocou nesse aspeto, sublinha.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 12 Oct 2026 15:58:26 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ventura-diz-que-tempo-para-acordo-de-legislatura-ja-passou",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-07-12-00-00-527866.jpg",
+      "date": "Tue, 13 Oct 2026 00:01:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/derrama-de-irc-nao-e-amiga-do-investimento",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-12-15-48-48-531008.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d9c26a36",
+      "cat": "tecnologia",
+      "title": "Investimento estrangeiro em Portugal caiu 5% em 2025, menos do que na Europa",
+      "summary": "O número de projetos tem vindo a cair e 2025 repetiu a tendência, mas, segundo um estudo da EY, desceu menos do que na Europa. Energia, centros de dados e talento são trunfos do país, defende o \"country managing partner\" da consultora. Enquadramento fiscal e acesso a financiamento são pontos a melho",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 13 Oct 2026 00:01:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/investimento-estrangeiro-em-portugal-caiu-5-em-2025-menos-do-que-na-europa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-12-15-48-45-531006.jpg",
       "score": 0.73
     },
     {
@@ -201,69 +179,102 @@
       "score": 0.73
     },
     {
-      "id": "d372d26e",
-      "cat": "desporto",
-      "title": "12h30 Históricos de Betis e Lens anteveem Porto e Sporting",
-      "summary": "",
-      "source": "RTP",
-      "date": "Mon, 12 Oct 2026 14:05:02 +0100",
-      "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-historicos-de-betis-e-lens-anteveem-porto-e-sporting_a1_1771176",
-      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "2cdbf021",
-      "cat": "desporto",
-      "title": "Ciclista português Ivo Oliveira conquista Tour de Kyushu",
-      "summary": "O ciclista português Ivo Oliveira (UAE Emirates) conquistou hoje o Tour de Kyushu, depois de vencer ao sprint a terceira e última etapa da prova que decorreu no Japão.",
-      "source": "RTP",
-      "date": "Mon, 12 Oct 2026 11:18:04 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/ciclista-portugues-ivo-oliveira-conquista-tour-de-kyushu_d1771152",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/55/55558b3510d582350c50b2c1daed121a?w=350&amp;q=50&amp;rect=0,0,5697,3123&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "314fe822",
-      "cat": "saude",
-      "title": "Famalicão e Alverca encerram ronda, antes de nova pausa",
-      "summary": "Famalicão e Alverca encerram hoje a oitava jornada da edição 2026/27 da I Liga portuguesa de futebol, no terreno dos minhotos, num duelo entre emblemas do meio da tabela que procuram continuar num registo vitorioso na competição.",
-      "source": "RTP",
-      "date": "Mon, 12 Oct 2026 09:39:58 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/famalicao-e-alverca-encerram-ronda-antes-de-nova-pausa_d1771137",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/75/752a13bed865afa0cefec0ce4236f49b?w=350&amp;q=50&amp;rect=0,175,2937,1610&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "433476f1",
+      "id": "7f31ddae",
       "cat": "tecnologia",
-      "title": "Quiosques Volta ideias para a restauração aguardam ‘ok’ de 26 municípios",
-      "summary": "No que diz respeito ao sistema de depósito e reembolso de embalagens conhecido por Volta, máquinas de recolha há milhares, disponíveis nos supermercados. Já quiosques há menos: é suposto serem 50 até ao ano que vem, e, para já, só oito estão operacionais. Este segundo tipo de ponto de recolha é mais",
+      "title": "Daniel Bragança estreia-se a marcar pelo Torino no triunfo sobre a Udinese",
+      "summary": "O médio português Daniel Bragança estreou-se hoje a marcar na Liga italiana de futebol, contribuindo para a vitória do Torino sobre a Udinese, por 2-1, no jogo que fechou a sexta jornada.",
+      "source": "RTP",
+      "date": "Mon, 12 Oct 2026 23:17:24 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/daniel-braganca-estreia-se-a-marcar-pelo-torino-no-triunfo-sobre-a-udinese_d1771286",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/31/310ec8c496d35fdc3cd4516195238960?w=350&amp;q=50&amp;rect=0,79,1356,743&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "1f5397a5",
+      "cat": "tecnologia",
+      "title": "Rui Borges declarou que a Liga dos Campeões do Sporting é o campeonato",
+      "summary": "Na antevisão do jogo da Champions, frente ao Lens, o treinador dos leões disse esperar sair de França com a vitória.",
+      "source": "RTP",
+      "date": "Mon, 12 Oct 2026 22:01:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/rui-borges-declarou-que-a-liga-dos-campeoes-do-sporting-e-o-campeonato_v1771273",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ef/ef2249311b58f1dbc24ba61166bcff5a?w=350&amp;q=50&amp;rect=0,110,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "48c7b69a",
+      "cat": "tecnologia",
+      "title": "Alverca arranca vitória robusta em Famalicão",
+      "summary": "O Alverca somou o terceiro triunfo seguido na I Liga portuguesa de futebol, ao vencer em casa do Famalicão por expressivos 4-1, no jogo que encerrou a oitava jornada.",
+      "source": "RTP",
+      "date": "Mon, 12 Oct 2026 19:46:52 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/alverca-arranca-vitoria-robusta-em-famalicao_e1771241",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/cb/cb2ab11e43d7fc8724134a1acfcdf20e?w=350&amp;q=50&amp;rect=0,86,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "3ab6521f",
+      "cat": "ambiente",
+      "title": "Montenegro responde a Passos Coelho: “Não governamos o país na base das birras”",
+      "summary": "O primeiro-ministro e presidente do PSD, Luís Montenegro, respondeu esta segunda-feira à noite às críticas do antigo primeiro-ministro Pedro Passos Coelho &#8212; sem o mencionar &#8211;, ao afirmar que não governa o país &#8220;na base das birras, das cismas e dos complexos de ninguém&#8221;. Monte",
       "source": "ECO",
-      "date": "Mon, 12 Oct 2026 14:48:04 +0000",
-      "url": "https://eco.sapo.pt/2026/10/12/quiosques-volta-pendentes-do-ok-de-26-municipios/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-quiosquevolta-easy-resizecom.jpg",
+      "date": "Mon, 12 Oct 2026 21:04:33 +0000",
+      "url": "https://eco.sapo.pt/2026/10/12/montenegro-responde-a-passos-coelho-nao-governamos-o-pais-na-base-das-birras/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-whatsapp-image-2026-09-08-at-151835.jpeg",
       "score": 0.73
     },
     {
-      "id": "b61b7c14",
+      "id": "4c03362a",
       "cat": "tecnologia",
-      "title": "Boa Hotels prepara resort de luxo no Douro e abertura na Grécia",
-      "summary": "Kura é o nome do resort destinado ao segmento alto que o grupo hoteleiro Boa Hotels prepara para 2029 no Douro. A empresa prevê também a abertura da primeira unidade fora de portas, o boutique hotel Oscuro, em Paros, na Grécia, em 2028. Este será o segundo projeto da empresa em Portugal, depois do V",
+      "title": "Contratos do SIRESP feitos pela Secretaria-Geral do MAI alvo de auditoria na IGAI",
+      "summary": "A Inspeção-Geral da Administração Interna (IGAI) abriu uma auditoria aos contratos da rede SIRESP feitos pela Secretaria-Geral do Ministério da Administração Interna (MAI) entre abril de 2024 e maio de 2026, avançou o MAI. Numa resposta enviada à Lusa, o MAI refere que o ministro Luís Neves determin",
       "source": "ECO",
-      "date": "Mon, 12 Oct 2026 14:32:15 +0000",
-      "url": "https://eco.sapo.pt/2026/10/12/boa-hotels-prepara-resort-de-luxo-no-douro-e-abertura-na-grecia/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-the-estate.png",
+      "date": "Mon, 12 Oct 2026 19:25:13 +0000",
+      "url": "https://eco.sapo.pt/2026/10/12/contratos-do-siresp-feitos-pela-secretaria-geral-do-mai-alvo-de-auditoria-na-igai/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47573781-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "2d7b135a",
+      "id": "88f47f82",
+      "cat": "cultura",
+      "title": "Consórcio liderado pela Mota-Engil quer ir além de Oiã na Alta Velocidade",
+      "summary": "O consórcio português liderado pela Mota-Engil que ganhou a concessão do primeiro troço da Alta Velocidade, entre Porto e Oiã, reiterou esta segunda-feira o seu compromisso com a execução do projeto, reiterando que quer prolongar a participação portuguesa além de Oiã. &#8220;Começamos a tornar reali",
+      "source": "ECO",
+      "date": "Mon, 12 Oct 2026 17:30:24 +0000",
+      "url": "https://eco.sapo.pt/2026/10/12/consorcio-da-mota-engil-quer-ir-alem-de-oia-na-alta-velocidade/",
+      "img": "https://eco.imgix.net/uploads/2025/07/cropped-linha-alta-velocidade11.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "be4d5ceb",
       "cat": "tecnologia",
-      "title": "Good News in History, October 12",
-      "summary": "81 years ago today, Desmond Doss became the only conscientious objector to win the Medal of Honor after saving an estimated 75 men during the Battle of Hacksaw Ridge in the invasion of Okinawa. Doss refused to carry a weapon into combat because of his personal beliefs as a Seventh-day Adventist agai",
+      "title": "Montana High School Softball Player Discovered Long-Lost Sister on Opposing Team",
+      "summary": "A softball diamond in Montana was the scene of a larger-than-life family reunion. Like something out of Field of Dreams, a teen softball player had lined up against an out-of-state team for an August match—and her long-lost biological sister was on the opposite roster. Samantha Rensvold was adopted ",
       "source": "Good News Network",
-      "date": "Mon, 12 Oct 2026 07:00:00 +0000",
-      "url": "https://www.goodnewsnetwork.org/events061012/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/10/Corporal-Doss-receiving-the-Medal-of-Honor-from-President-Harry-S.-Truman-on-October-12-1945.jpg",
+      "date": "Mon, 12 Oct 2026 18:30:44 +0000",
+      "url": "https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Kyann-Dean-left-and-Samantha-Rensvold-right-credit-Rensvold-family-photo.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d3d16fa5",
+      "cat": "tecnologia",
+      "title": "‘Like Caring for a Pet’ – the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
+      "summary": "An open-source app has thousands of Berliners adopting and watering city trees as if they were their pets, helping keep the city green amid repeated summer heatwaves. Gieß den Kiez translates to &#8220;water your neighborhood,&#8221; and offers users a map of the city with each one of the roughly 90",
+      "source": "Good News Network",
+      "date": "Mon, 12 Oct 2026 15:30:39 +0000",
+      "url": "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-Thanh-Thu-Nguyen-CityLAB-Berlin.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "7a7be36c",
+      "cat": "ciencia",
+      "title": "Crew searching for Amelia Earhart arrives at crab-infested island",
+      "summary": "Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's demise.",
+      "source": "BBC News",
+      "date": "Mon, 12 Oct 2026 22:01:43 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb9/live/6e07c9f0-c67a-11f1-9bb5-01f2acfb45fc.jpg",
       "score": 0.73
     },
     {
@@ -320,17 +331,6 @@
       "url": "https://reasonstobecheerful.world/the-spark-the-community-lighthouses/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/09/First-Grace-UMC-2-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "6c281690",
-      "cat": "tecnologia",
-      "title": "Mondlane foi vitamina para os angolanos desanimados com as eleições de 2027",
-      "summary": "No encontro sobre justiça eleitoral em Angola viu-se um activismo cansado, desanimado e com medo. O candidato presidencial moçambicano falou em criar redes entre países e modernizar o panafricanismo.",
-      "source": "Público",
-      "date": "Mon, 12 Oct 2026 14:56:36 GMT",
-      "url": "https://www.publico.pt/2026/10/12/mundo/noticia/mondlane-vitamina-angolanos-desanimados-eleicoes-2027-2191096",
-      "img": null,
-      "score": 0.7
     }
   ]
 }
