@@ -1,27 +1,49 @@
 {
-  "last_update": "14/10/2026 04:34 UTC",
+  "last_update": "14/10/2026 11:37 UTC",
   "total": 30,
   "news": [
     {
-      "id": "3e6964d1",
+      "id": "fc35fe91",
       "cat": "tecnologia",
-      "title": "What went right this week: the ‘alternative Nobel prize’, plus more",
-      "summary": "The ‘alternative Nobel prize’, global progress on ageism, and a boost for gorillas, plus more The post What went right this week: the &#8216;alternative Nobel prize&#8217;, plus more appeared first on Positive News .",
-      "source": "Positive News",
-      "date": "Fri, 02 Oct 2026 05:46:05 +0000",
-      "url": "https://www.positive.news/society/democracy/good-news-stories-from-week-40-of-2026/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/10/RS24644_Timnit-Gebru-2026-right-livelihood-laureate-002.jpg",
+      "title": "Águas do Douro ganha prémio de inovação internacional com projeto de lamas para cerâmica",
+      "summary": "Anualmente, a Águas do Douro e Paiva encaminha cerca de 2.280 toneladas de lamas da Estação de Tratamento de Água de Lever para valorização na indústria cerâmica, onde são utilizadas na produção de aproximadamente 14 milhões de telhas. Desta forma, valoriza as lamas resultantes do tratamento de água",
+      "source": "ECO",
+      "date": "Wed, 14 Oct 2026 10:52:39 +0000",
+      "url": "https://eco.sapo.pt/2026/10/14/aguas-do-douro-ganha-premio-de-inovacao-internacional-com-projeto-de-lamas-para-ceramica/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc2013011215575577agua.jpg",
       "score": 0.82
     },
     {
-      "id": "0a3a77e9",
+      "id": "f16d8312",
       "cat": "tecnologia",
-      "title": "Raquel Mendes é a nova diretora de marketing do Activobank",
-      "summary": "O ActivoBank nomeou Raquel Mendes para a direção de marketing, cargo que Andreia Teixeira ocupava desde 2019. A nomeação surge um mês depois de Andreia Teixeira ter subido a administradora executiva do ActivoBank, com os pelouros de marketing, comunicação, transformação e inovação, experience design",
+      "title": "FC Porto procura estrear-se a vencer no estádio do Betis",
+      "summary": "O FC Porto procura conquistar hoje a primeira vitória na Liga dos Campeões de futebol de 2026/27, ao defrontar os espanhóis do Betis, em Sevilha, em jogo da segunda jornada da fase de liga.",
+      "source": "RTP",
+      "date": "Wed, 14 Oct 2026 09:22:18 +0100",
+      "url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-procura-estrear-se-a-vencer-no-estadio-do-betis_d1771561",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/86/865678bc3f6786bbdc2722cf3dcff301?w=350&amp;q=50&amp;rect=0,266,4500,2467&amp;auto=format",
+      "score": 0.79
+    },
+    {
+      "id": "ecfb35de",
+      "cat": "tecnologia",
+      "title": "Portuguesa Tally faz parceria com Qonto para simplificar criação e gestão financeira das empresas",
+      "summary": "A Tally, empresa portuguesa de contabilidade de nova geração, e a Qonto, solução europeia de gestão financeira para empresas, anunciaram uma parceria com o objetivo de simplificar a criação e gestão financeira das empresas em Portugal. &#8220;A iniciativa junta uma conta empresarial 100% digital a s",
       "source": "ECO",
-      "date": "Tue, 13 Oct 2026 17:58:21 +0000",
-      "url": "https://eco.sapo.pt/2026/10/13/raquel-mendes-e-a-nova-diretora-de-marketing-do-activobank/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-1780340389255.png",
+      "date": "Wed, 14 Oct 2026 10:37:22 +0000",
+      "url": "https://eco.sapo.pt/2026/10/14/portuguesa-tally-faz-parceria-com-qonto-para-simplificar-criacao-e-gestao-financeira-das-empresas/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-tally01.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "f20b01c3",
+      "cat": "tecnologia",
+      "title": "Wildlife photographer of the year 2026, the winning images",
+      "summary": "This year’s competition has attracted a record-breaking number of entries The post Wildlife photographer of the year 2026, the winning images appeared first on Positive News .",
+      "source": "Positive News",
+      "date": "Wed, 14 Oct 2026 07:00:50 +0000",
+      "url": "https://www.positive.news/society/wildlife-photographer-of-the-year-2026-the-winning-images/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/10/©-Loren-Elliott.jpg",
       "score": 0.79
     },
     {
@@ -47,6 +69,28 @@
       "score": 0.79
     },
     {
+      "id": "483926d0",
+      "cat": "ciencia",
+      "title": "A planet 320 light-years away confirms what scientists long suspected",
+      "summary": "Astronomers have discovered that a scorching-hot planet 320 light-years away shares a striking chemical similarity with its host star, providing the first direct evidence for a fundamental assumption about planet formation. The breakthrough could help scientists predict what distant rocky planets ar",
+      "source": "ScienceDaily",
+      "date": "Tue, 13 Oct 2026 20:24:40 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185015.htm",
+      "img": "https://www.sciencedaily.com/images/1920/ultra-hot-jupiter-illustration.webp",
+      "score": 0.79
+    },
+    {
+      "id": "5917c79a",
+      "cat": "ambiente",
+      "title": "210-million-year-old dinosaur discovery reveals a lost world in Africa",
+      "summary": "A newly identified 210-million-year-old dinosaur from Zimbabwe is helping scientists uncover a surprisingly distinct prehistoric ecosystem. The discovery suggests that ancient climate differences may have separated dinosaur populations across southern Africa, leading to unique species that challenge",
+      "source": "ScienceDaily",
+      "date": "Tue, 13 Oct 2026 18:53:03 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
+      "img": "https://www.sciencedaily.com/images/1920/reconstruction-of-musango.webp",
+      "score": 0.79
+    },
+    {
       "id": "b222f4e5",
       "cat": "tecnologia",
       "title": "Scientists just gave the powerhouses of our cells a high-tech upgrade",
@@ -56,6 +100,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
       "img": "https://www.sciencedaily.com/images/1920/mithocondria-coating.webp",
       "score": 0.79
+    },
+    {
+      "id": "5a719fe9",
+      "cat": "tecnologia",
+      "title": "Rafael Silva de bronze nos 1.000 metros sprint de juniores dos World Skate Games",
+      "summary": "O patinador português Rafael Silva conquistou na terça-feira a medalha de bronze na prova de sprint de 1.000 metros de juniores dos World Skate Games, a decorrer em Assunção, no Paraguai.",
+      "source": "RTP",
+      "date": "Wed, 14 Oct 2026 09:17:39 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/rafael-silva-de-bronze-nos-1000-metros-sprint-de-juniores-dos-world-skate-games_d1771558",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9a4db592c6ac048dbd69a4db8d8571ca?w=350&amp;q=50&amp;rect=0,7,960,526&amp;auto=format",
+      "score": 0.76
     },
     {
       "id": "05c9a11f",
@@ -80,58 +135,69 @@
       "score": 0.76
     },
     {
-      "id": "313a7e9a",
-      "cat": "tecnologia",
-      "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
-      "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication. By analyzing millions of measurements from mouse brains, researchers identified 539 distinct chemical zones,",
-      "source": "ScienceDaily",
-      "date": "Tue, 13 Oct 2026 01:00:55 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
-      "img": "https://www.sciencedaily.com/images/1920/lipizones-in-mouse-brain.webp",
-      "score": 0.76
-    },
-    {
-      "id": "25cdbf03",
-      "cat": "ciencia",
-      "title": "Physicists discover “astonishing” property of light that defies expectations",
-      "summary": "Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left- and right-handed pa",
-      "source": "ScienceDaily",
-      "date": "Tue, 13 Oct 2026 00:19:32 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm",
-      "img": "https://www.sciencedaily.com/images/1920/multidimensional-quantum-light-data-communications.webp",
-      "score": 0.76
-    },
-    {
-      "id": "c18a91bc",
-      "cat": "tecnologia",
-      "title": "“Britin” ou o regresso do filho pródigo",
-      "summary": "Depois da declaração de Burnham, o Reino Unido não está mais condenado ao “Brexit”. E abre-se aqui uma janela de esperança. Nunca é tarde para o regresso de um filho pródigo. Opinião de Nuno Severiano Teixeira",
+      "id": "55690ece",
+      "cat": "economia",
+      "title": "BE acusa Governo de deixar alunos sem certificados de cursos para adultos",
+      "summary": "Há alunos sem certificados de cursos para adultos, o que dificulta o acesso ao emprego e ao ensino superior. BE acusa o Governo de falhas nos procedimentos após a extinção de dois organismos.",
       "source": "Público",
-      "date": "Tue, 13 Oct 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/10/14/opiniao/opiniao/britin-regresso-filho-prodigo-2191191",
+      "date": "Wed, 14 Oct 2026 10:14:24 GMT",
+      "url": "https://www.publico.pt/2026/10/14/politica/noticia/be-acusa-governo-deixar-alunos-certificados-cursos-adultos-2191267",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "d6fc248d",
+      "id": "78a62cdd",
       "cat": "tecnologia",
-      "title": "2h. UE abre mais capítulos nas negociações de adesão de Kiev",
-      "summary": "O segundo grupo de capítulos aberto é sobre competitividade e \"crescimento inclusivo\". Ainda, o Sporting venceu esta tarde em casa dos franceses do Lens por duas bolas a zero.",
+      "title": "Trump anuncia exploração de petróleo e gás na Gronelândia",
+      "summary": "\"A exploração em larga escala de petróleo, gás e minerais está prestes a começar na nossa bela e nova Gronelândia!\", declarou Trump. O anúncio surge após assinatura de acordo de segurança com a ilha.",
       "source": "Observador",
-      "date": "Wed, 14 Oct 2026 02:17:28 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2440/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Wed, 14 Oct 2026 11:00:01 +0100",
+      "url": "https://observador.pt/2026/10/14/donald-trump-anuncia-exploracao-de-petroleo-e-gas-na-gronelandia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/14092222/47934325.jpg",
       "score": 0.73
     },
     {
-      "id": "e0eb3d45",
+      "id": "e3d2ff08",
+      "cat": "geral",
+      "title": "\"Papa Leão XIV tem prognóstico geral positivo\"",
+      "summary": "O pneumologista Agostinho Marques explica como são tratados estes casos. Já o padre Ricardo Figueiredo destaca a serenidade sentida no seio da Igreja Católica.",
+      "source": "Observador",
+      "date": "Wed, 14 Oct 2026 10:15:00 +0100",
+      "url": "https://observador.pt/programas/explicador/papa-leao-xiv-tem-prognostico-geral-positivo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/09/24112758/770-podcast-explicador.png",
+      "score": 0.73
+    },
+    {
+      "id": "763f2e85",
       "cat": "tecnologia",
-      "title": "Reguladores dos EUA multam Bank of America em 1,2 mil milhões de dólares",
-      "summary": "As infrações estão relacionadas com a lavagem de dinheiro e violações de sanções programas de sanções que envolvem países como a Rússia e o Irão. “Mesmo as maiores instituições financeiras não estão acima da lei”, diz secretário do Tesouro.",
+      "title": "Procura mundial de petróleo deverá cair em 2,5 milhões de barris diários no 4.º trimestre",
+      "summary": "A oferta mundial de petróleo aumentou em setembro em 2,5 milhões de barris por dia em relação ao mês anterior, atingindo 102,3 milhões de barris por dia.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 13 Oct 2026 23:12:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/reguladores-dos-eua-multam-bank-of-america-em-1-2-mil-milhoes-de-dolares",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-04/img_100x100uu2025-04-15-14-44-47-499589.jpg",
+      "date": "Wed, 14 Oct 2026 12:13:41 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/procura-mundial-de-petroleo-devera-cair-em-2-5-milhoes-de-barris-diarios-no-4-trimestre",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-11/img_100x100uu2025-11-24-08-07-09-513440.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c5a2bdd5",
+      "cat": "tecnologia",
+      "title": "\"Revolução\" nas embalagens: dos desafios e custos até à falta de ambição",
+      "summary": "Novas regras da UE vêm \"atacar\" os chamados \"químicos eternos\" nas embalagens de alimentos e combater o uso de plástico descartável. A título de exemplo, saquetas individuais de molhos e temperos de restaurantes ou pequenos frascos de champô de hotéis têm os dias contados.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 14 Oct 2026 12:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/revolucao-nas-embalagens-dos-desafios-e-custos-ate-a-falta-de-ambicao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-12-07-12-35-528031.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "f0bd25d3",
+      "cat": "tecnologia",
+      "title": "Estado lesado em mais de 66 milhões por esquema que originou buscas em bancos",
+      "summary": "A operação \"Tax Free\" contou com a participação da Polícia Judiciária, da Autoridade Tributária e Aduaneira, 13 procuradores, três juízes de instrução e um técnico consultor do Banco de Portugal.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 14 Oct 2026 11:41:55 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/justica/detalhe/estado-lesado-em-mais-de-66-milhoes-por-esquema-que-originou-buscas-em-bancos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-16-23-49-40-526771.jpg",
       "score": 0.73
     },
     {
@@ -146,25 +212,25 @@
       "score": 0.73
     },
     {
-      "id": "91d0b4ca",
-      "cat": "desporto",
-      "title": "Sporting reina em Lens e lidera com FC Barcelona e Arsenal, Bayern escorrega",
-      "summary": "O Sporting somou a segunda vitória na Liga dos Campeões em futebol, no reduto dos franceses do Lens (2-0), mantendo-se no topo com FC Barcelona e Arsenal, numa jornada em que o Bayern Munique foi surpreendido.",
+      "id": "13275ce4",
+      "cat": "tecnologia",
+      "title": "Elite mundial do surf volta a Peniche com cinco portugueses em prova",
+      "summary": "Os melhores surfistas do mundo estão de regresso à Praia de Supertubos, em Peniche, para a 10.ª e antepenúltima etapa do circuito principal da Liga Mundial de Surf (WSL), que conta com um recorde de cinco surfistas portugueses.",
       "source": "RTP",
-      "date": "Wed, 14 Oct 2026 00:31:44 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/sporting-reina-em-lens-e-lidera-com-fc-barcelona-e-arsenal-bayern-escorrega_d1771512",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6c/6ca8956b4396f7ee5d0bda84b9bbcc2f?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
+      "date": "Wed, 14 Oct 2026 12:06:44 +0100",
+      "url": "https://www.rtp.pt/noticias/surf/elite-mundial-do-surf-volta-a-peniche-com-cinco-portugueses-em-prova_d1771598",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/62/62c149065577d6181bdf8b7f60f59630?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "dc836f6c",
-      "cat": "desporto",
-      "title": "Stopira despede-se da seleção de Cabo Verde ao fim de 18 anos",
-      "summary": "O defesa Stopira, autor do golo decisivo do Torreense na inédita conquista da Taça de Portugal de futebol, anunciou hoje o fim da carreira internacional por Cabo Verde, ao fim de 18 anos ao serviço da seleção.",
-      "source": "RTP",
-      "date": "Tue, 13 Oct 2026 19:19:13 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/stopira-despede-se-da-selecao-de-cabo-verde-ao-fim-de-18-anos_d1771452",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a0/a07ff7fbd2aaed5da6112706bca0395e?w=350&amp;q=50&amp;rect=0,35,1236,678&amp;auto=format",
+      "id": "fe339ac9",
+      "cat": "tecnologia",
+      "title": "“Não basta exportar mais. É preciso crescer em produtividade e valor”, diz economista Óscar Afonso",
+      "summary": "O economista Óscar Afonso considera que as empresas portuguesas podem ganhar escala com mais investimento em qualificação na área da gestão, sofisticação setorial e internacionalização, enquanto os legisladores devem tornar a fiscalidade mais competitiva, reduzir a morosidade da justiça e reformular",
+      "source": "ECO",
+      "date": "Wed, 14 Oct 2026 11:19:39 +0000",
+      "url": "https://eco.sapo.pt/2026/10/14/nao-basta-exportar-mais-e-preciso-crescer-em-produtividade-e-valor-diz-economista-oscar-afonso/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-whatsapp-image-2026-10-14-at-101605-2.jpeg",
       "score": 0.73
     },
     {
@@ -176,6 +242,17 @@
       "date": "Tue, 13 Oct 2026 13:00:10 +0000",
       "url": "https://www.goodnewsnetwork.org/barbie-honors-serena-williams-with-new-signature-doll-to-serve-inspiration-to-next-generation-of-women/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/released-by-Barbie.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1605547f",
+      "cat": "ciencia",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "source": "BBC News",
+      "date": "Wed, 14 Oct 2026 05:00:35 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
       "score": 0.73
     },
     {
@@ -198,17 +275,6 @@
       "date": "Mon, 12 Oct 2026 22:01:43 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e2/live/2c2cb300-c67b-11f1-a64c-550be9e3c66b.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "d98253bc",
-      "cat": "ciencia",
-      "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
-      "summary": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
-      "source": "BBC News",
-      "date": "Sun, 11 Oct 2026 23:48:25 GMT",
-      "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd03/live/be4fcbf0-c62b-11f1-a64c-550be9e3c66b.jpg",
       "score": 0.73
     },
     {
@@ -245,91 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "08ef4b0c",
+      "id": "acd2f3e4",
       "cat": "tecnologia",
-      "title": "FMI avisa países que subida dos juros torna ajustamento orçamental “urgente”",
-      "summary": "Responsáveis do Fundo visam especialmente economias avançadas com níveis de dívida elevados. “Quanto mais os países esperarem, mais doloroso o ajustamento se torna”, avisam.",
+      "title": "Produção de resíduos urbanos volta a aumentar em Portugal",
+      "summary": "Só no continente, a produção resíduios correspondeu a 494 quilos de lixo por habitante, algo como 1,35 quilos por dia por pessoa.",
       "source": "Público",
-      "date": "Wed, 14 Oct 2026 02:01:00 GMT",
-      "url": "https://www.publico.pt/2026/10/14/economia/noticia/fmi-avisa-paises-subida-juros-torna-ajustamento-orcamental-urgente-2191291",
+      "date": "Wed, 14 Oct 2026 10:14:02 GMT",
+      "url": "https://www.publico.pt/2026/10/14/azul/noticia/producao-residuos-urbanos-volta-aumentar-portugal-2191331",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "2ef6c8ec",
+      "id": "3a8cc243",
       "cat": "tecnologia",
-      "title": "Hóquei em patins: Portugal perde com Espanha na 2.ª jornada do Mundial",
-      "summary": "Selecção esteve a perder por três golos, ameaçou o empate mas acabou por cair diante do rival, nos World Skate Games. Segue-se a Itália.",
+      "title": "Histórias à beira da estrada",
+      "summary": "Passei ao lado do cão e pensei em agitar os bastões para o afastar, mas percebi que o que ele gostava mesmo era de ladrar e de mostrar os dentes. Crónica de João da Silva",
       "source": "Público",
-      "date": "Tue, 13 Oct 2026 23:47:59 GMT",
-      "url": "https://www.publico.pt/2026/10/14/desporto/noticia/hoquei-patins-portugal-perde-espanha-2-jornada-mundial-2191312",
+      "date": "Wed, 14 Oct 2026 10:01:32 GMT",
+      "url": "https://www.publico.pt/2026/10/14/impar/cronica/historias-beira-estrada-2191328",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "0a00bbcf",
-      "cat": "tecnologia",
-      "title": "As notícias das 4h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Wed, 14 Oct 2026 04:16:26 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2430/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "0565dfc1",
-      "cat": "tecnologia",
-      "title": "3h. MAI. Ventura troca perguntas pela presidência da CPI",
-      "summary": "O cargo tem limites, mas também margem para ser mais interventivo. Ainda, o Ministro da Administração Interna rejeita a narrativa de que Portugal está cada vez mais inseguro.",
-      "source": "Observador",
-      "date": "Wed, 14 Oct 2026 03:17:58 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2466/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "988267b1",
-      "cat": "tecnologia",
-      "title": "FMI vê fatura com juros a subir para 10% da receita pública",
-      "summary": "Com os juros em máximos de quase duas décadas, o FMI estima que a fatura com a dívida absorva perto de 10% da receita das economias avançadas e avisa que há menos margem para adiar o ajustamento.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 14 Oct 2026 03:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/fmi-ve-fatura-com-juros-a-subir-para-10-da-receita-publica",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-12-14-39-56-530996.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "e263adc1",
-      "cat": "tecnologia",
-      "title": "Governo vai separar gestão de terminais dos operadores de transportes",
-      "summary": "Projeto de decreto-lei define incompatibilidades entre os gestores dos terminais e os operadores de transporte de passageiros. As concessões destas infraestruturas ficarão limitadas a 10 anos.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 13 Oct 2026 23:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/governo-vai-separar-gestao-de-terminais-dos-operadores-de-transportes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-29-14-35-15-530301.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
