@@ -1,5 +1,5 @@
 {
-  "last_update": "13/10/2026 22:34 UTC",
+  "last_update": "14/10/2026 04:34 UTC",
   "total": 30,
   "news": [
     {
@@ -58,17 +58,6 @@
       "score": 0.79
     },
     {
-      "id": "3ebb6456",
-      "cat": "tecnologia",
-      "title": "Cornell suspende festas em fraternidades até o final do ano",
-      "summary": "O presidente Michael Kotlikoff anunciou a suspensão de todos os eventos sociais nas fraternidades até ao fim do ano letivo. Investigação independente foi entregue a ex-procuradora-geral Sally Yates.",
-      "source": "Observador",
-      "date": "Tue, 13 Oct 2026 21:49:23 +0100",
-      "url": "https://observador.pt/2026/10/13/universidade-cornell-suspende-festas-em-fraternidades-pelo-resto-do-ano-letivo-apos-caso-de-alegada-violacao-em-grupo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:157/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/28233340/gettyimages-1762566453.jpg",
-      "score": 0.76
-    },
-    {
       "id": "05c9a11f",
       "cat": "ciencia",
       "title": "Scientists Shocked to Discover ‘D-rex’, a Giant Fungus from Chinese Forests Dating Back 65 Million Years",
@@ -113,12 +102,34 @@
       "score": 0.76
     },
     {
+      "id": "c18a91bc",
+      "cat": "tecnologia",
+      "title": "“Britin” ou o regresso do filho pródigo",
+      "summary": "Depois da declaração de Burnham, o Reino Unido não está mais condenado ao “Brexit”. E abre-se aqui uma janela de esperança. Nunca é tarde para o regresso de um filho pródigo. Opinião de Nuno Severiano Teixeira",
+      "source": "Público",
+      "date": "Tue, 13 Oct 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/10/14/opiniao/opiniao/britin-regresso-filho-prodigo-2191191",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "d6fc248d",
+      "cat": "tecnologia",
+      "title": "2h. UE abre mais capítulos nas negociações de adesão de Kiev",
+      "summary": "O segundo grupo de capítulos aberto é sobre competitividade e \"crescimento inclusivo\". Ainda, o Sporting venceu esta tarde em casa dos franceses do Lens por duas bolas a zero.",
+      "source": "Observador",
+      "date": "Wed, 14 Oct 2026 02:17:28 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2440/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
       "id": "e0eb3d45",
       "cat": "tecnologia",
       "title": "Reguladores dos EUA multam Bank of America em 1,2 mil milhões de dólares",
       "summary": "As infrações estão relacionadas com a lavagem de dinheiro e violações de sanções programas de sanções que envolvem países como a Rússia e o Irão. “Mesmo as maiores instituições financeiras não estão acima da lei”, diz secretário do Tesouro.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 13 Oct 2026 23:12:31 +0100",
+      "date": "Tue, 13 Oct 2026 23:12:00 +0100",
       "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/reguladores-dos-eua-multam-bank-of-america-em-1-2-mil-milhoes-de-dolares",
       "img": "https://cdn.jornaldenegocios.pt/images/2025-04/img_100x100uu2025-04-15-14-44-47-499589.jpg",
       "score": 0.73
@@ -132,6 +143,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "91d0b4ca",
+      "cat": "desporto",
+      "title": "Sporting reina em Lens e lidera com FC Barcelona e Arsenal, Bayern escorrega",
+      "summary": "O Sporting somou a segunda vitória na Liga dos Campeões em futebol, no reduto dos franceses do Lens (2-0), mantendo-se no topo com FC Barcelona e Arsenal, numa jornada em que o Bayern Munique foi surpreendido.",
+      "source": "RTP",
+      "date": "Wed, 14 Oct 2026 00:31:44 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/sporting-reina-em-lens-e-lidera-com-fc-barcelona-e-arsenal-bayern-escorrega_d1771512",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/6c/6ca8956b4396f7ee5d0bda84b9bbcc2f?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
       "score": 0.73
     },
     {
@@ -223,80 +245,69 @@
       "score": 0.73
     },
     {
-      "id": "f59f84b9",
+      "id": "08ef4b0c",
       "cat": "tecnologia",
-      "title": "O presidente do imigrante",
-      "summary": "As redes sociais mudaram o comportamento de boa parte dos cidadãos, com impacto nas decisões sobre votos, como nas eleições presidências brasileiras. Crónica de Duda Las Casas",
+      "title": "FMI avisa países que subida dos juros torna ajustamento orçamental “urgente”",
+      "summary": "Responsáveis do Fundo visam especialmente economias avançadas com níveis de dívida elevados. “Quanto mais os países esperarem, mais doloroso o ajustamento se torna”, avisam.",
       "source": "Público",
-      "date": "Tue, 13 Oct 2026 21:44:10 GMT",
-      "url": "https://www.publico.pt/2026/10/13/publico-brasil/cronica/presidente-imigrante-2191305",
+      "date": "Wed, 14 Oct 2026 02:01:00 GMT",
+      "url": "https://www.publico.pt/2026/10/14/economia/noticia/fmi-avisa-paises-subida-juros-torna-ajustamento-orcamental-urgente-2191291",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "01501cf8",
+      "id": "2ef6c8ec",
       "cat": "tecnologia",
-      "title": "Conselho Superior de Defesa analisou situação internacional e das forças nacionais destacadas",
-      "summary": "Foi a terceira reunião deste órgão consultivo no mandato de António José Seguro.",
+      "title": "Hóquei em patins: Portugal perde com Espanha na 2.ª jornada do Mundial",
+      "summary": "Selecção esteve a perder por três golos, ameaçou o empate mas acabou por cair diante do rival, nos World Skate Games. Segue-se a Itália.",
       "source": "Público",
-      "date": "Tue, 13 Oct 2026 21:24:38 GMT",
-      "url": "https://www.publico.pt/2026/10/13/politica/noticia/conselho-superior-defesa-analisou-situacao-internacional-forcas-nacionais-destacadas-2191302",
+      "date": "Tue, 13 Oct 2026 23:47:59 GMT",
+      "url": "https://www.publico.pt/2026/10/14/desporto/noticia/hoquei-patins-portugal-perde-espanha-2-jornada-mundial-2191312",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "a84e2831",
+      "id": "0a00bbcf",
       "cat": "tecnologia",
-      "title": "Papa Leão XIV diagnosticado com cancro, médicos removeram um lobo do pulmão",
-      "summary": "“O exame histológico intra-operatório confirmou o diagnóstico de adenocarcinoma pulmonar, conforme suspeitado pelos exames pré-operatórios”, refere nota divulgada pelo Vaticano.",
-      "source": "Público",
-      "date": "Tue, 13 Oct 2026 20:52:35 GMT",
-      "url": "https://www.publico.pt/2026/10/13/mundo/noticia/papa-leao-xiv-diagnosticado-cancro-medicos-removeram-lobulo-pulmao-2191303",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "a13bbd50",
-      "cat": "geral",
-      "title": "Seguro preside ao terceiro Conselho de Defesa",
-      "summary": "O órgão presidido por António José Seguro analisou a segurança internacional e as forças destacadas. Foi a terceira reunião desde o início do mandato, em março de 2026.",
+      "title": "As notícias das 4h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Tue, 13 Oct 2026 22:53:07 +0100",
-      "url": "https://observador.pt/2026/10/13/conselho-superior-de-defesa-analisou-situacao-internacional-e-das-forcas-nacionais-destacadas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/16152531/47609596.jpg",
+      "date": "Wed, 14 Oct 2026 04:16:26 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2430/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "dafe2ed9",
-      "cat": "geral",
-      "title": "João Leão alerta para queda dos fundos europeus em Portugal",
-      "summary": "João Leão, membro português do Tribunal de Contas Europeu, avisou o Parlamento: fim do PRR e novo orçamento da UE (2028-2034) vão reduzir verbas para Portugal.",
-      "source": "Observador",
-      "date": "Tue, 13 Oct 2026 22:52:33 +0100",
-      "url": "https://observador.pt/2026/10/13/joao-leao-alerta-para-reducao-mais-acentuada-dos-fundos-europeus-a-partir-de-2030/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/05/21050150/31756476.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "2ea708b1",
-      "cat": "economia",
-      "title": "“Vou andar por aí”",
-      "summary": "Neste “vou andar por aí”, Passos Coelho está a ser um instrumento para a consolidação do poder de André Ventura.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 13 Oct 2026 23:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/vou-andar-por-ai",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
-      "score": 0.7
-    },
-    {
-      "id": "0efc51ec",
+      "id": "0565dfc1",
       "cat": "tecnologia",
-      "title": "Meta já conseguiu apanhar as rivais nos modelos mais avançados de IA, assegura Zuckerberg",
-      "summary": "O CEO da dona do Instagram garante que o novo modelo de IA da empresa, o Muse Wonder, consegue obter um melhor desempenho que os sistemas rivais da OpenAI e da Anthropic. Ao contrário de outros executivos do setor, Zuckerberg afasta receios de uma IA descontrolada.",
+      "title": "3h. MAI. Ventura troca perguntas pela presidência da CPI",
+      "summary": "O cargo tem limites, mas também margem para ser mais interventivo. Ainda, o Ministro da Administração Interna rejeita a narrativa de que Portugal está cada vez mais inseguro.",
+      "source": "Observador",
+      "date": "Wed, 14 Oct 2026 03:17:58 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2466/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "988267b1",
+      "cat": "tecnologia",
+      "title": "FMI vê fatura com juros a subir para 10% da receita pública",
+      "summary": "Com os juros em máximos de quase duas décadas, o FMI estima que a fatura com a dívida absorva perto de 10% da receita das economias avançadas e avisa que há menos margem para adiar o ajustamento.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 13 Oct 2026 22:23:52 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/meta-ja-conseguiu-apanhar-as-rivais-nos-modelos-mais-avancados-de-ia-assegura-zuckerberg",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-03/img_100x100uu2026-03-23-11-18-57-520923.jpg",
+      "date": "Wed, 14 Oct 2026 03:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/fmi-ve-fatura-com-juros-a-subir-para-10-da-receita-publica",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-12-14-39-56-530996.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "e263adc1",
+      "cat": "tecnologia",
+      "title": "Governo vai separar gestão de terminais dos operadores de transportes",
+      "summary": "Projeto de decreto-lei define incompatibilidades entre os gestores dos terminais e os operadores de transporte de passageiros. As concessões destas infraestruturas ficarão limitadas a 10 anos.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 13 Oct 2026 23:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/governo-vai-separar-gestao-de-terminais-dos-operadores-de-transportes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-29-14-35-15-530301.jpg",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Tue, 09 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "d7d85ff7",
-      "cat": "tecnologia",
-      "title": "Mundial Hóquei. Portugal - Espanha",
-      "summary": "O grande clássico entre Portugal e Espanha no Campeonato do Mundo de Hóquei em Patins joga-se, em Assunção, no Paraguai. A partida terá transmissão em direto na RTP1 e com relato na RTP Antena 1.",
-      "source": "RTP",
-      "date": "Tue, 13 Oct 2026 22:02:30 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundial-hoquei-portugal-espanha_d1771499",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/10/102ca64c9017c1cd7d13d295332aeab4?w=350&amp;q=50&amp;rect=0,35,1232,675&amp;auto=format",
       "score": 0.7
     }
   ]
