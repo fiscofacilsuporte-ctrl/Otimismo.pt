@@ -1,5 +1,5 @@
 {
-  "last_update": "16/10/2026 16:29 UTC",
+  "last_update": "16/10/2026 20:52 UTC",
   "total": 30,
   "news": [
     {
@@ -47,36 +47,36 @@
       "score": 0.79
     },
     {
-      "id": "5436debc",
+      "id": "7b44d1fe",
       "cat": "tecnologia",
-      "title": "MNE alemão diz que compra da TAP pela Lufthansa vai fortalecer a Europa como localização",
-      "summary": "\"Muito está a ser investido nesta parceria, especialmente em Portugal, e muitos contactos, cooperações e novos empregos vão surgir\", destacou Johann Wadephul.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 16 Oct 2026 15:45:31 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/mne-alemao-diz-que-compra-da-tap-pela-lufthansa-vai-fortalecer-a-europa-como-localizacao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-16-15-43-54-531259.jpg",
+      "title": "Montenegro nega ter acusado manifestantes do Porto de egoísmo e queixa-se de ameaças",
+      "summary": "O primeiro-ministro relatou ter visto intervenções onde são feitas ameaças “directamente” à casa onde vive com a família, mas antes ressalvou o respeito pelo direito à manifestação.",
+      "source": "Público",
+      "date": "Fri, 16 Oct 2026 18:26:20 GMT",
+      "url": "https://www.publico.pt/2026/10/16/politica/noticia/montenegro-nega-acusado-manifestantes-porto-egoismo-queixase-ameacas-2191664",
+      "img": null,
       "score": 0.76
     },
     {
-      "id": "4f6cf232",
+      "id": "7b8d8f87",
       "cat": "tecnologia",
-      "title": "12h30m Carlos Salgueiro medalha de bronze no mundial de pista",
-      "summary": "",
-      "source": "RTP",
-      "date": "Fri, 16 Oct 2026 14:28:02 +0100",
-      "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30m-carlos-salgueiro-medalha-de-bronze-no-mundial-de-pista_a1_1772101",
-      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
+      "title": "Esta é a chave do Euromilhões. Jackpot é de 49 milhões de euros",
+      "summary": "Com um primeiro prémio no valor de 49 milhões de euros, decorreu esta sexta-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta sexta-feira, dia 16 de outubro. Números: 7, 1",
+      "source": "ECO",
+      "date": "Fri, 16 Oct 2026 19:39:27 +0000",
+      "url": "https://eco.sapo.pt/2026/10/16/esta-e-a-chave-do-euromilhoes-jackpot-e-de-49-milhoes-de-euros-3/",
+      "img": "https://eco.imgix.net/uploads/2020/05/cropped-pndr1628.jpg",
       "score": 0.76
     },
     {
-      "id": "3ff8e05c",
+      "id": "2bb03e21",
       "cat": "tecnologia",
-      "title": "Mundiais Ciclismo. Miguel Salgueiro medalha de bronze na corrida por pontos",
-      "summary": "O ciclista português Miguel Salgueiro conquistou hoje a medalha de bronze na corrida por pontos dos Mundiais de pista, dando a segunda medalha a Portugal em Xangai, na China.",
-      "source": "RTP",
-      "date": "Fri, 16 Oct 2026 12:31:08 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundiais-ciclismo-miguel-salgueiro-medalha-de-bronze-na-corrida-por-pontos_d1772075",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/42/4290316f09678853f7b0a4580a6ad24a?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format",
+      "title": "Ativo do dia. Índice de referência europeu com melhor semana desde julho",
+      "summary": "O ativo O índice de referência europeu, o Stoxx 600, agrega as 600 maiores cotadas do bloco em termos de capitalização bolsista. Regista um saldo positivo superior a 8% desde o início do ano e chegou, em agosto, a alcançar máximos históricos, acima dos 660 pontos. Empresas portuguesas como a EDP, Ga",
+      "source": "ECO",
+      "date": "Fri, 16 Oct 2026 16:54:10 +0000",
+      "url": "https://eco.sapo.pt/2026/10/16/ativo-da-semana-indice-de-referencia-europeu-com-melhor-semana-desde-julho/",
+      "img": "https://eco.imgix.net/uploads/2026/09/proposta-1-indice.jpg",
       "score": 0.76
     },
     {
@@ -135,58 +135,80 @@
       "score": 0.76
     },
     {
-      "id": "0856cb35",
+      "id": "e43410e6",
       "cat": "tecnologia",
-      "title": "Procura da Carris Metropolitana cresce 43% em três anos, mas terminais e trânsito complicam",
-      "summary": "Empresa tem 15% de autocarros eléctricos e quer chegar aos 100. Foram apresentados mais 37 veículos destes que vão operar pelos municípios de Loures, Mafra, Odivelas e Vila Franca de Xira",
+      "title": "“Uma família com um único progenitor não é metade de uma família”",
+      "summary": "A associação Colo a Solo festejou uma vitória com a integração da monoparentalidade no alargamento da licença parental. Histórias de vida cruzam os desafios de quem não tem com quem partilhar.",
       "source": "Público",
-      "date": "Fri, 16 Oct 2026 14:54:34 GMT",
-      "url": "https://www.publico.pt/2026/10/16/local/noticia/procura-carris-metropolitana-cresce-43-tres-anos-terminais-transito-complicam-2191643",
+      "date": "Fri, 16 Oct 2026 20:00:00 GMT",
+      "url": "https://www.publico.pt/2026/10/16/sociedade/noticia/familia-unico-progenitor-nao-metade-familia-2191636",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "527f779b",
-      "cat": "cultura",
-      "title": "Festival de cinema Queer Porto de regresso entre 3 e 7 de Novembro",
-      "summary": "Depois do sucesso da edição de aniversário do Queer Lisboa, a 12.ª edição do festival traz a antestreia de A Bola Negra e uma homenagem a Rosa von Praunheim.",
+      "id": "0e06fd55",
+      "cat": "tecnologia",
+      "title": "Trotinetas partilhadas saem até Janeiro e Moedas fala em “apostar mais” em bicicletas",
+      "summary": "Proposta de cessação contratual motivada por questões de segurança. Autarca acusa operadoras de incumprirem acordo. E diz que será dada prioridade a bicicletas partilhadas Gira. PS fala em “falhanço”.",
       "source": "Público",
-      "date": "Fri, 16 Oct 2026 14:29:46 GMT",
-      "url": "https://www.publico.pt/2026/10/16/culturaipsilon/noticia/festival-cinema-queer-porto-regresso-3-7-novembro-2191633",
+      "date": "Fri, 16 Oct 2026 18:16:36 GMT",
+      "url": "https://www.publico.pt/2026/10/16/local/noticia/trotinetas-partilhadas-saem-ate-janeiro-moedas-fala-apostar-bicicletas-2191671",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "bfa7e16f",
+      "id": "0b14cf7d",
       "cat": "tecnologia",
-      "title": "Escritoras brasileiras levam ao palco em Lisboa descolamento, gênero e território",
-      "summary": "Fernanda Hamann, Maria Giulia Pinheiro e Vivien Merciel Suarez debatem crônica, corpo feminino e diáspora na segunda-feira (19), na Fábrica Braço de Prata, em Lisboa, com mediação de Déa Paulino.",
-      "source": "Público",
-      "date": "Fri, 16 Oct 2026 14:29:30 GMT",
-      "url": "https://www.publico.pt/2026/10/16/publico-brasil/noticia/escritoras-brasileiras-levam-palco-lisboa-descolamento-genero-territorio-2191526",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "b386ffb8",
-      "cat": "tecnologia",
-      "title": "Aprovado apoio à maternidade das atletas até um ano",
-      "summary": "A medida prevê a atribuição, pelo Instituto Português do Desporto e Juventude, de um apoio mensal equivalente ao Indexante dos Apoios Sociais, durante 360 dias após o nascimento de um filho.",
+      "title": "Reino Unido proíbe pornografia que retrate estrangulamento",
+      "summary": "A partir de novembro, os conteúdos pornográficos que retratem situações de estangulamento, incesto ou representação de menores serão banidos. Investigação concluiu que são prejudiciais para os jovens",
       "source": "Observador",
-      "date": "Fri, 16 Oct 2026 16:23:43 +0100",
-      "url": "https://observador.pt/2026/10/16/parlamento-aprova-apoio-a-maternidade-das-atletas-ate-um-ano-apos-o-parto/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/01/02123411/GettyImages-120906828_770x433_acf_cropped.jpg",
+      "date": "Fri, 16 Oct 2026 18:22:49 +0100",
+      "url": "https://observador.pt/2026/10/16/inglaterra-e-pais-de-gales-proibem-pornografia-que-retrate-situacoes-de-estrangulamento-ou-incesto/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3700:2080:nowe:0:318/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16132940/gettyimages-2226146653.jpg",
       "score": 0.73
     },
     {
-      "id": "56939076",
+      "id": "8443c8c2",
       "cat": "tecnologia",
-      "title": "Porto anuncia criação de uma rede de desfibrilhadores",
-      "summary": "Portugal tem taxa de reanimação de 26% antes da chegada de socorro — menos de metade da média europeia. Porto quer mudar isso com DAE e formação gratuita.",
+      "title": "Ocasio-Cortez doa 1 milhão para ajudar campanha de El-Sayed",
+      "summary": "Congressista democrata fez doação incomum para apoiar candidato noutro estado e está a participar ativamente na campanha de El-Sayed no Michigan. O médico muçulmano lidera as sondagens.",
       "source": "Observador",
-      "date": "Fri, 16 Oct 2026 16:22:23 +0100",
-      "url": "https://observador.pt/2026/10/16/porto-cria-rede-de-desfibrilhadores-publicos-e-quer-massificar-formacao-em-reanimacao-pode-fazer-a-diferenca-entre-a-vida-e-a-morte/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1729:974:nowe:100:333/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/08/22072558/GettyImages-143212857.jpg",
+      "date": "Fri, 16 Oct 2026 18:20:00 +0100",
+      "url": "https://observador.pt/2026/10/16/congressista-democrata-ocasio-cortez-doa-um-milhao-de-dolares-para-impulsionar-campanha-de-el-sayed-no-michigan/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3087:1738:nowe:432:955/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16174908/gettyimages-2286101268-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "08fd7005",
+      "cat": "tecnologia",
+      "title": "Wall Street recua com dúvidas sobre o retorno da IA. Chips somam oitava sessão de quedas",
+      "summary": "O \"sell-off\" nas tecnológicas abalou Wall Street, com os investidores a duvidarem do retorno dos investimentos em IA. As fabricantes de chips registaram oito sessões seguidas em queda, algo não visto desde 2008.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 16 Oct 2026 21:10:41 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-recua-com-duvidas-sobre-o-retorno-da-ia-chips-somam-oitava-sessao-de-quedas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-28-20-32-00-527352.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "bbb9438d",
+      "cat": "tecnologia",
+      "title": "Défice público dos EUA dispara 12% e atinge dois biliões de dólares. É 6,25% do PIB",
+      "summary": "O défice orçamental da maior economia mundial foi penalizado pelos reembolsos das tarifas impostas por Trump e que foram consideradas ilegais, segundo o secretário do Tesouro, Scott Bessent.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 16 Oct 2026 20:28:31 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/defice-publico-dos-eua-dispara-12-e-atinge-dois-bilioes-de-dolares-e-6-25-do-pib",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-11-17-16-53-529416.png",
+      "score": 0.73
+    },
+    {
+      "id": "4cfcbe90",
+      "cat": "tecnologia",
+      "title": "Montenegro nega ter acusado de \"egoísmo\" manifestantes pela habitação",
+      "summary": "O primeiro-ministro, Luís Montenegro, negou ter acusado de egoísmo os manifestantes pela habitação e leu aos jornalistas, em Bruxelas, a transcrição do que disse. Diz que se dirigia a partidos, movimentos e organizações.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 16 Oct 2026 19:03:39 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/montenegro-nega-ter-acusado-de-egoismo-manifestantes-pela-habitacao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-16-18-54-09-531272.jpg",
       "score": 0.73
     },
     {
@@ -201,6 +223,17 @@
       "score": 0.73
     },
     {
+      "id": "b95f1a13",
+      "cat": "desporto",
+      "title": "18h30 Jhon Durán pode dar muito ao SLB, medalha no ciclismo",
+      "summary": "",
+      "source": "RTP",
+      "date": "Fri, 16 Oct 2026 20:18:06 +0100",
+      "url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-jhon-duran-pode-dar-muito-ao-slb-medalha-no-ciclismo_a1_1772194",
+      "img": "https://cdn-images.rtp.pt/noticias/images/antena1_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "9fc07afa",
       "cat": "tecnologia",
       "title": "Ciclista equatoriano Richard Carapaz assina pela NSN",
@@ -212,36 +245,25 @@
       "score": 0.73
     },
     {
-      "id": "b159349c",
+      "id": "3571a928",
       "cat": "tecnologia",
-      "title": "Porto junta 14 instituições de ensino superior em projeto UNIK",
-      "summary": "Afirmar o Porto como um território de excelência no conhecimento, na inovação e na retenção de talento, envolvendo os mais de 60 mil estudantes e investigadores no desenvolvimento local. É este o mote para a constituição do UNIK Porto &#8211; University Network for Innovation and Knowledge por parte",
-      "source": "ECO",
-      "date": "Fri, 16 Oct 2026 15:42:38 +0000",
-      "url": "https://eco.sapo.pt/2026/10/16/porto-junta-14-instituicoes-de-ensino-superior-em-projeto-unik/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-jpr-assinatura-memorando-unik-porto-15-10-2026-0006.jpg",
+      "title": "Carlos Salgueiro conquistou o bronze na corrida por pontos nos mundiais de ciclismo de pista",
+      "summary": "É o segundo pódio para Portugal na competição que decorre em Xangai, na China.",
+      "source": "RTP",
+      "date": "Fri, 16 Oct 2026 15:11:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/carlos-salgueiro-conquistou-o-bronze-na-corrida-por-pontos-nos-mundiais-de-ciclismo-de-pista_v1772115",
+      "img": "https://cdn-images.rtp.pt/icm/images/6a/6ab92e465ff124fcb1c7ab782000aa9a_N.jpg?",
       "score": 0.73
     },
     {
-      "id": "79aeed42",
+      "id": "ba3dd8f9",
       "cat": "tecnologia",
-      "title": "“Perdeu o controlo da sala”. António Costa sob pressão dos líderes europeus após cimeira sem avanços",
-      "summary": "António Costa enfrenta um dos momentos mais delicados desde que assumiu a liderança do Conselho Europeu, há quase dois anos. As divergências entre os 27 Estados-membros sobre a contenção dos preços da energia e o próximo orçamento plurianual da União Europeia (UE) estão a expor fragilidades na condu",
+      "title": "Montenegro nega ter acusado manifestantes de egoísmo",
+      "summary": "O primeiro-ministro negou esta sexta-feira ter acusado os manifestantes pela habitação de egoísmo, afirmando que se referia a partidos, movimentos associativos e organizações, e disse ter visto imagens nas quais se ameaça a sua casa. Em conferência de imprensa no final da cimeira do Conselho Europeu",
       "source": "ECO",
-      "date": "Fri, 16 Oct 2026 15:18:42 +0000",
-      "url": "https://eco.sapo.pt/2026/10/16/perdeu-o-controlo-da-sala-antonio-costa-sob-pressao-dos-lideres-europeus-apos-cimeira-sem-avancos/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-doc202610164795297013308835-2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "999f2f2d",
-      "cat": "tecnologia",
-      "title": "Exército integra rede de centros de experimentação de defesa NATO DIANA",
-      "summary": "O Exército Português, através do Centro de Experimentação e Modernização Tecnológica do Exército (CEMTEx), passou a integrar a rede de Centros de Testes afiliados da NATO DIANA, acelerador de inovação de defesa e segurança da Aliança Atlântico. Integração na rede &#8220;reforça o contributo de Portu",
-      "source": "ECO",
-      "date": "Fri, 16 Oct 2026 15:00:51 +0000",
-      "url": "https://eco.sapo.pt/2026/10/16/exercito-integra-rede-de-centros-de-experimentacao-de-defesa-nato-diana/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-z61-7827.jpg",
+      "date": "Fri, 16 Oct 2026 19:43:46 +0000",
+      "url": "https://eco.sapo.pt/2026/10/16/montenegro-nega-ter-acusado-manifestantes-de-egoismo/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47955640-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -309,28 +331,6 @@
       "url": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2477885389-scaled.jpg",
       "score": 0.73
-    },
-    {
-      "id": "14f596db",
-      "cat": "tecnologia",
-      "title": "As notícias das 16h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Fri, 16 Oct 2026 16:15:09 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-16h-2389/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "1130cd23",
-      "cat": "tecnologia",
-      "title": "Banco CTT sem serviços digitais, transferências MB Way e consulta de saldos até segunda-feira",
-      "summary": "Atualização tecnológica deixa os clientes do banco sem serviços digitais nem transferências por MB Way. Transferências agendadas não serão realizadas.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 16 Oct 2026 17:24:31 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/banco-ctt-sem-servicos-digitais-transferencias-mb-way-e-consulta-de-saldos-ate-segunda-feira",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-11/img_100x100uu2024-11-05-20-59-14-489117.jpg",
-      "score": 0.7
     }
   ]
 }
