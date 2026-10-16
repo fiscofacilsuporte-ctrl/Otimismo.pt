@@ -1,5 +1,5 @@
 {
-  "last_update": "16/10/2026 04:12 UTC",
+  "last_update": "16/10/2026 11:10 UTC",
   "total": 30,
   "news": [
     {
@@ -69,6 +69,72 @@
       "score": 0.79
     },
     {
+      "id": "a7d82e26",
+      "cat": "tecnologia",
+      "title": "Carlos Salgueiro arrebata bronze nos Mundiais de ciclismo de pista",
+      "summary": "Português andou quase sempre na frente da corrida por pontos, caindo do segundo para o terceiro lugar na última volta. É a segunda medalha de Portugal neste evento.",
+      "source": "Público",
+      "date": "Fri, 16 Oct 2026 10:01:43 GMT",
+      "url": "https://www.publico.pt/2026/10/16/desporto/noticia/carlos-salgueiro-arrebata-bronze-mundiais-ciclismo-pista-2191594",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "975e61c1",
+      "cat": "tecnologia",
+      "title": "A medalha surpresa que estava guardada: Salgueiro de bronze",
+      "summary": "Depois do bronze de Tata Martins, e ainda antes da entrada em cena de Iúri Leitão, Carlos Salgueiro brilhou na corrida por pontos e chegou mesmo a uma inédita medalha de bronze nos Mundiais de Xangai.",
+      "source": "Observador",
+      "date": "Fri, 16 Oct 2026 11:00:42 +0100",
+      "url": "https://observador.pt/2026/10/16/a-medalha-surpresa-que-estava-guardada-carlos-salgueiro-conquista-medalha-de-bronze-nos-mundiais-de-pista/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1247:700:nowe:0:30/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16104850/carlos-salgueiro.jpeg",
+      "score": 0.76
+    },
+    {
+      "id": "3ff8e05c",
+      "cat": "tecnologia",
+      "title": "Mundiais Ciclismo. Miguel Salgueiro medalha de bronze na corrida por pontos",
+      "summary": "O ciclista português Miguel Salgueiro conquistou hoje a medalha de bronze na corrida por pontos dos Mundiais de pista, dando a segunda medalha a Portugal em Xangai, na China.",
+      "source": "RTP",
+      "date": "Fri, 16 Oct 2026 12:31:08 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/mundiais-ciclismo-miguel-salgueiro-medalha-de-bronze-na-corrida-por-pontos_d1772075",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/42/4290316f09678853f7b0a4580a6ad24a?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "0a2a726f",
+      "cat": "tecnologia",
+      "title": "Campeão Flamengo empata na Argentina e tenta carimbar final da Libertadores em casa",
+      "summary": "O Flamengo, treinado pelo português Leonardo Jardim, empatou 0-0 na vista aos argentinos do Estudiantes, em jogo da primeira mão das meias-finais da Taça Libertadores de futebol de 2026, na qual defende o título conquistado no ano passado.",
+      "source": "RTP",
+      "date": "Fri, 16 Oct 2026 12:26:39 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/campeao-flamengo-empata-na-argentina-e-tenta-carimbar-final-da-libertadores-em-casa_d1772072",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0c329c42d3a4923622f9b09208d75bc2?w=350&amp;q=50&amp;rect=0,355,6000,3289&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "85cdc109",
+      "cat": "tecnologia",
+      "title": "⛽Gasóleo vai subir na próxima semana, mas a gasolina desce",
+      "summary": "Os combustíveis vão voltar a ter um comportamento diferenciado na próxima semana. O gasóleo, o combustível mais usado em Portugal, deverá subir 4,5 cêntimos e a gasolina descer 1,5 cêntimos, de acordo com os dados do Automóvel Club de Portugal (ACP). Já fonte do mercado avançou ao ECO com uma previs",
+      "source": "ECO",
+      "date": "Fri, 16 Oct 2026 09:38:29 +0000",
+      "url": "https://eco.sapo.pt/2026/10/16/%e2%9b%bdgasoleo-vai-subir-na-proxima-semana-mas-a-gasolina-vai-descer/",
+      "img": "https://eco.imgix.net/uploads/2026/03/cropped-doc2026032046794050-aps1649.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "e4934111",
+      "cat": "tecnologia",
+      "title": "Largest Private Conservation Project in the US Hits Major Milestone as Free-Roaming Bison Pass 1,000",
+      "summary": "As autumn descends upon the Great Plains of North America, the largest private land conservation project in the country is ringing in an inspirational milestone. The resident herd of relatively free-roaming bison now numbers 4 digits for the first time since the organization&#8217;s founding more th",
+      "source": "Good News Network",
+      "date": "Fri, 16 Oct 2026 11:00:30 +0000",
+      "url": "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/unnamed.jpg",
+      "score": 0.76
+    },
+    {
       "id": "20b6914d",
       "cat": "tecnologia",
       "title": "ESA’s New Sentinel 3C Satellite Makes its Debut with Sumptuous Images of Italy and the Arctic",
@@ -77,17 +143,6 @@
       "date": "Thu, 15 Oct 2026 13:00:06 +0000",
       "url": "https://www.goodnewsnetwork.org/esas-new-sentinel-3c-satellite-makes-its-debut-with-sumptuous-images-of-italy-and-the-arctic/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Italy-satellite-image-credit-Copernicus-Sentinel-3C-ESA-copyright-.jpeg",
-      "score": 0.76
-    },
-    {
-      "id": "05c9a11f",
-      "cat": "ciencia",
-      "title": "Scientists Shocked to Discover ‘D-rex’, a Giant Fungus from Chinese Forests Dating Back 65 Million Years",
-      "summary": "Deep in the forests of southwest China, scientists have discovered a ‘fungal giant’ that challenges our understanding of how large fungi can become. The newly described species, Dianjunus rex, or &#8220;King of Dian,&#8221; named for an ancient Chinese kingdom, produces vertical fruiting bodies up t",
-      "source": "Good News Network",
-      "date": "Tue, 13 Oct 2026 18:30:53 +0000",
-      "url": "https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Courtesy-of-the-Kunming-Institute-of-Botany-under-the-Chinese-Academy-of-Sciences.jpg",
       "score": 0.76
     },
     {
@@ -102,80 +157,58 @@
       "score": 0.76
     },
     {
-      "id": "54ff8347",
+      "id": "12cb32a0",
       "cat": "tecnologia",
-      "title": "Falhas informáticas e de material nas USF persistem. “São condições básicas de funcionamento”",
-      "summary": "Retrato mostra menor satisfação com a reforma dos cuidados de saúde primários. Dois anos após criação das unidades locais de saúde, a integração de cuidados “continua a não ser sentida no terreno”.",
-      "source": "Público",
-      "date": "Thu, 15 Oct 2026 23:01:00 GMT",
-      "url": "https://www.publico.pt/2026/10/16/sociedade/noticia/falhas-informaticas-material-usf-persistem-sao-condicoes-basicas-funcionamento-2191465",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "2cc388f8",
-      "cat": "tecnologia",
-      "title": "3h. Passos Coelho não quer desafiar Luís Montenegro no PSD",
-      "summary": "O Observador sabe que o antigo primeiro-ministro não pretende assumir funções governativas sem passar diretamente pelos eleitores. Ainda, a noite de protestos no Porto terminou de forma abrupta.",
+      "title": "A construção pode ser mais sustentável?",
+      "summary": "João Crispim, Artur Varum e Ana Oliveira debatem como reduzir o impacto ambiental na construção e o papel do financiamento verde no setor imobiliário.",
       "source": "Observador",
-      "date": "Fri, 16 Oct 2026 03:17:19 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2468/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Fri, 16 Oct 2026 10:34:02 +0100",
+      "url": "https://observador.pt/programas/empresas-em-transformacao/a-construcao-pode-ser-mais-sustentavel-2/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1541:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/28114219/eet-novobanco-1540-1.png",
       "score": 0.73
     },
     {
-      "id": "a35493eb",
+      "id": "2de60b0e",
       "cat": "tecnologia",
-      "title": "Ministra do Trabalho: alterações à PSU \"quebram\" acordo",
-      "summary": "Maria do Rosário Palma Ramalho alertou no Parlamento que mudanças ao decreto da PSU violariam o compromisso entre PSD, CDS-PP e PS que esteve na base da autorização legislativa.",
+      "title": "A construção pode ser mais sustentável?",
+      "summary": "João Crispim, Artur Varum e Ana Oliveira debatem como reduzir o impacto ambiental na construção e o papel do financiamento verde no setor imobiliário.",
       "source": "Observador",
-      "date": "Fri, 16 Oct 2026 00:38:55 +0100",
-      "url": "https://observador.pt/2026/10/16/ministra-adverte-que-alteracoes-substanciais-ao-diploma-da-psu-podem-violar-autorizacao-legislativa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/18123716/47796091.jpg",
+      "date": "Fri, 16 Oct 2026 10:13:34 +0100",
+      "url": "https://observador.pt/programas/empresas-em-transformacao/a-construcao-pode-ser-mais-sustentavel/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1541:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16101128/eet-novobanco-thumbb-ep6.png",
       "score": 0.73
     },
     {
-      "id": "24b4b5fb",
+      "id": "6b796fdf",
       "cat": "tecnologia",
-      "title": "\"Pura Loucura\" e \"Cock\" em cena no Teatro Maria Matos",
-      "summary": "\"Pura Loucura\", com encenação de Michel Simeão, ficará em cena até 29 de novembro e \"Cock\", encenada por Ricardo Neves-Neves, estará em cena até 22 de dezembro, devido à grande procura.",
-      "source": "Observador",
-      "date": "Fri, 16 Oct 2026 00:36:45 +0100",
-      "url": "https://observador.pt/2026/10/16/pura-loucura-e-cock-em-cena-ate-finais-de-novembro-e-dezembro-no-teatro-maria-matos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/10/14000009/teatro-maria-matos-foto-jose-frade-04-05-06-071_770x433_acf_cropped.jpg",
+      "title": "Pinto Luz protege trabalhadores. Sindicatos atentos às promessas de crescimento da Lufthansa",
+      "summary": "O ministro das Infraestruturas pediu para se ver \"o copo meio cheio\" no negócio da TAP, salientando que o número de trabalhadores vai crescer com a chegada de aviões. Os sindicatos estão atentos ao futuro acionista, assumindo que as promessas são positivas, mas admitem algumas reservas com a central",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 16 Oct 2026 11:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/pinto-luz-protege-trabalhadores-sindicatos-atentos-as-promessas-de-crescimento-da-lufthansa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-14-13-45-37-531097.jpg",
       "score": 0.73
     },
     {
-      "id": "6d80857d",
+      "id": "8c4dbbb2",
+      "cat": "economia",
+      "title": "FMI insiste na dívida excessiva de \"demasiados países\"",
+      "summary": "\"Nenhum crescimento económico\" pode reverter a pressão inflacionista sem uma consolidação orçamental.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 16 Oct 2026 11:19:42 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/fmi-insiste-na-divida-excessiva-de-demasiados-paises",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-16-11-16-33-531223.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "de972d5f",
       "cat": "tecnologia",
-      "title": "Barómetro: Mais de metade dos eleitores diz que nunca votaria em Ventura",
-      "summary": "Ventura é visto como o líder da oposição e está empatado com Carneiro e Montenegro como potencial \"melhor primeiro-ministro\". No entanto, 54,6% dos eleitores nunca votaria no presidente do Chega. Luís Neves continua a ser visto como o pior ministro.",
+      "title": "Pedras e incêndios. Tirana a ferro e fogo com protestos estudantis",
+      "summary": "Os estudantes voltaram a sair às ruas de Tirana, na Albânia, esta quinta-feira, num protesto que resultou em confrontos com a polícia e levou à detenção de vários manifestantes. As ações integram um movimento mais alargado contra o Governo do primeiro-ministro Edi Rama, marcado por exigências de ref",
       "source": "Jornal de Negócios",
-      "date": "Thu, 15 Oct 2026 22:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/barometro-mais-de-metade-dos-eleitores-diz-que-nunca-votaria-em-ventura",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-03-10-44-07-526058.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8207ba75",
-      "cat": "tecnologia",
-      "title": "Líderes europeus entram em modo contrarrelógio",
-      "summary": "O primeiro dia da cimeira dos chefes de Estado e de governos dos 27 começou com a expectativa de que poderiam surgir medidas de curto prazo para a energia, mas logo a seguir ao almoço, os líderes europeus largaram o tema e focaram-se no orçamento de longo prazo da UE.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 15 Oct 2026 21:25:33 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/lideres-europeus-entram-em-modo-contrarrelogio",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-15-19-11-27-531182.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "73c1f602",
-      "cat": "ambiente",
-      "title": "Banca concedeu 595 mil milhões de dólares a atividades de risco para florestas tropicais",
-      "summary": "Relatório da coligação Forests & Finance mostra que a concessão de crédito aconteceu entre 2020 e 2025 a empresas de setores associados à desflorestação e perda de biodiversidade.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 15 Oct 2026 21:22:53 +0100",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/banca-concedeu-595-mil-milhoes-de-dolares-a-atividades-de-risco-para-florestas-tropicais",
-      "img": "https://cdn.jornaldenegocios.pt/images/2020-08/img_100x100uu2020-08-07-23-21-37-381978.jpg",
+      "date": "Fri, 16 Oct 2026 11:14:28 +0100",
+      "url": "https://www.jornaldenegocios.pt/multimedia/negocios-tv/detalhe/pedras-e-incendios-tirana-a-ferro-e-fogo-com-protestos-estudantis",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-16-11-12-43-531221.jpg",
       "score": 0.73
     },
     {
@@ -190,80 +223,25 @@
       "score": 0.73
     },
     {
-      "id": "e1265090",
+      "id": "822aea52",
       "cat": "desporto",
-      "title": "Canoísta olímpico Fernando Pimenta pede maior investimento público no desporto",
-      "summary": "O canoísta Fernando Pimenta defendeu hoje uma maior valorização do desporto nas políticas públicas, criticando as condições de treino dos atletas da modalidade e a falta de investimento no desporto.",
+      "title": "Futre, Machado e Mamona distinguidos nos Prémios Empresariais do Desporto",
+      "summary": "O antigo futebolista Paulo Futre e as atletas Mariana Machado, de meia distância, e Patrícia Mamona, do triplo salto, foram galardoados na quinta-feira, na sétima edição dos Prémios Empresariais do Desporto, realizada em Montes Claros, em Lisboa.",
       "source": "RTP",
-      "date": "Thu, 15 Oct 2026 19:38:50 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/canoista-olimpico-fernando-pimenta-pede-maior-investimento-publico-no-desporto_d1771927",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/39/392061055b38c6daa9cc68125f47b85c?w=350&amp;q=50&amp;rect=0,116,1233,676&amp;auto=format",
+      "date": "Fri, 16 Oct 2026 11:00:43 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/futre-machado-e-mamona-distinguidos-nos-premios-empresariais-do-desporto_d1772051",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "a01dbe79",
+      "id": "7e286598",
       "cat": "tecnologia",
-      "title": "Benfica com vitória convincente sobre Celtic",
-      "summary": "Com dois golos de Jhon Durán, Alexander Bah e Vengelis Pavlidis, o Benfica venceu o Celtic, por 4-1, no Estádio da Luz, em jogo da segunda jornada da fase de liga da Liga Europa.",
-      "source": "RTP",
-      "date": "Thu, 15 Oct 2026 19:13:00 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/benfica-com-vitoria-convincente-sobre-celtic_e1771928",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cf61615e4872b888115c5db98b266b7d?w=350&amp;q=50&amp;rect=0,67,1291,708&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "afbf3bf7",
-      "cat": "tecnologia",
-      "title": "Torreense sai derrotado com reviravolta do Sunderland ao cair do pano",
-      "summary": "O Torreense esteve na frente do marcador, prometendo mais um grande resultado europeu para as equipas portuguesas, mas deixou escapar a vantagem aos 67 minutos. O golo da vitória do Sunderland, aos 90+3, foi apontado por Sadiki.",
-      "source": "RTP",
-      "date": "Thu, 15 Oct 2026 17:16:07 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/torreense-sai-derrotado-com-reviravolta-do-sunderland-ao-cair-do-pano_e1771901",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/92/92f598596fa416630689d5e17d76c770?w=350&amp;q=50&amp;rect=0,476,4156,2279&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "9df3e03b",
-      "cat": "saude",
-      "title": "PSD, Chega e CDS querem não residentes a pagar no SNS e são acusados de culpar estrangeiros",
-      "summary": "PSD, Chega e CDS-PP defenderam esta quinta-feira que os estrangeiros não residentes devem efetivamente pagar pelos tratamentos no Serviço Nacional de Saúde (SNS) e a esquerda acusou estes partidos de tentarem culpar estas pessoas pelos problemas. Em debate no Parlamento estiveram projetos de lei de ",
-      "source": "ECO",
-      "date": "Thu, 15 Oct 2026 20:26:11 +0000",
-      "url": "https://eco.sapo.pt/2026/10/15/psd-chega-e-cds-querem-nao-residentes-a-pagar-no-sns-e-sao-acusados-de-culpar-estrangeiros/",
-      "img": "https://eco.imgix.net/uploads/2025/12/cropped-30261518-1-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ecb8ec62",
-      "cat": "tecnologia",
-      "title": "ERSE propõe subida de 1,5% no preço regulado da luz em 2027",
-      "summary": "A Entidade Reguladora dos Serviços Energéticos (ERSE) avançou, esta quinta-feira, com a proposta para os preços regulados da eletricidade que deverão vigorar no próximo ano. O regulador propõe um aumento dos preços, em média, de 1,5%. &#8220;No mercado regulado de Portugal continental, as tarifas tr",
-      "source": "ECO",
-      "date": "Thu, 15 Oct 2026 19:00:39 +0000",
-      "url": "https://eco.sapo.pt/2026/10/15/erse-propoe-subida-de-15-no-preco-regulado-da-luz-em-2027/",
-      "img": "https://eco.imgix.net/uploads/2022/08/cropped-light-bulb-lit-many-lights.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "61756249",
-      "cat": "tecnologia",
-      "title": "CNN e Google unem forças em parceria estratégica de IA",
-      "summary": "A CNN anunciou esta quinta-feira uma parceria estratégica plurianual com a Google, que dá à tecnológica direitos de conteúdo alargados sobre os conteúdos do canal norte-americano para testar novas funcionalidades de inteligência artificial (IA) generativa. O objetivo é explorar de que forma a inteli",
-      "source": "ECO",
-      "date": "Thu, 15 Oct 2026 17:58:58 +0000",
-      "url": "https://eco.sapo.pt/2026/10/15/cnn-e-google-unem-forcas-em-parceria-estrategica-de-ia/",
-      "img": "https://eco.imgix.net/uploads/2021/11/cropped-cnn-portugal-25-out-2021-primeiro-ensaio-130.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "53e723c1",
-      "cat": "ambiente",
-      "title": "Tribe Just a Signature Away from Recovering 1,100 Ancestral Acres Along Undammed Elwha River",
-      "summary": "20 years after a Washington state dam was slated for demolition, 1,100 acres of ecosystem along the Lower Elwha River is recovering, having lain muddy and dormant under the dam&#8217;s engorged reservoir for more than a century. And now, 171 years after the land left their hands, and 114 years after",
+      "title": "An Extinct Crocodilian’s Skull Was Found in the Rocks That Built the Sphinx, and it’s Also Missing its Nose",
+      "summary": "A new crocodilian species has been identified from fossils recovered from a rock layer harvested by ancient Egyptians to build the Sphinx And funnily enough, just like the iconic Egyptian landmark, this fossilized reptile is missing the tip of its snout. In the 1920s, several fossils were recovered ",
       "source": "Good News Network",
-      "date": "Thu, 15 Oct 2026 15:30:41 +0000",
-      "url": "https://www.goodnewsnetwork.org/tribe-just-a-signature-away-from-recovering-1100-ancestral-acres-along-undammed-elwha-river/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Left-the-Elwha-Dam-in-2005-right-and-the-dam-in-2013-several-years-after-its-removal-credit-left-Ben-Cody-CC-3.0.-BY-SA-right-Zandcee-CC-3.0.-BY-SA.jpg",
+      "date": "Thu, 15 Oct 2026 17:30:16 +0000",
+      "url": "https://www.goodnewsnetwork.org/an-extinct-crocodilians-skull-was-found-in-the-rocks-that-built-the-sphinx-and-its-also-missing-its-nose/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/low-res_herugavialis_cairensis-e1792061695449.jpg",
       "score": 0.73
     },
     {
@@ -278,14 +256,14 @@
       "score": 0.73
     },
     {
-      "id": "ee6f7f37",
-      "cat": "tecnologia",
-      "title": "I lost my hair to chemo - now my wigs are worn by A-list stars",
-      "summary": "Antonia Okonma Shittu's wig business was launched after a shock diagnosis, and she now wants to help other women feel their best.",
+      "id": "c55003c7",
+      "cat": "saude",
+      "title": "Ten-year-old Willow among children to benefit from pioneering same-day test to spot infections",
+      "summary": "Metagenomics offers a new way of detecting infections in intensive care patients.",
       "source": "BBC News",
-      "date": "Tue, 13 Oct 2026 00:14:20 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd8/live/1b78eaa0-c618-11f1-8c89-b96b8469b965.jpg",
+      "date": "Fri, 16 Oct 2026 00:34:45 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b2/live/3a5050b0-c8f9-11f1-a64c-550be9e3c66b.jpg",
       "score": 0.73
     },
     {
@@ -322,14 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "fb28b062",
-      "cat": "cultura",
-      "title": "Cartas ao director",
-      "summary": "",
+      "id": "ef6a9bfd",
+      "cat": "tecnologia",
+      "title": "IGAI abre processo à intervenção policial em protesto pela habitação no Porto",
+      "summary": "Inspecção quer avaliar procedimentos adoptados pela PSP numa actuação que terá deixado mais de 30 manifestantes feridos, dois dos quais com gravidade.",
       "source": "Público",
-      "date": "Fri, 16 Oct 2026 04:00:00 GMT",
-      "url": "https://www.publico.pt/2026/10/16/opiniao/opiniao/cartas-director-2191468",
+      "date": "Fri, 16 Oct 2026 10:28:15 GMT",
+      "url": "https://www.publico.pt/2026/10/16/sociedade/noticia/igai-abre-processo-intervencao-policial-protesto-habitacao-porto-2191596",
       "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "ffc4ef92",
+      "cat": "tecnologia",
+      "title": "Tesla Roadster salta, voa e promete ir dos 0 aos 100 km/h em menos de um segundo",
+      "summary": "Elon Musk mostrou um protótipo com propulsores da SpaceX e desenho renovado. As entregas foram adiadas para 2028 e a homologação para a estrada parece quase impossível.",
+      "source": "Público",
+      "date": "Fri, 16 Oct 2026 09:57:24 GMT",
+      "url": "https://www.publico.pt/2026/10/16/enter/noticia/tesla-roadster-salta-voa-promete-ir-0-100-kmh-menos-segundo-2191585",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
