@@ -1,5 +1,5 @@
 {
-  "last_update": "15/10/2026 21:13 UTC",
+  "last_update": "16/10/2026 04:12 UTC",
   "total": 30,
   "news": [
     {
@@ -69,17 +69,6 @@
       "score": 0.79
     },
     {
-      "id": "73f9b6c2",
-      "cat": "cultura",
-      "title": "Palavras e utopias, do Rovuma ao Maputo: Moçambique ontem e hoje no Doclisboa",
-      "summary": "Ico Costa e Pedro Neves apresentam dois filmes sobre o país, olhares cinematográficos e complementares sobre um país à procura de uma revolução perdida.",
-      "source": "Público",
-      "date": "Thu, 15 Oct 2026 20:16:00 GMT",
-      "url": "https://www.publico.pt/2026/10/15/culturaipsilon/noticia/palavras-utopias-rovuma-maputo-mocambique-ontem-hoje-doclisboa-2191068",
-      "img": null,
-      "score": 0.76
-    },
-    {
       "id": "20b6914d",
       "cat": "tecnologia",
       "title": "ESA’s New Sentinel 3C Satellite Makes its Debut with Sumptuous Images of Italy and the Arctic",
@@ -113,47 +102,47 @@
       "score": 0.76
     },
     {
-      "id": "b0c84e43",
+      "id": "54ff8347",
       "cat": "tecnologia",
-      "title": "Trump Tower na Sérvia: documentos revelam interferência directa do ex-presidente",
-      "summary": "Aleksandar Vucic terá liderado as reuniões para desclassificar um edifício protegido e, assim, erguer o empreendimento de Kushner.",
+      "title": "Falhas informáticas e de material nas USF persistem. “São condições básicas de funcionamento”",
+      "summary": "Retrato mostra menor satisfação com a reforma dos cuidados de saúde primários. Dois anos após criação das unidades locais de saúde, a integração de cuidados “continua a não ser sentida no terreno”.",
       "source": "Público",
-      "date": "Thu, 15 Oct 2026 19:16:15 GMT",
-      "url": "https://www.publico.pt/2026/10/15/mundo/noticia/trump-tower-servia-documentos-revelam-interferencia-directa-expresidente-2191530",
+      "date": "Thu, 15 Oct 2026 23:01:00 GMT",
+      "url": "https://www.publico.pt/2026/10/16/sociedade/noticia/falhas-informaticas-material-usf-persistem-sao-condicoes-basicas-funcionamento-2191465",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "7a6a906b",
+      "id": "2cc388f8",
       "cat": "tecnologia",
-      "title": "“Passos foi injusto ao compara este Governo aos de Costa”",
-      "summary": "Em entrevista ao Observador, Diogo Feio fala sobre as críticas do antigo primeiro-ministro à AD, explica o porquê de ser contra alianças com o Chega e sugere aliança pré-eleitoral com a IL.",
+      "title": "3h. Passos Coelho não quer desafiar Luís Montenegro no PSD",
+      "summary": "O Observador sabe que o antigo primeiro-ministro não pretende assumir funções governativas sem passar diretamente pelos eleitores. Ainda, a noite de protestos no Porto terminou de forma abrupta.",
       "source": "Observador",
-      "date": "Thu, 15 Oct 2026 21:24:57 +0100",
-      "url": "https://observador.pt/programas/vichyssoise/passos-foi-injusto-ao-compara-este-governo-aos-de-costa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151448/770-podcast-vichyssoise.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6476285b",
-      "cat": "geral",
-      "title": "Passos, bang, bang! E agora Montenegro?",
-      "summary": "A entrevista de Pedro Passos Coelho, as contas do antigo primeiro-ministro para regressar ao poder, o dilema do Chega e da IL e a reação de Montenegro foram os temas desta Vichyssoise.",
-      "source": "Observador",
-      "date": "Thu, 15 Oct 2026 21:21:27 +0100",
-      "url": "https://observador.pt/programas/vichyssoise/passos-bang-bang-e-agora-montenegro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151448/770-podcast-vichyssoise.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "4d8c3919",
-      "cat": "tecnologia",
-      "title": "21h. TAP. PR diz que privatização total precisa de consenso",
-      "summary": "Chefe de Estado pede cautela na opção posta em cima da mesa pelo primeiro ministro e pela Lufthansa. Ainda, mais de mil manifestantes na Praça D. João I, no Porto, em novos protestos pela habitação.",
-      "source": "Observador",
-      "date": "Thu, 15 Oct 2026 21:03:19 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-21h-1787/",
+      "date": "Fri, 16 Oct 2026 03:17:19 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2468/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "a35493eb",
+      "cat": "tecnologia",
+      "title": "Ministra do Trabalho: alterações à PSU \"quebram\" acordo",
+      "summary": "Maria do Rosário Palma Ramalho alertou no Parlamento que mudanças ao decreto da PSU violariam o compromisso entre PSD, CDS-PP e PS que esteve na base da autorização legislativa.",
+      "source": "Observador",
+      "date": "Fri, 16 Oct 2026 00:38:55 +0100",
+      "url": "https://observador.pt/2026/10/16/ministra-adverte-que-alteracoes-substanciais-ao-diploma-da-psu-podem-violar-autorizacao-legislativa/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/18123716/47796091.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "24b4b5fb",
+      "cat": "tecnologia",
+      "title": "\"Pura Loucura\" e \"Cock\" em cena no Teatro Maria Matos",
+      "summary": "\"Pura Loucura\", com encenação de Michel Simeão, ficará em cena até 29 de novembro e \"Cock\", encenada por Ricardo Neves-Neves, estará em cena até 22 de dezembro, devido à grande procura.",
+      "source": "Observador",
+      "date": "Fri, 16 Oct 2026 00:36:45 +0100",
+      "url": "https://observador.pt/2026/10/16/pura-loucura-e-cock-em-cena-ate-finais-de-novembro-e-dezembro-no-teatro-maria-matos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/10/14000009/teatro-maria-matos-foto-jose-frade-04-05-06-071_770x433_acf_cropped.jpg",
       "score": 0.73
     },
     {
@@ -215,7 +204,7 @@
       "id": "a01dbe79",
       "cat": "tecnologia",
       "title": "Benfica com vitória convincente sobre Celtic",
-      "summary": "Com dois golos de Jhon Durán, Alexander Bah e Pavlidis, o Benfica venceu o Celtic, por 4-1, no Estádio da Luz, em jogo da segunda jornada da fase de liga da Liga Europa.",
+      "summary": "Com dois golos de Jhon Durán, Alexander Bah e Vengelis Pavlidis, o Benfica venceu o Celtic, por 4-1, no Estádio da Luz, em jogo da segunda jornada da fase de liga da Liga Europa.",
       "source": "RTP",
       "date": "Thu, 15 Oct 2026 19:13:00 +0100",
       "url": "https://www.rtp.pt/noticias/desporto/benfica-com-vitoria-convincente-sobre-celtic_e1771928",
@@ -331,6 +320,17 @@
       "url": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2477885389-scaled.jpg",
       "score": 0.73
+    },
+    {
+      "id": "fb28b062",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
+      "source": "Público",
+      "date": "Fri, 16 Oct 2026 04:00:00 GMT",
+      "url": "https://www.publico.pt/2026/10/16/opiniao/opiniao/cartas-director-2191468",
+      "img": null,
+      "score": 0.7
     }
   ]
 }
