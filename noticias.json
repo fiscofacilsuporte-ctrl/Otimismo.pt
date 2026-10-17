@@ -1,5 +1,5 @@
 {
-  "last_update": "16/10/2026 20:52 UTC",
+  "last_update": "17/10/2026 04:02 UTC",
   "total": 30,
   "news": [
     {
@@ -47,14 +47,14 @@
       "score": 0.79
     },
     {
-      "id": "7b44d1fe",
+      "id": "d7d5ee7a",
       "cat": "tecnologia",
-      "title": "Montenegro nega ter acusado manifestantes do Porto de egoísmo e queixa-se de ameaças",
-      "summary": "O primeiro-ministro relatou ter visto intervenções onde são feitas ameaças “directamente” à casa onde vive com a família, mas antes ressalvou o respeito pelo direito à manifestação.",
-      "source": "Público",
-      "date": "Fri, 16 Oct 2026 18:26:20 GMT",
-      "url": "https://www.publico.pt/2026/10/16/politica/noticia/montenegro-nega-acusado-manifestantes-porto-egoismo-queixase-ameacas-2191664",
-      "img": null,
+      "title": "API lança prémio em nome de Pinto Balsemão",
+      "summary": "No Dia Nacional de Imprensa, a API anunciou distinção ao grupo fundado por Pinto Balsemão e um prémio de inovação com o seu nome, a lançar em 2027.",
+      "source": "Observador",
+      "date": "Sat, 17 Oct 2026 00:29:15 +0100",
+      "url": "https://observador.pt/2026/10/17/impresa-torna-se-membro-honorario-da-api-e-premio-de-inovacao-vai-homenagear-francisco-pinto-balsemao-a-partir-de-2027/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/10/21225748/42651707.jpg",
       "score": 0.76
     },
     {
@@ -66,17 +66,6 @@
       "date": "Fri, 16 Oct 2026 19:39:27 +0000",
       "url": "https://eco.sapo.pt/2026/10/16/esta-e-a-chave-do-euromilhoes-jackpot-e-de-49-milhoes-de-euros-3/",
       "img": "https://eco.imgix.net/uploads/2020/05/cropped-pndr1628.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "2bb03e21",
-      "cat": "tecnologia",
-      "title": "Ativo do dia. Índice de referência europeu com melhor semana desde julho",
-      "summary": "O ativo O índice de referência europeu, o Stoxx 600, agrega as 600 maiores cotadas do bloco em termos de capitalização bolsista. Regista um saldo positivo superior a 8% desde o início do ano e chegou, em agosto, a alcançar máximos históricos, acima dos 660 pontos. Empresas portuguesas como a EDP, Ga",
-      "source": "ECO",
-      "date": "Fri, 16 Oct 2026 16:54:10 +0000",
-      "url": "https://eco.sapo.pt/2026/10/16/ativo-da-semana-indice-de-referencia-europeu-com-melhor-semana-desde-julho/",
-      "img": "https://eco.imgix.net/uploads/2026/09/proposta-1-indice.jpg",
       "score": 0.76
     },
     {
@@ -135,47 +124,25 @@
       "score": 0.76
     },
     {
-      "id": "e43410e6",
+      "id": "34aaa613",
       "cat": "tecnologia",
-      "title": "“Uma família com um único progenitor não é metade de uma família”",
-      "summary": "A associação Colo a Solo festejou uma vitória com a integração da monoparentalidade no alargamento da licença parental. Histórias de vida cruzam os desafios de quem não tem com quem partilhar.",
-      "source": "Público",
-      "date": "Fri, 16 Oct 2026 20:00:00 GMT",
-      "url": "https://www.publico.pt/2026/10/16/sociedade/noticia/familia-unico-progenitor-nao-metade-familia-2191636",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "0e06fd55",
-      "cat": "tecnologia",
-      "title": "Trotinetas partilhadas saem até Janeiro e Moedas fala em “apostar mais” em bicicletas",
-      "summary": "Proposta de cessação contratual motivada por questões de segurança. Autarca acusa operadoras de incumprirem acordo. E diz que será dada prioridade a bicicletas partilhadas Gira. PS fala em “falhanço”.",
-      "source": "Público",
-      "date": "Fri, 16 Oct 2026 18:16:36 GMT",
-      "url": "https://www.publico.pt/2026/10/16/local/noticia/trotinetas-partilhadas-saem-ate-janeiro-moedas-fala-apostar-bicicletas-2191671",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "0b14cf7d",
-      "cat": "tecnologia",
-      "title": "Reino Unido proíbe pornografia que retrate estrangulamento",
-      "summary": "A partir de novembro, os conteúdos pornográficos que retratem situações de estangulamento, incesto ou representação de menores serão banidos. Investigação concluiu que são prejudiciais para os jovens",
+      "title": "2h. Portugal falha final do Campeonato do Mundo de hóquei",
+      "summary": "Seleção nacional perdeu com a França por 6-3 nas meias-finais da competição. Ainda, Movimento pelo Direito à Habitação demarca-se das ameaças ao Primeiro-ministro. Montenegro está preocupado.",
       "source": "Observador",
-      "date": "Fri, 16 Oct 2026 18:22:49 +0100",
-      "url": "https://observador.pt/2026/10/16/inglaterra-e-pais-de-gales-proibem-pornografia-que-retrate-situacoes-de-estrangulamento-ou-incesto/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3700:2080:nowe:0:318/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16132940/gettyimages-2226146653.jpg",
+      "date": "Sat, 17 Oct 2026 02:15:36 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2443/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "8443c8c2",
+      "id": "97c9edbf",
       "cat": "tecnologia",
-      "title": "Ocasio-Cortez doa 1 milhão para ajudar campanha de El-Sayed",
-      "summary": "Congressista democrata fez doação incomum para apoiar candidato noutro estado e está a participar ativamente na campanha de El-Sayed no Michigan. O médico muçulmano lidera as sondagens.",
+      "title": "Brincar às revoluções é tão giro, não é?",
+      "summary": "Que luta é esta dos acampamentos? É, obviamente, a luta pela “revolução”, como resumiu, com involuntária candura, Raquel Varela na CNN. Ou, pelo menos, é a luta por uma encenação da revolução.",
       "source": "Observador",
-      "date": "Fri, 16 Oct 2026 18:20:00 +0100",
-      "url": "https://observador.pt/2026/10/16/congressista-democrata-ocasio-cortez-doa-um-milhao-de-dolares-para-impulsionar-campanha-de-el-sayed-no-michigan/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3087:1738:nowe:432:955/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16174908/gettyimages-2286101268-scaled.jpg",
+      "date": "Sat, 17 Oct 2026 00:25:24 +0100",
+      "url": "https://observador.pt/opiniao/brincar-as-revolucoes-e-tao-giro-nao-e/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2124%3A2124%3Anowe%3A955%3A75%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F23151538%2Fjporfirio-retratos-redacao-2026-01-81-scaled.jpg",
       "score": 0.73
     },
     {
@@ -245,17 +212,6 @@
       "score": 0.73
     },
     {
-      "id": "3571a928",
-      "cat": "tecnologia",
-      "title": "Carlos Salgueiro conquistou o bronze na corrida por pontos nos mundiais de ciclismo de pista",
-      "summary": "É o segundo pódio para Portugal na competição que decorre em Xangai, na China.",
-      "source": "RTP",
-      "date": "Fri, 16 Oct 2026 15:11:47 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/carlos-salgueiro-conquistou-o-bronze-na-corrida-por-pontos-nos-mundiais-de-ciclismo-de-pista_v1772115",
-      "img": "https://cdn-images.rtp.pt/icm/images/6a/6ab92e465ff124fcb1c7ab782000aa9a_N.jpg?",
-      "score": 0.73
-    },
-    {
       "id": "ba3dd8f9",
       "cat": "tecnologia",
       "title": "Montenegro nega ter acusado manifestantes de egoísmo",
@@ -264,6 +220,17 @@
       "date": "Fri, 16 Oct 2026 19:43:46 +0000",
       "url": "https://eco.sapo.pt/2026/10/16/montenegro-nega-ter-acusado-manifestantes-de-egoismo/",
       "img": "https://eco.imgix.net/uploads/2026/10/cropped-47955640-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "09da9816",
+      "cat": "tecnologia",
+      "title": "“Estamos há demasiados anos à espera das interligações” elétricas à Europa, diz Montenegro",
+      "summary": "Num Conselho Europeu também marcado pela discussão sobre os preços elevados da energia, o primeiro-ministro português voltou a pressionar a Europa para que avance com as interligações elétricas entre a Península Ibérica e o resto do continente. A Península Ibérica &#8220;está há demasiados anos à es",
+      "source": "ECO",
+      "date": "Fri, 16 Oct 2026 18:00:26 +0000",
+      "url": "https://eco.sapo.pt/2026/10/16/estamos-ha-demasiados-anos-a-espera-das-interligacoes-eletricas-a-europa-diz-montenegro/",
+      "img": "https://eco.imgix.net/uploads/2026/01/cropped-doc202601224640670012671967.jpg",
       "score": 0.73
     },
     {
@@ -278,25 +245,25 @@
       "score": 0.73
     },
     {
-      "id": "d15c6145",
-      "cat": "tecnologia",
-      "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
-      "summary": "Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest.",
+      "id": "8b2a1b6f",
+      "cat": "ambiente",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
       "source": "BBC News",
-      "date": "Wed, 14 Oct 2026 23:35:40 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9680/live/9db34b10-c720-11f1-b881-4391ac746e04.jpg",
+      "date": "Sat, 17 Oct 2026 02:33:09 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
       "score": 0.73
     },
     {
-      "id": "0a23e75d",
-      "cat": "tecnologia",
-      "title": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
-      "summary": "Ministers promise to reform the scheme that provides financial support for those injured or bereaved by vaccines in the UK.",
+      "id": "70b46d14",
+      "cat": "ciencia",
+      "title": "Why hasn't the UK had any named storms yet?",
+      "summary": "So far this autumn wet and windy weather patterns have been steered away from the UK. When could we see that change?",
       "source": "BBC News",
-      "date": "Fri, 16 Oct 2026 15:02:46 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d1/live/a4986680-c96f-11f1-80fc-ab418b149008.png",
+      "date": "Sat, 17 Oct 2026 01:53:34 GMT",
+      "url": "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e5/live/af595230-c971-11f1-bc2e-018d645d8d21.jpg",
       "score": 0.73
     },
     {
@@ -331,6 +298,39 @@
       "url": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2477885389-scaled.jpg",
       "score": 0.73
+    },
+    {
+      "id": "4479d58b",
+      "cat": "tecnologia",
+      "title": "O verbo do ódio",
+      "summary": "Para fazer este artigo li centenas de comentários aos acontecimentos na chamada “acampada”, na intervenção policial e no tema da manifestação associada à habitação. Opinião de José Pacheco Pereira",
+      "source": "Público",
+      "date": "Fri, 16 Oct 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/17/opiniao/opiniao/verbo-odio-2191686",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "edf9ff92",
+      "cat": "tecnologia",
+      "title": "Tempestade imperfeita",
+      "summary": "Não falta quem pense, com alguma razão, que existe um clima, um contexto e uma tendência geral com a qual todos estes acontecimentos e outros têm nexo e coincidência. Opinião de António Barreto",
+      "source": "Público",
+      "date": "Fri, 16 Oct 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/10/17/opiniao/opiniao/tempestade-imperfeita-2191679",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "c6576b1d",
+      "cat": "tecnologia",
+      "title": "Parêntesis para contar uma história",
+      "summary": "Não se compreende que, por falta de protagonistas ou de lideranças, se ignorem as lições mais importantes do passado recente na anunciada fusão da Direção Executiva do SNS com outros organismos. Opinião de Marta Temido",
+      "source": "Público",
+      "date": "Fri, 16 Oct 2026 23:20:00 GMT",
+      "url": "https://www.publico.pt/2026/10/17/opiniao/opiniao/parentesis-contar-historia-2191511",
+      "img": null,
+      "score": 0.7
     }
   ]
 }
