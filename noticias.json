@@ -1,5 +1,5 @@
 {
-  "last_update": "18/10/2026 15:45 UTC",
+  "last_update": "18/10/2026 20:27 UTC",
   "total": 30,
   "news": [
     {
@@ -23,6 +23,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
       "img": "https://www.sciencedaily.com/images/1920/massive-volcanic-eruption-supervolcano.webp",
       "score": 0.82
+    },
+    {
+      "id": "dea4b525",
+      "cat": "desporto",
+      "title": "Prata e bronze para Portugal na Taça do Mundo de trampolins de Cottbus",
+      "summary": "A seleção portuguesa de trampolins iniciou hoje a Taça do Mundo de Cottbus, na Alemanha, com uma medalha de prata e outra de bronze.",
+      "source": "RTP",
+      "date": "Sun, 18 Oct 2026 20:14:35 +0100",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/prata-e-bronze-para-portugal-na-taca-do-mundo-de-trampolins-de-cottbus_d1772529",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c4f091f134d924b6a215f61bb90e994c?w=350&amp;q=50&amp;rect=0,15,2000,1096&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "7da4fb37",
@@ -80,25 +91,25 @@
       "score": 0.79
     },
     {
-      "id": "23b7ebea",
+      "id": "d5cb225c",
       "cat": "tecnologia",
-      "title": "Mundiais de Xangai. Iúri Leitão e Ivo Oliveira conquistam a prata em madison",
-      "summary": "A dupla portuguesa completou a prova com 67 pontos, menos 21 do que os vencedores, os dinamarqueses Carl-Frederik Bevort e Lasse Leth.",
-      "source": "RTP",
-      "date": "Sun, 18 Oct 2026 11:25:45 +0100",
-      "url": "https://www.rtp.pt/noticias/ciclismo/mundiais-de-xangai-iuri-leitao-e-ivo-oliveira-conquistam-a-prata-em-madison_d1772454",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/8e/8efba80df551da57f7031b8e9e0a8f71?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "title": "Santalucía alia-se à Zurich por dez anos para seguros automóvel, funeral e de animais de estimação",
+      "summary": "A Santalucía e a Zurich Seguros assinaram uma parceria de dez anos para a distribuição cruzada de seguros automóvel, de funeral e de animais de estimação. O acordo permitirá à seguradora espanhola comercializar apólices automóvel da Zurich e à companhia suíça distribuir seguros de funeral e animais ",
+      "source": "ECO",
+      "date": "Sun, 18 Oct 2026 16:19:47 +0000",
+      "url": "https://eco.sapo.pt/2026/10/18/santalucia-alia-se-a-zurich-por-dez-anos-para-seguros-automovel-funeral-e-de-animais-de-estimacao/",
+      "img": "https://eco.imgix.net/uploads/2025/11/cropped-santalucia-agencias.jpg",
       "score": 0.76
     },
     {
-      "id": "a7fd9165",
+      "id": "a0f5d369",
       "cat": "tecnologia",
-      "title": "Iúri Leitão é outra vez campeão do mundo",
-      "summary": "O ciclista português conquistou o ouro em omnium nos mundiais de ciclismo de pista que estão a decorrer em Xangai, na China.",
-      "source": "RTP",
-      "date": "Sat, 17 Oct 2026 21:59:49 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/iuri-leitao-e-outra-vez-campeao-do-mundo_v1772396",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/da/dac0048584a661ce85e83d3a31ed1e37?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "title": "ECO da Semana: Crescimento da China, ‘earnings season’ e notação de França",
+      "summary": "A semana em 30 segundos A semana arranca com os dados do crescimento da segunda maior economia do mundo &#8211; a chinesa &#8211; que deverá ter registado uma expansão de 4,4% no terceiro trimestre, alicerçada pela procura global por semicondutores, tecnologias limpas e outros produtos manufaturados",
+      "source": "ECO",
+      "date": "Sun, 18 Oct 2026 16:19:41 +0000",
+      "url": "https://eco.sapo.pt/2026/10/18/eco-da-semana-crescimento-da-china-earnings-season-e-notacao-de-franca/",
+      "img": "https://eco.imgix.net/uploads/2026/09/eco-da-semana.jpg",
       "score": 0.76
     },
     {
@@ -113,17 +124,6 @@
       "score": 0.76
     },
     {
-      "id": "e52a3bf3",
-      "cat": "tecnologia",
-      "title": "Quem são os novos PIIGS?",
-      "summary": "A rubrica Nova Economics Club &#38; ECO é uma parceria entre o ECO e o NEC, o clube de economia da Nova SBE, dedicado à difusão de conhecimento e à investigação académica com parceiros institucionais. A Grécia financia-se, hoje, com juros mais baixos do que França. Portugal financia-se hoje com juro",
-      "source": "ECO",
-      "date": "Sun, 18 Oct 2026 08:50:06 +0000",
-      "url": "https://eco.sapo.pt/opiniao/quem-sao-os-novos-piigs/",
-      "img": "https://eco.imgix.net/uploads/2026/10/nova-economics-club-manuel-alexandre-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
-      "score": 0.76
-    },
-    {
       "id": "15abfa49",
       "cat": "desporto",
       "title": "Good News in History, October 17",
@@ -133,6 +133,17 @@
       "url": "https://www.goodnewsnetwork.org/events061017/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2019/10/Royal_Portrush_Golf_Club-cc-Average-Golfer-and-Greg-Norman-cc-Great-White-Shark-Enterprises.jpg",
       "score": 0.76
+    },
+    {
+      "id": "0aa37524",
+      "cat": "tecnologia",
+      "title": "Portugal bateu recorde com nove ondas de calor em 2026",
+      "summary": "Somam-se já 98 dias em onda de calor em 2026, o valor mais alto desde 1942. Houve episódios em todas as estações do ano, segundo o IPMA.",
+      "source": "Público",
+      "date": "Sun, 18 Oct 2026 16:35:45 GMT",
+      "url": "https://www.publico.pt/2026/10/18/azul/noticia/portugal-bateu-recorde-nove-ondas-calor-2026-2191778",
+      "img": null,
+      "score": 0.73
     },
     {
       "id": "c0acc3a0",
@@ -157,47 +168,36 @@
       "score": 0.73
     },
     {
-      "id": "913f5f75",
+      "id": "8d863d4c",
       "cat": "tecnologia",
-      "title": "Leão XIV promete regresso gradual às funções no primeiro evento após cirurgia",
-      "summary": "O Papa cancelou a sua agenda até 20 de Outubro e ainda não informou quando realizará o seu próximo evento público. Para Novembro, está prevista uma viagem à América do Sul.",
-      "source": "Público",
-      "date": "Sun, 18 Oct 2026 11:50:30 GMT",
-      "url": "https://www.publico.pt/2026/10/18/mundo/noticia/leao-xiv-promete-regresso-gradual-funcoes-evento-apos-cirurgia-2191765",
-      "img": null,
+      "title": "Reflexões sobre homens e bestas: da Idade Média às Luzes",
+      "summary": "A escolástica medieval, fundindo a tradição aristotélica e a teologia cristã, colocou o homem no píncaro da Criação e no centro do Cosmos, mas esta concepção começou a abrir fissuras no século XVI.",
+      "source": "Observador",
+      "date": "Sun, 18 Oct 2026 18:12:50 +0100",
+      "url": "https://observador.pt/especiais/reflexoes-sobre-homens-e-bestas-parte-2-da-idade-media-ao-dealbar-das-luzes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3535:1980:nowe:305:142/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16114541/briton-riviere-requiescat-google-art-project.jpg",
       "score": 0.73
     },
     {
-      "id": "c6a85af6",
-      "cat": "tecnologia",
-      "title": "Num mar de cantos de sereia, fazer bons investimentos exige a disciplina de Ulisses",
-      "summary": "Os bancos centrais e o FMI alertam para bolsas caras. Inspirado em Ulisses, um gestor da Schroders defende disciplina na avaliação das ações, numa altura em que a IA multiplica os lucros das grandes tecnológicas.",
+      "id": "806fd2fd",
+      "cat": "economia",
+      "title": "Jornada contínua pode antecipar saída do trabalho em duas horas",
+      "summary": "É o que tem acontecido no Estado e é o que poderá vir a acontecer no privado, no caso de quem tinha uma hora para almoço antes da aplicação da figura. Lei já aprovada confirma que tudo depende de acordo com o empregador.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 18 Oct 2026 16:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/fundos-de-investimento/detalhe/num-mar-de-cantos-de-sereia-fazer-bons-investimentos-exige-a-disciplina-de-ulisses",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-02/img_100x100uu2016-02-28-20-40-00-277988.jpg",
+      "date": "Sun, 18 Oct 2026 20:52:39 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/emprego/lei-laboral/detalhe/jornada-continua-pode-antecipar-saida-do-trabalho-em-duas-horas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2021-10/img_100x100uu2021-10-29-12-31-26-415596.jpg",
       "score": 0.73
     },
     {
-      "id": "1b507ec6",
+      "id": "5c13a2fe",
       "cat": "tecnologia",
-      "title": "Dividendo ou cupão? Juros altos tornam obrigações mais “apelativas”",
-      "summary": "As “yields” das dívidas soberanas tocaram, nas últimas semanas, níveis que não eram vistos há mais de duas décadas, um pouco por todo o mundo. Estará aqui uma oportunidade de investimento? E estão os investidores a trocar ações por obrigações?",
+      "title": "“O país precisa de ordem e não de uma escalada”, diz Macron",
+      "summary": "O chefe de Estado francês prometeu que os manifestantes violentos serão punidos e que o Governo vai reunir com os envolvidos nos protestos, desde estudantes a sindicatos, para procurar apaziguar a situação.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 18 Oct 2026 14:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/dividendo-ou-cupao-juros-altos-tornam-obrigacoes-mais-apelativas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-16-09-31-34-531210.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ea4deda8",
-      "cat": "tecnologia",
-      "title": "O mais sangrento inverno russo",
-      "summary": "Quase um século antes da Ucrânia, a Rússia entrou na Finlândia à espera de uma vitória rápida e fácil. Livro de Olivier Norek descreve a dimensão do erro devido à resistência finlandesa.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 18 Oct 2026 13:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/weekend/livros/detalhe/o-mais-sangrento-inverno-russo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-16-09-01-00-531208.jpg",
+      "date": "Sun, 18 Oct 2026 19:17:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/o-pais-precisa-de-ordem-e-nao-de-uma-escalada-diz-macron",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-18-14-45-28-531318.jpg",
       "score": 0.73
     },
     {
@@ -212,25 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "22204fb7",
+      "id": "85bf4db6",
       "cat": "tecnologia",
-      "title": "Tenista Francisco Cabral perde final de pares do Masters 1.000 de Xangai",
-      "summary": "O tenista português Francisco Cabral, em dupla com o norte-americano JJ Tracy, falhou a conquista do torneio de pares do Masters 1.000 de Xangai, ao perder na final com os austríacos Lucas Miedler e Neil Oberleitner.",
+      "title": "Iúri Leitão e Ivo Oliveira são vice-campeões do Mundo em Madison.",
+      "summary": "Portugal conquistou quatro medalhas no Mundial de Ciclismo de Pista.&lt;br /&gt;A competição terminou hoje em Xangai.",
       "source": "RTP",
-      "date": "Sun, 18 Oct 2026 10:35:57 +0100",
-      "url": "https://www.rtp.pt/noticias/tenis/tenista-francisco-cabral-perde-final-de-pares-do-masters-1000-de-xangai_d1772449",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5b/5b43c1c967c2ddc275bf8e28e59c768b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "5952634d",
-      "cat": "tecnologia",
-      "title": "ASF mede satisfação dos consumidores com os seguros que contratam",
-      "summary": "Quanto valor retiram os consumidores dos seguros que contratam? Esta é a questão a que a Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF) quer responder com o lançamento de um questionário. O inquérito pretende para avaliar a perceção dos clientes sobre os produtos disponíveis no mercad",
-      "source": "ECO",
-      "date": "Sun, 18 Oct 2026 12:57:51 +0000",
-      "url": "https://eco.sapo.pt/2026/10/18/asf-mede-satisfacao-dos-consumidores-com-os-seguros-que-contratam/",
-      "img": "https://eco.imgix.net/uploads/2024/10/cropped-cropped-asf01-2.jpg",
+      "date": "Sun, 18 Oct 2026 22:23:48 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/iuri-leitao-e-ivo-oliveira-sao-vice-campeoes-do-mundo-em-madison_v1772548",
+      "img": "https://cdn-images.rtp.pt/icm/images/dc/dc5107739461ac00c0c25e9ddcfc33d9_N.jpg?",
       "score": 0.73
     },
     {
@@ -250,7 +239,7 @@
       "title": "Fuel leak spreads more than two miles along River Taff",
       "summary": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
       "source": "BBC News",
-      "date": "Sun, 18 Oct 2026 15:11:09 GMT",
+      "date": "Sun, 18 Oct 2026 19:20:57 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e744/live/ac9b0fb0-cae9-11f1-bc2e-018d645d8d21.png",
       "score": 0.73
@@ -311,25 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "6e15e59a",
-      "cat": "geral",
-      "title": "O que ninguém quer ver despediu Amorim mas aguenta Carrick?",
-      "summary": "Lisandro lançou \"bomba\" em Madrid, estilhaços chegaram a vários lados, Carrick mantém-se seguro. Porquê? Ninguém sabe: após empatar onde Amorim disse adeus, United tem sete pontos em sete jogos (1-1).",
+      "id": "d78cc18e",
+      "cat": "tecnologia",
+      "title": "O tempo livre e o brincar estão em vias da extinção",
+      "summary": "O brincar e o tempo de brincar são indispensáveis como factores que definem a qualidade de uma escola, sendo um e outro, no receio e na sala de aula, factores indispensáveis de aprendizagem.",
       "source": "Observador",
-      "date": "Sun, 18 Oct 2026 16:01:38 +0100",
-      "url": "https://observador.pt/2026/10/18/o-que-ninguem-quer-ver-despediu-amorim-mas-aguenta-carrick-united-empata-em-leeds-e-confirma-pior-inicio-em-quatro-decadas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:841:nowe:0:22/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/18155111/michael-carrick.jpg",
+      "date": "Sun, 18 Oct 2026 19:45:07 +0100",
+      "url": "https://observador.pt/opiniao/o-tempo-livre-e-o-brincar-estao-em-vias-da-extincao/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg",
       "score": 0.7
     },
     {
-      "id": "0fdf2b1e",
+      "id": "e5fbb6d5",
       "cat": "tecnologia",
-      "title": "O \"xadrez\" que vai reconfigurar o BCE com a saída de Lagarde",
-      "summary": "Reuters noticiou que saída antecipada pode consumar-se já nas próximas semanas. Lagarde queria \"águas calmas\" para sair mas deverá ter de fazê-lo no meio da turbulência que envolve o seu país-natal.",
+      "title": "Macron: \"Nada explica, nada desculpa\" tumultos em França",
+      "summary": "Presidente francês reagiu, em discurso ao país, aos saques de lojas e vandalismo de edifícios públicos em várias cidades. Pilhagens ainda não cessaram.",
       "source": "Observador",
-      "date": "Sun, 18 Oct 2026 15:58:12 +0100",
-      "url": "https://observador.pt/especiais/lagarde-queria-aguas-calmas-para-sair-do-bce-mas-devera-faze-lo-no-meio-da-turbulencia-o-xadrez-que-vai-mudar-profundamente-o-bce/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3360:1885:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16101258/gettyimages-2293962898.jpg",
+      "date": "Sun, 18 Oct 2026 19:18:44 +0100",
+      "url": "https://observador.pt/2026/10/18/nada-o-explica-nada-o-desculpa-emmanuel-macron-garante-que-os-causadores-de-destruicao-em-franca-terao-que-pagar/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/07161552/47713770.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "f1c6c76a",
+      "cat": "tecnologia",
+      "title": "Cerca de 2.400 detenções em França no sábado com 997 polícias e agentes feridos",
+      "summary": "Segundo o Ministério do Interior, saíram às ruas no sábado, em protesto, 550.000 pessoas. A organização diz terem participado 800.000.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 18 Oct 2026 20:58:07 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/cerca-de-2-400-detencoes-em-franca-no-sabado-com-997-policias-e-agentes-feridos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-18-20-57-28-531325.jpg",
       "score": 0.7
     }
   ]
