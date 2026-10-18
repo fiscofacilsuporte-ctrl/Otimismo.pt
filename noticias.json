@@ -1,5 +1,5 @@
 {
-  "last_update": "17/10/2026 20:26 UTC",
+  "last_update": "18/10/2026 04:09 UTC",
   "total": 30,
   "news": [
     {
@@ -69,28 +69,6 @@
       "score": 0.79
     },
     {
-      "id": "4d90797b",
-      "cat": "tecnologia",
-      "title": "PS indica Carlos Tavares para a comissão de fiscalização dos investimentos na Defesa",
-      "summary": "Partido queria outra solução para a monitorização das verbas do SAFE. Ex-CEO da Stellantis é um dos interessados na SATA e foi contra venda da TAP a concorrente estrangeiro. Tem colaborado com o PS.",
-      "source": "Público",
-      "date": "Sat, 17 Oct 2026 19:19:14 GMT",
-      "url": "https://www.publico.pt/2026/10/17/politica/noticia/ps-indica-carlos-tavares-comissao-fiscalizacao-investimentos-defesa-2191642",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "ecee75be",
-      "cat": "tecnologia",
-      "title": "Sobras do ananás passam a alimentar peixes: Agrogrin Tech arranca com unidade piloto na Maia",
-      "summary": "A startup fundada e liderada por Débora Campos, dedicada à transformação de resíduos de ananás em ingredientes de alto valor para a aquacultura, investe 1,2 milhões de euros e vai abrir uma ronda de investimento para apoiar a estratégia de comercialização e internacionalização.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 17 Oct 2026 15:58:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/agricultura-e-pescas/detalhe/sobras-do-ananas-passa-a-alimentar-peixes-agrogrin-tech-arranca-com-unidade-piloto-na-maia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-17-15-55-33-531304.jpg",
-      "score": 0.76
-    },
-    {
       "id": "a7fd9165",
       "cat": "tecnologia",
       "title": "Iúri Leitão é outra vez campeão do mundo",
@@ -146,47 +124,14 @@
       "score": 0.76
     },
     {
-      "id": "869bbdb4",
+      "id": "cf07c7d4",
       "cat": "tecnologia",
-      "title": "Sporting vence Benfica e conquista a Supertaça de voleibol",
-      "summary": "Os “leões” impuseram-se sem grandes dificuldades aos rivais lisboetas.",
+      "title": "Às escuras e revoltada",
+      "summary": "Os líderes europeus estão às escuras sobre o que fazer, mas vêem, como todos vêem, os protestos que alastram. Não é o Inverno que vai ser “muito difícil”: o dia de hoje que já está a ser. Editorial deHelena Pereira",
       "source": "Público",
-      "date": "Sat, 17 Oct 2026 17:42:31 GMT",
-      "url": "https://www.publico.pt/2026/10/17/desporto/noticia/sporting-vence-benfica-conquista-supertaca-voleibol-2191733",
+      "date": "Sat, 17 Oct 2026 20:36:55 GMT",
+      "url": "https://www.publico.pt/2026/10/17/opiniao/editorial/escuras-revoltada-2191713",
       "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "0e59f409",
-      "cat": "cultura",
-      "title": "Primeiro-ministro eurocéptico checo sofre revés nas eleições para o Senado",
-      "summary": "Partido ANO de Andrej Babis é o grande derrotado da votação deste sábado, com o chefe de governo a admitir um resultado “catastrófico”.",
-      "source": "Público",
-      "date": "Sat, 17 Oct 2026 17:24:13 GMT",
-      "url": "https://www.publico.pt/2026/10/17/mundo/noticia/primeiroministro-euroceptico-checo-sofre-reves-eleicoes-senado-2191731",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "6d001a83",
-      "cat": "tecnologia",
-      "title": "Enfants Rouges. O mercado que resistiu 400 anos até ao fogo",
-      "summary": "Fundado em 1615, o mais antigo mercado coberto de Paris nasceu com Luis XIII, deveu o seu rebatismo a órfãos, foi salvo em 1994 e totalmente consumido pelas chamas.",
-      "source": "Observador",
-      "date": "Sat, 17 Oct 2026 18:13:10 +0100",
-      "url": "https://observador.pt/especiais/enfants-rouges-o-mercado-de-paris-que-resistiu-400-anos-no-marais-ate-ser-destruido-pelo-fogo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:720:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16195719/mercado-enfants-rouges-paris-1-1-2.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "16ef255b",
-      "cat": "tecnologia",
-      "title": "\"Reação emotiva? Foi uma das semanas mais duras da carreira\"",
-      "summary": "Foi buscar 20 pontos extra para voltar à liderança, levantou os braços no último sprint, acabou a chorar na pista após a 20.ª medalha em provas internacionais que parecia a primeira – e por uma razão.",
-      "source": "Observador",
-      "date": "Sat, 17 Oct 2026 17:58:05 +0100",
-      "url": "https://observador.pt/2026/10/17/iuri-ganhou-festejou-de-bracos-levantados-e-acabou-a-chorar-na-pista-foi-uma-das-semanas-mais-duras-da-carreira/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:158/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/17175246/iuri-leitao-1.jpg",
       "score": 0.73
     },
     {
@@ -209,6 +154,17 @@
       "date": "Sat, 17 Oct 2026 18:00:00 +0100",
       "url": "https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-as-novas-licencas-parentais",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-15-14-21-11-531156.png",
+      "score": 0.73
+    },
+    {
+      "id": "85abb406",
+      "cat": "tecnologia",
+      "title": "Renomear a América de Trump já tem custos milionários",
+      "summary": "O chefe da Casa Branca já quis dar novas denominações a ministérios, lagos e programas federais, não pensando parar por aqui. E é o primeiro Presidente norte-americano a ter um aeroporto com o seu nome enquanto ainda ocupa o cargo.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 17 Oct 2026 17:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/renomear-a-america-de-trump-ja-tem-custos-milionarios",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-16-08-53-00-531203.jpg",
       "score": 0.73
     },
     {
@@ -253,17 +209,6 @@
       "date": "Sat, 17 Oct 2026 13:33:13 +0000",
       "url": "https://eco.sapo.pt/2026/10/17/protestos-em-franca-fazem-regressar-os-coletes-amarelos/",
       "img": "https://eco.imgix.net/uploads/2026/10/cropped-franca-manifestacao.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "22321d89",
-      "cat": "tecnologia",
-      "title": "Governo lança “concurso-convite” no valor de quase 66 milhões de euros para a IP",
-      "summary": "O Governo vai financiar com quase 66 milhões de euros a modernização da sinalização e das telecomunicações da Linha do Norte, através da instalação de um sistema europeu de gestão do tráfego ferroviário, foi anunciado este sábado. O Aviso, lançado pelo programa temático Sustentável 2030, destina-se ",
-      "source": "ECO",
-      "date": "Sat, 17 Oct 2026 11:19:29 +0000",
-      "url": "https://eco.sapo.pt/2026/10/17/governo-lanca-concurso-convite-no-valor-de-quase-66-milhoes-de-euros-para-a-ip/",
-      "img": "https://eco.imgix.net/uploads/2025/11/cropped-doc2024011042120735pn298520240110-2.jpg",
       "score": 0.73
     },
     {
@@ -331,6 +276,61 @@
       "url": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_2477885389-scaled.jpg",
       "score": 0.73
+    },
+    {
+      "id": "4cefb0ea",
+      "cat": "tecnologia",
+      "title": "Faltam dois mil milhões no orçamento do SNS",
+      "summary": "Seria expectável que a descontrolada execução deste ano conduzisse a previsões mais realistas para 2027. Aconteceu exatamente o contrário.",
+      "source": "Público",
+      "date": "Sat, 17 Oct 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/10/18/opiniao/opiniao/faltam-dois-mil-milhoes-orcamento-sns-2191231",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "d705cf55",
+      "cat": "tecnologia",
+      "title": "Facilitismo no acesso ao ensino superior",
+      "summary": "O facilitismo das notas internas e dos exames está a permitir um desleixo dos alunos, das escolas e das políticas governamentais. Opinião de José Ferreira Gomes",
+      "source": "Público",
+      "date": "Sat, 17 Oct 2026 23:20:00 GMT",
+      "url": "https://www.publico.pt/2026/10/18/opiniao/opiniao/facilitismo-acesso-ensino-superior-2191562",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "2051e154",
+      "cat": "geral",
+      "title": "\"É para aguentar.\" A primeira noite de acampada em Lisboa",
+      "summary": "Quando as primeiras tendas foram montadas no Rossio ninguém arriscava dizer até quando ficava. No limite de hora legal formava-se um cordão para \"aguentar\" de forma \"pacífica\".",
+      "source": "Observador",
+      "date": "Sun, 18 Oct 2026 04:39:51 +0100",
+      "url": "https://observador.pt/especiais/e-para-aguentar-com-dezenas-de-tendas-grupos-de-afinidade-e-vigias-acampada-de-lisboa-pela-habitacao-manteve-se-madrugada-adentro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/17214608/dventura-manif-habitacao-17out-33-scaled.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "682faaa0",
+      "cat": "tecnologia",
+      "title": "As notícias das 4h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sun, 18 Oct 2026 04:14:58 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2434/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "f4aa4df6",
+      "cat": "tecnologia",
+      "title": "3h. \"Acampada\" no Rossio. PSP não tenciona intervir",
+      "summary": "No local permanecem centenas de manifestantes, com tendas instaladas em pleno centro da capital. Ainda, Milhares em protesto em França, Itália, Bélgica e Albânia contra o aumento do custo de vida.",
+      "source": "Observador",
+      "date": "Sun, 18 Oct 2026 03:18:09 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2470/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
     }
   ]
 }
