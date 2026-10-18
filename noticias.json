@@ -1,7 +1,18 @@
 {
-  "last_update": "18/10/2026 04:09 UTC",
+  "last_update": "18/10/2026 10:49 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "37a52645",
+      "cat": "tecnologia",
+      "title": "Iúri Leitão e Ivo Oliveira conquistam prata em madison",
+      "summary": "Os campeões olímpicos Iúri Leitão e Ivo Oliveira conquistaram hoje a prata na prova de madison dos Mundiais de pista e arrecadaram a quarta medalha para Portugal em Xangai.",
+      "source": "RTP",
+      "date": "Sun, 18 Oct 2026 11:25:45 +0100",
+      "url": "https://www.rtp.pt/noticias/ciclismo/iuri-leitao-e-ivo-oliveira-conquistam-prata-em-madison_d1772454",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/8e/8efba80df551da57f7031b8e9e0a8f71?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.79
+    },
     {
       "id": "7da4fb37",
       "cat": "saude",
@@ -69,6 +80,28 @@
       "score": 0.79
     },
     {
+      "id": "eb4804db",
+      "cat": "ciencia",
+      "title": "Só uma das 23 metas globais da biodiversidade está a ser cumprida",
+      "summary": "Na abertura da COP17, na Arménia, a Zero pede que o primeiro balanço do Quadro de Kunming-Montreal se traduza em “aceleração real”, e aponta insuficiências no Plano de Restauro da Natureza português.",
+      "source": "Público",
+      "date": "Sun, 18 Oct 2026 07:43:00 GMT",
+      "url": "https://www.publico.pt/2026/10/18/azul/noticia/cop17-arranca-ierevan-mundo-aquem-22-23-metas-biodiversidade-2191697",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "64f08909",
+      "cat": "tecnologia",
+      "title": "Fecho com chave de prata: Iúri e Ivo vice-campeões mundiais",
+      "summary": "Portugal encerrou em grande melhor participação de sempre em Mundiais de ciclismo de pista, com Iúri Leitão e Ivo Oliveira a ganharem a medalha de prata na prova de madison apenas atrás da Dinamarca.",
+      "source": "Observador",
+      "date": "Sun, 18 Oct 2026 10:09:42 +0100",
+      "url": "https://observador.pt/2026/10/18/as-voltas-canhao-da-dinamarca-entre-o-fecho-com-chave-de-prata-dos-mundiais-iuri-leitao-e-ivo-oliveira-sagram-se-vice-campeoes-de-madison/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:845:nowe:0:30/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/18090856/iuri-leitao-madison.jpg",
+      "score": 0.76
+    },
+    {
       "id": "a7fd9165",
       "cat": "tecnologia",
       "title": "Iúri Leitão é outra vez campeão do mundo",
@@ -76,18 +109,18 @@
       "source": "RTP",
       "date": "Sat, 17 Oct 2026 21:59:49 +0100",
       "url": "https://www.rtp.pt/noticias/desporto/iuri-leitao-e-outra-vez-campeao-do-mundo_v1772396",
-      "img": "https://cdn-images.rtp.pt/icm/images/c5/c55939904b7d9c10dde96382f28e5445_N.jpg?",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/da/dac0048584a661ce85e83d3a31ed1e37?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.76
     },
     {
-      "id": "9276e239",
+      "id": "e52a3bf3",
       "cat": "tecnologia",
-      "title": "IL desafia Governo a arrendar imóveis devolutos do Estado",
-      "summary": "A líder da Iniciativa Liberal, Mariana Leitão, desafiou este sábado o primeiro-ministro a assumir a sua responsabilidade na resolução do problema da habitação e a avançar com medidas como a prometida disponibilização de imóveis devolutos do Estado. &#8220;Em 2024, o primeiro-ministro [Luís Montenegr",
+      "title": "Quem são os novos PIIGS?",
+      "summary": "A rubrica Nova Economics Club &#38; ECO é uma parceria entre o ECO e o NEC, o clube de economia da Nova SBE, dedicado à difusão de conhecimento e à investigação académica com parceiros institucionais. A Grécia financia-se, hoje, com juros mais baixos do que França. Portugal financia-se hoje com juro",
       "source": "ECO",
-      "date": "Sat, 17 Oct 2026 15:14:13 +0000",
-      "url": "https://eco.sapo.pt/2026/10/17/il-desafia-governo-a-arrendar-imoveis-devolutos-do-estado/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-doc2026091547778502jc0211100281.jpg",
+      "date": "Sun, 18 Oct 2026 08:50:06 +0000",
+      "url": "https://eco.sapo.pt/opiniao/quem-sao-os-novos-piigs/",
+      "img": "https://eco.imgix.net/uploads/2026/10/nova-economics-club-manuel-alexandre-1.jpg?mark64=aHR0cHM6Ly9lY28uaW1naXgubmV0L0VDT193YXRlcm1hcmsucG5nP2ZtPXBuZw%3D%3D&markscale=33&markalign=center,left&w=1200",
       "score": 0.76
     },
     {
@@ -124,47 +157,58 @@
       "score": 0.76
     },
     {
-      "id": "cf07c7d4",
+      "id": "85700031",
       "cat": "tecnologia",
-      "title": "Às escuras e revoltada",
-      "summary": "Os líderes europeus estão às escuras sobre o que fazer, mas vêem, como todos vêem, os protestos que alastram. Não é o Inverno que vai ser “muito difícil”: o dia de hoje que já está a ser. Editorial deHelena Pereira",
-      "source": "Público",
-      "date": "Sat, 17 Oct 2026 20:36:55 GMT",
-      "url": "https://www.publico.pt/2026/10/17/opiniao/editorial/escuras-revoltada-2191713",
-      "img": null,
+      "title": "10h. Lituânia emitiu um alerta por violação do espaço aéreo",
+      "summary": "As autoridades aconselharam a população a procurar abrigo e mobilizaram caças da NATO. E ainda, IC19 com trânsito condicionado junto à estrada de Queluz, para exercício da Proteção Civil.",
+      "source": "Observador",
+      "date": "Sun, 18 Oct 2026 10:17:57 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2498/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "21d09a8a",
+      "id": "b0b567f1",
       "cat": "tecnologia",
-      "title": "Secretário de Estado de Luís Montenegro: \"EUA são claramente o grande farol da liberdade e da democracia”",
-      "summary": "“Nós [o país] somos sempre aliados das grandes potências marítimas atlânticas. Primeiro a Inglaterra e quando o império inglês se desmoronou, dos Estados Unidos\", disse o secretário de Estado das Comunidades Portuguesas, Emídio Sousa.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 17 Oct 2026 21:10:03 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/secretario-de-estado-de-luis-montenegro-eua-sao-claramente-o-grande-farol-da-liberdade-e-da-democracia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-26-18-29-49-525760.jpg",
+      "title": "A madrugada da \"revolução\" sem polícia na Praça D. João I",
+      "summary": "Assembleia popular aprovou pernoitar e tendas. Depois, caixotes arderam e PSP exigiu desmobilização. Observador esteve nas negociações entre manifestantes e polícias: \"Isto é a revolução, Sr. Agente\".",
+      "source": "Observador",
+      "date": "Sun, 18 Oct 2026 10:06:22 +0100",
+      "url": "https://observador.pt/especiais/caixotes-a-arder-capacetes-azuis-e-desmobilizacao-completa-que-nunca-aconteceu-a-madrugada-de-espera-pela-policia-na-praca-d-joao-i/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:107/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/18010205/whatsapp-image-2026-10-18-at-010115.jpeg",
       "score": 0.73
     },
     {
-      "id": "d1813824",
+      "id": "0001444b",
       "cat": "tecnologia",
-      "title": "Explicador: As novas licenças parentais",
-      "summary": "O acordo alcançado entre PSD e PS torna as licenças parentais mais longas e generosas, além de introduzir no privado a jornada contínua se o empregador concordar. O explicador da semana diz-lhe o que está em causa e o que muda a partir de 1 de janeiro de 2027.",
+      "title": "Entre turistas e o vento que empurra as tendas, acampada do Rossio promete resistir",
+      "summary": "Dispositivo policial que vigia a acampada do Rossio é residual e é o vento que é o principal adversário dos manifestantes que passaram a noite naquela praça da capital portuguesa.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 17 Oct 2026 18:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-as-novas-licencas-parentais",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-15-14-21-11-531156.png",
+      "date": "Sun, 18 Oct 2026 10:46:03 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/entre-turistas-e-o-vento-que-empurra-as-tendas-acampada-do-rossio-promete-resistir",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-17-19-03-15-531308.png",
       "score": 0.73
     },
     {
-      "id": "85abb406",
+      "id": "fe7bd056",
       "cat": "tecnologia",
-      "title": "Renomear a América de Trump já tem custos milionários",
-      "summary": "O chefe da Casa Branca já quis dar novas denominações a ministérios, lagos e programas federais, não pensando parar por aqui. E é o primeiro Presidente norte-americano a ter um aeroporto com o seu nome enquanto ainda ocupa o cargo.",
+      "title": "Ex-CEO da Stellantis vai fiscalizar investimentos na Defesa",
+      "summary": "Carlos Tavares foi o nome indicado pelo Partido Socialista, com o qual tem vindo a colaborar, para a comissão de fiscalização dos investimentos de 5,8 mil milhões de euros na Defesa.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 17 Oct 2026 17:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/renomear-a-america-de-trump-ja-tem-custos-milionarios",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-16-08-53-00-531203.jpg",
+      "date": "Sun, 18 Oct 2026 10:39:46 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/ex-ceo-da-stellantis-vai-fiscalizar-investimentos-na-defesa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-13-08-41-42-518462.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ebf60f0e",
+      "cat": "tecnologia",
+      "title": "Porsche quer trabalhadores mais tempo no escritório e prémios dependentes dos lucros",
+      "summary": "Os prémios anuais, durante anos dos mais generosos da indústria automóvel alemã, passam a depender dos resultados. A fabricante quer ainda subir a médio prazo em 20% o preço médio dos modelos de topo.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 18 Oct 2026 10:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/porsche-quer-trabalhadores-mais-tempo-no-escritorio-e-premios-dependentes-dos-lucros",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-09-11-09-00-526305.jpg",
       "score": 0.73
     },
     {
@@ -179,36 +223,36 @@
       "score": 0.73
     },
     {
-      "id": "9b4f0c88",
+      "id": "22204fb7",
       "cat": "tecnologia",
-      "title": "Português Artur Gaspar sagra-se campeão europeu jovem de triatlo",
-      "summary": "O português Artur Gaspar sagrou-se hoje campeão europeu jovem de triatlo, numa competição que reuniu atletas entre os 15 e os 17 anos em Melilla, Espanha.",
+      "title": "Tenista Francisco Cabral perde final de pares do Masters 1.000 de Xangai",
+      "summary": "O tenista português Francisco Cabral, em dupla com o norte-americano JJ Tracy, falhou hoje a conquista do torneio de pares do Masters 1.000 de Xangai, ao perder na final com os austríacos Lucas Miedler e Neil Oberleitner.",
       "source": "RTP",
-      "date": "Sat, 17 Oct 2026 21:21:36 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/portugues-artur-gaspar-sagra-se-campeao-europeu-jovem-de-triatlo_d1772386",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "date": "Sun, 18 Oct 2026 10:35:57 +0100",
+      "url": "https://www.rtp.pt/noticias/tenis/tenista-francisco-cabral-perde-final-de-pares-do-masters-1000-de-xangai_d1772449",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5b/5b43c1c967c2ddc275bf8e28e59c768b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "6ed4c25c",
-      "cat": "desporto",
-      "title": "Sporting vence Benfica e conquista a Supertaça de voleibol novamente",
-      "summary": "O Sporting conquistou sábado a Supertaça portuguesa de voleibol pela terceira vez consecutiva, ao vencer o rival Benfica por 3-0, em jogo disputado no Pavilhão Cidade de Viseu.",
-      "source": "RTP",
-      "date": "Sat, 17 Oct 2026 18:55:17 +0100",
-      "url": "https://www.rtp.pt/noticias/benfica/sporting-vence-benfica-e-conquista-a-supertaca-de-voleibol-novamente_d1772370",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/9d/9d0ffbcbfe2cbc16c1ca1931e38b5fae?w=350&amp;q=50&amp;rect=0,54,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "fdaf01d8",
+      "id": "fbb23e44",
       "cat": "tecnologia",
-      "title": "Protestos em França fazem regressar os “coletes amarelos”",
-      "summary": "Manifestantes voltaram este sábado a enfrentar a polícia em Paris e noutras cidades francesas, numa mobilização que reúne estudantes, sindicatos e trabalhadores. O contexto no país é crescimento económico fraco, energia mais cara e pressão sobre as contas públicas. As manifestações contra o aumento ",
+      "title": "Porsche aposta em carros mais caros para recuperar lucros",
+      "summary": "A Porsche quer aumentar o preço dos automóveis mais exclusivos e reduzir a estrutura de custos para recuperar a rentabilidade, segundo avançou o Wall Street Journal (acesso pago, em inglês). A estratégia de Michael Leiters, que assumiu a presidência executiva em janeiro, combina novos modelos de top",
       "source": "ECO",
-      "date": "Sat, 17 Oct 2026 13:33:13 +0000",
-      "url": "https://eco.sapo.pt/2026/10/17/protestos-em-franca-fazem-regressar-os-coletes-amarelos/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-franca-manifestacao.jpg",
+      "date": "Sun, 18 Oct 2026 09:42:28 +0000",
+      "url": "https://eco.sapo.pt/2026/10/18/porsche-aposta-em-carros-mais-caros-para-recuperar-lucros/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc202604234698521112909841.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c78ca6ca",
+      "cat": "tecnologia",
+      "title": "Talgo vai propor a Portugal comboios de alta velocidade adaptáveis a duas bitolas",
+      "summary": "A Talgo pretende produzir os primeiros comboios de alta velocidade de Portugal com capacidade de circulação tanto em bitola ibérica como internacional, disse o presidente executivo (CEO) da empresa espanhola, Ricardo Chocarro. A Talgo e a francesa Alstom foram as duas empresas escolhidas no mês pass",
+      "source": "ECO",
+      "date": "Sun, 18 Oct 2026 08:44:36 +0000",
+      "url": "https://eco.sapo.pt/2026/10/18/talgo-vai-propor-a-portugal-comboios-de-alta-velocidade-adaptaveis-a-duas-bitolas/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-18606072-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -278,58 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "4cefb0ea",
+      "id": "507e9701",
       "cat": "tecnologia",
-      "title": "Faltam dois mil milhões no orçamento do SNS",
-      "summary": "Seria expectável que a descontrolada execução deste ano conduzisse a previsões mais realistas para 2027. Aconteceu exatamente o contrário.",
+      "title": "O que fazem 30 agentes de viagens portugueses na República Dominicana",
+      "summary": "Conhecer um destino na primeira pessoa é meio caminho andado para o vender melhor, dizem os agentes, que apontam a experiência como elemento diferenciador face à inteligência artificial.",
       "source": "Público",
-      "date": "Sat, 17 Oct 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/10/18/opiniao/opiniao/faltam-dois-mil-milhoes-orcamento-sns-2191231",
+      "date": "Sun, 18 Oct 2026 09:21:00 GMT",
+      "url": "https://www.publico.pt/2026/10/18/fugas/reportagem/fazem-30-agentes-viagens-portugueses-republica-dominicana-2190123",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "d705cf55",
-      "cat": "tecnologia",
-      "title": "Facilitismo no acesso ao ensino superior",
-      "summary": "O facilitismo das notas internas e dos exames está a permitir um desleixo dos alunos, das escolas e das políticas governamentais. Opinião de José Ferreira Gomes",
-      "source": "Público",
-      "date": "Sat, 17 Oct 2026 23:20:00 GMT",
-      "url": "https://www.publico.pt/2026/10/18/opiniao/opiniao/facilitismo-acesso-ensino-superior-2191562",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "2051e154",
-      "cat": "geral",
-      "title": "\"É para aguentar.\" A primeira noite de acampada em Lisboa",
-      "summary": "Quando as primeiras tendas foram montadas no Rossio ninguém arriscava dizer até quando ficava. No limite de hora legal formava-se um cordão para \"aguentar\" de forma \"pacífica\".",
-      "source": "Observador",
-      "date": "Sun, 18 Oct 2026 04:39:51 +0100",
-      "url": "https://observador.pt/especiais/e-para-aguentar-com-dezenas-de-tendas-grupos-de-afinidade-e-vigias-acampada-de-lisboa-pela-habitacao-manteve-se-madrugada-adentro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:432/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/17214608/dventura-manif-habitacao-17out-33-scaled.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "682faaa0",
-      "cat": "tecnologia",
-      "title": "As notícias das 4h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Sun, 18 Oct 2026 04:14:58 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2434/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "f4aa4df6",
-      "cat": "tecnologia",
-      "title": "3h. \"Acampada\" no Rossio. PSP não tenciona intervir",
-      "summary": "No local permanecem centenas de manifestantes, com tendas instaladas em pleno centro da capital. Ainda, Milhares em protesto em França, Itália, Bélgica e Albânia contra o aumento do custo de vida.",
-      "source": "Observador",
-      "date": "Sun, 18 Oct 2026 03:18:09 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2470/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
