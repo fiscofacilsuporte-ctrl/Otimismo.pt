@@ -1,7 +1,18 @@
 {
-  "last_update": "18/10/2026 20:27 UTC",
+  "last_update": "19/10/2026 04:19 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "e29366c5",
+      "cat": "ciencia",
+      "title": "Contact With Nature is Linked to Healthy Eating, Shows Encouraging New Study",
+      "summary": "A new study has discovered that contact with nature may help people develop healthier eating habits. The research from Anglia Ruskin University in the UK is reportedly the first to provide evidence that exposure to natural environments can influence people’s relationship with food. The study, publis",
+      "source": "Good News Network",
+      "date": "Sun, 18 Oct 2026 22:41:09 +0000",
+      "url": "https://www.goodnewsnetwork.org/contact-with-nature-is-linked-to-healthy-eating-study/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Woman-sitting-in-nature-meditate-by-Sara-Kurfess-QyjwUq5Amp8-unsplash.jpeg",
+      "score": 0.85
+    },
     {
       "id": "274a5b3b",
       "cat": "ciencia",
@@ -23,6 +34,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
       "img": "https://www.sciencedaily.com/images/1920/massive-volcanic-eruption-supervolcano.webp",
       "score": 0.82
+    },
+    {
+      "id": "2479c75d",
+      "cat": "tecnologia",
+      "title": "Portugal vence Espanha e conquista bronze no Mundial de hóquei em patins",
+      "summary": "Portugal conquistou domingo a medalha de bronze no 47.º Mundial de hóquei em patins masculino, ao vencer a campeã em título, Espanha, por 5-3, em Assunção, no Paraguai.",
+      "source": "RTP",
+      "date": "Sun, 18 Oct 2026 23:00:04 +0100",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-vence-espanha-e-conquista-bronze-no-mundial-de-hoquei-em-patins_d1772554",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bcc7ba37698f30906a4906d1df7321ca?w=350&amp;q=50&amp;rect=0,10,1232,675&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "dea4b525",
@@ -91,6 +113,28 @@
       "score": 0.79
     },
     {
+      "id": "c8c3a99d",
+      "cat": "tecnologia",
+      "title": "4h. Zelensky diz que Trump força capitulação da Ucrânia",
+      "summary": "O presidente ucraniano dá exemplo de medidas como o acordo para comprar gasóleo russo ou restrições à ajuda militar a Kiev. No Brasil, Lula da Silva e Bolsonaro tiveram esta noite o primeiro debate.",
+      "source": "Observador",
+      "date": "Mon, 19 Oct 2026 04:13:43 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2435/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.76
+    },
+    {
+      "id": "8a7a1453",
+      "cat": "tecnologia",
+      "title": "Portugal foi dos países que mais revisões fez ao PRR",
+      "summary": "Relatório da Comissão Europeia revela que Portugal foi um dos Estados-membros que mais reprogramou o Plano de Recuperação e Resiliência. Em cinco anos de execução, avançou com sete revisões para calibrar o alcance da bazuca. Média europeia foi de cinco reprogramações.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 18 Oct 2026 21:51:26 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/fundos-comunitarios/detalhe/portugal-foi-dos-paises-que-mais-revisoes-fez-ao-prr",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-17-15-25-24-518633.jpg",
+      "score": 0.76
+    },
+    {
       "id": "d5cb225c",
       "cat": "tecnologia",
       "title": "Santalucía alia-se à Zurich por dez anos para seguros automóvel, funeral e de animais de estimação",
@@ -135,69 +179,47 @@
       "score": 0.76
     },
     {
-      "id": "0aa37524",
+      "id": "7a231bea",
       "cat": "tecnologia",
-      "title": "Portugal bateu recorde com nove ondas de calor em 2026",
-      "summary": "Somam-se já 98 dias em onda de calor em 2026, o valor mais alto desde 1942. Houve episódios em todas as estações do ano, segundo o IPMA.",
-      "source": "Público",
-      "date": "Sun, 18 Oct 2026 16:35:45 GMT",
-      "url": "https://www.publico.pt/2026/10/18/azul/noticia/portugal-bateu-recorde-nove-ondas-calor-2026-2191778",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "c0acc3a0",
-      "cat": "tecnologia",
-      "title": "Aos 99 anos, Helga é a mais velha acrobata áerea do mundo",
-      "summary": "A britânica bateu um recorde que tinha apenas dois meses e garante que “não estava com medo”. Anterior recordista diz que, quando fizer 100 anos, vai tentar destronar Helga.",
-      "source": "Público",
-      "date": "Sun, 18 Oct 2026 13:19:39 GMT",
-      "url": "https://www.publico.pt/2026/10/18/impar/noticia/99-anos-helga-velha-acrobata-aerea-mundo-2191768",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "a7ecac0d",
-      "cat": "tecnologia",
-      "title": "A “tempestade perfeita” no acesso dos jovens à habitação",
-      "summary": "Garantir que uma geração consegue sair de casa dos pais não é apenas uma questão de mercado. É uma condição essencial para uma sociedade mais justa, mais sustentável e com futuro para todos. Opinião de Romana Xerez",
-      "source": "Público",
-      "date": "Sun, 18 Oct 2026 13:00:00 GMT",
-      "url": "https://www.publico.pt/2026/10/18/opiniao/opiniao/tempestade-perfeita-acesso-jovens-habitacao-2191524",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "8d863d4c",
-      "cat": "tecnologia",
-      "title": "Reflexões sobre homens e bestas: da Idade Média às Luzes",
-      "summary": "A escolástica medieval, fundindo a tradição aristotélica e a teologia cristã, colocou o homem no píncaro da Criação e no centro do Cosmos, mas esta concepção começou a abrir fissuras no século XVI.",
+      "title": "1h. Eleições Brasil. Já arrancou o primeiro debate",
+      "summary": "É o primeiro frente a frente entre os dois candidatos à presidência brasileira, uma vez que não houve debates na primeira volta. Ainda, manifestantes continuam em Lisboa e no Porto.",
       "source": "Observador",
-      "date": "Sun, 18 Oct 2026 18:12:50 +0100",
-      "url": "https://observador.pt/especiais/reflexoes-sobre-homens-e-bestas-parte-2-da-idade-media-ao-dealbar-das-luzes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3535:1980:nowe:305:142/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16114541/briton-riviere-requiescat-google-art-project.jpg",
+      "date": "Mon, 19 Oct 2026 01:15:13 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2419/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "806fd2fd",
-      "cat": "economia",
-      "title": "Jornada contínua pode antecipar saída do trabalho em duas horas",
-      "summary": "É o que tem acontecido no Estado e é o que poderá vir a acontecer no privado, no caso de quem tinha uma hora para almoço antes da aplicação da figura. Lei já aprovada confirma que tudo depende de acordo com o empregador.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 18 Oct 2026 20:52:39 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/emprego/lei-laboral/detalhe/jornada-continua-pode-antecipar-saida-do-trabalho-em-duas-horas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2021-10/img_100x100uu2021-10-29-12-31-26-415596.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "5c13a2fe",
+      "id": "9ef21b67",
       "cat": "tecnologia",
-      "title": "“O país precisa de ordem e não de uma escalada”, diz Macron",
-      "summary": "O chefe de Estado francês prometeu que os manifestantes violentos serão punidos e que o Governo vai reunir com os envolvidos nos protestos, desde estudantes a sindicatos, para procurar apaziguar a situação.",
+      "title": "Rendas e privilégios na era da inteligência artificial",
+      "summary": "O que é uma renda, quantas espécies há, e quais delas uma máquina que sabe as regras vai pôr em causa. Mais do que parece; menos do que devia.",
+      "source": "Observador",
+      "date": "Mon, 19 Oct 2026 00:22:31 +0100",
+      "url": "https://observador.pt/opiniao/rendas-e-privilegios-na-era-da-inteligencia-artificial/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A266%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F27174802%2Fwhatsapp-image-2026-07-27-at-122449.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "11826edc",
+      "cat": "tecnologia",
+      "title": "O pecado da arrogância",
+      "summary": "De forma arrogante, o primeiro-ministro tentou esvaziar o movimento que juntou no Porto jovens em defesa do acesso à habitação.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 18 Oct 2026 19:17:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/o-pais-precisa-de-ordem-e-nao-de-uma-escalada-diz-macron",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-18-14-45-28-531318.jpg",
+      "date": "Sun, 18 Oct 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/o-pecado-da-arrogancia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
+      "score": 0.73
+    },
+    {
+      "id": "8f6f1e48",
+      "cat": "tecnologia",
+      "title": "Pobreza persistente volta a subir e atinge quase um em cada dez portugueses",
+      "summary": "Depois de uma década de melhorias, a pobreza persistente agravou-se em Portugal em 2025. Um estudo da Nova SBE revela que mais de 60% das pessoas pobres já estavam nessa situação há vários anos.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 18 Oct 2026 21:21:02 +0100",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/social/detalhe/pobreza-persistente-volta-a-subir-e-atinge-quase-um-em-cada-dez-portugueses",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_100x100uu2022-11-14-20-55-46-440406.jpg",
       "score": 0.73
     },
     {
@@ -212,25 +234,25 @@
       "score": 0.73
     },
     {
-      "id": "85bf4db6",
+      "id": "6907c63d",
       "cat": "tecnologia",
-      "title": "Iúri Leitão e Ivo Oliveira são vice-campeões do Mundo em Madison.",
-      "summary": "Portugal conquistou quatro medalhas no Mundial de Ciclismo de Pista.&lt;br /&gt;A competição terminou hoje em Xangai.",
+      "title": "Lyon de Paulo Fonseca vence e sobe a primeiro em comando repartido por cinco",
+      "summary": "O Lyon de Paulo Fonseca sofreu muito para vencer o Nice, por 2-1, mas subiu ao primeiro lugar da Liga francesa de futebol, à sétima jornada, acompanhado do Paris Saint-Germain, Lille, Paris FC e do ex-comandante isolado Mónaco.",
       "source": "RTP",
-      "date": "Sun, 18 Oct 2026 22:23:48 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/iuri-leitao-e-ivo-oliveira-sao-vice-campeoes-do-mundo-em-madison_v1772548",
-      "img": "https://cdn-images.rtp.pt/icm/images/dc/dc5107739461ac00c0c25e9ddcfc33d9_N.jpg?",
+      "date": "Sun, 18 Oct 2026 23:06:53 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/lyon-de-paulo-fonseca-vence-e-sobe-a-primeiro-em-comando-repartido-por-cinco_d1772556",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a3/a3ba1e9a2e088fa9389566b955eb619c?w=350&amp;q=50&amp;rect=0,66,1259,690&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "498cb58f",
+      "id": "5a4b83e0",
       "cat": "tecnologia",
-      "title": "99-yo Woman Snags ‘World’s Oldest Wing-Walker’ Title – 3 Months After Another Gran Did It (LOOK)",
-      "summary": "A 99-year-old has become the world&#8217;s oldest wing-walker—just three months after her niece saw another elderly woman do it, and the staff at her assisted-living facility urged her to try. This week, Guinness World Records officially bestowed the title on Helga Duffy, who was strapped to the top",
-      "source": "Good News Network",
-      "date": "Sat, 17 Oct 2026 19:56:32 +0000",
-      "url": "https://www.goodnewsnetwork.org/99-yo-woman-snags-worlds-oldest-wing-walker-title/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Helga-Duffy-breaks-world-record-for-wingwalking-AeroSuperBatics-Wingwalkers-via-SWNS.jpeg",
+      "title": "Mission set to blast off for Mars to grab a piece of its moon",
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "source": "BBC News",
+      "date": "Sun, 18 Oct 2026 23:00:48 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e5/live/791ac150-c8ad-11f1-9c75-6ff1271de385.jpg",
       "score": 0.73
     },
     {
@@ -253,17 +275,6 @@
       "date": "Sat, 17 Oct 2026 19:13:21 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d1/live/5c4e9f00-c9c6-11f1-9624-cbdaf8e49de5.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8b2a1b6f",
-      "cat": "ambiente",
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-      "source": "BBC News",
-      "date": "Sat, 17 Oct 2026 02:33:09 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
       "score": 0.73
     },
     {
@@ -300,36 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "d78cc18e",
-      "cat": "tecnologia",
-      "title": "O tempo livre e o brincar estão em vias da extinção",
-      "summary": "O brincar e o tempo de brincar são indispensáveis como factores que definem a qualidade de uma escola, sendo um e outro, no receio e na sala de aula, factores indispensáveis de aprendizagem.",
-      "source": "Observador",
-      "date": "Sun, 18 Oct 2026 19:45:07 +0100",
-      "url": "https://observador.pt/opiniao/o-tempo-livre-e-o-brincar-estao-em-vias-da-extincao/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2374%3A2374%3Anowe%3A138%3A419%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170544%2Feduardo-sa.jpg",
+      "id": "fb42f1b5",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
+      "source": "Público",
+      "date": "Mon, 19 Oct 2026 04:00:00 GMT",
+      "url": "https://www.publico.pt/2026/10/19/opiniao/opiniao/cartas-director-2191763",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "e5fbb6d5",
+      "id": "eb4d0a43",
       "cat": "tecnologia",
-      "title": "Macron: \"Nada explica, nada desculpa\" tumultos em França",
-      "summary": "Presidente francês reagiu, em discurso ao país, aos saques de lojas e vandalismo de edifícios públicos em várias cidades. Pilhagens ainda não cessaram.",
-      "source": "Observador",
-      "date": "Sun, 18 Oct 2026 19:18:44 +0100",
-      "url": "https://observador.pt/2026/10/18/nada-o-explica-nada-o-desculpa-emmanuel-macron-garante-que-os-causadores-de-destruicao-em-franca-terao-que-pagar/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/07161552/47713770.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "f1c6c76a",
-      "cat": "tecnologia",
-      "title": "Cerca de 2.400 detenções em França no sábado com 997 polícias e agentes feridos",
-      "summary": "Segundo o Ministério do Interior, saíram às ruas no sábado, em protesto, 550.000 pessoas. A organização diz terem participado 800.000.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 18 Oct 2026 20:58:07 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/cerca-de-2-400-detencoes-em-franca-no-sabado-com-997-policias-e-agentes-feridos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-18-20-57-28-531325.jpg",
+      "title": "Poucas propostas e muitas acusações em debate entre Lula e Flávio",
+      "summary": "Os dois candidatos à presidência do Brasil estiveram num frente-a-frente a uma semana da segunda volta das eleições. Economia e segurança pública dominaram o debate.",
+      "source": "Público",
+      "date": "Mon, 19 Oct 2026 01:45:58 GMT",
+      "url": "https://www.publico.pt/2026/10/19/mundo/noticia/propostas-acusacoes-debate-lula-flavio-2191803",
+      "img": null,
       "score": 0.7
     }
   ]
