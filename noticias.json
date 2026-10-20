@@ -1,5 +1,5 @@
 {
-  "last_update": "19/10/2026 22:14 UTC",
+  "last_update": "20/10/2026 04:30 UTC",
   "total": 30,
   "news": [
     {
@@ -124,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "46a2cf18",
+      "cat": "saude",
+      "title": "A saúde laboral não se compra ao quilo",
+      "summary": "Um médico do trabalho não pode ter de escolher entre cumprir o seu dever e conservar o seu emprego. E uma lei nova não pode ser escrita por quem lucra com essa escolha. Opinião de Carlos Ochoa Leite",
+      "source": "Público",
+      "date": "Mon, 19 Oct 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/10/20/opiniao/opiniao/saude-laboral-nao-compra-quilo-2190989",
+      "img": null,
+      "score": 0.73
+    },
+    {
       "id": "769e2d69",
       "cat": "tecnologia",
       "title": "Primeiro-ministro neerlandês e companheiro esperam o primeiro filho via gestação de substituição",
@@ -135,47 +146,14 @@
       "score": 0.73
     },
     {
-      "id": "670e9647",
-      "cat": "cultura",
-      "title": "Étienne Jarrier, o jovem maestro francês que quer fazer a revolução pela música",
-      "summary": "Fundou a Orchestre du Nouveau Monde tinha 20 anos e com ela anda nas ruas a mostrar o poder da música, uma manifestação de cada vez. Em Paris, os músicos juntaram-se aos protestos, em concerto.",
-      "source": "Público",
-      "date": "Mon, 19 Oct 2026 20:26:25 GMT",
-      "url": "https://www.publico.pt/2026/10/19/impar/noticia/etienne-jarrier-jovem-maestro-frances-quer-revolucao-musica-2191895",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "80f67e6b",
-      "cat": "cultura",
-      "title": "Seguro quer acordo entre Governo e oposição na habitação",
-      "summary": "O Presidente da República pediu que PSD/CDS-PP e partidos da oposição se entendam sobre propostas para a habitação, apontando estudantes e trabalhadores como casos urgentes.",
-      "source": "Observador",
-      "date": "Mon, 19 Oct 2026 21:20:51 +0100",
-      "url": "https://observador.pt/2026/10/19/habitacao-seguro-pede-medidas-urgentes-e-outras-duradouras-com-o-contributo-de-todos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/19202512/47969163.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7677bb7d",
+      "id": "176df6c7",
       "cat": "tecnologia",
-      "title": "Trump prevê \"vitória esmagadora\" de Netanyahu",
-      "summary": "Os dois líderes trocaram elogios mútuos numa chamada divulgada nas redes sociais. Nas sondagens, Netanyahu surge empatado com o ex-chefe do Estado-Maior Eisenkot.",
+      "title": "00h. Líder do PS admite que OE merecia voto negativo",
+      "summary": "José Luís Carneiro admite que OE merecia voto negativo do partido, mas ressalva dever dos socialista perante o país. Ainda, Trump garante que já tinha conseguido um acordo de paz na Ucrânia.",
       "source": "Observador",
-      "date": "Mon, 19 Oct 2026 21:20:20 +0100",
-      "url": "https://observador.pt/2026/10/19/trump-preve-vitoria-de-netanyahu-em-israel-es-o-homem-que-quero-ao-meu-lado-bibi/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/19194138/47969553.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "5eb22de5",
-      "cat": "tecnologia",
-      "title": "Kherson: Leão XIV pede a Zelensky colaboração com Rússia",
-      "summary": "Dois dias após telefonar a Putin para pedir uma trégua, Leão XIV contactou o Presidente ucraniano para explicar o pedido e insistir no diálogo e na paz.",
-      "source": "Observador",
-      "date": "Mon, 19 Oct 2026 21:19:37 +0100",
-      "url": "https://observador.pt/2026/10/19/leao-xiv-ligou-a-zelensky-para-pedir-tregua-humanitaria-em-oleshky-dias-depois-de-fazer-o-mesmo-com-putin/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:66/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/19194344/47963484.jpg",
+      "date": "Tue, 20 Oct 2026 00:17:54 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-00h-2450/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -187,17 +165,6 @@
       "date": "Mon, 19 Oct 2026 21:37:45 +0100",
       "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/anthropic-negoceia-investimento-de-45-mil-milhoes-de-dolares-em-centros-de-dados-da-nscale",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-11-07-29-03-529357.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a3d796dc",
-      "cat": "tecnologia",
-      "title": "Aeroportos de Lisboa e Açores perderam passageiros neste verão",
-      "summary": "O crescimento registado no Porto, em Faro e na Madeira permitiu um aumento dos passageiros de 2,1% no conjunto dos aeroportos nacionais no terceiro trimestre. No acumulado do ano até setembro, já somam 57,3 milhões, dos quais mais de 27,6 milhões em Lisboa.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 19 Oct 2026 21:27:38 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/aeroportos-de-lisboa-e-acores-perderam-passageiros-neste-verao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-10/img_100x100uu2022-10-03-19-14-14-437382.jpg",
       "score": 0.73
     },
     {
@@ -256,6 +223,17 @@
       "score": 0.73
     },
     {
+      "id": "b5209da5",
+      "cat": "ciencia",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "source": "BBC News",
+      "date": "Mon, 19 Oct 2026 23:08:25 GMT",
+      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
+      "score": 0.73
+    },
+    {
       "id": "5a4b83e0",
       "cat": "tecnologia",
       "title": "Mission blasts off for Mars to grab a piece of its moon",
@@ -264,17 +242,6 @@
       "date": "Mon, 19 Oct 2026 19:45:46 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "f9c8d5b8",
-      "cat": "saude",
-      "title": "Fuel leak spreads more than two miles along River Taff",
-      "summary": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
-      "source": "BBC News",
-      "date": "Sun, 18 Oct 2026 19:20:57 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f89b/live/5be6c140-cb8e-11f1-bc2e-018d645d8d21.jpg",
       "score": 0.73
     },
     {
@@ -311,25 +278,58 @@
       "score": 0.73
     },
     {
-      "id": "200187d0",
+      "id": "53f82c39",
       "cat": "tecnologia",
-      "title": "Já vimos este filme: o Chega recua na lei das rendas",
-      "summary": "André Ventura vai voltar atrás com o que prometeu ao Governo depois dos protestos nas ruas?",
+      "title": "Orbán saiu do poder. Como sair da sua sombra?",
+      "summary": "Para os húngaros mais jovens, a democracia não pode ser simplesmente recuperada; tem de tornar-se real pela primeira vez. Opinião de Tibor Dessewffy",
       "source": "Público",
-      "date": "Mon, 19 Oct 2026 22:04:51 GMT",
-      "url": "https://www.publico.pt/2026/10/19/politica/noticia/ja-vimos-filme-chega-recua-lei-rendas-2191923",
+      "date": "Mon, 19 Oct 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/10/20/opiniao/opiniao/orban-saiu-sair-sombra-2190800",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "bd165d4a",
+      "id": "2ccf7a31",
       "cat": "tecnologia",
-      "title": "O triunfo do entretenimento",
-      "summary": "O que está a suceder, em boa parte, resulta de um fracasso dos poderes institucionais, tanto de natureza política como social.",
+      "title": "Como as duas Acampadas lidam com proximidade dos jornalistas",
+      "summary": "Assembleia Popular da Acampada de Lisboa decidiu-se pela limitação da circulação de jornalistas na zona das tendas e têm sido vários os avisos. Já no Porto, não há qualquer limitação.",
+      "source": "Observador",
+      "date": "Tue, 20 Oct 2026 02:56:15 +0100",
+      "url": "https://observador.pt/2026/10/20/da-zonas-proibidas-em-lisboa-a-tranquilidade-no-porto-como-as-duas-acampadas-lidam-com-a-proximidade-dos-jornalistas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/19232858/ilacerda-manifestacao-habitacao-rossio-dia3-53-scaled.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "37315b34",
+      "cat": "tecnologia",
+      "title": "2h. Liga dos Campeões. FC Porto joga esta terça-feira",
+      "summary": "Francesco Farioli reconhece que FCP tem \"uma montanha para escalar\" frente aos tricampeões holandeses. Ainda, José Luís Carneiro admite que o Orçamento do Estado merecia um voto negativo do PS.",
+      "source": "Observador",
+      "date": "Tue, 20 Oct 2026 02:16:42 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2446/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "1ba8c35c",
+      "cat": "tecnologia",
+      "title": "Dinamarquesa NKT faz crescer antiga Solidal para 580 trabalhadores em Esposende",
+      "summary": "Dois anos depois de ter adquirido a Solidal, a fabricante de cabos de energia inaugura esta terça-feira a expansão da fábrica portuguesa, que já emprega 580 pessoas.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 19 Oct 2026 23:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/celso-filipe/detalhe/o-triunfo-do-entretenimento",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-11/img_394x514uu2022-11-08-09-49-45-439912.png",
+      "date": "Tue, 20 Oct 2026 00:01:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/industria/detalhe/dinamarquesa-nkt-faz-crescer-antiga-solidal-para-580-trabalhadores-em-esposende",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-19-13-49-07-531364.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "f8facca0",
+      "cat": "economia",
+      "title": "Acampada de Lisboa contesta \"ilegalidade\" do protesto que tem juntado centenas de pessoas",
+      "summary": "Temendo uma intervenção das forças de segurança no local onde está montada uma centena de tendas, uma das porta-vozes do movimento assinala que \"todas as pessoas têm o direito de se juntar, de se manifestar no espaço público e é isso que está a acontecer aqui\".",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 19 Oct 2026 23:50:33 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/acampada-de-lisboa-contesta-ilegalidade-do-protesto-que-tem-juntado-centenas-de-pessoas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-19-17-31-07-531405.jpg",
       "score": 0.7
     }
   ]
