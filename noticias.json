@@ -1,5 +1,5 @@
 {
-  "last_update": "21/10/2026 17:02 UTC",
+  "last_update": "21/10/2026 21:31 UTC",
   "total": 30,
   "news": [
     {
@@ -36,17 +36,6 @@
       "score": 0.82
     },
     {
-      "id": "a3ccaf53",
-      "cat": "tecnologia",
-      "title": "Governo reforça conservação do lince e acena com compensações por danos",
-      "summary": "Plano de acção procura consolidar uma população de 394 animais, recuperar habitats e conciliar a expansão do lince com a conservação do lobo-ibérico.",
-      "source": "Público",
-      "date": "Wed, 21 Oct 2026 16:24:15 GMT",
-      "url": "https://www.publico.pt/2026/10/21/azul/noticia/governo-reforca-conservacao-lince-acena-compensacoes-danos-2192129",
-      "img": null,
-      "score": 0.79
-    },
-    {
       "id": "f2b1073c",
       "cat": "ciencia",
       "title": "Scientists Discover a Simple, Low-Energy Way to Recycle Acrylic Glass into Brand-New Material",
@@ -55,17 +44,6 @@
       "date": "Wed, 21 Oct 2026 13:00:45 +0000",
       "url": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/acrylic-glass-plexiglass-credit-Unsplash-e1792497349349.jpg",
-      "score": 0.79
-    },
-    {
-      "id": "6aecf033",
-      "cat": "ambiente",
-      "title": "Mozambique Protects the ‘Butterfly Forest’ of Mount Mabu, Home to 200 Species",
-      "summary": "A government decree published on August 24th set aside 23,000 acres as the Mount Mabu Community Conservation Area in Mozambique. This means that one of the wettest areas in southern Africa, known as the &#8220;butterfly forest,&#8221; will be protected, as will the 200-plus butterfly species that li",
-      "source": "Good News Network",
-      "date": "Mon, 19 Oct 2026 18:30:41 +0000",
-      "url": "https://www.goodnewsnetwork.org/mozambique-protects-the-butterfly-forest-of-mount-mabu-home-to-200-species/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Mount-Mabu-in-Mozambique-credit-httpsdoi.org10.3897zse.92.9948-CC-4.0.-Int.jpg",
       "score": 0.79
     },
     {
@@ -102,28 +80,6 @@
       "score": 0.79
     },
     {
-      "id": "63a2adcc",
-      "cat": "tecnologia",
-      "title": "Prémio Infância 2026 distingue 32 instituições",
-      "summary": "Ao todo, com este galardão, o BPI e a Fundação ”la Caixa” atribuíram mais de 1,4 milhões de euros a projetos sociais, que beneficiarão mais de 8 mil crianças e jovens.",
-      "source": "Observador",
-      "date": "Wed, 21 Oct 2026 11:06:26 +0100",
-      "url": "https://observador.pt/especiais/premio-infancia-2026-distingue-32-instituicoes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2121:1190:nowe:0:74/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/20160407/istock-2251542254.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "e35a0ca1",
-      "cat": "tecnologia",
-      "title": "Bolsas europeias em terreno positivo. Prémio de risco de obrigações francesas volta a aumentar",
-      "summary": "Acompanhe, ao minuto, a evolução do mercado desta quarta-feira.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 21 Oct 2026 17:44:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/contas-da-spacex-e-da-super-micro-levam-asia-e-europa-a-ganhos-kospi-salta-mais-de-3",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-21-02-46-524435.jpg",
-      "score": 0.76
-    },
-    {
       "id": "b4c882a7",
       "cat": "desporto",
       "title": "Sporting vence LASK e soma primeiro triunfo na Youth League",
@@ -135,14 +91,14 @@
       "score": 0.76
     },
     {
-      "id": "8cf516ec",
+      "id": "d8345609",
       "cat": "tecnologia",
-      "title": "Clima e saúde: novos desafios à segurabilidade",
-      "summary": "As alterações climáticas estão a alargar o perímetro da análise de risco no setor segurador. Para além dos danos sobre edifícios, infraestruturas e investimentos, importa compreender como a transformação das condições ambientais afeta a saúde humana, a mortalidade, a morbilidade e a longevidade — e ",
+      "title": "Líderes europeus procuram solução para défice de 70 mil milhões da Ucrânia em 2027",
+      "summary": "Os líderes da União Europeia (UE) vão reunir-se a 26 e 27 de novembro para procurar uma solução para as necessidades de financiamento da Ucrânia em 2027, estimadas em 70 mil milhões de euros, e discutir o próximo orçamento comunitário para o período de 2028 a 2034, segundo adiantou um funcionário do",
       "source": "ECO",
-      "date": "Wed, 21 Oct 2026 16:27:36 +0000",
-      "url": "https://eco.sapo.pt/opiniao/clima-e-saude-novos-desafios-a-segurabilidade/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2024/11/helena-chaves-anjos_opiniao.png",
+      "date": "Wed, 21 Oct 2026 19:36:35 +0000",
+      "url": "https://eco.sapo.pt/2026/10/21/lideres-europeus-procuram-solucao-para-defice-de-70-mil-milhoes-da-ucrania-em-2027/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-doc202606184731214513047375.jpg",
       "score": 0.76
     },
     {
@@ -157,36 +113,69 @@
       "score": 0.76
     },
     {
-      "id": "eaf14bda",
+      "id": "f46fdea5",
       "cat": "tecnologia",
-      "title": "Fábrica de cimento de Alhandra entra para o Guinness como a mais antiga do mundo",
-      "summary": "Indústria com 132 anos está a ser modernizada pela Cimpor com investimentos de 180 milhões de euros na descarbonização e renovação do principal forno.",
+      "title": "Empresas vão ter mais tempo para recuperar os 434 milhões do Fundo de Compensação do Trabalho",
+      "summary": "Prazo termina no final de 2026, mas patrões, UGT e Governo admitem estender limite. Salário mínimo acima de 970 euros em 2027 só se houver acordo dos parceiros, avisa Governo.",
       "source": "Público",
-      "date": "Wed, 21 Oct 2026 16:02:31 GMT",
-      "url": "https://www.publico.pt/2026/10/21/local/noticia/fabrica-cimento-alhandra-entra-guinness-antiga-mundo-2192133",
+      "date": "Wed, 21 Oct 2026 20:09:59 GMT",
+      "url": "https://www.publico.pt/2026/10/21/economia/noticia/empresas-vao-tempo-recuperar-434-milhoes-fundo-compensacao-trabalho-2192184",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "fb314313",
+      "id": "eaab3c9c",
       "cat": "tecnologia",
-      "title": "Putin aceita retomar negociações trilaterais com Kiev e Washington",
-      "summary": "A Rússia e a Ucrânia ainda divergem profundamente quanto aos termos para um acordo, enquanto os seus exércitos permanecem em confronto no campo de batalha.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 21 Oct 2026 17:47:21 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/putin-aceita-retomar-negociacoes-trilaterais-com-kiev-e-washington",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-21-17-46-34-531561.jpg",
+      "title": "Editor de Thélyson Orélien revela que a inteligência artificial foi utilizada em C’était ça ou mourir",
+      "summary": "As Éditions du Boréal põem fim à colaboração com o escritor canadiano-haitiano depois de terem encontrado vestígios de marcadores de IA nos metadados dos documentos das várias versões de trabalho.",
+      "source": "Público",
+      "date": "Wed, 21 Oct 2026 20:02:43 GMT",
+      "url": "https://www.publico.pt/2026/10/21/culturaipsilon/noticia/editor-thelyson-orelien-revela-inteligencia-artificial-utilizada-cetait-ca-mourir-2192182",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "77c88d24",
+      "id": "c2899c00",
       "cat": "tecnologia",
-      "title": "Getty Images pede insolvência para passar para as mãos da família fundadora e da Koch",
-      "summary": "O pedido, ao abrigo do Chapter 11, põe em prática um acordo já fechado com os credores. A empresa espera concluir o processo até ao fim do ano e sair da bolsa.",
+      "title": "Pressionado por aumento de renda, Maus Hábitos pode ter de mudar de casa",
+      "summary": "Espaço cultural do Porto já tem uma alternativa no último piso Centro Comercial STOP. Processo de classificação pela câmara como estabelecimento histórico pode ditar desfecho.",
+      "source": "Público",
+      "date": "Wed, 21 Oct 2026 20:00:17 GMT",
+      "url": "https://www.publico.pt/2026/10/21/local/noticia/pressionado-aumento-renda-maus-habitos-mudar-casa-2192173",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "d89e1e77",
+      "cat": "tecnologia",
+      "title": "Estudantes recusam descongelamento e querem fim das propinas",
+      "summary": "Estudantes, reunidos junto à sede do Governo, gritaram palavras de ordem contra o descongelamento das propinas e o que consideram ser o desinvestimento no ensino superior. Dia 18 há novo protesto.",
+      "source": "Observador",
+      "date": "Wed, 21 Oct 2026 21:30:33 +0100",
+      "url": "https://observador.pt/2026/10/21/e-quase-um-crime-social-estudantes-do-ensino-superior-recusam-descongelamento-e-pedem-mesmo-o-fim-das-propinas/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/21180033/47982975.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "485b1ff6",
+      "cat": "tecnologia",
+      "title": "Lucros da Meta mais que triplicam. Investimento em IA vai aumentar",
+      "summary": "A empresa de redes sociais registou uma subida de 26% das receitas para 64,60 mil milhões de dólares, enquanto os lucros dispararam para 9,86 mil milhões.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 21 Oct 2026 17:25:39 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/media/detalhe/getty-images-pede-insolvencia-para-passar-para-as-maos-da-familia-fundadora-e-da-koch",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-02-10-19-47-525963.jpg",
+      "date": "Wed, 21 Oct 2026 22:23:59 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/lucros-da-meta-mais-que-triplicam-investimento-em-ia-vai-aumentar",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-21-20-55-06-531579.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "12bf265f",
+      "cat": "tecnologia",
+      "title": "Wall Street em alta impulsionada por tecnológicas. SpaceX dispara quase 8%",
+      "summary": "Os principais índices bolsistas norte-americanos fecharam a sessão desta quarta-feira em terreno positivo, impulsionado por resultados trimestrais positivos da SpaceX e de outras empresas do setor da IA.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 21 Oct 2026 21:20:13 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-em-alta-impulsionada-por-tecnologicas-spacex-dispara-quase-8",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-08-21-07-12-521764.jpg",
       "score": 0.73
     },
     {
@@ -201,36 +190,36 @@
       "score": 0.73
     },
     {
-      "id": "5dd1ab59",
-      "cat": "desporto",
-      "title": "Sporting CP - LASK Linz (20h00)",
-      "summary": "O Sporting procura manter-se vitorioso na fase de liga e ficar mais perto do apuramento na Liga dos Campeões de futebol, na receção aos austríacos do LASK Linz, que só têm derrotas, na terceira jornada.",
+      "id": "e488ae71",
+      "cat": "tecnologia",
+      "title": "Vitória por 3-2. LASK Linz o carrasco do Sporting",
+      "summary": "Os austríacos do LASK Linz regressaram ao Estádio de Alvalade e voltaram a vencer o Sporting, por 3-2, em jogo da terceira jornada da fase de liga da Liga dos Campeões, impondo a primeira derrota dos leões na competição.",
       "source": "RTP",
       "date": "Wed, 21 Oct 2026 18:46:06 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/sporting-cp-lask-linz-20h00_e1773304",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b5/b5a4e0471ff70316ce388e1bdba457d2?w=350&amp;q=50&amp;rect=0,129,1233,676&amp;auto=format",
+      "url": "https://www.rtp.pt/noticias/desporto/vitoria-por-3-2-lask-linz-o-carrasco-do-sporting_e1773304",
+      "img": "/icm/noticias/images/5c/5c6f53420411714a364fc0899781e249.jpg?w=860&amp;q=75__&auto=format\n",
       "score": 0.73
     },
     {
-      "id": "62c3642e",
+      "id": "9a833495",
       "cat": "tecnologia",
-      "title": "Habit, Generali Tranquilidade e Wells unem-se para lançar seguro para óculos graduados",
-      "summary": "A Wells, a Generali Tranquilidade e a insurtech Habit lançaram um novo seguro para óculos graduados em Portugal. A solução, que já se encontra disponível em mais de 250 lojas da Wells, permite subscrever a proteção no momento da compra. Este seguro garante dois anos de proteção integral, abrangendo ",
+      "title": "Autarcas do PS acusam Governo de incumprimento do acordo com PSD e PCP na ANAFRE",
+      "summary": "A associação dos autarcas do PS acusa o Governo de falhar o cumprimento do acordo firmado em janeiro, na eleição da direção da associação de freguesias (ANAFRE), e que envolveu os presidentes de Junta de Freguesia socialistas, sociais-democratas e comunistas. O documento intitulado “Carta de Comprom",
       "source": "ECO",
-      "date": "Wed, 21 Oct 2026 16:50:13 +0000",
-      "url": "https://eco.sapo.pt/2026/10/21/habit-generali-tranquilidade-e-wells-unem-se-para-lancar-seguro-para-oculos-graduados/",
-      "img": "https://eco.imgix.net/uploads/2026/10/madureira-e-heredia.jpg",
+      "date": "Wed, 21 Oct 2026 19:44:20 +0000",
+      "url": "https://eco.sapo.pt/2026/10/21/autarcas-do-ps-acusam-governo-de-incumprimento-do-acordo-com-psd-e-pcp-na-anafre/",
+      "img": "https://eco.imgix.net/uploads/2026/02/cropped-anafre-francisco-brito-jan26.jpg",
       "score": 0.73
     },
     {
-      "id": "d65a3879",
+      "id": "1ea20e68",
       "cat": "tecnologia",
-      "title": "IL arriscou deixar Moedas “apeado”. Esquerda viabilizou fim das trotinetas em Lisboa",
-      "summary": "A Câmara Municipal de Lisboa deu nesta quarta-feira luz verde à intenção do Executivo de suspender o serviço de trotinetas partilhadas, atualmente prestado pela Bolt, Lime e Bird, mas a aprovação que se julgava estar implícita por via da maioria de vereadores da coligação de Carlos Moedas no Governo",
+      "title": "PGR: Detidos no Rossio podem ter julgamento acelerado ou suspensão do processo",
+      "summary": "Os 55 manifestantes detidos na sequência da desocupação do acampamento pelo direito à habitação no Rossio, em Lisboa, foram convocados para comparecer perante o Ministério Público no próximo dia 27 de outubro, data em que será definida a situação processual de cada um. A Procuradoria-Geral da Repúbl",
       "source": "ECO",
-      "date": "Wed, 21 Oct 2026 16:44:00 +0000",
-      "url": "https://eco.sapo.pt/2026/10/21/il-arriscou-deixar-moedas-apeado-esquerda-viabilizou-fim-das-trotinetas-em-lisboa/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-trotinetas02.jpg",
+      "date": "Wed, 21 Oct 2026 19:39:10 +0000",
+      "url": "https://eco.sapo.pt/2026/10/21/pgr-detidos-no-rossio-podem-ter-julgamento-acelerado-ou-suspensao-do-processo/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-protesto-habitacao07.jpg",
       "score": 0.73
     },
     {
@@ -245,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "ae1452be",
+      "cat": "tecnologia",
+      "title": "Man Proposes to His Girlfriend After They Were Struck by Lightning–She Restarted His Heart Twice",
+      "summary": "Nick Broderick describes the moment he decided to marry his girlfriend Eva as electric: it was as if he were struck by lightning. Love language aside, that&#8217;s actually exactly what happened. While enjoying a hike in the Kettle Moraine State Forest in Wisconsin in August of 2025, Nick and his gi",
+      "source": "Good News Network",
+      "date": "Tue, 20 Oct 2026 11:00:16 +0000",
+      "url": "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Nick-and-Eva-Broderick-on-their-hike-which-nearly-killed-them-credit-Nick-Broderick.jpg",
+      "score": 0.73
+    },
+    {
       "id": "b5209da5",
       "cat": "ciencia",
       "title": "Five ways El Niño is affecting the weather around the world",
@@ -256,14 +256,14 @@
       "score": 0.73
     },
     {
-      "id": "5a4b83e0",
-      "cat": "tecnologia",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "id": "28eefb92",
+      "cat": "saude",
+      "title": "Pope does not need further treatment after lung cancer surgery",
+      "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
       "source": "BBC News",
-      "date": "Mon, 19 Oct 2026 19:45:46 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg",
+      "date": "Wed, 21 Oct 2026 20:09:10 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09d/live/89f335e0-cd88-11f1-b1e7-39558e114359.jpg",
       "score": 0.73
     },
     {
@@ -289,36 +289,36 @@
       "score": 0.73
     },
     {
-      "id": "260ceede",
-      "cat": "tecnologia",
-      "title": "Macau é destino convidado da feira de viagens BTL 2027 e vai unir Portugal e China",
-      "summary": "Herança portuguesa e cultura chinesa unem-se na BTL 2027: Macau é o Destino Internacional Convidado e estará em destaque na FIL Parque das Nações, em Lisboa, de 3 a 7 de Março.",
-      "source": "Público",
-      "date": "Wed, 21 Oct 2026 16:17:29 GMT",
-      "url": "https://www.publico.pt/2026/10/21/fugas/noticia/macau-destino-convidado-feira-viagens-btl-2027-vai-unir-portugal-china-2192139",
-      "img": null,
+      "id": "e2160b37",
+      "cat": "cultura",
+      "title": "Diomande tem milhões nas costas, ele leva milhões às costas",
+      "summary": "Num jogo que parecia muito complicado ao longo de toda a primeira parte, o Real Madrid acabou a golear o RB Leipzig para manter o pleno na Champions, com Bernardo a estrear-se a marcar (4-1).",
+      "source": "Observador",
+      "date": "Wed, 21 Oct 2026 21:55:00 +0100",
+      "url": "https://observador.pt/2026/10/21/diomande-tem-milhoes-nas-costas-bernardo-leva-milhoes-as-costas-mourinho-nao-vira-as-costas-real-goleia-rb-leipzig/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4042:2269:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/21213806/gettyimages-2300769088.jpg",
       "score": 0.7
     },
     {
-      "id": "f6b45d4d",
+      "id": "568d2825",
       "cat": "tecnologia",
-      "title": "Seguro convoca partidos sobre coesão social",
-      "summary": "Presidente da República vai ouvir os partidos no dia a seguir à votação na generalidade, mas reuniões, sabe o Observador, não vão ser sobre o Orçamento do Estado. Foco é a coesão social.",
+      "title": "Zelensky quer reunião trilateral tão rápido quanto possível",
+      "summary": "Zelensky, Putin e o enviado de Trump deram sinal verde a conversações técnicas trilaterais. Rússia propõe novembro e Abu Dhabi; Putin quer ainda cimeira com Trump e Xi Jinping.",
       "source": "Observador",
-      "date": "Wed, 21 Oct 2026 12:42:03 +0100",
-      "url": "https://observador.pt/2026/10/21/seguro-convoca-audiencias-com-os-partidos-sobre-coesao-social/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1367:765:nowe:381:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/08160457/47905570.jpg",
+      "date": "Wed, 21 Oct 2026 21:34:23 +0100",
+      "url": "https://observador.pt/2026/10/21/zelensky-quer-reuniao-trilateral-eua-russia-ucrania-o-mais-rapidamente-possivel-apos-kremlin-sinalizar-abertura/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16162929/47954168.jpg",
       "score": 0.7
     },
     {
-      "id": "14645385",
+      "id": "aaebde04",
       "cat": "tecnologia",
-      "title": "Habitação. Que (más) propostas têm os acampados? — Debate",
-      "summary": "Afinal quais são as propostas — ou \"exigências\" — por trás das manifestações? Só se fala sobre os tetos nas rendas, mas será que chega ou só destruiria as cidades?",
-      "source": "Observador",
-      "date": "Wed, 21 Oct 2026 12:39:43 +0100",
-      "url": "https://observador.pt/programas/contra-corrente/habitacao-que-mas-propostas-tem-os-acampados-debate/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/12/16133246/770-podcast-contra-corrente-zmf-hm-hg.jpg",
+      "title": "Lucros da Tesla superam estimativas dos analistas, mas receitas ficam aquém do esperado",
+      "summary": "A Tesla divulgou lucros ajustados por ação de 48 cêntimos, acima dos 44 cêntimos previstos. O lucro líquido ficou-se pelos 787 milhões de dólares, caindo 43% em termos homólogos, e as receitas ficaram-se pelos 28,05 mil milhões.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 21 Oct 2026 21:50:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/lucros-da-tesla-superam-estimativas-dos-analistas-mas-receitas-ficam-aquem-do-esperado",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-07-21-12-527509.jpg",
       "score": 0.7
     },
     {
