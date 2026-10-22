@@ -1,5 +1,5 @@
 {
-  "last_update": "21/10/2026 21:31 UTC",
+  "last_update": "22/10/2026 04:21 UTC",
   "total": 30,
   "news": [
     {
@@ -58,6 +58,17 @@
       "score": 0.79
     },
     {
+      "id": "f5a28e52",
+      "cat": "ciencia",
+      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+      "summary": "Drugs will be tested simultaneously, which it's hoped will speed up the process of finding new treatments for this common type of dementia.",
+      "source": "BBC News",
+      "date": "Wed, 21 Oct 2026 23:02:30 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08de/live/6e052f20-cd4f-11f1-8177-0f8bd59b54c4.jpg",
+      "score": 0.79
+    },
+    {
       "id": "50350bbe",
       "cat": "ciencia",
       "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
@@ -113,69 +124,58 @@
       "score": 0.76
     },
     {
-      "id": "f46fdea5",
+      "id": "a0c4f6a0",
       "cat": "tecnologia",
-      "title": "Empresas vão ter mais tempo para recuperar os 434 milhões do Fundo de Compensação do Trabalho",
-      "summary": "Prazo termina no final de 2026, mas patrões, UGT e Governo admitem estender limite. Salário mínimo acima de 970 euros em 2027 só se houver acordo dos parceiros, avisa Governo.",
+      "title": "Carneiro acusa AD e Chega de tentar reduzir manifestações a “acções de extrema-esquerda”",
+      "summary": "Secretário-geral do PS acusou partidos de “desprezarem e serem insensíveis” às preocupações dos portugueses. Apelou ainda à aprovação do Orçamento do Estado.",
       "source": "Público",
-      "date": "Wed, 21 Oct 2026 20:09:59 GMT",
-      "url": "https://www.publico.pt/2026/10/21/economia/noticia/empresas-vao-tempo-recuperar-434-milhoes-fundo-compensacao-trabalho-2192184",
+      "date": "Wed, 21 Oct 2026 23:13:40 GMT",
+      "url": "https://www.publico.pt/2026/10/22/politica/noticia/carneiro-acusa-ad-chega-tentar-reduzir-manifestacoes-accoes-extremaesquerda-2192197",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "eaab3c9c",
+      "id": "b25e4bac",
       "cat": "tecnologia",
-      "title": "Editor de Thélyson Orélien revela que a inteligência artificial foi utilizada em C’était ça ou mourir",
-      "summary": "As Éditions du Boréal põem fim à colaboração com o escritor canadiano-haitiano depois de terem encontrado vestígios de marcadores de IA nos metadados dos documentos das várias versões de trabalho.",
-      "source": "Público",
-      "date": "Wed, 21 Oct 2026 20:02:43 GMT",
-      "url": "https://www.publico.pt/2026/10/21/culturaipsilon/noticia/editor-thelyson-orelien-revela-inteligencia-artificial-utilizada-cetait-ca-mourir-2192182",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "c2899c00",
-      "cat": "tecnologia",
-      "title": "Pressionado por aumento de renda, Maus Hábitos pode ter de mudar de casa",
-      "summary": "Espaço cultural do Porto já tem uma alternativa no último piso Centro Comercial STOP. Processo de classificação pela câmara como estabelecimento histórico pode ditar desfecho.",
-      "source": "Público",
-      "date": "Wed, 21 Oct 2026 20:00:17 GMT",
-      "url": "https://www.publico.pt/2026/10/21/local/noticia/pressionado-aumento-renda-maus-habitos-mudar-casa-2192173",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "d89e1e77",
-      "cat": "tecnologia",
-      "title": "Estudantes recusam descongelamento e querem fim das propinas",
-      "summary": "Estudantes, reunidos junto à sede do Governo, gritaram palavras de ordem contra o descongelamento das propinas e o que consideram ser o desinvestimento no ensino superior. Dia 18 há novo protesto.",
+      "title": "\"Grande consenso\" sobre OE e a espera por \"figos maduros\"",
+      "summary": "Socialistas reúnem-se para validar proposta do líder para viabilizar Orçamento do Governo pela abstenção. Ao mesmo tempo procuram mostrar distância, mas com conta, peso e medida.",
       "source": "Observador",
-      "date": "Wed, 21 Oct 2026 21:30:33 +0100",
-      "url": "https://observador.pt/2026/10/21/e-quase-um-crime-social-estudantes-do-ensino-superior-recusam-descongelamento-e-pedem-mesmo-o-fim-das-propinas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/21180033/47982975.jpg",
+      "date": "Thu, 22 Oct 2026 01:33:14 +0100",
+      "url": "https://observador.pt/2026/10/22/ps-com-grande-consenso-sobre-abstencao-do-oe-ate-porque-os-figos-so-se-comem-maduros/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/28184527/47532011.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0d9a72d1",
+      "cat": "tecnologia",
+      "title": "Uma solução final velhinha em folha",
+      "summary": "A votos em 5 dias, Israel e os judeus têm uma mania irritante: querem existir.",
+      "source": "Observador",
+      "date": "Thu, 22 Oct 2026 00:24:25 +0100",
+      "url": "https://observador.pt/opiniao/uma-solucao-final-velhinha-em-folha/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1280%3A1280%3Anowe%3A141%3A2%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F11175627%2Fpaulo-nogueira-2026-fevereiro.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "f5a40e41",
+      "cat": "economia",
+      "title": "Comissão Política do PS manifestou \"consenso total\" sobre abstenção no OE para 2027",
+      "summary": "De acordo com o dirigente André Moz Caldas, a Comissão Política Nacional do PS mostrou \"um grande consenso em torno da posição proposta pelo secretário-geral do PS de transmitir ao Grupo Parlamentar o entendimento dos órgãos de que o sentido de voto do PS no OE para 2027 deve ser um voto abstensivo\"",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 22 Oct 2026 01:01:08 +0100",
+      "url": "https://www.jornaldenegocios.pt/lusa/detalhe/comissao-politica-do-ps-manifestou-consenso-total-sobre-abstencao-no-oe-para-2027",
+      "img": "https://cdn.jornaldenegocios.pt/images/2021-05/img_100x100uu2021-05-25-20-39-13-404082.jpg",
       "score": 0.73
     },
     {
       "id": "485b1ff6",
       "cat": "tecnologia",
-      "title": "Lucros da Meta mais que triplicam. Investimento em IA vai aumentar",
+      "title": "Lucros da Meta mais que triplicam. Investimento em IA revisto em alta",
       "summary": "A empresa de redes sociais registou uma subida de 26% das receitas para 64,60 mil milhões de dólares, enquanto os lucros dispararam para 9,86 mil milhões.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 21 Oct 2026 22:23:59 +0100",
+      "date": "Wed, 21 Oct 2026 22:23:00 +0100",
       "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/lucros-da-meta-mais-que-triplicam-investimento-em-ia-vai-aumentar",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-21-20-55-06-531579.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "12bf265f",
-      "cat": "tecnologia",
-      "title": "Wall Street em alta impulsionada por tecnológicas. SpaceX dispara quase 8%",
-      "summary": "Os principais índices bolsistas norte-americanos fecharam a sessão desta quarta-feira em terreno positivo, impulsionado por resultados trimestrais positivos da SpaceX e de outras empresas do setor da IA.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 21 Oct 2026 21:20:13 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-em-alta-impulsionada-por-tecnologicas-spacex-dispara-quase-8",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-08-21-07-12-521764.jpg",
       "score": 0.73
     },
     {
@@ -197,7 +197,7 @@
       "source": "RTP",
       "date": "Wed, 21 Oct 2026 18:46:06 +0100",
       "url": "https://www.rtp.pt/noticias/desporto/vitoria-por-3-2-lask-linz-o-carrasco-do-sporting_e1773304",
-      "img": "/icm/noticias/images/5c/5c6f53420411714a364fc0899781e249.jpg?w=860&amp;q=75__&auto=format\n",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5c6f53420411714a364fc0899781e249.jpg?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
@@ -245,17 +245,6 @@
       "score": 0.73
     },
     {
-      "id": "b5209da5",
-      "cat": "ciencia",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "source": "BBC News",
-      "date": "Mon, 19 Oct 2026 23:08:25 GMT",
-      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ce/live/5e5f90f0-cc74-11f1-9a39-31b474234113.png",
-      "score": 0.73
-    },
-    {
       "id": "28eefb92",
       "cat": "saude",
       "title": "Pope does not need further treatment after lung cancer surgery",
@@ -289,36 +278,47 @@
       "score": 0.73
     },
     {
-      "id": "e2160b37",
+      "id": "c7cb27df",
       "cat": "cultura",
-      "title": "Diomande tem milhões nas costas, ele leva milhões às costas",
-      "summary": "Num jogo que parecia muito complicado ao longo de toda a primeira parte, o Real Madrid acabou a golear o RB Leipzig para manter o pleno na Champions, com Bernardo a estrear-se a marcar (4-1).",
-      "source": "Observador",
-      "date": "Wed, 21 Oct 2026 21:55:00 +0100",
-      "url": "https://observador.pt/2026/10/21/diomande-tem-milhoes-nas-costas-bernardo-leva-milhoes-as-costas-mourinho-nao-vira-as-costas-real-goleia-rb-leipzig/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4042:2269:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/21213806/gettyimages-2300769088.jpg",
+      "title": "Cartas ao director",
+      "summary": "",
+      "source": "Público",
+      "date": "Thu, 22 Oct 2026 04:00:00 GMT",
+      "url": "https://www.publico.pt/2026/10/22/opiniao/opiniao/cartas-director-2192159",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "568d2825",
-      "cat": "tecnologia",
-      "title": "Zelensky quer reunião trilateral tão rápido quanto possível",
-      "summary": "Zelensky, Putin e o enviado de Trump deram sinal verde a conversações técnicas trilaterais. Rússia propõe novembro e Abu Dhabi; Putin quer ainda cimeira com Trump e Xi Jinping.",
-      "source": "Observador",
-      "date": "Wed, 21 Oct 2026 21:34:23 +0100",
-      "url": "https://observador.pt/2026/10/21/zelensky-quer-reuniao-trilateral-eua-russia-ucrania-o-mais-rapidamente-possivel-apos-kremlin-sinalizar-abertura/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16162929/47954168.jpg",
+      "id": "fa479d0d",
+      "cat": "geral",
+      "title": "As acampadas não são para falar de habitação",
+      "summary": "Persistir na narrativa da representatividade das manifestações sobre a habitação e no seu caráter espontâneo é publicidade enganosa. Opinião de Carla Castro",
+      "source": "Público",
+      "date": "Wed, 21 Oct 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/10/22/opiniao/opiniao/acampadas-nao-sao-falar-habitacao-2192095",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "aaebde04",
+      "id": "c35a789f",
       "cat": "tecnologia",
-      "title": "Lucros da Tesla superam estimativas dos analistas, mas receitas ficam aquém do esperado",
-      "summary": "A Tesla divulgou lucros ajustados por ação de 48 cêntimos, acima dos 44 cêntimos previstos. O lucro líquido ficou-se pelos 787 milhões de dólares, caindo 43% em termos homólogos, e as receitas ficaram-se pelos 28,05 mil milhões.",
+      "title": "As notícias das 3h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Thu, 22 Oct 2026 03:01:19 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2474/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "83909e34",
+      "cat": "tecnologia",
+      "title": "Trump exige que novos centros de dados produzam a sua própria energia para conter os preços",
+      "summary": "O consumo massivo de água e eletricidade destas instalações, vitais para o desenvolvimento da IA que apoia Donald Trump, preocupa os eleitores e ameaça influenciar os resultados das próximas eleições intercalares.",
       "source": "Jornal de Negócios",
-      "date": "Wed, 21 Oct 2026 21:50:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/lucros-da-tesla-superam-estimativas-dos-analistas-mas-receitas-ficam-aquem-do-esperado",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-07-21-12-527509.jpg",
+      "date": "Wed, 21 Oct 2026 23:49:40 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/trump-exige-que-novos-centros-de-dados-produzam-a-sua-propria-energia-para-conter-os-precos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-28-07-18-01-530175.jpg",
       "score": 0.7
     },
     {
