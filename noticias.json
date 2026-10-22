@@ -1,5 +1,5 @@
 {
-  "last_update": "22/10/2026 17:01 UTC",
+  "last_update": "22/10/2026 21:26 UTC",
   "total": 30,
   "news": [
     {
@@ -23,6 +23,17 @@
       "url": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
       "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Atlantic-Salmon-001-©-Darren-Honeywill-2026.jpg",
       "score": 0.82
+    },
+    {
+      "id": "32b892f5",
+      "cat": "tecnologia",
+      "title": "Nearing Visabeira assume posição maioritária na Anywind",
+      "summary": "A Nearing Visabeira comprou uma posição maioritária na Anywind, empresa especializada em serviços e soluções para infraestruturas de energia renovável, com foco no setor eólico, de acordo com um comunicado esta quinta-feira divulgado. &#8220;Este investimento representa um marco relevante na estraté",
+      "source": "ECO",
+      "date": "Thu, 22 Oct 2026 19:58:39 +0000",
+      "url": "https://eco.sapo.pt/2026/10/22/nearing-visabeira-assume-posicao-maioritaria-na-anywind/",
+      "img": "https://eco.imgix.net/uploads/2026/10/anywind2.jpg",
+      "score": 0.79
     },
     {
       "id": "1533bce8",
@@ -69,14 +80,25 @@
       "score": 0.79
     },
     {
-      "id": "d368e603",
-      "cat": "desporto",
-      "title": "Sp. Braga procura primeiros pontos na estreia de Franclim Carvalho",
-      "summary": "O Sporting de Braga recebe hoje o Gent, pelas 20:00, na segunda jornada da fase de liga da Liga Conferência de futebol, no jogo de estreia do treinador Franclim Carvalho e em que procura amealhar os primeiros pontos.",
-      "source": "RTP",
-      "date": "Thu, 22 Oct 2026 10:27:35 +0100",
-      "url": "https://www.rtp.pt/noticias/liga-europa/sp-braga-procura-primeiros-pontos-na-estreia-de-franclim-carvalho_d1773452",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a82444ddc962360ee79351e0f4cbe258?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "id": "c4d18c5d",
+      "cat": "economia",
+      "title": "Quebra na procura e maiores custos de energia voltam a travar lucros da Navigator",
+      "summary": "O resultado líquido da Navigator baixou 44,8% para 65,4 milhões de euros nos primeiros nove meses do ano, segundo adiantou a empresa em comunicado enviado à Comissão do Mercado de Valores Mobiliários (CMVM). &#8220;Estes resultados refletiram um contexto macroeconómico e de mercado extremamente exig",
+      "source": "ECO",
+      "date": "Thu, 22 Oct 2026 19:38:34 +0000",
+      "url": "https://eco.sapo.pt/2026/10/22/quebra-na-procura-e-maiores-custos-de-energia-voltam-a-travar-lucros-da-navigator/",
+      "img": "https://eco.imgix.net/uploads/2022/05/cropped-navigator_pessoas-2.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "de5d3d6f",
+      "cat": "tecnologia",
+      "title": "Carris e STCP anunciam intercâmbio de trabalhadores e acordo para investimentos",
+      "summary": "A Carris e a STCP vão avançar com programas de intercâmbio de trabalhadores para partilhar conhecimento e desenvolver soluções para os desafios da mobilidade urbana, ao abrigo de um protocolo de uma cooperação estratégica que é assinado sexta-feira, em Lisboa. E que prevê igualmente a apresentação c",
+      "source": "ECO",
+      "date": "Thu, 22 Oct 2026 18:36:58 +0000",
+      "url": "https://eco.sapo.pt/2026/10/22/carris-e-stcp-anunciam-intercambio-de-trabalhadores-e-acordo-para-investimentos/",
+      "img": "https://eco.imgix.net/uploads/2026/05/cropped-stcp.jpg",
       "score": 0.76
     },
     {
@@ -124,58 +146,36 @@
       "score": 0.76
     },
     {
-      "id": "53ac782f",
+      "id": "abd97cbf",
       "cat": "tecnologia",
-      "title": "Universidade descobre proteína que ajuda a controlar cancro",
-      "summary": "Chamada Delta246p53, a variante limita a proliferação de células tumorais e controla o envelhecimento celular. Investigadores anteveem impacto na esperança de vida.",
-      "source": "Observador",
-      "date": "Thu, 22 Oct 2026 15:30:46 +0100",
-      "url": "https://observador.pt/2026/10/22/variante-de-proteina-que-pode-ajudar-a-controlar-o-cancro-descoberta-pela-universidade-de-coimbra/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1404:nowe:0:263/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/15133629/ts154a3483.jpg",
+      "title": "Mariana Leite Soares mostra-nos como é ouvir a vida quase em absoluto",
+      "summary": "Vencedora da última edição do Prémio Revelação Ageas Teatro Nacional D. Maria II estreia a sua primeira encenação, Absoluto , nesta sexta-feira, no Rivoli; a 30 segue para o Theatro Circo.",
+      "source": "Público",
+      "date": "Thu, 22 Oct 2026 20:22:00 GMT",
+      "url": "https://www.publico.pt/2026/10/22/culturaipsilon/noticia/mariana-leite-soares-mostranos-ouvir-vida-quase-absoluto-2192307",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "1d47c60d",
-      "cat": "economia",
-      "title": "Sabe como analisar uma empresa antes de investir?",
-      "summary": "Analisar uma empresa vai além de olhar para os números ou para a evolução das ações. Descubra como a análise fundamental e a análise técnica ajudam a tomar decisões de investimento mais informadas.",
-      "source": "Observador",
-      "date": "Thu, 22 Oct 2026 15:01:27 +0100",
-      "url": "https://observador.pt/programas/big-investor-week/sabe-como-analisar-uma-empresa-antes-de-investir/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/12115531/podcast-1540x866px.jpg",
+      "id": "6af64f60",
+      "cat": "tecnologia",
+      "title": "Presidenciais: Cotrim com resultado positivo, Mendes é o único com contas negativas",
+      "summary": "Além do eurodeputado liberal, só a candidatura de Gouveia e Melo apresentou um saldo positivo. Exceputado Cotrim, o ex-almirante e Marques Mendes, as outras candidaturas apresentaram saldos nulos.",
+      "source": "Público",
+      "date": "Thu, 22 Oct 2026 19:50:07 GMT",
+      "url": "https://www.publico.pt/2026/10/22/politica/noticia/presidenciais-cotrim-resultado-positivo-mendes-unico-contas-negativas-2192340",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "99b0185c",
+      "id": "7bc24e15",
       "cat": "tecnologia",
-      "title": "Concorrência dá luz verde à aquisição da Egeo pela espanhola Urbaser",
-      "summary": "A Urbaser tem vindo a comprar diversas empresas em Portugal e vai ganhando relevância no setor da gestão e tratamento de resíduos.",
+      "title": "Prémio de risco em França sobe para níveis de 2011. Valor aproximou-se dos 180 pontos",
+      "summary": "O \"spread\" entre os juros a 10 anos de França e da Alemanha tocou nos 178 pontos-base, nível que não era visto desde finais de 2011. O juro francês chegou ainda a superar o italiano em 50 pontos, o que é inédito.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 22 Oct 2026 17:38:08 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/concorrencia-da-luz-verde-a-aquisicao-da-egeo-pela-espanhola-urbaser",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-12-14-46-39-518399.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7a164563",
-      "cat": "tecnologia",
-      "title": "American Airlines passa de lucro a prejuízo de 580 milhões de dólares nos primeiros nove meses",
-      "summary": "As perdas no terceiro trimestre mais do que duplicaram em relação a igual período de 2025, para 269 milhões de dólares. O aumento de 67,5% nos gastos com combustível castigaram a companhia aérea.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 22 Oct 2026 17:28:23 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/american-airlines-passa-de-lucro-a-prejuizo-de-580-milhoes-de-dolares-nos-primeiros-nove-meses",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-27-14-54-06-517391.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "f940cd91",
-      "cat": "tecnologia",
-      "title": "Ouro cai 2% com escalada no Médio Oriente e aumento no preço do petróleo",
-      "summary": "Acompanhe, ao minuto, a evolução do mercado desta quinta-feira.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 22 Oct 2026 17:28:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/tesla-e-meta-falham-em-animar-os-investidores-em-torno-da-ia-china-aproxima-se-do-bear-market",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-23-15-23-33-515203.jpg",
+      "date": "Thu, 22 Oct 2026 19:03:14 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/premio-de-risco-em-franca-sobe-para-niveis-de-2011-valor-aproximou-se-dos-180-pontos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-04-18-21-17-508679.jpg",
       "score": 0.73
     },
     {
@@ -190,6 +190,17 @@
       "score": 0.73
     },
     {
+      "id": "e367d1d1",
+      "cat": "tecnologia",
+      "title": "Benfica goleia no Chipre e lidera a Liga Europa",
+      "summary": "O Benfica mantém o pleno de vitórias na fase de liga da Liga Europa, após bater o Omonia Nicosia, no Chipre, por 4-1, em jogo da terceira jornada da competição.",
+      "source": "RTP",
+      "date": "Thu, 22 Oct 2026 19:03:45 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/benfica-goleia-no-chipre-e-lidera-a-liga-europa_e1773574",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7c/7c795339f86bf82dea8e62d239183c3e?w=350&amp;q=50&amp;rect=0,112,1278,701&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "93a7b76c",
       "cat": "desporto",
       "title": "Messi espera ser recordado como “um grande desportista”",
@@ -201,36 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "4231837e",
-      "cat": "ambiente",
-      "title": "Greenvolt vende projetos de baterias na Polónia por até 391 milhões de euros",
-      "summary": "A Greenvolt celebrou um acordo para a venda de dois projetos de armazenamento de energia em baterias na Polónia. O negócio pode render à empresa até 391 milhões de euros. De acordo com o comunicado publicado esta quinta-feira no site da Comissão do Mercado de Valores Mobiliários (CMVM), o valor dest",
-      "source": "ECO",
-      "date": "Thu, 22 Oct 2026 16:53:07 +0000",
-      "url": "https://eco.sapo.pt/2026/10/22/greenvolt-vende-projetos-de-baterias-na-polonia-por-ate-391-milhoes-de-euros/",
-      "img": "https://eco.imgix.net/uploads/2025/05/cropped-eco-entrevista-manso-neto-greenvolt_2000px-045.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "acf131bb",
+      "id": "a8a6a7ed",
       "cat": "tecnologia",
-      "title": "Continental investe mais de 10 milhões em novo centro e prevê contratar centenas nos próximos anos",
-      "summary": "A Continental Mabor deu esta quinta-feira um &#8220;um passo gigante&#8221; com o lançamento da primeira pedra da construção do novo centro de competências tecnológicas que vai construir no complexo industrial em Lousado, no concelho de Vila Nova de Famalicão, onde produz anualmente mais de 18 milhõ",
-      "source": "ECO",
-      "date": "Thu, 22 Oct 2026 16:41:47 +0000",
-      "url": "https://eco.sapo.pt/2026/10/22/continental-investe-mais-de-10-milhoes-em-novo-centro-e-preve-contratar-centenas-nos-proximos-anos/",
-      "img": "https://eco.imgix.net/uploads/2025/12/cropped-continental-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "e3a53822",
-      "cat": "tecnologia",
-      "title": "Mobilidade de trabalhadores e estudantes entre Portugal e Espanha “é modesta” no cenário europeu",
-      "summary": "Apesar da proximidade geográfica, das afinidades culturais e até da crescente integração económica, a mobilidade de trabalhadores e estudantes entre os países da Península Ibérica ainda &#8220;é modesta&#8221; face aos padrões europeus. De acordo com um novo estudo da autoria dos economistas do Banc",
-      "source": "ECO",
-      "date": "Thu, 22 Oct 2026 16:03:08 +0000",
-      "url": "https://eco.sapo.pt/2026/10/22/mobilidade-de-trabalhadores-e-estudantes-entre-portugal-e-espanha-e-modesta-no-cenario-europeu/",
-      "img": "https://eco.imgix.net/uploads/2025/04/cropped-30559769-scaled-3.jpg",
+      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+      "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
+      "source": "BBC News",
+      "date": "Thu, 22 Oct 2026 21:21:22 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda7/live/20760850-ce5e-11f1-a166-e30097724580.jpg",
       "score": 0.73
     },
     {
@@ -245,17 +234,6 @@
       "score": 0.73
     },
     {
-      "id": "b0ecf8f9",
-      "cat": "tecnologia",
-      "title": "First human case of Shamonda virus detected in France, officials say",
-      "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
-      "source": "BBC News",
-      "date": "Thu, 22 Oct 2026 13:53:32 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f518/live/9a1112f0-ce03-11f1-8991-296181d7e3de.jpg",
-      "score": 0.73
-    },
-    {
       "id": "688fd829",
       "cat": "tecnologia",
       "title": "Young Adults Are Building Safe Spaces for Unhoused Peers",
@@ -267,47 +245,69 @@
       "score": 0.73
     },
     {
-      "id": "a1ff33c0",
+      "id": "d15b05e7",
       "cat": "tecnologia",
-      "title": "Trinta anos depois, outro Kabila quer marchar sobre Kinshasa com apoio do Ruanda",
-      "summary": "O ex-Presidente Joseph Kabila passou a liderar a aliança político-militar que pretende marchar para Kinshasa e derrubar o Governo de Félix Tshisekedi, “cujo único objectivo é perpetuar-se no poder”.",
+      "title": "DGS confirma cinco casos de sarampo em Lisboa e Vale do Tejo desde 6 de Outubro, num total de 15 este ano",
+      "summary": "Em causa três adultos, uma criança e um bebé, sendo três casos importados, sem relação entre si, e que correspondem a pessoas que viajaram recentemente para um país com elevada incidência de sarampo.",
       "source": "Público",
-      "date": "Thu, 22 Oct 2026 16:41:20 GMT",
-      "url": "https://www.publico.pt/2026/10/22/mundo/noticia/trinta-anos-kabila-quer-marchar-kinshasa-apoio-ruanda-2192254",
+      "date": "Thu, 22 Oct 2026 20:19:20 GMT",
+      "url": "https://www.publico.pt/2026/10/22/sociedade/noticia/dgs-confirma-cinco-casos-sarampo-lisboa-vale-tejo-desde-6-outubro-total-15-ano-2192341",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "a93b4c50",
+      "id": "2b616aa4",
       "cat": "tecnologia",
-      "title": "COP31: Eurodeputados vão pedir aceleração do abandono dos combustíveis fósseis",
-      "summary": "Os 15 deputados da delegação europeia apelam à UE para que assuma papel de liderança nas negociações para um tratado de não-proliferação de combustíveis fósseis.",
-      "source": "Público",
-      "date": "Thu, 22 Oct 2026 16:30:18 GMT",
-      "url": "https://www.publico.pt/2026/10/22/azul/noticia/cop31-eurodeputados-vao-pedir-aceleracao-abandono-combustiveis-fosseis-2192262",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "e00b5ccf",
-      "cat": "geral",
-      "title": "Ventura critica silêncio de Montenegro sobre habitação e considera que pode ser “um rastilho”",
-      "summary": "Numa sala repleta de empresários e diplomatas, Ventura recusou que os vistos gold contribuam para o problema da habitação e acusou a esquerda de “catalogar inimigos”.",
-      "source": "Público",
-      "date": "Thu, 22 Oct 2026 16:22:20 GMT",
-      "url": "https://www.publico.pt/2026/10/22/politica/noticia/ventura-critica-silencio-montenegro-habitacao-considera-rastilho-2192290",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "3696b712",
-      "cat": "cultura",
-      "title": "Macau diz que não retirou filme de Tom Cruise, \"Digger\"",
-      "summary": "O filme do realizador mexicano Alejandro González Iñárritu estreou-se a nível mundial em 1 de outubro, mas foi retirado à última hora dos cinemas das regiões chinesas de Macau e Hong Kong.",
+      "title": "Exército poderá investir 82 milhões em carros de combate",
+      "summary": "Conselho de Ministros aprovou ainda reforço de 2,4 milhões para combustíveis da Marinha e criou a carreira de Técnico de Salvamento Marítimo.",
       "source": "Observador",
-      "date": "Thu, 22 Oct 2026 15:51:33 +0100",
-      "url": "https://observador.pt/2026/10/22/governo-de-macau-diz-que-nao-retirou-filme-de-tom-cruise-digger/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:95/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/07112135/47873284.jpg",
+      "date": "Thu, 22 Oct 2026 21:42:40 +0100",
+      "url": "https://observador.pt/2026/10/22/governo-autoriza-exercito-a-gastar-82-milhoes-para-modernizar-carros-de-combate-leopard/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/05/20072820/25083287-scaled_770x433_acf_cropped.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "494fbf97",
+      "cat": "tecnologia",
+      "title": "Morreu o ator Tom Skerritt. Tinha 93 anos",
+      "summary": "Ator norte-americano morreu de causas naturais. Venceu um Emmy em 1993, pelo seu papel enquanto xerife Jimmy Brock, na série Picket Fences.",
+      "source": "Observador",
+      "date": "Thu, 22 Oct 2026 21:41:14 +0100",
+      "url": "https://observador.pt/2026/10/22/morreu-o-ator-tom-skerritt-conhecido-pelas-participacoes-em-alien-e-top-gun-tinha-93-anos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22212758/gettyimages-458495940.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "754eecde",
+      "cat": "geral",
+      "title": "Morreu Jorge Neto, antigo deputado do PSD",
+      "summary": "O advogado foi vice-presidente do Grupo Parlamentar do PSD e secretário de Estado da Defesa. O PSD manifesta, em comunicado, \"profunda consternação pelo falecimento\".",
+      "source": "Observador",
+      "date": "Thu, 22 Oct 2026 21:38:15 +0100",
+      "url": "https://observador.pt/2026/10/22/morreu-antigo-deputado-jorge-neto-psd-recorda-homem-de-cultura-e-inteligencia-notaveis/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:99/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22211044/captura-de-ecra-2026-10-22-as-211025.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "9212c553",
+      "cat": "tecnologia",
+      "title": "A próxima etapa da mobilidade elétrica pede pragmatismo",
+      "summary": "O desafio dos próximos anos será diferente. Não se trata apenas de construir um mercado mais aberto, mas de garantir que essa abertura não destrói as vantagens que levaram anos a construir.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 22 Oct 2026 22:00:51 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-proxima-etapa-da-mobilidade-eletrica-pede-pragmatismo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-01/img_394x514uu2024-01-02-15-43-38-467417.png",
+      "score": 0.7
+    },
+    {
+      "id": "de6ab733",
+      "cat": "tecnologia",
+      "title": "Perguntem ao André. E ao José Luís",
+      "summary": "Demonizar senhorios é o caminho mais curto para retirar casas do mercado. Proibir despejos só serve para acentuar a desconfiança de quem tem imóveis para arrendar.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 22 Oct 2026 21:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/perguntem-ao-andre-e-ao-jose-luis",
+      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-16-00-296266.png",
       "score": 0.7
     },
     {
