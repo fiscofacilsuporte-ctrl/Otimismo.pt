@@ -1,5 +1,5 @@
 {
-  "last_update": "23/10/2026 04:25 UTC",
+  "last_update": "23/10/2026 11:25 UTC",
   "total": 30,
   "news": [
     {
@@ -14,6 +14,17 @@
       "score": 0.88
     },
     {
+      "id": "5e216472",
+      "cat": "tecnologia",
+      "title": "Vines Produce Bigger, Healthier Wine Grapes When Grown Under Solar Panels",
+      "summary": "Solar panels grown above grapevines substantially increased the development and fruit production of the crop—all while generating clean energy. The technique, known as agrivoltaics, has been well-studied in other settings, but how it would effect the delicate science of viticulture has not. Research",
+      "source": "Good News Network",
+      "date": "Fri, 23 Oct 2026 11:00:15 +0000",
+      "url": "https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-supplied-to-PV-Magazine-by-Giuseppe-Ferrara.jpg",
+      "score": 0.82
+    },
+    {
       "id": "0d4f62e3",
       "cat": "sociedade",
       "title": "Volunteers became salmon, deer and earthworms. Then they set out to save their river",
@@ -25,14 +36,25 @@
       "score": 0.82
     },
     {
-      "id": "32b892f5",
+      "id": "fb6ecfe9",
       "cat": "tecnologia",
-      "title": "Nearing Visabeira assume posição maioritária na Anywind",
-      "summary": "A Nearing Visabeira comprou uma posição maioritária na Anywind, empresa especializada em serviços e soluções para infraestruturas de energia renovável, com foco no setor eólico, de acordo com um comunicado esta quinta-feira divulgado. &#8220;Este investimento representa um marco relevante na estraté",
-      "source": "ECO",
-      "date": "Thu, 22 Oct 2026 19:58:39 +0000",
-      "url": "https://eco.sapo.pt/2026/10/22/nearing-visabeira-assume-posicao-maioritaria-na-anywind/",
-      "img": "https://eco.imgix.net/uploads/2026/10/anywind2.jpg",
+      "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+      "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise",
+      "source": "ScienceDaily",
+      "date": "Fri, 23 Oct 2026 07:02:25 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+      "img": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp",
+      "score": 0.82
+    },
+    {
+      "id": "a337032e",
+      "cat": "tecnologia",
+      "title": "Good News in History, October 23",
+      "summary": "Happy 50th Birthday to Ryan Reynolds, the always-handsome and hilarious Canadian actor who first starred in the sitcom Two Guys and a Girl in 1998, then rose to fame in a range of films like The Proposal and Green Lantern. His biggest financial and critical success came when he played the smack-talk",
+      "source": "Good News Network",
+      "date": "Fri, 23 Oct 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events061023/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Deadpoll-and-Ryan-Reynolds-in-2019-Dick-Thomas-Johnson-cc.jpg",
       "score": 0.79
     },
     {
@@ -47,17 +69,6 @@
       "score": 0.79
     },
     {
-      "id": "f2b1073c",
-      "cat": "ciencia",
-      "title": "Scientists Discover a Simple, Low-Energy Way to Recycle Acrylic Glass into Brand-New Material",
-      "summary": "Researchers at ETH Zurich have found a practical new method that breaks down acrylic glass—known by the brand name Plexiglas—almost entirely into its original building blocks, making high-quality recycling realistic and affordable for the first time. Acrylic glass shows up in everyday products like ",
-      "source": "Good News Network",
-      "date": "Wed, 21 Oct 2026 13:00:45 +0000",
-      "url": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/acrylic-glass-plexiglass-credit-Unsplash-e1792497349349.jpg",
-      "score": 0.79
-    },
-    {
       "id": "72a0e34f",
       "cat": "tecnologia",
       "title": "‘Writing is a way of dealing with things’",
@@ -66,6 +77,28 @@
       "date": "Wed, 21 Oct 2026 09:20:24 +0000",
       "url": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
       "img": "https://www.positive.news/wp-content/uploads/2026/10/IAN-RANKIN-Portrait-Louise-Mather-2024.jpg-1.jpeg",
+      "score": 0.79
+    },
+    {
+      "id": "4d413236",
+      "cat": "tecnologia",
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+      "source": "BBC News",
+      "date": "Fri, 23 Oct 2026 10:54:09 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a57f/live/b7611c70-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
+      "score": 0.79
+    },
+    {
+      "id": "717e7857",
+      "cat": "saude",
+      "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
+      "summary": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.",
+      "source": "BBC News",
+      "date": "Fri, 23 Oct 2026 07:49:02 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f379/live/0f348400-cead-11f1-bc2e-018d645d8d21.jpg",
       "score": 0.79
     },
     {
@@ -80,47 +113,36 @@
       "score": 0.79
     },
     {
-      "id": "568b5f10",
+      "id": "d9ca3b25",
       "cat": "tecnologia",
-      "title": "Rússia anuncia aumento da produção de gasolina e gasóleo após acordo com os EUA",
-      "summary": "\"O mercado mostra uma dinâmica positiva tanto para a gasolina como para o gasóleo: a produção aumentou e estão a acumular-se reservas\", indica um comunicado no final de uma reunião presidida pelo primeiro vice-ministro russo, Alexandr Nóvak.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 22 Oct 2026 23:25:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/russia-anuncia-aumento-da-producao-de-gasolina-e-gasoleo-apos-acordo-com-os-eua",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-27-22-58-00-511960.jpg",
+      "title": "I Liga: Jornada abre em Guimarães",
+      "summary": "O Vitória de Guimarães e o Marítimo procuram hoje interromper longas séries sem triunfos na I Liga, defrontando-se no Minho no encontro de arranque da nona jornada.",
+      "source": "RTP",
+      "date": "Fri, 23 Oct 2026 12:13:58 +0100",
+      "url": "https://www.rtp.pt/noticias/1a-liga/i-liga-jornada-abre-em-guimaraes_d1773707",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/69/697925ee72b4b70df3b15ba54a2a2664?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.76
     },
     {
-      "id": "c4d18c5d",
-      "cat": "economia",
-      "title": "Quebra na procura e maiores custos de energia voltam a travar lucros da Navigator",
-      "summary": "O resultado líquido da Navigator baixou 44,8% para 65,4 milhões de euros nos primeiros nove meses do ano, segundo adiantou a empresa em comunicado enviado à Comissão do Mercado de Valores Mobiliários (CMVM). &#8220;Estes resultados refletiram um contexto macroeconómico e de mercado extremamente exig",
-      "source": "ECO",
-      "date": "Thu, 22 Oct 2026 19:38:34 +0000",
-      "url": "https://eco.sapo.pt/2026/10/22/quebra-na-procura-e-maiores-custos-de-energia-voltam-a-travar-lucros-da-navigator/",
-      "img": "https://eco.imgix.net/uploads/2022/05/cropped-navigator_pessoas-2.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "de5d3d6f",
+      "id": "696dd1fa",
       "cat": "tecnologia",
-      "title": "Carris e STCP anunciam intercâmbio de trabalhadores e acordo para investimentos",
-      "summary": "A Carris e a STCP vão avançar com programas de intercâmbio de trabalhadores para partilhar conhecimento e desenvolver soluções para os desafios da mobilidade urbana, ao abrigo de um protocolo de uma cooperação estratégica que é assinado sexta-feira, em Lisboa. E que prevê igualmente a apresentação c",
+      "title": "Portugal consegue escalar? Cinco desafios para a próxima década",
+      "summary": "Nos últimos dez anos, Portugal demonstrou uma capacidade notável para atrair investimento, criar novos polos de inovação, afirmar-se como destino para talento internacional e modernizar setores tradicionais da economia. Mas a pergunta que deverá marcar a próxima década não é se Portugal consegue cre",
       "source": "ECO",
-      "date": "Thu, 22 Oct 2026 18:36:58 +0000",
-      "url": "https://eco.sapo.pt/2026/10/22/carris-e-stcp-anunciam-intercambio-de-trabalhadores-e-acordo-para-investimentos/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-stcp.jpg",
+      "date": "Fri, 23 Oct 2026 10:27:02 +0000",
+      "url": "https://eco.sapo.pt/opiniao/portugal-consegue-escalar-cinco-desafios-para-a-proxima-decada/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2021/07/miguel-farinha_opiniao_1200x628.png",
       "score": 0.76
     },
     {
-      "id": "cf32d0fb",
-      "cat": "ambiente",
-      "title": "Samoan Island Witnesses Explosion of Native Wildlife Following Removal of Invasive Rats and Pigs",
-      "summary": "Just one year after ecological restoration efforts on Samoa, forests, wildlife, and food resources are showing remarkable signs of recovery. Nu&#8217;utele Island is considered a Key Biodiversity Area for Samoa, and is home to one of the country&#8217;s most pristine native forests teeming (usually)",
-      "source": "Good News Network",
-      "date": "Thu, 22 Oct 2026 11:00:10 +0000",
-      "url": "https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Credit-Island-Conservation-Cozette-Romero.jpg",
+      "id": "e142e37e",
+      "cat": "ciencia",
+      "title": "Dental implants can hijack your immune system, scientists discover",
+      "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate jaw",
+      "source": "ScienceDaily",
+      "date": "Fri, 23 Oct 2026 07:12:28 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+      "img": "https://www.sciencedaily.com/images/1920/dental-implant.webp",
       "score": 0.76
     },
     {
@@ -135,69 +157,80 @@
       "score": 0.76
     },
     {
-      "id": "d4afa042",
-      "cat": "tecnologia",
-      "title": "Birds are more afraid of women than men. Scientists have no idea why",
-      "summary": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, raising intriguing questions about how birds recognize and re",
-      "source": "ScienceDaily",
-      "date": "Thu, 22 Oct 2026 08:06:14 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
-      "img": "https://www.sciencedaily.com/images/1920/smiling-man-feeding-pigeons-in-front-of-historic-cathedral.webp",
-      "score": 0.76
+      "id": "e14780a7",
+      "cat": "ciencia",
+      "title": "A história dos elefantes que Leopoldo II mandou vir da Índia para explorar África",
+      "summary": "No livro Escola de Treino para Elefantes , Sophy Roberts cruza investigação jornalística, reportagem e narrativa de viagem.",
+      "source": "Público",
+      "date": "Fri, 23 Oct 2026 10:33:00 GMT",
+      "url": "https://www.publico.pt/2026/10/23/culturaipsilon/noticia/historia-elefantes-leopoldo-ii-mandou-india-explorar-africa-2191920",
+      "img": null,
+      "score": 0.73
     },
     {
-      "id": "4d957cc0",
-      "cat": "tecnologia",
-      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
-      "summary": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
-      "source": "ScienceDaily",
-      "date": "Thu, 22 Oct 2026 07:03:49 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
-      "img": "https://www.sciencedaily.com/images/1920/nasa-curiosity-rover-stunning-martian-dawn.webp",
-      "score": 0.76
-    },
-    {
-      "id": "06d633aa",
+      "id": "82e3bfda",
       "cat": "saude",
-      "title": "O salário que não cabe no cartaz",
-      "summary": "Como pode quem recebe um salário português disputar uma casa num mercado onde existe procura com rendimentos muito superiores? E como se altera essa realidade sem mudar a capacidade de gerar valor? Opinião de Ramiro Brito",
+      "title": "Farmacêuticas terão de assegurar tratamento gratuito após ensaios",
+      "summary": "As farmacêuticas serão obrigadas a dispensar gratuitamente tratamentos a doentes pós-ensaio clínico, até os fármacos chegarem ao mercado e ao Serviço Nacional de Saúde.",
       "source": "Público",
-      "date": "Thu, 22 Oct 2026 23:15:00 GMT",
-      "url": "https://www.publico.pt/2026/10/23/opiniao/opiniao/salario-nao-cabe-cartaz-2192247",
+      "date": "Fri, 23 Oct 2026 10:32:13 GMT",
+      "url": "https://www.publico.pt/2026/10/23/sociedade/noticia/farmaceuticas-terao-assegurar-tratamento-gratuito-apos-ensaios-2192368",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "a95ad948",
-      "cat": "tecnologia",
-      "title": "Da relativa inércia e resistência passiva à ação coletiva pelo direito à habitação?",
-      "summary": "Como explicar a discrepância entre as reais condições de vida e de habitação inacessível e a ausência de ações coletivas que reivindiquem o direito à habitação como primeiro e básico direito? Opinião de Manuel Carlos Silva",
+      "id": "9022225d",
+      "cat": "geral",
+      "title": "Pintura de Monet vendida por 50 milhões estabelece recorde num leilão em França",
+      "summary": "Pertence ao período tardio do impressionista e foi comprada por um coleccionador asiático. É pouco conhecida, mas isso não impediu que fosse intensamente disputada e atingisse um valor impressionante.",
       "source": "Público",
-      "date": "Thu, 22 Oct 2026 23:10:00 GMT",
-      "url": "https://www.publico.pt/2026/10/23/opiniao/opiniao/relativa-inercia-resistencia-passiva-acao-coletiva-direito-habitacao-2192289",
+      "date": "Fri, 23 Oct 2026 10:02:50 GMT",
+      "url": "https://www.publico.pt/2026/10/23/culturaipsilon/noticia/pintura-monet-vendida-50-milhoes-estabelece-recorde-leilao-franca-2192357",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "b321590a",
+      "id": "dca71b09",
       "cat": "tecnologia",
-      "title": "2h. Moedas alerta que manifestantes têm de respeitar a lei",
-      "summary": "O presidente da Câmara de Lisboa manifesta \"solidariedade total\" com as pessoas que têm ido à praça do Rossio. Ainda, Ventura gastou quase 4 mil milhões de euros na campanha para as presidenciais.",
+      "title": "A cibersegurança e o risco digital nas empresas",
+      "summary": "Lino Santos e Duarte Pupo Correia debatem debatem os riscos cibernéticos em Portugal e explicam como a cibersegurança é um investimento estratégico para as empresas.",
       "source": "Observador",
-      "date": "Fri, 23 Oct 2026 02:13:24 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2449/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Fri, 23 Oct 2026 10:33:35 +0100",
+      "url": "https://observador.pt/programas/empresas-em-transformacao/a-ciberseguranca-e-o-risco-digital-nas-empresas-2/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1541:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/28114219/eet-novobanco-1540-1.png",
       "score": 0.73
     },
     {
-      "id": "1a82552c",
-      "cat": "tecnologia",
-      "title": "Um ruidoso silêncio",
-      "summary": "O primeiro-ministro já leu a rua, sabe que ela será o seu maior opositor político e o rastilho capaz de beneficiar o partido que mais o desafia e afronta, o Chega.",
+      "id": "c1e5cef8",
+      "cat": "economia",
+      "title": "Queda nos lucros leva Oddo BHF a cortar recomendação da Navigator",
+      "summary": "A casa de investimento francesa também decidiu reduzir o \"target\" da papeleira em 70 cêntimos, depois de a Navigator ter apresentado as contas do terceiro trimestre ao mercado.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 22 Oct 2026 23:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/um-ruidoso-silencio",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
+      "date": "Fri, 23 Oct 2026 12:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/queda-nos-lucros-leva-oddo-bhf-a-cortar-recomendacao-da-navigator",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-02/img_100x100uu2024-02-20-20-04-14-471012.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "fa144246",
+      "cat": "tecnologia",
+      "title": "Preços das casas sobem 18,4%. Transações voltam a cair",
+      "summary": "Os preços das casas continuam a subir, mas o ritmo de crescimento voltou a abrandar face ao registado no trimestre anterior. Número de imóveis transacionados encolheu em 9%.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 23 Oct 2026 11:46:12 +0100",
+      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/precos-das-casas-sobem-18-4-transacoes-voltam-a-cair",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-01/img_100x100uu2023-01-11-19-59-13-444037.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "42eec98c",
+      "cat": "tecnologia",
+      "title": "“Não basta termos um pequeno excedente, tem de haver visão global”, diz Máximo dos Santos",
+      "summary": "Contas certas são fundamentais, mas o país não pode descurar políticas públicas eficazes nas várias áreas, alerta o vice-governador do Banco de Portugal.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 23 Oct 2026 11:30:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/nao-basta-termos-um-pequeno-excedente-tem-de-haver-visao-global-diz-maximo-dos-santos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-22-22-27-01-531637.jpg",
       "score": 0.73
     },
     {
@@ -212,6 +245,17 @@
       "score": 0.73
     },
     {
+      "id": "8cbd493e",
+      "cat": "tecnologia",
+      "title": "Liga Europa. Benfica goleia Omonia e assume a liderança",
+      "summary": "O Benfica assumiu a liderança da Liga Europa ao somar a terceira vitória na prova, após goleada por 4-1 frente ao Omonia de Chipre.&lt;br /&gt;",
+      "source": "RTP",
+      "date": "Fri, 23 Oct 2026 08:15:47 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/liga-europa-benfica-goleia-omonia-e-assume-a-lideranca_v1773655",
+      "img": "https://cdn-images.rtp.pt/icm/images/db/db62b5636927c1d5dfb47a2371069adc_N.jpg?",
+      "score": 0.73
+    },
+    {
       "id": "e367d1d1",
       "cat": "tecnologia",
       "title": "Benfica goleia no Chipre e lidera a Liga Europa",
@@ -223,36 +267,25 @@
       "score": 0.73
     },
     {
-      "id": "93a7b76c",
-      "cat": "desporto",
-      "title": "Messi espera ser recordado como “um grande desportista”",
-      "summary": "O futebolista argentino Lionel Messi, na véspera de receber o Prémio Princesa das Astúrias do Desporto de 2026, assegurou hoje que gostava de ser recordado como “um grande desportista”.",
-      "source": "RTP",
-      "date": "Thu, 22 Oct 2026 16:58:38 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/messi-espera-ser-recordado-como-um-grande-desportista_d1773544",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/78/78f35b93f7ef8533349aa2d57aaaad44?w=350&amp;q=50&amp;rect=0,38,1233,676&amp;auto=format",
+      "id": "c7cc1798",
+      "cat": "economia",
+      "title": "Endividamento da economia sobe em agosto para 892,8 mil milhões de euros",
+      "summary": "O endividamento do conjunto da economia &#8212; famílias, empresas (excluindo bancos) e administrações públicas &#8212; voltou a subir em agosto. Deu um salto de 3,6 mil milhões de euros naquele mês, atingindo os 892,8 mil milhões de euros. Depois de ter atingindo o valor recorde em junho, nos 894 m",
+      "source": "ECO",
+      "date": "Fri, 23 Oct 2026 10:45:27 +0000",
+      "url": "https://eco.sapo.pt/2026/10/23/endividamento-da-economia-sobe-em-agosto-para-8928-mil-milhoes-de-euros/",
+      "img": "https://eco.imgix.net/uploads/2026/04/cropped-doc2013080916507032mac6.jpg",
       "score": 0.73
     },
     {
-      "id": "a8a6a7ed",
+      "id": "ab622ab8",
       "cat": "tecnologia",
-      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
-      "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
-      "source": "BBC News",
-      "date": "Thu, 22 Oct 2026 21:21:22 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda7/live/20760850-ce5e-11f1-a166-e30097724580.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a8b10603",
-      "cat": "tecnologia",
-      "title": "Damaging hail pelts Phoenix in rare storm",
-      "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
-      "source": "BBC News",
-      "date": "Thu, 22 Oct 2026 15:11:49 GMT",
-      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f3/live/e6483970-ce29-11f1-bc2e-018d645d8d21.jpg",
+      "title": "How ‘Artivism’ Is Driving the Resistance in Paris",
+      "summary": "Suddenly Darth Vader climbs up onto a chair in front of the Hôtel de Ville in Paris. Clad in all black, he swings his sword like a conductor’s baton while 200 musicians and volunteers, most in their early twenties, get ready. They unpack their instruments: violins, cellos, clarinets. Then the... The",
+      "source": "Reasons to be Cheerful",
+      "date": "Fri, 23 Oct 2026 08:00:26 +0000",
+      "url": "https://reasonstobecheerful.world/paris-student-protests-orchestra-artistic-expression/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/DSC09137-scaled.jpg",
       "score": 0.73
     },
     {
@@ -267,47 +300,25 @@
       "score": 0.73
     },
     {
-      "id": "d1f71436",
+      "id": "da94e6ba",
       "cat": "tecnologia",
-      "title": "A direita e os protestos sobre a habitação",
-      "summary": "Para ter a opinião pública do seu lado, o Governo português, assim como a direita que o apoia, tem de perceber antes de mais que não basta saber lidar com os protestos. Opinião de Francisco Mendes da Silva",
-      "source": "Público",
-      "date": "Thu, 22 Oct 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/10/23/opiniao/opiniao/direita-protestos-habitacao-2192331",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "2efeb29a",
-      "cat": "tecnologia",
-      "title": "3h. Ventura gastou quase 4 mil milhões nas presidenciais",
-      "summary": "O presidente do Chega recebeu apenas 760 euros em donativos de particulares e gastou mais em cartazes. Ainda, Israel não vai atacar o Irão antes das eleições do pais, marcadas para terça-feira.",
+      "title": "\"Aceito não ter sido feliz\", diz presidente do IHRU",
+      "summary": "\"Não se pode exigir aos jovens de hoje os sacrifícios de outrora\", diz Benjamim Pereira, um dia após sugerir que jovens não estão disponíveis para o mesmo “nível de sacrifício” de gerações anteriores.",
       "source": "Observador",
-      "date": "Fri, 23 Oct 2026 03:12:47 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2475/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Fri, 23 Oct 2026 11:21:11 +0100",
+      "url": "https://observador.pt/2026/10/23/aceito-nao-ter-sido-feliz-em-todas-as-expressoes-que-utilizei-diz-presidente-do-ihru-apos-polemica/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23105853/doc2024082843466215jc-1217-scaled.jpg",
       "score": 0.7
     },
     {
-      "id": "cafc07a8",
+      "id": "d20cbea5",
       "cat": "tecnologia",
-      "title": "1h. Pinto Luz lamenta declarações do presidente do IHRU",
-      "summary": "Pinto Luz critica Benjamim Pereira por ter sugerido que os jovens não têm o mesmo espírito de sacrifício das gerações anteriores. Ainda, o Benfica venceu no Chipre por 4-1 para a Liga Europa.",
+      "title": "RCZ Vision mostra para onde a Peugeot quer levar os seus EV",
+      "summary": "A Peugeot mostrou o coupé RCZ eléctrico, que revela tudo o que a marca pretende lançar no mercado num futuro próximo. O protótipo exibe uma nova linguagem estilística e anuncia carga muito rápida.",
       "source": "Observador",
-      "date": "Fri, 23 Oct 2026 01:14:58 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2423/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "6c9e598b",
-      "cat": "sociedade",
-      "title": "Declarações de presidente do IHRU são \"absolutamente infelizes\", diz Pinto Luz",
-      "summary": "O ministro da Habitação, que tutela o instituto, condenou as afirmações de Benjamim Pereira, que questionou o \"nível de sacrifíco\" da sociedade atual, lembrando o tempo em que as pessoas tinham de emigrar para conseguir uma casa. \"O que queremos é que os jovens fiquem em Portugal\", disse Pinto Luz.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 23 Oct 2026 00:12:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/declaracoes-de-presidente-do-ihru-sao-absolutamente-infelizes-diz-pinto-luz",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-18-21-34-00-531327.jpg",
+      "date": "Fri, 23 Oct 2026 11:14:48 +0100",
+      "url": "https://observador.pt/2026/10/23/rcz-vision-mostra-para-onde-a-peugeot-quer-levar-os-seus-electricos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1956:1097:nowe:241:180/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23080203/peugeot-vision-rcz-concept-1-scaled-1.webp",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
