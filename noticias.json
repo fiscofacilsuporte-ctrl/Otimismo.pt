@@ -1,5 +1,5 @@
 {
-  "last_update": "23/10/2026 16:53 UTC",
+  "last_update": "23/10/2026 21:18 UTC",
   "total": 30,
   "news": [
     {
@@ -45,6 +45,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
       "img": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp",
       "score": 0.82
+    },
+    {
+      "id": "bd47a041",
+      "cat": "tecnologia",
+      "title": "Votação online dá vitória a Cristiano Ronaldo, mas não vale Bola de Ouro",
+      "summary": "A organização da Bola de Ouro iniciou uma votação nas redes sociais para distinguir o &quot;Ballon d&#039;Or of All Time&quot;, na qual Cristiano Ronaldo segue destacado. Apesar da confusão entre os adeptos, a eleição é apenas simbólica e não valerá um novo galardão ao internacional português.",
+      "source": "RTP",
+      "date": "Fri, 23 Oct 2026 20:59:25 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/votacao-online-da-vitoria-a-cristiano-ronaldo-mas-nao-vale-bola-de-ouro_d1773878",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/32/328151251f7300d0f384e9110fbdffb9?w=350&amp;q=50&amp;rect=0,81,1920,1053&amp;auto=format",
+      "score": 0.79
     },
     {
       "id": "a337032e",
@@ -113,25 +124,36 @@
       "score": 0.79
     },
     {
-      "id": "09f2cf6a",
-      "cat": "saude",
-      "title": "Ministro garante que vírus Shamonda não é motivo de alarme",
-      "summary": "Bovinos infetados em vários concelhos portugueses. Ministro admite investigação à escala da UE para vacinas, mas não se compromete a comparticipação nas análises aos animais.",
-      "source": "Observador",
-      "date": "Fri, 23 Oct 2026 16:47:12 +0100",
-      "url": "https://observador.pt/2026/10/23/ministro-da-agricultura-garante-que-virus-shamonda-nao-e-motivo-de-alarme-e-pede-vacinas-a-escala-europeia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:207/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/24165222/46647100.jpg",
+      "id": "67f10f40",
+      "cat": "tecnologia",
+      "title": "Vitória de Guimarães - Marítimo",
+      "summary": "O Vitória de Guimarães e o Marítimo procuram interromper longas séries sem triunfos na I Liga portuguesa de futebol, defrontando-se no Minho no encontro de arranque da nona jornada.",
+      "source": "RTP",
+      "date": "Fri, 23 Oct 2026 20:51:31 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-maritimo_e1773863",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/99/99089aba58a7ef5cfe5470ed612a3485?w=350&amp;q=50&amp;rect=0,144,1232,675&amp;auto=format",
       "score": 0.76
     },
     {
-      "id": "c08a1d9c",
-      "cat": "tecnologia",
-      "title": "Recuperação histórica dos Philadelphia 76ers sobre os Cleveland Cavaliers",
-      "summary": "Os Philadelphia 76ers recuperaram na quinta-feira de uma desvantagem de 29 pontos e venceram os Cleveland Cavaliers, por 114-106, na NBA, num registo histórico para a equipa e para Lebron James.",
+      "id": "00746497",
+      "cat": "desporto",
+      "title": "Surfista norte-americano Griffin Colapinto conquista Peniche pela terceira vez",
+      "summary": "O norte-americano Griffin Colapinto venceu esta sexta-feira o brasileiro Gabriel Medina na final da prova de elite do surf em Peniche, repetindo os triunfos de 2022 e 2024 e tornando-se o primeiro a ganhar três vezes em Portugal.",
       "source": "RTP",
-      "date": "Fri, 23 Oct 2026 14:43:20 +0100",
-      "url": "https://www.rtp.pt/noticias/basquetebol/recuperacao-historica-dos-philadelphia-76ers-sobre-os-cleveland-cavaliers_d1773775",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/06/06bfd04a4a90da7ab6fac56e41da0d1e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Fri, 23 Oct 2026 19:00:03 +0100",
+      "url": "https://www.rtp.pt/noticias/surf/surfista-norte-americano-griffin-colapinto-conquista-peniche-pela-terceira-vez_d1773856",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/45/453de3ff0f0a7b181d37f24c7c944660?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "2d662e29",
+      "cat": "tecnologia",
+      "title": "Esta é a chave do Euromilhões. Jackpot é de 71 milhões de euros",
+      "summary": "Com um primeiro prémio no valor de 71 milhões de euros, decorreu esta sexta-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta sexta-feira, dia 23 de outubro. Números: 24, ",
+      "source": "ECO",
+      "date": "Fri, 23 Oct 2026 19:27:34 +0000",
+      "url": "https://eco.sapo.pt/2026/10/23/esta-e-a-chave-do-euromilhoes-jackpot-e-de-71-milhoes-de-euros-2/",
+      "img": "https://eco.imgix.net/uploads/2020/05/cropped-pndr1637-2.jpg",
       "score": 0.76
     },
     {
@@ -157,25 +179,58 @@
       "score": 0.76
     },
     {
-      "id": "b084f2c2",
+      "id": "edc6907d",
       "cat": "tecnologia",
-      "title": "Quando os jovens saem à rua, o que é que nós ouvimos?",
-      "summary": "Jovens saem à rua por causa da habitação, como antes saíram por outras razões. Serão apenas casas ou um sinal de algo mais fundo? Falamos de esperança, de pais que se calam e de um futuro que se adia",
-      "source": "Observador",
-      "date": "Fri, 23 Oct 2026 17:00:22 +0100",
-      "url": "https://observador.pt/programas/porque-sim-nao-e-resposta/quando-os-jovens-saem-a-rua-o-que-e-que-nos-ouvimos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13150413/770-podcastporque-sim-nao-e-resposta.jpg",
+      "title": "Menzies assegura vitória nos aeroportos de Lisboa, Porto e Faro",
+      "summary": "A Spdh, detida pela Menzies e já sem a TAP como accionista, viu o regulador da aviação atribuir-lhe nova licença para operar nos três aeroportos, depois de uma derrota inicial.",
+      "source": "Público",
+      "date": "Fri, 23 Oct 2026 20:20:49 GMT",
+      "url": "https://www.publico.pt/2026/10/23/economia/noticia/menzies-assegura-vitoria-aeroportos-lisboa-porto-faro-2192487",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "f05666dd",
+      "id": "e4d783dc",
       "cat": "tecnologia",
-      "title": "Poupe para a reforma. Que benefícios fiscais pode aproveitar",
-      "summary": "Depósitos a prazo, PPR e seguros Unit Linked oferecem diferentes vantagens fiscais. Conheça as diferenças para escolher a solução de poupança mais adequada aos seus objetivos.",
+      "title": "A IA e a máquina de lavar roupa: O caso das profissões e das cores da desigualdade",
+      "summary": "E se a transformação tecnológica aproximasse aquilo que aprendemos a separar, o trabalho intelectual e o trabalho físico, e ajudasse a desfazer a hierarquia entre quem pensa e quem faz? Opinião de Ana Martinho Fernandes",
+      "source": "Público",
+      "date": "Fri, 23 Oct 2026 19:38:00 GMT",
+      "url": "https://www.publico.pt/2026/10/23/impar/opiniao/ia-maquina-lavar-roupa-caso-profissoes-cores-desigualdade-2191876",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "53668cba",
+      "cat": "tecnologia",
+      "title": "20h. Chega quer ouvir mais de 50 pessoas na CPI a Luís Neves",
+      "summary": "Entre os nomes que o Chega quer ouvir estão o ex-primeiro-ministro António Costa, o antigo chefe de gabinete Vítor Escária e a atual ministra da Justiça, Rita Alarcão Júdice.",
       "source": "Observador",
-      "date": "Fri, 23 Oct 2026 16:32:00 +0100",
-      "url": "https://observador.pt/programas/nao-falo-segures/poupanca-para-a-reforma-que-beneficios-fiscais-pode-aproveitar/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23151858/zurich-a-prova-de-risco-nao-falo-segures-1540x866-1-scaled.jpg",
+      "date": "Fri, 23 Oct 2026 20:13:16 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2072/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "3311a8d7",
+      "cat": "tecnologia",
+      "title": "Após queda em bolsa, Moderna e Merck vão revelar eficácia da sua vacina contra o cancro",
+      "summary": "As farmacêuticas preparam-se para apresentar oficialmente os resultados detalhados do ensaio clínico da muito aguardada vacina contra o melanoma este sábado, em Madrid, depois de terem sido penalizadas em bolsa devido a uma fuga de informação. A Moderna teve pior sessão da sua história na quinta-fei",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 23 Oct 2026 21:47:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/apos-queda-em-bolsa-moderna-e-merck-vao-revelar-eficacia-da-sua-vacina-contra-o-cancro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-19-13-30-19-528467.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "7e440f2e",
+      "cat": "tecnologia",
+      "title": "Ministério Público abre inquérito a intervenção policial no Porto",
+      "summary": "De acordo com a denúncia do Movimento pela Habitação, que está em protesto no Porto, durante a madrugada do dia 15 de outubro houve uma intervenção policial que causou ferimentos em 39 dos participantes.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 23 Oct 2026 18:26:20 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ministerio-publico-abre-inquerito-a-intervencao-policial-no-porto",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-19-09-49-52-531345.jpg",
       "score": 0.73
     },
     {
@@ -190,28 +245,6 @@
       "score": 0.73
     },
     {
-      "id": "a8397378",
-      "cat": "economia",
-      "title": "Redução que falta nas tributações autónomas será aprovada \"em breve\" pelo Governo",
-      "summary": "Ministro das Finanças diz que Governo já cumpriu metade da redução das tributações autónomas acordada com os patrões. Redução remanescente será feita em 2027 e 2028, através de um diploma autónomo que será aprovado em breve pelo Governo e depois dará entrada no Parlamento, à margem do Orçamento do E",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 23 Oct 2026 16:16:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/reducao-que-falta-nas-tributacoes-autonomas-sera-aprovada-em-breve-pelo-governo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-15-12-01-58-526604.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a24a42dc",
-      "cat": "economia",
-      "title": "Ouro recua 1% para mínimos de julho à medida que preço do crude aumenta",
-      "summary": "Acompanhe, ao minuto, a evolução do mercado desta sexta-feira.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 23 Oct 2026 16:03:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/reviravolta-nas-tecnologicas-deixa-asia-dividida-europa-aponta-para-ganhos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-01-07-31-09-524616.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -223,36 +256,25 @@
       "score": 0.73
     },
     {
-      "id": "802b183a",
+      "id": "e2ebc430",
       "cat": "tecnologia",
-      "title": "Líder do PP admite governo espanhol com extrema-direita",
-      "summary": "O presidente do Partido Popular de Espanha (PP, direita) e líder da oposição, Alberto Núñez Feijóo, confirmou esta sexta-feira que formará governo com o Vox, de extrema-direita, se essa aliança permitir tirar os socialistas do poder. &#8220;O meu primeiro objetivo é que Sánchez saia do Governo&#8221",
+      "title": "Moody’s mantém rating de França e acredita que Orçamento para 2027 será aprovado",
+      "summary": "A Moody&#8217;s manteve esta sexta-feira inalterado o rating da dívida soberana francesa em Aa3, com outlook negativo. A agência de notação financeira justifica a decisão com a diversificação da economia e a qualidade das instituições, acreditando que apesar do contexto político e social o Orçamento",
       "source": "ECO",
-      "date": "Fri, 23 Oct 2026 16:46:43 +0000",
-      "url": "https://eco.sapo.pt/2026/10/23/lider-do-pp-admite-governo-espanhol-com-extrema-direita/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47963344-scaled-1.jpg",
+      "date": "Fri, 23 Oct 2026 21:13:18 +0000",
+      "url": "https://eco.sapo.pt/2026/10/23/moodys-mantem-rating-de-franca-e-acredita-que-orcamento-para-2027-sera-aprovado/",
+      "img": "https://eco.imgix.net/uploads/2026/03/cropped-cropped-doc202511114601259812518294-1.jpg",
       "score": 0.73
     },
     {
-      "id": "2d0173d0",
+      "id": "17e7d4b9",
       "cat": "tecnologia",
-      "title": "Ucrânia e Rússia voltam a negociar acordo de paz na primeira metade de novembro",
-      "summary": "O presidente da Ucrânia, Volodymyr Zelensky, afirmou esta sexta-feira que os negociadores de paz da Ucrânia, da Rússia e dos Estados Unidos vão reunir-se ao nível de equipas técnicas na primeira metade de novembro, em Abu Dhabi. Zelensky confirmou que falou com os enviados norte-americanos Jared Kus",
+      "title": "Obra de Monet leiloada por valor recorde em França",
+      "summary": "Seis licitantes disputaram a pintura de Claude Monet durante 45 minutos. O leilão da coleção Schlumberger rendeu 74,4 milhões de euros e todos os lotes foram vendidos. A Sothey’s anunciou que o quadro Iris, de Claude Monet, foi vendido por 50 milhões de euros, o valor mais alto alguma vez alcançado ",
       "source": "ECO",
-      "date": "Fri, 23 Oct 2026 16:34:06 +0000",
-      "url": "https://eco.sapo.pt/2026/10/23/ucrania-e-russia-voltam-a-negociar-acordo-de-paz-na-primeira-metade-de-novembro/",
-      "img": "https://eco.imgix.net/uploads/2025/02/putin_zeles_vf.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "47d5685f",
-      "cat": "tecnologia",
-      "title": "Marquês. Sócrates pede ao tribunal que esclareça contradições sobre Parque Escolar",
-      "summary": "O antigo primeiro-ministro José Sócrates pediu esta sexta-feira ao tribunal que o está a julgar que esclareça eventuais contradições entre o arquivamento do caso Parque Escolar e a acusação do processo Operação Marquês. “Solicito a este tribunal que considere o despacho de arquivamento relativo à Pa",
-      "source": "ECO",
-      "date": "Fri, 23 Oct 2026 16:23:37 +0000",
-      "url": "https://eco.sapo.pt/2026/10/23/marques-socrates-pede-ao-tribunal-que-esclareca-contradicoes-sobre-parque-escolar/",
-      "img": "https://eco.imgix.net/uploads/2025/12/cropped-45325514-1-scaled.jpg",
+      "date": "Fri, 23 Oct 2026 18:59:00 +0000",
+      "url": "https://eco.sapo.pt/2026/10/23/obra-de-monet-leiloada-por-valor-recorde-em-franca/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-transferir-7-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -278,58 +300,36 @@
       "score": 0.73
     },
     {
-      "id": "99de586f",
+      "id": "92003a04",
       "cat": "tecnologia",
-      "title": "Gebalis insiste que cumpriu a lei no despejo de jovem mãe viúva em Marvila",
-      "summary": "“A notícia em causa está assente num erro grosseiro”, diz empresa municipal sobre alegada injustiça, que motiva vigília. Empresa assegura que idoso de 84 anos é que foi “coagido” para sair da casa.",
+      "title": "Sacrifícios e sacrificados",
+      "summary": "Miguel Pinto Luz tem tentado ser o bombeiro de serviço com Montenegro “desaparecido em serviço” e o Presidente da República activo a convocar um Conselho de Estado para debater a habitação. Editorial deHelena Pereira",
       "source": "Público",
-      "date": "Fri, 23 Oct 2026 15:51:12 GMT",
-      "url": "https://www.publico.pt/2026/10/23/local/noticia/gebalis-insiste-cumpriu-lei-despejo-jovem-mae-viuva-marvila-2192430",
+      "date": "Fri, 23 Oct 2026 20:30:06 GMT",
+      "url": "https://www.publico.pt/2026/10/23/opiniao/editorial/sacrificios-sacrificados-2192456",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "562cea56",
-      "cat": "tecnologia",
-      "title": "Cerca de 200 mil portugueses no Luxemburgo foram notificados para abandonar o país? Falso",
-      "summary": "Serviço de estatísticas do grão-ducado do Luxemburgo indica que o número de portugueses no país é de cerca de 88,4 mil. Seria impossível um número superior a esse ser notificado para abandonar o país.",
-      "source": "Público",
-      "date": "Fri, 23 Oct 2026 15:42:13 GMT",
-      "url": "https://www.publico.pt/2026/10/23/mundo/noticia/cerca-200-mil-portugueses-luxemburgo-notificados-abandonar-pais-falso-2192411",
-      "img": null,
+      "id": "75c097a5",
+      "cat": "cultura",
+      "title": "Feijóo não descarta governar com o Vox para afastar Sánchez",
+      "summary": "O líder do PP e da oposição espanhola quer acabar com o Ministério da Igualdade e reabrir debate sobre aborto de menores se vencer as legislativas de novembro.",
+      "source": "Observador",
+      "date": "Fri, 23 Oct 2026 20:22:15 +0100",
+      "url": "https://observador.pt/2026/10/23/pp-pode-governar-com-vox-em-espanha-feijoo-diz-que-nao-descarta-alianca-para-afastar-sanchez-nas-eleicoes-de-novembro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:114/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23172356/47963344.jpg",
       "score": 0.7
     },
     {
-      "id": "3dc5ff97",
-      "cat": "tecnologia",
-      "title": "Com as ruas da Graça cheias de tuk-tuks , junta de São Vicente pede interdição no bairro",
-      "summary": "Problema antigo agravou-se com imposição de restrições noutras ruas da cidade, em Abril de 2025. Moradores dizem que quotidiano se tornou insuportável. Junta quer medidas urgentes da Câmara de Lisboa.",
-      "source": "Público",
-      "date": "Fri, 23 Oct 2026 15:25:26 GMT",
-      "url": "https://www.publico.pt/2026/10/23/local/noticia/ruas-graca-cheias-tuktuks-junta-sao-vicente-pede-interdicao-bairro-2191853",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "id": "3c56de99",
+      "cat": "geral",
+      "title": "PCP quer Luís Neves e diretor da PJ na comissão de inquérito",
+      "summary": "Os comunistas querem chamar quatro pessoas à comissão presidida por André Ventura, incluindo o próprio ministro da Administração Interna e o atual diretor da PJ.",
+      "source": "Observador",
+      "date": "Fri, 23 Oct 2026 20:17:00 +0100",
+      "url": "https://observador.pt/2026/10/23/pcp-quer-ouvir-luis-neves-ex-adjunta-e-atual-diretor-da-pj-na-comissao-de-inquerito/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23180059/47989045.jpg",
       "score": 0.7
     }
   ]
