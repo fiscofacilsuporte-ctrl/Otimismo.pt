@@ -1,5 +1,5 @@
 {
-  "last_update": "22/10/2026 21:26 UTC",
+  "last_update": "23/10/2026 04:25 UTC",
   "total": 30,
   "news": [
     {
@@ -80,6 +80,17 @@
       "score": 0.79
     },
     {
+      "id": "568b5f10",
+      "cat": "tecnologia",
+      "title": "Rússia anuncia aumento da produção de gasolina e gasóleo após acordo com os EUA",
+      "summary": "\"O mercado mostra uma dinâmica positiva tanto para a gasolina como para o gasóleo: a produção aumentou e estão a acumular-se reservas\", indica um comunicado no final de uma reunião presidida pelo primeiro vice-ministro russo, Alexandr Nóvak.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 22 Oct 2026 23:25:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/russia-anuncia-aumento-da-producao-de-gasolina-e-gasoleo-apos-acordo-com-os-eua",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-27-22-58-00-511960.jpg",
+      "score": 0.76
+    },
+    {
       "id": "c4d18c5d",
       "cat": "economia",
       "title": "Quebra na procura e maiores custos de energia voltam a travar lucros da Navigator",
@@ -113,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "9e03bb9c",
+      "cat": "ciencia",
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology. It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose,",
+      "source": "ScienceDaily",
+      "date": "Thu, 22 Oct 2026 21:21:47 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "img": "https://www.sciencedaily.com/images/1920/wearable-spectrometer-chip.webp",
+      "score": 0.76
+    },
+    {
       "id": "d4afa042",
       "cat": "tecnologia",
       "title": "Birds are more afraid of women than men. Scientists have no idea why",
@@ -135,47 +157,47 @@
       "score": 0.76
     },
     {
-      "id": "3d1b806f",
-      "cat": "tecnologia",
-      "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
-      "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The violent collision blasted a towering curtain ",
-      "source": "ScienceDaily",
-      "date": "Wed, 21 Oct 2026 00:08:28 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
-      "img": "https://www.sciencedaily.com/images/1920/asteroid-slamming-into-ocean.webp",
-      "score": 0.76
-    },
-    {
-      "id": "abd97cbf",
-      "cat": "tecnologia",
-      "title": "Mariana Leite Soares mostra-nos como é ouvir a vida quase em absoluto",
-      "summary": "Vencedora da última edição do Prémio Revelação Ageas Teatro Nacional D. Maria II estreia a sua primeira encenação, Absoluto , nesta sexta-feira, no Rivoli; a 30 segue para o Theatro Circo.",
+      "id": "06d633aa",
+      "cat": "saude",
+      "title": "O salário que não cabe no cartaz",
+      "summary": "Como pode quem recebe um salário português disputar uma casa num mercado onde existe procura com rendimentos muito superiores? E como se altera essa realidade sem mudar a capacidade de gerar valor? Opinião de Ramiro Brito",
       "source": "Público",
-      "date": "Thu, 22 Oct 2026 20:22:00 GMT",
-      "url": "https://www.publico.pt/2026/10/22/culturaipsilon/noticia/mariana-leite-soares-mostranos-ouvir-vida-quase-absoluto-2192307",
+      "date": "Thu, 22 Oct 2026 23:15:00 GMT",
+      "url": "https://www.publico.pt/2026/10/23/opiniao/opiniao/salario-nao-cabe-cartaz-2192247",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "6af64f60",
+      "id": "a95ad948",
       "cat": "tecnologia",
-      "title": "Presidenciais: Cotrim com resultado positivo, Mendes é o único com contas negativas",
-      "summary": "Além do eurodeputado liberal, só a candidatura de Gouveia e Melo apresentou um saldo positivo. Exceputado Cotrim, o ex-almirante e Marques Mendes, as outras candidaturas apresentaram saldos nulos.",
+      "title": "Da relativa inércia e resistência passiva à ação coletiva pelo direito à habitação?",
+      "summary": "Como explicar a discrepância entre as reais condições de vida e de habitação inacessível e a ausência de ações coletivas que reivindiquem o direito à habitação como primeiro e básico direito? Opinião de Manuel Carlos Silva",
       "source": "Público",
-      "date": "Thu, 22 Oct 2026 19:50:07 GMT",
-      "url": "https://www.publico.pt/2026/10/22/politica/noticia/presidenciais-cotrim-resultado-positivo-mendes-unico-contas-negativas-2192340",
+      "date": "Thu, 22 Oct 2026 23:10:00 GMT",
+      "url": "https://www.publico.pt/2026/10/23/opiniao/opiniao/relativa-inercia-resistencia-passiva-acao-coletiva-direito-habitacao-2192289",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "7bc24e15",
+      "id": "b321590a",
       "cat": "tecnologia",
-      "title": "Prémio de risco em França sobe para níveis de 2011. Valor aproximou-se dos 180 pontos",
-      "summary": "O \"spread\" entre os juros a 10 anos de França e da Alemanha tocou nos 178 pontos-base, nível que não era visto desde finais de 2011. O juro francês chegou ainda a superar o italiano em 50 pontos, o que é inédito.",
+      "title": "2h. Moedas alerta que manifestantes têm de respeitar a lei",
+      "summary": "O presidente da Câmara de Lisboa manifesta \"solidariedade total\" com as pessoas que têm ido à praça do Rossio. Ainda, Ventura gastou quase 4 mil milhões de euros na campanha para as presidenciais.",
+      "source": "Observador",
+      "date": "Fri, 23 Oct 2026 02:13:24 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2449/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "1a82552c",
+      "cat": "tecnologia",
+      "title": "Um ruidoso silêncio",
+      "summary": "O primeiro-ministro já leu a rua, sabe que ela será o seu maior opositor político e o rastilho capaz de beneficiar o partido que mais o desafia e afronta, o Chega.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 22 Oct 2026 19:03:14 +0100",
-      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/premio-de-risco-em-franca-sobe-para-niveis-de-2011-valor-aproximou-se-dos-180-pontos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-04-18-21-17-508679.jpg",
+      "date": "Thu, 22 Oct 2026 23:00:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/um-ruidoso-silencio",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
       "score": 0.73
     },
     {
@@ -245,69 +267,47 @@
       "score": 0.73
     },
     {
-      "id": "d15b05e7",
+      "id": "d1f71436",
       "cat": "tecnologia",
-      "title": "DGS confirma cinco casos de sarampo em Lisboa e Vale do Tejo desde 6 de Outubro, num total de 15 este ano",
-      "summary": "Em causa três adultos, uma criança e um bebé, sendo três casos importados, sem relação entre si, e que correspondem a pessoas que viajaram recentemente para um país com elevada incidência de sarampo.",
+      "title": "A direita e os protestos sobre a habitação",
+      "summary": "Para ter a opinião pública do seu lado, o Governo português, assim como a direita que o apoia, tem de perceber antes de mais que não basta saber lidar com os protestos. Opinião de Francisco Mendes da Silva",
       "source": "Público",
-      "date": "Thu, 22 Oct 2026 20:19:20 GMT",
-      "url": "https://www.publico.pt/2026/10/22/sociedade/noticia/dgs-confirma-cinco-casos-sarampo-lisboa-vale-tejo-desde-6-outubro-total-15-ano-2192341",
+      "date": "Thu, 22 Oct 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/10/23/opiniao/opiniao/direita-protestos-habitacao-2192331",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "2b616aa4",
+      "id": "2efeb29a",
       "cat": "tecnologia",
-      "title": "Exército poderá investir 82 milhões em carros de combate",
-      "summary": "Conselho de Ministros aprovou ainda reforço de 2,4 milhões para combustíveis da Marinha e criou a carreira de Técnico de Salvamento Marítimo.",
+      "title": "3h. Ventura gastou quase 4 mil milhões nas presidenciais",
+      "summary": "O presidente do Chega recebeu apenas 760 euros em donativos de particulares e gastou mais em cartazes. Ainda, Israel não vai atacar o Irão antes das eleições do pais, marcadas para terça-feira.",
       "source": "Observador",
-      "date": "Thu, 22 Oct 2026 21:42:40 +0100",
-      "url": "https://observador.pt/2026/10/22/governo-autoriza-exercito-a-gastar-82-milhoes-para-modernizar-carros-de-combate-leopard/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/05/20072820/25083287-scaled_770x433_acf_cropped.jpg",
+      "date": "Fri, 23 Oct 2026 03:12:47 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2475/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "494fbf97",
+      "id": "cafc07a8",
       "cat": "tecnologia",
-      "title": "Morreu o ator Tom Skerritt. Tinha 93 anos",
-      "summary": "Ator norte-americano morreu de causas naturais. Venceu um Emmy em 1993, pelo seu papel enquanto xerife Jimmy Brock, na série Picket Fences.",
+      "title": "1h. Pinto Luz lamenta declarações do presidente do IHRU",
+      "summary": "Pinto Luz critica Benjamim Pereira por ter sugerido que os jovens não têm o mesmo espírito de sacrifício das gerações anteriores. Ainda, o Benfica venceu no Chipre por 4-1 para a Liga Europa.",
       "source": "Observador",
-      "date": "Thu, 22 Oct 2026 21:41:14 +0100",
-      "url": "https://observador.pt/2026/10/22/morreu-o-ator-tom-skerritt-conhecido-pelas-participacoes-em-alien-e-top-gun-tinha-93-anos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1687:nowe:0:156/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22212758/gettyimages-458495940.jpg",
+      "date": "Fri, 23 Oct 2026 01:14:58 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2423/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "754eecde",
-      "cat": "geral",
-      "title": "Morreu Jorge Neto, antigo deputado do PSD",
-      "summary": "O advogado foi vice-presidente do Grupo Parlamentar do PSD e secretário de Estado da Defesa. O PSD manifesta, em comunicado, \"profunda consternação pelo falecimento\".",
-      "source": "Observador",
-      "date": "Thu, 22 Oct 2026 21:38:15 +0100",
-      "url": "https://observador.pt/2026/10/22/morreu-antigo-deputado-jorge-neto-psd-recorda-homem-de-cultura-e-inteligencia-notaveis/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:99/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/22211044/captura-de-ecra-2026-10-22-as-211025.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "9212c553",
-      "cat": "tecnologia",
-      "title": "A próxima etapa da mobilidade elétrica pede pragmatismo",
-      "summary": "O desafio dos próximos anos será diferente. Não se trata apenas de construir um mercado mais aberto, mas de garantir que essa abertura não destrói as vantagens que levaram anos a construir.",
+      "id": "6c9e598b",
+      "cat": "sociedade",
+      "title": "Declarações de presidente do IHRU são \"absolutamente infelizes\", diz Pinto Luz",
+      "summary": "O ministro da Habitação, que tutela o instituto, condenou as afirmações de Benjamim Pereira, que questionou o \"nível de sacrifíco\" da sociedade atual, lembrando o tempo em que as pessoas tinham de emigrar para conseguir uma casa. \"O que queremos é que os jovens fiquem em Portugal\", disse Pinto Luz.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 22 Oct 2026 22:00:51 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-proxima-etapa-da-mobilidade-eletrica-pede-pragmatismo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-01/img_394x514uu2024-01-02-15-43-38-467417.png",
-      "score": 0.7
-    },
-    {
-      "id": "de6ab733",
-      "cat": "tecnologia",
-      "title": "Perguntem ao André. E ao José Luís",
-      "summary": "Demonizar senhorios é o caminho mais curto para retirar casas do mercado. Proibir despejos só serve para acentuar a desconfiança de quem tem imóveis para arrendar.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 22 Oct 2026 21:30:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/perguntem-ao-andre-e-ao-jose-luis",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-16-00-296266.png",
+      "date": "Fri, 23 Oct 2026 00:12:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/declaracoes-de-presidente-do-ihru-sao-absolutamente-infelizes-diz-pinto-luz",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-18-21-34-00-531327.jpg",
       "score": 0.7
     },
     {
