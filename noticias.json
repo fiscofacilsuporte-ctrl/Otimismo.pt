@@ -1,5 +1,5 @@
 {
-  "last_update": "23/10/2026 21:18 UTC",
+  "last_update": "24/10/2026 04:16 UTC",
   "total": 30,
   "news": [
     {
@@ -124,17 +124,6 @@
       "score": 0.79
     },
     {
-      "id": "67f10f40",
-      "cat": "tecnologia",
-      "title": "Vitória de Guimarães - Marítimo",
-      "summary": "O Vitória de Guimarães e o Marítimo procuram interromper longas séries sem triunfos na I Liga portuguesa de futebol, defrontando-se no Minho no encontro de arranque da nona jornada.",
-      "source": "RTP",
-      "date": "Fri, 23 Oct 2026 20:51:31 +0100",
-      "url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-maritimo_e1773863",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/99/99089aba58a7ef5cfe5470ed612a3485?w=350&amp;q=50&amp;rect=0,144,1232,675&amp;auto=format",
-      "score": 0.76
-    },
-    {
       "id": "00746497",
       "cat": "desporto",
       "title": "Surfista norte-americano Griffin Colapinto conquista Peniche pela terceira vez",
@@ -179,36 +168,25 @@
       "score": 0.76
     },
     {
-      "id": "edc6907d",
+      "id": "e8a4b800",
       "cat": "tecnologia",
-      "title": "Menzies assegura vitória nos aeroportos de Lisboa, Porto e Faro",
-      "summary": "A Spdh, detida pela Menzies e já sem a TAP como accionista, viu o regulador da aviação atribuir-lhe nova licença para operar nos três aeroportos, depois de uma derrota inicial.",
+      "title": "Manifestantes da acampada de Lisboa decidem voltar a acampar no sábado no Rossio",
+      "summary": "A assembleia popular, com cerca de uma centena de pessoas, aprovou ainda novas reivindicações, como a dissolução da Gebalis e a canalização de dinheiro da Defesa para habitação pública em 2027.",
       "source": "Público",
-      "date": "Fri, 23 Oct 2026 20:20:49 GMT",
-      "url": "https://www.publico.pt/2026/10/23/economia/noticia/menzies-assegura-vitoria-aeroportos-lisboa-porto-faro-2192487",
+      "date": "Fri, 23 Oct 2026 23:17:59 GMT",
+      "url": "https://www.publico.pt/2026/10/24/sociedade/noticia/manifestantes-acampada-lisboa-decidem-voltar-acampar-sabado-rossio-2192493",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "e4d783dc",
+      "id": "693733c2",
       "cat": "tecnologia",
-      "title": "A IA e a máquina de lavar roupa: O caso das profissões e das cores da desigualdade",
-      "summary": "E se a transformação tecnológica aproximasse aquilo que aprendemos a separar, o trabalho intelectual e o trabalho físico, e ajudasse a desfazer a hierarquia entre quem pensa e quem faz? Opinião de Ana Martinho Fernandes",
-      "source": "Público",
-      "date": "Fri, 23 Oct 2026 19:38:00 GMT",
-      "url": "https://www.publico.pt/2026/10/23/impar/opiniao/ia-maquina-lavar-roupa-caso-profissoes-cores-desigualdade-2191876",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "53668cba",
-      "cat": "tecnologia",
-      "title": "20h. Chega quer ouvir mais de 50 pessoas na CPI a Luís Neves",
-      "summary": "Entre os nomes que o Chega quer ouvir estão o ex-primeiro-ministro António Costa, o antigo chefe de gabinete Vítor Escária e a atual ministra da Justiça, Rita Alarcão Júdice.",
-      "source": "Observador",
-      "date": "Fri, 23 Oct 2026 20:13:16 +0100",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2072/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Apesar da instabilidade social e política, Moody's segura rating de França",
+      "summary": "A agência de notação acredita que será aprovado um orçamento para 2027 com medidas para conter o défice e que os juros da dívida vão reduzir-se nos próximos meses, juntamente com o abrandamento dos protestos. Rating mantém-se em Aa3, mas \"outlook\" também continua negativo.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 23 Oct 2026 22:28:00 +0100",
+      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/apesar-da-instabilidade-social-e-politica-moody-s-segura-rating-de-franca",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-23-12-54-41-531672.jpg",
       "score": 0.73
     },
     {
@@ -234,17 +212,6 @@
       "score": 0.73
     },
     {
-      "id": "ee66f2cd",
-      "cat": "tecnologia",
-      "title": "Alentejo apresenta garrafa de vinho mais leve para reduzir custos e emissões",
-      "summary": "A \"Garrafa Leve do Alentejo\" é uma garrafa de vidro de 390 gramas desenvolvida pela Comissão Vitivinícola Regional Alentejana (CRVA) em parceria com a subsidiária portuguesa da vidreira espanhola Verallia e com produtores da região.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 23 Oct 2026 17:26:50 +0100",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/alentejo-apresenta-garrafa-de-vinho-mais-leve-para-reduzir-custos-e-emissoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-10/img_100x100uu2022-10-12-21-09-12-438038.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -253,6 +220,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "3b3a8611",
+      "cat": "tecnologia",
+      "title": "Vitória de Guimarães goleia Marítimo e afasta-se da zona perigosa",
+      "summary": "O Vitória de Guimarães goleou esta sexta-feira o Marítimo por 4-0, no jogo de abertura da nona jornada da I Liga portuguesa de futebol, resultado que deixa os minhotos mais afastados da zona baixa da tabela.",
+      "source": "RTP",
+      "date": "Fri, 23 Oct 2026 20:51:31 +0100",
+      "url": "https://www.rtp.pt/noticias/desporto/vitoria-de-guimaraes-goleia-maritimo-e-afasta-se-da-zona-perigosa_e1773863",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/99/99089aba58a7ef5cfe5470ed612a3485?w=350&amp;q=50&amp;rect=0,144,1232,675&amp;auto=format",
       "score": 0.73
     },
     {
@@ -300,36 +278,58 @@
       "score": 0.73
     },
     {
-      "id": "92003a04",
+      "id": "0c745344",
       "cat": "tecnologia",
-      "title": "Sacrifícios e sacrificados",
-      "summary": "Miguel Pinto Luz tem tentado ser o bombeiro de serviço com Montenegro “desaparecido em serviço” e o Presidente da República activo a convocar um Conselho de Estado para debater a habitação. Editorial deHelena Pereira",
+      "title": "Menezes acusa Nuno Melo de mentir e nega ter sido chamado para reunião sobre terreno",
+      "summary": "Autarca diz que pediu terreno há um ano e Melo bloqueia processo apesar de Montenegro e ministro das Infra-estruturas estarem receptivos. Elogiou ministros do PSD mas deixou duras críticas ao do CDS.",
       "source": "Público",
-      "date": "Fri, 23 Oct 2026 20:30:06 GMT",
-      "url": "https://www.publico.pt/2026/10/23/opiniao/editorial/sacrificios-sacrificados-2192456",
+      "date": "Sat, 24 Oct 2026 00:31:26 GMT",
+      "url": "https://www.publico.pt/2026/10/24/politica/noticia/menezes-acusa-nuno-melo-mentir-nega-chamado-reuniao-terreno-2192491",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "75c097a5",
-      "cat": "cultura",
-      "title": "Feijóo não descarta governar com o Vox para afastar Sánchez",
-      "summary": "O líder do PP e da oposição espanhola quer acabar com o Ministério da Igualdade e reabrir debate sobre aborto de menores se vencer as legislativas de novembro.",
-      "source": "Observador",
-      "date": "Fri, 23 Oct 2026 20:22:15 +0100",
-      "url": "https://observador.pt/2026/10/23/pp-pode-governar-com-vox-em-espanha-feijoo-diz-que-nao-descarta-alianca-para-afastar-sanchez-nas-eleicoes-de-novembro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:114/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23172356/47963344.jpg",
+      "id": "b29f21e7",
+      "cat": "tecnologia",
+      "title": "Um colossal fiasco",
+      "summary": "A habitação é um dos melhores exemplos do cruel falhanço dos serviços públicos portugueses no século XXI. Opinião de António Barreto",
+      "source": "Público",
+      "date": "Fri, 23 Oct 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/10/24/opiniao/opiniao/colossal-fiasco-2192482",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "3c56de99",
-      "cat": "geral",
-      "title": "PCP quer Luís Neves e diretor da PJ na comissão de inquérito",
-      "summary": "Os comunistas querem chamar quatro pessoas à comissão presidida por André Ventura, incluindo o próprio ministro da Administração Interna e o atual diretor da PJ.",
+      "id": "cf314ef9",
+      "cat": "tecnologia",
+      "title": "As notícias das 4h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Fri, 23 Oct 2026 20:17:00 +0100",
-      "url": "https://observador.pt/2026/10/23/pcp-quer-ouvir-luis-neves-ex-adjunta-e-atual-diretor-da-pj-na-comissao-de-inquerito/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23180059/47989045.jpg",
+      "date": "Sat, 24 Oct 2026 04:14:17 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2440/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "c55bffc8",
+      "cat": "tecnologia",
+      "title": "3h. Lula diz que Jair Bolsonaro trouxe fome ao Brasil",
+      "summary": "Este último debate entre Lula da Silva e Flávio Bolsonaro ficou marcado a esta hora pelo tema dos impostos. Ainda, a Acampada do Porto negou contactos reportados pelo presidente da Câmara.",
+      "source": "Observador",
+      "date": "Sat, 24 Oct 2026 03:15:27 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2476/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "f43804a8",
+      "cat": "tecnologia",
+      "title": "2h. Brasil. Flávio acusa governo Lula de \"cemitério\" de obra",
+      "summary": "Arrancou o último debate entre Flávio Bolsonaro e Lula da Silva antes das presidenciais brasileiras. Ainda, o Chega quer ouvir mais de 50 pessoas na CPI aos mandatos de Luís Neves à frente da PJ.",
+      "source": "Observador",
+      "date": "Sat, 24 Oct 2026 02:15:38 +0100",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2450/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     }
   ]
