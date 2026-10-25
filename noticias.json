@@ -1,5 +1,5 @@
 {
-  "last_update": "25/10/2026 15:57 UTC",
+  "last_update": "25/10/2026 20:42 UTC",
   "total": 30,
   "news": [
     {
@@ -80,14 +80,58 @@
       "score": 0.79
     },
     {
-      "id": "defc698a",
-      "cat": "economia",
-      "title": "Lula vs. Flávio Bolsonaro: brasileiros decidem entre mais investimento público e menos Estado",
-      "summary": "O Brasil chega à segunda volta das eleições presidenciais com uma economia de contrastes. O desemprego recuou para 5,4% no segundo trimestre deste ano, o valor mais baixo de sempre para este período, e o Produto Interno Bruto (PIB) cresceu 2,3% em 2025. Mas o dinamismo económico perdeu força: em set",
-      "source": "ECO",
-      "date": "Sun, 25 Oct 2026 07:56:37 +0000",
-      "url": "https://eco.sapo.pt/especiais/lula-vs-flavio-bolsonaro-brasileiros-decidem-entre-mais-investimento-publico-e-menos-estado/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-doc202610194796597913314629.jpg",
+      "id": "e008bea5",
+      "cat": "tecnologia",
+      "title": "Ba, Flávio Gonçalves e Luis Guilherme entram no onze",
+      "summary": "Os leões recebem o Académico de Viseu à procura do regresso às vitórias depois da derrota na Champions. Debast e Zalazar são baixas para Rui Borges. A partida arranca as 20h30 em Alvalade. Siga aqui.",
+      "source": "Observador",
+      "date": "Sun, 25 Oct 2026 19:30:07 +0000",
+      "url": "https://observador.pt/liveblogs/sporting-academico-de-viseu-ba-flavio-goncalves-e-luis-guilherme-entram-no-onze-dos-leoes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/08143621/47804567.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "a79184ab",
+      "cat": "saude",
+      "title": "“Poucos adultos aguentariam o que o nosso filho aguenta”",
+      "summary": "Lucas tem oito anos e uma doença genética rara que torna a pele muito frágil. Os pais procuram dar-lhe uma infância normal, apesar da dor, dos tratamentos diários e dos cuidados até nas brincadeiras.",
+      "source": "Observador",
+      "date": "Sun, 25 Oct 2026 19:05:47 +0000",
+      "url": "https://observador.pt/programas/atualidade/epidermolise-bolhosa-poucos-adultos-aguentariam-o-que-o-nosso-filho-aguenta/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/25181347/capa25out.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "59f3fd35",
+      "cat": "tecnologia",
+      "title": "Juventus regressa às vitórias",
+      "summary": "A Juventus venceu por 2-0 em casa do Lecce, para a oitava jornada da liga italiana, liderada pelo campeão Inter Milão em igualdade pontual com a Lazio.",
+      "source": "RTP",
+      "date": "Sun, 25 Oct 2026 19:53:03 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/juventus-regressa-as-vitorias_d1774261",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a1/a1c6a5823076ecd55c4ce0b1767378c6?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "ade22edc",
+      "cat": "ambiente",
+      "title": "53 Orangutans Rescued from Fires in Borneo, With Many Rewilded to Forest Preserves Across the Island",
+      "summary": "Forest and peatland wildfires continue to burn across the island of Borneo, endangering the air quality for both humans and wildlife—and torching the food supply for critically endangered orangutans. Fortunately, thanks to an 18-year nonprofit that focuses on primate rescue and conservation in Indon",
+      "source": "Good News Network",
+      "date": "Sun, 25 Oct 2026 18:06:02 +0000",
+      "url": "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Dr-Karmele-Llano-Sanchez-rescues-baby-orangutan-Credit-YIARI-BKSDA-and-International-Animal-Rescue-RELEASED.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "69606bdf",
+      "cat": "ciencia",
+      "title": "Flood Worries? Tape Can Block 99% of Water Compared to Expensive Sandbags That Break Your Back",
+      "summary": "Homes at risk of flooding could be better protected in an emergency using widely available and affordable tape rather than traditional sandbags, shows new research from the UK’s University of Hull. Tests conducted at the University’s state-of-the art Property Flood Resilience lab (PFRlab) compared l",
+      "source": "Good News Network",
+      "date": "Sun, 25 Oct 2026 16:05:34 +0000",
+      "url": "https://www.goodnewsnetwork.org/tape-can-block-99-of-water-compared-to-expensive-sandbags/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2023/07/Vermont-Montpelier-Flood-submitted-Credit-to-Bob-Fitch.jpg",
       "score": 0.76
     },
     {
@@ -99,17 +143,6 @@
       "date": "Sun, 25 Oct 2026 13:52:48 +0000",
       "url": "https://www.goodnewsnetwork.org/chance-meeting-in-chinese-restaurant-saved-a-life/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Chinese-Restaurant-by-Don-W-2011-fair-use.jpeg",
-      "score": 0.76
-    },
-    {
-      "id": "b28b3253",
-      "cat": "sociedade",
-      "title": "One Teacher’s Idea for Daily Positivity Practice Sweeps Through His Elementary School",
-      "summary": "A Kansas Elementary School teacher is earning the praise of his community for sending children home full of positive affirmations. &#8220;I am kind!&#8221; &#8220;I can do hard things.&#8221; The cherubic chorus of voices coming out of Tyler Richards&#8217; first-grade classroom seems nice—quaint, e",
-      "source": "Good News Network",
-      "date": "Fri, 23 Oct 2026 15:30:59 +0000",
-      "url": "https://www.goodnewsnetwork.org/one-teachers-idea-for-daily-positivity-practice-sweeps-through-his-elementary-school/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/maxresdefault-6.jpg",
       "score": 0.76
     },
     {
@@ -135,14 +168,47 @@
       "score": 0.76
     },
     {
-      "id": "b56ebb50",
+      "id": "44373f01",
       "cat": "tecnologia",
-      "title": "Netanyahu: voto noutro partido pode levar a \"2º Holocausto\"",
-      "summary": "A dois dias das eleições, o primeiro-ministro israelita dramatiza o discurso e pede para \"concluir a missão\" e evitar que Irão obtenha a arma nuclear. Sondagens dão vantagem ao bloco da oposição.",
+      "title": "Terminal e Virgem Fandango distinguidos pelo Prémio Nacional da Animação",
+      "summary": "Terminal , de Alexandre Siqueira, venceu na categoria Filmes de Profissionais, enquanto Virgem Fandango , de Marcy Page, arrecadou o prémio do público e o de Melhor Filme de Co-Produção Portuguesa.",
+      "source": "Público",
+      "date": "Sun, 25 Oct 2026 17:07:53 GMT",
+      "url": "https://www.publico.pt/2026/10/25/culturaipsilon/noticia/terminal-virgem-fandango-distinguidos-premio-nacional-animacao-2192583",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "83fde767",
+      "cat": "cultura",
+      "title": "Abstenção cai na maior parte dos países e pode se refletir no Brasil",
+      "summary": "Na maior parte dos 20 países que, pelo fuso horário, já terminaram a votação, o número de eleitores nas urnas subiu em relação ao primeiro turno. Em Portugal, espera-se um aumento semelhante.",
+      "source": "Público",
+      "date": "Sun, 25 Oct 2026 16:59:58 GMT",
+      "url": "https://www.publico.pt/2026/10/25/publico-brasil/noticia/abstencao-cai-maior-parte-parte-paises-refletir-brasil-2192574",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "0db837b0",
+      "cat": "tecnologia",
+      "title": "Montenegro cercado após intervenção policial",
+      "summary": "PS e Chega exigem esclarecimentos ao primeiro-ministro -- ainda que Ventura não conteste ação policial. Moreira da Silva critica \"decisores\". À esquerda, pressão estende-se ao Presidente Seguro.",
       "source": "Observador",
-      "date": "Sun, 25 Oct 2026 11:51:43 +0000",
-      "url": "https://observador.pt/liveblogs/netanyahu-dramatiza-e-avisa-que-voto-noutros-candidatos-pode-levar-a-segundo-holocausto-musk-acusa-ucrania-de-violar-os-termos-de-utilizacao-da-starlink/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/25002324/jporfirio-reportagem-comicio-benjamin-netanyahu-israel-23-10-2026-01-35-scaled.jpg",
+      "date": "Sun, 25 Oct 2026 20:23:59 +0000",
+      "url": "https://observador.pt/especiais/da-direita-a-esquerda-montenegro-cercado-apos-intervencao-policial-ha-uma-voz-critica-tambem-no-psd-tremendo-erro/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/25045947/48004231.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "3bd6e837",
+      "cat": "tecnologia",
+      "title": "Habitação: Vinte sete feridos com tratamento hospitalar em Lisboa após atuação das forças policiais",
+      "summary": "As forças policiais utilizaram a força para dispersar os manifestantes que se encontravam acampados em tendas na Praça D. Pedro IV, em Lisboa, em protestos a favor de habitação para todos, e na Praça D. João I, no Porto.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 25 Oct 2026 19:25:15 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-vinte-sete-feridos-com-tratamento-hospitalar-em-lisboa-apos-atuacao-das-forcas-policiais",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-25-17-27-30-531738.jpg",
       "score": 0.73
     },
     {
@@ -157,36 +223,25 @@
       "score": 0.73
     },
     {
-      "id": "9653eb12",
-      "cat": "tecnologia",
-      "title": "Recordes mundiais de maratona de marcha batidos no meeting de Takahata",
-      "summary": "A australiana Rebecca Henderson e o japonês Masatora Kawano bateram hoje os recordes da maratona em marcha, durante o meeting All Japan Race Walking, em Takahata, no Japão.",
+      "id": "31b61e65",
+      "cat": "desporto",
+      "title": "Aarhus bate Viborg e soma segunda vitória na Liga dinamarquesa",
+      "summary": "O Aarhus, adversário do Sporting de Braga na fase de liga da Liga Conferência de futebol, somou hoje a segunda vitória no campeonato dinamarquês, ao vencer por 2-1 na receção ao Viborg, na 12.ª jornada.",
       "source": "RTP",
-      "date": "Sun, 25 Oct 2026 15:37:47 +0000",
-      "url": "https://www.rtp.pt/noticias/atletismo/recordes-mundiais-de-maratona-de-marcha-batidos-no-meeting-de-takahata_d1774211",
+      "date": "Sun, 25 Oct 2026 19:47:19 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/aarhus-bate-viborg-e-soma-segunda-vitoria-na-liga-dinamarquesa_d1774260",
       "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "ba47d766",
+      "id": "77689e3f",
       "cat": "tecnologia",
-      "title": "II Liga: Silas estreia-se no AVS com vitória",
-      "summary": "O AVS venceu o Tondela por 2-1, em partida da oitava jornada da II Liga, assinalando o início vitorioso de Jorge Silas no comando técnico da equipa avense.",
+      "title": "Sp. Braga coleciona terceira derrota consecutiva",
+      "summary": "O Nacional da Madeira pôs fim a uma série negra na I Liga com uma vitória por 1-0 na receção ao Sporting de Braga, que já não ganha no campeonato há quatro jogos.",
       "source": "RTP",
-      "date": "Sun, 25 Oct 2026 15:35:49 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-silas-estreia-se-no-avs-com-vitoria_d1774210",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e9/e94531b86d85b7c9ecfe4135984a37ba?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "a08679c6",
-      "cat": "tecnologia",
-      "title": "Rybakina arrebata torneio de Ningbo",
-      "summary": "A cazaque Elena Rybakina, líder do ranking mundial, conquistou o torneio de Ningbo, na China, com a vitória na final sobre a canadiana Leylah Fernandez, em apenas dois sets.",
-      "source": "RTP",
-      "date": "Sun, 25 Oct 2026 15:19:03 +0000",
-      "url": "https://www.rtp.pt/noticias/tenis/rybakina-arrebata-torneio-de-ningbo_d1774207",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/41/416850aef245bbd890109b80d03d65b7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sun, 25 Oct 2026 18:13:27 +0000",
+      "url": "https://www.rtp.pt/noticias/desporto/sp-braga-coleciona-terceira-derrota-consecutiva_e1774230",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ff/ff3643b244a1bfe2298b5c81ff5df070?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -198,28 +253,6 @@
       "date": "Sun, 25 Oct 2026 13:36:38 +0000",
       "url": "https://eco.sapo.pt/2026/10/25/gasolina-vai-ter-a-maior-descida-desde-10-de-agosto-mas-gasoleo-sobe/",
       "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc2026043047023406aumentocombustiveis06.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "a722360a",
-      "cat": "tecnologia",
-      "title": "Luxo europeu perde 251 mil milhões em bolsa em 2026",
-      "summary": "As seis maiores cotadas europeias do luxo perderam 251 mil milhões de euros de valor de mercado desde o início do ano, num contexto de enfraquecimento da procura chinesa, noticia o Financial Times (acesso pago). A LVMH acumula uma perda de 131,6 mil milhões de euros e a Hermès de 93,3 mil milhões. O",
-      "source": "ECO",
-      "date": "Sun, 25 Oct 2026 10:08:04 +0000",
-      "url": "https://eco.sapo.pt/2026/10/25/luxo-europeu-perde-251-mil-milhoes-em-bolsa-em-2026/",
-      "img": "https://eco.imgix.net/uploads/2026/01/lvmh-2000x1125png.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "d27c98eb",
-      "cat": "ciencia",
-      "title": "Star Clusters in Van Gogh’s Starry Night Matches Taurus Sky From July 1889, Shows Study",
-      "summary": "The sky painted by Vincent Van Gogh in The Starry Night matches the sky in July of 1889, the year he immortalized the French horizon. The iconic painting has conventionally been dated from a letter the artist wrote to his brother, Theo, around June 18th that year, but experts say the waning gibbous ",
-      "source": "Good News Network",
-      "date": "Sat, 24 Oct 2026 17:19:53 +0000",
-      "url": "https://www.goodnewsnetwork.org/stars-in-van-gogh-starry-night-matches-sky-in-july-1889/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Stars-in-Van-Goghs-The-Starry-Night-1889-match-with-the-Hyades-cluster-in-July-of-1889.jpeg",
       "score": 0.73
     },
     {
@@ -245,91 +278,58 @@
       "score": 0.73
     },
     {
-      "id": "00ca09a5",
+      "id": "2337197e",
       "cat": "tecnologia",
-      "title": "Longe do Brasil, mas presentes na urna: “A distância não diminui a nossa voz”",
-      "summary": "No segundo turno das eleições, 134.797 brasileiros estão aptos a votar em Portugal. Seis eleitores contam por que não abrem mão do voto, mesmo longe do Brasil.",
+      "title": "Ambulâncias suspendem marcha lenta após serem incluídas nos apoios aos custos com combustíveis",
+      "summary": "Além dos apoios, Liga Portuguesa de Ambulâncias vai negociar com o Governo outras preocupações do sector, nomeadamente os atrasos nos pagamentos das instituições do SNS. Primeira reunião é amanhã.",
       "source": "Público",
-      "date": "Sun, 25 Oct 2026 14:15:11 GMT",
-      "url": "https://www.publico.pt/2026/10/25/publico-brasil/noticia/longe-brasil-presentes-urna-distancia-nao-diminui-voz-2192549",
+      "date": "Sun, 25 Oct 2026 19:24:17 GMT",
+      "url": "https://www.publico.pt/2026/10/25/sociedade/noticia/ambulancias-suspendem-marcha-lenta-apos-serem-incluidas-apoios-custos-combustiveis-2192594",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "fe83a6b2",
+      "id": "e4618f08",
       "cat": "tecnologia",
-      "title": "Entre receber e transmitir. Paisagem, património e a responsabilidade de transformar",
-      "summary": "A legislação portuguesa do património cultural não reconhece plenamente a paisagem enquanto realidade integrada. Reconhecer a paisagem como bem comum é também reconhecer a sua dimensão política. Opinião de Aurora Carapinha",
-      "source": "Público",
-      "date": "Sun, 25 Oct 2026 14:04:00 GMT",
-      "url": "https://www.publico.pt/2026/10/25/azul/opiniao/receber-transmitir-paisagem-patrimonio-responsabilidade-transformar-2192037",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "44575d0c",
-      "cat": "tecnologia",
-      "title": "Pais e filhos saem à rua aos milhares em luta por mais habitação: “Temos de ser muitos”",
-      "summary": "Milhares de pessoas sa&iacute;ram &agrave; rua em protesto, na tarde deste s&aacute;bado, entre as quais muitos pais que deram voz &agrave;s dificuldades que os seus filhos est&atilde;o a viver para conseguirem ter uma casa pr&oacute;pria.",
-      "source": "Público",
-      "date": "Sun, 25 Oct 2026 13:38:23 GMT",
-      "url": "https://www.publico.pt/2026/10/25/fotogaleria/pais-filhos-saem-rua-milhares-luta-habitacao-416136",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "9e20cf76",
-      "cat": "tecnologia",
-      "title": "As notícias das 14h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Sun, 25 Oct 2026 14:15:00 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2514/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "78ab1d49",
-      "cat": "tecnologia",
-      "title": "As notícias das 13h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Sun, 25 Oct 2026 13:20:37 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2486/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "e1c02571",
-      "cat": "tecnologia",
-      "title": "Habitação: Ventura defende polícia e volta a criticar silêncio de Montenegro",
-      "summary": "\"Quem se coloca hoje ao lado daqueles provocadores está a colocar-se contra a ordem, contra o Estado de Direito, contra o país. O Chega nunca aceitará fazer isso\", afirma o líder do Chega.",
+      "title": "Indemnização à Galp por incumprimento no fornecimento de GNL só deverá ser conhecida em 2027 ou 2028",
+      "summary": "O tribunal arbitral deu razão à petrolífera portuguesa num litígio com a norte-americana Venture Global, mas o processo ainda não terminou. A Galp confirma decisão favorável e garante que o contrato de fornecimento de gás se mantém em vigor.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 25 Oct 2026 14:44:53 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-ventura-defende-policia-e-volta-a-criticar-silencio-de-montenegro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-25-14-43-15-531729.jpg",
+      "date": "Sun, 25 Oct 2026 20:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/indemnizacao-a-galp-por-incumprimento-no-fornecimento-de-gnl-so-devera-ser-conhecida-em-2027-ou-2028",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-15-08-41-07-523674.jpg",
       "score": 0.7
     },
     {
-      "id": "c40d9cdc",
+      "id": "f289e84c",
       "cat": "tecnologia",
-      "title": "Habitação: PSD defende atuação da polícia e acusa PS de irresponsabilidade e hipocrisia",
-      "summary": "Sebastião Bugalho considerou \"preocupante e até chocante\" a reação do líder sociaalista.",
+      "title": "Habitação: Montenegro sob fogo cruzado após intervenção policial",
+      "summary": "As manifestações sobre o direito à habitação estão a colocar o Governo sob pressão. E existem críticas que chegam, inclusive, de pessoas próximas do PSD.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 25 Oct 2026 14:28:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-psd-defende-atuacao-da-policia-e-acusa-ps-de-irresponsabilidade-e-hipocrisia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-11-11-47-37-526455.jpg",
+      "date": "Sun, 25 Oct 2026 19:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/habitacao-montenegro-sob-fogo-cruzado-apos-intervencao-policial",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-25-17-27-56-531741.jpg",
       "score": 0.7
     },
     {
-      "id": "9dec204c",
+      "id": "c8ced442",
       "cat": "tecnologia",
-      "title": "Com mais taxas, quanto vai custar encomendar online?",
-      "summary": "As compras feitas pelos consumidores diretamente em plataformas chinesas vão ficar mais caras, com a cobrança de uma nova taxa para suportar custos alfandegários em encomendas de fora da UE.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 25 Oct 2026 14:00:00 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/com-mais-taxas-quanto-vai-custar-encomendar-online",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-23-10-43-00-531664.jpg",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "a4745361",
+      "cat": "tecnologia",
+      "title": "Dançar com voz, os sons do corpo",
+      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
+      "source": "TSF",
+      "date": "Tue, 09 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
