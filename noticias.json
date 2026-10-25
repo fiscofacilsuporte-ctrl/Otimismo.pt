@@ -1,5 +1,5 @@
 {
-  "last_update": "25/10/2026 04:19 UTC",
+  "last_update": "25/10/2026 11:09 UTC",
   "total": 30,
   "news": [
     {
@@ -113,14 +113,14 @@
       "score": 0.79
     },
     {
-      "id": "aa88dae7",
-      "cat": "tecnologia",
-      "title": "Polícia avançou para dispersar manifestações pela habitação em Lisboa e no Porto",
-      "summary": "PSP avisou que iria intervir caso “o acampamento ilegal” se mantivesse nas duas cidades. E, perante os fortes dispositivos policiais, depois da uma da manhã, o clima de tensão agravou-se.",
-      "source": "Público",
-      "date": "Sat, 24 Oct 2026 20:27:56 GMT",
-      "url": "https://www.publico.pt/2026/10/24/sociedade/noticia/manifestantes-desafiam-psp-decidem-voltar-montar-tendas-lisboa-porto-2192544",
-      "img": null,
+      "id": "defc698a",
+      "cat": "economia",
+      "title": "Lula vs. Flávio Bolsonaro: brasileiros decidem entre mais investimento público e menos Estado",
+      "summary": "O Brasil chega à segunda volta das eleições presidenciais com uma economia de contrastes. O desemprego recuou para 5,4% no segundo trimestre deste ano, o valor mais baixo de sempre para este período, e o Produto Interno Bruto (PIB) cresceu 2,3% em 2025. Mas o dinamismo económico perdeu força: em set",
+      "source": "ECO",
+      "date": "Sun, 25 Oct 2026 07:56:37 +0000",
+      "url": "https://eco.sapo.pt/especiais/lula-vs-flavio-bolsonaro-brasileiros-decidem-entre-mais-investimento-publico-e-menos-estado/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-doc202610194796597913314629.jpg",
       "score": 0.76
     },
     {
@@ -146,36 +146,69 @@
       "score": 0.76
     },
     {
-      "id": "23fb69f1",
+      "id": "95e94225",
       "cat": "tecnologia",
-      "title": "As imagens da intervenção policial nas acampadas em Lisboa e no Porto",
-      "summary": "Com fortes dispositivos nas ruas de Lisboa e Porto, a PSP avan&ccedil;ou sobre os manifestantes pela habita&ccedil;&atilde;o e em dez minutos acabou com as acampadas .",
+      "title": "Cavalos mecânicos vs. automóveis – quem vai ganhar?",
+      "summary": "A revolução da IA não é, no fundo, sobre inteligência artificial. É sobre a nossa capacidade de olhar para uma ferramenta extraordinária e perguntar: o que posso agora criar que antes não podia?",
       "source": "Público",
-      "date": "Sun, 25 Oct 2026 03:49:32 GMT",
-      "url": "https://www.publico.pt/2026/10/25/fotogaleria/policia-avancou-dispersar-manifestacoes-habitacao-lisboa-porto-416135",
+      "date": "Sun, 25 Oct 2026 09:00:00 GMT",
+      "url": "https://www.publico.pt/2026/10/25/tecnologia/prepublicacao/cavalos-mecanicos-vs-automoveis-vai-ganhar-2192214",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "f5185d79",
+      "id": "6c60daf6",
       "cat": "tecnologia",
-      "title": "A ingenuidade da Igreja",
-      "summary": "Dir-se-á que as propostas da Igreja são ingénuas. Eu direi que são uma sabedoria. O que reina neste momento é a loucura! Opinião de Frei Bento Domingues O.P.",
+      "title": "A democracia exige mais do que uma escolha",
+      "summary": "A experiência histórica mostra que nenhuma conquista institucional é irreversível. O autoritarismo não se manifesta apenas por meio de golpes militares. Opinião de Sílvia Caetano",
       "source": "Público",
-      "date": "Sat, 24 Oct 2026 23:25:00 GMT",
-      "url": "https://www.publico.pt/2026/10/25/opiniao/opiniao/ingenuidade-igreja-2192098",
+      "date": "Sun, 25 Oct 2026 08:42:50 GMT",
+      "url": "https://www.publico.pt/2026/10/25/publico-brasil/opiniao/democracia-exige-escolha-2192553",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "1e3ea27b",
-      "cat": "tecnologia",
-      "title": "Lisboa. As imagens da noite em que a polícia avançou",
-      "summary": "A polícia avançou sobre os manifestantes, dispersando-os e retirando as tendas que estavam no Rossio.",
+      "id": "27b5e6eb",
+      "cat": "cultura",
+      "title": "Sabemos amar ou só analisar o amor?",
+      "summary": "Sabemos amar ou só analisar o amor? Com o André Nobre Duarte falo de ghosting, situationships, maxxing e do que se passa com a nossa geração nas relações e no crescimento pessoal.",
       "source": "Observador",
-      "date": "Sun, 25 Oct 2026 03:14:51 +0000",
-      "url": "https://observador.pt/2026/10/25/as-imagens-da-noite-em-que-a-policia-avancou-sobre-os-manifestantes-da-acampada-em-lisboa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1616:908:nowe:0:86/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/25030103/img-3591.jpg",
+      "date": "Sun, 25 Oct 2026 08:04:40 +0000",
+      "url": "https://observador.pt/programas/amiga-faz-parte/sabemos-amar-ou-so-analisar-o-amor/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/16185608/770-podcast-amiga-faz-parte.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d483ff41",
+      "cat": "tecnologia",
+      "title": "6h. Sporting recebe hoje Académico de Viseu",
+      "summary": "Os Leões vêm do primeiro desaire na Liga dos Campeões derrota por 3-2 frente ao Lask. Ainda, Portugal Continental e as regiões autónomas da Madeira e dos Açores atrasaram os relógios.",
+      "source": "Observador",
+      "date": "Sun, 25 Oct 2026 06:17:31 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2532/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "c2ca80ea",
+      "cat": "tecnologia",
+      "title": "Eurodeputados visitam China para exigir acordo comercial sob ameaça de retaliação",
+      "summary": "Delegação sublinha que que o défice comercial da UE com a China \"aumentou dramaticamente\" nos últimos dois anos.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 25 Oct 2026 10:25:26 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/eurodeputados-visitam-china-para-exigir-acordo-comercial-sob-ameaca-de-retaliacao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-14-11-57-11-526540.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "8f9b601d",
+      "cat": "tecnologia",
+      "title": "Habitação: Detidos em Lisboa foram libertados e têm de se apresentar a tribunal na 2.ª feira",
+      "summary": "De acordo com a PSP, há sete feridos e 31 detidos por desobediência, no entanto, em comunicado publicado nas redes sociais, a Acampada de Lisboa, refere a assistência de dezenas de feridos.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 25 Oct 2026 09:58:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-detidos-em-lisboa-foram-libertados-e-tem-de-se-apresentar-a-tribunal-na-2-feira",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-25-09-52-11-531726.jpg",
       "score": 0.73
     },
     {
@@ -187,17 +220,6 @@
       "date": "Sat, 24 Oct 2026 21:00:00 +0100",
       "url": "https://www.jornaldenegocios.pt/economia/habitacao/rendas/detalhe/armindo-monteiro-nao-e-exequivel-o-investimento-privado-crescer-10",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-23-15-34-46-531684.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1d95acba",
-      "cat": "economia",
-      "title": "Organização da manifestação pela habitação em Lisboa estima 25 mil pessoas",
-      "summary": "A PSP não avançou números. A manifestação decorreu entre a praça Marquês de Pombal e o Rossio.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 24 Oct 2026 20:19:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/organizacao-da-manifestacao-pela-habitacao-em-lisboa-estima-25-mil-pessoas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-24-20-15-58-531723.jpg",
       "score": 0.73
     },
     {
@@ -245,36 +267,25 @@
       "score": 0.73
     },
     {
-      "id": "e08b6c91",
+      "id": "a722360a",
       "cat": "tecnologia",
-      "title": "“Maior risco das eleições no Brasil para as empresas é alteração frequente das regras do jogo”",
-      "summary": "Na véspera de os brasileiros irem às urnas para decidir entre Lula da Silva e Flávio Bolsonaro, o presidente da Câmara Portuguesa de Comércio no Brasil (CPCB) - São Paulo deixa um aviso aos empresários e investidores portugueses. \"O maior risco não é necessariamente a vitória de um candidato ou de o",
+      "title": "Luxo europeu perde 251 mil milhões em bolsa em 2026",
+      "summary": "As seis maiores cotadas europeias do luxo perderam 251 mil milhões de euros de valor de mercado desde o início do ano, num contexto de enfraquecimento da procura chinesa, noticia o Financial Times (acesso pago). A LVMH acumula uma perda de 131,6 mil milhões de euros e a Hermès de 93,3 mil milhões. O",
       "source": "ECO",
-      "date": "Sat, 24 Oct 2026 17:32:54 +0000",
-      "url": "https://eco.sapo.pt/entrevista/maior-risco-das-eleicoes-no-brasil-para-as-empresas-e-alteracao-frequente-das-regras-do-jogo/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-domingos-pereira-coutinho-2.jpg",
+      "date": "Sun, 25 Oct 2026 10:08:04 +0000",
+      "url": "https://eco.sapo.pt/2026/10/25/luxo-europeu-perde-251-mil-milhoes-em-bolsa-em-2026/",
+      "img": "https://eco.imgix.net/uploads/2026/01/lvmh-2000x1125png.jpg",
       "score": 0.73
     },
     {
-      "id": "1d97d7d4",
+      "id": "a8fc5138",
       "cat": "tecnologia",
-      "title": "Mais de cem mil pessoas manifestam-se em Paris",
-      "summary": "Mais de cem mil pessoas manifestam-se hoje em Paris para exigir poder de compra e defender os serviços públicos, avançou a polícia, indicando que &#8220;a situação permanece calma em toda a área metropolitana&#8221;. A manifestação, que começou na Porta de Itália cerca das 14h00 locais (13h00 em Lis",
+      "title": "Marisqueira Regabofe: há mar e mar, e a certeza de voltar",
+      "summary": "Caro P. Ao longo dos anos, acumulei várias teorias sobre a restauração: que há locais onde os restaurantes nunca vingam, que os empregados estão, regra geral, com os olhos no chão, e que há sempre uma mesa disponível mesmo quando juram que ela não existe. Muito provavelmente todas elas são produto d",
       "source": "ECO",
-      "date": "Sat, 24 Oct 2026 16:46:28 +0000",
-      "url": "https://eco.sapo.pt/2026/10/24/mais-de-cem-mil-pessoas-manifestam-se-em-paris/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-48001055-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "89c94722",
-      "cat": "tecnologia",
-      "title": "Preço das casas em Lisboa e Cascais acima de 5.000 euros/m2",
-      "summary": "Apesar de um ligeiro abrandamento no crescimento, os preços da habitação em Portugal continuam a aumentar. Lisboa apresenta os valores de transação mais elevados, seguida por Cascais, municípios onde o preço do metro quadrado está acima dos 5.000 euros. Nalgumas freguesias da capital, o preço median",
-      "source": "ECO",
-      "date": "Sat, 24 Oct 2026 16:27:52 +0000",
-      "url": "https://eco.sapo.pt/2026/10/24/preco-das-casas-em-lisboa-e-cascais-acima-de-5-000-euros-m2/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-6p1a0756.jpg",
+      "date": "Sun, 25 Oct 2026 09:00:57 +0000",
+      "url": "https://eco.sapo.pt/2026/10/25/marisqueira-regabofe-ha-mar-e-mar-e-a-certeza-de-voltar/",
+      "img": "https://eco.imgix.net/uploads/2026/10/2amesa-regabofe-2000x1125-1.jpg",
       "score": 0.73
     },
     {
@@ -300,36 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "a719b7a9",
+      "id": "d9f4ade5",
       "cat": "tecnologia",
-      "title": "As notícias das 3h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Sun, 25 Oct 2026 03:14:17 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2477/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Querido indeciso",
+      "summary": "Ainda dá tempo de salvarmos a democracia e o Brasil. Mas você não sabe se quer. Opinião de Maria Giulia Pinheiro",
+      "source": "Público",
+      "date": "Sun, 25 Oct 2026 09:22:55 GMT",
+      "url": "https://www.publico.pt/2026/10/25/publico-brasil/opiniao/querido-indeciso-2192554",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "42c10707",
+      "id": "e78d7f21",
       "cat": "tecnologia",
-      "title": "As notícias das 2h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "8h. 11 feridos após intervenção da PSP em Lisboa e no Porto",
+      "summary": "O número de feridos foi confirmado pela PSP, que fala numa ocupação do espaço público de forma indevida. Ainda, Lula da Silva ou Flávio Bolsonaro, um deles vai ser eleito hoje presidente do Brasil.",
       "source": "Observador",
-      "date": "Sun, 25 Oct 2026 02:40:05 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2451/",
+      "date": "Sun, 25 Oct 2026 08:15:11 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2557/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "1eb3b761",
-      "cat": "tecnologia",
-      "title": "Valorização das cartas Pokémon supera Wall Street desde 2019, mas não a Nvidia",
-      "summary": "Um índice das famosas cartas colecionáveis subiu de valor cerca de 40 vezes desde o início de 2019, acima do S&P 500 e do Nasdaq 100. As ações da Nvidia subiram cerca de 53 vezes no mesmo período.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 24 Oct 2026 19:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/valorizacao-das-cartas-pokemon-supera-wall-street-desde-2019-mas-nao-a-nvidia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-23-16-05-32-531690.jpg",
       "score": 0.7
     }
   ]
