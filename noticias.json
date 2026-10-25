@@ -1,5 +1,5 @@
 {
-  "last_update": "25/10/2026 11:09 UTC",
+  "last_update": "25/10/2026 15:57 UTC",
   "total": 30,
   "news": [
     {
@@ -14,17 +14,6 @@
       "score": 0.88
     },
     {
-      "id": "5e216472",
-      "cat": "tecnologia",
-      "title": "Vines Produce Bigger, Healthier Wine Grapes When Grown Under Solar Panels",
-      "summary": "Solar panels grown above grapevines substantially increased the development and fruit production of the crop—all while generating clean energy. The technique, known as agrivoltaics, has been well-studied in other settings, but how it would effect the delicate science of viticulture has not. Research",
-      "source": "Good News Network",
-      "date": "Fri, 23 Oct 2026 11:00:15 +0000",
-      "url": "https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-supplied-to-PV-Magazine-by-Giuseppe-Ferrara.jpg",
-      "score": 0.82
-    },
-    {
       "id": "0d4f62e3",
       "cat": "sociedade",
       "title": "Volunteers became salmon, deer and earthworms. Then they set out to save their river",
@@ -36,17 +25,6 @@
       "score": 0.82
     },
     {
-      "id": "a337032e",
-      "cat": "tecnologia",
-      "title": "Good News in History, October 23",
-      "summary": "Happy 50th Birthday to Ryan Reynolds, the always-handsome and hilarious Canadian actor who first starred in the sitcom Two Guys and a Girl in 1998, then rose to fame in a range of films like The Proposal and Green Lantern. His biggest financial and critical success came when he played the smack-talk",
-      "source": "Good News Network",
-      "date": "Fri, 23 Oct 2026 07:00:00 +0000",
-      "url": "https://www.goodnewsnetwork.org/events061023/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Deadpoll-and-Ryan-Reynolds-in-2019-Dick-Thomas-Johnson-cc.jpg",
-      "score": 0.79
-    },
-    {
       "id": "72a0e34f",
       "cat": "tecnologia",
       "title": "‘Writing is a way of dealing with things’",
@@ -55,17 +33,6 @@
       "date": "Wed, 21 Oct 2026 09:20:24 +0000",
       "url": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
       "img": "https://www.positive.news/wp-content/uploads/2026/10/IAN-RANKIN-Portrait-Louise-Mather-2024.jpg-1.jpeg",
-      "score": 0.79
-    },
-    {
-      "id": "4d413236",
-      "cat": "tecnologia",
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
-      "source": "BBC News",
-      "date": "Sat, 24 Oct 2026 10:04:29 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a57f/live/b7611c70-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
       "score": 0.79
     },
     {
@@ -102,14 +69,14 @@
       "score": 0.79
     },
     {
-      "id": "0a4a4079",
-      "cat": "tecnologia",
-      "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
-      "summary": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approa",
+      "id": "7f53e4c0",
+      "cat": "ciencia",
+      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+      "summary": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity. The discovery challenges decades of scientific assu",
       "source": "ScienceDaily",
-      "date": "Sat, 24 Oct 2026 07:16:08 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
-      "img": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
+      "date": "Sat, 24 Oct 2026 22:19:07 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "img": "https://www.sciencedaily.com/images/1920/superconducting-material-hovering-over-magnets.webp",
       "score": 0.79
     },
     {
@@ -124,6 +91,17 @@
       "score": 0.76
     },
     {
+      "id": "cd571e34",
+      "cat": "tecnologia",
+      "title": "A Chance Meeting in a Chinese Restaurant Saved a Man’s Life – As Everything Happens for a Reason",
+      "summary": "Everything happens for a reason. Every small choice can create lasting change—and even save a life. That&#8217;s what David Couture was reminiscing about, recently, when he shared with GNN a miraculous story from more than a decade ago. He moved into a townhouse in Dover, New Hampshire, that had a t",
+      "source": "Good News Network",
+      "date": "Sun, 25 Oct 2026 13:52:48 +0000",
+      "url": "https://www.goodnewsnetwork.org/chance-meeting-in-chinese-restaurant-saved-a-life/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Chinese-Restaurant-by-Don-W-2011-fair-use.jpeg",
+      "score": 0.76
+    },
+    {
       "id": "b28b3253",
       "cat": "sociedade",
       "title": "One Teacher’s Idea for Daily Positivity Practice Sweeps Through His Elementary School",
@@ -135,91 +113,36 @@
       "score": 0.76
     },
     {
-      "id": "b0ba15e2",
-      "cat": "tecnologia",
-      "title": "Scientists propose a way to detect dangerous “mirror life” before it exists",
-      "summary": "Scientists have proposed a way to detect “mirror life,” a hypothetical form of life that could pose serious risks to humans, animals, and ecosystems if artificially created. Using special fluorescent molecules and a type of polarized light also used in 3D movie technology, researchers believe they c",
-      "source": "ScienceDaily",
-      "date": "Sat, 24 Oct 2026 08:39:16 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
-      "img": "https://www.sciencedaily.com/images/1920/mirror-dna-genetics-life.webp",
+      "id": "84749e5f",
+      "cat": "cultura",
+      "title": "More wet and windy weather to follow stormy weekend",
+      "summary": "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week.",
+      "source": "BBC News",
+      "date": "Sun, 25 Oct 2026 10:16:20 GMT",
+      "url": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c58/live/4758dc50-cfa7-11f1-aadb-297fd0a130b9.jpg",
       "score": 0.76
     },
     {
-      "id": "95e94225",
-      "cat": "tecnologia",
-      "title": "Cavalos mecânicos vs. automóveis – quem vai ganhar?",
-      "summary": "A revolução da IA não é, no fundo, sobre inteligência artificial. É sobre a nossa capacidade de olhar para uma ferramenta extraordinária e perguntar: o que posso agora criar que antes não podia?",
-      "source": "Público",
-      "date": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "url": "https://www.publico.pt/2026/10/25/tecnologia/prepublicacao/cavalos-mecanicos-vs-automoveis-vai-ganhar-2192214",
-      "img": null,
-      "score": 0.73
+      "id": "40cfbcc3",
+      "cat": "ciencia",
+      "title": "New evidence suggests spinosaurus spent most of its life underwater",
+      "summary": "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their f",
+      "source": "ScienceDaily",
+      "date": "Sun, 25 Oct 2026 07:52:54 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
+      "img": "https://www.sciencedaily.com/images/1920/spinosaurus-water-splash.webp",
+      "score": 0.76
     },
     {
-      "id": "6c60daf6",
+      "id": "b56ebb50",
       "cat": "tecnologia",
-      "title": "A democracia exige mais do que uma escolha",
-      "summary": "A experiência histórica mostra que nenhuma conquista institucional é irreversível. O autoritarismo não se manifesta apenas por meio de golpes militares. Opinião de Sílvia Caetano",
-      "source": "Público",
-      "date": "Sun, 25 Oct 2026 08:42:50 GMT",
-      "url": "https://www.publico.pt/2026/10/25/publico-brasil/opiniao/democracia-exige-escolha-2192553",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "27b5e6eb",
-      "cat": "cultura",
-      "title": "Sabemos amar ou só analisar o amor?",
-      "summary": "Sabemos amar ou só analisar o amor? Com o André Nobre Duarte falo de ghosting, situationships, maxxing e do que se passa com a nossa geração nas relações e no crescimento pessoal.",
+      "title": "Netanyahu: voto noutro partido pode levar a \"2º Holocausto\"",
+      "summary": "A dois dias das eleições, o primeiro-ministro israelita dramatiza o discurso e pede para \"concluir a missão\" e evitar que Irão obtenha a arma nuclear. Sondagens dão vantagem ao bloco da oposição.",
       "source": "Observador",
-      "date": "Sun, 25 Oct 2026 08:04:40 +0000",
-      "url": "https://observador.pt/programas/amiga-faz-parte/sabemos-amar-ou-so-analisar-o-amor/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/16185608/770-podcast-amiga-faz-parte.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "d483ff41",
-      "cat": "tecnologia",
-      "title": "6h. Sporting recebe hoje Académico de Viseu",
-      "summary": "Os Leões vêm do primeiro desaire na Liga dos Campeões derrota por 3-2 frente ao Lask. Ainda, Portugal Continental e as regiões autónomas da Madeira e dos Açores atrasaram os relógios.",
-      "source": "Observador",
-      "date": "Sun, 25 Oct 2026 06:17:31 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2532/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.73
-    },
-    {
-      "id": "c2ca80ea",
-      "cat": "tecnologia",
-      "title": "Eurodeputados visitam China para exigir acordo comercial sob ameaça de retaliação",
-      "summary": "Delegação sublinha que que o défice comercial da UE com a China \"aumentou dramaticamente\" nos últimos dois anos.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 25 Oct 2026 10:25:26 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/eurodeputados-visitam-china-para-exigir-acordo-comercial-sob-ameaca-de-retaliacao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-14-11-57-11-526540.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8f9b601d",
-      "cat": "tecnologia",
-      "title": "Habitação: Detidos em Lisboa foram libertados e têm de se apresentar a tribunal na 2.ª feira",
-      "summary": "De acordo com a PSP, há sete feridos e 31 detidos por desobediência, no entanto, em comunicado publicado nas redes sociais, a Acampada de Lisboa, refere a assistência de dezenas de feridos.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 25 Oct 2026 09:58:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-detidos-em-lisboa-foram-libertados-e-tem-de-se-apresentar-a-tribunal-na-2-feira",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-25-09-52-11-531726.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "e656691b",
-      "cat": "economia",
-      "title": "Armindo Monteiro: \"Não é exequível o investimento privado crescer 10%\"",
-      "summary": "Presidente da CIP não acredita que os privados consigam compensar queda significativa do investimento público com o fim do PRR. Líder dos patrões não vê capacidade por parte das empresas, lembrando que os juros também estão a subir, limitando o financiamento.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 24 Oct 2026 21:00:00 +0100",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/rendas/detalhe/armindo-monteiro-nao-e-exequivel-o-investimento-privado-crescer-10",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-23-15-34-46-531684.jpg",
+      "date": "Sun, 25 Oct 2026 11:51:43 +0000",
+      "url": "https://observador.pt/liveblogs/netanyahu-dramatiza-e-avisa-que-voto-noutros-candidatos-pode-levar-a-segundo-holocausto-musk-acusa-ucrania-de-violar-os-termos-de-utilizacao-da-starlink/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/25002324/jporfirio-reportagem-comicio-benjamin-netanyahu-israel-23-10-2026-01-35-scaled.jpg",
       "score": 0.73
     },
     {
@@ -234,36 +157,47 @@
       "score": 0.73
     },
     {
-      "id": "e198f5ef",
+      "id": "9653eb12",
       "cat": "tecnologia",
-      "title": "Lazio na frente em Itália",
-      "summary": "A Lazio derrotou o Parma por 2-1, em encontro da oitava jornada da Liga italiana, somando a quarta vitória consecutiva no campeonato e isolando-se, provisoriamente, no topo da classificação.",
+      "title": "Recordes mundiais de maratona de marcha batidos no meeting de Takahata",
+      "summary": "A australiana Rebecca Henderson e o japonês Masatora Kawano bateram hoje os recordes da maratona em marcha, durante o meeting All Japan Race Walking, em Takahata, no Japão.",
       "source": "RTP",
-      "date": "Sun, 25 Oct 2026 00:04:47 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/lazio-na-frente-em-italia_d1774089",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/21/21cc56e3cbcccfccde94a8632389c45e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "6f693e80",
-      "cat": "tecnologia",
-      "title": "Tottenham derrota Chelsea em Stamford Bridge",
-      "summary": "O Tottenham alcançou a segunda vitória consecutiva na Liga inglesa, ao ganhar na visita ao Chelsea (2-0), na oitava jornada, quebrando uma ausência de três anos e meio sem triunfos sobre o rival londrino.",
-      "source": "RTP",
-      "date": "Sat, 24 Oct 2026 22:06:41 +0100",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/tottenham-derrota-chelsea-em-stamford-bridge_d1774067",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5a/5a36358eddae7aa6a71278a64e180ebb?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "032f5d8d",
-      "cat": "tecnologia",
-      "title": "Tiago Pereira conquista título de pares no Lisboa Belém Open",
-      "summary": "O tenista português Tiago Pereira conquistou hoje, ao lado do espanhol Benjamin Winter Lopez, o título de pares do challenger Lisboa Belém Open, ao vencer os polacos Karol Drzewiecki e Piotr Matuszewski.",
-      "source": "RTP",
-      "date": "Sat, 24 Oct 2026 19:38:28 +0100",
-      "url": "https://www.rtp.pt/noticias/tenis/tiago-pereira-conquista-titulo-de-pares-no-lisboa-belem-open_d1774045",
+      "date": "Sun, 25 Oct 2026 15:37:47 +0000",
+      "url": "https://www.rtp.pt/noticias/atletismo/recordes-mundiais-de-maratona-de-marcha-batidos-no-meeting-de-takahata_d1774211",
       "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "ba47d766",
+      "cat": "tecnologia",
+      "title": "II Liga: Silas estreia-se no AVS com vitória",
+      "summary": "O AVS venceu o Tondela por 2-1, em partida da oitava jornada da II Liga, assinalando o início vitorioso de Jorge Silas no comando técnico da equipa avense.",
+      "source": "RTP",
+      "date": "Sun, 25 Oct 2026 15:35:49 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-silas-estreia-se-no-avs-com-vitoria_d1774210",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e9/e94531b86d85b7c9ecfe4135984a37ba?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "a08679c6",
+      "cat": "tecnologia",
+      "title": "Rybakina arrebata torneio de Ningbo",
+      "summary": "A cazaque Elena Rybakina, líder do ranking mundial, conquistou o torneio de Ningbo, na China, com a vitória na final sobre a canadiana Leylah Fernandez, em apenas dois sets.",
+      "source": "RTP",
+      "date": "Sun, 25 Oct 2026 15:19:03 +0000",
+      "url": "https://www.rtp.pt/noticias/tenis/rybakina-arrebata-torneio-de-ningbo_d1774207",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/41/416850aef245bbd890109b80d03d65b7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "c9a757c5",
+      "cat": "tecnologia",
+      "title": "Gasolina vai ter a maior descida desde 10 de agosto, mas gasóleo sobe",
+      "summary": "O gasóleo deverá subir um cêntimo e a gasolina descer seis cêntimos na próxima segunda-feira, tendo em conta o ajustamento no apoio temporário e extraordinário do Imposto sobre os Produtos Petrolíferos e Energéticos (ISP). De acordo os dados avançados pela Associação Nacional de Revendedores de Comb",
+      "source": "ECO",
+      "date": "Sun, 25 Oct 2026 13:36:38 +0000",
+      "url": "https://eco.sapo.pt/2026/10/25/gasolina-vai-ter-a-maior-descida-desde-10-de-agosto-mas-gasoleo-sobe/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc2026043047023406aumentocombustiveis06.jpg",
       "score": 0.73
     },
     {
@@ -278,14 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "a8fc5138",
-      "cat": "tecnologia",
-      "title": "Marisqueira Regabofe: há mar e mar, e a certeza de voltar",
-      "summary": "Caro P. Ao longo dos anos, acumulei várias teorias sobre a restauração: que há locais onde os restaurantes nunca vingam, que os empregados estão, regra geral, com os olhos no chão, e que há sempre uma mesa disponível mesmo quando juram que ela não existe. Muito provavelmente todas elas são produto d",
-      "source": "ECO",
-      "date": "Sun, 25 Oct 2026 09:00:57 +0000",
-      "url": "https://eco.sapo.pt/2026/10/25/marisqueira-regabofe-ha-mar-e-mar-e-a-certeza-de-voltar/",
-      "img": "https://eco.imgix.net/uploads/2026/10/2amesa-regabofe-2000x1125-1.jpg",
+      "id": "d27c98eb",
+      "cat": "ciencia",
+      "title": "Star Clusters in Van Gogh’s Starry Night Matches Taurus Sky From July 1889, Shows Study",
+      "summary": "The sky painted by Vincent Van Gogh in The Starry Night matches the sky in July of 1889, the year he immortalized the French horizon. The iconic painting has conventionally been dated from a letter the artist wrote to his brother, Theo, around June 18th that year, but experts say the waning gibbous ",
+      "source": "Good News Network",
+      "date": "Sat, 24 Oct 2026 17:19:53 +0000",
+      "url": "https://www.goodnewsnetwork.org/stars-in-van-gogh-starry-night-matches-sky-in-july-1889/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Stars-in-Van-Goghs-The-Starry-Night-1889-match-with-the-Hyades-cluster-in-July-of-1889.jpeg",
       "score": 0.73
     },
     {
@@ -311,25 +245,91 @@
       "score": 0.73
     },
     {
-      "id": "d9f4ade5",
+      "id": "00ca09a5",
       "cat": "tecnologia",
-      "title": "Querido indeciso",
-      "summary": "Ainda dá tempo de salvarmos a democracia e o Brasil. Mas você não sabe se quer. Opinião de Maria Giulia Pinheiro",
+      "title": "Longe do Brasil, mas presentes na urna: “A distância não diminui a nossa voz”",
+      "summary": "No segundo turno das eleições, 134.797 brasileiros estão aptos a votar em Portugal. Seis eleitores contam por que não abrem mão do voto, mesmo longe do Brasil.",
       "source": "Público",
-      "date": "Sun, 25 Oct 2026 09:22:55 GMT",
-      "url": "https://www.publico.pt/2026/10/25/publico-brasil/opiniao/querido-indeciso-2192554",
+      "date": "Sun, 25 Oct 2026 14:15:11 GMT",
+      "url": "https://www.publico.pt/2026/10/25/publico-brasil/noticia/longe-brasil-presentes-urna-distancia-nao-diminui-voz-2192549",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "e78d7f21",
+      "id": "fe83a6b2",
       "cat": "tecnologia",
-      "title": "8h. 11 feridos após intervenção da PSP em Lisboa e no Porto",
-      "summary": "O número de feridos foi confirmado pela PSP, que fala numa ocupação do espaço público de forma indevida. Ainda, Lula da Silva ou Flávio Bolsonaro, um deles vai ser eleito hoje presidente do Brasil.",
+      "title": "Entre receber e transmitir. Paisagem, património e a responsabilidade de transformar",
+      "summary": "A legislação portuguesa do património cultural não reconhece plenamente a paisagem enquanto realidade integrada. Reconhecer a paisagem como bem comum é também reconhecer a sua dimensão política. Opinião de Aurora Carapinha",
+      "source": "Público",
+      "date": "Sun, 25 Oct 2026 14:04:00 GMT",
+      "url": "https://www.publico.pt/2026/10/25/azul/opiniao/receber-transmitir-paisagem-patrimonio-responsabilidade-transformar-2192037",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "44575d0c",
+      "cat": "tecnologia",
+      "title": "Pais e filhos saem à rua aos milhares em luta por mais habitação: “Temos de ser muitos”",
+      "summary": "Milhares de pessoas sa&iacute;ram &agrave; rua em protesto, na tarde deste s&aacute;bado, entre as quais muitos pais que deram voz &agrave;s dificuldades que os seus filhos est&atilde;o a viver para conseguirem ter uma casa pr&oacute;pria.",
+      "source": "Público",
+      "date": "Sun, 25 Oct 2026 13:38:23 GMT",
+      "url": "https://www.publico.pt/2026/10/25/fotogaleria/pais-filhos-saem-rua-milhares-luta-habitacao-416136",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "9e20cf76",
+      "cat": "tecnologia",
+      "title": "As notícias das 14h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sun, 25 Oct 2026 08:15:11 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2557/",
+      "date": "Sun, 25 Oct 2026 14:15:00 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-14h-2514/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "78ab1d49",
+      "cat": "tecnologia",
+      "title": "As notícias das 13h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sun, 25 Oct 2026 13:20:37 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2486/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "e1c02571",
+      "cat": "tecnologia",
+      "title": "Habitação: Ventura defende polícia e volta a criticar silêncio de Montenegro",
+      "summary": "\"Quem se coloca hoje ao lado daqueles provocadores está a colocar-se contra a ordem, contra o Estado de Direito, contra o país. O Chega nunca aceitará fazer isso\", afirma o líder do Chega.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 25 Oct 2026 14:44:53 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-ventura-defende-policia-e-volta-a-criticar-silencio-de-montenegro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-25-14-43-15-531729.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c40d9cdc",
+      "cat": "tecnologia",
+      "title": "Habitação: PSD defende atuação da polícia e acusa PS de irresponsabilidade e hipocrisia",
+      "summary": "Sebastião Bugalho considerou \"preocupante e até chocante\" a reação do líder sociaalista.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 25 Oct 2026 14:28:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-psd-defende-atuacao-da-policia-e-acusa-ps-de-irresponsabilidade-e-hipocrisia",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-11-11-47-37-526455.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "9dec204c",
+      "cat": "tecnologia",
+      "title": "Com mais taxas, quanto vai custar encomendar online?",
+      "summary": "As compras feitas pelos consumidores diretamente em plataformas chinesas vão ficar mais caras, com a cobrança de uma nova taxa para suportar custos alfandegários em encomendas de fora da UE.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 25 Oct 2026 14:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/com-mais-taxas-quanto-vai-custar-encomendar-online",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-23-10-43-00-531664.jpg",
       "score": 0.7
     }
   ]
