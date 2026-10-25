@@ -1,5 +1,5 @@
 {
-  "last_update": "24/10/2026 20:34 UTC",
+  "last_update": "25/10/2026 04:19 UTC",
   "total": 30,
   "news": [
     {
@@ -34,17 +34,6 @@
       "url": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
       "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Atlantic-Salmon-001-©-Darren-Honeywill-2026.jpg",
       "score": 0.82
-    },
-    {
-      "id": "631ae1e0",
-      "cat": "tecnologia",
-      "title": "Canoísta Ricardo Coelho campeão mundial C1 de maratonas",
-      "summary": "Portugal já soma três medalhas de ouro na competição.",
-      "source": "Público",
-      "date": "Sat, 24 Oct 2026 16:51:47 GMT",
-      "url": "https://www.publico.pt/2026/10/24/desporto/noticia/canoista-ricardo-coelho-campeao-mundial-c1-maratonas-2192535",
-      "img": null,
-      "score": 0.79
     },
     {
       "id": "a337032e",
@@ -124,36 +113,14 @@
       "score": 0.79
     },
     {
-      "id": "45c63119",
-      "cat": "economia",
-      "title": "Vinícola aposta em sofisticação do paladar de brasileiros e distribuição estratégica",
-      "summary": "No lançamento do Mirabilis Tinto 2023, grupo que engloba a Quinta Nova de Nossa Senhora do Carmo (Douro) e a Taboadella (Dão) apresenta ações para o fortalecimento da marca no mercado brasileiro.",
-      "source": "Público",
-      "date": "Sat, 24 Oct 2026 16:30:48 GMT",
-      "url": "https://www.publico.pt/2026/10/24/publico-brasil/noticia/vinicola-aposta-sofisticacao-paladar-brasileiros-distribuicao-estrategica-2192501",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "67394b8b",
-      "cat": "sociedade",
-      "title": "Lucão defende remate de Borja na área (0-0, 33')",
-      "summary": "Depois de nova derrota na Champions com o PSV, FC Porto procura regresso aos triunfos para consolidar liderança na Liga só com vitórias. William Gomes continua de fora por lesão. Siga aqui em direto.",
-      "source": "Observador",
-      "date": "Sat, 24 Oct 2026 19:30:13 +0100",
-      "url": "https://observador.pt/liveblogs/gil-vicente-fc-porto-dragoes-procuram-regresso-aos-triunfos-apos-nova-derrota-na-champions/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:219/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/20224013/gettyimages-2300664312-scaled.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "5da799a2",
+      "id": "aa88dae7",
       "cat": "tecnologia",
-      "title": "Ricardo Coelho campeão mundial C1 de maratona",
-      "summary": "O canoísta português Ricardo Coelho sagrou-se campeão mundial C1 de maratona, dando o primeiro título sénior a Portugal em Gualeguaychú, na Argentina.",
-      "source": "RTP",
-      "date": "Sat, 24 Oct 2026 19:03:38 +0100",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/ricardo-coelho-campeao-mundial-c1-de-maratona_d1774039",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a3/a31b566d905e39f63255f5b802877776?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "title": "Polícia avançou para dispersar manifestações pela habitação em Lisboa e no Porto",
+      "summary": "PSP avisou que iria intervir caso “o acampamento ilegal” se mantivesse nas duas cidades. E, perante os fortes dispositivos policiais, depois da uma da manhã, o clima de tensão agravou-se.",
+      "source": "Público",
+      "date": "Sat, 24 Oct 2026 20:27:56 GMT",
+      "url": "https://www.publico.pt/2026/10/24/sociedade/noticia/manifestantes-desafiam-psp-decidem-voltar-montar-tendas-lisboa-porto-2192544",
+      "img": null,
       "score": 0.76
     },
     {
@@ -179,25 +146,36 @@
       "score": 0.76
     },
     {
-      "id": "4e265566",
+      "id": "23fb69f1",
       "cat": "tecnologia",
-      "title": "A lição n.º 1 de Tasos Douvikas: o jardim é para destruir",
-      "summary": "Primeiro, o jogador grego foi forçado a treinar-se em casa. Mais tarde, quis a chave do centro de treinos para lá ir à noite. Douvikas não larga o ginásio e diz que é fã de Ronaldo. Não esse, o outro.",
+      "title": "As imagens da intervenção policial nas acampadas em Lisboa e no Porto",
+      "summary": "Com fortes dispositivos nas ruas de Lisboa e Porto, a PSP avan&ccedil;ou sobre os manifestantes pela habita&ccedil;&atilde;o e em dez minutos acabou com as acampadas .",
       "source": "Público",
-      "date": "Sat, 24 Oct 2026 19:53:06 GMT",
-      "url": "https://www.publico.pt/2026/10/24/desporto/noticia/licao-n-1-tasos-douvikas-jardim-destruir-2192543",
+      "date": "Sun, 25 Oct 2026 03:49:32 GMT",
+      "url": "https://www.publico.pt/2026/10/25/fotogaleria/policia-avancou-dispersar-manifestacoes-habitacao-lisboa-porto-416135",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "f808e561",
+      "id": "f5185d79",
       "cat": "tecnologia",
-      "title": "Carneiro pede que lei das rendas fique na gaveta",
-      "summary": "O líder do PS diz que \"as pessoas já perceberam que esta é uma lei que vai facilitar os despejos\" e que medidas do PS procuraram \"fazer face à lei Cristas\".",
+      "title": "A ingenuidade da Igreja",
+      "summary": "Dir-se-á que as propostas da Igreja são ingénuas. Eu direi que são uma sabedoria. O que reina neste momento é a loucura! Opinião de Frei Bento Domingues O.P.",
+      "source": "Público",
+      "date": "Sat, 24 Oct 2026 23:25:00 GMT",
+      "url": "https://www.publico.pt/2026/10/25/opiniao/opiniao/ingenuidade-igreja-2192098",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "1e3ea27b",
+      "cat": "tecnologia",
+      "title": "Lisboa. As imagens da noite em que a polícia avançou",
+      "summary": "A polícia avançou sobre os manifestantes, dispersando-os e retirando as tendas que estavam no Rossio.",
       "source": "Observador",
-      "date": "Sat, 24 Oct 2026 19:23:50 +0100",
-      "url": "https://observador.pt/2026/10/24/carneiro-apela-ao-governo-para-deixar-nova-lei-do-arrendamento-na-gaveta-e-rejeita-responsabilidade-do-ps/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:3/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/20152409/47806752.jpg",
+      "date": "Sun, 25 Oct 2026 03:14:51 +0000",
+      "url": "https://observador.pt/2026/10/25/as-imagens-da-noite-em-que-a-policia-avancou-sobre-os-manifestantes-da-acampada-em-lisboa/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1616:908:nowe:0:86/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/25030103/img-3591.jpg",
       "score": 0.73
     },
     {
@@ -231,6 +209,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "e198f5ef",
+      "cat": "tecnologia",
+      "title": "Lazio na frente em Itália",
+      "summary": "A Lazio derrotou o Parma por 2-1, em encontro da oitava jornada da Liga italiana, somando a quarta vitória consecutiva no campeonato e isolando-se, provisoriamente, no topo da classificação.",
+      "source": "RTP",
+      "date": "Sun, 25 Oct 2026 00:04:47 +0100",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/lazio-na-frente-em-italia_d1774089",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/21/21cc56e3cbcccfccde94a8632389c45e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -311,14 +300,25 @@
       "score": 0.73
     },
     {
-      "id": "367edf24",
+      "id": "a719b7a9",
       "cat": "tecnologia",
-      "title": "Mil detidos em França. Confrontos em Itália e Albânia",
-      "summary": "Milhares de pessoas saíram às ruas em França: polícia reagiu com canhões de água e gás lacrimogéneo e cerca de mil pessoas foram detidas. Confrontos registados também em Itália e na Albânia.",
+      "title": "As notícias das 3h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sat, 24 Oct 2026 21:02:07 +0100",
-      "url": "https://observador.pt/2026/10/24/quase-mil-detidos-em-franca-durante-protestos-com-mais-de-400-mil-pessoas-manifestacoes-terminam-em-confrontos-em-italia-e-albania/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/24172231/gettyimages-2301286527-scaled.jpg",
+      "date": "Sun, 25 Oct 2026 03:14:17 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2477/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "42c10707",
+      "cat": "tecnologia",
+      "title": "As notícias das 2h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sun, 25 Oct 2026 02:40:05 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2451/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
