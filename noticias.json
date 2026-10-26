@@ -1,5 +1,5 @@
 {
-  "last_update": "26/10/2026 04:23 UTC",
+  "last_update": "26/10/2026 12:43 UTC",
   "total": 30,
   "news": [
     {
@@ -23,17 +23,6 @@
       "url": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
       "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Atlantic-Salmon-001-©-Darren-Honeywill-2026.jpg",
       "score": 0.82
-    },
-    {
-      "id": "9376223e",
-      "cat": "tecnologia",
-      "title": "A vitória nacional do PT, o domínio do PL nos estados",
-      "summary": "Lula vence as eleições com 51,79% dos votos, mas o PL é o partido com mais governadores (seis). Pela primeira vez desde 2006, três mulheres foram eleitas governadoras, um recorde histórico.",
-      "source": "Observador",
-      "date": "Mon, 26 Oct 2026 03:58:10 +0000",
-      "url": "https://observador.pt/2026/10/26/a-vitoria-nacional-do-pt-o-dominio-do-pl-nos-estados-os-numeros-da-segunda-volta-das-eleicoes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1684:nowe:0:27/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/26025502/gettyimages-2301496551.jpg",
-      "score": 0.79
     },
     {
       "id": "72a0e34f",
@@ -69,47 +58,58 @@
       "score": 0.79
     },
     {
-      "id": "73a3dc36",
-      "cat": "ciencia",
-      "title": "A hidden bias in human language challenges 70 years of science",
-      "summary": "A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone. Even more surprisingly, human language shows a powerful hidden pref",
-      "source": "ScienceDaily",
-      "date": "Sat, 24 Oct 2026 09:01:22 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
-      "img": "https://www.sciencedaily.com/images/1920/woman-speaks-letters.webp",
-      "score": 0.79
-    },
-    {
-      "id": "7f53e4c0",
-      "cat": "ciencia",
-      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
-      "summary": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity. The discovery challenges decades of scientific assu",
-      "source": "ScienceDaily",
-      "date": "Sat, 24 Oct 2026 22:19:07 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
-      "img": "https://www.sciencedaily.com/images/1920/superconducting-material-hovering-over-magnets.webp",
-      "score": 0.79
-    },
-    {
-      "id": "6bbc9bcb",
+      "id": "6fc8f44e",
       "cat": "tecnologia",
-      "title": "Antonelli a dois pontos da História da Fórmula 1",
-      "summary": "O italiano Kimi Antonelli (Mercedes) venceu o Grande Prémio dos Estados Unidos de Fórmula 1, 18.ª ronda da temporada, mas adiou a conquista do título mundial, que poderá garantir com apenas dois pontos no México.",
-      "source": "RTP",
-      "date": "Sun, 25 Oct 2026 22:03:26 +0000",
-      "url": "https://www.rtp.pt/noticias/motores/antonelli-a-dois-pontos-da-historia-da-formula-1_d1774296",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cf4a6fb675d1834856bc33dc83000e96?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "title": "Governo conclui as 61 zonas de conservação após anos a pagar multas à UE por atraso",
+      "summary": "A aprovação dos diplomas da Serra da Estrela e de Alvito–Cuba completa o processo que motivou condenações europeias e uma multa de dez milhões de euros.",
+      "source": "Público",
+      "date": "Mon, 26 Oct 2026 11:28:43 GMT",
+      "url": "https://www.publico.pt/2026/10/26/azul/noticia/governo-conclui-61-zonas-conservacao-apos-anos-pagar-multas-ue-atraso-2192636",
+      "img": null,
       "score": 0.76
     },
     {
-      "id": "59f3fd35",
+      "id": "93c248e7",
       "cat": "tecnologia",
-      "title": "Juventus regressa às vitórias",
-      "summary": "A Juventus venceu por 2-0 em casa do Lecce, para a oitava jornada da liga italiana, liderada pelo campeão Inter Milão em igualdade pontual com a Lazio.",
-      "source": "RTP",
-      "date": "Sun, 25 Oct 2026 19:53:03 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/juventus-regressa-as-vitorias_d1774261",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a1/a1c6a5823076ecd55c4ce0b1767378c6?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "title": "União Europeia felicita Lula e destaca vitória da democracia",
+      "summary": "Ursula Von der Leyen destacou a importância da vitória de Lula da Silva para a boa colaboração em prol de um comércio livre e aberto. Lula ganhou com 52% dos votos. Bolsonaro pede anulação da votação.",
+      "source": "Observador",
+      "date": "Mon, 26 Oct 2026 11:06:29 +0000",
+      "url": "https://observador.pt/2026/10/26/eliecoes-no-brasil-uniao-europeia-felicita-lula-da-silva-e-destaca-vitoria-da-democracia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/05/01091418/46366620.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "dfeda927",
+      "cat": "tecnologia",
+      "title": "Estados Unidos querem Viktor Orbán na liderança da ONU",
+      "summary": "EUA contactaram o ex-primeiro-ministro húngaro, que se mostrou recetivo à ideia de concorrer ao cargo. Washington confiante de que Orbán conseguirá a aprovação do Conselho de Segurança.",
+      "source": "Observador",
+      "date": "Mon, 26 Oct 2026 10:59:44 +0000",
+      "url": "https://observador.pt/2026/10/26/estados-unidos-querem-viktor-orban-na-lideranca-da-onu-e-estao-a-tentar-recolher-apoio-da-russia-e-china/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/11/07173727/gettyimages-2244987017-scaled.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "97c63f89",
+      "cat": "tecnologia",
+      "title": "Galp: \"Mantemo-nos abertos a oportunidades\" de consolidação após fim das negociações com a Moeve",
+      "summary": "João Diogo Marques da Silva, co-CEO da Galp, garante que a petrolífera continua a acreditar nas vantagens da consolidação para ganhar escala e competitividade. Maria João Carioca explica que o negócio com a Moeve não avançou por falta de entendimento sobre a criação de valor.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 26 Oct 2026 11:23:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/galp-mantemo-nos-abertos-a-oportunidades-de-consolidacao-apos-fim-das-negociacoes-com-a-moeve",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-02/img_100x100uu2025-02-25-16-43-32-496534.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "e4b5b74f",
+      "cat": "tecnologia",
+      "title": "Seat faz ‘mira’ ao setor da Defesa com produção de drones na fábrica de Barcelona",
+      "summary": "A gigante automóvel Seat procura entrar no negócio da Defesa e está a negociar com o grupo tecnológico espanhol Aggity a produção de drones civis e militares na fábrica de Martorell, perto de Barcelona. O projeto prevê a criação de uma linha de produção dedicada e depende de financiamento público, e",
+      "source": "ECO",
+      "date": "Mon, 26 Oct 2026 12:02:52 +0000",
+      "url": "https://eco.sapo.pt/2026/10/26/seat-faz-mira-ao-setor-da-defesa-com-producao-de-drones-na-fabrica-de-barcelona/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-z62-3137-1.jpg",
       "score": 0.76
     },
     {
@@ -157,6 +157,28 @@
       "score": 0.76
     },
     {
+      "id": "027733a9",
+      "cat": "ambiente",
+      "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+      "summary": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were able to reconstruct a total solar eclipse that occurred in 7",
+      "source": "ScienceDaily",
+      "date": "Mon, 26 Oct 2026 07:06:08 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
+      "img": "https://www.sciencedaily.com/images/1920/ancient-total-solar-eclipse.webp",
+      "score": 0.76
+    },
+    {
+      "id": "8b34d5ac",
+      "cat": "tecnologia",
+      "title": "Tiny magnetic vortices could help computers work more like your brain",
+      "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy",
+      "source": "ScienceDaily",
+      "date": "Mon, 26 Oct 2026 06:06:16 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+      "img": "https://www.sciencedaily.com/images/1920/magnetic-swirls-brain-computer.webp",
+      "score": 0.76
+    },
+    {
       "id": "40cfbcc3",
       "cat": "ciencia",
       "title": "New evidence suggests spinosaurus spent most of its life underwater",
@@ -168,80 +190,47 @@
       "score": 0.76
     },
     {
-      "id": "4b89fafc",
+      "id": "daf9805b",
       "cat": "tecnologia",
-      "title": "Lula ganhou. E agora, Brasil?",
-      "summary": "Que sinal dá a vitória de Lula ao mundo? E que margem tem o presidente eleito do Brasil para liderar um país dividido, onde o controlo do Congresso é da oposição e o Senado virou mais à direita?",
+      "title": "A grandeza do Brasil",
+      "summary": "Foi uma grande vitória de Lula e uma grande derrota de Bolsonaro. E é por esta grandeza – e a grandeza maior – que nos devemos ficar. Crónica de Miguel Esteves Cardoso",
       "source": "Público",
-      "date": "Mon, 26 Oct 2026 03:06:25 GMT",
-      "url": "https://www.publico.pt/2026/10/26/mundo/noticia/lula-ganhou-brasil-2192613",
+      "date": "Mon, 26 Oct 2026 11:15:47 GMT",
+      "url": "https://www.publico.pt/2026/10/26/opiniao/cronica/grandeza-brasil-2192637",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "dd88ce81",
+      "id": "c26e80de",
       "cat": "tecnologia",
-      "title": "A discriminação das crianças que continuamos a não reconhecer",
-      "summary": "O reconhecimento das crianças como sujeitos de direitos exige mais do que protegê-las. Exige reconhecer que a infância não pode constituir, por si, uma justificação para a desigualdade de tratamento. Opinião de Odete Severino Soares",
+      "title": "Lucro da Galp já superou em 300 milhões o resultado recorde de todo o ano passado",
+      "summary": "Resultado da Galp aproxima-se dos 1,5 mil milhões em nove meses. Gestão defende que lucro recorde se deve à estratégia e não à conjuntura de preços de petróleo. Há revisão em alta dos lucros anuais.",
       "source": "Público",
-      "date": "Mon, 26 Oct 2026 00:15:00 GMT",
-      "url": "https://www.publico.pt/2026/10/26/opiniao/opiniao/discriminacao-criancas-continuamos-nao-reconhecer-2192250",
+      "date": "Mon, 26 Oct 2026 10:07:15 GMT",
+      "url": "https://www.publico.pt/2026/10/26/economia/noticia/lucro-galp-ja-superou-300-milhoes-resultado-recorde-ano-passado-2192618",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "42c10707",
+      "id": "6231d022",
       "cat": "tecnologia",
-      "title": "2h. Flávio Bolsonaro vai pedir a anulação das eleições",
-      "summary": "Bolsonaro pede a anulação das eleições brasileiras e contesta o prolongamento da votação por duas horas. Ainda, Académico de Viseu vence Sporting e soma a quinta vitória consecutiva no campeonato.",
+      "title": "Presidente alemão visita China em momento de tensão",
+      "summary": "A visita coincide com a viagem do primeiro-ministro à Singapura, Coreia do Sul e Japão, para reforçar os laços comerciais. Em outubro, o Governo alemão vetou aquisição de 80% da Zippel pela China.",
       "source": "Observador",
-      "date": "Mon, 26 Oct 2026 02:11:34 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2451/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Mon, 26 Oct 2026 11:06:47 +0000",
+      "url": "https://observador.pt/2026/10/26/presidente-alemao-inicia-visita-a-china-em-plena-tensao-comercial-entre-berlim-e-pequim/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:44/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/22115334/44528207.jpg",
       "score": 0.73
     },
     {
-      "id": "b7b3bbdf",
+      "id": "6cc95202",
       "cat": "tecnologia",
-      "title": "Fita do tempo. Duas reviravoltas e Lula reeleito com recorde",
-      "summary": "A contagem ficou suspensa durante duas horas, Flávio Bolsonaro chegou a liderar, mas Lula recuperou e consolidou a vantagem. TSE confirmou a reeleição e Minas Gerais voltou a acertar no vencedor.",
-      "source": "Observador",
-      "date": "Mon, 26 Oct 2026 01:40:50 +0000",
-      "url": "https://observador.pt/2026/10/26/lideranca-mudou-duas-vezes-antes-de-lula-garantir-reeleicao-historica-a-fita-do-tempo-da-noite-eleitoral/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:125/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/04132914/47881942.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "183c03a7",
-      "cat": "tecnologia",
-      "title": "Adesão de Portugal à UE entre os alargamentos mais bem avaliados pelos europeus",
-      "summary": "Estudo da Fundação Francisco Manuel dos Santos e pela Fundação Bertelsmann revela que a adesão de Portugal à UE, em simultâneo com Espanha, é uma das mais bem aceites pelos europeus. Portugueses entre os que mais valorizam o impacto positivo da adesão na democracia e economia.",
+      "title": "Concessionária da Douro Interior conclui refinanciamento de 450 milhões",
+      "summary": "Os ganhos financeiros decorrentes da redução dos custos de financiamento serão partilhados entre a concessionária detida pela Líneas e a Infraestruturas de Portugal, o que permite, diz, \"uma diminuição dos encargos públicos\" com esta concessão rodoviária.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 26 Oct 2026 00:01:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/adesao-de-portugal-a-ue-entre-os-alargamentos-mais-bem-avaliados-pelos-europeus",
-      "img": "https://cdn.jornaldenegocios.pt/images/2012-08/img_100x100uu2012-08-01-11-30-44-33602.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ef27d901",
-      "cat": "tecnologia",
-      "title": "Negócio entre Galp e Moeve em risco",
-      "summary": "Especialistas do setor da energia tinham já alertado que a parceria entre a Galp e a Moeve poria em causa a segurança energética nacional. Segundo o Eco, as negociações entre as duas empresas poderão não chegar a bom porto.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 25 Oct 2026 22:27:12 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/negocio-entre-galp-e-moeve-em-risco",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-01/img_100x100uu2024-01-25-08-28-36-468988.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "e9f8ab85",
-      "cat": "tecnologia",
-      "title": "Preços das casas nos arredores chegam a subir o triplo das de Lisboa",
-      "summary": "A escalada nos preços da habitação desacelerou ligeiramente face aos primeiros três meses do ano, mas mantém-se acima dos 18% a nível nacional. Entre os municípios mais populosos, a periferia da capital regista aumentos acima do conjunto do país.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 25 Oct 2026 22:00:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/precos-das-casas-nos-arredores-chegam-a-subir-o-triplo-das-de-lisboa",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-01-12-04-19-530385.jpg",
+      "date": "Mon, 26 Oct 2026 12:29:16 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/concessionaria-da-douro-interior-conclui-refinanciamento-de-450-milhoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-09/img_100x100uu2022-09-27-20-04-13-436930.jpg",
       "score": 0.73
     },
     {
@@ -256,25 +245,58 @@
       "score": 0.73
     },
     {
-      "id": "31b61e65",
-      "cat": "desporto",
-      "title": "Aarhus bate Viborg e soma segunda vitória na Liga dinamarquesa",
-      "summary": "O Aarhus, adversário do Sporting de Braga na fase de liga da Liga Conferência de futebol, somou hoje a segunda vitória no campeonato dinamarquês, ao vencer por 2-1 na receção ao Viborg, na 12.ª jornada.",
+      "id": "1a6beb0b",
+      "cat": "tecnologia",
+      "title": "Henrique Rocha coloca Portugal pela primeira vez com três tenistas no top 100",
+      "summary": "O tenista Henrique Rocha subiu hoje ao 100.º lugar do ranking mundial, colocando Portugal pela primeira vez na história com três representantes no top 100, desde a criação da tabela ATP, em 1973.",
       "source": "RTP",
-      "date": "Sun, 25 Oct 2026 19:47:19 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/aarhus-bate-viborg-e-soma-segunda-vitoria-na-liga-dinamarquesa_d1774260",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "date": "Mon, 26 Oct 2026 10:39:25 +0000",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/henrique-rocha-coloca-portugal-pela-primeira-vez-com-tres-tenistas-no-top-100_d1774410",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/50/50955137dedd3f3c36027f0be05d14a7?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "4a0e30b1",
+      "id": "85acef20",
       "cat": "tecnologia",
-      "title": "Lula da Silva reeleito para o quarto mandato no Brasil",
-      "summary": "Luiz Inácio Lula da Silva foi reeleito na segunda volta das eleições presidenciais do Brasil, com 51,75% dos votos, para o quarto mandato como chefe de Estado, e fez história como o primeiro candidato a vencer depois de ter perdido na primeira volta. Lula da Silva conseguiu 63.388.523 votos, contra ",
+      "title": "Nacional de Ralis. Armindo Araújo soma mais uma vitória no Norte",
+      "summary": "Armindo Araújo foi o grande vencedor do Rali Seis Cidades do Norte, prova a contar para o Campeonato Nacional.",
+      "source": "RTP",
+      "date": "Mon, 26 Oct 2026 09:34:47 +0000",
+      "url": "https://www.rtp.pt/noticias/desporto/nacional-de-ralis-armindo-araujo-soma-mais-uma-vitoria-no-norte_v1774394",
+      "img": "https://cdn-images.rtp.pt/icm/images/3a/3a10ef1ba4b9ce858f5e7fab0293b115_N.jpg?",
+      "score": 0.73
+    },
+    {
+      "id": "e5fdf170",
+      "cat": "desporto",
+      "title": "Campeão Sporting e Benfica favoritos na Ronda Principal da `Champions` de futsal",
+      "summary": "O Sporting inicia na quarta-feira a defesa do título na Liga dos Campeões de futsal, no grupo 3 da Ronda Principal de 2026/27, e, tal como o Benfica no agrupamento 4, deverá qualificar-se sem dificuldade para os &#039;oitavos&#039;.",
+      "source": "RTP",
+      "date": "Mon, 26 Oct 2026 09:28:09 +0000",
+      "url": "https://www.rtp.pt/noticias/sporting/campeao-sporting-e-benfica-favoritos-na-ronda-principal-da-champions-de-futsal_d1774391",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/3f/3fe9e66e27d6cd913f3aba22548284f1?w=350&amp;q=50&amp;rect=0,0,988,542&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "140470d6",
+      "cat": "tecnologia",
+      "title": "Participada da Mota-Engil fecha refinanciamento de 450 milhões na concessionária do Douro Interior",
+      "summary": "A SDI &#8211; Concessionária do Douro Interior, participada da Lineas &#8211; Concessões de Transportes &#8212; joint-venture entre o Grupo Mota-Engil e a espanhola Serena Industrial Partners &#8211;, concluiu a operação de refinanciamento da totalidade da sua dívida sénior no montante de cerca de 4",
       "source": "ECO",
-      "date": "Mon, 26 Oct 2026 02:27:28 +0000",
-      "url": "https://eco.sapo.pt/2026/10/26/lula-da-silva-reeleito-para-o-quarto-mandato-no-brasil/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-48006213-scaled-1.jpg",
+      "date": "Mon, 26 Oct 2026 12:34:46 +0000",
+      "url": "https://eco.sapo.pt/2026/10/26/participada-da-mota-engil-fecha-refinanciamento-de-450-milhoes-na-concessionaria-do-douro-interior/",
+      "img": "https://eco.imgix.net/uploads/2024/02/cropped-fabrica11-scaled-3.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "23aa3e2a",
+      "cat": "economia",
+      "title": "“Parar no tempo nunca vai ser opção”. Loara Costa, da Sovena, na primeira pessoa",
+      "summary": "Loara Costa entrou na Sovena em 2013 para dirigir o marketing no mercado brasileiro, onde a Andorinha é a principal marca do portefólio. Um ano depois surgiu um dos seus grandes desafios no grupo: a Sovena decidiu terminar o acordo com a Bunge, a grande empresa alimentar que fazia toda a distribuiçã",
+      "source": "ECO",
+      "date": "Mon, 26 Oct 2026 12:06:25 +0000",
+      "url": "https://eco.sapo.pt/2026/10/26/parar-no-tempo-nunca-vai-ser-opcao-loara-costa-da-sovena-na-primeira-pessoa/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-loara-costa-sovena-3.jpeg",
       "score": 0.73
     },
     {
@@ -300,36 +322,14 @@
       "score": 0.73
     },
     {
-      "id": "f08b30a1",
-      "cat": "tecnologia",
-      "title": "Reviravolta de Lula: a festa e a desilusão lado a lado nas ruas do Brasil",
-      "summary": "Um pouco por todo o Brasil, festeja-se ou faz-se o luto pelo resultado das elei&ccedil;&otilde;es que deram o quarto mandato presidencial a Lula da Silva.",
-      "source": "Público",
-      "date": "Mon, 26 Oct 2026 02:08:02 GMT",
-      "url": "https://www.publico.pt/2026/10/26/fotogaleria/reviravolta-lula-festa-desilusao-lado-lado-ruas-brasil-416139",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "c8ced442",
-      "cat": "tecnologia",
-      "title": "Soldados ingénuos, como formigas no Chapitô",
-      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
-      "source": "TSF",
-      "date": "Thu, 11 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "id": "bffa414e",
+      "cat": "economia",
+      "title": "Bull & Bear: Vento a favor para as empresas exportadoras",
+      "summary": "A recente queda do euro pode atuar como um poderoso estímulo para a economia europeia.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 26 Oct 2026 12:15:00 Z",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/bull-bear-vento-a-favor-para-as-empresas-exportadoras",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_394x514uu2026-02-06-12-17-15-518048.png",
       "score": 0.7
     }
   ]
