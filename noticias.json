@@ -1,5 +1,5 @@
 {
-  "last_update": "26/10/2026 22:34 UTC",
+  "last_update": "27/10/2026 04:42 UTC",
   "total": 30,
   "news": [
     {
@@ -56,6 +56,50 @@
       "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08de/live/6e052f20-cd4f-11f1-8177-0f8bd59b54c4.jpg",
       "score": 0.79
+    },
+    {
+      "id": "048730f2",
+      "cat": "tecnologia",
+      "title": "3h. Harry Kane vence Bola de Ouro à frente de Mbappé e Yamal",
+      "summary": "Harry Kane conquista a Bola de Ouro, numa lista em que Vitinha surge em 14.º lugar e João Neves em 19.º. Ainda, Donald Trump questiona a legitimidade dos resultados das presidenciais brasileiras.",
+      "source": "Observador",
+      "date": "Tue, 27 Oct 2026 03:16:52 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2479/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.76
+    },
+    {
+      "id": "e9db227c",
+      "cat": "tecnologia",
+      "title": "Inglês Harry Kane vence Bola de Ouro pela primeira vez",
+      "summary": "Kane, de 33 anos, conquistou na época 2025/26 a Liga alemã, a Taça da Alemanha e a Supertaça, com um registo de 61 golos em 51 jogos pelo Bayern nas diferentes competições, 36 dos quais no campeonato, que lhe valeram a conquista da Bota de Ouro.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 27 Oct 2026 00:15:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/ingles-harry-kane-vence-bola-de-ouro-pela-primeira-vez",
+      "img": "https://cdn.jornaldenegocios.pt/images/2021-07/img_100x100uu2021-07-05-12-12-50-406995.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "4fec0e3c",
+      "cat": "tecnologia",
+      "title": "Galp procura parceiro. “Não é indispensável” controlo de Sines",
+      "summary": "Dez meses depois de anunciado, o acordo com os espanhóis para a fusão dos negócios de “donwstream” não se concretizou. A pressão política travou a operação, mas não demove a Galp de encontrar um novo parceiro. E “não é indispensável” manter o controlo da única refinaria nacional.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 26 Oct 2026 23:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/galp-procura-parceiro-nao-e-indispensavel-controlo-de-sines",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-12/img_100x100uu2022-12-15-19-59-13-442360.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "4f248100",
+      "cat": "tecnologia",
+      "title": "Harry Kane eleito o melhor jogador do mundo",
+      "summary": "Harry Kane conquistou a Bola de Ouro 2026. Aos 33 anos, o internacional inglês foi distinguido com o prémio mais cobiçado da France Football, pela primeira vez na carreira, superando Kylian Mbappé e Lamine Yamal, considerado o jovem talento do ano.",
+      "source": "RTP",
+      "date": "Mon, 26 Oct 2026 22:55:59 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/harry-kane-eleito-o-melhor-jogador-do-mundo_d1774573",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e4cb28eff5ea358adcd68dc43d03b866?w=350&amp;q=50&amp;rect=0,0,5611,3076&amp;auto=format",
+      "score": 0.76
     },
     {
       "id": "777fa59b",
@@ -168,47 +212,47 @@
       "score": 0.76
     },
     {
-      "id": "4e7ec950",
-      "cat": "geral",
-      "title": "Montenegro quebra silêncio sobre manifestações no debate do Orçamento",
-      "summary": "De regresso ao Parlamento para debater o Orçamento do Estado na generalidade, primeiro-ministro aproveitará o momento para falar sobre os protestos que têm marcado a actualidade mediática.",
+      "id": "9f3a19d9",
+      "cat": "cultura",
+      "title": "Os netos de Abril",
+      "summary": "Com o primeiro-ministro em parte incerta, caberia ao Presidente da República pronunciar-se sobre o que se passa nas nossas cidades. Há 3.502.613 portugueses que o esperam. Opinião de Amílcar Correia",
       "source": "Público",
-      "date": "Mon, 26 Oct 2026 21:53:48 GMT",
-      "url": "https://www.publico.pt/2026/10/26/politica/noticia/montenegro-quebra-silencio-manifestacoes-debate-orcamento-2192700",
+      "date": "Tue, 27 Oct 2026 00:25:00 GMT",
+      "url": "https://www.publico.pt/2026/10/27/opiniao/opiniao/netos-abril-2192696",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "18b7df51",
+      "id": "7322bb95",
       "cat": "tecnologia",
-      "title": "Sustentabilidade: obrigação ou vantagem competitiva?",
-      "summary": "A inovação permite-nos fazer diferente. A sustentabilidade obriga-nos a fazer melhor. Juntas podem permitir-nos criar mais valor e um futuro mais resiliente.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 26 Oct 2026 20:29:56 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/deans-corner/joao-pinto/detalhe/sustentabilidade-obrigacao-ou-vantagem-competitiva",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-12/img_394x514uu2023-12-14-16-29-01-466300.png",
+      "title": "Primeiro automóvel em Portugal inspira livro infantil",
+      "summary": "A Câmara de Santiago do Cacém convidou as autoras de \"Uma Aventura\" a recriar a chegada do \"Panhard & Levassor\" ao país, há 131 anos, para o público mais jovem.",
+      "source": "Observador",
+      "date": "Tue, 27 Oct 2026 00:35:57 +0000",
+      "url": "https://observador.pt/2026/10/27/livro-infantil-de-ana-maria-magalhaes-e-isabel-alcada-conta-a-historia-do-primeiro-automovel-em-portugal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/03/15165842/uma-aventura20.jpg",
       "score": 0.73
     },
     {
-      "id": "02fff265",
-      "cat": "economia",
-      "title": "Lula consegue reviravolta, mas incerteza permanece",
-      "summary": "O atual Presidente conseguiu ser o primeiro candidato a vencer a corrida eleitoral depois de ter sido derrotado na primeira volta. Contudo, o adversário Flávio Bolsonaro anunciou que vai pedir a anulação do escrutínio. Dúvidas sobre o programa económico de Lula da Silva penalizaram o mercado.",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 26 Oct 2026 19:47:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/lula-consegue-reviravolta-mas-incerteza-permanece",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-26-07-37-23-531760.jpg",
+      "id": "ee55f544",
+      "cat": "tecnologia",
+      "title": "Passaporte climático para acompanhar ação dos municípios",
+      "summary": "82 municípios já manifestaram interesse antes do lançamento oficial. A adesão é voluntária e assenta em três níveis: Planeamento, Ação e Liderança.",
+      "source": "Observador",
+      "date": "Tue, 27 Oct 2026 00:34:45 +0000",
+      "url": "https://observador.pt/2026/10/27/agencia-para-a-energia-lanca-passaporte-climatico-para-acompanhar-acao-dos-municipios/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/13091008/40542581.jpg",
       "score": 0.73
     },
     {
-      "id": "51618d86",
-      "cat": "sociedade",
-      "title": "Moedas manifesta solidariedade com manifestantes sem comentar intervenção policial em Lisboa",
-      "summary": "O presidente da câmara municipal de Lisboa disse estar \"do lado daqueles que têm esta causa\" pelo direito à habitação, por ser \"absolutamente importante\", mas não quis pronunciar-se sobre a intervenção policial, pedindo apenas \"serenidade e calma\".",
+      "id": "8376d6f9",
+      "cat": "tecnologia",
+      "title": "Estudantes franceses mantêm protestos apesar das concessões do governo",
+      "summary": "Depois de várias reuniões e do lançamento de uma plataforma de consulta dirigida aos alunos do ensino secundário, cujas mobilizações serviram de rastilho para um movimento de protesto que se alastrou a outros setores, o governo anunciou uma série de medidas, que foram consideradas \"insuficientes\".",
       "source": "Jornal de Negócios",
-      "date": "Mon, 26 Oct 2026 19:13:27 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/moedas-manifesta-solidariedade-com-manifestantes-sem-comentar-intervencao-policial-em-lisboa",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-20-09-50-32-531440.png",
+      "date": "Tue, 27 Oct 2026 00:45:41 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/europa/detalhe/estudantes-franceses-mantem-protestos-apesar-das-concessoes-do-governo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-19-20-14-01-531426.jpg",
       "score": 0.73
     },
     {
@@ -231,17 +275,6 @@
       "date": "Mon, 26 Oct 2026 18:20:41 +0000",
       "url": "https://www.rtp.pt/noticias/sporting/taca-da-liga-rui-borges-admite-insatisfacao-natural-e-anuncia-revolucao_d1774531",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/20/206c1a10f9c854b6435900a4c5fddd0e?w=350&amp;q=50&amp;rect=0,58,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "dfe313b1",
-      "cat": "desporto",
-      "title": "João Henriques diz que \"foi fácil aceitar convite\" para treinar o Nacional",
-      "summary": "O novo treinador do Nacional, João Henriques, afirmou hoje que aceitou de imediato o convite para orientar o clube da I Liga portuguesa de futebol, expressando o desejo de retribuir com uma época &quot;repleta de sucesso&quot; desportivo.",
-      "source": "RTP",
-      "date": "Mon, 26 Oct 2026 14:25:27 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/joao-henriques-diz-que-foi-facil-aceitar-convite-para-treinar-o-nacional_d1774477",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/d3/d383a8e38facb41cde45bb135a6b6cbd?w=350&amp;q=50&amp;rect=0,0,513,281&amp;auto=format",
       "score": 0.73
     },
     {
@@ -278,58 +311,25 @@
       "score": 0.73
     },
     {
-      "id": "1f02bfae",
-      "cat": "tecnologia",
-      "title": "Provedora de Justiça pede explicações urgentes à PSP sobre actuação nos protestos",
-      "summary": "Pedido reporta-se à actuação da madrugada de domingo e junta-se a um que já tinha sido feito anteriormente após a actuação das autoridades no dia 15 de Outubro. PSP tem dez dias para responder.",
+      "id": "204e16a6",
+      "cat": "ambiente",
+      "title": "Distúrbios em Bilbau: 19 detidos, sete menores, depois de cancelado evento com Vito Quiles",
+      "summary": "O incidente basco segue-se a um fim-de-semana de grandes distúrbios em Barcelona, que resultaram em 128 detidos, saques e dezenas de incêndios.",
       "source": "Público",
-      "date": "Mon, 26 Oct 2026 21:58:37 GMT",
-      "url": "https://www.publico.pt/2026/10/26/sociedade/noticia/provedora-justica-pede-explicacoes-urgentes-psp-actuacao-protestos-2192732",
+      "date": "Tue, 27 Oct 2026 01:26:18 GMT",
+      "url": "https://www.publico.pt/2026/10/27/mundo/noticia/disturbios-bilbau-19-detidos-sete-menores-cancelado-evento-vito-quiles-2192738",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "e184edc0",
+      "id": "e7f5cf07",
       "cat": "tecnologia",
-      "title": "Grace Passô: “A nossa democracia continua em perigo, mas estamos vivos”",
-      "summary": "A dramaturga, actriz e realizadora brasileira está em Portugal com a peça de teatro Festa e com a sua primeira longa-metragem, Nosso Segredo .",
+      "title": "Um país acampado nos seus bloqueios",
+      "summary": "Com muita probabilidade, há, nas várias acampadas , um pouco disto tudo. Deixem-me que vos conte o que ali vejo. Opinião de Pedro Norton",
       "source": "Público",
-      "date": "Mon, 26 Oct 2026 21:34:02 GMT",
-      "url": "https://www.publico.pt/2026/10/26/culturaipsilon/noticia/grace-passo-democracia-continua-perigo-vivos-2192724",
+      "date": "Tue, 27 Oct 2026 00:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/27/opiniao/opiniao/pais-acampado-bloqueios-2192627",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "f7ba3ff0",
-      "cat": "cultura",
-      "title": "E tudo o vento levou até ao furacão que evitou uma depressão",
-      "summary": "Após a pior primeira parte da época condicionada também pelo vento a favor do Santa Clara, Marco Silva mexeu bem e colocou Prestianni no centro do jogo para desequilibrar tudo em seis minutos (1-2).",
-      "source": "Observador",
-      "date": "Mon, 26 Oct 2026 20:59:08 +0000",
-      "url": "https://observador.pt/2026/10/26/e-tudo-o-vento-levou-ate-ao-furacao-que-evitou-uma-depressao-maior-a-cronica-do-santa-clara-benfica/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2300:nowe:0:409/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/26205654/doc202610264801365113333246-scaled.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "64eed124",
-      "cat": "tecnologia",
-      "title": "Microsoft propõe saídas voluntárias a 60 mil trabalhadores",
-      "summary": "O plano abrange trabalhadores nos EUA, Canadá, Índia e Reino Unido. Os funcionários que aceitarem a proposta e saírem da empresa terão direito a condições semelhantes às de uma indemnização.",
-      "source": "Observador",
-      "date": "Mon, 26 Oct 2026 20:57:56 +0000",
-      "url": "https://observador.pt/2026/10/26/microsoft-propoe-novo-plano-de-saidas-voluntarias-a-60-mil-trabalhadores/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:125/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/06/25133619/42783020.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "1f3a6e3d",
-      "cat": "tecnologia",
-      "title": "EUA retêm felicitações a Lula após pedido de anulação",
-      "summary": "Rascunho estava pronto no Departamento de Estado, mas ordem para adiar a publicação chegou após pedido de anulação dos resultados por Flávio Bolsonaro.",
-      "source": "Observador",
-      "date": "Mon, 26 Oct 2026 20:56:56 +0000",
-      "url": "https://observador.pt/2026/10/26/eua-retem-comunicado-de-felicitacoes-a-lula-apos-flavio-bolsonaro-pedir-anulacao-das-eleicoes-brasileiras/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16215458/47956508.jpg",
       "score": 0.7
     }
   ]
