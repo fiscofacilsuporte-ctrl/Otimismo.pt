@@ -1,5 +1,5 @@
 {
-  "last_update": "27/10/2026 04:42 UTC",
+  "last_update": "27/10/2026 11:58 UTC",
   "total": 30,
   "news": [
     {
@@ -58,36 +58,47 @@
       "score": 0.79
     },
     {
-      "id": "048730f2",
-      "cat": "tecnologia",
-      "title": "3h. Harry Kane vence Bola de Ouro à frente de Mbappé e Yamal",
-      "summary": "Harry Kane conquista a Bola de Ouro, numa lista em que Vitinha surge em 14.º lugar e João Neves em 19.º. Ainda, Donald Trump questiona a legitimidade dos resultados das presidenciais brasileiras.",
-      "source": "Observador",
-      "date": "Tue, 27 Oct 2026 03:16:52 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2479/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "id": "80681f0f",
+      "cat": "cultura",
+      "title": "Sol na eira, chuva no nabal",
+      "summary": "A falta de casas deve-se mais ao crescimento desenfreado da procura do que à estagnação da oferta. A explosão do turismo tem uma quota-parte de responsabilidade assinalável na situação que vivemos.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 27 Oct 2026 11:15:00 Z",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/alvaro-nascimento/detalhe/sol-na-eira-chuva-no-nabal",
+      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-21-17-46-00-296317.png",
       "score": 0.76
     },
     {
-      "id": "e9db227c",
+      "id": "cfe68c7c",
       "cat": "tecnologia",
-      "title": "Inglês Harry Kane vence Bola de Ouro pela primeira vez",
-      "summary": "Kane, de 33 anos, conquistou na época 2025/26 a Liga alemã, a Taça da Alemanha e a Supertaça, com um registo de 61 golos em 51 jogos pelo Bayern nas diferentes competições, 36 dos quais no campeonato, que lhe valeram a conquista da Bota de Ouro.",
+      "title": "Radar África: A meia vitória da Sonangol no fim do namoro da Galp",
+      "summary": "A petrolífera angolana nunca se pronunciou oficialmente sobre a parceria Galp-Moeve, mas a incompatibilidade entre os dois acionistas de referência da Amorim Energia é um “segredo de polichinelo”.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 27 Oct 2026 00:15:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/ingles-harry-kane-vence-bola-de-ouro-pela-primeira-vez",
-      "img": "https://cdn.jornaldenegocios.pt/images/2021-07/img_100x100uu2021-07-05-12-12-50-406995.jpg",
+      "date": "Tue, 27 Oct 2026 11:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/africa/angola/detalhe/radar-africa-a-meia-vitoria-da-sonangol-no-fim-do-namoro-da-galp",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-12/img_100x100uu2023-12-22-19-39-12-466856.jpg",
       "score": 0.76
     },
     {
-      "id": "4fec0e3c",
+      "id": "f71ea244",
       "cat": "tecnologia",
-      "title": "Galp procura parceiro. “Não é indispensável” controlo de Sines",
-      "summary": "Dez meses depois de anunciado, o acordo com os espanhóis para a fusão dos negócios de “donwstream” não se concretizou. A pressão política travou a operação, mas não demove a Galp de encontrar um novo parceiro. E “não é indispensável” manter o controlo da única refinaria nacional.",
+      "title": "Carris transportou mais de 100 milhões de passageiros nos primeiros nove meses do ano",
+      "summary": "O aumento da procura foi registado tanto no segmento de autocarros, como nos elétricos.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 26 Oct 2026 23:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/galp-procura-parceiro-nao-e-indispensavel-controlo-de-sines",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-12/img_100x100uu2022-12-15-19-59-13-442360.jpg",
+      "date": "Tue, 27 Oct 2026 10:51:20 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/carris-transportou-mais-de-100-milhoes-de-passageiros-nos-primeiros-nove-meses-do-ano",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-02-13-00-07-515611.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "235f32b8",
+      "cat": "desporto",
+      "title": "Bola de Ouro. Terceiro troféu de Alexia Putellas é um culminar de \"história perfeita\"",
+      "summary": "A espanhola Alexia Putellas afirmou hoje que receber a terceira Bola de Ouro, prémio da revista France Football para a melhor futebolista da época, foi o culminar de uma &quot;história perfeita&quot; da sua passagem pelo FC Barcelona.",
+      "source": "RTP",
+      "date": "Tue, 27 Oct 2026 08:12:46 +0000",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/bola-de-ouro-terceiro-trofeu-de-alexia-putellas-e-um-culminar-de-historia-perfeita_d1774627",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/9a/9ab6dc13f97cb7246791924475634053?w=350&amp;q=50&amp;rect=0,65,5052,2770&amp;auto=format",
       "score": 0.76
     },
     {
@@ -102,36 +113,14 @@
       "score": 0.76
     },
     {
-      "id": "777fa59b",
-      "cat": "desporto",
-      "title": "Bola de Ouro. Vitinha 14.º classificado na edição 2025/26, Portugal fora do top 10",
-      "summary": "O médio Vitinha foi 14.º classificado na edição 2025/26 da Bola de Ouro, que distingue o melhor futebolista da temporada e não teve portugueses no top 10, anunciou hoje a organização do prémio atribuído pela revista France Football.",
-      "source": "RTP",
-      "date": "Mon, 26 Oct 2026 18:54:54 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/bola-de-ouro-vitinha-14o-classificado-na-edicao-202526-portugal-fora-do-top-10_d1774542",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/37/371cf36b4c4487f83ccb5d1be0be8b1b?w=350&amp;q=50&amp;rect=0,59,1239,679&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "5760c818",
-      "cat": "tecnologia",
-      "title": "Exército português recebe primeiro Black Hawk de uma frota de quatro helicópteros",
-      "summary": "O Exército português recebeu o primeiro de quatro helicópteros UH-60 Black Hawk que vão permitir criar uma capacidade própria de aviação militar para o ramo militar. A aquisição dos helicópteros está prevista na Lei de Programação Militar, representando um investimento de mais de 40 milhões de euros",
+      "id": "18d3d940",
+      "cat": "economia",
+      "title": "‘Employer branding’: quando a transparência começa no recrutamento",
+      "summary": "O employer branding constrói-se muito antes do primeiro dia de trabalho. Afinal, para um candidato, a perceção de uma empresa pode começar a formar-se antes mesmo do primeiro contacto com uma oferta de emprego e consolida-se, decerto, ao longo de todo o processo de seleção. Pois bem, num mercado em ",
       "source": "ECO",
-      "date": "Mon, 26 Oct 2026 19:33:22 +0000",
-      "url": "https://eco.sapo.pt/2026/10/26/exercito-portugues-recebe-primeiro-black-hawk-de-uma-frota-de-quatro-helicopteros/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-whatsapp-image-2026-10-26-at-173713-1-scaled-1.jpeg",
-      "score": 0.76
-    },
-    {
-      "id": "56677efb",
-      "cat": "tecnologia",
-      "title": "Galp considera diferentes parceiros para retalho e refinação",
-      "summary": "O acordo para uma fusão parcial entre Galp e Moeve caiu por terra, mas a petrolífera rapidamente informou que estaria interessada em explorar novas parcerias para as áreas de retalho e refinação. Em declarações ao ECO/Capital Verde, os co-CEO da cotada indicam que está em cima da mesa a hipótese de ",
-      "source": "ECO",
-      "date": "Mon, 26 Oct 2026 19:05:11 +0000",
-      "url": "https://eco.sapo.pt/2026/10/26/galp-considera-diferentes-parceiros-para-retalho-e-refinacao/",
-      "img": "https://eco.imgix.net/uploads/2025/01/maria-joao-carioca_joao-diogo-marques-da-silva-2.jpg",
+      "date": "Tue, 27 Oct 2026 11:03:15 +0000",
+      "url": "https://eco.sapo.pt/opiniao/employer-branding-quando-a-transparencia-comeca-no-recrutamento/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2017/02/logo_eco-07.png",
       "score": 0.76
     },
     {
@@ -168,17 +157,6 @@
       "score": 0.76
     },
     {
-      "id": "e3c7e8b7",
-      "cat": "tecnologia",
-      "title": "Majority of homes in NI have power restored after Storm Boelo",
-      "summary": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage.",
-      "source": "BBC News",
-      "date": "Sun, 25 Oct 2026 23:53:04 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e43/live/38d73e10-d074-11f1-afcb-6b9b9432d8fc.jpg",
-      "score": 0.76
-    },
-    {
       "id": "027733a9",
       "cat": "ambiente",
       "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
@@ -212,47 +190,25 @@
       "score": 0.76
     },
     {
-      "id": "9f3a19d9",
-      "cat": "cultura",
-      "title": "Os netos de Abril",
-      "summary": "Com o primeiro-ministro em parte incerta, caberia ao Presidente da República pronunciar-se sobre o que se passa nas nossas cidades. Há 3.502.613 portugueses que o esperam. Opinião de Amílcar Correia",
+      "id": "6cdf42d2",
+      "cat": "tecnologia",
+      "title": "PJ deteve burlona mais procurada em Espanha. Também enganou hotéis portugueses",
+      "summary": "Alvo de 26 mandados de detenção, marroquina de 30 anos ficava alojada em unidades hoteleiras sem pagar. Em Portugal actuou com filhos menores.",
       "source": "Público",
-      "date": "Tue, 27 Oct 2026 00:25:00 GMT",
-      "url": "https://www.publico.pt/2026/10/27/opiniao/opiniao/netos-abril-2192696",
+      "date": "Tue, 27 Oct 2026 10:41:48 GMT",
+      "url": "https://www.publico.pt/2026/10/27/sociedade/noticia/pj-deteve-burlona-procurada-espanha-tambem-enganou-hoteis-portugueses-2192756",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "7322bb95",
+      "id": "803da2bb",
       "cat": "tecnologia",
-      "title": "Primeiro automóvel em Portugal inspira livro infantil",
-      "summary": "A Câmara de Santiago do Cacém convidou as autoras de \"Uma Aventura\" a recriar a chegada do \"Panhard & Levassor\" ao país, há 131 anos, para o público mais jovem.",
+      "title": "Gases com efeito de estufa atingiram novo recorde em 2025",
+      "summary": "Avista-se um futuro mais quente para o planeta. CO2 e outros gases importantes atingiram níveis sem precedentes em 2025. Últimos 11 anos foram os mais quentes registados e tendência deverá continuar.",
       "source": "Observador",
-      "date": "Tue, 27 Oct 2026 00:35:57 +0000",
-      "url": "https://observador.pt/2026/10/27/livro-infantil-de-ana-maria-magalhaes-e-isabel-alcada-conta-a-historia-do-primeiro-automovel-em-portugal/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:48/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/03/15165842/uma-aventura20.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ee55f544",
-      "cat": "tecnologia",
-      "title": "Passaporte climático para acompanhar ação dos municípios",
-      "summary": "82 municípios já manifestaram interesse antes do lançamento oficial. A adesão é voluntária e assenta em três níveis: Planeamento, Ação e Liderança.",
-      "source": "Observador",
-      "date": "Tue, 27 Oct 2026 00:34:45 +0000",
-      "url": "https://observador.pt/2026/10/27/agencia-para-a-energia-lanca-passaporte-climatico-para-acompanhar-acao-dos-municipios/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/03/13091008/40542581.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8376d6f9",
-      "cat": "tecnologia",
-      "title": "Estudantes franceses mantêm protestos apesar das concessões do governo",
-      "summary": "Depois de várias reuniões e do lançamento de uma plataforma de consulta dirigida aos alunos do ensino secundário, cujas mobilizações serviram de rastilho para um movimento de protesto que se alastrou a outros setores, o governo anunciou uma série de medidas, que foram consideradas \"insuficientes\".",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 27 Oct 2026 00:45:41 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/europa/detalhe/estudantes-franceses-mantem-protestos-apesar-das-concessoes-do-governo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-19-20-14-01-531426.jpg",
+      "date": "Tue, 27 Oct 2026 11:30:19 +0000",
+      "url": "https://observador.pt/2026/10/27/gases-com-efeito-de-estufa-atingiram-novo-recorde-em-2025/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2018/12/14221205/19698255.jpg",
       "score": 0.73
     },
     {
@@ -267,25 +223,47 @@
       "score": 0.73
     },
     {
-      "id": "79a461df",
+      "id": "077d50b8",
       "cat": "tecnologia",
-      "title": "Taça da Liga. Rui Borges admite “insatisfação natural” e anuncia revolução",
-      "summary": "O treinador do Sporting, Rui Borges, afirmou hoje que existe uma “insatisfação natural” na equipa depois de duas derrotas seguidas e revelou que vai fazer uma ‘revolução’ no ‘onze’ inicial frente ao Marítimo, na Taça da Liga de futebol.",
+      "title": "Empresa chinesa rompe contrato com Mbappé após comentários sobre `memes` de Mao Zedong",
+      "summary": "O grupo chinês de bebidas Dongpeng anunciou hoje o fim da colaboração com o futebolista francês Kylian Mbappé, do Real Madrid, após o jogador ter admitido que se diverte com imagens humorísticas que o comparam a Mao Zedong.",
       "source": "RTP",
-      "date": "Mon, 26 Oct 2026 18:20:41 +0000",
-      "url": "https://www.rtp.pt/noticias/sporting/taca-da-liga-rui-borges-admite-insatisfacao-natural-e-anuncia-revolucao_d1774531",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/20/206c1a10f9c854b6435900a4c5fddd0e?w=350&amp;q=50&amp;rect=0,58,1233,676&amp;auto=format",
+      "date": "Tue, 27 Oct 2026 08:15:22 +0000",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/empresa-chinesa-rompe-contrato-com-mbappe-apos-comentarios-sobre-memes-de-mao-zedong_d1774628",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/35/357ad93a0b40aad22d866ea7fde7da2d?w=350&amp;q=50&amp;rect=0,0,2840,1557&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "612e7279",
-      "cat": "sociedade",
-      "title": "Moedas manifesta solidariedade com manifestantes sem comentar intervenção policial em Lisboa",
-      "summary": "O presidente da Câmara de Lisboa, Carlos Moedas (PSD), manifestou esta segunda-feira solidariedade para com os manifestantes pelo direito à habitação e apelou à serenidade de todos, recusando-se a comentar a intervenção policial na madrugada de domingo no Rossio. &#8220;Eu estou aqui do lado daquele",
+      "id": "0b4d8282",
+      "cat": "tecnologia",
+      "title": "Maria João Mata integra equipa da Fluencia",
+      "summary": "Maria João Mata é a nova sócia da boutique Fluencia. A advogada reforça a equipa nas áreas de Direito das Sociedades e Fusões e Aquisições. “Foi sobretudo ao longo da colaboração que desenvolvemos que surgiu a vontade de trabalhar mais estreitamente em conjunto. Identificámo-nos na forma de abordar ",
       "source": "ECO",
-      "date": "Mon, 26 Oct 2026 19:57:36 +0000",
-      "url": "https://eco.sapo.pt/2026/10/26/moedas-manifesta-solidariedade-com-manifestantes-sem-comentar-intervencao-policial-em-lisboa/",
-      "img": "https://eco.imgix.net/uploads/2026/02/cropped-plano-europeu-habitacao04-1.jpg",
+      "date": "Tue, 27 Oct 2026 11:52:44 +0000",
+      "url": "https://eco.sapo.pt/2026/10/27/maria-joao-mata-integra-equipa-da-fluencia/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-mjm-retrato-compressed.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "63e776b6",
+      "cat": "tecnologia",
+      "title": "Conselho da UE aprova reforma da PAC que privilegia agricultores ativos e jovens",
+      "summary": "Os ministros da Agricultura da União Europeia chegaram a acordo na segunda-feira sobre a futura Política Agrícola Comum (PAC), cuja implementação dependerá agora das negociações sobre o orçamento da UE. Os ministros, reunidos no Luxemburgo, adotaram por unanimidade uma posição comum sobre a reforma ",
+      "source": "ECO",
+      "date": "Tue, 27 Oct 2026 11:02:26 +0000",
+      "url": "https://eco.sapo.pt/2026/10/27/conselho-da-ue-aprova-reforma-da-pac-que-privilegia-agricultores-ativos-e-jovens/",
+      "img": "https://eco.imgix.net/uploads/2026/03/cropped-7682684.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "142b2c01",
+      "cat": "tecnologia",
+      "title": "Political battle intensifies within Labour over Rosebank oil field",
+      "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
+      "source": "BBC News",
+      "date": "Mon, 26 Oct 2026 18:09:49 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg",
       "score": 0.73
     },
     {
@@ -300,36 +278,58 @@
       "score": 0.73
     },
     {
-      "id": "688fd829",
-      "cat": "tecnologia",
-      "title": "Young Adults Are Building Safe Spaces for Unhoused Peers",
-      "summary": "In his first year at the University of California, Davis, Liam commuted three hours a day from his family’s home in the Bay Area to campus and back again. The round-trip train tickets were expensive, but not as pricey as renting an apartment in the Central Valley college town. Then,... The post Youn",
-      "source": "Reasons to be Cheerful",
-      "date": "Tue, 13 Oct 2026 08:00:49 +0000",
-      "url": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/10/shutterstock_421405048-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "204e16a6",
-      "cat": "ambiente",
-      "title": "Distúrbios em Bilbau: 19 detidos, sete menores, depois de cancelado evento com Vito Quiles",
-      "summary": "O incidente basco segue-se a um fim-de-semana de grandes distúrbios em Barcelona, que resultaram em 128 detidos, saques e dezenas de incêndios.",
+      "id": "ebdff5c3",
+      "cat": "geral",
+      "title": "Os manifestantes têm razão?",
+      "summary": "Os manifestantes não pedem o fim indiscriminado de todos os despejos. Pedem que ninguém seja posto na rua sem uma resposta habitacional alternativa. Opinião de Samuel Gonçalves",
       "source": "Público",
-      "date": "Tue, 27 Oct 2026 01:26:18 GMT",
-      "url": "https://www.publico.pt/2026/10/27/mundo/noticia/disturbios-bilbau-19-detidos-sete-menores-cancelado-evento-vito-quiles-2192738",
+      "date": "Tue, 27 Oct 2026 11:27:19 GMT",
+      "url": "https://www.publico.pt/2026/10/27/opiniao/opiniao/manifestantes-razao-2192764",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "e7f5cf07",
+      "id": "20c7905d",
       "cat": "tecnologia",
-      "title": "Um país acampado nos seus bloqueios",
-      "summary": "Com muita probabilidade, há, nas várias acampadas , um pouco disto tudo. Deixem-me que vos conte o que ali vejo. Opinião de Pedro Norton",
+      "title": "Meios de comunicação social indianos dizem que lei da privacidade de Modi é “censura prévia”",
+      "summary": "Lei do Governo indiano, que obrigaria jornalistas a obter consentimento das pessoas sobre as quais escrevem, poderá levar ao encerramento de redacções, avisaram meios de comunicação em tribunal.",
       "source": "Público",
-      "date": "Tue, 27 Oct 2026 00:30:00 GMT",
-      "url": "https://www.publico.pt/2026/10/27/opiniao/opiniao/pais-acampado-bloqueios-2192627",
+      "date": "Tue, 27 Oct 2026 11:00:56 GMT",
+      "url": "https://www.publico.pt/2026/10/27/mundo/noticia/meios-comunicacao-social-indianos-lei-privacidade-modi-censura-previa-2192751",
       "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "62c0eb1b",
+      "cat": "tecnologia",
+      "title": "Maré negra fecha praias nos Emirados Árabes",
+      "summary": "Imagens de satélite mostram derrame de petróleo a crescer e a aproximar-se da costa de Umm Al Quwain. Outros emirados já interditaram ou restringiram o acesso a praias famosas.",
+      "source": "Observador",
+      "date": "Tue, 27 Oct 2026 11:07:31 +0000",
+      "url": "https://observador.pt/2026/10/27/derrame-de-petroleo-ao-largo-dos-eau-alastra-se-e-leva-ao-fecho-de-mais-praias-suscitando-preocupacoes-ambientais/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1290:725:nowe:0:88/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/27081201/2026-10-26t092646z-437918164-rc2taoaen70e-rtrmadp-3-uae-oil-spill.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "ab87162f",
+      "cat": "tecnologia",
+      "title": "\"Líderes diferentes, mas programas eleitorais semelhantes”",
+      "summary": "Pedro Castro, enviado especial do Observador, compara os dois principais candidatos às eleições em Israel, destacando as diferenças de estilo, a estratégia para Gaza e os desafios para formar Governo.",
+      "source": "Observador",
+      "date": "Tue, 27 Oct 2026 11:01:51 +0000",
+      "url": "https://observador.pt/programas/reportagem-observador/lideres-diferentes-mas-programas-eleitorais-semelhantes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/12170203/770-podcast-reportagem-observador.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "c8ced442",
+      "cat": "tecnologia",
+      "title": "Soldados ingénuos, como formigas no Chapitô",
+      "summary": "As Formigas é o novo espetáculo de teatro da Companhia do Chapitô,, em Lisboa, na Costa do Castelo, estreia esta noite, de quinta feira 11 de janeiro.",
+      "source": "TSF",
+      "date": "Thu, 11 Jan 2024 07:30:00 Z",
+      "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
+      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
       "score": 0.7
     }
   ]
