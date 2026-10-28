@@ -1,5 +1,5 @@
 {
-  "last_update": "27/10/2026 22:04 UTC",
+  "last_update": "28/10/2026 05:16 UTC",
   "total": 30,
   "news": [
     {
@@ -58,14 +58,14 @@
       "score": 0.79
     },
     {
-      "id": "884363cd",
+      "id": "0714a259",
       "cat": "tecnologia",
-      "title": "Israel: Sondagens dão vitória a partido de Netanyahu, mas bloco opositor deve ter mais mandatos",
-      "summary": "De acordo com as sondagens à boca das urnas, nenhuma das forças políticas tem uma via clara para formar governo.",
+      "title": "BEI anuncia apoio a zonas afetadas pelo mau tempo e empréstimo para setor da habitação",
+      "summary": "O Banco Europeu de Investimento (BEI) anunciou um pacote de 750 milhões de euros para apoiar a recuperação e reconstrução das zonas afetadas pelas tempestades e um novo empréstimo de 300 milhões de euros para apoiar a construção e reabilitação de habitações em Portugal.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 27 Oct 2026 20:33:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/sondagens-dao-vitoria-a-partido-de-netanyahu-mas-bloco-opositor-deve-ter-mais-mandatos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-23-09-54-07-531660.jpg",
+      "date": "Tue, 27 Oct 2026 23:14:27 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/bei-anuncia-apoio-a-zonas-afetadas-pelo-mau-tempo-e-emprestimo-para-setor-da-habitacao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-07-15-13-39-521664.jpg",
       "score": 0.76
     },
     {
@@ -113,6 +113,28 @@
       "score": 0.76
     },
     {
+      "id": "1e1652d7",
+      "cat": "ciencia",
+      "title": "The autistic brain processes faces differently than scientists thought",
+      "summary": "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought. Researchers found that brain signals associated with recognizing faces become more specialized as neurotypical children grow older, but sho",
+      "source": "ScienceDaily",
+      "date": "Tue, 27 Oct 2026 23:02:38 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
+      "img": "https://www.sciencedaily.com/images/1920/confused-girl-with-stickers-on-face.webp",
+      "score": 0.76
+    },
+    {
+      "id": "bfa87b59",
+      "cat": "ciencia",
+      "title": "Scientists discover the immune system’s hidden sense of touch",
+      "summary": "Scientists at McGill University have discovered a surprising new ability of immune cells that could change how we understand long-term immunity. Researchers found that T cells can actually sense how stiff their surrounding tissues are, using these physical signals to help determine whether they deve",
+      "source": "ScienceDaily",
+      "date": "Tue, 27 Oct 2026 20:54:54 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
+      "img": "https://www.sciencedaily.com/images/1920/car-t-cell-therapy-attacking-cancer-cell.webp",
+      "score": 0.76
+    },
+    {
       "id": "51336bfa",
       "cat": "tecnologia",
       "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
@@ -124,58 +146,80 @@
       "score": 0.76
     },
     {
-      "id": "cba3cfc0",
-      "cat": "ciencia",
-      "title": "Do spiders dream? Scientists just found a surprising clue",
-      "summary": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumping spider Portia fimbriata, a remarkably clever hunter known for its sophisticat",
-      "source": "ScienceDaily",
-      "date": "Tue, 27 Oct 2026 00:53:11 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm",
-      "img": "https://www.sciencedaily.com/images/1920/spider-portia-fimbriata.webp",
-      "score": 0.76
-    },
-    {
-      "id": "01821e7d",
-      "cat": "ciencia",
-      "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
-      "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Researchers discovered that these cells remain present even in people over 80, but their",
-      "source": "ScienceDaily",
-      "date": "Tue, 27 Oct 2026 00:02:26 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
-      "img": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost.webp",
-      "score": 0.76
-    },
-    {
-      "id": "7657bd8b",
+      "id": "783334d6",
       "cat": "tecnologia",
-      "title": "Primeiro helicóptero Black Hawk chegou a Tancos",
-      "summary": "Aeronave chegou no domingo ao aeródromo. Programa avaliado em cerca de 40 milhões de euros contempla mais três helicópteros, estando o segundo previsto para chegar no segundo trimestre de 2027.",
-      "source": "Observador",
-      "date": "Tue, 27 Oct 2026 19:57:22 +0000",
-      "url": "https://observador.pt/2026/10/27/primeiro-helicoptero-black-hawk-chegou-a-tancos-e-prepara-se-para-iniciar-operacoes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1684:nowe:0:316/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/05/27160759/img-1761.jpeg",
+      "title": "A vitória de Lula e o efeito Janones",
+      "summary": "Não simplifiquemos, não foi só André Janones que deu a vitória a Lula, mas sem ele o quarto mandato não teria sido possível. Opinião de Rita Figueiras",
+      "source": "Público",
+      "date": "Wed, 28 Oct 2026 00:15:00 GMT",
+      "url": "https://www.publico.pt/2026/10/28/opiniao/opiniao/vitoria-lula-efeito-janones-2192769",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "2f56ca14",
+      "id": "77996265",
       "cat": "tecnologia",
-      "title": "BEI vai reforçar apoio à habitação privada em Portugal",
-      "summary": "Novo empréstimo eleva para 3 mil milhões o investimento do Banco Europeu de Investimento em habitação em Portugal em dois anos.",
-      "source": "Observador",
-      "date": "Tue, 27 Oct 2026 19:56:48 +0000",
-      "url": "https://observador.pt/2026/10/27/bei-anuncia-novo-emprestimo-de-300-milhoes-de-euros-para-portugal-para-construcao-e-reabilitacao-de-habitacoes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/27185939/47440000.jpg",
+      "title": "Processos pendentes na justiça fiscal caíram 54%, mas há tribunais entupidos até 2031",
+      "summary": "Retrato do país que paga impostos é hoje apresentado. Há melhorias e problemas antigos. O TCA Sul, por exemplo, precisaria de cinco anos para limpar casos pendentes. Justiça pode demorar até dez anos.",
+      "source": "Público",
+      "date": "Wed, 28 Oct 2026 00:01:00 GMT",
+      "url": "https://www.publico.pt/2026/10/28/economia/noticia/pendencia-justica-fiscal-caiu-53-ha-tribunais-entupidos-ate-2031-2192836",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "c8a0ecb0",
+      "id": "d5834748",
       "cat": "tecnologia",
-      "title": "1,3 milhões vacinados contra a gripe nas primeiras semanas",
-      "summary": "Dados da DGS mostram adesão à vacina da gripe a superar a da Covid-19, com cobertura de 35% nos maiores de 60 anos. Farmácias vacinam metade do total.",
+      "title": "Eisenkot celebra \"mudança\" e atira a Netanyahu",
+      "summary": "Sem números para a provar, Gadi Eisenkot cantou vitória e traçou uma clara linha vermelha a Netanyahu e aos ultra-ortodoxos. Menos clara é a posição face ao Likud sem Netanyahu e aos partidos árabes.",
       "source": "Observador",
-      "date": "Tue, 27 Oct 2026 19:35:50 +0000",
-      "url": "https://observador.pt/2026/10/27/mais-de-13-milhoes-ja-vacinados-contra-a-gripe-desde-o-inicio-da-campanha-sazonal-metade-deles-nas-farmacias/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/09/30063033/45712926.jpg",
+      "date": "Wed, 28 Oct 2026 01:48:47 +0000",
+      "url": "https://observador.pt/2026/10/28/gadi-eisenkot-celebra-a-mudanca-e-atira-a-netanyahu-um-lider-de-valor-anunciaria-a-sua-saida-da-vida-politica-esta-noite/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2614:1467:nowe:0:29/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/28022602/jporfirio-reportagem-noite-eleitoral-gabi-eisenkot-27-10-2026-01-18.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "426e995c",
+      "cat": "tecnologia",
+      "title": "1h. Taça da Liga. Sporting bate Marítimo e vai à Final Four",
+      "summary": "Rui Borges considera que Sporting podia ter evitado sofrimento dos minutos finais na vitória sobre o Marítimo. Ainda, em Israel, prossegue contagem dos votos das legislativas, com Netanyahu na frente.",
+      "source": "Observador",
+      "date": "Wed, 28 Oct 2026 01:17:20 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2429/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "b25596a5",
+      "cat": "geral",
+      "title": "Candidaturas abertas ao Prémio Literário José Luís Peixoto",
+      "summary": "A 19.ª edição do prémio, promovido pela Câmara de Ponte de Sor, oferece 1.500 euros ao vencedor. Podem candidatar-se jovens até 35 anos de língua portuguesa.",
+      "source": "Observador",
+      "date": "Wed, 28 Oct 2026 00:26:15 +0000",
+      "url": "https://observador.pt/2026/10/28/candidaturas-abertas-ate-sabado-ao-premio-literario-jose-luis-peixoto-em-ponte-de-sor/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1125:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2015/04/15540498.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "dbb99653",
+      "cat": "tecnologia",
+      "title": "Israel: Eisenkot quer formar Governo e deixa aviso a Netanyahu",
+      "summary": "Segundo as projeções, o partido Likud do atual primeiro-ministro é o mais votado, mas o seu bloco não vai além de 50 deputados, sendo 61 necessários para a maioria no parlamento israelita. As mesmas projeções dão ao Yashar! do ex-chefe do Exército 21 a 23 lugares, mas à coligação liderada por este p",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 28 Oct 2026 00:10:22 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/israel-eisenkot-quer-formar-governo-e-deixa-aviso-a-netanyahu",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-28-00-09-49-531913.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c0c96947",
+      "cat": "tecnologia",
+      "title": "Europa precisa de 70 mil milhões por ano para enfrentar riscos climáticos",
+      "summary": "Bruxelas apresentou uma proposta de lei para reforçar a adaptação às alterações climáticas. Investimentos na prevenção podem evitar prejuízos dez vezes superiores, estima a Comissão Europeia.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 27 Oct 2026 23:09:01 Z",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/europa-precisa-de-70-mil-milhoes-por-ano-para-enfrentar-riscos-climaticos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-06-09-13-53-530615.jpg",
       "score": 0.73
     },
     {
@@ -256,58 +300,14 @@
       "score": 0.73
     },
     {
-      "id": "17028c6b",
+      "id": "c352900f",
       "cat": "tecnologia",
-      "title": "Manifeste-se baixinho",
-      "summary": "Se ainda tenho voz, vou usá-la para gritar, mesmo que seja apenas através da minha janela. O povo unido jamais será vencido, não tenha dúvidas, desde que cada um se junte como pode. Crónica de Cláudia Lucas Chéu",
+      "title": "O choque das indignações",
+      "summary": "Os partidos democráticos estariam muito mal-avisados se continuassem surdos ao “ How dare you! ” que vem das ruas e se a sua resposta ao ativismo da juventude continuasse a ser a repressão policial. Opinião de Álvaro Vasconcelos",
       "source": "Público",
-      "date": "Tue, 27 Oct 2026 20:45:00 GMT",
-      "url": "https://www.publico.pt/2026/10/27/p3/cronica/manifestese-baixinho-2192691",
+      "date": "Wed, 28 Oct 2026 00:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/28/opiniao/opiniao/choque-indignacoes-2192828",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "ccac22e0",
-      "cat": "tecnologia",
-      "title": "Comissão quer Europa preparada para aquecimento global de 3°C até 2100",
-      "summary": "Quadro Europeu para a Resiliência Climática inclui uma proposta de Lei Europeia da Resiliência Climática. Nos próximos meses, Bruxelas vai apresentar um Plano Europeu para as Ondas de Calor.",
-      "source": "Público",
-      "date": "Tue, 27 Oct 2026 20:42:00 GMT",
-      "url": "https://www.publico.pt/2026/10/27/azul/noticia/comissao-quer-europa-preparada-aquecimento-global-3c-ate-2100-2192805",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "d8495d55",
-      "cat": "tecnologia",
-      "title": "Eleições em Israel: sondagens à boca das urnas dão empate técnico",
-      "summary": "Nem o bloco de Netanyahu nem o da oposição conseguiram uma maioria clara, mas Eisenkot promete formar governo. Dia marcado por uma participação histórica e por nervosismo em torno da votação.",
-      "source": "Público",
-      "date": "Tue, 27 Oct 2026 20:14:43 GMT",
-      "url": "https://www.publico.pt/2026/10/27/mundo/noticia/eleicoes-israel-sondagens-boca-urnas-dao-empate-tecnico-2192854",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "706e7338",
-      "cat": "tecnologia",
-      "title": "Frente Comum convoca greve da Função Pública para 20 de novembro",
-      "summary": "A estrutura da CGTP que representa a administração pública anunciou esta terça-feira uma greve para dia 20 de novembro.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 27 Oct 2026 21:46:56 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/frente-comum-convoca-greve-da-funcao-publica-para-20-de-novembro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-26-13-40-16-510080.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "518bdc31",
-      "cat": "cultura",
-      "title": "Perturbações na circulação a partir de quinta-feira devido à greve dos trabalhadores da CP",
-      "summary": "O sindicato reivindica a valorização do trabalho e a dignidade das condições de vida, bem como o subsídio de deslocação com retroativos desde julho de 2026.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 27 Oct 2026 21:46:13 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/perturbacoes-na-circulacao-a-partir-de-quinta-feira-devido-a-greve-dos-trabalhadores-da-cp",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-27-13-34-12-531855.jpg",
       "score": 0.7
     },
     {
