@@ -1,5 +1,5 @@
 {
-  "last_update": "28/10/2026 22:28 UTC",
+  "last_update": "29/10/2026 05:26 UTC",
   "total": 30,
   "news": [
     {
@@ -69,6 +69,17 @@
       "score": 0.79
     },
     {
+      "id": "56795a7e",
+      "cat": "ciencia",
+      "title": "Your blood pressure could be dangerous even when your numbers look normal",
+      "summary": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.",
+      "source": "ScienceDaily",
+      "date": "Wed, 28 Oct 2026 23:54:37 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+      "img": "https://www.sciencedaily.com/images/1920/blood-pressure-measurement-heart-cardiology.webp",
+      "score": 0.79
+    },
+    {
       "id": "218a002b",
       "cat": "ciencia",
       "title": "Scientists discover a secret glow in toxic fire salamanders",
@@ -80,25 +91,14 @@
       "score": 0.79
     },
     {
-      "id": "fb49ef50",
-      "cat": "geral",
-      "title": "20h. OE 2027 foi aprovado na generalidade no parlamento",
-      "summary": "PS e Chega vão apresentar propostas e podem chegar a acordo até à votação final global.",
-      "source": "Observador",
-      "date": "Wed, 28 Oct 2026 20:13:25 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2076/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.76
-    },
-    {
-      "id": "5186392a",
-      "cat": "economia",
-      "title": "Microsoft supera estimativas com Azure a crescer 48% e investimento abaixo do previsto",
-      "summary": "A Microsoft obteve receitas de 92,28 mil milhões de dólares no primeiro trimestre fiscal, acima do esperado pelos analistas. A Azure cresceu 48% a câmbios constantes e o investimento ficou aquém das previsões do mercado.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 28 Oct 2026 20:32:10 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/microsoft-supera-estimativas-com-azure-a-crescer-48-e-investimento-abaixo-do-previsto",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-07/img_100x100uu2026-07-31-16-34-51-527557.jpg",
+      "id": "2b0bd71b",
+      "cat": "tecnologia",
+      "title": "Bruxelas terá de corrigir o que Lisboa não quis mudar?",
+      "summary": "A União Europeia discute uma reforma da contratação pública precisamente orientada para reforçar a qualidade, a inovação e o valor gerado ao longo da vida útil dos investimentos. Opinião de Alexandre Portugal",
+      "source": "Público",
+      "date": "Thu, 29 Oct 2026 00:28:00 GMT",
+      "url": "https://www.publico.pt/2026/10/29/opiniao/opiniao/bruxelas-tera-corrigir-lisboa-nao-quis-mudar-2192950",
+      "img": null,
       "score": 0.76
     },
     {
@@ -135,25 +135,47 @@
       "score": 0.76
     },
     {
-      "id": "bfa87b59",
-      "cat": "ciencia",
-      "title": "Scientists discover the immune system’s hidden sense of touch",
-      "summary": "Scientists at McGill University have discovered a surprising new ability of immune cells that could change how we understand long-term immunity. Researchers found that T cells can actually sense how stiff their surrounding tissues are, using these physical signals to help determine whether they deve",
-      "source": "ScienceDaily",
-      "date": "Tue, 27 Oct 2026 20:54:54 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
-      "img": "https://www.sciencedaily.com/images/1920/car-t-cell-therapy-attacking-cancer-cell.webp",
-      "score": 0.76
+      "id": "b087e1e6",
+      "cat": "tecnologia",
+      "title": "Um pinhal na Finlândia",
+      "summary": "Se isto acontece aos finlandeses, que tanto admiramos e tentamos copiar, que esperança temos nós, portugueses, habituados a que nos atropelem os calos por dá cá aquela palha? Crónica de Miguel Esteves Cardoso",
+      "source": "Público",
+      "date": "Thu, 29 Oct 2026 00:05:00 GMT",
+      "url": "https://www.publico.pt/2026/10/29/opiniao/cronica/pinhal-finlandia-2192901",
+      "img": null,
+      "score": 0.73
     },
     {
-      "id": "0261ad1c",
-      "cat": "tecnologia",
-      "title": "Aprovada resolução contra embargo dos EUA a Cuba na ONU",
-      "summary": "Colômbia, Equador e Costa Rica votaram contra pela primeira vez, numa viragem atribuída à influência de Trump. Portugal manteve voto favorável.",
+      "id": "4cc27fd6",
+      "cat": "ambiente",
+      "title": "Quatro portugueses entre os finalistas do Prémio Oceanos 2026",
+      "summary": "Helder Macedo, Rui Nunes, Judite Canha Fernandes e Ana Margarida de Carvalho são os portugueses entre os doze finalistas candidatos ao prémio literário brasileiro nas categorias de poesia e de prosa.",
+      "source": "Público",
+      "date": "Wed, 28 Oct 2026 23:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/28/culturaipsilon/noticia/quatro-portugueses-finalistas-premio-oceanos-2026-2192996",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "e14f606f",
+      "cat": "sociedade",
+      "title": "Regresso ao Rossio com promessa de nova acampada",
+      "summary": "Assembleia Popular reuniu 400 pessoas no Rossio e decidiu nova grande ação para sábado. Carolina Deslandes atuou e comoveu. Estudantes da AAC chegaram de Coimbra em solidariedade com a causa.",
       "source": "Observador",
-      "date": "Wed, 28 Oct 2026 20:13:28 +0000",
-      "url": "https://observador.pt/2026/10/28/aprovada-resolucao-contra-embargo-dos-eua-a-cuba-na-onu-apesar-da-perda-de-apoios/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:137/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/28180334/48025540.jpg",
+      "date": "Thu, 29 Oct 2026 01:40:05 +0000",
+      "url": "https://observador.pt/especiais/acampada-regressa-ao-rossio-para-respirar-e-planear-mais-tarde-ou-mais-cedo-vamos-voltar-a-acampar-nesta-praca/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/28233607/ilacerda-rossio-decima-segunda-noite-acampada-50-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "4278d78f",
+      "cat": "economia",
+      "title": "Investimento em habitação pública deve cair para 0,3% do PIB após PRR",
+      "summary": "Meta do Orçamento para 2027 reduz a despesa com o parque público de habitação para os baixos níveis verificados nas últimas duas décadas. Só 2026 poderá ser exceção - o Governo aponta para o equivalente a 0,9% do PIB - apesar de execução ficar historicamente aquém dos objetivos.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 28 Oct 2026 23:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/investimento-em-habitacao-publica-deve-cair-para-0-3-do-pib-apos-prr",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-29-16-06-30-522848.jpg",
       "score": 0.73
     },
     {
@@ -278,47 +300,25 @@
       "score": 0.73
     },
     {
-      "id": "2eb74f5b",
+      "id": "6ba1afaf",
       "cat": "tecnologia",
-      "title": "Derrotado nas urnas, Flávio Bolsonaro-se diz-se “presidente” do Brasil a partir dos EUA",
-      "summary": "Filho de Jair Bolsonaro não reconhece derrota eleitoral frente a Lula da Silva.",
-      "source": "Público",
-      "date": "Wed, 28 Oct 2026 21:34:08 GMT",
-      "url": "https://www.publico.pt/2026/10/28/mundo/noticia/derrotado-urnas-flavio-bolsonarose-dizse-presidente-brasil-partir-eua-2192985",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "ec6c7b44",
-      "cat": "tecnologia",
-      "title": "Assembleia popular decide voltar a montar tendas no Porto",
-      "summary": "Protesto pelo direito à habitação já foi alvo de duas cargas policiais que provocaram dezenas de feridos. Pedro Duarte retira a palavra “implacável”, mas defende actuação da PSP.",
-      "source": "Público",
-      "date": "Wed, 28 Oct 2026 21:30:00 GMT",
-      "url": "https://www.publico.pt/2026/10/28/sociedade/noticia/assembleia-popular-decide-voltar-montar-tendas-porto-2192991",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "6a9f3f81",
-      "cat": "tecnologia",
-      "title": "Quatro dias de música contemporânea na 4.ª edição do Croma",
-      "summary": "O ciclo promovido pela Associação Portuguesa de Compositores decorre entre esta quinta-feira e 1 de Novembro. Serão sete concertos de entrada livre, em Oeiras.",
-      "source": "Público",
-      "date": "Wed, 28 Oct 2026 21:30:00 GMT",
-      "url": "https://www.publico.pt/2026/10/28/culturaipsilon/noticia/quatro-dias-musica-contemporanea-4-edicao-croma-2192947",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "ead815b8",
-      "cat": "tecnologia",
-      "title": "\"Eu retiro a palavra implacável com todo o à-vontade\"",
-      "summary": "Em 14 de outubro, referiu que a Câmara do Porto seria \"absolutamente implacável com qualquer tentativa de colocação de tendas\". Agora alerta não podem ser abertas exceções ao cumprimento da lei.",
+      "title": "As notícias das 4h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Wed, 28 Oct 2026 21:29:24 +0000",
-      "url": "https://observador.pt/2026/10/28/habitacao-eu-retiro-a-palavra-implacavel-com-todo-o-a-vontade-diz-pedro-duarte/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1404:nowe:0:263/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/21082543/obs20102026davidoliveira00006.jpg",
+      "date": "Thu, 29 Oct 2026 04:16:07 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2445/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "fef4ad36",
+      "cat": "tecnologia",
+      "title": "As notícias das 3h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Thu, 29 Oct 2026 03:16:10 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2481/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
