@@ -1,5 +1,5 @@
 {
-  "last_update": "30/10/2026 12:37 UTC",
+  "last_update": "30/10/2026 22:10 UTC",
   "total": 30,
   "news": [
     {
@@ -36,14 +36,14 @@
       "score": 0.82
     },
     {
-      "id": "948fa0c9",
-      "cat": "saude",
-      "title": "Governo lança parceria público-privada para construir novo hospital em Barcelos",
-      "summary": "O Governo deu o primeiro passo formal para avançar com uma parceria público-privada (PPP) destinada à construção do novo Hospital de Barcelos-Esposende. De acordo com um despacho publicado esta sexta-feira em Diário da República, o Ministério da Saúde determina que a Administração Central do Sistema",
-      "source": "ECO",
-      "date": "Fri, 30 Oct 2026 11:33:35 +0000",
-      "url": "https://eco.sapo.pt/2026/10/30/governo-lanca-parceria-publico-privada-para-construir-novo-hospital-em-barcelos/",
-      "img": "https://eco.imgix.net/uploads/2024/11/cropped-doc-20241112-43896684-pet_5355-2.jpg",
+      "id": "4b1f7e70",
+      "cat": "tecnologia",
+      "title": "Judoca Taís Pina conquista o ouro no Grand Slam Abu Dhabi",
+      "summary": "A judoca olímpica portuguesa Taís Pina (-70 kg) conquistou hoje a medalha de ouro no Grand Slam de Abu Dhabi, nos Emirados Árabes Unidos, ao vencer na final por `ippon` a brasileira Kaillany Cardoso.",
+      "source": "RTP",
+      "date": "Fri, 30 Oct 2026 16:25:48 +0000",
+      "url": "https://www.rtp.pt/noticias/judo/judoca-tais-pina-conquista-o-ouro-no-grand-slam-abu-dhabi_d1775686",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/59/590c782d6ef7ccd2051d1c5d5c8ae058?w=350&amp;q=50&amp;rect=0,91,1233,676&amp;auto=format",
       "score": 0.79
     },
     {
@@ -80,14 +80,25 @@
       "score": 0.79
     },
     {
-      "id": "22a8d983",
+      "id": "fb411dba",
+      "cat": "economia",
+      "title": "Estado conclui compra de 5,3% da REN à Fidelidade por quase 139 milhões",
+      "summary": "A operação foi concluída após a aprovação pelo Tribunal de Contas. Com a aquisição, o Estado fica com 19% da empresa, somando a participação adquirida a Amancio Ortega, dono da Zara. Investimento total foi de 528,6 milhões de euros.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 30 Oct 2026 18:20:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/estado-conclui-compra-de-5-3-da-ren-a-fidelidade-por-quase-139-milhoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-21-09-14-19-528570.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "1988fa57",
       "cat": "tecnologia",
-      "title": "Empresário galego do setor hoteleiro exporta vinhos do Douro para os EUA",
-      "summary": "Foi a paixão pelo Douro Vinhateiro que levou Juan Viñas, empresário galego do setor hoteleiro e fundador do Grupo Carrís, a comprar uma quinta na região, em 2008, e dedicar-se à viticultura. Quase duas décadas depois, o projeto ganha escala internacional com a criação de uma empresa nos Estados Unid",
+      "title": "Esta é a chave do Euromilhões. Jackpot é de 89 milhões de euros",
+      "summary": "Com um primeiro prémio no valor de 89 milhões de euros, decorreu esta sexta-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta terça-feira, dia 20 de outubro. Números: 3, 1",
       "source": "ECO",
-      "date": "Fri, 30 Oct 2026 12:18:16 +0000",
-      "url": "https://eco.sapo.pt/2026/10/30/__trashed-98/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-whatsapp-image-2026-10-29-at-193355.jpeg",
+      "date": "Fri, 30 Oct 2026 20:53:04 +0000",
+      "url": "https://eco.sapo.pt/2026/10/30/esta-e-a-chave-do-euromilhoes-jackpot-e-de-89-milhoes-de-euros-2/",
+      "img": "https://eco.imgix.net/uploads/2016/09/cropped-mg_2903.jpg",
       "score": 0.76
     },
     {
@@ -110,17 +121,6 @@
       "date": "Thu, 29 Oct 2026 15:30:03 +0000",
       "url": "https://www.goodnewsnetwork.org/birdwatching-rewires-the-brain-and-slows-cognitive-decline/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/birdwatching-birding-birder-credit-Curated-Lifestyle.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "db4154ed",
-      "cat": "ambiente",
-      "title": "Nature-Inspired Tech Prevents Microplastics Entering Atlantic Ocean Through Wastewater",
-      "summary": "Princeton alumni have designed what&#8217;s called a first-in-the-world device to filter microplastics out of wastewater at scale, and it&#8217;s already been deployed in Atlantic City. The large implant mimics hydrophobic plants found in nature, which completely shed water on contact but also attra",
-      "source": "Good News Network",
-      "date": "Wed, 28 Oct 2026 18:30:55 +0000",
-      "url": "https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-supplied-to-WHYY-as-a-courtesy-PolyGone-Systems.jpg",
       "score": 0.76
     },
     {
@@ -157,80 +157,80 @@
       "score": 0.76
     },
     {
-      "id": "522a6086",
+      "id": "a64cf446",
       "cat": "tecnologia",
-      "title": "Elvira anuncia para Janeiro de 2027 o primeiro álbum e revela mais um tema, O meu par",
-      "summary": "",
+      "title": "Resíduos do Algarve: ministra aceita estudar alternativa à incineração",
+      "summary": "A associação ambientalista Zero diz que o tratamento mecânico e biológico fica pronto em três anos e custa metade da incineração sugerida pelo Ministério do Ambiente.",
       "source": "Público",
-      "date": "Fri, 30 Oct 2026 11:15:00 GMT",
-      "url": "https://www.publico.pt/2026/10/30/video/elvira-anuncia-janeiro-2027-album-revela-tema-par-20261028-165914",
+      "date": "Fri, 30 Oct 2026 20:21:00 GMT",
+      "url": "https://www.publico.pt/2026/10/30/azul/noticia/residuos-algarve-ministra-aceita-estudar-alternativa-incineracao-2193169",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "cebca3a9",
+      "id": "ffecd4f8",
       "cat": "tecnologia",
-      "title": "Polymarket investiga transacções suspeitas relacionadas com as eleições em Israel",
-      "summary": "Pouco antes do fecho das urnas, centenas de contas recém-criadas apostaram na permanência de Benjamin Netanyahu como primeiro-ministro. Algumas já levantaram, em conjunto, mais de 100 mil dólares.",
+      "title": "O Guru Vinha da Calçada distraiu-nos do Pintas",
+      "summary": "Na apresentação das novas colheitas da Wine & Soul, o vinho que mais nos surpreendeu foi o Guru Vinha da Calçada 2023. É outro branco incrível que o Douro pode dar a partir de alguns micro terroirs .",
       "source": "Público",
-      "date": "Fri, 30 Oct 2026 11:09:53 GMT",
-      "url": "https://www.publico.pt/2026/10/30/mundo/noticia/polymarket-investiga-transaccoes-suspeitas-relacionadas-eleicoes-israel-2193157",
+      "date": "Fri, 30 Oct 2026 19:22:00 GMT",
+      "url": "https://www.publico.pt/2026/10/30/terroir/noticia/guru-vinha-calcada-distraiunos-pintas-2193025",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "f95c5e41",
+      "id": "89c650cc",
       "cat": "tecnologia",
-      "title": "Dormidas no alojamento turístico registou aumento",
-      "summary": "Em setembro, os proveitos totais ascenderam a 890,2 milhões de euros e os proveitos de aposento a 696,6 milhões, correspondendo a crescimentos de 6,1% e 6,0%, respetivamente.",
+      "title": "Membro associado. Canadá quer concluir até junho negociações",
+      "summary": "Mark Carney quer fechar o acordo na cimeira do Conselho Europeu de junho. Von der Leyen defende \"apoio vasto\", mas Alemanha e França opõem-se ao processo.",
       "source": "Observador",
-      "date": "Fri, 30 Oct 2026 12:13:59 +0000",
-      "url": "https://observador.pt/2026/10/30/dormidas-no-alojamento-turistico-atingiu-em-setembro-o-maior-crescimento-em-quatro-meses/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30113918/47707621.jpg",
+      "date": "Fri, 30 Oct 2026 21:14:34 +0000",
+      "url": "https://observador.pt/2026/10/30/carney-quer-concluir-ate-junho-negociacoes-para-tornar-canada-membro-associado-da-ue/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1818:1023:nowe:70:385/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30185105/48038619.jpg",
       "score": 0.73
     },
     {
-      "id": "c25e16bd",
-      "cat": "economia",
-      "title": "Taxa de desemprego recua em Portugal face a 2025",
-      "summary": "No mês de setembro, Portugal contabilizava 313 mil pessoas desempregadas, menos 16 mil do que em 2025. Na UE o acréscimo foi de 471 mil pessoas e de 420 mil na zona euro.",
+      "id": "51656c64",
+      "cat": "tecnologia",
+      "title": "Coruche. PJ recolhe documentos sobre mandatos anteriores",
+      "summary": "A Polícia Judiciária esteve esta sexta-feira nas instalações do município do distrito de Santarém. Autarquia diz ter prestado \"toda a colaboração\".",
       "source": "Observador",
-      "date": "Fri, 30 Oct 2026 12:13:12 +0000",
-      "url": "https://observador.pt/2026/10/30/desemprego-sobe-na-zona-euro-e-na-ue-em-setembro-e-mantem-se-estavel-em-portugal/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/07/26112215/770-novos-desempregados-inscritos-iefp.jpeg",
+      "date": "Fri, 30 Oct 2026 21:13:09 +0000",
+      "url": "https://observador.pt/2026/10/30/pj-recolhe-documentacao-na-camara-de-coruche-sobre-periodos-anteriores-ao-atual-mandato-autarquico/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1357:762:nowe:0:82/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/22193941/camara-municipal-de-coruche.jpg",
       "score": 0.73
     },
     {
-      "id": "fcae3256",
+      "id": "97f92e96",
       "cat": "tecnologia",
-      "title": "Hospital de Santa Maria e INEM vão partilhar profissionais",
-      "summary": "Foi assinado esta sexta-feira o primeiro protocolo que permite realizar a partilha. Foi ainda anunciada a abertura de uma base de ambulância de Suporte Básico de Vida no Hospital.",
+      "title": "Fabian diz que foi agredido, polícia não \"observou\" agressão",
+      "summary": "Deputado falou com a PSP e com manifestantes e tentou fazer de mediador. Depois, a polícia avançou. O Observador analisa, frame a frame, a ação da polícia no Rossio, na madrugada de 25 de outubro.",
       "source": "Observador",
-      "date": "Fri, 30 Oct 2026 12:03:50 +0000",
-      "url": "https://observador.pt/2026/10/30/hospital-de-santa-maria-e-inem-vao-partilhar-profissionais-de-saude/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/04/09114035/28599339.jpg",
+      "date": "Fri, 30 Oct 2026 21:02:08 +0000",
+      "url": "https://observador.pt/especiais/deputado-do-be-diz-que-foi-agredido-policia-nao-observou-agressao-o-que-mostram-as-imagens/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29190826/770-fabian-figueiredo.jpg",
       "score": 0.73
     },
     {
-      "id": "69b57672",
+      "id": "fe513c13",
       "cat": "tecnologia",
-      "title": "INE revê dados mas mantém os que ditam idade da reforma",
-      "summary": "A revisão da população levou o INE a rever em alta as estimativas da esperança de vida. Contudo, o indicador que conta para a idade da reforma, que vai chegar aos 66 anos e 11 meses no próximo ano, não foi afetado pela revisão.",
+      "title": "EDP conclui negociação do Acordo Coletivo de Trabalho com maioria dos sindicatos",
+      "summary": "\"A EDP e a maioria das estruturas sindicais concluíram a negociação do novo ACT em Portugal, que entrará em vigor a 01 de janeiro de 2027\", anunciou, em comunicado, a empresa.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 30 Oct 2026 11:44:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/seguranca-social/detalhe/ine-reve-dados-mas-mantem-os-que-ditam-idade-da-reforma",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-04-16-48-01-491229.jpg",
+      "date": "Fri, 30 Oct 2026 20:19:24 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/edp-conclui-negociacao-do-acordo-coletivo-de-trabalho-com-maioria-dos-sindicatos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-03/img_100x100uu2024-03-26-20-19-15-473791.jpg",
       "score": 0.73
     },
     {
-      "id": "cdac97cf",
-      "cat": "economia",
-      "title": "A União da Poupança e dos Investimentos está ao nosso alcance. Não deixemos escapar esta oportunidade",
-      "summary": "À Europa não falta capital. O desafio é fazer com que o capital trabalhe a favor da Europa.",
+      "id": "902b7173",
+      "cat": "tecnologia",
+      "title": "Wall Street vive dia negativo com queda histórica da Intel. Fabricante de chips caiu quase 30%",
+      "summary": "As bolsas norte-americanas fecharam a sessão desta sexta-feira com fortes quebras, na sequência de um tombo da Intel de quase 30% e de um reacender de receios com a rendibilidade dos investimentos em inteligência artificial.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 30 Oct 2026 11:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-uniao-da-poupanca-e-dos-investimentos-esta-ao-nosso-alcance-nao-deixemos-escapar-esta-oportunidade",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_394x514uu2026-10-29-16-54-51-532068.png",
+      "date": "Fri, 30 Oct 2026 20:14:54 Z",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-vive-dia-negativo-com-queda-historica-da-intel-fabricante-de-chips-caiu-quase-30",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-27-19-35-43-531901.jpg",
       "score": 0.73
     },
     {
@@ -245,25 +245,47 @@
       "score": 0.73
     },
     {
-      "id": "1dcea2ce",
-      "cat": "desporto",
-      "title": "Flamengo destaca-se na liderança do Brasileirão",
-      "summary": "O campeão em título Flamengo, de Leonardo Jardim, reforçou na quinta-feira a liderança do campeonato brasileiro, ao vencer por 4-1 no reduto do vizinho Vasco da Gama, em encontro da 33.ª jornada.",
+      "id": "e30c11b3",
+      "cat": "tecnologia",
+      "title": "PSG reforça liderança em jogo de `sonho` de Hakimi",
+      "summary": "O Paris Saint-Germain reforçou hoje a liderança da Liga francesa de futebol na noite da carreira de Hakimi, que assinou o seu primeiro ‘hat-trick’ e juntou ainda duas assistências, na goleada no campo do Le Havre (5-1).",
       "source": "RTP",
-      "date": "Fri, 30 Oct 2026 10:06:51 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/flamengo-destaca-se-na-lideranca-do-brasileirao_d1775566",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7d3e727440dcd8f265c95b2e2de9c1e7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Fri, 30 Oct 2026 20:45:00 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/psg-reforca-lideranca-em-jogo-de-sonho-de-hakimi_d1775759",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0c01a1504f202e26c3b4c6430579bda6?w=350&amp;q=50&amp;rect=0,95,1164,638&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "4cbe56df",
-      "cat": "saude",
-      "title": "Unisana investe 40 milhões para triplicar dimensão do Hospital de Almada",
-      "summary": "O Grupo Unisana Hospitais vai investir 40 milhões de euros para expandir o Hospital de Almada. O investimento prevê a construção de um novo edifício, que vai permitir triplicar a dimensão da unidade de saúde detida pelo grupo liderado por Eduardo Nuno Moniz. A obra será realizada em duas fases, com ",
+      "id": "8410ff02",
+      "cat": "desporto",
+      "title": "Liga Nações. Francisco Conceição punido com três jogos de suspensão",
+      "summary": "Francisco Conceição foi punido com três jogos de suspensão pela UEFA devido à expulsão no jogo Portugal-Noruega da Liga das Nações de futebol, de acordo com um documento do organismo, a que a Lusa teve acesso.",
+      "source": "RTP",
+      "date": "Fri, 30 Oct 2026 17:32:05 +0000",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/liga-nacoes-francisco-conceicao-punido-com-tres-jogos-de-suspensao_d1775707",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/19/19182135baa1c6635f4c8056a4610535?w=350&amp;q=50&amp;rect=0,90,1276,700&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "323067ea",
+      "cat": "tecnologia",
+      "title": "GNR e PSP vão receber 5.200 ‘bodycams’ até ao início do próximo ano",
+      "summary": "A GNR e a PSP vão receber 5.200 &#8216;bodycams&#8217; até ao início do próximo ano, avançou esta sexta-feira o secretário de Estado da Administração Interna, Telmo Correia. &#8220;Tencionamos até ao final deste ano, no limite início de 2027, entregar 5.200 &#8216;bodycams&#8217; às forças de segura",
       "source": "ECO",
-      "date": "Fri, 30 Oct 2026 11:31:55 +0000",
-      "url": "https://eco.sapo.pt/2026/10/30/unisana-investe-40-milhoes-para-triplicar-dimensao-do-hospital-de-almada/",
-      "img": "https://eco.imgix.net/uploads/2026/10/unisana-hospital-de-almada-novo-edificio-1-scaled.jpg",
+      "date": "Fri, 30 Oct 2026 18:39:14 +0000",
+      "url": "https://eco.sapo.pt/2026/10/30/gnr-e-psp-vao-receber-5-200-bodycams-ate-ao-inicio-do-proximo-ano/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-41916932-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "cce891d6",
+      "cat": "tecnologia",
+      "title": "Good News in History, October 30",
+      "summary": "53 years ago today, the Bosporus Bridge was completed, linking mainland Europe with Anatolia over the Bosporus Straits for the first time. It&#8217;s a gravity-anchored suspension bridge with steel towers and inclined hangers, and upon its completion was the 4th longest suspension bridge in the worl",
+      "source": "Good News Network",
+      "date": "Fri, 30 Oct 2026 07:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events061030/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/10/Bosphorus-Bridge-Istanbul-1973-e1667028468403.jpg",
       "score": 0.73
     },
     {
@@ -278,25 +300,14 @@
       "score": 0.73
     },
     {
-      "id": "7d54555f",
+      "id": "c51929ca",
       "cat": "tecnologia",
-      "title": "PCP acusa Governo de cortar na saúde e habitação e aprofundar desmantelamento do SNS",
-      "summary": "Paulo Raimundo responsabiliza o Governo pela tensão social, acusando o executivo de Luís Montenegro de manter uma postura “arrogante e provocatória”.",
+      "title": "Campanha xenófoba no Facebook e no TikTok inunda a França a meses das presidenciais",
+      "summary": "A campanha de propaganda racista terá origem no sector privado israelita e tem revelado maior actividade em países europeus com eleições para 2027. O IP de um dos promotores foi localizado em Israel.",
       "source": "Público",
-      "date": "Fri, 30 Oct 2026 12:02:33 GMT",
-      "url": "https://www.publico.pt/2026/10/30/politica/noticia/pcp-acusa-governo-cortar-saude-habitacao-aprofundar-desmantelamento-sns-2193185",
+      "date": "Fri, 30 Oct 2026 20:30:54 GMT",
+      "url": "https://www.publico.pt/2026/10/30/mundo/noticia/campanha-xenofoba-facebook-tiktok-inunda-franca-meses-presidenciais-2193251",
       "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "fe732f7b",
-      "cat": "tecnologia",
-      "title": "É no poupar que está o ganho?",
-      "summary": "Situando-se as taxas de juro, em média, abaixo da inflação nos últimos anos, os depositantes em Portugal têm, na prática, perdido poder de compra com as suas poupanças. E isto antes de impostos, que tornam a perda real ainda maior.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 30 Oct 2026 12:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/e-no-poupar-que-esta-o-ganho",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_394x514uu2026-10-29-12-33-43-532044.png",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Tue, 09 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "7332d969",
-      "cat": "desporto",
-      "title": "Números e Curiosidades - Jornada 10 da I Liga",
-      "summary": "A I Liga cumpre este fim de semana a décima jornada.",
-      "source": "RTP",
-      "date": "Fri, 30 Oct 2026 11:33:04 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/numeros-e-curiosidades-jornada-10-da-i-liga_d1775593",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/fb/fbdffc7d673b93f6a9f93d226d37c16a.webp?w=350&amp;q=50&amp;auto=format",
       "score": 0.7
     }
   ]
