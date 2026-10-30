@@ -1,5 +1,5 @@
 {
-  "last_update": "29/10/2026 22:40 UTC",
+  "last_update": "30/10/2026 05:26 UTC",
   "total": 30,
   "news": [
     {
@@ -34,17 +34,6 @@
       "url": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
       "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Atlantic-Salmon-001-©-Darren-Honeywill-2026.jpg",
       "score": 0.82
-    },
-    {
-      "id": "8ffc10a1",
-      "cat": "tecnologia",
-      "title": "Castro Almeida: Danos causados pelas tempestades já absorveram mais de 3.000 milhões do PTRR",
-      "summary": "O ministro da Economia sublinhou ainda que está previsto no programa Portugal Transformação, Recuperação e Resiliência (PTRR), no próximo ano, um investimento adicional de 970 milhões de euros.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 29 Oct 2026 21:47:03 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/castro-almeida-danos-causados-pelas-tempestades-ja-absorveram-mais-de-3-000-milhoes-do-ptrr",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-16-13-14-44-529583.jpg",
-      "score": 0.79
     },
     {
       "id": "504a3100",
@@ -102,14 +91,25 @@
       "score": 0.79
     },
     {
-      "id": "ab72cc75",
+      "id": "446ea572",
       "cat": "tecnologia",
-      "title": "Tombo da Alphabet arrasta Wall Street para o vermelho. Nasdaq recua 1,4%",
-      "summary": "A queda recorde da Alphabet reavivou dúvidas sobre o retorno dos investimentos em inteligência artificial e pesou nas tecnológicas. Ainda assim, mais de 400 cotadas do S&P 500 subiram, sinal de rotação para outros setores.",
+      "title": "Não há balas de prata – a ansiedade permanente por uma fórmula instantânea para a habitação",
+      "summary": "A doença da habitação tornou-se uma patologia grave da cidade. Não se cura com massagens e palavras ao ouvido. Exige um cocktail de medicamentos e, se necessário, uma intervenção mais dura. Opinião de Pedro Campos Costa",
+      "source": "Público",
+      "date": "Fri, 30 Oct 2026 00:15:00 GMT",
+      "url": "https://www.publico.pt/2026/10/30/opiniao/opiniao/nao-ha-balas-prata-ansiedade-permanente-formula-instantanea-habitacao-2192959",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "e7832d27",
+      "cat": "tecnologia",
+      "title": "Todos temem o Chega",
+      "summary": "Quase todos perceberam que é no sentimento de desesperança, falta de expectativas e cansaço que mais facilmente grassam os discursos simplistas, populistas, de frases fáceis e anúncios oportunísticos que prometem mundos e transformação sem qualquer adesão à realidade económica.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 29 Oct 2026 20:19:52 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/tombo-da-alphabet-arrasta-wall-street-para-o-vermelho-nasdaq-recua-1-4",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-30-20-35-00-525894.jpg",
+      "date": "Thu, 29 Oct 2026 23:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/todos-temem-o-chega",
+      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
       "score": 0.76
     },
     {
@@ -168,47 +168,14 @@
       "score": 0.76
     },
     {
-      "id": "987b56eb",
+      "id": "52650597",
       "cat": "tecnologia",
-      "title": "Partido de Netanyahu leva a cabo campanha para descredibilizar as eleições em Israel",
-      "summary": "O Shin Bet anunciou investigação “de âmbito limitado” a alegações de interferência eleitoral estrangeira. Os resultados finais mantêm o impasse, excepto numa aliança com os partidos árabes.",
-      "source": "Público",
-      "date": "Thu, 29 Oct 2026 19:30:10 GMT",
-      "url": "https://www.publico.pt/2026/10/29/mundo/noticia/partido-netanyahu-leva-cabo-campanha-descredibilizar-eleicoes-israel-2193094",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "ed92debd",
-      "cat": "saude",
-      "title": "Açores. Ordem dos Médicos preocupada com listas da espera",
-      "summary": "Com 13.945 doentes em espera cirúrgica — recorde desde 2017 — Carlos Cortes exige resposta mais rápida e mais médicos, blocos e camas no hospital de Ponta Delgada.",
-      "source": "Observador",
-      "date": "Thu, 29 Oct 2026 21:10:41 +0000",
-      "url": "https://observador.pt/2026/10/29/ordem-dos-medicos-preocupada-com-listas-da-espera-nos-acores/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1405:nowe:0:1/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/01/30162456/hospital-divino-espirito-santo-acores.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "7ed89adf",
-      "cat": "ambiente",
-      "title": "Portugal redefine prioridades do Fundo de Modernização da UE",
-      "summary": "O Ministério do Ambiente e Energia adianta que a agência deverá identificar as áreas prioritárias para a apresentação de candidaturas ao Comité de Investimento do Fundo de Modernização em 2027.",
-      "source": "Observador",
-      "date": "Thu, 29 Oct 2026 20:57:36 +0000",
-      "url": "https://observador.pt/2026/10/29/agencia-para-o-clima-tem-ate-fim-do-ano-para-redefinir-areas-de-financiamento-europeu-para-descarbonizacao-ate-2030/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1711:966:nowe:0:368/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/27203939/47005316.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "07840c7f",
-      "cat": "tecnologia",
-      "title": "Lisboa. Centenas de polícias protestam por melhores salários",
-      "summary": "Centenas de polícias e guardas concentraram-se no Largo de Camões para exigir salários mais altos e cumprimento do acordo assinado com o Governo em 2024.",
-      "source": "Observador",
-      "date": "Thu, 29 Oct 2026 20:57:16 +0000",
-      "url": "https://observador.pt/2026/10/29/centenas-de-policias-e-guardas-protestam-em-lisboa-por-melhores-salarios/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29193038/48032563.jpg",
+      "title": "Governo prepara benefícios fiscais sobre as poupanças",
+      "summary": "Na “alteração paradigmática” que está a ser preparada e que será apresentada no primeiro semestrede 2027, a ideia é que os benefícios fiscais, os existentes e os novos, sejam “calibrados no sentido de privilegiar a classe média”, diz o secretário de Estado Adjunto e do Orçamento, José Maria Brandão ",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 29 Oct 2026 23:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/governo-prepara-beneficios-fiscais-sobre-as-poupancas",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-29-22-49-23-532078.jpg",
       "score": 0.73
     },
     {
@@ -245,17 +212,6 @@
       "score": 0.73
     },
     {
-      "id": "22b4a127",
-      "cat": "desporto",
-      "title": "Famalicão na Final Four da Taça da Liga",
-      "summary": "O FC Famalicão garantiu o apuramento histórico para a Final Four da Taça da Liga, deixando pelo caminho o Sporting de Braga no Estádio Municipal de Braga, após a marcação de grande penalidades.",
-      "source": "RTP",
-      "date": "Thu, 29 Oct 2026 16:52:00 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/famalicao-na-final-four-da-taca-da-liga_d1775386",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/5f/5f1c52eb020d7aed34b907a01c581c33?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
       "id": "6325f294",
       "cat": "tecnologia",
       "title": "Receitas da Amazon sobem 12% no terceiro trimestre, ficando aquém do esperado",
@@ -264,17 +220,6 @@
       "date": "Thu, 29 Oct 2026 21:42:12 +0000",
       "url": "https://eco.sapo.pt/2026/10/29/amazon-aumenta-receitas-em-12-aquem-do-esperado/",
       "img": "https://eco.imgix.net/uploads/2024/03/cropped-doc-20201210-30199372-08873754-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "989292a2",
-      "cat": "tecnologia",
-      "title": "Portugal entre 12 países da UE que vão libertar 42,6 milhões de barris de petróleo",
-      "summary": "Doze países da União Europeia (UE), incluindo Portugal, vão colocar no mercado cerca de 42,6 milhões de barris de petróleo das suas reservas estratégicas, quase metade dos quais de gasóleo, segundo um comunicado divulgado esta quinta-feira. De acordo com o documento, subscrito pelos 12 países, serão",
-      "source": "ECO",
-      "date": "Thu, 29 Oct 2026 19:32:41 +0000",
-      "url": "https://eco.sapo.pt/2026/10/29/portugal-entre-12-paises-da-ue-que-vao-libertar-426-milhoes-de-barris-de-petroleo/",
-      "img": "https://eco.imgix.net/uploads/2026/05/20555339-scaled.jpg",
       "score": 0.73
     },
     {
@@ -289,25 +234,58 @@
       "score": 0.73
     },
     {
-      "id": "02b2e0fd",
-      "cat": "tecnologia",
-      "title": "Armário fechado há quase dois mil anos revela aspectos íntimos da vida de um habitante de Pompeia",
-      "summary": "Entre os objectos econtrados numa casa da Via dell’Abbondanza, uma das ruas mais movimentadas da antiga Pompeia, estão maquilhagem e perfume, moedas, panelas e amuletos de infância.",
+      "id": "0bba3357",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
       "source": "Público",
-      "date": "Thu, 29 Oct 2026 20:56:28 GMT",
-      "url": "https://www.publico.pt/2026/10/29/culturaipsilon/noticia/armario-fechado-ha-quase-dois-mil-anos-revela-aspectos-intimos-vida-habitante-pompeia-2193079",
+      "date": "Fri, 30 Oct 2026 05:20:00 GMT",
+      "url": "https://www.publico.pt/2026/10/30/opiniao/opiniao/cartas-director-2193100",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "dd65e864",
+      "id": "059dcf1c",
       "cat": "tecnologia",
-      "title": "Três voltas à chave",
-      "summary": "Naquele dia, não sabe dizer porquê, talvez o cansaço lhe tenha batido à porta, numa dessas distracções que parecem não ter importância nenhuma até ser tarde demais, esqueceu-se de trancar a porta. Crónica de Cláudia Lucas Chéu",
+      "title": "Governo do Brasil atrasa salários de trabalhadores locais em embaixadas e consulados",
+      "summary": "Cerca de 3 mil trabalhadores terceirizados de embaixadas e consulados brasileiros no exterior não receberão salários este mês, dia 30 de outubro. A alegação é a falta de recursos no caixa da União.",
       "source": "Público",
-      "date": "Thu, 29 Oct 2026 20:45:00 GMT",
-      "url": "https://www.publico.pt/2026/10/29/p3/cronica/tres-voltas-chave-2192916",
+      "date": "Fri, 30 Oct 2026 00:36:17 GMT",
+      "url": "https://www.publico.pt/2026/10/30/publico-brasil/noticia/governo-brasil-atrasa-salarios-trabalhadores-locais-embaixadas-consulados-2193147",
       "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "4776f29f",
+      "cat": "desporto",
+      "title": "3h. Escolas privadas continuam a liderar rankings do ensino",
+      "summary": "Os rankings de 2025 confirmam o domínio das escolas privadas, sobretudo no ensino secundário. No futebol, o Famalicão vence o Braga nos penáltis e garante um lugar na final four da Taça da Liga.",
+      "source": "Observador",
+      "date": "Fri, 30 Oct 2026 03:16:41 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2482/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "eb47638c",
+      "cat": "tecnologia",
+      "title": "2h. Polícias ameaçam regressar aos protestos",
+      "summary": "Depois de mais de mil agentes se terem manifestado em Lisboa, polícias ameaçam novos protestos se Governo não avançar com propostas. Ainda, escolas privadas continuam a liderar os rankings do ensino.",
+      "source": "Observador",
+      "date": "Fri, 30 Oct 2026 02:17:50 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2455/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "1177c7b9",
+      "cat": "tecnologia",
+      "title": "1h. Benfica vence Gil Vicente e chega à final four da Taça",
+      "summary": "O Benfica junta-se a Sporting, FC Porto e Famalicão na final four da Taça da Liga. Ainda, polícias prometem voltar aos protestos se o Governo não apresentar propostas de valorização salarial.",
+      "source": "Observador",
+      "date": "Fri, 30 Oct 2026 01:15:51 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2431/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
@@ -330,6 +308,28 @@
       "date": "Tue, 09 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "0cb7bb99",
+      "cat": "tecnologia",
+      "title": "Caso Durán. \"Gostaria que o árbitro tivesse explicado melhor\", diz o presidente do Conselho de Arbitragem",
+      "summary": "Sobre o caso Durán e a expulsão do árbitro Cláudio Pereira, no jogo Benfica frente ao Santa Clara, Luciano Gonçalves justificou que era objetivo “condenar” uma atitude do jogador que “provocou a ira dos adversários”, apesar de ser impercetível.",
+      "source": "RTP",
+      "date": "Thu, 29 Oct 2026 23:18:00 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/caso-duran-gostaria-que-o-arbitro-tivesse-explicado-melhor-diz-o-presidente-do-conselho-de-arbitragem_d1775479",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/30/30103b5f4f5da0a9efc2e29f9d341b94?w=350&amp;q=50&amp;rect=0,249,4202,2304&amp;auto=format",
+      "score": 0.7
+    },
+    {
+      "id": "6b3f89c9",
+      "cat": "tecnologia",
+      "title": "Autarquias afetadas pelas tempestades vão ter mais tempo para concorrer a apoios",
+      "summary": "O Governo vai prorrogar pelo menos até 31 de dezembro o prazo para os municípios se candidatarem a apoios do Fundo de Emergência Municipal para recuperar infraestruturas e equipamentos que foram danificados pelas tempestades Kristin O concurso inicialmente estava aberto até 30 de novembro, mas vário",
+      "source": "ECO",
+      "date": "Fri, 30 Oct 2026 02:23:49 +0000",
+      "url": "https://eco.sapo.pt/2026/10/30/autarquias-afetadas-pelas-tempestades-vao-ter-mais-tempo-para-concorrer-a-apoios/",
+      "img": "https://eco.imgix.net/uploads/2026/07/cropped-46554973-scaled-1.jpg",
       "score": 0.7
     }
   ]
