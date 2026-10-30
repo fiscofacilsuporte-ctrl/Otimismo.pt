@@ -1,5 +1,5 @@
 {
-  "last_update": "30/10/2026 05:26 UTC",
+  "last_update": "30/10/2026 12:37 UTC",
   "total": 30,
   "news": [
     {
@@ -14,6 +14,17 @@
       "score": 0.88
     },
     {
+      "id": "a4a19158",
+      "cat": "tecnologia",
+      "title": "What went right this week: the good news that matters",
+      "summary": "There was renewed hope for the Amazon rainforest, a skin cancer vaccine showed promise, and a nicotine loophole was closed in the UK, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "source": "Positive News",
+      "date": "Fri, 30 Oct 2026 05:00:13 +0000",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-44-of-2026/",
+      "img": "https://www.positive.news/wp-content/uploads/2026/10/iStock-495829576.jpg",
+      "score": 0.82
+    },
+    {
       "id": "80d717cf",
       "cat": "tecnologia",
       "title": "Positive News launches new video podcast exploring what’s going right in the world",
@@ -25,25 +36,14 @@
       "score": 0.82
     },
     {
-      "id": "0d4f62e3",
-      "cat": "sociedade",
-      "title": "Volunteers became salmon, deer and earthworms. Then they set out to save their river",
-      "summary": "An experiment is helping a Somerset community see its landscape through the eyes of wildlife – and plot a 30-year route to change it The post Volunteers became salmon, deer and earthworms. Then they set out to save their river appeared first on Positive News .",
-      "source": "Positive News",
-      "date": "Mon, 19 Oct 2026 07:00:44 +0000",
-      "url": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/",
-      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/10/Atlantic-Salmon-001-©-Darren-Honeywill-2026.jpg",
-      "score": 0.82
-    },
-    {
-      "id": "504a3100",
-      "cat": "tecnologia",
-      "title": "Bizarre Rescue Sees Divers Save Kangaroo That Found Itself Over a Mile from Dry Land",
-      "summary": "In a story too &#8216;Australiana&#8217; to believe, a scuba diver and his crew rescued a kangaroo over one and a half miles out to sea. Spotted at first by the captain in the waters of Boston Bay in the state of South Australia, it was clear that the juvenile kangaroo recognized his only hope was [",
-      "source": "Good News Network",
-      "date": "Wed, 28 Oct 2026 15:30:15 +0000",
-      "url": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/Jake-Murray-and-the-rescued-roo-supplied-to-ABC-by-Jake-Murray.jpg",
+      "id": "948fa0c9",
+      "cat": "saude",
+      "title": "Governo lança parceria público-privada para construir novo hospital em Barcelos",
+      "summary": "O Governo deu o primeiro passo formal para avançar com uma parceria público-privada (PPP) destinada à construção do novo Hospital de Barcelos-Esposende. De acordo com um despacho publicado esta sexta-feira em Diário da República, o Ministério da Saúde determina que a Administração Central do Sistema",
+      "source": "ECO",
+      "date": "Fri, 30 Oct 2026 11:33:35 +0000",
+      "url": "https://eco.sapo.pt/2026/10/30/governo-lanca-parceria-publico-privada-para-construir-novo-hospital-em-barcelos/",
+      "img": "https://eco.imgix.net/uploads/2024/11/cropped-doc-20241112-43896684-pet_5355-2.jpg",
       "score": 0.79
     },
     {
@@ -58,6 +58,17 @@
       "score": 0.79
     },
     {
+      "id": "0c919de4",
+      "cat": "ciencia",
+      "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
+      "summary": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nicknamed \"sea muppets,\" these elusive creatures are known from just seven specimens,",
+      "source": "ScienceDaily",
+      "date": "Thu, 29 Oct 2026 22:07:19 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
+      "img": "https://www.sciencedaily.com/images/1920/australyichthys-aegis.webp",
+      "score": 0.79
+    },
+    {
       "id": "0b2664ef",
       "cat": "ciencia",
       "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
@@ -69,58 +80,14 @@
       "score": 0.79
     },
     {
-      "id": "cef3479f",
+      "id": "22a8d983",
       "cat": "tecnologia",
-      "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
-      "summary": "A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side. Discovered in northern Israel alongside ancient stone tools, the tooth belonged to a straight-tusked elephant, one of t",
-      "source": "ScienceDaily",
-      "date": "Thu, 29 Oct 2026 08:38:53 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
-      "img": "https://www.sciencedaily.com/images/1920/tools-uncovered-at-acheulian-site-north-of-gesher-benot-yaaqov.webp",
-      "score": 0.79
-    },
-    {
-      "id": "56795a7e",
-      "cat": "ciencia",
-      "title": "Your blood pressure could be dangerous even when your numbers look normal",
-      "summary": "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.",
-      "source": "ScienceDaily",
-      "date": "Wed, 28 Oct 2026 23:54:37 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
-      "img": "https://www.sciencedaily.com/images/1920/blood-pressure-measurement-heart-cardiology.webp",
-      "score": 0.79
-    },
-    {
-      "id": "446ea572",
-      "cat": "tecnologia",
-      "title": "Não há balas de prata – a ansiedade permanente por uma fórmula instantânea para a habitação",
-      "summary": "A doença da habitação tornou-se uma patologia grave da cidade. Não se cura com massagens e palavras ao ouvido. Exige um cocktail de medicamentos e, se necessário, uma intervenção mais dura. Opinião de Pedro Campos Costa",
-      "source": "Público",
-      "date": "Fri, 30 Oct 2026 00:15:00 GMT",
-      "url": "https://www.publico.pt/2026/10/30/opiniao/opiniao/nao-ha-balas-prata-ansiedade-permanente-formula-instantanea-habitacao-2192959",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "e7832d27",
-      "cat": "tecnologia",
-      "title": "Todos temem o Chega",
-      "summary": "Quase todos perceberam que é no sentimento de desesperança, falta de expectativas e cansaço que mais facilmente grassam os discursos simplistas, populistas, de frases fáceis e anúncios oportunísticos que prometem mundos e transformação sem qualquer adesão à realidade económica.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 29 Oct 2026 23:00:00 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/todos-temem-o-chega",
-      "img": "https://cdn.jornaldenegocios.pt/images/2022-03/img_394x514uu2022-03-03-16-38-09-423467.png",
-      "score": 0.76
-    },
-    {
-      "id": "06c7e411",
-      "cat": "desporto",
-      "title": "Judoca Catarina Costa quinta no Grand Slam de Abu Dhabi",
-      "summary": "A judoca olímpica portuguesa Catarina Costa (-48 kg) foi hoje quinta classificada no Grand Slam de Abu Dhabi, ao perder na luta pela medalha de bronze com a turca Sila Ersin.",
-      "source": "RTP",
-      "date": "Thu, 29 Oct 2026 20:18:53 +0000",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/judoca-catarina-costa-quinta-no-grand-slam-de-abu-dhabi_d1775360",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c9/c9c51c796651c85d14a623527761d93d?w=350&amp;q=50&amp;rect=0,42,1233,676&amp;auto=format",
+      "title": "Empresário galego do setor hoteleiro exporta vinhos do Douro para os EUA",
+      "summary": "Foi a paixão pelo Douro Vinhateiro que levou Juan Viñas, empresário galego do setor hoteleiro e fundador do Grupo Carrís, a comprar uma quinta na região, em 2008, e dedicar-se à viticultura. Quase duas décadas depois, o projeto ganha escala internacional com a criação de uma empresa nos Estados Unid",
+      "source": "ECO",
+      "date": "Fri, 30 Oct 2026 12:18:16 +0000",
+      "url": "https://eco.sapo.pt/2026/10/30/__trashed-98/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-whatsapp-image-2026-10-29-at-193355.jpeg",
       "score": 0.76
     },
     {
@@ -146,6 +113,17 @@
       "score": 0.76
     },
     {
+      "id": "db4154ed",
+      "cat": "ambiente",
+      "title": "Nature-Inspired Tech Prevents Microplastics Entering Atlantic Ocean Through Wastewater",
+      "summary": "Princeton alumni have designed what&#8217;s called a first-in-the-world device to filter microplastics out of wastewater at scale, and it&#8217;s already been deployed in Atlantic City. The large implant mimics hydrophobic plants found in nature, which completely shed water on contact but also attra",
+      "source": "Good News Network",
+      "date": "Wed, 28 Oct 2026 18:30:55 +0000",
+      "url": "https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/credit-supplied-to-WHYY-as-a-courtesy-PolyGone-Systems.jpg",
+      "score": 0.76
+    },
+    {
       "id": "feb9851f",
       "cat": "tecnologia",
       "title": "Serious pollution by water industry remains high despite £5bn investment",
@@ -168,25 +146,91 @@
       "score": 0.76
     },
     {
-      "id": "52650597",
+      "id": "70e6d42f",
+      "cat": "ciencia",
+      "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+      "summary": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful winds from exploding stars helped radiation escape galaxies and ",
+      "source": "ScienceDaily",
+      "date": "Fri, 30 Oct 2026 06:50:22 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+      "img": "https://www.sciencedaily.com/images/1920/winds-after-light.webp",
+      "score": 0.76
+    },
+    {
+      "id": "522a6086",
       "cat": "tecnologia",
-      "title": "Governo prepara benefícios fiscais sobre as poupanças",
-      "summary": "Na “alteração paradigmática” que está a ser preparada e que será apresentada no primeiro semestrede 2027, a ideia é que os benefícios fiscais, os existentes e os novos, sejam “calibrados no sentido de privilegiar a classe média”, diz o secretário de Estado Adjunto e do Orçamento, José Maria Brandão ",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 29 Oct 2026 23:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/governo-prepara-beneficios-fiscais-sobre-as-poupancas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-29-22-49-23-532078.jpg",
+      "title": "Elvira anuncia para Janeiro de 2027 o primeiro álbum e revela mais um tema, O meu par",
+      "summary": "",
+      "source": "Público",
+      "date": "Fri, 30 Oct 2026 11:15:00 GMT",
+      "url": "https://www.publico.pt/2026/10/30/video/elvira-anuncia-janeiro-2027-album-revela-tema-par-20261028-165914",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "5a25cf2b",
+      "id": "cebca3a9",
       "cat": "tecnologia",
-      "title": "Geração bloqueada",
-      "summary": "As manifestações na rua por causa da falta de habitação contam com muitos jovens. E têm razão para protestar, não só pela falta de casas e do preço exorbitante da habitação, mas pela falta de esperança num país onde o salário mínimo é a bitola habitual do horizonte salarial, mesmo para os jovens qua",
+      "title": "Polymarket investiga transacções suspeitas relacionadas com as eleições em Israel",
+      "summary": "Pouco antes do fecho das urnas, centenas de contas recém-criadas apostaram na permanência de Benjamin Netanyahu como primeiro-ministro. Algumas já levantaram, em conjunto, mais de 100 mil dólares.",
+      "source": "Público",
+      "date": "Fri, 30 Oct 2026 11:09:53 GMT",
+      "url": "https://www.publico.pt/2026/10/30/mundo/noticia/polymarket-investiga-transaccoes-suspeitas-relacionadas-eleicoes-israel-2193157",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "f95c5e41",
+      "cat": "tecnologia",
+      "title": "Dormidas no alojamento turístico registou aumento",
+      "summary": "Em setembro, os proveitos totais ascenderam a 890,2 milhões de euros e os proveitos de aposento a 696,6 milhões, correspondendo a crescimentos de 6,1% e 6,0%, respetivamente.",
+      "source": "Observador",
+      "date": "Fri, 30 Oct 2026 12:13:59 +0000",
+      "url": "https://observador.pt/2026/10/30/dormidas-no-alojamento-turistico-atingiu-em-setembro-o-maior-crescimento-em-quatro-meses/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30113918/47707621.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "c25e16bd",
+      "cat": "economia",
+      "title": "Taxa de desemprego recua em Portugal face a 2025",
+      "summary": "No mês de setembro, Portugal contabilizava 313 mil pessoas desempregadas, menos 16 mil do que em 2025. Na UE o acréscimo foi de 471 mil pessoas e de 420 mil na zona euro.",
+      "source": "Observador",
+      "date": "Fri, 30 Oct 2026 12:13:12 +0000",
+      "url": "https://observador.pt/2026/10/30/desemprego-sobe-na-zona-euro-e-na-ue-em-setembro-e-mantem-se-estavel-em-portugal/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/07/26112215/770-novos-desempregados-inscritos-iefp.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "fcae3256",
+      "cat": "tecnologia",
+      "title": "Hospital de Santa Maria e INEM vão partilhar profissionais",
+      "summary": "Foi assinado esta sexta-feira o primeiro protocolo que permite realizar a partilha. Foi ainda anunciada a abertura de uma base de ambulância de Suporte Básico de Vida no Hospital.",
+      "source": "Observador",
+      "date": "Fri, 30 Oct 2026 12:03:50 +0000",
+      "url": "https://observador.pt/2026/10/30/hospital-de-santa-maria-e-inem-vao-partilhar-profissionais-de-saude/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/04/09114035/28599339.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "69b57672",
+      "cat": "tecnologia",
+      "title": "INE revê dados mas mantém os que ditam idade da reforma",
+      "summary": "A revisão da população levou o INE a rever em alta as estimativas da esperança de vida. Contudo, o indicador que conta para a idade da reforma, que vai chegar aos 66 anos e 11 meses no próximo ano, não foi afetado pela revisão.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 29 Oct 2026 22:02:00 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/armando-esteves-pereira/detalhe/geracao-bloqueada",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-13-00-296253.png",
+      "date": "Fri, 30 Oct 2026 11:44:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/seguranca-social/detalhe/ine-reve-dados-mas-mantem-os-que-ditam-idade-da-reforma",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-12/img_100x100uu2024-12-04-16-48-01-491229.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "cdac97cf",
+      "cat": "economia",
+      "title": "A União da Poupança e dos Investimentos está ao nosso alcance. Não deixemos escapar esta oportunidade",
+      "summary": "À Europa não falta capital. O desafio é fazer com que o capital trabalhe a favor da Europa.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 30 Oct 2026 11:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-uniao-da-poupanca-e-dos-investimentos-esta-ao-nosso-alcance-nao-deixemos-escapar-esta-oportunidade",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_394x514uu2026-10-29-16-54-51-532068.png",
       "score": 0.73
     },
     {
@@ -201,25 +245,25 @@
       "score": 0.73
     },
     {
-      "id": "e3b4fcf4",
+      "id": "1dcea2ce",
       "cat": "desporto",
-      "title": "Sporting reina na Dinamarca no fecho da primeira fase da Champions de andebol",
-      "summary": "O Sporting fechou a fase de grupos da Liga dos Campeões de andebol no primeiro lugar na ‘poule’ D, face ao triunfo fora sobre os dinamarqueses do GOG (37-35), sem argumentos para contrariar o andamento dos ‘leões’.",
+      "title": "Flamengo destaca-se na liderança do Brasileirão",
+      "summary": "O campeão em título Flamengo, de Leonardo Jardim, reforçou na quinta-feira a liderança do campeonato brasileiro, ao vencer por 4-1 no reduto do vizinho Vasco da Gama, em encontro da 33.ª jornada.",
       "source": "RTP",
-      "date": "Thu, 29 Oct 2026 20:22:19 +0000",
-      "url": "https://www.rtp.pt/noticias/sporting/sporting-reina-na-dinamarca-no-fecho-da-primeira-fase-da-champions-de-andebol_d1775437",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/98/986d1c1cb3621cbd759b3c0958fc22cb?w=350&amp;q=50&amp;rect=0,36,1233,676&amp;auto=format",
+      "date": "Fri, 30 Oct 2026 10:06:51 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/flamengo-destaca-se-na-lideranca-do-brasileirao_d1775566",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7d3e727440dcd8f265c95b2e2de9c1e7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "6325f294",
-      "cat": "tecnologia",
-      "title": "Receitas da Amazon sobem 12% no terceiro trimestre, ficando aquém do esperado",
-      "summary": "A Amazon aumentou as receitas líquidas em 12% no terceiro trimestre, para 201,9 mil milhões de dólares, de acordo com a informação comunicada esta quinta-feira ao mercado. Ainda assim, os resultados da gigante do e-commerce e da cloud ficaram abaixo das estimativas dos analistas. As receitas compara",
+      "id": "4cbe56df",
+      "cat": "saude",
+      "title": "Unisana investe 40 milhões para triplicar dimensão do Hospital de Almada",
+      "summary": "O Grupo Unisana Hospitais vai investir 40 milhões de euros para expandir o Hospital de Almada. O investimento prevê a construção de um novo edifício, que vai permitir triplicar a dimensão da unidade de saúde detida pelo grupo liderado por Eduardo Nuno Moniz. A obra será realizada em duas fases, com ",
       "source": "ECO",
-      "date": "Thu, 29 Oct 2026 21:42:12 +0000",
-      "url": "https://eco.sapo.pt/2026/10/29/amazon-aumenta-receitas-em-12-aquem-do-esperado/",
-      "img": "https://eco.imgix.net/uploads/2024/03/cropped-doc-20201210-30199372-08873754-1.jpg",
+      "date": "Fri, 30 Oct 2026 11:31:55 +0000",
+      "url": "https://eco.sapo.pt/2026/10/30/unisana-investe-40-milhoes-para-triplicar-dimensao-do-hospital-de-almada/",
+      "img": "https://eco.imgix.net/uploads/2026/10/unisana-hospital-de-almada-novo-edificio-1-scaled.jpg",
       "score": 0.73
     },
     {
@@ -234,58 +278,25 @@
       "score": 0.73
     },
     {
-      "id": "0bba3357",
-      "cat": "cultura",
-      "title": "Cartas ao director",
-      "summary": "",
+      "id": "7d54555f",
+      "cat": "tecnologia",
+      "title": "PCP acusa Governo de cortar na saúde e habitação e aprofundar desmantelamento do SNS",
+      "summary": "Paulo Raimundo responsabiliza o Governo pela tensão social, acusando o executivo de Luís Montenegro de manter uma postura “arrogante e provocatória”.",
       "source": "Público",
-      "date": "Fri, 30 Oct 2026 05:20:00 GMT",
-      "url": "https://www.publico.pt/2026/10/30/opiniao/opiniao/cartas-director-2193100",
+      "date": "Fri, 30 Oct 2026 12:02:33 GMT",
+      "url": "https://www.publico.pt/2026/10/30/politica/noticia/pcp-acusa-governo-cortar-saude-habitacao-aprofundar-desmantelamento-sns-2193185",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "059dcf1c",
+      "id": "fe732f7b",
       "cat": "tecnologia",
-      "title": "Governo do Brasil atrasa salários de trabalhadores locais em embaixadas e consulados",
-      "summary": "Cerca de 3 mil trabalhadores terceirizados de embaixadas e consulados brasileiros no exterior não receberão salários este mês, dia 30 de outubro. A alegação é a falta de recursos no caixa da União.",
-      "source": "Público",
-      "date": "Fri, 30 Oct 2026 00:36:17 GMT",
-      "url": "https://www.publico.pt/2026/10/30/publico-brasil/noticia/governo-brasil-atrasa-salarios-trabalhadores-locais-embaixadas-consulados-2193147",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "4776f29f",
-      "cat": "desporto",
-      "title": "3h. Escolas privadas continuam a liderar rankings do ensino",
-      "summary": "Os rankings de 2025 confirmam o domínio das escolas privadas, sobretudo no ensino secundário. No futebol, o Famalicão vence o Braga nos penáltis e garante um lugar na final four da Taça da Liga.",
-      "source": "Observador",
-      "date": "Fri, 30 Oct 2026 03:16:41 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2482/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "eb47638c",
-      "cat": "tecnologia",
-      "title": "2h. Polícias ameaçam regressar aos protestos",
-      "summary": "Depois de mais de mil agentes se terem manifestado em Lisboa, polícias ameaçam novos protestos se Governo não avançar com propostas. Ainda, escolas privadas continuam a liderar os rankings do ensino.",
-      "source": "Observador",
-      "date": "Fri, 30 Oct 2026 02:17:50 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2455/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "1177c7b9",
-      "cat": "tecnologia",
-      "title": "1h. Benfica vence Gil Vicente e chega à final four da Taça",
-      "summary": "O Benfica junta-se a Sporting, FC Porto e Famalicão na final four da Taça da Liga. Ainda, polícias prometem voltar aos protestos se o Governo não apresentar propostas de valorização salarial.",
-      "source": "Observador",
-      "date": "Fri, 30 Oct 2026 01:15:51 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2431/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "É no poupar que está o ganho?",
+      "summary": "Situando-se as taxas de juro, em média, abaixo da inflação nos últimos anos, os depositantes em Portugal têm, na prática, perdido poder de compra com as suas poupanças. E isto antes de impostos, que tornam a perda real ainda maior.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 30 Oct 2026 12:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/e-no-poupar-que-esta-o-ganho",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_394x514uu2026-10-29-12-33-43-532044.png",
       "score": 0.7
     },
     {
@@ -311,25 +322,14 @@
       "score": 0.7
     },
     {
-      "id": "0cb7bb99",
-      "cat": "tecnologia",
-      "title": "Caso Durán. \"Gostaria que o árbitro tivesse explicado melhor\", diz o presidente do Conselho de Arbitragem",
-      "summary": "Sobre o caso Durán e a expulsão do árbitro Cláudio Pereira, no jogo Benfica frente ao Santa Clara, Luciano Gonçalves justificou que era objetivo “condenar” uma atitude do jogador que “provocou a ira dos adversários”, apesar de ser impercetível.",
+      "id": "7332d969",
+      "cat": "desporto",
+      "title": "Números e Curiosidades - Jornada 10 da I Liga",
+      "summary": "A I Liga cumpre este fim de semana a décima jornada.",
       "source": "RTP",
-      "date": "Thu, 29 Oct 2026 23:18:00 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/caso-duran-gostaria-que-o-arbitro-tivesse-explicado-melhor-diz-o-presidente-do-conselho-de-arbitragem_d1775479",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/30/30103b5f4f5da0a9efc2e29f9d341b94?w=350&amp;q=50&amp;rect=0,249,4202,2304&amp;auto=format",
-      "score": 0.7
-    },
-    {
-      "id": "6b3f89c9",
-      "cat": "tecnologia",
-      "title": "Autarquias afetadas pelas tempestades vão ter mais tempo para concorrer a apoios",
-      "summary": "O Governo vai prorrogar pelo menos até 31 de dezembro o prazo para os municípios se candidatarem a apoios do Fundo de Emergência Municipal para recuperar infraestruturas e equipamentos que foram danificados pelas tempestades Kristin O concurso inicialmente estava aberto até 30 de novembro, mas vário",
-      "source": "ECO",
-      "date": "Fri, 30 Oct 2026 02:23:49 +0000",
-      "url": "https://eco.sapo.pt/2026/10/30/autarquias-afetadas-pelas-tempestades-vao-ter-mais-tempo-para-concorrer-a-apoios/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-46554973-scaled-1.jpg",
+      "date": "Fri, 30 Oct 2026 11:33:04 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/numeros-e-curiosidades-jornada-10-da-i-liga_d1775593",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/fb/fbdffc7d673b93f6a9f93d226d37c16a.webp?w=350&amp;q=50&amp;auto=format",
       "score": 0.7
     }
   ]
