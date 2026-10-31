@@ -1,5 +1,5 @@
 {
-  "last_update": "31/10/2026 05:11 UTC",
+  "last_update": "31/10/2026 12:04 UTC",
   "total": 30,
   "news": [
     {
@@ -34,6 +34,17 @@
       "url": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
       "img": "https://www.positive.news/wp-content/uploads/2026/10/WWR_hosts_3x2.jpg",
       "score": 0.82
+    },
+    {
+      "id": "3ce3481d",
+      "cat": "tecnologia",
+      "title": "Fragmentação da UE tem dificultado avanços na inovação, diz Enrico Letta",
+      "summary": "O ex-primeiro-ministro italiano defende que a quinta liberdade significa uma Europa mais digitalmente conectada. A União Europeia, diz, está \"longe dos Estados Unidos\" porque os norte-americanos têm um grande volume de financiamento privado.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 31 Oct 2026 09:52:57 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/fragmentacao-da-ue-tem-dificultado-avancos-na-inovacao-diz-enrico-letta",
+      "img": "https://cdn.jornaldenegocios.pt/images/2014-02/img_100x100uu2014-02-10-11-22-00-214430.jpg",
+      "score": 0.79
     },
     {
       "id": "4b1f7e70",
@@ -80,14 +91,25 @@
       "score": 0.79
     },
     {
-      "id": "1988fa57",
+      "id": "59cf96ea",
       "cat": "tecnologia",
-      "title": "Esta é a chave do Euromilhões. Jackpot é de 89 milhões de euros",
-      "summary": "Com um primeiro prémio no valor de 89 milhões de euros, decorreu esta sexta-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta terça-feira, dia 20 de outubro. Números: 3, 1",
+      "title": "9h. SNS. Governo quer criar novas parcerias público-privadas",
+      "summary": "A informação é avançada pela ministra da Saúde, Ana Paula Martins. Ainda, no desporto, o Sporting regressou às vitórias no campeonato, ao vencer o Casa Pia.",
+      "source": "Observador",
+      "date": "Sat, 31 Oct 2026 09:13:04 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2518/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.76
+    },
+    {
+      "id": "78ac075c",
+      "cat": "tecnologia",
+      "title": "Galp admite novos investimentos em Sines mas pede maior previsibilidade regulatória",
+      "summary": "A Galp admite novos investimentos em Sines, mas só se existir um enquadramento regulatório que permita antecipar a procura futura de combustíveis, disse fonte oficial da empresa à Lusa. &#8220;A Galp equaciona promover investimentos adicionais, mas estes só serão viáveis com um enquadramento regulat",
       "source": "ECO",
-      "date": "Fri, 30 Oct 2026 20:53:04 +0000",
-      "url": "https://eco.sapo.pt/2026/10/30/esta-e-a-chave-do-euromilhoes-jackpot-e-de-89-milhoes-de-euros-2/",
-      "img": "https://eco.imgix.net/uploads/2016/09/cropped-mg_2903.jpg",
+      "date": "Sat, 31 Oct 2026 10:48:53 +0000",
+      "url": "https://eco.sapo.pt/2026/10/31/galp-admite-novos-investimentos-em-sines-mas-pede-maior-previsibilidade-regulatoria/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47526862-scaled-3.jpg",
       "score": 0.76
     },
     {
@@ -99,17 +121,6 @@
       "date": "Thu, 29 Oct 2026 18:30:19 +0000",
       "url": "https://www.goodnewsnetwork.org/disabled-veteran-receives-donated-car-beautifully-refurbished-by-auto-collision-students/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/4cafc2d5-67da-40f6-a326-76e7548bf9ad.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "f10387f3",
-      "cat": "ciencia",
-      "title": "Birdwatching Rewires the Brain and Slows Cognitive Decline",
-      "summary": "A famous poet once wrote that hope is a thing with feathers. Well, new research may suggest that healthy aging is too. Specifically, the research examined how expertise required for identifying birds aided in maintaining neuroplasticity, a key component to cognitive function that is known to decline",
-      "source": "Good News Network",
-      "date": "Thu, 29 Oct 2026 15:30:03 +0000",
-      "url": "https://www.goodnewsnetwork.org/birdwatching-rewires-the-brain-and-slows-cognitive-decline/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/10/birdwatching-birding-birder-credit-Curated-Lifestyle.jpg",
       "score": 0.76
     },
     {
@@ -146,80 +157,58 @@
       "score": 0.76
     },
     {
-      "id": "35ee6e93",
+      "id": "fa585697",
       "cat": "tecnologia",
-      "title": "A vitória dos ganzados",
-      "summary": "Os ganzados, porcos, malcriados, aquilo a quem chamaram a “escória da sociedade”, deram-lhes uma lição política e criaram uma situação, por débil que seja, sem retorno para a questão da habitação. Opinião de José Pacheco Pereira",
+      "title": "Fenprof diz que rankings estigmatizam escolas e evidenciam desigualdades",
+      "summary": "A federação sindical afirma que o objectivo dos rankings é “reforçar o preconceito ideológico de que o privado é bom e o público é mau” e critica o desinvestimento na Escola Pública.",
       "source": "Público",
-      "date": "Sat, 31 Oct 2026 00:30:00 GMT",
-      "url": "https://www.publico.pt/2026/10/31/opiniao/opiniao/vitoria-ganzados-2193207",
+      "date": "Sat, 31 Oct 2026 09:36:04 GMT",
+      "url": "https://www.publico.pt/2026/10/31/sociedade/noticia/fenprof-rankings-estigmatizam-escolas-evidenciam-desigualdades-2193301",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "c9ac9ad2",
-      "cat": "economia",
-      "title": "Um clima em mudança exige uma nova mentalidade de investimento",
-      "summary": "A escolha da Europa é clara: proteger os nossos cidadãos e as nossas empresas, planificar e preparar-nos para uma Europa mais quente.",
-      "source": "Público",
-      "date": "Sat, 31 Oct 2026 00:10:00 GMT",
-      "url": "https://www.publico.pt/2026/10/31/opiniao/opiniao/clima-mudanca-exige-nova-mentalidade-investimento-2193078",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "febec740",
+      "id": "0340c887",
       "cat": "tecnologia",
-      "title": "2h. 0E2027. Governo rejeita cortes na prevenção na saúde",
-      "summary": "A secretária de Estado da Saúde aponta um aumento de 23,6% no orçamento da Direção-Geral da Saúde, excluindo vacinas covid-19. Ainda, no Porto e em Lisboa não há Acampadas esta madrugada.",
+      "title": "Em 1976, a revolução das crianças passou na televisão",
+      "summary": "Há 50 anos, estreou a primeira “Rua Sésamo” na RTP. Foi o culminar de um processo que começou no 25 de Abril e que marcou o início da mudança no entretenimento infantil em Portugal.",
       "source": "Observador",
-      "date": "Sat, 31 Oct 2026 02:16:15 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2456/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 31 Oct 2026 10:44:07 +0000",
+      "url": "https://observador.pt/especiais/abre-te-sesamo-em-1976-entre-vikings-fantoches-e-bicharada-a-revolucao-das-criancas-passou-na-televisao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1540:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30160521/770desenhos-ani.jpg",
       "score": 0.73
     },
     {
-      "id": "c63d3e35",
+      "id": "076c9648",
       "cat": "tecnologia",
-      "title": "Escravatura. Burnham admite pedido de desculpas formal",
-      "summary": "O primeiro-ministro do Reino Unido, em preparação para uma cimeira da Commonwealth, diz estar pronto a debater tema da escravatura com propostas para aliviar dívida de países afetados.",
+      "title": "Bolsonaro fala em \"golos com a mão\" na vitória de Lula",
+      "summary": "Candidato presidencial brasileiro derrotado voltou a questionar esta sexta-feira a legitimidade das eleições e diz que estará disponível para voltar a disputar as eleições ainda antes de 2030.",
       "source": "Observador",
-      "date": "Sat, 31 Oct 2026 00:29:23 +0000",
-      "url": "https://observador.pt/2026/10/31/andy-burnham-admite-pedido-de-desculpas-formal-por-comercio-de-escravos-mas-recusa-reparacoes-financeiras-nao-sao-a-solucao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/30095118/47845180.jpg",
+      "date": "Sat, 31 Oct 2026 10:25:30 +0000",
+      "url": "https://observador.pt/2026/10/31/flavio-bolsonaro-diz-que-vitoria-de-lula-e-matematicamente-impossivel-e-que-so-foi-possivel-com-golos-com-a-mao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1786:1002:nowe:88:96/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/27172659/47998808.jpg",
       "score": 0.73
     },
     {
-      "id": "3f2e41c6",
+      "id": "c8cd9919",
       "cat": "tecnologia",
-      "title": "Famílias pouparam 302 milhões de euros extra em 2025. Inflação corroeu ainda mais",
-      "summary": "Apesar do crescimento ao longo dos últimos anos, a taxa de poupança em Portugal mantém-se abaixo da média europeia. E o efeito da subida dos preços tem um impacto negativo na evolução.",
+      "title": "Zero critica falta de vontade política na COP17 para travar perda de biodiversidade",
+      "summary": "Para a associação ambientalista, o problema não é a falta de conhecimento nem de compromissos, mas \"a falta de vontade política, de financiamento e de decisões concretas\".",
       "source": "Jornal de Negócios",
-      "date": "Sat, 31 Oct 2026 00:01:00 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/familias-pouparam-302-milhoes-de-euros-extra-em-2025-inflacao-corroeu-ainda-mais",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-05/img_100x100uu2025-05-04-17-44-53-500690.jpg",
+      "date": "Sat, 31 Oct 2026 11:00:07 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/zero-critica-falta-de-vontade-politica-na-cop17-para-travar-perda-de-biodiversidade",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-03/img_100x100uu2025-03-03-17-58-24-496960.jpg",
       "score": 0.73
     },
     {
-      "id": "b0101463",
+      "id": "7908a68b",
       "cat": "tecnologia",
-      "title": "EDP vence lote em leilão de transmissão de energia no Brasil",
-      "summary": "O lote prevê a construção de 65 quilómetros de linhas de transmissão e uma subestação com capacidade de transformação de 300 MVA, ligando as regiões de Iaciara e Guarani de Goiás, em Goiás, e Correntina, na Bahia",
+      "title": "Galp admite novos investimentos em Sines mas pede maior previsibilidade regulatória",
+      "summary": "Empresa diz que os investimentos atualmente em curso em Sines asseguram o cumprimento das metas nacionais, mas salienta que \"não existe ainda qualquer iniciativa regulatória que suporte investimentos em capacidade adicional para a década seguinte\".",
       "source": "Jornal de Negócios",
-      "date": "Fri, 30 Oct 2026 22:55:40 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/edp-vence-lote-em-leilao-de-transmissao-de-energia-no-brasil",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-21-08-27-00-528556.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "ebb7b90d",
-      "cat": "tecnologia",
-      "title": "Fitch coloca França a caminho do corte de rating. Altera \"outlook\" para negativo",
-      "summary": "Numa decisão que não estava programada, a agência alterou a perspetiva para o rating, refletindo a \"deterioração\" verificada desde a revisão de agosto, \"que compreende um crescimento mais lento, uma subida do custo da dívida e um maior défice”. Protestos \"complicam a situação orçamental\", refere.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 30 Oct 2026 22:49:00 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/fitch-coloca-franca-a-caminho-do-corte-de-rating-altera-outlook-para-negativo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-23-12-54-41-531672.jpg",
+      "date": "Sat, 31 Oct 2026 10:32:32 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/galp-admite-novos-investimentos-em-sines-mas-pede-maior-previsibilidade-regulatoria",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-03/img_100x100uu2025-03-25-12-28-16-498321.jpg",
       "score": 0.73
     },
     {
@@ -256,14 +245,25 @@
       "score": 0.73
     },
     {
-      "id": "323067ea",
+      "id": "2b6a319f",
       "cat": "tecnologia",
-      "title": "GNR e PSP vão receber 5.200 ‘bodycams’ até ao início do próximo ano",
-      "summary": "A GNR e a PSP vão receber 5.200 &#8216;bodycams&#8217; até ao início do próximo ano, avançou esta sexta-feira o secretário de Estado da Administração Interna, Telmo Correia. &#8220;Tencionamos até ao final deste ano, no limite início de 2027, entregar 5.200 &#8216;bodycams&#8217; às forças de segura",
+      "title": "E se Trump perder as eleições",
+      "summary": "Em muitas capitais europeias aguarda-se pela próxima terça-feira com alguma esperança. Há a expetativa, alimentada pelas sondagens, de que as eleições intercalares nos Estados Unidos deem ao Partido Democrata não só a maioria na Câmara dos Representantes – cenário dado como quase certo – mas também ",
       "source": "ECO",
-      "date": "Fri, 30 Oct 2026 18:39:14 +0000",
-      "url": "https://eco.sapo.pt/2026/10/30/gnr-e-psp-vao-receber-5-200-bodycams-ate-ao-inicio-do-proximo-ano/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-41916932-scaled-1.jpg",
+      "date": "Sat, 31 Oct 2026 11:00:49 +0000",
+      "url": "https://eco.sapo.pt/opiniao/e-se-trump-perder-as-eleicoes/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2021/06/andre-verissimo-opiniao-01-01-versao-final-01.png",
+      "score": 0.73
+    },
+    {
+      "id": "1af86026",
+      "cat": "tecnologia",
+      "title": "OpenAI reduz meta da ronda para 20 mil milhões de dólares",
+      "summary": "A OpenAI reduziu de 30 mil milhões para cerca de 20 mil milhões de dólares o objetivo da sua mais recente ronda de financiamento, noticia o Financial Times (acesso pago), citando fontes conhecedoras das negociações. A criadora do ChatGPT procura agora uma avaliação de 1,25 biliões de dólares, abaixo",
+      "source": "ECO",
+      "date": "Sat, 31 Oct 2026 08:27:20 +0000",
+      "url": "https://eco.sapo.pt/2026/10/31/openai-reduz-meta-da-ronda-para-20-mil-milhoes-de-dolares/",
+      "img": "https://eco.imgix.net/uploads/2026/08/cropped-doc202606094725776613026233.jpg",
       "score": 0.73
     },
     {
@@ -289,25 +289,25 @@
       "score": 0.73
     },
     {
-      "id": "4692a9b9",
+      "id": "2ca4ce2e",
       "cat": "tecnologia",
-      "title": "Da Sérvia ao Brasil, os truques à moda antiga já não resultam",
-      "summary": "Usar os transportes para impedir a participação eleitoral é um clássico dos antidemocratas. De África à Europa, já vimos de tudo. Mas na Sérvia ganharam os estudantes e no Brasil ganhou Lula. Opinião de Bárbara Reis",
+      "title": "As marmitas da Eat Fit seguem uma regra: “Ninguém é feliz a comer uma coisa de que não gosta”",
+      "summary": "Diana jogava futebol federado quando começou a cozinhar para si. Queria comer com mais equilíbrio e as amigas repararam nas suas marmitas. Foi então que teve a ideia do negócio a que chamou Eat Fit.",
       "source": "Público",
-      "date": "Sat, 31 Oct 2026 00:20:00 GMT",
-      "url": "https://www.publico.pt/2026/10/31/mundo/opiniao/servia-brasil-truques-moda-antiga-ja-nao-resultam-2193233",
+      "date": "Sat, 31 Oct 2026 10:35:00 GMT",
+      "url": "https://www.publico.pt/2026/10/31/fugas/noticia/marmitas-eat-fit-seguem-regra-ninguem-feliz-comer-nao-gosta-2193179",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "e7d46b3f",
+      "id": "8c6d9963",
       "cat": "tecnologia",
-      "title": "3h. Ministra da Saúde diz que privados não foram regulados",
-      "summary": "Com a mira nos governos PS, Ana Paula Martins diz que \"os privados abriram clínicas e hospitais onde quiseram\". Ainda, o Sporting venceu o Casa Pia por 2-0, na 10ª jornada da Liga Portugal.",
-      "source": "Observador",
-      "date": "Sat, 31 Oct 2026 03:16:36 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2483/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "A partilha delas veio abrir “o leque de possibilidades” que cabem numa marmita",
+      "summary": "Preparar as refeições para a semana é sinónimo de comer sempre a mesma coisa? Sofia Magalhães e Joana Barrios são exemplos claro de que essa ideia é errada. Além disso, poupa-se tempo e dinheiro.",
+      "source": "Público",
+      "date": "Sat, 31 Oct 2026 10:20:00 GMT",
+      "url": "https://www.publico.pt/2026/10/31/fugas/reportagem/partilha-veio-abrir-leque-possibilidades-cabem-marmita-2192400",
+      "img": null,
       "score": 0.7
     },
     {
