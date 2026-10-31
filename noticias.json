@@ -1,5 +1,5 @@
 {
-  "last_update": "30/10/2026 22:10 UTC",
+  "last_update": "31/10/2026 05:11 UTC",
   "total": 30,
   "news": [
     {
@@ -80,17 +80,6 @@
       "score": 0.79
     },
     {
-      "id": "fb411dba",
-      "cat": "economia",
-      "title": "Estado conclui compra de 5,3% da REN à Fidelidade por quase 139 milhões",
-      "summary": "A operação foi concluída após a aprovação pelo Tribunal de Contas. Com a aquisição, o Estado fica com 19% da empresa, somando a participação adquirida a Amancio Ortega, dono da Zara. Investimento total foi de 528,6 milhões de euros.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 30 Oct 2026 18:20:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/estado-conclui-compra-de-5-3-da-ren-a-fidelidade-por-quase-139-milhoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-21-09-14-19-528570.jpg",
-      "score": 0.76
-    },
-    {
       "id": "1988fa57",
       "cat": "tecnologia",
       "title": "Esta é a chave do Euromilhões. Jackpot é de 89 milhões de euros",
@@ -124,6 +113,17 @@
       "score": 0.76
     },
     {
+      "id": "11613495",
+      "cat": "ciencia",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "source": "BBC News",
+      "date": "Sat, 31 Oct 2026 01:27:05 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
+      "score": 0.76
+    },
+    {
       "id": "feb9851f",
       "cat": "tecnologia",
       "title": "Serious pollution by water industry remains high despite £5bn investment",
@@ -132,17 +132,6 @@
       "date": "Thu, 29 Oct 2026 12:08:01 GMT",
       "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934c/live/6b157700-d396-11f1-b490-07d78ce4b8e5.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "9cb4406e",
-      "cat": "ciencia",
-      "title": "Will a new strategy help protect Northern Ireland's nature?",
-      "summary": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
-      "source": "BBC News",
-      "date": "Tue, 27 Oct 2026 17:51:13 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da92/live/f806aa70-d202-11f1-b3b6-c1e79e957e40.jpg",
       "score": 0.76
     },
     {
@@ -157,80 +146,80 @@
       "score": 0.76
     },
     {
-      "id": "a64cf446",
+      "id": "35ee6e93",
       "cat": "tecnologia",
-      "title": "Resíduos do Algarve: ministra aceita estudar alternativa à incineração",
-      "summary": "A associação ambientalista Zero diz que o tratamento mecânico e biológico fica pronto em três anos e custa metade da incineração sugerida pelo Ministério do Ambiente.",
+      "title": "A vitória dos ganzados",
+      "summary": "Os ganzados, porcos, malcriados, aquilo a quem chamaram a “escória da sociedade”, deram-lhes uma lição política e criaram uma situação, por débil que seja, sem retorno para a questão da habitação. Opinião de José Pacheco Pereira",
       "source": "Público",
-      "date": "Fri, 30 Oct 2026 20:21:00 GMT",
-      "url": "https://www.publico.pt/2026/10/30/azul/noticia/residuos-algarve-ministra-aceita-estudar-alternativa-incineracao-2193169",
+      "date": "Sat, 31 Oct 2026 00:30:00 GMT",
+      "url": "https://www.publico.pt/2026/10/31/opiniao/opiniao/vitoria-ganzados-2193207",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "ffecd4f8",
-      "cat": "tecnologia",
-      "title": "O Guru Vinha da Calçada distraiu-nos do Pintas",
-      "summary": "Na apresentação das novas colheitas da Wine & Soul, o vinho que mais nos surpreendeu foi o Guru Vinha da Calçada 2023. É outro branco incrível que o Douro pode dar a partir de alguns micro terroirs .",
+      "id": "c9ac9ad2",
+      "cat": "economia",
+      "title": "Um clima em mudança exige uma nova mentalidade de investimento",
+      "summary": "A escolha da Europa é clara: proteger os nossos cidadãos e as nossas empresas, planificar e preparar-nos para uma Europa mais quente.",
       "source": "Público",
-      "date": "Fri, 30 Oct 2026 19:22:00 GMT",
-      "url": "https://www.publico.pt/2026/10/30/terroir/noticia/guru-vinha-calcada-distraiunos-pintas-2193025",
+      "date": "Sat, 31 Oct 2026 00:10:00 GMT",
+      "url": "https://www.publico.pt/2026/10/31/opiniao/opiniao/clima-mudanca-exige-nova-mentalidade-investimento-2193078",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "89c650cc",
+      "id": "febec740",
       "cat": "tecnologia",
-      "title": "Membro associado. Canadá quer concluir até junho negociações",
-      "summary": "Mark Carney quer fechar o acordo na cimeira do Conselho Europeu de junho. Von der Leyen defende \"apoio vasto\", mas Alemanha e França opõem-se ao processo.",
+      "title": "2h. 0E2027. Governo rejeita cortes na prevenção na saúde",
+      "summary": "A secretária de Estado da Saúde aponta um aumento de 23,6% no orçamento da Direção-Geral da Saúde, excluindo vacinas covid-19. Ainda, no Porto e em Lisboa não há Acampadas esta madrugada.",
       "source": "Observador",
-      "date": "Fri, 30 Oct 2026 21:14:34 +0000",
-      "url": "https://observador.pt/2026/10/30/carney-quer-concluir-ate-junho-negociacoes-para-tornar-canada-membro-associado-da-ue/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1818:1023:nowe:70:385/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/30185105/48038619.jpg",
+      "date": "Sat, 31 Oct 2026 02:16:15 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2456/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "51656c64",
+      "id": "c63d3e35",
       "cat": "tecnologia",
-      "title": "Coruche. PJ recolhe documentos sobre mandatos anteriores",
-      "summary": "A Polícia Judiciária esteve esta sexta-feira nas instalações do município do distrito de Santarém. Autarquia diz ter prestado \"toda a colaboração\".",
+      "title": "Escravatura. Burnham admite pedido de desculpas formal",
+      "summary": "O primeiro-ministro do Reino Unido, em preparação para uma cimeira da Commonwealth, diz estar pronto a debater tema da escravatura com propostas para aliviar dívida de países afetados.",
       "source": "Observador",
-      "date": "Fri, 30 Oct 2026 21:13:09 +0000",
-      "url": "https://observador.pt/2026/10/30/pj-recolhe-documentacao-na-camara-de-coruche-sobre-periodos-anteriores-ao-atual-mandato-autarquico/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1357:762:nowe:0:82/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/22193941/camara-municipal-de-coruche.jpg",
+      "date": "Sat, 31 Oct 2026 00:29:23 +0000",
+      "url": "https://observador.pt/2026/10/31/andy-burnham-admite-pedido-de-desculpas-formal-por-comercio-de-escravos-mas-recusa-reparacoes-financeiras-nao-sao-a-solucao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/30095118/47845180.jpg",
       "score": 0.73
     },
     {
-      "id": "97f92e96",
+      "id": "3f2e41c6",
       "cat": "tecnologia",
-      "title": "Fabian diz que foi agredido, polícia não \"observou\" agressão",
-      "summary": "Deputado falou com a PSP e com manifestantes e tentou fazer de mediador. Depois, a polícia avançou. O Observador analisa, frame a frame, a ação da polícia no Rossio, na madrugada de 25 de outubro.",
-      "source": "Observador",
-      "date": "Fri, 30 Oct 2026 21:02:08 +0000",
-      "url": "https://observador.pt/especiais/deputado-do-be-diz-que-foi-agredido-policia-nao-observou-agressao-o-que-mostram-as-imagens/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/29190826/770-fabian-figueiredo.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "fe513c13",
-      "cat": "tecnologia",
-      "title": "EDP conclui negociação do Acordo Coletivo de Trabalho com maioria dos sindicatos",
-      "summary": "\"A EDP e a maioria das estruturas sindicais concluíram a negociação do novo ACT em Portugal, que entrará em vigor a 01 de janeiro de 2027\", anunciou, em comunicado, a empresa.",
+      "title": "Famílias pouparam 302 milhões de euros extra em 2025. Inflação corroeu ainda mais",
+      "summary": "Apesar do crescimento ao longo dos últimos anos, a taxa de poupança em Portugal mantém-se abaixo da média europeia. E o efeito da subida dos preços tem um impacto negativo na evolução.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 30 Oct 2026 20:19:24 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/edp-conclui-negociacao-do-acordo-coletivo-de-trabalho-com-maioria-dos-sindicatos",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-03/img_100x100uu2024-03-26-20-19-15-473791.jpg",
+      "date": "Sat, 31 Oct 2026 00:01:00 Z",
+      "url": "https://www.jornaldenegocios.pt/mercados/investidor-privado/detalhe/familias-pouparam-302-milhoes-de-euros-extra-em-2025-inflacao-corroeu-ainda-mais",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-05/img_100x100uu2025-05-04-17-44-53-500690.jpg",
       "score": 0.73
     },
     {
-      "id": "902b7173",
+      "id": "b0101463",
       "cat": "tecnologia",
-      "title": "Wall Street vive dia negativo com queda histórica da Intel. Fabricante de chips caiu quase 30%",
-      "summary": "As bolsas norte-americanas fecharam a sessão desta sexta-feira com fortes quebras, na sequência de um tombo da Intel de quase 30% e de um reacender de receios com a rendibilidade dos investimentos em inteligência artificial.",
+      "title": "EDP vence lote em leilão de transmissão de energia no Brasil",
+      "summary": "O lote prevê a construção de 65 quilómetros de linhas de transmissão e uma subestação com capacidade de transformação de 300 MVA, ligando as regiões de Iaciara e Guarani de Goiás, em Goiás, e Correntina, na Bahia",
       "source": "Jornal de Negócios",
-      "date": "Fri, 30 Oct 2026 20:14:54 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-vive-dia-negativo-com-queda-historica-da-intel-fabricante-de-chips-caiu-quase-30",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-27-19-35-43-531901.jpg",
+      "date": "Fri, 30 Oct 2026 22:55:40 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/edp-vence-lote-em-leilao-de-transmissao-de-energia-no-brasil",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-21-08-27-00-528556.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ebb7b90d",
+      "cat": "tecnologia",
+      "title": "Fitch coloca França a caminho do corte de rating. Altera \"outlook\" para negativo",
+      "summary": "Numa decisão que não estava programada, a agência alterou a perspetiva para o rating, refletindo a \"deterioração\" verificada desde a revisão de agosto, \"que compreende um crescimento mais lento, uma subida do custo da dívida e um maior défice”. Protestos \"complicam a situação orçamental\", refere.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 30 Oct 2026 22:49:00 Z",
+      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/fitch-coloca-franca-a-caminho-do-corte-de-rating-altera-outlook-para-negativo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-23-12-54-41-531672.jpg",
       "score": 0.73
     },
     {
@@ -256,14 +245,14 @@
       "score": 0.73
     },
     {
-      "id": "8410ff02",
-      "cat": "desporto",
-      "title": "Liga Nações. Francisco Conceição punido com três jogos de suspensão",
-      "summary": "Francisco Conceição foi punido com três jogos de suspensão pela UEFA devido à expulsão no jogo Portugal-Noruega da Liga das Nações de futebol, de acordo com um documento do organismo, a que a Lusa teve acesso.",
+      "id": "4638bdce",
+      "cat": "tecnologia",
+      "title": "Sporting regressa às vitórias na I Liga em Rio Maior",
+      "summary": "Com golos de Pedro Lima e de Geny Catamo, o Sporting regressou às vitórias no campeonato, em Rio Maior por 2-0, frente ao Casa Pia, em jogo de abertura da jornada 10 da I Liga.",
       "source": "RTP",
-      "date": "Fri, 30 Oct 2026 17:32:05 +0000",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/liga-nacoes-francisco-conceicao-punido-com-tres-jogos-de-suspensao_d1775707",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/19/19182135baa1c6635f4c8056a4610535?w=350&amp;q=50&amp;rect=0,90,1276,700&amp;auto=format",
+      "date": "Fri, 30 Oct 2026 17:55:08 +0000",
+      "url": "https://www.rtp.pt/noticias/desporto/sporting-regressa-as-vitorias-na-i-liga-em-rio-maior_e1775709",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/42/4211f905d50a4a8f6742f9aea74e5621?w=350&amp;q=50&amp;rect=0,31,1233,676&amp;auto=format",
       "score": 0.73
     },
     {
@@ -300,14 +289,25 @@
       "score": 0.73
     },
     {
-      "id": "c51929ca",
+      "id": "4692a9b9",
       "cat": "tecnologia",
-      "title": "Campanha xenófoba no Facebook e no TikTok inunda a França a meses das presidenciais",
-      "summary": "A campanha de propaganda racista terá origem no sector privado israelita e tem revelado maior actividade em países europeus com eleições para 2027. O IP de um dos promotores foi localizado em Israel.",
+      "title": "Da Sérvia ao Brasil, os truques à moda antiga já não resultam",
+      "summary": "Usar os transportes para impedir a participação eleitoral é um clássico dos antidemocratas. De África à Europa, já vimos de tudo. Mas na Sérvia ganharam os estudantes e no Brasil ganhou Lula. Opinião de Bárbara Reis",
       "source": "Público",
-      "date": "Fri, 30 Oct 2026 20:30:54 GMT",
-      "url": "https://www.publico.pt/2026/10/30/mundo/noticia/campanha-xenofoba-facebook-tiktok-inunda-franca-meses-presidenciais-2193251",
+      "date": "Sat, 31 Oct 2026 00:20:00 GMT",
+      "url": "https://www.publico.pt/2026/10/31/mundo/opiniao/servia-brasil-truques-moda-antiga-ja-nao-resultam-2193233",
       "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "e7d46b3f",
+      "cat": "tecnologia",
+      "title": "3h. Ministra da Saúde diz que privados não foram regulados",
+      "summary": "Com a mira nos governos PS, Ana Paula Martins diz que \"os privados abriram clínicas e hospitais onde quiseram\". Ainda, o Sporting venceu o Casa Pia por 2-0, na 10ª jornada da Liga Portugal.",
+      "source": "Observador",
+      "date": "Sat, 31 Oct 2026 03:16:36 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2483/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
