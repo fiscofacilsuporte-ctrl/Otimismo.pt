@@ -1,5 +1,5 @@
 {
-  "last_update": "01/11/2026 13:05 UTC",
+  "last_update": "01/11/2026 21:56 UTC",
   "total": 30,
   "news": [
     {
@@ -47,14 +47,58 @@
       "score": 0.79
     },
     {
-      "id": "bd4b19c5",
+      "id": "46e78ce8",
       "cat": "tecnologia",
-      "title": "Antifrágil",
-      "summary": "A indústria seguradora encontra-se em mais um momento decisivo da sua história. Durante décadas, o seu sucesso assentou numa lógica de analisar padrões históricos, gerir riscos e capital com prudência e construir escala. Esse modelo permitiu criar as resilientes empresas de seguros de hoje. No entan",
+      "title": "Do zero ao título da WNBA em dois anos — a proeza das Valkyries",
+      "summary": "Golden State alargaram a marca do sucesso com aposta séria no basquetebol feminino. E o investimento inicial já foi largamente compensado.",
+      "source": "Público",
+      "date": "Sun, 01 Nov 2026 19:55:27 GMT",
+      "url": "https://www.publico.pt/2026/11/01/desporto/noticia/zero-titulo-wnba-dois-anos-proeza-valkyries-2193380",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "12dcda6b",
+      "cat": "tecnologia",
+      "title": "Pedra, Planta, Animal e Escritor",
+      "summary": "Gonçalo M. Tavares recebeu este domingo em Maiorca o Prémio Formentor das Letras 2026. É o primeiro português distinguido com este prémio internacional. Este é o texto que escreveu e leu na cerimónia. Crónica de Gonçalo M. Tavares",
+      "source": "Público",
+      "date": "Sun, 01 Nov 2026 18:55:10 GMT",
+      "url": "https://www.publico.pt/2026/11/01/culturaipsilon/cronica/pedra-planta-animal-escritor-2193356",
+      "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "c4c7f702",
+      "cat": "tecnologia",
+      "title": "A corda partiu: Rui Borges sai, Paulo Fonseca é o sucessor",
+      "summary": "Sporting conseguiu chegar a acordo com Paulo Fonseca e com Lyon, que tinha dívida das mais valias de Afonso Moreira. Rui Borges já não deve seguir para Londres, com interino Tiago Fernandes no banco.",
+      "source": "Observador",
+      "date": "Sun, 01 Nov 2026 19:59:29 +0000",
+      "url": "https://observador.pt/2026/11/01/sporting-fecha-paulo-fonseca-com-apresentacao-durante-a-semana-rui-borges-sai-tiago-fernandes-pode-assumir-equipa-em-londres/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:38/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01195529/paulo-fonseca.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "ff6ec681",
+      "cat": "desporto",
+      "title": "Sporting anuncia saída do treinador Rui Borges",
+      "summary": "O treinador Rui Borges deixou o comando do Sporting, com o qual tinha contrato até junho de 2028, anunciou o clube que ocupa o terceiro lugar da I Liga portuguesa de futebol. O técnico natural de Mirandela, de 45 anos, conduziu os &#8216;leões&#8217; à conquista do título de campeão nacional e da Ta",
       "source": "ECO",
-      "date": "Sun, 01 Nov 2026 12:53:45 +0000",
-      "url": "https://eco.sapo.pt/opiniao/antifragil/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2024/09/nuno-matos_opiniao.png",
+      "date": "Sun, 01 Nov 2026 20:59:15 +0000",
+      "url": "https://eco.sapo.pt/2026/11/01/sporting-anuncia-saida-do-treinador-rui-borges/",
+      "img": "https://eco.imgix.net/uploads/2026/11/cropped-48020243.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "b5fb24d9",
+      "cat": "tecnologia",
+      "title": "OPEP+ mantém quotas de petróleo em dezembro",
+      "summary": "A OPEP+ vai manter em dezembro as quotas de produção em vigor desde setembro, apesar da recuperação das exportações de petróleo do Golfo Pérsico. Segundo a Bloomberg (acesso pago, em inglês), o acordo foi alcançado este domingo pelos sete países que concluíram em setembro a reversão dos últimos cort",
+      "source": "ECO",
+      "date": "Sun, 01 Nov 2026 13:39:18 +0000",
+      "url": "https://eco.sapo.pt/2026/11/01/opep-mantem-quotas-de-petroleo-em-dezembro/",
+      "img": "https://eco.imgix.net/uploads/2025/08/20555339-scaled.jpg",
       "score": 0.76
     },
     {
@@ -80,6 +124,17 @@
       "score": 0.76
     },
     {
+      "id": "7af98c54",
+      "cat": "ciencia",
+      "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+      "summary": "A 17- to 18-million-year-old ape fossil discovered in Egypt is challenging long-held beliefs about where the ancestors of humans and other modern apes first evolved. Scientists now suspect that North Africa and the Middle East, rather than East Africa, may have been the cradle of modern ape evolutio",
+      "source": "ScienceDaily",
+      "date": "Sun, 01 Nov 2026 05:32:46 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm",
+      "img": "https://www.sciencedaily.com/images/1920/masripithecus-moghraensis-reconstruction.webp",
+      "score": 0.76
+    },
+    {
       "id": "7d885379",
       "cat": "ciencia",
       "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
@@ -91,47 +146,58 @@
       "score": 0.76
     },
     {
-      "id": "ad6ec7c1",
+      "id": "cf48ecac",
       "cat": "tecnologia",
-      "title": "Do Colchão de Noiva ao Bolo de Rolo: o engenho pernambucano que reencontra Portugal",
-      "summary": "Marcos Monteiro empreende em Portugal com receita de doce que virou patrimônio imaterial de Pernambuco ,tem gostinho de saudade para muitos imigrantes e o conquista o paladar luso.",
+      "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+      "summary": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical conductivity by up to 100 times, potentially transforming the future of molecular",
+      "source": "ScienceDaily",
+      "date": "Sun, 01 Nov 2026 06:55:46 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+      "img": "https://www.sciencedaily.com/images/1920/archimedes-screw-molecular-motor.webp",
+      "score": 0.76
+    },
+    {
+      "id": "9508a2b0",
+      "cat": "tecnologia",
+      "title": "Andebol: FC Porto quebra série invicta de quase dois anos do Sporting",
+      "summary": "Portistas venceram tricampeão nacional, no Dragão Arena, e quebraram sequência de 65 jogos consecutivos sem perder dos “leões” em provas nacionais.",
       "source": "Público",
-      "date": "Sun, 01 Nov 2026 11:25:34 GMT",
-      "url": "https://www.publico.pt/2026/11/01/publico-brasil/noticia/colchao-noiva-bolo-rolo-engenho-pernambucano-reencontra-portugal-2193328",
+      "date": "Sun, 01 Nov 2026 18:41:04 GMT",
+      "url": "https://www.publico.pt/2026/11/01/desporto/noticia/andebol-fc-porto-quebra-serie-invicta-quase-dois-anos-sporting-2193375",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "a59ba092",
+      "id": "b90e81a1",
       "cat": "tecnologia",
-      "title": "Marc Márquez vence na Malásia e aproxima-se do título de MotoGP",
-      "summary": "O espanhol poderá sagrar-se campeão mundial já no próximo fim-de-semana, no Qatar, se fizer mais 30 pontos do que Jorge Martín.",
-      "source": "Público",
-      "date": "Sun, 01 Nov 2026 10:55:26 GMT",
-      "url": "https://www.publico.pt/2026/11/01/desporto/noticia/marc-marquez-vence-malasia-aproximase-titulo-motogp-2193351",
-      "img": null,
+      "title": "Habitação. Ventura culpa \"inércia\" do PM e esquerda",
+      "summary": "Ventura atacou \"egoísmo e falta de empatia\" do primeiro-ministro em relação à habitação e lamentou que assunto seja \"atirado para cima dos polícias\". E também deixou críticas à esquerda.",
+      "source": "Observador",
+      "date": "Sun, 01 Nov 2026 19:51:59 +0000",
+      "url": "https://observador.pt/2026/11/01/na-habitacao-ventura-critica-inercia-de-montenegro-mas-tambem-ataca-irresponsavel-oposicao-de-esquerda/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/03153111/47850502.jpg",
       "score": 0.73
     },
     {
-      "id": "35cfa51e",
+      "id": "db5ebeaf",
       "cat": "tecnologia",
-      "title": "Esquerda quer Presidente da República “acordado” e a agir após nova carga policial",
-      "summary": "Deputados tentaram demover a polícia de avançar sobre manifestantes, mas não tiveram sucesso. Apelos ao Presidente da República voltam a fazer-se ouvir depois de noite violenta em Lisboa e no Porto.",
-      "source": "Público",
-      "date": "Sun, 01 Nov 2026 10:46:41 GMT",
-      "url": "https://www.publico.pt/2026/11/01/politica/reportagem/esquerda-quer-presidente-republica-acordado-agir-apos-nova-carga-policial-2193348",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "d3b6f59a",
-      "cat": "economia",
-      "title": "Seguro já falou esta manhã com o primeiro-ministro, após pedir informações \"com todo o detalhe\"",
-      "summary": "Presidente da República tinha pedido \"informações e esclarecimentos com todo o detalhe\" a Luís Montenegro e à Provedora de Justiça, Luísa Neto. Já falou com ambos.",
+      "title": "Nova carga policial sobe pressão sobre Montenegro",
+      "summary": "Presidente da República pediu explicações ao chefe do Executivo e à provedora de Justiça, enquanto o líder socialista avisa que \"nenhum Governo resiste à falta de liderança do primeiro-ministro\". Já o Chega afirma que \"a esquerda que está na rua\" é responsável pelo atual estado da habitação. Este do",
       "source": "Jornal de Negócios",
-      "date": "Sun, 01 Nov 2026 11:17:22 Z",
-      "url": "https://www.jornaldenegocios.pt/lusa/detalhe/seguro-pediu-informacoes-com-todo-o-detalhe-sobre-o-que-se-passou-nesta-madrugada",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-01-09-19-45-532174.jpg",
+      "date": "Sun, 01 Nov 2026 20:51:22 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/nova-carga-policial-sobe-pressao-sobre-montenegro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-01-14-22-34-532190.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "16b22687",
+      "cat": "tecnologia",
+      "title": "Paulo Fonseca vai suceder a Rui Borges como treinador do Sporting",
+      "summary": "Clube de Alvalade chega a acordo com o Lyon para a transferência do técnico.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 01 Nov 2026 19:45:20 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/paulo-fonseca-vai-suceder-a-rui-borges-como-treinador-do-sporting",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-01-19-44-41-532192.jpg",
       "score": 0.73
     },
     {
@@ -146,58 +212,47 @@
       "score": 0.73
     },
     {
-      "id": "19be37f1",
-      "cat": "tecnologia",
-      "title": "AC Milan vence Inter no primeiro dérbi milanês de Rúben Amorim",
-      "summary": "O AC Milan, treinado por Rúben Amorim, venceu hoje o dérbi milanês diante do Inter, por 3-1, e impôs a primeira derrota ao rival citadino na Liga italiana de futebol, na 10.ª jornada.",
+      "id": "a546509e",
+      "cat": "desporto",
+      "title": "GP do México de Fórmula 1 interrompido após despiste de Valtteri Bottas",
+      "summary": "O Grande Prémio do México de Fórmula 1 foi interrompido na volta 46 das 71 previstas depois do despiste do finlandês Valtteri Bottas (Cadillac).",
       "source": "RTP",
-      "date": "Sat, 31 Oct 2026 22:34:14 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/ac-milan-vence-inter-no-primeiro-derbi-milanes-de-ruben-amorim_d1775954",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/aa/aa1cb85a334ab97717c52deace4f7e5d?w=350&amp;q=50&amp;rect=0,206,4106,2251&amp;auto=format",
+      "date": "Sun, 01 Nov 2026 21:22:44 +0000",
+      "url": "https://www.rtp.pt/noticias/motores/gp-do-mexico-de-formula-1-interrompido-apos-despiste-de-valtteri-bottas_d1776186",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/54/546a58f094adfc4e26508488cd01e4d4?w=350&amp;q=50&amp;rect=0,249,4204,2305&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "ded16d3c",
+      "id": "92bd52e7",
       "cat": "tecnologia",
-      "title": "AG da FPF aprova “por unanimidade” lucro de 3,1 ME em 2025/26",
-      "summary": "O relatório de atividades e contas da Federação Portuguesa de Futebol (FPF) referente à temporada 2025/26, que registou um resultado operacional de 3,12 milhões de euros (ME), foi hoje aprovado “por unanimidade” em Assembleia-Geral (AG), informou o organismo.",
+      "title": "II Liga. Lusitânia de Lourosa empata com o Farense e perde liderança (1-1)",
+      "summary": "O Lusitânia de Lourosa empatou hoje 1-1 com o Farense em jogo da 9ª jornada da II Liga portuguesa de futebol, disputado em Vila Nova de Gaia, um resultado que retira a liderança na competição à formação de Santa Maria da Feira.",
       "source": "RTP",
-      "date": "Sat, 31 Oct 2026 20:49:36 +0000",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/ag-da-fpf-aprova-por-unanimidade-lucro-de-31-me-em-202526_d1775943",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b2b646734996bdedbb4483dd7cf4dba7?w=350&amp;q=50&amp;rect=0,17,1000,548&amp;auto=format",
+      "date": "Sun, 01 Nov 2026 19:59:52 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-lusitania-de-lourosa-empata-com-o-farense-e-perde-lideranca-1-1_d1776157",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "bb962656",
+      "id": "792405ad",
       "cat": "tecnologia",
-      "title": "Rodrigo Mora volta a marcar em novo triunfo da Roma",
-      "summary": "O português Rodrigo Mora voltou hoje a marcar pela Roma, na vitória por 5-2 no campo da Udinese, que deixa a equipa da capital à condição a apenas um ponto da liderança na Liga italiana de futebol.",
+      "title": "Yamaha falha GP do Qatar devido a restrições de viagens para o Médio Oriente",
+      "summary": "A Yamaha anunciou hoje que não participará no Grande Prémio do Qatar de MotoGP, previsto para o próximo fim de semana, por manter as restrições de viagens para o Médio Oriente em vigor na empresa.",
       "source": "RTP",
-      "date": "Sat, 31 Oct 2026 20:33:00 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/rodrigo-mora-volta-a-marcar-em-novo-triunfo-da-roma_d1775929",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/0f/0f847c094f9e8d94285788592f0d2246?w=350&amp;q=50&amp;rect=0,186,3241,1777&amp;auto=format",
+      "date": "Sun, 01 Nov 2026 19:59:15 +0000",
+      "url": "https://www.rtp.pt/noticias/motores/yamaha-falha-gp-do-qatar-devido-a-restricoes-de-viagens-para-o-medio-oriente_d1776156",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "eb097567",
-      "cat": "cultura",
-      "title": "André Ventura reeleito presidente do Chega com 98% dos votos",
-      "summary": "André Ventura foi reeleito presidente do Chega com 98% dos votos, em eleições diretas em que foi o único candidato à liderança e que antecedem a 7.ª Convenção Nacional do partido. De acordo com um comunicado divulgado pelo partido, André Ventura teve 98% dos votos, houve 1,5% de votos em branco e 0,",
+      "id": "616edfe9",
+      "cat": "economia",
+      "title": "As três contas de William Nordhaus",
+      "summary": "William Nordhaus morreu a 30 de outubro, aos 85 anos. Ganhou o Nobel da Economia em 2018 por ter posto o clima dentro dos modelos de crescimento. Gerações de estudantes aprenderam economia pelo manual que escreveu com Paul Samuelson a partir de 1985 e que continuou sozinho depois de Samuelson morrer",
       "source": "ECO",
-      "date": "Sat, 31 Oct 2026 21:47:55 +0000",
-      "url": "https://eco.sapo.pt/2026/10/31/andre-ventura-reeleito-presidente-do-chega-com-98-dos-votos/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47643846-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "11b059be",
-      "cat": "tecnologia",
-      "title": "Sócios do Benfica aprovam contas de 2025/26 com 73,68% dos votos",
-      "summary": "Os sócios do Benfica aprovaram este sábado, em Assembleia-Geral (AG), o relatório de gestão e contas individuais e consolidadas referentes ao exercício de 2025/26, com 73,68% de votos favoráveis. De acordo com a informação prestada pelos meios oficiais do clube, as contas do clube receberam 73,68% d",
-      "source": "ECO",
-      "date": "Sat, 31 Oct 2026 20:50:02 +0000",
-      "url": "https://eco.sapo.pt/2026/10/31/socios-do-benfica-aprovam-contas-de-2025-26-com-7368-dos-votos/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-15545244.jpg",
+      "date": "Sun, 01 Nov 2026 21:22:56 +0000",
+      "url": "https://eco.sapo.pt/opiniao/as-tres-contas-de-william-nordhaus/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/06/pedro-santa-clara-opiniao.png",
       "score": 0.73
     },
     {
@@ -212,28 +267,6 @@
       "score": 0.73
     },
     {
-      "id": "ae628fe6",
-      "cat": "tecnologia",
-      "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
-      "summary": "Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lead to stronger forests, better timber, and more resilient crops.",
-      "source": "ScienceDaily",
-      "date": "Sat, 31 Oct 2026 22:44:28 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
-      "img": "https://www.sciencedaily.com/images/1920/forest-in-alps.webp",
-      "score": 0.73
-    },
-    {
-      "id": "4395a0dd",
-      "cat": "tecnologia",
-      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
-      "summary": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known bounda",
-      "source": "ScienceDaily",
-      "date": "Fri, 30 Oct 2026 22:09:38 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
-      "img": "https://www.sciencedaily.com/images/1920/back-to-back-jets-produced-in-quark-gluon-plasma.webp",
-      "score": 0.73
-    },
-    {
       "id": "ab622ab8",
       "cat": "tecnologia",
       "title": "How ‘Artivism’ Is Driving the Resistance in Paris",
@@ -245,58 +278,25 @@
       "score": 0.73
     },
     {
-      "id": "7f9e627e",
+      "id": "518af987",
       "cat": "tecnologia",
-      "title": "9h. Acampada. PR quer esclarecimentos sobre carga policial",
-      "summary": "Fonte oficial da Presidência da República indica que Seguro pediu esclarecimentos sobre o que se viveu esta madrugada nas manifestações. Ainda, PSP considera que a intervenção policial \"proporcional\".",
+      "title": "As notícias das 20h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sun, 01 Nov 2026 09:21:28 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2519/",
+      "date": "Sun, 01 Nov 2026 20:13:56 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2080/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "30074bba",
-      "cat": "ciencia",
-      "title": "Fome emocional: porque só nos apetece pizza (e não brócolos)",
-      "summary": "A fome emocional existe e tem uma explicação científica. Esta semana falamos de intestino, microbioma, saúde mental e do que devemos comer para nos sentirmos bem. Também falamos de bichos e bactérias — e pode ter uma surpresa.",
-      "source": "Observador",
-      "date": "Sun, 01 Nov 2026 09:03:17 +0000",
-      "url": "https://observador.pt/programas/manual-de-instrues-para-humanos/fome-emocional-porque-so-nos-apetece-pizza-e-nao-brocolos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1138:640:nowe:71:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/30130143/1280-podcast.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "bd1612f5",
-      "cat": "tecnologia",
-      "title": "Polícia voltou a avançar sobre os manifestantes",
-      "summary": "A polícia voltou a investir sobre os manifestantes em Lisboa e no Porto. Foi por volta das 4h30 da manhã que os agentes carregaram. António José Seguro já pediu esclarecimentos.",
-      "source": "Observador",
-      "date": "Sun, 01 Nov 2026 08:39:29 +0000",
-      "url": "https://observador.pt/liveblogs/depois-de-intervencao-policial-em-lisboa-e-porto-seguro-pede-esclarecimentos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01072222/jporfirio-acampada-rossio-carga-policial-01-11-2026-01-50-scaled.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "354945bc",
+      "id": "0201cf43",
       "cat": "economia",
-      "title": "O abusador",
-      "summary": "Luís Neves construiu a sua carreira sob o lema: não olhar a meios para atingir os fins.",
+      "title": "Habitação: PSP multou automobilistas que buzinaram no Rossio",
+      "summary": "Uma testemunha contou aos jornalistas que elementos da PSP começaram a multar automobilistas por considerarem que \"buzinadelas durante uma manifestação não era admissível\".",
       "source": "Jornal de Negócios",
-      "date": "Sun, 01 Nov 2026 12:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/o-abusador",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-21-15-20-00-296329.png",
-      "score": 0.7
-    },
-    {
-      "id": "9f0c9834",
-      "cat": "tecnologia",
-      "title": "Carneiro : \"Já não sei se uma remodelação do Governo será suficiente\"",
-      "summary": "O secretário-geral socialista diz, em entrevista ao JN e TSF, que \"há falta de liderança e coordenação\" no Executivo, pelo que uma mudança na equipa de Luís Montenegro pode não ser suficiente.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 01 Nov 2026 11:25:56 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/carneiro-ja-nao-sei-se-uma-remodelacao-do-governo-sera-suficiente",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-25-13-32-00-524192.jpg",
+      "date": "Sun, 01 Nov 2026 21:50:11 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-psp-multou-automobilistas-que-buzinaram-no-rossio",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-19-17-31-03-531402.jpg",
       "score": 0.7
     },
     {
@@ -322,14 +322,14 @@
       "score": 0.7
     },
     {
-      "id": "103fef1b",
-      "cat": "tecnologia",
-      "title": "Good News in History, November 1",
-      "summary": "69 years ago today, the Mackinac Bridge opened to connect the Upper and Lower peninsulas of Michigan over the Straits of Mackinac. Nicknamed the &#8220;Mighty Mac&#8221; when it was built, it&#8217;s still the longest suspension bridge &#8220;between anchorages&#8221; in the Western Hemisphere. Stre",
+      "id": "b52bcf93",
+      "cat": "cultura",
+      "title": "High School Fills Entire Football Field With Groceries to Replenish New Jersey Food Banks",
+      "summary": "Hundreds of New Jersey students collected over a quarter million pounds of food during the second annual 100-Yard Food Drive Challenge last week. Thousands of bright yellow donation bags covered Howell High School&#8217;s football field from end zone to end zone—with the extraordinary effort marking",
       "source": "Good News Network",
-      "date": "Sun, 01 Nov 2026 08:00:00 +0000",
-      "url": "https://www.goodnewsnetwork.org/events061101/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Mackinac-Bridge-credit-WMrapids-CC-0.0.jpg",
+      "date": "Sun, 01 Nov 2026 15:34:01 +0000",
+      "url": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Football-field-full-of-food-bank-donations-in-NY-Credit-Tommy-Pantaleo-for-Dermer-Dreams-submitted.jpg",
       "score": 0.7
     }
   ]
