@@ -1,5 +1,5 @@
 {
-  "last_update": "01/11/2026 05:41 UTC",
+  "last_update": "01/11/2026 13:05 UTC",
   "total": 30,
   "news": [
     {
@@ -47,14 +47,14 @@
       "score": 0.79
     },
     {
-      "id": "55d52760",
+      "id": "bd4b19c5",
       "cat": "tecnologia",
-      "title": "A imigração salvou a construção",
-      "summary": "Num setor que perdeu dezenas de milhares de trabalhadores nacionais, envelheceu e deixou de atrair jovens em número suficiente, a imigração tornou-se um dos principais suportes da recuperação. Opinião de Carlos Pereira",
-      "source": "Público",
-      "date": "Sun, 01 Nov 2026 00:20:00 GMT",
-      "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/imigracao-salvou-construcao-2192907",
-      "img": null,
+      "title": "Antifrágil",
+      "summary": "A indústria seguradora encontra-se em mais um momento decisivo da sua história. Durante décadas, o seu sucesso assentou numa lógica de analisar padrões históricos, gerir riscos e capital com prudência e construir escala. Esse modelo permitiu criar as resilientes empresas de seguros de hoje. No entan",
+      "source": "ECO",
+      "date": "Sun, 01 Nov 2026 12:53:45 +0000",
+      "url": "https://eco.sapo.pt/opiniao/antifragil/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2024/09/nuno-matos_opiniao.png",
       "score": 0.76
     },
     {
@@ -80,17 +80,6 @@
       "score": 0.76
     },
     {
-      "id": "feb9851f",
-      "cat": "tecnologia",
-      "title": "Serious pollution by water industry remains high despite £5bn investment",
-      "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
-      "source": "BBC News",
-      "date": "Thu, 29 Oct 2026 12:08:01 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934c/live/6b157700-d396-11f1-b490-07d78ce4b8e5.jpg",
-      "score": 0.76
-    },
-    {
       "id": "7d885379",
       "cat": "ciencia",
       "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
@@ -102,69 +91,47 @@
       "score": 0.76
     },
     {
-      "id": "127fda94",
+      "id": "ad6ec7c1",
       "cat": "tecnologia",
-      "title": "A vitória da decência",
-      "summary": "Depois de uma primeira volta em que Flávio Bolsonaro venceu Lula da Silva, pela primeira vez um candidato que ficou em segundo lugar venceu a segunda. Os brasileiros queriam uma mudança. Análise de Teresa de Sousa",
+      "title": "Do Colchão de Noiva ao Bolo de Rolo: o engenho pernambucano que reencontra Portugal",
+      "summary": "Marcos Monteiro empreende em Portugal com receita de doce que virou patrimônio imaterial de Pernambuco ,tem gostinho de saudade para muitos imigrantes e o conquista o paladar luso.",
       "source": "Público",
-      "date": "Sun, 01 Nov 2026 00:30:00 GMT",
-      "url": "https://www.publico.pt/2026/11/01/mundo/analise/vitoria-decencia-2193311",
+      "date": "Sun, 01 Nov 2026 11:25:34 GMT",
+      "url": "https://www.publico.pt/2026/11/01/publico-brasil/noticia/colchao-noiva-bolo-rolo-engenho-pernambucano-reencontra-portugal-2193328",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "1ef67e80",
-      "cat": "sociedade",
-      "title": "Quem paga a solidariedade? Todos querem direitos. E os deveres?",
-      "summary": "Quando falamos em nome dos mais desfavorecidos, estamos verdadeiramente a pensar neles e, ao mesmo tempo, no que cada um de nós deve aos outros, ou continuamos a falar de nós próprios? Opinião de João Nuno Tavares",
+      "id": "a59ba092",
+      "cat": "tecnologia",
+      "title": "Marc Márquez vence na Malásia e aproxima-se do título de MotoGP",
+      "summary": "O espanhol poderá sagrar-se campeão mundial já no próximo fim-de-semana, no Qatar, se fizer mais 30 pontos do que Jorge Martín.",
       "source": "Público",
-      "date": "Sun, 01 Nov 2026 00:15:00 GMT",
-      "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/paga-solidariedade-querem-direitos-deveres-2193107",
+      "date": "Sun, 01 Nov 2026 10:55:26 GMT",
+      "url": "https://www.publico.pt/2026/11/01/desporto/noticia/marc-marquez-vence-malasia-aproximase-titulo-motogp-2193351",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "5858a8fa",
+      "id": "35cfa51e",
       "cat": "tecnologia",
-      "title": "Por esta ninguém esperava. A versão de “terror” da Tesla",
-      "summary": "A Tesla criou o Halloween Mode, que transforma cada modelo numa “casa assombrada sobre rodas”. Foi concebido para ser utilizado hoje e, para quem tenha crianças, será um sucesso.",
-      "source": "Observador",
-      "date": "Sat, 31 Oct 2026 23:38:40 +0000",
-      "url": "https://observador.pt/2026/10/31/por-esta-funcao-ninguem-esperava-a-versao-de-terror-da-tesla/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1116:628:nowe:69:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/31233411/tesla-model-y-halloween-mode-india-featured-10815f4591.webp",
+      "title": "Esquerda quer Presidente da República “acordado” e a agir após nova carga policial",
+      "summary": "Deputados tentaram demover a polícia de avançar sobre manifestantes, mas não tiveram sucesso. Apelos ao Presidente da República voltam a fazer-se ouvir depois de noite violenta em Lisboa e no Porto.",
+      "source": "Público",
+      "date": "Sun, 01 Nov 2026 10:46:41 GMT",
+      "url": "https://www.publico.pt/2026/11/01/politica/reportagem/esquerda-quer-presidente-republica-acordado-agir-apos-nova-carga-policial-2193348",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "817bb211",
-      "cat": "tecnologia",
-      "title": "Quem parte, paga: França lidera vaga europeia para cobrar danos das manifestações",
-      "summary": "Lei aprovada em Paris permite penhorar prestações sociais para cobrar danos. Itália, Bélgica, Países Baixos e Suíça procuram, por outras vias, imputar os custos dos distúrbios a quem os causa.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 31 Oct 2026 17:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/europa/detalhe/quem-parte-paga-franca-lidera-vaga-europeia-para-cobrar-danos-das-manifestacoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-17-15-04-00-531302.png",
-      "score": 0.73
-    },
-    {
-      "id": "eeea9465",
-      "cat": "sociedade",
-      "title": "Carneiro solidário com manifestantes diz-se disponível para soluções na habitação",
-      "summary": "Num dia em que decorrem manifestações pelo direito à habitação no país, o secretário-geral do PS expressou \"solidariedade\" a quem está a manifestar-se por um direito fundamental.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 31 Oct 2026 16:52:03 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-solidario-com-manifestantes-diz-se-disponivel-para-solucoes-na-habitacao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-16-19-53-20-531284.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "9805cfd1",
+      "id": "d3b6f59a",
       "cat": "economia",
-      "title": "Portugal: um país onde uns não conseguem poupar e outros não sabem investir",
-      "summary": "Um país não enriquece apenas porque os seus cidadãos poupam. Enriquece quando essa poupança se transforma em património, investimento e produtividade.",
+      "title": "Seguro já falou esta manhã com o primeiro-ministro, após pedir informações \"com todo o detalhe\"",
+      "summary": "Presidente da República tinha pedido \"informações e esclarecimentos com todo o detalhe\" a Luís Montenegro e à Provedora de Justiça, Luísa Neto. Já falou com ambos.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 31 Oct 2026 16:00:00 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/portugal-um-pais-onde-uns-nao-conseguem-poupar-e-outros-nao-sabem-investir",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_394x514uu2026-10-30-16-29-44-532138.png",
+      "date": "Sun, 01 Nov 2026 11:17:22 Z",
+      "url": "https://www.jornaldenegocios.pt/lusa/detalhe/seguro-pediu-informacoes-com-todo-o-detalhe-sobre-o-que-se-passou-nesta-madrugada",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-01-09-19-45-532174.jpg",
       "score": 0.73
     },
     {
@@ -234,25 +201,14 @@
       "score": 0.73
     },
     {
-      "id": "473d4699",
-      "cat": "saude",
-      "title": "Chega defende “lei de equilíbrio” nas rendas e demarca-se de “loucuras liberalizantes” do Governo",
-      "summary": "O presidente do Chega defendeu um regime de arrendamento que seja &#8220;uma lei de equilíbrio&#8221;, demarcando-se da posição do Governo, que qualificou como &#8220;loucuras liberalizantes&#8221;, mas criticando também o PS por querer &#8220;deixar tudo igual&#8221;. André Ventura falava aos jorna",
-      "source": "ECO",
-      "date": "Sat, 31 Oct 2026 20:29:23 +0000",
-      "url": "https://eco.sapo.pt/2026/10/31/chega-defende-lei-de-equilibrio-nas-rendas-e-demarca-se-de-loucuras-liberalizantes-do-governo/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-48025679-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "cce891d6",
+      "id": "f9ae7a32",
       "cat": "tecnologia",
-      "title": "Good News in History, October 30",
-      "summary": "53 years ago today, the Bosporus Bridge was completed, linking mainland Europe with Anatolia over the Bosporus Straits for the first time. It&#8217;s a gravity-anchored suspension bridge with steel towers and inclined hangers, and upon its completion was the 4th longest suspension bridge in the worl",
-      "source": "Good News Network",
-      "date": "Fri, 30 Oct 2026 07:00:00 +0000",
-      "url": "https://www.goodnewsnetwork.org/events061030/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/10/Bosphorus-Bridge-Istanbul-1973-e1667028468403.jpg",
+      "title": "Bute House protested by environmental campaigners",
+      "summary": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
+      "source": "BBC News",
+      "date": "Sat, 31 Oct 2026 13:41:07 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b14/live/e53f9f80-d52e-11f1-866a-b522399149a0.jpg",
       "score": 0.73
     },
     {
@@ -289,25 +245,58 @@
       "score": 0.73
     },
     {
-      "id": "3ad68d22",
+      "id": "7f9e627e",
       "cat": "tecnologia",
-      "title": "As notícias das 3h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "9h. Acampada. PR quer esclarecimentos sobre carga policial",
+      "summary": "Fonte oficial da Presidência da República indica que Seguro pediu esclarecimentos sobre o que se viveu esta madrugada nas manifestações. Ainda, PSP considera que a intervenção policial \"proporcional\".",
       "source": "Observador",
-      "date": "Sun, 01 Nov 2026 03:18:16 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2484/",
+      "date": "Sun, 01 Nov 2026 09:21:28 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2519/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "1eb4572c",
-      "cat": "tecnologia",
-      "title": "2h. Acampada. PSP faz avisos, mas a tendas mantêm-se",
-      "summary": "São dezenas de tendas e centenas de pessoas que ocupam as praças da capital e da Invicta. Ainda, o secretário-geral do PSD diz que os partidos “devem deixar os interesses egoísticos\" sobre a habitação",
+      "id": "30074bba",
+      "cat": "ciencia",
+      "title": "Fome emocional: porque só nos apetece pizza (e não brócolos)",
+      "summary": "A fome emocional existe e tem uma explicação científica. Esta semana falamos de intestino, microbioma, saúde mental e do que devemos comer para nos sentirmos bem. Também falamos de bichos e bactérias — e pode ter uma surpresa.",
       "source": "Observador",
-      "date": "Sun, 01 Nov 2026 02:16:18 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2457/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sun, 01 Nov 2026 09:03:17 +0000",
+      "url": "https://observador.pt/programas/manual-de-instrues-para-humanos/fome-emocional-porque-so-nos-apetece-pizza-e-nao-brocolos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1138:640:nowe:71:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/30130143/1280-podcast.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "bd1612f5",
+      "cat": "tecnologia",
+      "title": "Polícia voltou a avançar sobre os manifestantes",
+      "summary": "A polícia voltou a investir sobre os manifestantes em Lisboa e no Porto. Foi por volta das 4h30 da manhã que os agentes carregaram. António José Seguro já pediu esclarecimentos.",
+      "source": "Observador",
+      "date": "Sun, 01 Nov 2026 08:39:29 +0000",
+      "url": "https://observador.pt/liveblogs/depois-de-intervencao-policial-em-lisboa-e-porto-seguro-pede-esclarecimentos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01072222/jporfirio-acampada-rossio-carga-policial-01-11-2026-01-50-scaled.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "354945bc",
+      "cat": "economia",
+      "title": "O abusador",
+      "summary": "Luís Neves construiu a sua carreira sob o lema: não olhar a meios para atingir os fins.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 01 Nov 2026 12:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/manuel-falcao/detalhe/o-abusador",
+      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-21-15-20-00-296329.png",
+      "score": 0.7
+    },
+    {
+      "id": "9f0c9834",
+      "cat": "tecnologia",
+      "title": "Carneiro : \"Já não sei se uma remodelação do Governo será suficiente\"",
+      "summary": "O secretário-geral socialista diz, em entrevista ao JN e TSF, que \"há falta de liderança e coordenação\" no Executivo, pelo que uma mudança na equipa de Luís Montenegro pode não ser suficiente.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 01 Nov 2026 11:25:56 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/politica/detalhe/carneiro-ja-nao-sei-se-uma-remodelacao-do-governo-sera-suficiente",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-25-13-32-00-524192.jpg",
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Tue, 09 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "103fef1b",
+      "cat": "tecnologia",
+      "title": "Good News in History, November 1",
+      "summary": "69 years ago today, the Mackinac Bridge opened to connect the Upper and Lower peninsulas of Michigan over the Straits of Mackinac. Nicknamed the &#8220;Mighty Mac&#8221; when it was built, it&#8217;s still the longest suspension bridge &#8220;between anchorages&#8221; in the Western Hemisphere. Stre",
+      "source": "Good News Network",
+      "date": "Sun, 01 Nov 2026 08:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events061101/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2024/11/Mackinac-Bridge-credit-WMrapids-CC-0.0.jpg",
       "score": 0.7
     }
   ]
