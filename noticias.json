@@ -1,5 +1,5 @@
 {
-  "last_update": "31/10/2026 21:20 UTC",
+  "last_update": "01/11/2026 05:41 UTC",
   "total": 30,
   "news": [
     {
@@ -47,15 +47,15 @@
       "score": 0.79
     },
     {
-      "id": "0c919de4",
-      "cat": "ciencia",
-      "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
-      "summary": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nicknamed \"sea muppets,\" these elusive creatures are known from just seven specimens,",
-      "source": "ScienceDaily",
-      "date": "Thu, 29 Oct 2026 22:07:19 EDT",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
-      "img": "https://www.sciencedaily.com/images/1920/australyichthys-aegis.webp",
-      "score": 0.79
+      "id": "55d52760",
+      "cat": "tecnologia",
+      "title": "A imigração salvou a construção",
+      "summary": "Num setor que perdeu dezenas de milhares de trabalhadores nacionais, envelheceu e deixou de atrair jovens em número suficiente, a imigração tornou-se um dos principais suportes da recuperação. Opinião de Carlos Pereira",
+      "source": "Público",
+      "date": "Sun, 01 Nov 2026 00:20:00 GMT",
+      "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/imigracao-salvou-construcao-2192907",
+      "img": null,
+      "score": 0.76
     },
     {
       "id": "48664c76",
@@ -102,25 +102,36 @@
       "score": 0.76
     },
     {
-      "id": "f4787d66",
-      "cat": "geral",
-      "title": "Sócios do Benfica aprovam contas de 2025/26 com 73,68% dos votos",
-      "summary": "Grupo Benfica registou no período em questão um resultado líquido consolidado positivo de 23,9 milhões de euros.",
+      "id": "127fda94",
+      "cat": "tecnologia",
+      "title": "A vitória da decência",
+      "summary": "Depois de uma primeira volta em que Flávio Bolsonaro venceu Lula da Silva, pela primeira vez um candidato que ficou em segundo lugar venceu a segunda. Os brasileiros queriam uma mudança. Análise de Teresa de Sousa",
       "source": "Público",
-      "date": "Sat, 31 Oct 2026 20:59:52 GMT",
-      "url": "https://www.publico.pt/2026/10/31/desporto/noticia/socios-benfica-aprovam-contas-202526-7368-votos-2193335",
+      "date": "Sun, 01 Nov 2026 00:30:00 GMT",
+      "url": "https://www.publico.pt/2026/11/01/mundo/analise/vitoria-decencia-2193311",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "cb147703",
+      "id": "1ef67e80",
+      "cat": "sociedade",
+      "title": "Quem paga a solidariedade? Todos querem direitos. E os deveres?",
+      "summary": "Quando falamos em nome dos mais desfavorecidos, estamos verdadeiramente a pensar neles e, ao mesmo tempo, no que cada um de nós deve aos outros, ou continuamos a falar de nós próprios? Opinião de João Nuno Tavares",
+      "source": "Público",
+      "date": "Sun, 01 Nov 2026 00:15:00 GMT",
+      "url": "https://www.publico.pt/2026/11/01/opiniao/opiniao/paga-solidariedade-querem-direitos-deveres-2193107",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "5858a8fa",
       "cat": "tecnologia",
-      "title": "FC Porto-Estoril. Farioli volta ao normal e deixa 3 centrais",
-      "summary": "Os dragões recebem os estorilistas e procuram manter o registo perfeito no Campeonato. Pietuszewski, William Gomes e Smalling são baixas para Farioli. A partida arranca às 20h30 no Dragão. Siga aqui.",
+      "title": "Por esta ninguém esperava. A versão de “terror” da Tesla",
+      "summary": "A Tesla criou o Halloween Mode, que transforma cada modelo numa “casa assombrada sobre rodas”. Foi concebido para ser utilizado hoje e, para quem tenha crianças, será um sucesso.",
       "source": "Observador",
-      "date": "Sat, 31 Oct 2026 19:30:09 +0000",
-      "url": "https://observador.pt/liveblogs/fc-porto-estoril-farioli-volta-ao-onze-inicial-normal-e-deixa-os-tres-centrais/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:70/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/09122007/47764475.jpg",
+      "date": "Sat, 31 Oct 2026 23:38:40 +0000",
+      "url": "https://observador.pt/2026/10/31/por-esta-funcao-ninguem-esperava-a-versao-de-terror-da-tesla/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1116:628:nowe:69:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/31233411/tesla-model-y-halloween-mode-india-featured-10815f4591.webp",
       "score": 0.73
     },
     {
@@ -168,6 +179,17 @@
       "score": 0.73
     },
     {
+      "id": "19be37f1",
+      "cat": "tecnologia",
+      "title": "AC Milan vence Inter no primeiro dérbi milanês de Rúben Amorim",
+      "summary": "O AC Milan, treinado por Rúben Amorim, venceu hoje o dérbi milanês diante do Inter, por 3-1, e impôs a primeira derrota ao rival citadino na Liga italiana de futebol, na 10.ª jornada.",
+      "source": "RTP",
+      "date": "Sat, 31 Oct 2026 22:34:14 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/ac-milan-vence-inter-no-primeiro-derbi-milanes-de-ruben-amorim_d1775954",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/aa/aa1cb85a334ab97717c52deace4f7e5d?w=350&amp;q=50&amp;rect=0,206,4106,2251&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "ded16d3c",
       "cat": "tecnologia",
       "title": "AG da FPF aprova “por unanimidade” lucro de 3,1 ME em 2025/26",
@@ -179,17 +201,6 @@
       "score": 0.73
     },
     {
-      "id": "888f3973",
-      "cat": "tecnologia",
-      "title": "II Liga. Autogolo garante reviravolta da União de Leiria frente ao AFS",
-      "summary": "Um autogolo nos últimos minutos garantiu hoje à União de Leiria uma vitória por 2-1, após o AVS ter estado mais de uma hora em vantagem no jogo da nona jornada da II Liga portuguesa de futebol.",
-      "source": "RTP",
-      "date": "Sat, 31 Oct 2026 20:47:12 +0000",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/ii-liga-autogolo-garante-reviravolta-da-uniao-de-leiria-frente-ao-afs_d1775941",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
       "id": "bb962656",
       "cat": "tecnologia",
       "title": "Rodrigo Mora volta a marcar em novo triunfo da Roma",
@@ -198,6 +209,17 @@
       "date": "Sat, 31 Oct 2026 20:33:00 +0000",
       "url": "https://www.rtp.pt/noticias/futebol-internacional/rodrigo-mora-volta-a-marcar-em-novo-triunfo-da-roma_d1775929",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/0f/0f847c094f9e8d94285788592f0d2246?w=350&amp;q=50&amp;rect=0,186,3241,1777&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "eb097567",
+      "cat": "cultura",
+      "title": "André Ventura reeleito presidente do Chega com 98% dos votos",
+      "summary": "André Ventura foi reeleito presidente do Chega com 98% dos votos, em eleições diretas em que foi o único candidato à liderança e que antecedem a 7.ª Convenção Nacional do partido. De acordo com um comunicado divulgado pelo partido, André Ventura teve 98% dos votos, houve 1,5% de votos em branco e 0,",
+      "source": "ECO",
+      "date": "Sat, 31 Oct 2026 21:47:55 +0000",
+      "url": "https://eco.sapo.pt/2026/10/31/andre-ventura-reeleito-presidente-do-chega-com-98-dos-votos/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47643846-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -223,17 +245,6 @@
       "score": 0.73
     },
     {
-      "id": "8674ab3b",
-      "cat": "sociedade",
-      "title": "Carneiro diz-se solidário com manifestantes e disponível para soluções na habiação",
-      "summary": "O secretário-geral socialista, José Luís Carneiro, expressou este sábdo &#8220;solidariedade a quem está nas praças&#8221; a manifestar-se pelo direito a ter uma casa, e recordou a disponibilidade do partido para encontrar soluções. No discurso na abertura da Convenção Autárquica do Distrito do Port",
-      "source": "ECO",
-      "date": "Sat, 31 Oct 2026 17:35:36 +0000",
-      "url": "https://eco.sapo.pt/2026/10/31/carneiro-diz-se-solidario-com-manifestantes-e-disponivel-para-solucoes-na-habiacao/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47806417-scaled-1.jpg",
-      "score": 0.73
-    },
-    {
       "id": "cce891d6",
       "cat": "tecnologia",
       "title": "Good News in History, October 30",
@@ -242,6 +253,17 @@
       "date": "Fri, 30 Oct 2026 07:00:00 +0000",
       "url": "https://www.goodnewsnetwork.org/events061030/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2021/10/Bosphorus-Bridge-Istanbul-1973-e1667028468403.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ae628fe6",
+      "cat": "tecnologia",
+      "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+      "summary": "Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lead to stronger forests, better timber, and more resilient crops.",
+      "source": "ScienceDaily",
+      "date": "Sat, 31 Oct 2026 22:44:28 EDT",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
+      "img": "https://www.sciencedaily.com/images/1920/forest-in-alps.webp",
       "score": 0.73
     },
     {
@@ -267,47 +289,25 @@
       "score": 0.73
     },
     {
-      "id": "6b1f4532",
+      "id": "3ad68d22",
       "cat": "tecnologia",
-      "title": "Não há um lado certo na amizade",
-      "summary": "Aos que amamos temos de cuidar, e cuidar é, às vezes, calar aquilo que eles próprios já sabem. Crónica de Cláudia Lucas Chéu",
-      "source": "Público",
-      "date": "Sat, 31 Oct 2026 21:08:00 GMT",
-      "url": "https://www.publico.pt/2026/10/31/p3/cronica/nao-ha-lado-certo-amizade-2193205",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "a9bb5843",
-      "cat": "tecnologia",
-      "title": "Reeleito líder com 98% dos votos, André Ventura quer Chega a mostrar “maturidade”",
-      "summary": "Líder do partido insiste na importância de o Chega mostrar que está pronto para governar e defende “equilíbrio” na habitação. VII convenção decorre entre 20 e 22 de Novembro, no Entroncamento.",
-      "source": "Público",
-      "date": "Sat, 31 Oct 2026 20:46:52 GMT",
-      "url": "https://www.publico.pt/2026/10/31/politica/noticia/reeleito-lider-98-votos-andre-ventura-quer-chega-mostrar-maturidade-2193326",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "757eea42",
-      "cat": "tecnologia",
-      "title": "O mecanismo da Provedoria nos protestos a monitorizar a PSP",
-      "summary": "Mecanismo Nacional de Prevenção vigia risco de cidadãos ficarem privados de liberdades. Elementos estão presentes em manifestação, após apelo de seis personalidades como Ana Gomes e Teresa Violante.",
+      "title": "As notícias das 3h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sat, 31 Oct 2026 19:58:55 +0000",
-      "url": "https://observador.pt/2026/10/31/os-elementos-do-mecanismo-da-provedoria-de-justica-na-manifestacao-para-monitorizar-a-intervencao-da-policia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1620:910:nowe:0:85/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/31184918/img-5217.jpg",
+      "date": "Sun, 01 Nov 2026 03:18:16 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2484/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "4e73c5b6",
+      "id": "1eb4572c",
       "cat": "tecnologia",
-      "title": "Contas aprovadas, novo símbolo, queixa contra sócio Proença",
-      "summary": "Assembleia-Geral do Benfica aprovou Relatório e Contas de 2025/26 por larga maioria, mas também apresentou novo símbolo. João Diogo Manteigas revelou participação para expulsar Pedro Proença de sócio.",
+      "title": "2h. Acampada. PSP faz avisos, mas a tendas mantêm-se",
+      "summary": "São dezenas de tendas e centenas de pessoas que ocupam as praças da capital e da Invicta. Ainda, o secretário-geral do PSD diz que os partidos “devem deixar os interesses egoísticos\" sobre a habitação",
       "source": "Observador",
-      "date": "Sat, 31 Oct 2026 19:56:27 +0000",
-      "url": "https://observador.pt/2026/10/31/contas-aprovadas-o-novo-simbolo-e-a-participacao-disciplinar-contra-o-socio-pedro-proenca-a-assembleia-geral-do-benfica/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2299:nowe:0:136/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/06164244/gettyimages-2288495228-scaled.jpg",
+      "date": "Sun, 01 Nov 2026 02:16:18 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2457/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
