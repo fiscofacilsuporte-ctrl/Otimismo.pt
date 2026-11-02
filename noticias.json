@@ -1,5 +1,5 @@
 {
-  "last_update": "02/11/2026 05:39 UTC",
+  "last_update": "02/11/2026 15:28 UTC",
   "total": 30,
   "news": [
     {
@@ -15,9 +15,9 @@
     },
     {
       "id": "a4a19158",
-      "cat": "tecnologia",
+      "cat": "saude",
       "title": "What went right this week: the good news that matters",
-      "summary": "There was renewed hope for the Amazon rainforest, a skin cancer vaccine showed promise, and a nicotine loophole was closed in the UK, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "summary": "There was renewed hope for the Amazon, a skin cancer vaccine showed promise, and a nicotine loophole was closed in the UK, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
       "source": "Positive News",
       "date": "Fri, 30 Oct 2026 05:00:13 +0000",
       "url": "https://www.positive.news/society/good-news-stories-from-week-44-of-2026/",
@@ -47,14 +47,47 @@
       "score": 0.79
     },
     {
-      "id": "9bb1e288",
+      "id": "ebdecd87",
+      "cat": "ciencia",
+      "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
+      "summary": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building blocks of planets have remained remarkably unchanged for billions of years, while thei",
+      "source": "ScienceDaily",
+      "date": "Sun, 01 Nov 2026 22:07:01 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
+      "img": "https://www.sciencedaily.com/images/1920/trans-neptunian-object-illustration.webp",
+      "score": 0.79
+    },
+    {
+      "id": "7a002fee",
       "cat": "tecnologia",
-      "title": "Kimi Antonelli tinha pressa de revisitar o Brasil de Ayrton Senna como campeão",
-      "summary": "O México confirmou a quebra do recorde de precocidade, que o piloto italiano reduziu em mais de três anos. Max Verstappen venceu corrida e ascendeu ao segundo lugar do campeonato.",
+      "title": "Casa da Moeda assume Prémio Literário Fernando Namora, no valor de 15 mil euros",
+      "summary": "As candidaturas à 29.ª edição do galardão instituído em 1987 pela Estoril-Sol podem ser apresentadas até 23 de Novembro e o vencedor será anunciado em Janeiro de 2027.",
       "source": "Público",
-      "date": "Sun, 01 Nov 2026 22:25:25 GMT",
-      "url": "https://www.publico.pt/2026/11/01/desporto/noticia/kimi-antonelli-pressa-revisitar-brasil-ayrton-senna-campeao-2193386",
+      "date": "Mon, 02 Nov 2026 14:38:51 GMT",
+      "url": "https://www.publico.pt/2026/11/02/culturaipsilon/noticia/casa-moeda-assume-premio-literario-fernando-namora-valor-15-mil-euros-2193452",
       "img": null,
+      "score": 0.76
+    },
+    {
+      "id": "2fb54011",
+      "cat": "tecnologia",
+      "title": "Petróleo afunda 6% após EUA e Irão mostrarem abertura para continuar a negociar",
+      "summary": "Depois de ter sido noticiado que Trump estará a considerar dar mais tempo a Teerão para alcançar um acordo de paz, o líder supremo do Irão mandatou o Presidente do país a tentar uma solução através do diálogo.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 02 Nov 2026 14:55:34 Z",
+      "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/petroleo-afunda-6-apos-eua-e-irao-mostrarem-abertura-para-continuar-a-negociar",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-01-15-51-23-508427.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "62c47bca",
+      "cat": "tecnologia",
+      "title": "Iberdrola e Norges Bank ultrapassam 1.800 MW com parque eólico do Tâmega",
+      "summary": "A parceria de co-investimento incorpora 274 MW em Portugal e prevê chegar aos 2.300 MW já no próximo ano.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 02 Nov 2026 14:08:21 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/iberdrola-e-norges-bank-ultrapassam-1-800-mw-com-parque-eolico-do-tamega",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-02-13-51-07-532227.jpg",
       "score": 0.76
     },
     {
@@ -66,28 +99,6 @@
       "date": "Sun, 01 Nov 2026 22:36:59 +0000",
       "url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-sagra-se-campeao-mundial-de-formula-1_d1776196",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/a6/a6985885a1eb28f79c031ca563176d8c?w=350&amp;q=50&amp;rect=0,92,1024,561&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "ff6ec681",
-      "cat": "desporto",
-      "title": "Sporting anuncia saída do treinador Rui Borges",
-      "summary": "O treinador Rui Borges deixou o comando do Sporting, com o qual tinha contrato até junho de 2028, anunciou o clube que ocupa o terceiro lugar da I Liga portuguesa de futebol. O técnico natural de Mirandela, de 45 anos, conduziu os &#8216;leões&#8217; à conquista do título de campeão nacional e da Ta",
-      "source": "ECO",
-      "date": "Sun, 01 Nov 2026 20:59:15 +0000",
-      "url": "https://eco.sapo.pt/2026/11/01/sporting-anuncia-saida-do-treinador-rui-borges/",
-      "img": "https://eco.imgix.net/uploads/2026/11/cropped-48020243.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "b5fb24d9",
-      "cat": "tecnologia",
-      "title": "OPEP+ mantém quotas de petróleo em dezembro",
-      "summary": "A OPEP+ vai manter em dezembro as quotas de produção em vigor desde setembro, apesar da recuperação das exportações de petróleo do Golfo Pérsico. Segundo a Bloomberg (acesso pago, em inglês), o acordo foi alcançado este domingo pelos sete países que concluíram em setembro a reversão dos últimos cort",
-      "source": "ECO",
-      "date": "Sun, 01 Nov 2026 13:39:18 +0000",
-      "url": "https://eco.sapo.pt/2026/11/01/opep-mantem-quotas-de-petroleo-em-dezembro/",
-      "img": "https://eco.imgix.net/uploads/2025/08/20555339-scaled.jpg",
       "score": 0.76
     },
     {
@@ -135,58 +146,47 @@
       "score": 0.76
     },
     {
-      "id": "cf48ecac",
+      "id": "3ba16e40",
       "cat": "tecnologia",
-      "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
-      "summary": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical conductivity by up to 100 times, potentially transforming the future of molecular",
-      "source": "ScienceDaily",
-      "date": "Sun, 01 Nov 2026 06:55:46 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
-      "img": "https://www.sciencedaily.com/images/1920/archimedes-screw-molecular-motor.webp",
-      "score": 0.76
-    },
-    {
-      "id": "b0fa947b",
-      "cat": "ciencia",
-      "title": "Pitágoras e as batatas fritas",
-      "summary": "As comunidades científicas, em geral, e os matemáticos, em particular, estão em choque com os rápidos e inesperados avanços da IA nesta área. Opinião de Arlindo Oliveira",
+      "title": "Líder do BPI sugere incentivos para construtoras apostarem na “industrialização” de casas",
+      "summary": "“Os bancos não são a parte principal nesta solução”, argumenta João Pedro Oliveira e Costa, que defende que se devia estar a definir bons locais para a construção em massa, e não reabilitação.",
       "source": "Público",
-      "date": "Mon, 02 Nov 2026 00:30:00 GMT",
-      "url": "https://www.publico.pt/2026/11/02/opiniao/opiniao/pitagoras-batatas-fritas-2193362",
+      "date": "Mon, 02 Nov 2026 14:06:04 GMT",
+      "url": "https://www.publico.pt/2026/11/02/economia/noticia/lider-bpi-sugere-incentivos-construtoras-apostarem-industrializacao-casas-2193453",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "fb81d526",
-      "cat": "tecnologia",
-      "title": "Na terceira semana da justa luta pela habitação digna",
-      "summary": "A nós ninguém nos tira a alegria de ter vivido o “25 de Abril”, mas aos jovens das acampadas em Lisboa e no Porto já ninguém lhes tira várias vitórias. Opinião de Irene Flunser Pimentel",
-      "source": "Público",
-      "date": "Mon, 02 Nov 2026 00:25:00 GMT",
-      "url": "https://www.publico.pt/2026/11/02/opiniao/opiniao/terceira-semana-justa-luta-habitacao-digna-2193364",
-      "img": null,
+      "id": "3e695cc5",
+      "cat": "cultura",
+      "title": "632 trabalhadores no desemprego com fecho da fábrica da Ecco",
+      "summary": "Encerramento da fábrica Ecco foi revelado a grande parte dos funcionários dos 22 departamentos durante uma reunião realizada na manhã desta segunda-feira, deixando 632 pessoas no desemprego.",
+      "source": "Observador",
+      "date": "Mon, 02 Nov 2026 12:36:33 +0000",
+      "url": "https://observador.pt/2026/11/02/fecho-da-fabrica-de-calcado-ecco-em-portugal-deixa-632-trabalhadores-no-desemprego/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/09/12679175.jpg",
       "score": 0.73
     },
     {
-      "id": "db712f7e",
+      "id": "27c66f47",
       "cat": "tecnologia",
-      "title": "3h. Sindicato dos Jornalistas apresenta queixa contra PSP",
-      "summary": "Sindicato pede responsabilidades pela agressão e intimidação de jornalistas que cobriam os protestos pela habitação no Porto e Lisboa. Ainda, Kimi Antonelli é o novo campeão do mundo de Fórmula 1.",
+      "title": "Primeiro-ministro belga demite-se, decisão está em suspenso",
+      "summary": "Palácio Real referiu, em comunicado, que o Rei Filipe \"mantém a sua decisão em suspenso\" e irá iniciar, a partir desta terça-feira, \"consultas com os presidentes dos partidos que integram a maioria\".",
       "source": "Observador",
-      "date": "Mon, 02 Nov 2026 03:16:34 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2485/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Mon, 02 Nov 2026 12:25:49 +0000",
+      "url": "https://observador.pt/2026/11/02/primeiro-ministro-belga-demite-se-mas-rei-mantem-decisao-em-suspenso/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:66/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02113329/47995813.jpg",
       "score": 0.73
     },
     {
-      "id": "729c8d8d",
-      "cat": "geral",
-      "title": "Fertilidade. Movimento quer consulta entre os 20 e 35 anos",
-      "summary": "O Movimento +Fertilidade avança com 15 recomendações estratégicas, incluindo o alargamento do acesso à preservação da fertilidade por razões não médicas.",
-      "source": "Observador",
-      "date": "Mon, 02 Nov 2026 00:22:00 +0000",
-      "url": "https://observador.pt/2026/11/02/movimento-fertilidade-quer-consulta-entre-os-20-e-35-anos-nos-centros-de-saude/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:192/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/26162938/centro-saude-alter-do-chao-1.jpg",
+      "id": "1fa39415",
+      "cat": "tecnologia",
+      "title": "Galp-Moeve: \"Não foi por nossa causa que o acordo não foi feito\"",
+      "summary": "Maria da Graça Carvalho garante que o Governo não provocou o fim das negociações, mas confirma que as petrolíferas conheciam os mecanismos legais de intervenção do Estado. Ministra assegura que o Executivo pode atuar antes de uma eventual transferência de controlo da refinaria de Sines.",
+      "source": "Jornal de Negócios",
+      "date": "Mon, 02 Nov 2026 15:20:06 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/galp-moeve-nao-foi-por-nossa-causa-que-o-acordo-nao-foi-feito",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-15-12-03-11-529535.jpg",
       "score": 0.73
     },
     {
@@ -201,6 +201,17 @@
       "score": 0.73
     },
     {
+      "id": "1d6175d4",
+      "cat": "desporto",
+      "title": "Sporting é o sétimo clube a mudar de treinador na época",
+      "summary": "O Sporting é o sétimo clube da I Liga a mudar de treinador em 2026/27, após ter anunciado o início das negociações para a rescisão contratual com Rui Borges, campeão nacional em 2024/25.",
+      "source": "RTP",
+      "date": "Mon, 02 Nov 2026 09:46:21 +0000",
+      "url": "https://www.rtp.pt/noticias/1a-liga/sporting-e-o-setimo-clube-a-mudar-de-treinador-na-epoca_d1776271",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/31/3136d5a9460a02df1f63e6fedd7750ed?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "d95a4da3",
       "cat": "desporto",
       "title": "FC Porto vence Óquei de Barcelos e conquista Elite Cup",
@@ -212,47 +223,58 @@
       "score": 0.73
     },
     {
-      "id": "a546509e",
-      "cat": "desporto",
-      "title": "GP do México de Fórmula 1 interrompido após despiste de Valtteri Bottas",
-      "summary": "O Grande Prémio do México de Fórmula 1 foi interrompido na volta 46 das 71 previstas depois do despiste do finlandês Valtteri Bottas (Cadillac).",
-      "source": "RTP",
-      "date": "Sun, 01 Nov 2026 21:22:44 +0000",
-      "url": "https://www.rtp.pt/noticias/motores/gp-do-mexico-de-formula-1-interrompido-apos-despiste-de-valtteri-bottas_d1776186",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/54/546a58f094adfc4e26508488cd01e4d4?w=350&amp;q=50&amp;rect=0,249,4204,2305&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "616edfe9",
-      "cat": "economia",
-      "title": "As três contas de William Nordhaus",
-      "summary": "William Nordhaus morreu a 30 de outubro, aos 85 anos. Ganhou o Nobel da Economia em 2018 por ter posto o clima dentro dos modelos de crescimento. Gerações de estudantes aprenderam economia pelo manual que escreveu com Paul Samuelson a partir de 1985 e que continuou sozinho depois de Samuelson morrer",
-      "source": "ECO",
-      "date": "Sun, 01 Nov 2026 21:22:56 +0000",
-      "url": "https://eco.sapo.pt/opiniao/as-tres-contas-de-william-nordhaus/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/06/pedro-santa-clara-opiniao.png",
-      "score": 0.73
-    },
-    {
-      "id": "4b427df2",
-      "cat": "sociedade",
-      "title": "Islands Near Portugal Turn Off Lights to Protect Seabird Fledglings Every October – 30k Already Saved",
-      "summary": "Each autumn, during the last five nights in October, there is a blackout on Corvo island—but it’s not by accident. On the small island in the Portuguese Azores, more than 400 residents are protecting some of the world’s most vulnerable birds, while setting an example for the region. Last week, the p",
-      "source": "Good News Network",
-      "date": "Mon, 02 Nov 2026 03:04:49 +0000",
-      "url": "https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Corys-shearwater-on-Wikipedia-by-Hobbyfotowiki-CC0.jpeg",
-      "score": 0.73
-    },
-    {
-      "id": "ef06f39c",
+      "id": "e5874535",
       "cat": "tecnologia",
-      "title": "Housing Nonprofit Funds $16.5 Million in Eviction Relief to Assist Renters",
-      "summary": "The Atlanta-based nonprofit that launched an Eviction Relief Fund during the COVID pandemic has now assisted over 5,500 families so they could stay in their apartments. Marjy Stagmeier, a landlord of affordable housing in the Georgia capital city, is helping ease the burden on tenants through fundra",
+      "title": "Galp/Moeve. “Não foi por nossa causa que o acordo não foi feito”, garante ministra da Energia",
+      "summary": "A ministra do Ambiente e Energia garante que o acordo para a fusão parcial entre Moeve e Galp não caiu na sequência do acompanhamento que foi feito pelo Governo. Afirma ainda que o Executivo tem meios legais para continuar a garantir a soberania energética relacionada com a refinaria de Sines, ativo",
+      "source": "ECO",
+      "date": "Mon, 02 Nov 2026 15:16:22 +0000",
+      "url": "https://eco.sapo.pt/2026/11/02/galp-moeve-nao-foi-por-nossa-causa-que-o-acordo-nao-foi-feito-garante-ministra-da-energia/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-doc2026090947741809miguelalopes-13.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "e5091540",
+      "cat": "tecnologia",
+      "title": "Portugal e Grécia querem aprofundar cooperação na produção de drones e satélites",
+      "summary": "O ministro da Defesa Nacional apontou esta segunda-feira a produção de drones, os satélites e os sistemas de defesa como áreas em que Portugal e Grécia pretendem aprofundar a cooperação, após assinar um acordo para a venda de três aeronaves. A posição foi transmitida por Nuno Melo numa declaração br",
+      "source": "ECO",
+      "date": "Mon, 02 Nov 2026 15:06:27 +0000",
+      "url": "https://eco.sapo.pt/2026/11/02/portugal-e-grecia-querem-aprofundar-cooperacao-na-producao-de-drones-e-satelites/",
+      "img": "https://eco.imgix.net/uploads/2026/11/cropped-48051542-scaled-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "7d85ed74",
+      "cat": "tecnologia",
+      "title": "Bruxelas já assinou acordo SAFE e Melo prevê primeira tranche até ao fim do ano",
+      "summary": "O ministro da Defesa Nacional revelou esta segunda-feira que a Comissão Europeia já assinou o acordo de empréstimo do programa europeu SAFE a Portugal, estando o documento a aguardar validação do Tribunal de Contas. Em declarações à Lusa, em Atenas, Grécia, onde se deslocou para formalizar a venda d",
+      "source": "ECO",
+      "date": "Mon, 02 Nov 2026 14:50:43 +0000",
+      "url": "https://eco.sapo.pt/2026/11/02/bruxelas-ja-assinou-acordo-safe-e-melo-preve-primeira-tranche-ate-ao-fim-do-ano/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-doc202605174712298520260517phc07.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "9f29327b",
+      "cat": "tecnologia",
+      "title": "Weather.pet App Generates Forecasts for Dogs’ Head and Paws Based on Ground Temps and More",
+      "summary": "A dog lover and entrepreneur has created a weather service tailored specifically to dogs. It broadcasts tens of thousands of reports to users every month with the weather at the level of a dog&#8217;s head and paws. It also includes temperature readings for asphalt, grass, and concrete, and variatio",
       "source": "Good News Network",
-      "date": "Sun, 01 Nov 2026 22:53:28 +0000",
-      "url": "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Kids-in-the-Star-C-Program-submitted-by-nonprofit.jpeg",
+      "date": "Mon, 02 Nov 2026 14:00:25 +0000",
+      "url": "https://www.goodnewsnetwork.org/weather-pet-app-generates-forecasts-for-dogs-head-and-paws-based-on-ground-temps-and-more/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-retrieved-from-Pawcast.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "d0daaf7e",
+      "cat": "tecnologia",
+      "title": "Good News in History, November 2",
+      "summary": "This daily column features all the good news, anniversaries and birthdays from this day in history—November 2. The post Good News in History, November 2 appeared first on Good News Network .",
+      "source": "Good News Network",
+      "date": "Mon, 02 Nov 2026 08:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events061102/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2022/11/Jersey-Joe-Walcott-in-1937.-CC-3.0.-The-Ring-Boxing-Copy.jpg",
       "score": 0.73
     },
     {
@@ -278,47 +300,25 @@
       "score": 0.73
     },
     {
-      "id": "3aef5710",
+      "id": "f6f8c5a1",
       "cat": "tecnologia",
-      "title": "Pouca polícia na Acampada do Porto que pernoitou com tendas",
-      "summary": "A PSP deixou os manifestantes na Praça D. João I ficarem com as tendas montadas além da meia noite e meia na madrugada desta segunda-feira, um dia depois da intervenção policial.",
-      "source": "Observador",
-      "date": "Mon, 02 Nov 2026 04:24:06 +0000",
-      "url": "https://observador.pt/2026/11/02/acampada-do-porto-pernoitou-com-tendas-montadas-com-pouca-vigilancia-policial/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1667:936:nowe:0:1564/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01211538/obs01112026davidoliveira00129.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "b7a64aa4",
-      "cat": "tecnologia",
-      "title": "Segurança na alta velocidade motiva questões do júri ao consórcio da Sacyr",
-      "summary": "O agrupamento da Sacyr, DST e ACA, a que o júri pretende adjudicar o troço da alta velocidade Oiã-Soure, tem cinco dias úteis para esclarecer pontos da sua proposta relacionados com a segurança em pontes e viadutos.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 01 Nov 2026 23:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/seguranca-na-alta-velocidade-motiva-questoes-do-juri-ao-consorcio-da-sacyr",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-11/img_100x100uu2023-11-09-19-29-14-464045.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "54913199",
-      "cat": "economia",
-      "title": "Sempre Negócios",
-      "summary": "Foram quase seis anos a servi-lo, caro leitor, como diretora... Não dei por passarem tão depressa. Este espaço, um ponto de encontro consigo, assume hoje a forma de carta de despedida e ato de amor por uma equipa que faz a melhor informação económica e financeira do país.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 01 Nov 2026 23:00:00 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/sempre-negocios",
+      "title": "“Traição” de democrata abala campanha no Michigan, juíza trava queixa de Trump no Alasca",
+      "summary": "Rival de Abdul El-Sayed nas primárias de Agosto declara apoio a candidato republicano ao Senado. Magistrada recusa pedido da Administração Trump para suspender certificação de resultados no Alasca.",
+      "source": "Público",
+      "date": "Mon, 02 Nov 2026 14:29:56 GMT",
+      "url": "https://www.publico.pt/2026/11/02/mundo/noticia/traicao-democrata-abala-campanha-michigan-juiza-trava-queixa-trump-alasca-2193451",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "04e1c5ae",
+      "id": "796f89b4",
       "cat": "tecnologia",
-      "title": "“Se por um ganho eleitoral passássemos a défice, isso seria criminoso”",
-      "summary": "Portugal deverá ter um excedente nas contas públicas, este ano e no próximo. Manuel Castro Almeida defende essa margem, deixando o alerta aos partidos da oposição que o queiram pôr em causa na discussão do Orçamento do Estado na especialidade.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 01 Nov 2026 22:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/se-por-um-ganho-eleitoral-passassemos-a-defice-isso-seria-criminoso",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-30-16-44-19-532150.jpg",
+      "title": "\"Se bastonadas continuarem, vamos a intimação mais alargada\"",
+      "summary": "Leonor Caldeira refere que decisão do Tribunal passa responsabilidade para PSP e decisores políticos. Diz que decisão tem muito peso para próximos passos das manifestações.",
+      "source": "Observador",
+      "date": "Mon, 02 Nov 2026 12:50:06 +0000",
+      "url": "https://observador.pt/programas/resposta-pronta/se-bastonadas-continuarem-vamos-a-intimacao-mais-alargada/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1405:nowe:0:131/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/02024426/ts154a3219.jpg",
       "score": 0.7
     },
     {
