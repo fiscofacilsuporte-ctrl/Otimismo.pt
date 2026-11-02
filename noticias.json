@@ -1,5 +1,5 @@
 {
-  "last_update": "01/11/2026 21:56 UTC",
+  "last_update": "02/11/2026 05:39 UTC",
   "total": 30,
   "news": [
     {
@@ -47,36 +47,25 @@
       "score": 0.79
     },
     {
-      "id": "46e78ce8",
+      "id": "9bb1e288",
       "cat": "tecnologia",
-      "title": "Do zero ao título da WNBA em dois anos — a proeza das Valkyries",
-      "summary": "Golden State alargaram a marca do sucesso com aposta séria no basquetebol feminino. E o investimento inicial já foi largamente compensado.",
+      "title": "Kimi Antonelli tinha pressa de revisitar o Brasil de Ayrton Senna como campeão",
+      "summary": "O México confirmou a quebra do recorde de precocidade, que o piloto italiano reduziu em mais de três anos. Max Verstappen venceu corrida e ascendeu ao segundo lugar do campeonato.",
       "source": "Público",
-      "date": "Sun, 01 Nov 2026 19:55:27 GMT",
-      "url": "https://www.publico.pt/2026/11/01/desporto/noticia/zero-titulo-wnba-dois-anos-proeza-valkyries-2193380",
+      "date": "Sun, 01 Nov 2026 22:25:25 GMT",
+      "url": "https://www.publico.pt/2026/11/01/desporto/noticia/kimi-antonelli-pressa-revisitar-brasil-ayrton-senna-campeao-2193386",
       "img": null,
       "score": 0.76
     },
     {
-      "id": "12dcda6b",
+      "id": "a7d2f58b",
       "cat": "tecnologia",
-      "title": "Pedra, Planta, Animal e Escritor",
-      "summary": "Gonçalo M. Tavares recebeu este domingo em Maiorca o Prémio Formentor das Letras 2026. É o primeiro português distinguido com este prémio internacional. Este é o texto que escreveu e leu na cerimónia. Crónica de Gonçalo M. Tavares",
-      "source": "Público",
-      "date": "Sun, 01 Nov 2026 18:55:10 GMT",
-      "url": "https://www.publico.pt/2026/11/01/culturaipsilon/cronica/pedra-planta-animal-escritor-2193356",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "c4c7f702",
-      "cat": "tecnologia",
-      "title": "A corda partiu: Rui Borges sai, Paulo Fonseca é o sucessor",
-      "summary": "Sporting conseguiu chegar a acordo com Paulo Fonseca e com Lyon, que tinha dívida das mais valias de Afonso Moreira. Rui Borges já não deve seguir para Londres, com interino Tiago Fernandes no banco.",
-      "source": "Observador",
-      "date": "Sun, 01 Nov 2026 19:59:29 +0000",
-      "url": "https://observador.pt/2026/11/01/sporting-fecha-paulo-fonseca-com-apresentacao-durante-a-semana-rui-borges-sai-tiago-fernandes-pode-assumir-equipa-em-londres/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:38/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01195529/paulo-fonseca.jpg",
+      "title": "Kimi Antonelli sagra-se campeão mundial de Fórmula 1",
+      "summary": "O italiano Andrea Kimi Antonelli (Mercedes) sagrou-se hoje campeão mundial de Fórmula 1 no Grande Prémio do México, corrida vencida pelo piloto neerlandês Max Verstappen (Red Bull).",
+      "source": "RTP",
+      "date": "Sun, 01 Nov 2026 22:36:59 +0000",
+      "url": "https://www.rtp.pt/noticias/motores/kimi-antonelli-sagra-se-campeao-mundial-de-formula-1_d1776196",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/a6/a6985885a1eb28f79c031ca563176d8c?w=350&amp;q=50&amp;rect=0,92,1024,561&amp;auto=format",
       "score": 0.76
     },
     {
@@ -157,47 +146,47 @@
       "score": 0.76
     },
     {
-      "id": "9508a2b0",
-      "cat": "tecnologia",
-      "title": "Andebol: FC Porto quebra série invicta de quase dois anos do Sporting",
-      "summary": "Portistas venceram tricampeão nacional, no Dragão Arena, e quebraram sequência de 65 jogos consecutivos sem perder dos “leões” em provas nacionais.",
+      "id": "b0fa947b",
+      "cat": "ciencia",
+      "title": "Pitágoras e as batatas fritas",
+      "summary": "As comunidades científicas, em geral, e os matemáticos, em particular, estão em choque com os rápidos e inesperados avanços da IA nesta área. Opinião de Arlindo Oliveira",
       "source": "Público",
-      "date": "Sun, 01 Nov 2026 18:41:04 GMT",
-      "url": "https://www.publico.pt/2026/11/01/desporto/noticia/andebol-fc-porto-quebra-serie-invicta-quase-dois-anos-sporting-2193375",
+      "date": "Mon, 02 Nov 2026 00:30:00 GMT",
+      "url": "https://www.publico.pt/2026/11/02/opiniao/opiniao/pitagoras-batatas-fritas-2193362",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "b90e81a1",
+      "id": "fb81d526",
       "cat": "tecnologia",
-      "title": "Habitação. Ventura culpa \"inércia\" do PM e esquerda",
-      "summary": "Ventura atacou \"egoísmo e falta de empatia\" do primeiro-ministro em relação à habitação e lamentou que assunto seja \"atirado para cima dos polícias\". E também deixou críticas à esquerda.",
+      "title": "Na terceira semana da justa luta pela habitação digna",
+      "summary": "A nós ninguém nos tira a alegria de ter vivido o “25 de Abril”, mas aos jovens das acampadas em Lisboa e no Porto já ninguém lhes tira várias vitórias. Opinião de Irene Flunser Pimentel",
+      "source": "Público",
+      "date": "Mon, 02 Nov 2026 00:25:00 GMT",
+      "url": "https://www.publico.pt/2026/11/02/opiniao/opiniao/terceira-semana-justa-luta-habitacao-digna-2193364",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "db712f7e",
+      "cat": "tecnologia",
+      "title": "3h. Sindicato dos Jornalistas apresenta queixa contra PSP",
+      "summary": "Sindicato pede responsabilidades pela agressão e intimidação de jornalistas que cobriam os protestos pela habitação no Porto e Lisboa. Ainda, Kimi Antonelli é o novo campeão do mundo de Fórmula 1.",
       "source": "Observador",
-      "date": "Sun, 01 Nov 2026 19:51:59 +0000",
-      "url": "https://observador.pt/2026/11/01/na-habitacao-ventura-critica-inercia-de-montenegro-mas-tambem-ataca-irresponsavel-oposicao-de-esquerda/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:55/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/03153111/47850502.jpg",
+      "date": "Mon, 02 Nov 2026 03:16:34 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2485/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "db5ebeaf",
-      "cat": "tecnologia",
-      "title": "Nova carga policial sobe pressão sobre Montenegro",
-      "summary": "Presidente da República pediu explicações ao chefe do Executivo e à provedora de Justiça, enquanto o líder socialista avisa que \"nenhum Governo resiste à falta de liderança do primeiro-ministro\". Já o Chega afirma que \"a esquerda que está na rua\" é responsável pelo atual estado da habitação. Este do",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 01 Nov 2026 20:51:22 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/nova-carga-policial-sobe-pressao-sobre-montenegro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-01-14-22-34-532190.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "16b22687",
-      "cat": "tecnologia",
-      "title": "Paulo Fonseca vai suceder a Rui Borges como treinador do Sporting",
-      "summary": "Clube de Alvalade chega a acordo com o Lyon para a transferência do técnico.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 01 Nov 2026 19:45:20 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/desporto/detalhe/paulo-fonseca-vai-suceder-a-rui-borges-como-treinador-do-sporting",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-01-19-44-41-532192.jpg",
+      "id": "729c8d8d",
+      "cat": "geral",
+      "title": "Fertilidade. Movimento quer consulta entre os 20 e 35 anos",
+      "summary": "O Movimento +Fertilidade avança com 15 recomendações estratégicas, incluindo o alargamento do acesso à preservação da fertilidade por razões não médicas.",
+      "source": "Observador",
+      "date": "Mon, 02 Nov 2026 00:22:00 +0000",
+      "url": "https://observador.pt/2026/11/02/movimento-fertilidade-quer-consulta-entre-os-20-e-35-anos-nos-centros-de-saude/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2048:1151:nowe:0:192/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/08/26162938/centro-saude-alter-do-chao-1.jpg",
       "score": 0.73
     },
     {
@@ -212,6 +201,17 @@
       "score": 0.73
     },
     {
+      "id": "d95a4da3",
+      "cat": "desporto",
+      "title": "FC Porto vence Óquei de Barcelos e conquista Elite Cup",
+      "summary": "O FC Porto conquistou hoje pela segunda vez a Elite Cup de hóquei em patins ao vencer o Óquei de Barcelos por 5-2, na final disputada em Santo Tirso.",
+      "source": "RTP",
+      "date": "Sun, 01 Nov 2026 22:44:44 +0000",
+      "url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-vence-oquei-de-barcelos-e-conquista-elite-cup_d1776198",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/16/162f13a66671f2e759f76c19f86b0a1f?w=350&amp;q=50&amp;rect=47,0,684,375&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "a546509e",
       "cat": "desporto",
       "title": "GP do México de Fórmula 1 interrompido após despiste de Valtteri Bottas",
@@ -223,28 +223,6 @@
       "score": 0.73
     },
     {
-      "id": "92bd52e7",
-      "cat": "tecnologia",
-      "title": "II Liga. Lusitânia de Lourosa empata com o Farense e perde liderança (1-1)",
-      "summary": "O Lusitânia de Lourosa empatou hoje 1-1 com o Farense em jogo da 9ª jornada da II Liga portuguesa de futebol, disputado em Vila Nova de Gaia, um resultado que retira a liderança na competição à formação de Santa Maria da Feira.",
-      "source": "RTP",
-      "date": "Sun, 01 Nov 2026 19:59:52 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-lusitania-de-lourosa-empata-com-o-farense-e-perde-lideranca-1-1_d1776157",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "792405ad",
-      "cat": "tecnologia",
-      "title": "Yamaha falha GP do Qatar devido a restrições de viagens para o Médio Oriente",
-      "summary": "A Yamaha anunciou hoje que não participará no Grande Prémio do Qatar de MotoGP, previsto para o próximo fim de semana, por manter as restrições de viagens para o Médio Oriente em vigor na empresa.",
-      "source": "RTP",
-      "date": "Sun, 01 Nov 2026 19:59:15 +0000",
-      "url": "https://www.rtp.pt/noticias/motores/yamaha-falha-gp-do-qatar-devido-a-restricoes-de-viagens-para-o-medio-oriente_d1776156",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
       "id": "616edfe9",
       "cat": "economia",
       "title": "As três contas de William Nordhaus",
@@ -253,6 +231,28 @@
       "date": "Sun, 01 Nov 2026 21:22:56 +0000",
       "url": "https://eco.sapo.pt/opiniao/as-tres-contas-de-william-nordhaus/",
       "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/06/pedro-santa-clara-opiniao.png",
+      "score": 0.73
+    },
+    {
+      "id": "4b427df2",
+      "cat": "sociedade",
+      "title": "Islands Near Portugal Turn Off Lights to Protect Seabird Fledglings Every October – 30k Already Saved",
+      "summary": "Each autumn, during the last five nights in October, there is a blackout on Corvo island—but it’s not by accident. On the small island in the Portuguese Azores, more than 400 residents are protecting some of the world’s most vulnerable birds, while setting an example for the region. Last week, the p",
+      "source": "Good News Network",
+      "date": "Mon, 02 Nov 2026 03:04:49 +0000",
+      "url": "https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Corys-shearwater-on-Wikipedia-by-Hobbyfotowiki-CC0.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "ef06f39c",
+      "cat": "tecnologia",
+      "title": "Housing Nonprofit Funds $16.5 Million in Eviction Relief to Assist Renters",
+      "summary": "The Atlanta-based nonprofit that launched an Eviction Relief Fund during the COVID pandemic has now assisted over 5,500 families so they could stay in their apartments. Marjy Stagmeier, a landlord of affordable housing in the Georgia capital city, is helping ease the burden on tenants through fundra",
+      "source": "Good News Network",
+      "date": "Sun, 01 Nov 2026 22:53:28 +0000",
+      "url": "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Kids-in-the-Star-C-Program-submitted-by-nonprofit.jpeg",
       "score": 0.73
     },
     {
@@ -278,25 +278,47 @@
       "score": 0.73
     },
     {
-      "id": "518af987",
+      "id": "3aef5710",
       "cat": "tecnologia",
-      "title": "As notícias das 20h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "Pouca polícia na Acampada do Porto que pernoitou com tendas",
+      "summary": "A PSP deixou os manifestantes na Praça D. João I ficarem com as tendas montadas além da meia noite e meia na madrugada desta segunda-feira, um dia depois da intervenção policial.",
       "source": "Observador",
-      "date": "Sun, 01 Nov 2026 20:13:56 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-20h-2080/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Mon, 02 Nov 2026 04:24:06 +0000",
+      "url": "https://observador.pt/2026/11/02/acampada-do-porto-pernoitou-com-tendas-montadas-com-pouca-vigilancia-policial/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1667:936:nowe:0:1564/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/01211538/obs01112026davidoliveira00129.jpg",
       "score": 0.7
     },
     {
-      "id": "0201cf43",
-      "cat": "economia",
-      "title": "Habitação: PSP multou automobilistas que buzinaram no Rossio",
-      "summary": "Uma testemunha contou aos jornalistas que elementos da PSP começaram a multar automobilistas por considerarem que \"buzinadelas durante uma manifestação não era admissível\".",
+      "id": "b7a64aa4",
+      "cat": "tecnologia",
+      "title": "Segurança na alta velocidade motiva questões do júri ao consórcio da Sacyr",
+      "summary": "O agrupamento da Sacyr, DST e ACA, a que o júri pretende adjudicar o troço da alta velocidade Oiã-Soure, tem cinco dias úteis para esclarecer pontos da sua proposta relacionados com a segurança em pontes e viadutos.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 01 Nov 2026 21:50:11 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/habitacao-psp-multou-automobilistas-que-buzinaram-no-rossio",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-19-17-31-03-531402.jpg",
+      "date": "Sun, 01 Nov 2026 23:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/seguranca-na-alta-velocidade-motiva-questoes-do-juri-ao-consorcio-da-sacyr",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-11/img_100x100uu2023-11-09-19-29-14-464045.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "54913199",
+      "cat": "economia",
+      "title": "Sempre Negócios",
+      "summary": "Foram quase seis anos a servi-lo, caro leitor, como diretora... Não dei por passarem tão depressa. Este espaço, um ponto de encontro consigo, assume hoje a forma de carta de despedida e ato de amor por uma equipa que faz a melhor informação económica e financeira do país.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 01 Nov 2026 23:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/diana-ramos/detalhe/sempre-negocios",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "04e1c5ae",
+      "cat": "tecnologia",
+      "title": "“Se por um ganho eleitoral passássemos a défice, isso seria criminoso”",
+      "summary": "Portugal deverá ter um excedente nas contas públicas, este ano e no próximo. Manuel Castro Almeida defende essa margem, deixando o alerta aos partidos da oposição que o queiram pôr em causa na discussão do Orçamento do Estado na especialidade.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 01 Nov 2026 22:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/se-por-um-ganho-eleitoral-passassemos-a-defice-isso-seria-criminoso",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-30-16-44-19-532150.jpg",
       "score": 0.7
     },
     {
@@ -308,28 +330,6 @@
       "date": "Thu, 11 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/soldados-ingenuos-como-formigas-no-chapito-17638842.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=b375751b-322c-4c9e-8e30-8731053255db&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "a4745361",
-      "cat": "tecnologia",
-      "title": "Dançar com voz, os sons do corpo",
-      "summary": "Bibi Ha Bibi, é um espetaculo de performance, dança e sons está no Teatro S.Luiz em Lisboa, três dias.",
-      "source": "TSF",
-      "date": "Tue, 09 Jan 2024 07:30:00 Z",
-      "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
-      "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "b52bcf93",
-      "cat": "cultura",
-      "title": "High School Fills Entire Football Field With Groceries to Replenish New Jersey Food Banks",
-      "summary": "Hundreds of New Jersey students collected over a quarter million pounds of food during the second annual 100-Yard Food Drive Challenge last week. Thousands of bright yellow donation bags covered Howell High School&#8217;s football field from end zone to end zone—with the extraordinary effort marking",
-      "source": "Good News Network",
-      "date": "Sun, 01 Nov 2026 15:34:01 +0000",
-      "url": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Football-field-full-of-food-bank-donations-in-NY-Credit-Tommy-Pantaleo-for-Dermer-Dreams-submitted.jpg",
       "score": 0.7
     }
   ]
