@@ -1,5 +1,5 @@
 {
-  "last_update": "03/11/2026 23:08 UTC",
+  "last_update": "04/11/2026 05:54 UTC",
   "total": 30,
   "news": [
     {
@@ -47,15 +47,26 @@
       "score": 0.79
     },
     {
-      "id": "717e7857",
-      "cat": "saude",
-      "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
-      "summary": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.",
-      "source": "BBC News",
-      "date": "Fri, 23 Oct 2026 07:49:02 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f379/live/0f348400-cead-11f1-bc2e-018d645d8d21.jpg",
-      "score": 0.79
+      "id": "8d5d188d",
+      "cat": "tecnologia",
+      "title": "Ventura defende que lei das rendas seja aprovada \"a três\" com o PS",
+      "summary": "O líder do Chega disse que se encontrou com o primeiro-ministro e transmitiu-lhe que o partido \"está disponível para participar na solução\". Luís Montenegro anunciou que vai reunir-se com os líderes do Chega e do PS em São Bento na próxima quinta-feira para ouvir as suas propostas sobre habitação.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 03 Nov 2026 23:09:36 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ventura-defende-que-lei-das-rendas-seja-aprovada-a-tres-com-o-ps",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-25-14-43-15-531729.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "c18a2d01",
+      "cat": "tecnologia",
+      "title": "Acampada de Lisboa diz que se mantêm fundamentos para a luta pela habitação",
+      "summary": "O anúncio do primeiro-ministro de que vai ouvir propostas dos partidos sobre habitação não responde às reivindicações do movimento, de acordo com uma porta-voz.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 03 Nov 2026 23:06:21 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/acampada-de-lisboa-diz-que-se-mantem-fundamentos-para-a-luta-pela-habitacao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-19-17-31-13-531410.jpg",
+      "score": 0.76
     },
     {
       "id": "1eeac33d",
@@ -66,17 +77,6 @@
       "date": "Tue, 03 Nov 2026 21:32:02 Z",
       "url": "https://www.jornaldenegocios.pt/economia/detalhe/carneiro-diz-que-pm-finalmente-reconheceu-que-solucao-para-habitacao-e-politica-e-nao-policial",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-15-01-00-524387.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "35c9f319",
-      "cat": "tecnologia",
-      "title": "Montenegro quer dar \"seguimento a objetivo\" de venda total da TAP",
-      "summary": "O primeiro-ministro, na assinatura do contrato da venda da TAP, indicou o objetivo de avançar para a alienação da totalidade da companhia. Para já, esta solução não se coloca e os alemães da Lufthansa conseguem uma posição minoritária que pode ir até 49,9%.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 03 Nov 2026 21:13:27 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/montenegro-quer-dar-seguimento-a-objetivo-de-venda-total-da-tap",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-03-17-24-18-532302.jpg",
       "score": 0.76
     },
     {
@@ -168,36 +168,25 @@
       "score": 0.73
     },
     {
-      "id": "a1f0c381",
+      "id": "084b8ea5",
       "cat": "tecnologia",
-      "title": "Assinatura feita, venda da TAP segue para reguladores com privatização total no horizonte",
-      "summary": "Assinatura do acordo de venda realizou-se esta terça-feira, faltando agora o negócio ser analisado em termos regulatórios e concorrenciais. Estatuto do gestor público deixa de se aplicar à TAP.",
-      "source": "Público",
-      "date": "Tue, 03 Nov 2026 21:00:00 GMT",
-      "url": "https://www.publico.pt/2026/11/03/economia/noticia/assinatura-venda-tap-segue-reguladores-privatizacao-total-horizonte-2193666",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "96e38d03",
-      "cat": "tecnologia",
-      "title": "Um ferido após vagões desgovernados colidem com comboio",
-      "summary": "Três vagões com cereais soltaram-se de uma composição e embateram num comboio de mercadorias junto à estação de Martorell, perto de Barcelona. Maquinista foi hospitalizado e investigação foi aberta.",
+      "title": "Tendas multiplicaram-se em noite de presença discreta da PSP",
+      "summary": "Um dia depois da decisão do tribunal, e com o apelo do primeiro-ministro para que se evitem \"confrontos indesejáveis\", as tendas voltaram ao Rossio. E de uma, na noite de segunda-feira, passaram a 60.",
       "source": "Observador",
-      "date": "Tue, 03 Nov 2026 21:28:14 +0000",
-      "url": "https://observador.pt/2026/11/03/espanha-maquinista-ferido-apos-vagoes-desgovernados-colidirem-com-comboio-de-mercadorias-da-renfe/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:62/q:70/plain/https://s3.observador.pt/wp-content/uploads/2017/12/01200142/169393246.jpg",
+      "date": "Wed, 04 Nov 2026 03:58:02 +0000",
+      "url": "https://observador.pt/especiais/no-pais-pacifico-de-montenegro-a-psp-ficou-a-distancia-e-as-tendas-voltaram-a-encher-o-rossio/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/04011337/dventura-acampada-4nov-16-scaled.jpg",
       "score": 0.73
     },
     {
-      "id": "c9dbb87d",
-      "cat": "saude",
-      "title": "BMW corta previsão de resultados pela segunda vez desde junho",
-      "summary": "O segmento de produção automóvel deverá gerar margens entre -0,5% e 0,5% este ano, contra previsões anteriores de 1% a 3%. Queda de procura na China penaliza empresa.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 03 Nov 2026 20:32:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/automovel/detalhe/bmw-corta-previsao-de-resultados-pela-segunda-vez-desde-junho",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-11/img_100x100uu2025-11-05-12-02-31-512507.jpg",
+      "id": "43454323",
+      "cat": "tecnologia",
+      "title": "Esta onda azul embala os democratas para 2028?",
+      "summary": "Nuno Garoupa, Ricardo Silvestre e Francisco Pereira Coutinho confirmam viragem eleitoral para democratas. Assinalam mudança no Texas e vitória na Geórgia como marcos da onda azul rumo às presidenciais",
+      "source": "Observador",
+      "date": "Wed, 04 Nov 2026 03:37:44 +0000",
+      "url": "https://observador.pt/programas/am-rica-dividida/esta-onda-azul-embala-os-democratas-para-2028/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/11/09011135/dventura-eleicoes-eua-washington-13-scaled.jpg",
       "score": 0.73
     },
     {
@@ -267,6 +256,17 @@
       "score": 0.73
     },
     {
+      "id": "02c2417c",
+      "cat": "ambiente",
+      "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
+      "source": "BBC News",
+      "date": "Tue, 03 Nov 2026 08:57:20 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5e/live/72a9ebc0-d6d6-11f1-b2be-0146bf989691.jpg",
+      "score": 0.73
+    },
+    {
       "id": "605daa60",
       "cat": "ciencia",
       "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
@@ -300,25 +300,25 @@
       "score": 0.73
     },
     {
-      "id": "15fe50fe",
-      "cat": "geral",
-      "title": "O que disse Montenegro - 4 opiniões rápidas",
-      "summary": "Bruno Vieira Amaral, Miguel Santos Carrapatoso, André Abrantes Amaral e Nuno Gonçalo Poças analisam o discurso de Montenegro",
-      "source": "Observador",
-      "date": "Tue, 03 Nov 2026 21:36:17 +0000",
-      "url": "https://observador.pt/especiais/o-que-disse-montenegro-4-opinioes-rapidas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/03211604/ilacerda-pm-montenegro-habitacao-17-scaled.jpg",
+      "id": "01b8c3b5",
+      "cat": "tecnologia",
+      "title": "Luís Montenegro falou ao país. E valeu a pena?",
+      "summary": "Numa comunicação ao país, em que recusou falar sobre as cargas policiais ou o acórdão judicial sobre a acampada, Montenegro pediu tempo.",
+      "source": "Público",
+      "date": "Wed, 04 Nov 2026 01:33:23 GMT",
+      "url": "https://www.publico.pt/2026/11/04/politica/noticia/luis-montenegro-falou-pais-valeu-pena-2193678",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "1947af2b",
-      "cat": "geral",
-      "title": "Volta: Lisboa recusa relatório sobre higiene urbana",
-      "summary": "PSD, CDS-PP, IL, BE, PCP e PEV votaram contra. PS acusa Moedas de \"passa-culpas\" e diz que \"só tem medo dos números quem já escolheu o culpado\".",
+      "id": "1963fd06",
+      "cat": "tecnologia",
+      "title": "Partido Democrata mais ao centro ou à esquerda?",
+      "summary": "André Abrantes Amaral vê traços radicais e protecionistas no Michigan e no Texas. Já Ricardo Silvestre e Ricardo Ferreira Reis defendem que são candidatos moderados e centristas.",
       "source": "Observador",
-      "date": "Tue, 03 Nov 2026 21:28:03 +0000",
-      "url": "https://observador.pt/2026/11/03/assembleia-municipal-de-lisboa-rejeita-proposta-do-ps-para-que-moedas-comprove-impacto-do-volta/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3714:2084:nowe:0:254/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/16195523/ilacerda-garrafas-volta-18.jpg",
+      "date": "Wed, 04 Nov 2026 04:25:03 +0000",
+      "url": "https://observador.pt/programas/am-rica-dividida/partido-democrata-mais-ao-centro-ou-a-esquerda/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/11/09011135/dventura-eleicoes-eua-washington-13-scaled.jpg",
       "score": 0.7
     },
     {
