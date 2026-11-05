@@ -1,5 +1,5 @@
 {
-  "last_update": "04/11/2026 23:30 UTC",
+  "last_update": "05/11/2026 06:16 UTC",
   "total": 30,
   "news": [
     {
@@ -58,6 +58,17 @@
       "score": 0.79
     },
     {
+      "id": "e1944e05",
+      "cat": "tecnologia",
+      "title": "Reaver o nosso aliado",
+      "summary": "A minha esperança é a de que o próximo Presidente queira reconquistar a boa vontade dos velhos aliados dos EUA. Crónica de Miguel Esteves Cardoso",
+      "source": "Público",
+      "date": "Thu, 05 Nov 2026 00:05:00 GMT",
+      "url": "https://www.publico.pt/2026/11/05/opiniao/cronica/reaver-aliado-2193702",
+      "img": null,
+      "score": 0.76
+    },
+    {
       "id": "665748a2",
       "cat": "tecnologia",
       "title": "Miguel Stilwell de Andrade: da banca de investimento a líder da EDP",
@@ -77,17 +88,6 @@
       "date": "Wed, 04 Nov 2026 21:39:11 Z",
       "url": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/vitoria-democrata-abre-dois-anos-de-bloqueio-em-washington",
       "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-04-18-55-42-532379.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "86da1955",
-      "cat": "tecnologia",
-      "title": "Wall Street otimista com vitória democrata nas intercalares. Dow Jones avança 3%",
-      "summary": "O S&P 500 registou a melhor sessão desde agosto, depois de o Partido Democrata ter conquistado a maioria no Congresso norte-americano, nas eleições intercalares de terça-feira. Empresas de Musk caíram mais de 3%.",
-      "source": "Jornal de Negócios",
-      "date": "Wed, 04 Nov 2026 21:14:00 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-em-euforia-com-vitoria-democrata-nas-intercalares-norte-americanas",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-27-19-35-43-531901.jpg",
       "score": 0.76
     },
     {
@@ -135,47 +135,36 @@
       "score": 0.76
     },
     {
-      "id": "1472b6e2",
+      "id": "3be8b5c5",
       "cat": "tecnologia",
-      "title": "Noite de loucura na Champions – sobretudo para o Como",
-      "summary": "Jornada europeia com muitos golos, reviravoltas, vários resultados tangenciais e algumas goleadas, nomeadamente a do Como, que não descansou enquanto não destruiu o Lens.",
-      "source": "Público",
-      "date": "Wed, 04 Nov 2026 21:59:15 GMT",
-      "url": "https://www.publico.pt/2026/11/04/desporto/noticia/noite-loucura-champions-sobretudo-2193823",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "10673f5d",
-      "cat": "geral",
-      "title": "NAPA do sofá para a fama, com uma ilha inteira atrás",
-      "summary": "Depois da Eurovisão em 2025 e do sucesso viral de Deslocado , os madeirenses têm novo álbum, Semitrópico , e vão andar com ele pela Europa até final do mês. Uma aventura inesperada.",
-      "source": "Público",
-      "date": "Wed, 04 Nov 2026 20:34:45 GMT",
-      "url": "https://www.publico.pt/2026/11/04/culturaipsilon/noticia/napa-sofa-fama-ilha-inteira-atras-2193468",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "271594ef",
-      "cat": "ciencia",
-      "title": "Suspeitos de facilitar tráfico de cocaína detidos",
-      "summary": "Detenção ocorreu no decurso de uma investigação de cerca de dois meses no combate ao tráfico de droga. Estupefacientes seriam provenientes da América do Sul. Detidos estão em prisão preventiva.",
+      "title": "1h. Sporting. Está apresentado Paulo Fonseca",
+      "summary": "Frederico Varandas espera que o novo treinador da equipa dos leões traga um novo ciclo de vitórias. Ainda nesta edição, nos EUA, democratas preparam-se para investigar ações da administração Trump.",
       "source": "Observador",
-      "date": "Wed, 04 Nov 2026 21:07:47 +0000",
-      "url": "https://observador.pt/2026/11/04/pj-detem-quatro-suspeitos-de-facilitar-trafico-de-cocaina-no-aeroporto-de-lisboa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1700:956:nowe:4:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/05/28163647/captura-de-ecra-2024-05-28-as-163614.jpg",
+      "date": "Thu, 05 Nov 2026 01:15:22 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2436/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "95d164fc",
-      "cat": "sociedade",
-      "title": "Governo prevê 88 milhões para manter professores nas escolas",
-      "summary": "As despesas com pessoal representam 94,7% do orçamento para a área da Educação. Dentro das medidas está uma parceria com estabelecimentos de ensino superior para dar formação a quem já exerce.",
+      "id": "a8400922",
+      "cat": "tecnologia",
+      "title": "Valadão perde eleição na Califórnia na onda democrata",
+      "summary": "O republicano, que já perdera em 2018 e reconquistara o lugar em 2020, foi derrotado por Randy Villegas numa das maiores vagas democratas da história dos EUA.",
       "source": "Observador",
-      "date": "Wed, 04 Nov 2026 21:05:25 +0000",
-      "url": "https://observador.pt/2026/11/04/oe2027-governo-preve-gastar-88-milhoes-de-euros-para-atrair-e-manter-professores-nas-escolas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/16124742/dventura-reportagem-escola-sem-telemoveis-olivais-9-scaled.jpg",
+      "date": "Thu, 05 Nov 2026 00:22:41 +0000",
+      "url": "https://observador.pt/2026/11/05/eleicoes-nos-eua-lusodescendente-david-valadao-derrotado-na-onda-azul-que-varreu-o-congresso/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4000:2243:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/05002136/gettyimages-2303079236.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "fa88147d",
+      "cat": "tecnologia",
+      "title": "Energia cara leva um terço dos portugueses a cortar na alimentação ou saúde, revela BEI",
+      "summary": "Inquérito do Banco Europeu de Investimento revela que 68% dos portugueses sentiram uma redução significativa do poder de compra devido aos preços da energia. Subida dos custos também levou a mudanças nos hábitos de consumo e de condução.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 05 Nov 2026 04:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/energia-cara-leva-um-terco-dos-portugueses-a-cortar-na-alimentacao-ou-saude-revela-bei",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-06-14-29-23-518053.jpg",
       "score": 0.73
     },
     {
@@ -289,25 +278,36 @@
       "score": 0.73
     },
     {
-      "id": "0199cd79",
-      "cat": "tecnologia",
-      "title": "Acampada do Porto aprova encontro com Seguro e exige a demissão de Luís Neves",
-      "summary": "Movimento aprovou, em assembleia popular, a ida a Belém para pedir ao Presidente o afastamento do ministro da Administração Interna e apresentar nove propostas para a habitação.",
+      "id": "6094cf78",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
       "source": "Público",
-      "date": "Wed, 04 Nov 2026 22:01:11 GMT",
-      "url": "https://www.publico.pt/2026/11/04/sociedade/noticia/acampada-porto-aprova-encontro-seguro-exige-demissao-luis-neves-2193824",
+      "date": "Thu, 05 Nov 2026 05:20:00 GMT",
+      "url": "https://www.publico.pt/2026/11/05/opiniao/opiniao/cartas-director-2193790",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "70129437",
+      "id": "014de343",
       "cat": "tecnologia",
-      "title": "Ministra e MP 'alinham' no pagamento a advogados oficiosos",
-      "summary": "Rita Alarcão Júdice assinou a portaria esta quarta-feira. O MP já defendeu a inconstitucionalidade da norma que obriga advogados a esperar pelo trânsito em julgado para ser pagos.",
+      "title": "Somos (quase) todos antidemocráticos e a culpa não é da comunicação social",
+      "summary": "Para quem governa e tutela as polícias, a força bruta devia ser banida do código de conduta das polícias, em vez da aparente ligeireza com que os bastões descem sobre os acampados. Opinião de Paulo Vila Maior",
+      "source": "Público",
+      "date": "Thu, 05 Nov 2026 00:32:00 GMT",
+      "url": "https://www.publico.pt/2026/11/05/opiniao/opiniao/quase-antidemocraticos-culpa-nao-comunicacao-social-2193777",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "6fa16afa",
+      "cat": "tecnologia",
+      "title": "As notícias das 4h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Wed, 04 Nov 2026 21:39:42 +0000",
-      "url": "https://observador.pt/2026/11/04/mp-e-ministra-da-justica-alinham-contra-norma-que-deixa-advogados-do-bes-e-da-operacao-marques-anos-sem-receber/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1116:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/29185618/47779327.jpg",
+      "date": "Thu, 05 Nov 2026 04:17:36 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2450/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
