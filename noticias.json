@@ -1,7 +1,18 @@
 {
-  "last_update": "05/11/2026 19:49 UTC",
+  "last_update": "06/11/2026 06:10 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "ec20eea6",
+      "cat": "ciencia",
+      "title": "What went right this week: the good news that matters",
+      "summary": "Nature was restored at ‘unprecedented scale’, Barbados halted HIV transmission in babies, and a fuel revolution picked up speed, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+      "source": "Positive News",
+      "date": "Fri, 06 Nov 2026 05:00:54 +0000",
+      "url": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/",
+      "img": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/11/iStock-1964386233.jpg",
+      "score": 0.82
+    },
     {
       "id": "a4a19158",
       "cat": "tecnologia",
@@ -23,17 +34,6 @@
       "url": "https://www.positive.news/society/positive-news-launches-new-video-podcast-exploring-whats-going-right-in-the-world/",
       "img": "https://www.positive.news/wp-content/uploads/2026/10/WWR_hosts_3x2.jpg",
       "score": 0.82
-    },
-    {
-      "id": "d3748b69",
-      "cat": "tecnologia",
-      "title": "The butterfly effect: a brighter way to make paint?",
-      "summary": "Researchers are looking to butterflies in the search for coatings without harmful, chemical-based pigments The post The butterfly effect: a brighter way to make paint? appeared first on Positive News .",
-      "source": "Positive News",
-      "date": "Thu, 05 Nov 2026 17:32:20 +0000",
-      "url": "https://www.positive.news/science/the-butterfly-effect-a-brighter-way-to-make-paint/",
-      "img": "https://www.positive.news/wp-content/uploads/2026/11/iStock-2179406103.jpg",
-      "score": 0.79
     },
     {
       "id": "062f4098",
@@ -69,25 +69,14 @@
       "score": 0.79
     },
     {
-      "id": "b7f66638",
-      "cat": "desporto",
-      "title": "Nadador Miguel Oliveira campeão nos 50 metros costas",
-      "summary": "O nadador Miguel Oliveira conquistou a sua segunda medalha na quarta edição dos Jogos Olímpicos da Juventude Dakar2026, ao sagrar-se campeão dos 50 metros costas `ex aequo` com o grego Nikolaos Papatheodorou.",
-      "source": "RTP",
-      "date": "Thu, 05 Nov 2026 15:47:54 +0000",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/nadador-miguel-oliveira-campeao-nos-50-metros-costas_d1777166",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "6a64caf7",
+      "id": "b85ea688",
       "cat": "tecnologia",
-      "title": "Sindicatos da UGT chegam a acordo com Caixa para aumento salarial de 3%",
-      "summary": "Depois do BCP e do Montepio, foi a vez da Caixa Geral de Depósitos (CGD) chegar a acordo com os sindicatos para um aumento de 3% nas tabelas salariais já este ano. O acordo, assinado na terça-feira, foi revelado esta quinta-feira, dia em que a CGD anunciou ter registado lucros recorde de 1,434 mil m",
-      "source": "ECO",
-      "date": "Thu, 05 Nov 2026 19:19:04 +0000",
-      "url": "https://eco.sapo.pt/2026/11/05/sindicatos-da-ugt-chegam-a-acordo-com-caixa-para-aumento-salarial-de-3/",
-      "img": "https://eco.imgix.net/uploads/2026/02/cropped-cgd02.jpg",
+      "title": "Renováveis dão energia a lucros da EDP. Centros de dados são oportunidade",
+      "summary": "Elétrica beneficia do crescimento das renováveis e da melhoria dos resultados das redes elétricas. Dívida líquida sobe para 16,8 mil milhões de euros. Stilwell vê nos centros de dados novas oportunidades para as renováveis e baterias.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 05 Nov 2026 22:52:15 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/renovaveis-dao-energia-a-lucros-da-edp-centros-de-dados-sao-oportunidade",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-02/img_100x100uu2026-02-25-07-31-49-519077.jpg",
       "score": 0.76
     },
     {
@@ -113,80 +102,58 @@
       "score": 0.76
     },
     {
-      "id": "e08a8f03",
+      "id": "206dcf8c",
       "cat": "tecnologia",
-      "title": "Ryanair garante 55 rotas no Porto, sete novas (há Rabat, Hamburgo e Liverpool)",
-      "summary": "Até à Primavera, a companhia confirma uma “programação recorde” para o Porto, incluindo mais dois aviões. Aposta redobrada no Inverno em destinos na Itália, Polónia, Alemanha e Marrocos.",
-      "source": "Público",
-      "date": "Thu, 05 Nov 2026 18:17:55 GMT",
-      "url": "https://www.publico.pt/2026/11/05/fugas/noticia/ryanair-garante-55-rotas-porto-sete-novas-ha-rabat-hamburgo-liverpool-2193916",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "efa8bf5c",
-      "cat": "tecnologia",
-      "title": "U2 dão segundo concerto em Lisboa, a 28 de Maio, após enorme procura de bilhetes",
-      "summary": "Um concerto dos U2 já estava agendado para o próximo dia 27 de Maio de 2027, no Estádio da Luz. Pré-venda para o espectáculo de dia 28 de Maio já está a decorrer esta quinta-feira.",
-      "source": "Público",
-      "date": "Thu, 05 Nov 2026 17:59:57 GMT",
-      "url": "https://www.publico.pt/2026/11/05/culturaipsilon/noticia/u2-dao-segundo-concerto-lisboa-28-maio-apos-enorme-procura-bilhetes-2193935",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "7cbc2032",
-      "cat": "tecnologia",
-      "title": "Caixa tem novo lucro recorde de 1,4 mil milhões com menor risco nos créditos",
-      "summary": "Caixa Geral de Depósitos consegue subir em 2,5% os lucros até Setembro. “O resultado da Caixa é quase o somatório dos outros dois bancos a seguir”, frisou Paulo Macedo.",
-      "source": "Público",
-      "date": "Thu, 05 Nov 2026 17:59:33 GMT",
-      "url": "https://www.publico.pt/2026/11/05/economia/noticia/caixa-novo-lucro-recorde-14-mil-milhoes-menor-risco-creditos-2193931",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "30110916",
-      "cat": "tecnologia",
-      "title": "U2 com mais uma data em Lisboa \"após enorme procura\"",
-      "summary": "Os bilhetes para os dois concertos estarão à venda a partir das 10h00 de sexta-feira, no site da promotora, em www.livenation.pt. U2 sobem ao palco do Estádio da Luz também no dia 28 de maio.",
+      "title": "4h. Centeno é favorito para PM, ultrapassa Passos Coelho",
+      "summary": "Ex-Governador do BdP lidera. José Luís Carneiro surge em segundo lugar, seguido de Passos Coelho e Montenegro. Ainda, reunião do Governo com PS termina sem acordo. Chega pede intervenção de Seguro.",
       "source": "Observador",
-      "date": "Thu, 05 Nov 2026 18:07:18 +0000",
-      "url": "https://observador.pt/2026/11/05/u2-com-mais-uma-data-em-lisboa-apos-enorme-procura-de-bilhetes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:59/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/05175618/47313175.jpg",
+      "date": "Fri, 06 Nov 2026 04:16:13 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2451/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "8533f244",
+      "id": "ea1f5c5a",
       "cat": "tecnologia",
-      "title": "Moedas insiste na saída da Acampada para mercado de Natal e propõe manterem uma tenda no Rossio",
-      "summary": "O presidente da câmara de Lisboa considera que esta é \"mais uma solução de compromisso\" para conciliar o protesto pela habitação, promovido pelo movimento Acampada de Lisboa, e o mercado de Natal naquela mesma praça, previsto arrancar no dia 13 de novembro.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 05 Nov 2026 19:37:30 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/moedas-insiste-na-saida-da-acampada-para-mercado-de-natal-e-propoe-manterem-uma-tenda-no-rossio",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-19-17-31-06-531404.jpg",
+      "title": "3h. Rangel defende papel da UE na reconstrução da Ucrânia",
+      "summary": "Ministro dos Negócios Estrangeiro considera que a paz tem de ser discutida também com a Europa. Ainda, Trump diz que vai anunciar \"grande acordo\" para a Ucrânia que pode incluir a Europa.",
+      "source": "Observador",
+      "date": "Fri, 06 Nov 2026 03:16:21 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2488/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "161c3f5d",
-      "cat": "economia",
-      "title": "Lucro da EDP cresce 25% para 1.194 milhões até setembro",
-      "summary": "Elétrica liderada por Miguel Stilwell de Andrade aumentou os lucros em 242 milhões de euros face ao período homólogo. Crescimento foi impulsionado pelas renováveis, sobretudo nos Estados Unidos, e pelo desempenho das redes elétricas.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 05 Nov 2026 19:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/lucro-da-edp-cresce-25-para-1-194-milhoes-ate-setembro",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-21-09-22-26-523946.jpg",
+      "id": "ee8953b5",
+      "cat": "tecnologia",
+      "title": "2h. Liga Europa. Benfica vence Lech Poznań por 3-1",
+      "summary": "Encarnados seguem gloriosos e mantém-se no grupo de líderes da competição, no topo da tabela classificativa. Ainda nesta edição, Mário Centeno é o preferido dos portugueses para primeiro-ministro.",
+      "source": "Observador",
+      "date": "Fri, 06 Nov 2026 02:16:31 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2460/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "a47d3757",
-      "cat": "economia",
-      "title": "Stilwell espera regras menos exigentes para centros de dados em Portugal do que em Espanha",
-      "summary": "CEO da EDP Renováveis acredita que o Governo português será menos restritivo do que o espanhol. Empresa vê oportunidades de crescimento nas renováveis e baterias e melhora perspetivas para 2026, com revisão em alta do EBITDA.",
+      "id": "55799077",
+      "cat": "tecnologia",
+      "title": "Montenegro abre a porta à isenção de mais-valias proposta pelo PS",
+      "summary": "José Luís Carneiro acusou o primeiro-ministro de “intransigência” no final do encontro convocado por Montenegro para discutir soluções para a habitação. Pontos de convergência foram apenas em “algumas matérias fiscais”. Chega pede a intervenção do Presidente da República.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 05 Nov 2026 18:45:16 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/stilwell-espera-regras-menos-exigentes-para-centros-de-dados-em-portugal-do-que-em-espanha",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-01/img_100x100uu2024-01-30-17-59-15-469346.jpg",
+      "date": "Thu, 05 Nov 2026 23:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-abre-a-porta-a-isencao-de-mais-valias-proposta-pelo-ps",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-05-22-12-35-532448.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "f5da4752",
+      "cat": "tecnologia",
+      "title": "Comissões compensam queda da margem e ajudam CGD a ter lucro recorde",
+      "summary": "Caixa Geral de Depósitos (CGD) foi o único dos cinco grandes bancos que viu diminuir o encaixe com a margem financeira. O aumento das comissões compensou. Lucro atingiu 1,4 mil milhões.",
+      "source": "Jornal de Negócios",
+      "date": "Thu, 05 Nov 2026 23:01:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/comissoes-compensam-queda-da-margem-e-ajudam-cgd-a-ter-lucro-recorde",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-05-17-38-02-532440.jpg",
       "score": 0.73
     },
     {
@@ -201,36 +168,47 @@
       "score": 0.73
     },
     {
-      "id": "cbcd6e81",
-      "cat": "saude",
-      "title": "SL Benfica - Lech Poznan",
-      "summary": "O Benfica procura manter a campanha 100% vitoriosa na Liga Europa de futebol, em jogo da quarta jornada da fase de liga, no qual recebe os polacos do Lech Poznan.",
+      "id": "62921f31",
+      "cat": "tecnologia",
+      "title": "Cristiano, um gigante que pendura as botas na seleção",
+      "summary": "Cumpridos 23 anos ao serviço da seleção nacional, Cristiano Ronaldo despede-se dos relvados, pelo menos em representação da equipa das &#039;quinas&#039;, 234 jogos e 146 golos depois. O capitão da formação portuguesa liderou o balneário na conquista do Europeu e de dois troféus da Liga das Nações, ",
       "source": "RTP",
-      "date": "Thu, 05 Nov 2026 18:31:04 +0000",
-      "url": "https://www.rtp.pt/noticias/desporto/sl-benfica-lech-poznan_e1777203",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/25/25bf6cff499c0c1579771eab9c66937d?w=350&amp;q=50&amp;rect=0,129,1246,683&amp;auto=format",
+      "date": "Thu, 05 Nov 2026 20:51:15 +0000",
+      "url": "https://www.rtp.pt/noticias/selecao-nacional/cristiano-um-gigante-que-pendura-as-botas-na-selecao_d1777208",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/49/49aad2c63e81a0f963ed825909016737?w=350&amp;q=50&amp;rect=0,120,1024,561&amp;auto=format",
       "score": 0.73
     },
     {
-      "id": "ae0a6a42",
+      "id": "42a3aeda",
       "cat": "tecnologia",
-      "title": "Wall Street afunda com vitória democrata nas intercalares a ameaçar ‘boom’ da IA",
-      "summary": "Os principais índices de Wall Street estão a atravessar uma sessão de forte turbulência esta quinta-feira, com as ações tecnológicas a liderarem uma onda de vendas que já se estende aos restantes mercados norte-americanos. Os receios de que a vitória expressiva dos democratas nas eleições intercalar",
+      "title": "AD devolve acusação de “intransigência” a Carneiro. “É mais fácil dizer não do que trabalhar”",
+      "summary": "Os líderes parlamentares da AD devolveram ao PS as acusações de intransigência em matéria de habitação, com o social-democrata Hugo Soares a acusar os socialistas de tentarem negar a realidade. &#8220;É mais fácil dizer não do que trabalhar numa solução&#8221;, afirmou o presidente da bancada do PSD",
       "source": "ECO",
-      "date": "Thu, 05 Nov 2026 19:43:38 +0000",
-      "url": "https://eco.sapo.pt/2026/11/05/wall-street-afunda-com-vitoria-democrata-nas-intercalares-a-ameacar-boom-da-ia/",
-      "img": "https://eco.imgix.net/uploads/2022/05/cropped-cropped-bolsas_cair_wall_street-2.jpg",
+      "date": "Thu, 05 Nov 2026 22:07:01 +0000",
+      "url": "https://eco.sapo.pt/2026/11/05/ad-devolve-acusacao-de-intransigencia-a-carneiro-e-mais-facil-dizer-nao-do-que-trabalhar/",
+      "img": "https://eco.imgix.net/uploads/2026/11/cropped-48077155-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "2dc0fd28",
+      "id": "05518f5a",
       "cat": "tecnologia",
-      "title": "Lucro da EDP sobe 22% para 1,19 mil milhões de euros até setembro",
-      "summary": "Depois de a subsidiária de energias limpas do grupo EDP ter anunciado lucros quatro vezes superiores aos dos primeiros nove meses do ano anterior, a casa-mãe divulgou que o seu resultado líquido subiu 22% para 1,91 mil milhões de euros até setembro, face ao mesmo período do ano passado. (Notícia em ",
+      "title": "Depois do ‘tsunami azul’, veio o tombo de Wall Street. Pior dia desde “ofensiva” tarifária de Trump",
+      "summary": "A vitória dos democratas nas eleições intercalares animou na quarta-feira os principais índices norte-americanos, com o industrial Dow Jones a registar a melhor sessão desde 9 de abril de 2025. No entanto, bastou apenas um dia para que o &#8220;tsunami azul&#8221; fizesse tombar Wall Street, devido ",
       "source": "ECO",
-      "date": "Thu, 05 Nov 2026 19:37:41 +0000",
-      "url": "https://eco.sapo.pt/2026/11/05/lucro-da-edp-sobe-22-para-119-mil-milhoes-de-euros-ate-setembro/",
-      "img": "https://eco.imgix.net/uploads/2021/04/cropped-miguel-stilwell-dandrade-edp-2-2.jpg",
+      "date": "Thu, 05 Nov 2026 21:36:19 +0000",
+      "url": "https://eco.sapo.pt/2026/11/05/depois-do-tsunami-azul-veio-o-tombo-de-wall-street-pior-dia-desde-ofensiva-tarifaria-de-trump/",
+      "img": "https://eco.imgix.net/uploads/2025/08/cropped-doc-20200309-28403629-08281134.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "73ba8514",
+      "cat": "tecnologia",
+      "title": "Auditoria à RTP confirma 12,25 milhões em subsídios sem suporte legal",
+      "summary": "Entre 2018 e 2024, a RTP atribuiu e pagou cerca de 12,25 milhões de euros em subsídios sem previsão no Acordo de Empresa e sem suporte legal ou evidência de autorização prévia do acionista. A situação é suscetível de configurar infrações financeiras, cuja eventual responsabilidade deverá ser apurada",
+      "source": "ECO",
+      "date": "Thu, 05 Nov 2026 20:29:15 +0000",
+      "url": "https://eco.sapo.pt/2026/11/05/auditoria-a-rtp-confirma-1225-milhoes-em-subsidios-sem-suporte-legal/",
+      "img": "https://eco.imgix.net/uploads/2024/10/cropped-doc-20241008-43694692-_ps08189.jpg",
       "score": 0.73
     },
     {
@@ -256,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "968040bf",
+      "cat": "tecnologia",
+      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+      "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+      "source": "BBC News",
+      "date": "Fri, 06 Nov 2026 01:22:39 GMT",
+      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dca/live/cb01af10-d8ed-11f1-b7ca-cbaa67b24b8c.jpg",
+      "score": 0.73
+    },
+    {
       "id": "20d5764e",
       "cat": "tecnologia",
       "title": "William meets firefighters who tackled summer blazes",
@@ -264,17 +253,6 @@
       "date": "Wed, 04 Nov 2026 11:35:08 GMT",
       "url": "https://www.bbc.co.uk/news/videos/c94g1m232pgyo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1086/live/00a5b650-d841-11f1-93e1-3b657b665bcf.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "61b5a299",
-      "cat": "ambiente",
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-      "source": "BBC News",
-      "date": "Wed, 04 Nov 2026 06:11:43 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/a1474180-d7da-11f1-8cb0-d304936875f3.png",
       "score": 0.73
     },
     {
@@ -289,25 +267,36 @@
       "score": 0.73
     },
     {
-      "id": "09b98872",
+      "id": "f756d76d",
       "cat": "tecnologia",
-      "title": "Tempestade Bruna chega domingo com vento e chuva intensa",
-      "summary": "O IPMA oficializou a tempestade Bruna, que afeta já Açores e Madeira e chega ao continente domingo. Vários distritos já estão sob aviso amarelo desde esta sexta-feira.",
-      "source": "Observador",
-      "date": "Thu, 05 Nov 2026 18:52:27 +0000",
-      "url": "https://observador.pt/2026/11/05/bruna-ipma-confirma-tempestade-e-admite-mais-de-200-mm-de-chuva-modelos-chegam-aos-300-mm-e-o-atlantico-prepara-novas-ameacas/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1660:932:nowe:90:90/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/05184546/captura-de-ecra-2026-11-05-as-184419.jpg",
+      "title": "Assobiem para o lado. Não aconteceu nada",
+      "summary": "A ignomínia destas semanas foi longa e perversa. Não é a perorar sobre a lei dos solos, o IVA da construção ou o IMT jovem que se restabelece a confiança no Estado de direito. Opinião de Susana Peralta",
+      "source": "Público",
+      "date": "Fri, 06 Nov 2026 00:15:00 GMT",
+      "url": "https://www.publico.pt/2026/11/06/opiniao/opiniao/assobiem-lado-nao-aconteceu-nada-2193951",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "851ec71a",
+      "id": "f99d4093",
       "cat": "tecnologia",
-      "title": "CGD. \"Sem garantia pública tínhamos mais gente acampada\"",
-      "summary": "Paulo Macedo admite que aumento dos preços \"não é normal\" mas deve-se a \"ter entrado um milhão de pessoas no país em poucos anos\". E sem garantia pública \"havia mais gente acampada\", diz.",
-      "source": "Observador",
-      "date": "Thu, 05 Nov 2026 18:46:31 +0000",
-      "url": "https://observador.pt/2026/11/05/sem-a-garantia-publica-aos-jovens-tinhamos-mais-gente-acampada-diz-paulo-macedo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2297:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/07/30185118/ilacerda-apresentacao-resultados-cgd-20-scaled.jpg",
+      "title": "A direita de que a esquerda gosta",
+      "summary": "Alguém acha que, se de facto houver nova lei, será uma lei minimamente parecida com a que o Governo queria aprovar? Esta direita é que me parece a direita de que a esquerda gosta. Opinião de Francisco Mendes da Silva",
+      "source": "Público",
+      "date": "Fri, 06 Nov 2026 00:15:00 GMT",
+      "url": "https://www.publico.pt/2026/11/06/opiniao/opiniao/direita-esquerda-gosta-2193957",
+      "img": null,
+      "score": 0.7
+    },
+    {
+      "id": "9de22aec",
+      "cat": "tecnologia",
+      "title": "Entrar, resolver e sair",
+      "summary": "Resolveu-se em 10 minutos o que me tinha dado cabo da cabeça durante 10 horas. Estas profissões têm de ser ardentemente protegidas. Crónica de Miguel Esteves Cardoso",
+      "source": "Público",
+      "date": "Fri, 06 Nov 2026 00:03:00 GMT",
+      "url": "https://www.publico.pt/2026/11/06/opiniao/cronica/entrar-resolver-sair-2193857",
+      "img": null,
       "score": 0.7
     },
     {
@@ -330,6 +319,17 @@
       "date": "Tue, 09 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
+      "score": 0.7
+    },
+    {
+      "id": "65bd0b13",
+      "cat": "tecnologia",
+      "title": "\"Chegou o momento de devolver a camisola 7 da seleção\". As reações à saída de Ronaldo",
+      "summary": "Cristiano Ronaldo despediu-se da Seleção Nacional esta quinta-feira, um dia antes da convocatória de Jorge Jesus. Após toda a polémica que envolveu o capitão e o selecionador, há uma resposta: CR7 não voltará à seleção. Ainda a cumprir castigo por abandonar o estágio, Cristiano recorreu às redes soc",
+      "source": "RTP",
+      "date": "Thu, 05 Nov 2026 21:39:29 +0000",
+      "url": "https://www.rtp.pt/noticias/desporto/chegou-o-momento-de-devolver-a-camisola-7-da-selecao-as-reacoes-a-saida-de-ronaldo_e1777050",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2e20f5c42a478ddbfd7afa21780ee499.jpg?w=350&amp;q=50&amp;auto=format",
       "score": 0.7
     }
   ]
