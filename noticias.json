@@ -1,5 +1,5 @@
 {
-  "last_update": "07/11/2026 12:49 UTC",
+  "last_update": "07/11/2026 21:42 UTC",
   "total": 30,
   "news": [
     {
@@ -36,17 +36,6 @@
       "score": 0.82
     },
     {
-      "id": "19538d78",
-      "cat": "ambiente",
-      "title": "O regresso do castor a Portugal: Rewilding quer preparar ribeiras do Douro",
-      "summary": "Após a confirmação da presença do castor em Portugal, a Rewilding Portugal quer restaurar três ribeiras do Douro Internacional e preparar habitat para a expansão natural da espécie.",
-      "source": "Público",
-      "date": "Sat, 07 Nov 2026 10:03:00 GMT",
-      "url": "https://www.publico.pt/2026/11/07/azul/noticia/regresso-castor-portugal-rewilding-quer-preparar-ribeiras-douro-2193994",
-      "img": null,
-      "score": 0.79
-    },
-    {
       "id": "31a493cf",
       "cat": "tecnologia",
       "title": "Querem demagogia ou mais casas?",
@@ -69,25 +58,25 @@
       "score": 0.79
     },
     {
-      "id": "5e55ad67",
+      "id": "ab781bde",
       "cat": "tecnologia",
-      "title": "OE. Partidos sugerem mais de 2.800 propostas de alteração",
-      "summary": "O Chega, que avançou com 712 propostas e o PCP, com 653, foram os partidos que mais alterações apresentaram ao OE2027. Este ano, os pedidos de alteração atingiram um número recorde.",
-      "source": "Observador",
-      "date": "Sat, 07 Nov 2026 11:46:50 +0000",
-      "url": "https://observador.pt/2026/11/07/orcamento-de-estado-de-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/08153639/47905631.jpg",
+      "title": "Pressmedia celebra 25 anos com travessia do Atlântico para aliar-se à Tamer no Brasil",
+      "summary": "No mês em que comemora as bodas de prata, a agência portuense de relações públicas e assessoria de imprensa firma com a sua congénere paulista uma parceria estratégica assente na reciprocidade de atuação, num modelo que se estende a outros mercados europeus e latino-americanos.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 07 Nov 2026 17:08:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/pressmedia-celebra-25-anos-com-travessia-do-atlantico-para-aliar-se-a-tamer-no-brasil",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-07-17-04-24-532601.png",
       "score": 0.76
     },
     {
-      "id": "52adf90e",
+      "id": "a92ea10c",
       "cat": "tecnologia",
-      "title": "EUA apelam à China para que cumpra acordo de trégua comercial",
-      "summary": "O secretário das Finanças norte-americano, durante uma conversação com o seu homólogo e vice-primeiro-ministro chinês, \"sublinhou a importância para a China de aplicar total e plenamente os compromissos assumidos em Busan\", na Coreia do Sul, em outubro de 2025.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 07 Nov 2026 08:57:01 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/eua-apelam-a-china-para-que-cumpra-acordo-de-tregua-comercial",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-07-29-29-529678.jpg",
+      "title": "Norris conquista pole no Brasil após qualificação interrompida pela chuva",
+      "summary": "O britânico Lando Norris (McLaren) conquistou hoje a pole position para o Grande Prémio do Brasil de Fórmula 1, 20.ª ronda da temporada, numa qualificação interrompida durante mais de uma hora devido à chuva intensa em Interlagos.",
+      "source": "RTP",
+      "date": "Sat, 07 Nov 2026 21:15:24 +0000",
+      "url": "https://www.rtp.pt/noticias/motores/norris-conquista-pole-no-brasil-apos-qualificacao-interrompida-pela-chuva_d1777652",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bfe3aba88a8930d9518710b026970f3b?w=350&amp;q=50&amp;rect=0,73,1233,676&amp;auto=format",
       "score": 0.76
     },
     {
@@ -99,17 +88,6 @@
       "date": "Fri, 06 Nov 2026 21:16:55 +0000",
       "url": "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/A-drone-image-of-the-site-of-the-Bronze-Age-Lordenshaw-Hill-Fort-credit-The-Wildlife-Trusts-©.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "87ce1ef4",
-      "cat": "tecnologia",
-      "title": "Seabirds See Miracle Recovery After Avian Flu Wiped Them Out",
-      "summary": "Thanks to dedicated conservation efforts, sandwich terns have reclaimed a colony England’s south coast 3 years after they were wiped out by avian flu. Today, in what seems like a miracle, the birds have multiplied from 0 to 756. In addition to the sandwich terns, little terns, ringed plovers, black-",
-      "source": "Good News Network",
-      "date": "Thu, 05 Nov 2026 12:00:52 +0000",
-      "url": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-David-Kinchin-Smith-RSPB.jpg",
       "score": 0.76
     },
     {
@@ -146,36 +124,58 @@
       "score": 0.76
     },
     {
-      "id": "631ca5a4",
-      "cat": "saude",
-      "title": "O que é o herpes zoster, também conhecido como zona?",
-      "summary": "Incapacitante e muitas vezes subvalorizada, a doença provocada pelo vírus varicela-zoster provoca dores que podem durar anos. Já há uma vacina recomendada – mas não é comparticipada pelo SNS.",
-      "source": "Observador",
-      "date": "Sat, 07 Nov 2026 11:56:43 +0000",
-      "url": "https://observador.pt/especiais/o-que-e-a-zona-15-perguntas-sobre-a-doenca-que-se-manifesta-na-pele-e-pode-provocar-dor-durante-anos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2121:1192:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06170735/istock-972176820.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "635ecb18",
+      "id": "a06957a7",
       "cat": "tecnologia",
-      "title": "Depois do susto com IA na bolsa, ING tenta desfazer-se de 500 milhões em crédito a centros de dados",
-      "summary": "A venda da carteira de crédito surge depois da forte queda das tecnológicas em Wall Street na quinta-feira, com os investidores a temer que a vitória democrata nas intercalares trave projetos de inteligência artificial.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 07 Nov 2026 10:00:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/depois-do-susto-com-ia-na-bolsa-ing-tenta-vender-500-milhoes-em-credito-a-centros-de-dados",
-      "img": "https://cdn.jornaldenegocios.pt/images/2012-08/img_100x100uu2012-08-01-11-30-44-45293.jpg",
+      "title": "Vitória democrata é o mais recente teste ao entusiasmo dos mercados com a IA",
+      "summary": "Poderão os democratas fazer rebentar a bolha da IA que vários analistas alertam existir nas bolsas? A pergunta deverá continuar a pairar nos mercados nas próximas semanas.",
+      "source": "Público",
+      "date": "Sat, 07 Nov 2026 19:28:00 GMT",
+      "url": "https://www.publico.pt/2026/11/07/economia/noticia/vitoria-democrata-recente-teste-entusiasmo-mercados-ia-2194169",
+      "img": null,
       "score": 0.73
     },
     {
-      "id": "ef460405",
-      "cat": "cultura",
-      "title": "China confirma discussões em curso sobre encontro histórico entre Xi, Trump e Putin",
-      "summary": "Mao Ning, porta-voz do Ministério dos Negócios Estrangeiros da China, referiu numa conferência de imprensa esta semana, em Pequim, que a China \"está em contacto com as partes relevantes a propósito de uma reunião entre os três chefes de Estado\".",
+      "id": "8884f28d",
+      "cat": "tecnologia",
+      "title": "Trocas de liderança animam primeiro dia do Eco Rally de Fafe",
+      "summary": "Seis mudanças no comando da classificação em apenas oito especiais marcaram o arranque da derradeira prova do Campeonato de Portugal de Novas Energias – PRIO.",
+      "source": "Público",
+      "date": "Sat, 07 Nov 2026 19:27:33 GMT",
+      "url": "https://www.publico.pt/2026/11/07/enter/noticia/trocas-lideranca-animam-dia-eco-rally-fafe-2194168",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "7b108bd9",
+      "cat": "tecnologia",
+      "title": "Márquez a um passo do 10.º título mundial",
+      "summary": "Vitória de Marc Márquez na sprint do GP do Qatar apertou o cerco a Martín. O espanhol precisa de ganhar a corrida de domingo e esperar que o rival não pontue.",
+      "source": "Observador",
+      "date": "Sat, 07 Nov 2026 19:17:50 +0000",
+      "url": "https://observador.pt/2026/11/07/marquez-vence-sprint-no-qatar-e-pode-conquistar-titulo-no-domingo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07180233/48086033.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "9bb6468b",
+      "cat": "tecnologia",
+      "title": "Marcolino faz 100 anos com 200 mil luzes e um investimento de 16 milhões",
+      "summary": "A fachada do imponente edifício da relojoaria de luxo, no Porto, vai este Natal brilhar com 20 quilómetros de fios luminosos, enquanto a família Neves se prepara para converter o edifício gémeo do icónico Café Majestic, em frente à sede, numa nova loja e apartamentos de luxo.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 07 Nov 2026 08:59:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/china-confirma-discussoes-em-curso-sobre-encontro-historico-entre-xi-trump-e-putin",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-08/img_100x100uu2025-08-15-22-07-22-507508.jpg",
+      "date": "Sat, 07 Nov 2026 18:58:04 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/marcolino-faz-100-anos-com-200-mil-luzes-e-um-investimento-de-16-milhoes",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-07-18-53-07-532605.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "be893b71",
+      "cat": "tecnologia",
+      "title": "Espanhol ou neerlandês, \"dovish\" ou \"hawkish\"? Saiba quem são os candidatos à sucessão de Lagarde",
+      "summary": "O sucessor de Christine Lagarde na presidência do BCE será escolhido entre espanhol Pablo Hernández de Cos ou o neerlandês Klaas Knot. De um lado, o espanhol Pablo de Cos, com uma visão mais flexível para a política monetária da instituição. Do outro, o neerlandês Klaas Knot, com uma postura mais re",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 07 Nov 2026 17:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/europa/detalhe/espanhol-ou-neerlandes-dovish-ou-hawkish-saiba-quem-sao-os-candidatos-a-sucessao-de-lagarde",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-01/img_100x100uu2023-01-22-19-16-15-444873.jpg",
       "score": 0.73
     },
     {
@@ -190,36 +190,47 @@
       "score": 0.73
     },
     {
-      "id": "718fcb6f",
-      "cat": "desporto",
-      "title": "Vasco Peso sagra-se campeão do mundo de tumbling na China",
-      "summary": "O português, que é o campeão da Europa em título, conseguiu esta proeza em Nanjing, na China.",
-      "source": "RTP",
-      "date": "Sat, 07 Nov 2026 10:37:50 +0000",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/vasco-peso-sagra-se-campeao-do-mundo-de-tumbling-na-china_d1777572",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7dd751629cc01510d7b5db9b6ba166c1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "e04c7e55",
-      "cat": "cultura",
-      "title": "II Liga. AVS recupera de desvantagem de dois golos e empata com o Vizela",
-      "summary": "O AVS empatou hoje 2-2 com o Vizela, em partida inaugural da décima jornada da II Liga portuguesa de futebol, com uma recuperação de dois golos na segunda parte.",
-      "source": "RTP",
-      "date": "Fri, 06 Nov 2026 21:10:13 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-avs-recupera-de-desvantagem-de-dois-golos-e-empata-com-o-vizela_d1777522",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/15/15b051a1447791eb94e31d038d7c602b?w=350&amp;q=50&amp;rect=0,0,1254,688&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "372f0a34",
+      "id": "0305737a",
       "cat": "tecnologia",
-      "title": "China confirma discussões sobre encontro histórico entre Xi, Trump e Putin",
-      "summary": "Pequim confirmou, pela primeira vez, que está a discutir um encontro histórico entre o líder chinês Xi Jinping, o Presidente norte-americano, Donald Trump, e o Presidente russo, Vladimir Putin. Mao Ning, porta-voz do Ministério dos Negócios Estrangeiros da China, referiu numa conferência de imprensa",
+      "title": "Seleção de râguebi vence Chile com ponto de bónus na Nations Cup",
+      "summary": "A seleção portuguesa de râguebi venceu hoje o Chile (36-15), na quarta jornada da Nations Cup, e manteve-se a dois pontos da Geórgia graças ao ponto de bónus ofensivo conquistado no Estádio do Restelo, em Lisboa.",
+      "source": "RTP",
+      "date": "Sat, 07 Nov 2026 18:33:54 +0000",
+      "url": "https://www.rtp.pt/noticias/raguebi/selecao-de-raguebi-vence-chile-com-ponto-de-bonus-na-nations-cup_d1777636",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c37e3bbb1a0458315f70ea9e9b0e52e4?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "82802594",
+      "cat": "tecnologia",
+      "title": "Bayern e Dortmund vencem e prosseguem braço-de-ferro no topo da Liga alemã",
+      "summary": "O bicampeão Bayern Munique e o rival Borussia Dortmund prosseguiram hoje o braço-de-ferro na liderança da Liga alemã de futebol, ao vencerem na nona jornada pelo mesmo resultado (2-1), no estádio do Mainz e na receção ao Elversberg.",
+      "source": "RTP",
+      "date": "Sat, 07 Nov 2026 18:05:06 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/bayern-e-dortmund-vencem-e-prosseguem-braco-de-ferro-no-topo-da-liga-alema_d1777633",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ecc9bb79a86551dcd33277de0e770a12?w=350&amp;q=50&amp;rect=0,27,1293,709&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "c6ec9322",
+      "cat": "tecnologia",
+      "title": "M&A abranda, mas não trava: geopolítica torna investidores mais seletivos",
+      "summary": "No mercado português de M&#38;A foram concretizadas 327 operações, num valor total de 5,3 mil milhões de euros, nos primeiros oito meses do ano, segundo dados da TTR Data. Estes números representam uma queda de 27% no número de transações em comparação com o mesmo período de 2025, tal como uma dimin",
       "source": "ECO",
-      "date": "Sat, 07 Nov 2026 08:44:21 +0000",
-      "url": "https://eco.sapo.pt/2026/11/07/china-confirma-discussoes-sobre-encontro-historico-entre-xi-trump-e-putin/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-47826205-scaled-3.jpg",
+      "date": "Sat, 07 Nov 2026 17:02:14 +0000",
+      "url": "https://eco.sapo.pt/especiais/ma-abranda-mas-nao-trava-geopolitica-torna-investidores-mais-seletivos/",
+      "img": "https://eco.imgix.net/uploads/2019/07/cropped-fusoes-e-aquisicoes-2.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "04dae1e2",
+      "cat": "cultura",
+      "title": "Baby Saved After Racing Heartbeat Detected by Family Doberman",
+      "summary": "A baby’s life was likely saved after his racing heartbeat was detected by the family dog—that wouldn&#8217;t stop crying. Kim Reynolds was confounded by her doberman&#8217;s unusual “needy” behavior around six-month-old Alexander. Saraya wouldn&#8217;t leave the baby&#8217;s side and cried every tim",
+      "source": "Good News Network",
+      "date": "Sat, 07 Nov 2026 16:58:40 +0000",
+      "url": "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Alexander-with-doberman-who-saved-his-life-SWNS.jpeg",
       "score": 0.73
     },
     {
@@ -267,36 +278,36 @@
       "score": 0.73
     },
     {
-      "id": "72d01b59",
+      "id": "1d679ff4",
       "cat": "tecnologia",
-      "title": "Apoios à compra de carros eléctricos: tudo o que importa saber",
-      "summary": "Este episódio é dedicado a tirar dúvidas sobre os novos apoios à compra de veículos eléctricos anunciados pelo Governo. Para quem tem tarifa social, o carro poderá ser quase gratuito.",
+      "title": "Para Zabiri, o futuro não era uma questão de bazófia",
+      "summary": "Ficar no clube a ganhar espaço ou ir à selecção sub-20? O Famalicão tinha dúvidas, mas Zabiri não. O jogador ganhou a aposta e é, hoje, dos melhores marcadores da Liga espanhola.",
       "source": "Público",
-      "date": "Sat, 07 Nov 2026 11:10:00 GMT",
-      "url": "https://www.publico.pt/2026/11/07/enter/podcast/apoios-compra-carros-electricos-importa-saber-2194071",
+      "date": "Sat, 07 Nov 2026 20:32:08 GMT",
+      "url": "https://www.publico.pt/2026/11/07/desporto/noticia/zabiri-futuro-nao-questao-bazofia-2194174",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "3403ce0d",
-      "cat": "cultura",
-      "title": "Passe o artigo pelo leitor",
-      "summary": "Sempre que escutamos a máquina a dizer “passe o artigo pelo leitor”, pensamos em textos e pessoas, não em produtos e scanners . E apetece virar a frase ao contrário. Passe o leitor pelo artigo. Crónica de Rita Pimenta",
-      "source": "Público",
-      "date": "Sat, 07 Nov 2026 10:18:12 GMT",
-      "url": "https://www.publico.pt/2026/11/07/impar/cronica/passe-artigo-leitor-2194129",
-      "img": null,
-      "score": 0.7
-    },
-    {
-      "id": "f70f2c79",
-      "cat": "tecnologia",
-      "title": "Será que Paulo Fonseca consegue ressuscitar os leões?",
-      "summary": "A estreia do novo treinador em Alvalade promete devolver a estabilidade defensiva e a luta pelo título ao Sporting. Em sentido oposto, o adeus do Cristiano Ronaldo continua a agitar adeptos e não só.",
+      "id": "61bcce75",
+      "cat": "geral",
+      "title": "Seguro e Guterres: \"Falámos de tudo o que se passa no mundo\"",
+      "summary": "O mandato de Guterres à frente da ONU termina este ano. Seguro destaca o Pacto para o Futuro e o esforço pela igualdade de género como marcas do seu legado, após encontro entre os dois em Belém.",
       "source": "Observador",
-      "date": "Sat, 07 Nov 2026 12:18:37 +0000",
-      "url": "https://observador.pt/programas/e-o-campeao-e/sera-que-paulo-fonseca-consegue-ressuscitar-os-leoes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
+      "date": "Sat, 07 Nov 2026 21:15:49 +0000",
+      "url": "https://observador.pt/2026/11/07/presidente-da-republica-e-guterres-reuniram-se-em-belem-falamos-de-tudo-o-que-se-passa-no-mundo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07205923/48087534.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "096dd8a4",
+      "cat": "tecnologia",
+      "title": "250 mil manifestantes na rua pelo quarto sábado consecutivo",
+      "summary": "Protestos foram convocados por sindicatos e estudantes, mas tiveram menos adesão que os anteriores. Manifestações decorreram sem incidentes, mas, no final, registaram-se confrontos com a polícia.",
+      "source": "Observador",
+      "date": "Sat, 07 Nov 2026 20:58:06 +0000",
+      "url": "https://observador.pt/2026/11/07/dois-dias-depois-da-greve-geral-250-mil-manifestantes-saem-as-ruas-de-franca-pelo-quarto-sabado-consecutivo/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:210/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07200234/48086716.jpg",
       "score": 0.7
     },
     {
@@ -319,17 +330,6 @@
       "date": "Tue, 09 Jan 2024 07:30:00 Z",
       "url": "https://www.tsf.pt/portugal/cultura/dancar-com-voz-os-sons-do-corpo-17627520.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=c60ff793-efb2-4627-b086-918048a763aa&w=600&h=232&t=20240201072011",
-      "score": 0.7
-    },
-    {
-      "id": "12db3044",
-      "cat": "tecnologia",
-      "title": "Portugal perde com a Espanha nos penáltis e falha final da Finalíssima de futsal",
-      "summary": "A seleção portuguesa de futsal falhou hoje a presença na final da Finalíssima, ao perder com a Espanha no desempate por grande penalidades, por 8-7, depois do empate 2-2 no tempo regulamentar, nas meias-finais da competição, no Brasil.",
-      "source": "RTP",
-      "date": "Sat, 07 Nov 2026 00:39:50 +0000",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-perde-com-a-espanha-nos-penaltis-e-falha-final-da-finalissima-de-futsal_d1777541",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
       "score": 0.7
     }
   ]
