@@ -1,5 +1,5 @@
 {
-  "last_update": "07/11/2026 05:40 UTC",
+  "last_update": "07/11/2026 12:49 UTC",
   "total": 30,
   "news": [
     {
@@ -36,6 +36,28 @@
       "score": 0.82
     },
     {
+      "id": "19538d78",
+      "cat": "ambiente",
+      "title": "O regresso do castor a Portugal: Rewilding quer preparar ribeiras do Douro",
+      "summary": "Após a confirmação da presença do castor em Portugal, a Rewilding Portugal quer restaurar três ribeiras do Douro Internacional e preparar habitat para a expansão natural da espécie.",
+      "source": "Público",
+      "date": "Sat, 07 Nov 2026 10:03:00 GMT",
+      "url": "https://www.publico.pt/2026/11/07/azul/noticia/regresso-castor-portugal-rewilding-quer-preparar-ribeiras-douro-2193994",
+      "img": null,
+      "score": 0.79
+    },
+    {
+      "id": "31a493cf",
+      "cat": "tecnologia",
+      "title": "Querem demagogia ou mais casas?",
+      "summary": "As manifestações pelo acesso à habitação, a que a repressão policial deu ainda mais projeção e força, já tiveram uma vitória: puseram o primeiro-ministro a falar ao país à hora solene das 20h00 e a convocar uma reunião com o Partido Socialista e o Chega para tentar chegar a acordo sobre novas medida",
+      "source": "ECO",
+      "date": "Sat, 07 Nov 2026 11:00:20 +0000",
+      "url": "https://eco.sapo.pt/opiniao/querem-demagogia-ou-mais-casas/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2021/06/andre-verissimo-opiniao-01-01-versao-final-01.png",
+      "score": 0.79
+    },
+    {
       "id": "be209d1e",
       "cat": "sociedade",
       "title": "Geothermal Utilities Power Wave of US Affordable Housing with 40% Energy Savings",
@@ -47,58 +69,25 @@
       "score": 0.79
     },
     {
-      "id": "41434176",
+      "id": "5e55ad67",
       "cat": "tecnologia",
-      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
-      "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced",
-      "source": "ScienceDaily",
-      "date": "Wed, 04 Nov 2026 01:57:06 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
-      "img": "https://www.sciencedaily.com/images/1920/weight-loss-molecule-fit-woman.webp",
-      "score": 0.79
+      "title": "OE. Partidos sugerem mais de 2.800 propostas de alteração",
+      "summary": "O Chega, que avançou com 712 propostas e o PCP, com 653, foram os partidos que mais alterações apresentaram ao OE2027. Este ano, os pedidos de alteração atingiram um número recorde.",
+      "source": "Observador",
+      "date": "Sat, 07 Nov 2026 11:46:50 +0000",
+      "url": "https://observador.pt/2026/11/07/orcamento-de-estado-de-2027-partidos-entregaram-mais-de-2-800-propostas-de-alteracao/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:105/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/08153639/47905631.jpg",
+      "score": 0.76
     },
     {
-      "id": "d1a29e44",
-      "cat": "ciencia",
-      "title": "Scientists discover that a clogged filter could revolutionize oil refining",
-      "summary": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentia",
-      "source": "ScienceDaily",
-      "date": "Thu, 05 Nov 2026 09:04:07 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-      "img": "https://www.sciencedaily.com/images/1920/membrane-technolog-separates-crude-oil-without-boiling.webp",
-      "score": 0.79
-    },
-    {
-      "id": "7578cdbc",
+      "id": "52adf90e",
       "cat": "tecnologia",
-      "title": "Wall Street em terreno misto com recuperação das tecnológicas. Nasdaq sobe mais de 1%",
-      "summary": "As fabricantes de chips puxaram por Wall Street após o tombo de quinta-feira, mas os fortes dados do emprego \"praticamente garantem uma subida dos juros em dezembro\" e há quem duvide de que a recuperação das tecnológicas continue.",
+      "title": "EUA apelam à China para que cumpra acordo de trégua comercial",
+      "summary": "O secretário das Finanças norte-americano, durante uma conversação com o seu homólogo e vice-primeiro-ministro chinês, \"sublinhou a importância para a China de aplicar total e plenamente os compromissos assumidos em Busan\", na Coreia do Sul, em outubro de 2025.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 06 Nov 2026 21:10:40 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-em-terreno-misto-com-recuperacao-das-tecnologicas-nasdaq-sobe-mais-de-1",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-06-20-29-09-532589.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "9b6ba53c",
-      "cat": "tecnologia",
-      "title": "Partidos apresentam 2.847 propostas de alteração ao Orçamento. Novo máximo histórico",
-      "summary": "Os partidos entregaram 2.847 propostas de alteração ao Orçamento do Estado para 2027 (OE2027), um novo máximo histórico, de acordo com a informação disponível no site da Assembleia da República às 21h30, prazo limite para a submissão dos documentos na plataforma. No ano passado, o número de medidas ",
-      "source": "ECO",
-      "date": "Fri, 06 Nov 2026 21:50:26 +0000",
-      "url": "https://eco.sapo.pt/2026/11/06/partidos-apresentam-2-847-propostas-de-alteracao-ao-orcamento-novo-maximo-historico/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-eco-oe2027-27out-2000px-014.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "1dee2903",
-      "cat": "ciencia",
-      "title": "Demissões em série no Departamento da Justiça dos EUA",
-      "summary": "O ministro da Justiça dos Estados Unidos, Todd Blanche, aceitou as demissões de vários altos cargos, incluindo da sua adjunta responsável pelos direitos civis e de um procurador encarregado de uma investigação sobre personalidades acusadas por Donald Trump de conspirarem contra o Presidente dos Esta",
-      "source": "ECO",
-      "date": "Fri, 06 Nov 2026 21:16:08 +0000",
-      "url": "https://eco.sapo.pt/2026/11/06/demissoes-em-serie-no-departamento-da-justica-dos-eua/",
-      "img": "https://eco.imgix.net/uploads/2026/11/cropped-47863744-scaled-1.jpg",
+      "date": "Sat, 07 Nov 2026 08:57:01 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/eua-apelam-a-china-para-que-cumpra-acordo-de-tregua-comercial",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-18-07-29-29-529678.jpg",
       "score": 0.76
     },
     {
@@ -135,47 +124,58 @@
       "score": 0.76
     },
     {
-      "id": "7598fd29",
-      "cat": "tecnologia",
-      "title": "Bowen foi traída pela IA",
-      "summary": "Os pais defendem em tribunal que o ChatGPT substituiu progressivamente a orientação médica e induziu a filha a suspender um tratamento indispensável. Opinião de Francisco Teixeira da Mota",
-      "source": "Público",
-      "date": "Sat, 07 Nov 2026 00:20:00 GMT",
-      "url": "https://www.publico.pt/2026/11/07/opiniao/opiniao/bowen-traida-ia-2193982",
-      "img": null,
+      "id": "665429f3",
+      "cat": "ciencia",
+      "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+      "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women",
+      "source": "ScienceDaily",
+      "date": "Thu, 05 Nov 2026 20:11:19 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+      "img": "https://www.sciencedaily.com/images/1920/cerebral-angiogram-brain-blood-vessels.webp",
+      "score": 0.76
+    },
+    {
+      "id": "df7d9d8b",
+      "cat": "ciencia",
+      "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+      "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional ma",
+      "source": "ScienceDaily",
+      "date": "Wed, 04 Nov 2026 05:43:44 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+      "img": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
+      "score": 0.76
+    },
+    {
+      "id": "631ca5a4",
+      "cat": "saude",
+      "title": "O que é o herpes zoster, também conhecido como zona?",
+      "summary": "Incapacitante e muitas vezes subvalorizada, a doença provocada pelo vírus varicela-zoster provoca dores que podem durar anos. Já há uma vacina recomendada – mas não é comparticipada pelo SNS.",
+      "source": "Observador",
+      "date": "Sat, 07 Nov 2026 11:56:43 +0000",
+      "url": "https://observador.pt/especiais/o-que-e-a-zona-15-perguntas-sobre-a-doenca-que-se-manifesta-na-pele-e-pode-provocar-dor-durante-anos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2121:1192:nowe:0:111/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/06170735/istock-972176820.jpg",
       "score": 0.73
     },
     {
-      "id": "dd03181f",
+      "id": "635ecb18",
       "cat": "tecnologia",
-      "title": "AD quer alargar garantia pública, Chega mais deduções e esquerda fim da renda moderada",
-      "summary": "Último dia para entrega de propostas de alteração ao Orçamento marcado pela habitação e a bater recordes. Esquerda quer fim da renda moderada de 2300 euros, Chega apostado em deduções fiscais.",
-      "source": "Público",
-      "date": "Fri, 06 Nov 2026 22:08:10 GMT",
-      "url": "https://www.publico.pt/2026/11/06/politica/noticia/ad-quer-alargar-garantia-publica-chega-deducoes-esquerda-fim-renda-moderada-2194114",
-      "img": null,
-      "score": 0.73
-    },
-    {
-      "id": "61137214",
-      "cat": "tecnologia",
-      "title": "Trump nomeia conselheiro Stephen Miller como chefe de gabinete da Casa Branca",
-      "summary": "Trata-se da primeira reestruturação no poder executivo norte-americano após a grande derrota sofrida pelo Partido Republicano nas eleições intercalares, interpretada como uma rejeição contundente dos dois primeiros anos do segundo mandato de Trump.",
+      "title": "Depois do susto com IA na bolsa, ING tenta desfazer-se de 500 milhões em crédito a centros de dados",
+      "summary": "A venda da carteira de crédito surge depois da forte queda das tecnológicas em Wall Street na quinta-feira, com os investidores a temer que a vitória democrata nas intercalares trave projetos de inteligência artificial.",
       "source": "Jornal de Negócios",
-      "date": "Fri, 06 Nov 2026 21:55:31 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-nomeia-conselheiro-stephen-miller-como-chefe-de-gabinete-da-casa-branca",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-06-21-53-00-532590.jpg",
+      "date": "Sat, 07 Nov 2026 10:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/depois-do-susto-com-ia-na-bolsa-ing-tenta-vender-500-milhoes-em-credito-a-centros-de-dados",
+      "img": "https://cdn.jornaldenegocios.pt/images/2012-08/img_100x100uu2012-08-01-11-30-44-45293.jpg",
       "score": 0.73
     },
     {
-      "id": "1672dfcc",
-      "cat": "tecnologia",
-      "title": "PS está disponível para construir \"solução\" para habitação mas com \"justiça social\"",
-      "summary": "Numa reação ao pedido do Presidente da República para que os partidos se entendessem sobre a habitação, o José Luís Carneiro respondeu que \"quem tem de repensar a proposta que levou à Assembleia da República é o Governo, o Chega e a Iniciativa Liberal\".",
+      "id": "ef460405",
+      "cat": "cultura",
+      "title": "China confirma discussões em curso sobre encontro histórico entre Xi, Trump e Putin",
+      "summary": "Mao Ning, porta-voz do Ministério dos Negócios Estrangeiros da China, referiu numa conferência de imprensa esta semana, em Pequim, que a China \"está em contacto com as partes relevantes a propósito de uma reunião entre os três chefes de Estado\".",
       "source": "Jornal de Negócios",
-      "date": "Fri, 06 Nov 2026 21:15:54 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ps-esta-disponivel-para-construir-solucao-para-habitacao-mas-com-justica-social",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-15-01-00-524387.jpg",
+      "date": "Sat, 07 Nov 2026 08:59:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/china-confirma-discussoes-em-curso-sobre-encontro-historico-entre-xi-trump-e-putin",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-08/img_100x100uu2025-08-15-22-07-22-507508.jpg",
       "score": 0.73
     },
     {
@@ -190,6 +190,17 @@
       "score": 0.73
     },
     {
+      "id": "718fcb6f",
+      "cat": "desporto",
+      "title": "Vasco Peso sagra-se campeão do mundo de tumbling na China",
+      "summary": "O português, que é o campeão da Europa em título, conseguiu esta proeza em Nanjing, na China.",
+      "source": "RTP",
+      "date": "Sat, 07 Nov 2026 10:37:50 +0000",
+      "url": "https://www.rtp.pt/noticias/outras-modalidades/vasco-peso-sagra-se-campeao-do-mundo-de-tumbling-na-china_d1777572",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7dd751629cc01510d7b5db9b6ba166c1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "e04c7e55",
       "cat": "cultura",
       "title": "II Liga. AVS recupera de desvantagem de dois golos e empata com o Vizela",
@@ -201,14 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "cdd44d81",
-      "cat": "economia",
-      "title": "Autarquia da Feira promete ajudar despedidos da fábrica de calçado Ecco a encontrar emprego",
-      "summary": "O presidente da Câmara Municipal de Santa Maria da Feira compromete-se a ajudar as 632 pessoas que trabalhavam na fábrica de calçado Ecco a encontrar novos empregos em empresas do concelho. O compromisso foi assumido por Amadeu Albergaria numa reunião com representantes do Sindicato do Calçado de Sã",
+      "id": "372f0a34",
+      "cat": "tecnologia",
+      "title": "China confirma discussões sobre encontro histórico entre Xi, Trump e Putin",
+      "summary": "Pequim confirmou, pela primeira vez, que está a discutir um encontro histórico entre o líder chinês Xi Jinping, o Presidente norte-americano, Donald Trump, e o Presidente russo, Vladimir Putin. Mao Ning, porta-voz do Ministério dos Negócios Estrangeiros da China, referiu numa conferência de imprensa",
       "source": "ECO",
-      "date": "Fri, 06 Nov 2026 19:23:25 +0000",
-      "url": "https://eco.sapo.pt/2026/11/06/autarquia-da-feira-promete-ajudar-despedidos-da-fabrica-de-calcado-ecco-a-encontrar-emprego/",
-      "img": "https://eco.imgix.net/uploads/2026/05/cropped-lancamento-estrategia-norte-2040-020.jpg",
+      "date": "Sat, 07 Nov 2026 08:44:21 +0000",
+      "url": "https://eco.sapo.pt/2026/11/07/china-confirma-discussoes-sobre-encontro-historico-entre-xi-trump-e-putin/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-47826205-scaled-3.jpg",
       "score": 0.73
     },
     {
@@ -256,47 +267,36 @@
       "score": 0.73
     },
     {
-      "id": "16d6a1b1",
+      "id": "72d01b59",
       "cat": "tecnologia",
-      "title": "Conselho de Redacção diz que Lusa está sem director de informação em funções desde a meia-noite",
-      "summary": "Conselho de Redacção da Lusa diz estar sem director de informação, algo que acontece “pela primeira vez na sua história”. CR atribui responsabilidades à administração e à ausência de parecer da ERC.",
+      "title": "Apoios à compra de carros eléctricos: tudo o que importa saber",
+      "summary": "Este episódio é dedicado a tirar dúvidas sobre os novos apoios à compra de veículos eléctricos anunciados pelo Governo. Para quem tem tarifa social, o carro poderá ser quase gratuito.",
       "source": "Público",
-      "date": "Sat, 07 Nov 2026 01:15:43 GMT",
-      "url": "https://www.publico.pt/2026/11/07/sociedade/noticia/conselho-redaccao-lusa-director-informacao-funcoes-desde-meianoite-2194126",
+      "date": "Sat, 07 Nov 2026 11:10:00 GMT",
+      "url": "https://www.publico.pt/2026/11/07/enter/podcast/apoios-compra-carros-electricos-importa-saber-2194071",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "eccbc3e2",
-      "cat": "tecnologia",
-      "title": "4h. Carneiro. Governo deve deixar renda moderada",
-      "summary": "Secretário geral do PS insiste que está disponível para construir soluções para habitação. Ainda, Fenprof acusa Governo de atropelar as regras da negociação coletiva",
-      "source": "Observador",
-      "date": "Sat, 07 Nov 2026 04:15:55 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2452/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "id": "3403ce0d",
+      "cat": "cultura",
+      "title": "Passe o artigo pelo leitor",
+      "summary": "Sempre que escutamos a máquina a dizer “passe o artigo pelo leitor”, pensamos em textos e pessoas, não em produtos e scanners . E apetece virar a frase ao contrário. Passe o leitor pelo artigo. Crónica de Rita Pimenta",
+      "source": "Público",
+      "date": "Sat, 07 Nov 2026 10:18:12 GMT",
+      "url": "https://www.publico.pt/2026/11/07/impar/cronica/passe-artigo-leitor-2194129",
+      "img": null,
       "score": 0.7
     },
     {
-      "id": "51d5204f",
+      "id": "f70f2c79",
       "cat": "tecnologia",
-      "title": "2h. Acampada. Renata Cambra pede explicações a Moedas",
-      "summary": "Defesa da manifestantes denuncia existência de despacho do autarca a impor a saída da acampada no Rossio. Ainda, Paulo Fonseca estreia-se hoje no banco do Sporting",
+      "title": "Será que Paulo Fonseca consegue ressuscitar os leões?",
+      "summary": "A estreia do novo treinador em Alvalade promete devolver a estabilidade defensiva e a luta pelo título ao Sporting. Em sentido oposto, o adeus do Cristiano Ronaldo continua a agitar adeptos e não só.",
       "source": "Observador",
-      "date": "Sat, 07 Nov 2026 02:17:38 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2461/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "388f14ec",
-      "cat": "tecnologia",
-      "title": "1h. Proteção Civil adverte para impacto da Depressão Bruna",
-      "summary": "Pedro Araújo alerta para risco de inundação causada pela chuva que afeta todo o país. Ainda, grupo Mães pela Acampada promove vigília em Lisboa contra cargas policiais",
-      "source": "Observador",
-      "date": "Sat, 07 Nov 2026 01:17:45 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-da-1h-2438/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "date": "Sat, 07 Nov 2026 12:18:37 +0000",
+      "url": "https://observador.pt/programas/e-o-campeao-e/sera-que-paulo-fonseca-consegue-ressuscitar-os-leoes/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
       "score": 0.7
     },
     {
