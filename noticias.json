@@ -1,5 +1,5 @@
 {
-  "last_update": "08/11/2026 21:56 UTC",
+  "last_update": "09/11/2026 05:52 UTC",
   "total": 30,
   "news": [
     {
@@ -58,39 +58,6 @@
       "score": 0.79
     },
     {
-      "id": "d81af66f",
-      "cat": "desporto",
-      "title": "FC Porto vence e a perfeição continua perfeita",
-      "summary": "Um golo de Martim Fernandes salvou os líderes do campeonato de perderem os seus primeiros pontos na prova, num grande jogo de futebol.",
-      "source": "Público",
-      "date": "Sun, 08 Nov 2026 20:00:28 GMT",
-      "url": "https://www.publico.pt/2026/11/08/desporto/cronica_de_jogo/fc-porto-vence-perfeicao-continua-perfeita-2194235",
-      "img": null,
-      "score": 0.76
-    },
-    {
-      "id": "4c707727",
-      "cat": "tecnologia",
-      "title": "VSC x FCP. “Acredito que o Porto vai ser bicampeão”",
-      "summary": "Luís Pinto Coelho destaca os laterais Alberto e Martim Fernandes e critica Froholdt: \"tem estado um pouco apagado\" na vitória do FC Porto de Farioli. Alanzinho foi o melhor do Vitória de Guimarães.",
-      "source": "Observador",
-      "date": "Sun, 08 Nov 2026 20:35:34 +0000",
-      "url": "https://observador.pt/programas/relat-rio-de-jogo/vsc-x-fcp-acredito-que-o-porto-vai-ser-bicampeao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/08/28160057/770-podcast-relatorio-de-jogo-luis-pinto.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "4e80e279",
-      "cat": "tecnologia",
-      "title": "Prestianni abre o marcador (0-1, 26')",
-      "summary": "Os encarnados visitam os tricolores e procuram chegar à oitava vitória consecutiva. Marco Silva continua sem contar com Barreiro, Aursnes também é baixa. Siga aqui.",
-      "source": "Observador",
-      "date": "Sun, 08 Nov 2026 19:31:35 +0000",
-      "url": "https://observador.pt/liveblogs/estrela-da-amadora-benfica-marco-silva-mantem-echeverri-no-onze/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/28172246/48013504.jpg",
-      "score": 0.76
-    },
-    {
       "id": "516659a1",
       "cat": "tecnologia",
       "title": "People Around the World Help Buy Royal Estate for Wildlife Conservation",
@@ -113,36 +80,80 @@
       "score": 0.76
     },
     {
-      "id": "c12e3384",
-      "cat": "tecnologia",
-      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
-      "summary": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterio",
+      "id": "dad434c4",
+      "cat": "ciencia",
+      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached ext",
       "source": "ScienceDaily",
-      "date": "Fri, 06 Nov 2026 02:12:55 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
-      "img": "https://www.sciencedaily.com/images/1920/nasa-neil-gehrels-swift-observatory-orbits-above-earth.webp",
+      "date": "Sun, 08 Nov 2026 17:45:01 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+      "img": "https://www.sciencedaily.com/images/1920/paja-formation-ecosystem-during-biotic-inflection.webp",
       "score": 0.76
     },
     {
-      "id": "a44ce017",
+      "id": "2c658efa",
       "cat": "tecnologia",
-      "title": "Portugal, a ganhar medalhas nos trampolins há mais de 40 anos",
-      "summary": "O palmarés português cresceu com mais três pódios nos Mundiais de Nanjing, incluindo o título de Vasco Peso no tumbling, reforçando o estatuto do país como uma potência da modalidade.",
+      "title": "Portugal perde com Argentina e termina em quarto lugar a Finalíssima de futsal",
+      "summary": "Portugal defendia o troféu conquistado em 2022.",
       "source": "Público",
-      "date": "Sun, 08 Nov 2026 20:57:55 GMT",
-      "url": "https://www.publico.pt/2026/11/08/desporto/noticia/portugal-ganhar-medalhas-trampolins-ha-40-anos-2194232",
+      "date": "Sun, 08 Nov 2026 22:53:26 GMT",
+      "url": "https://www.publico.pt/2026/11/08/desporto/noticia/portugal-perde-argentina-termina-quarto-lugar-finalissima-futsal-2194242",
       "img": null,
       "score": 0.73
     },
     {
-      "id": "62fbc173",
+      "id": "7b7ba3fd",
       "cat": "tecnologia",
-      "title": "Ventura exclui PSD da vitória nas próximas legislativas",
-      "summary": "André Ventura disse que a luta pela vitória nas próximas eleições legislativas será entre o Chega e o PS e que estarão em confronto dois projetos diferentes de civilização.",
+      "title": "A vitória do Benfica e um mundo visto a correr",
+      "summary": "O triunfo na Reboleira, frente ao Estrela da Amadora, permite à equipa de Marco Silva manter os cinco pontos de diferença para o FC Porto. Mas poderia não ter sido assim.",
+      "source": "Público",
+      "date": "Sun, 08 Nov 2026 22:31:40 GMT",
+      "url": "https://www.publico.pt/2026/11/08/desporto/cronica_de_jogo/vitoria-benfica-mundo-visto-correr-2194236",
+      "img": null,
+      "score": 0.73
+    },
+    {
+      "id": "d7018bd3",
+      "cat": "tecnologia",
+      "title": "2h. PNS garante que casas dadas pela AD são herança do PS",
+      "summary": "O antigo líder socialista acusa o Executivo de Luís Montenegro de se apropriar dos resultados do PS. Ainda, o FCP venceu o Vitória Sport Club por 2-1 e segue invicto no campeonato.",
       "source": "Observador",
-      "date": "Sun, 08 Nov 2026 21:13:51 +0000",
-      "url": "https://observador.pt/2026/11/08/ventura-diz-que-a-luta-pela-vitoria-nas-proximas-legislativas-sera-entre-o-chega-e-o-ps/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:203/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/08201049/48077291.jpg",
+      "date": "Mon, 09 Nov 2026 02:17:24 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2463/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.73
+    },
+    {
+      "id": "69fd15d7",
+      "cat": "cultura",
+      "title": "A verdadeira luta de Renata Cambra",
+      "summary": "O programa do partido dirigido pelo rosto das acampadas, o Trabalhadores Unidos, é claro: reivindicações como as da habitação não são para tomar à letra, apenas servem para abrir caminho à revolução.",
+      "source": "Observador",
+      "date": "Mon, 09 Nov 2026 00:25:59 +0000",
+      "url": "https://observador.pt/opiniao/a-verdadeira-luta-de-renata-cambra/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A2133%3A2133%3Anowe%3A182%3A478%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F05%2F04170552%2Fjose-manuel-fernandes.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "2aa2e54a",
+      "cat": "tecnologia",
+      "title": "A IA vai tirar-me o emprego?",
+      "summary": "Os empregos que ainda não têm nome, a geração que vai ter de os inventar, e o que dizer aos filhos e aos netos.",
+      "source": "Observador",
+      "date": "Mon, 09 Nov 2026 00:21:50 +0000",
+      "url": "https://observador.pt/opiniao/a-ia-vai-tirar-me-o-emprego/",
+      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A1067%3A1067%3Anowe%3A266%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F07%2F27174802%2Fwhatsapp-image-2026-07-27-at-122449.jpeg",
+      "score": 0.73
+    },
+    {
+      "id": "12e0f93a",
+      "cat": "tecnologia",
+      "title": "Mudar de emprego e de local de trabalho obriga a devolver IMT jovem",
+      "summary": "Um jovem que beneficie do IMT Jovem pode perder a isenção fiscal se mudar de emprego e tiver de se deslocar para uma localidade a mais de 100 quilómetros. A AT entende que a exceção prevista na lei não se aplica quando a mudança resulta de um novo contrato com outra entidade patronal.",
+      "source": "Jornal de Negócios",
+      "date": "Sun, 08 Nov 2026 22:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/mudar-de-emprego-e-de-local-de-trabalho-obriga-a-devolver-imt-jovem",
+      "img": "https://cdn.jornaldenegocios.pt/images/2023-05/img_100x100uu2023-05-16-12-43-55-452782.jpg",
       "score": 0.73
     },
     {
@@ -154,6 +165,17 @@
       "date": "Mon, 08 Jan 2024 14:49:00 Z",
       "url": "https://www.tsf.pt/portugal/sociedade/morreu-arnaldo-trindade-fundador-da-orfeu-17625516.html",
       "img": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=f1efa3b6-8573-4486-b03d-10ae87867f13&w=600&h=232&t=20240201072011",
+      "score": 0.73
+    },
+    {
+      "id": "7d603daf",
+      "cat": "tecnologia",
+      "title": "Bis de Fermín Lopez abate Atlético e FC Barcelona lidera isolado em Espanha",
+      "summary": "Um ‘bis’ do futebolista Fermín Lopez deu hoje a vitória ao FC Barcelona sobre o Atlético de Madrid (2-1), que permitiu a reviravolta ao líder no encontro de encerramento da 12.ª jornada da Liga espanhola.",
+      "source": "RTP",
+      "date": "Sun, 08 Nov 2026 22:28:51 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/bis-de-fermin-lopez-abate-atletico-e-fc-barcelona-lidera-isolado-em-espanha_d1777780",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/81/81ee60d17422ad9d996a2d6cb7896567?w=350&amp;q=50&amp;rect=0,126,1269,696&amp;auto=format",
       "score": 0.73
     },
     {
@@ -176,17 +198,6 @@
       "date": "Sun, 08 Nov 2026 19:37:09 +0000",
       "url": "https://www.rtp.pt/noticias/motores/lando-norris-vence-gp-do-brasil-de-formula-1-e-mercedes-campea-de-construtores_d1777765",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/fe/fe34a9d184c97119e82674bf6fe81aaf?w=350&amp;q=50&amp;rect=0,73,1233,676&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "8b8062ca",
-      "cat": "tecnologia",
-      "title": "Marco Bezzecchi vence no Qatar e adia título de MotoGP para Portimão",
-      "summary": "O piloto italiano Marco Bezzecchi (Aprilia) venceu este domingo o Grande Prémio do Qatar de MotoGP, 20.ª ronda da temporada, e adiou a decisão do título para a penúltima jornada, em Portugal, dentro de duas semanas.",
-      "source": "RTP",
-      "date": "Sun, 08 Nov 2026 17:50:56 +0000",
-      "url": "https://www.rtp.pt/noticias/motores/marco-bezzecchi-vence-no-qatar-e-adia-titulo-de-motogp-para-portimao_d1777754",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/be/be9af4c75d28813352154536bb418945?w=350&amp;q=50&amp;rect=0,67,1256,689&amp;auto=format",
       "score": 0.73
     },
     {
@@ -278,47 +289,36 @@
       "score": 0.73
     },
     {
-      "id": "45ae007e",
-      "cat": "geral",
-      "title": "Lando Norris vence GP do Brasil de Fórmula 1 e Mercedes campeã de construtores",
-      "summary": "A marca alemã regressa aos títulos, desde o último que conquistou em 2021.",
+      "id": "b71df21c",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
       "source": "Público",
-      "date": "Sun, 08 Nov 2026 21:02:27 GMT",
-      "url": "https://www.publico.pt/2026/11/08/desporto/noticia/lando-norris-vence-gp-brasil-formula-1-mercedes-campea-construtores-2194239",
+      "date": "Mon, 09 Nov 2026 05:02:00 GMT",
+      "url": "https://www.publico.pt/2026/11/09/opiniao/opiniao/cartas-director-2194177",
       "img": null,
       "score": 0.7
     },
     {
-      "id": "4a47af22",
+      "id": "e86a96ad",
       "cat": "tecnologia",
-      "title": "O PS tem um problema com o mercado",
-      "summary": "Se o PS quer ser \"compagnon de route\" de PCP e Bloco, que se assuma. Fingir que é social-democrata para depois pôr os inquilinos a fazerem de Segurança Social, não",
+      "title": "Governo recua nas Pousadas e dá concessão ao Pestana até 2028",
+      "summary": "A concessão das Pousadas de Portugal devia terminar a 31 de dezembro de 2026, mas o Governo mudou de entendimento sobre o prazo, após ter avançado, inclusive, com preparativos para o concurso público.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 08 Nov 2026 21:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/camilo-lourenco/detalhe/o-ps-tem-um-problema-com-o-mercado",
-      "img": "https://cdn.jornaldenegocios.pt/images/2016-10/img_394x514uu2016-10-13-12-16-00-296266.png",
+      "date": "Sun, 08 Nov 2026 23:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/turismo---lazer/detalhe/governo-recua-nas-pousadas-e-da-concessao-ao-pestana-ate-2028",
+      "img": "https://cdn.jornaldenegocios.pt/images/2015-11/img_100x100uu2015-11-03-14-55-00-267187.jpg",
       "score": 0.7
     },
     {
-      "id": "a21b8d10",
-      "cat": "tecnologia",
-      "title": "Jensen Huang foi mesmo alvo de espionagem? “Board” da Nvidia investiga",
-      "summary": "O conselho de administração da fabricante de chips diz não acreditar que os segredos da empresa ou a segurança nacional tenham sido comprometidos. Congresso norte-americano também vai investigar.",
+      "id": "ab68c3dc",
+      "cat": "economia",
+      "title": "Isto não é só a América",
+      "summary": "O resultado das eleições intercalares também são um teste a um modelo que o populismo europeu aplaudiu e, muitas vezes, copiou.",
       "source": "Jornal de Negócios",
-      "date": "Sun, 08 Nov 2026 21:18:30 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/jensen-huang-foi-mesmo-alvo-de-espionagem-board-da-nvidia-investiga",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-08/img_100x100uu2026-08-27-11-37-25-528825.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "298db7df",
-      "cat": "tecnologia",
-      "title": "Travão de 2% nas rendas de novos contratos é “letra morta”",
-      "summary": "Secretária de Estado da Habitação não exclui a proposta do PS de criar uma moratória para contratos de arrendamento que estejam a terminar até final de 2027, mas defende que a habitação precisa é de “respostas estruturais”.",
-      "source": "Jornal de Negócios",
-      "date": "Sun, 08 Nov 2026 21:00:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/patricia-goncalves-costa-travao-de-2-nas-rendas-de-novos-contratos-e-letra-morta",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-08-17-46-28-532610.jpg",
+      "date": "Sun, 08 Nov 2026 23:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/detalhe/isto-nao-e-so-a-america",
+      "img": "https://cdn.jornaldenegocios.pt/images/2021-09/img_394x514uu2021-09-29-14-37-44-413474.png",
       "score": 0.7
     },
     {
