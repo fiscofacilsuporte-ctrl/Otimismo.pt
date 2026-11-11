@@ -1,5 +1,5 @@
 {
-  "last_update": "10/11/2026 23:06 UTC",
+  "last_update": "11/11/2026 05:48 UTC",
   "total": 30,
   "news": [
     {
@@ -45,6 +45,17 @@
       "url": "https://www.goodnewsnetwork.org/fish-stocks-thrive-thanks-to-this-strange-seaweed-and-locals-who-protected-it/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Maerl-beds-in-French-waters-credit-Olivier-Dugornay-CC-4.0.-BY.jpg",
       "score": 0.79
+    },
+    {
+      "id": "2c004b76",
+      "cat": "tecnologia",
+      "title": "Espólio do Teatro Maria Vitória retirado para armazéns",
+      "summary": "O teatro encerrou em fevereiro após danos no edifício. Os projetos de recuperação estão prontos e o concurso público para obras vai ser lançado em breve.",
+      "source": "Observador",
+      "date": "Wed, 11 Nov 2026 00:54:45 +0000",
+      "url": "https://observador.pt/2026/11/11/espolio-do-teatro-maria-vitoria-vai-para-armazens-nove-meses-apos-derrocada-que-encerrou-a-sala-do-parque-mayer/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/16120846/dventura-teatros-parque-mayer-2-scaled.jpg",
+      "score": 0.76
     },
     {
       "id": "f648f10b",
@@ -102,58 +113,58 @@
       "score": 0.76
     },
     {
-      "id": "1b35d967",
+      "id": "56e9fb5f",
       "cat": "ciencia",
-      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's tech",
+      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+      "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
       "source": "ScienceDaily",
-      "date": "Sat, 07 Nov 2026 18:34:19 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-      "img": "https://www.sciencedaily.com/images/1920/extremely-short-electron-wave-packet-at-limits-of-space-and-time.webp",
+      "date": "Tue, 10 Nov 2026 19:59:32 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+      "img": "https://www.sciencedaily.com/images/1920/gerrothoroax-maritumus.webp",
       "score": 0.76
     },
     {
-      "id": "dad434c4",
-      "cat": "ciencia",
-      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-      "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached ext",
-      "source": "ScienceDaily",
-      "date": "Sun, 08 Nov 2026 17:45:01 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-      "img": "https://www.sciencedaily.com/images/1920/paja-formation-ecosystem-during-biotic-inflection.webp",
-      "score": 0.76
-    },
-    {
-      "id": "d257a735",
-      "cat": "cultura",
-      "title": "No MAC/CCB, 2027 faz-se com um brasileiro alquimista e um japonês a conhecer",
-      "summary": "Tunga e Enokura são dois dos artistas em destaque na programação de exposições temporárias do museu instalado em Belém. Oferta reflecte um investimento de 2,5 milhões de euros. E promete.",
-      "source": "Público",
-      "date": "Tue, 10 Nov 2026 21:20:00 GMT",
-      "url": "https://www.publico.pt/2026/11/10/culturaipsilon/noticia/macccb-2027-fazse-brasileiro-alquimista-japones-conhecer-2194517",
-      "img": "https://imagens.publico.pt/imagens.aspx/2129879?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Ipsilon.png",
-      "score": 0.73
-    },
-    {
-      "id": "17fe15a2",
-      "cat": "geral",
-      "title": "Da “invisibilidade” à “prontidão total”, Governo joga em antecipação à tempestade",
-      "summary": "Primeiro-ministro garantiu “uma capacidade redobrada” de coordenação e de resposta face à demonstrada no início do ano, a propósito da tempestade Kristin .",
-      "source": "Público",
-      "date": "Tue, 10 Nov 2026 21:05:21 GMT",
-      "url": "https://www.publico.pt/2026/11/10/politica/noticia/invisibilidade-prontidao-total-governo-joga-antecipacao-tempestade-2194510",
-      "img": "https://imagens.publico.pt/imagens.aspx/2129874?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.73
-    },
-    {
-      "id": "2fe7eb54",
+      "id": "bbaacf8c",
       "cat": "tecnologia",
-      "title": "Hungria veta avanço da Ucrânia no processo de adesão à UE",
-      "summary": "A Hungria recusou novamente dar luz verde aos capítulos 4 e 5 no processo de adesão. Ainda, a Ucrânia e a Rússia concordaram com uma troca de prisioneiros \"em larga escala\".",
-      "source": "Observador",
-      "date": "Tue, 10 Nov 2026 21:45:15 +0000",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/hungria-veta-avanco-da-ucrania-no-processo-de-adesao-a-ue/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg",
+      "title": "Astronomers discover hidden alien planet in James Webb images",
+      "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to d",
+      "source": "ScienceDaily",
+      "date": "Tue, 10 Nov 2026 18:56:04 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+      "img": "https://www.sciencedaily.com/images/1920/erasing-stars-to-find-exoplanets.webp",
+      "score": 0.76
+    },
+    {
+      "id": "944a75f2",
+      "cat": "tecnologia",
+      "title": "A geração Z e o contrato social europeu",
+      "summary": "A história julgará as nossas democracias não pela forma como resistiram ou venceram os protestos, mas pela forma como responderam aos seus anseios e restauraram a esperança no futuro. Opinião de Nuno Severiano Teixeira",
+      "source": "Público",
+      "date": "Wed, 11 Nov 2026 00:20:00 GMT",
+      "url": "https://www.publico.pt/2026/11/11/opiniao/opiniao/geracao-z-contrato-social-europeu-2194470",
+      "img": "https://imagens.publico.pt/imagens.aspx/1739378?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.73
+    },
+    {
+      "id": "40624b2b",
+      "cat": "tecnologia",
+      "title": "Nem o título garante a continuidade de Vozinha no Colo-Colo",
+      "summary": "O guarda-redes da selecção cabo-verdiana foi titular na conquista do campeonato chileno pelo Colo-Colo, mas, apesar do título, a sua permanência em 2027 é incerta.",
+      "source": "Público",
+      "date": "Tue, 10 Nov 2026 23:34:00 GMT",
+      "url": "https://www.publico.pt/2026/11/10/desporto/noticia/titulo-garante-continuidade-vozinha-colocolo-2194496",
+      "img": "https://imagens.publico.pt/imagens.aspx/2129864?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.73
+    },
+    {
+      "id": "5405bd4d",
+      "cat": "tecnologia",
+      "title": "Seis meses depois, seguro obrigatório contra catástrofes ainda não saiu do papel",
+      "summary": "Governo anunciou, no final de abril, a criação de um seguro obrigatório contra catástrofes e sismos para habitações. Mas, mais de meio ano depois, continua sem data para entrar em vigor. Agência para o PTRR aponta concretização para o próximo ano.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 10 Nov 2026 23:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/seis-meses-depois-seguro-obrigatorio-contra-catastrofes-ainda-nao-saiu-do-papel",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-30-08-55-53-517640.jpg",
       "score": 0.73
     },
     {
@@ -234,14 +245,14 @@
       "score": 0.73
     },
     {
-      "id": "392f5c58",
+      "id": "04c575f4",
       "cat": "tecnologia",
-      "title": "Scientists finally discover why we learn to love bitter coffee",
-      "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating hab",
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodent",
       "source": "ScienceDaily",
-      "date": "Mon, 09 Nov 2026 18:19:35 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
-      "img": "https://www.sciencedaily.com/images/1920/boy-tasting-bitter-coffee.webp",
+      "date": "Tue, 10 Nov 2026 20:36:04 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+      "img": "https://www.sciencedaily.com/images/1920/giant-rodent-yakamys-sirindihornae.webp",
       "score": 0.73
     },
     {
@@ -256,47 +267,36 @@
       "score": 0.73
     },
     {
-      "id": "2b11be89",
-      "cat": "tecnologia",
-      "title": "Defined.ai abre mercado de dados pagos para ensinar agentes de IA e robôs",
-      "summary": "Na Web Summit, Daniela Braga apresentou uma plataforma com dez milhões de gigabytes de informação privada e licenciada. Dos hospitais às oficinas, é aqui que as máquinas aprendem.",
+      "id": "d507d74f",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
       "source": "Público",
-      "date": "Tue, 10 Nov 2026 21:34:02 GMT",
-      "url": "https://www.publico.pt/2026/11/10/enter/noticia/definedai-abre-mercado-dados-pagos-ensinar-agentes-ia-robos-2194514",
-      "img": "https://imagens.publico.pt/imagens.aspx/2129866?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Wed, 11 Nov 2026 05:20:00 GMT",
+      "url": "https://www.publico.pt/2026/11/11/opiniao/opiniao/cartas-director-2194490",
+      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "ada9cb47",
+      "id": "9f63c031",
       "cat": "tecnologia",
-      "title": "ACP desiste do referendo sobre trotinetes em Lisboa",
-      "summary": "A Assembleia Municipal de Lisboa criou a comissão para acompanhar o processo, mas o ACP já retirou o requerimento. PS critica decisão de Moedas de suspender as trotinetes.",
+      "title": "A tempestade pode custar-lhe um dia de salário?",
+      "summary": "O Governo pediu aos portugueses que ficassem em casa, mas não deu muitas garantias sobre o que acontece a quem seguir a recomendação e faltar ao trabalho.",
       "source": "Observador",
-      "date": "Tue, 10 Nov 2026 21:47:52 +0000",
-      "url": "https://observador.pt/2026/11/10/acp-retira-iniciativa-de-referendo-sobre-trotinetes-partilhadas-em-lisboa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/17011925/arquivo-diogofariareis-9350-scaled.jpg",
+      "date": "Wed, 11 Nov 2026 05:03:04 +0000",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/a-tempestade-pode-custar-lhe-um-dia-de-salario/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
       "score": 0.7
     },
     {
-      "id": "e7176767",
+      "id": "b93bd999",
       "cat": "tecnologia",
-      "title": "Do que fala Marcelo quando não fala de política",
-      "summary": "Antigo presidente continua a manter a promessa do silêncio político, mas tem intervenções regulares em escolas. Fala sobre o seu passado na política e mostra preocupação pelos desafios do digital.",
+      "title": "3h. Depressão Bruna causa 1240 ocorrências",
+      "summary": "743 destas ocorrências foram por inundações e 190 por quedas de árvores. Ainda, a depressão Charles obrigou a CP a suprimir comboios com passagem pela Ponte 25 de Abril.",
       "source": "Observador",
-      "date": "Tue, 10 Nov 2026 21:42:23 +0000",
-      "url": "https://observador.pt/especiais/midterms-literatura-six-seven-e-a-presidencia-no-tempo-das-redes-sociais-do-que-fala-marcelo-quando-nao-fala-de-politica/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2856:1607:nowe:0:1607/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/10192932/img-6461-rotated.jpeg",
-      "score": 0.7
-    },
-    {
-      "id": "81eb4f86",
-      "cat": "tecnologia",
-      "title": "As lições da Kristin",
-      "summary": "A Kristin leva-nos a ser mais precavidos. Mas há muitas promessas que foram feitas à data que até hoje não passaram disso mesmo.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 10 Nov 2026 23:00:00 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/paulo-moutinho/detalhe/as-licoes-da-kristin",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-11/img_394x514uu2024-11-27-15-44-19-490659.png",
+      "date": "Wed, 11 Nov 2026 03:14:19 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2492/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
