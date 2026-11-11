@@ -1,5 +1,5 @@
 {
-  "last_update": "11/11/2026 05:48 UTC",
+  "last_update": "11/11/2026 13:58 UTC",
   "total": 30,
   "news": [
     {
@@ -36,25 +36,69 @@
       "score": 0.82
     },
     {
-      "id": "6af9bce9",
-      "cat": "tecnologia",
-      "title": "Fish Stocks Thrive Thanks to This Pink Seaweed and Locals Who Protected It",
-      "summary": "Seabed Thriving 10 Years After Scottish Dredging Ban Islanders Celebrate Protections of Their Magical Maerl Beds Fish Stocks Thrive Thanks to This Strange Seaweed and Locals Who Protected It A ban on industrial scallop dredging has been &#8220;the most amazing thing to happen&#8221; to the residents",
-      "source": "Good News Network",
-      "date": "Mon, 09 Nov 2026 15:49:42 +0000",
-      "url": "https://www.goodnewsnetwork.org/fish-stocks-thrive-thanks-to-this-strange-seaweed-and-locals-who-protected-it/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Maerl-beds-in-French-waters-credit-Olivier-Dugornay-CC-4.0.-BY.jpg",
+      "id": "bb7fff51",
+      "cat": "ciencia",
+      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+      "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potenti",
+      "source": "ScienceDaily",
+      "date": "Wed, 11 Nov 2026 04:43:55 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+      "img": "https://www.sciencedaily.com/images/1920/rising-star-cave-system-excavation.webp",
       "score": 0.79
     },
     {
-      "id": "2c004b76",
+      "id": "3c11287a",
+      "cat": "ciencia",
+      "title": "The mystery of how hair knows where to grow may finally be solved",
+      "summary": "Scientists have discovered that the intricate patterns of hair follicles on mammals may arise from a remarkably simple process involving cells following chemical signals. The findings challenge a long-standing theory and reveal how nature can create complex biological patterns without a detailed blu",
+      "source": "ScienceDaily",
+      "date": "Wed, 11 Nov 2026 07:48:30 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
+      "img": "https://www.sciencedaily.com/images/1920/human-hair-close-up.webp",
+      "score": 0.79
+    },
+    {
+      "id": "50cb2ae3",
       "cat": "tecnologia",
-      "title": "Espólio do Teatro Maria Vitória retirado para armazéns",
-      "summary": "O teatro encerrou em fevereiro após danos no edifício. Os projetos de recuperação estão prontos e o concurso público para obras vai ser lançado em breve.",
+      "title": "Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
+      "summary": "A bizarrely deformed 1834 British silver coin found at a car boot sale may preserve evidence of a rare minting accident nearly 200 years ago. Advanced 3D scans and microscopic analysis revealed unusual metal distortions suggesting the coin was crushed under extreme pressure, potentially during its o",
+      "source": "ScienceDaily",
+      "date": "Wed, 11 Nov 2026 05:48:22 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm",
+      "img": "https://www.sciencedaily.com/images/1920/1834-william-iv-sixpence.webp",
+      "score": 0.79
+    },
+    {
+      "id": "818e5f81",
+      "cat": "saude",
+      "title": "Surto de ébola ultrapassa 11 mil casos",
+      "summary": "Sem vacina nem tratamento para a estirpe Bundibugyo, epidemia alastrou a oito províncias e a países vizinhos.O surto é o mais letal da RDCongo e o segundo mais mortífero da história global da doença.",
       "source": "Observador",
-      "date": "Wed, 11 Nov 2026 00:54:45 +0000",
-      "url": "https://observador.pt/2026/11/11/espolio-do-teatro-maria-vitoria-vai-para-armazens-nove-meses-apos-derrocada-que-encerrou-a-sala-do-parque-mayer/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/04/16120846/dventura-teatros-parque-mayer-2-scaled.jpg",
+      "date": "Wed, 11 Nov 2026 11:21:21 +0000",
+      "url": "https://observador.pt/2026/11/11/surto-de-ebola-na-republica-democratica-do-congo-ultrapassa-11-mil-casos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/10213954/47705551.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "8f679a2c",
+      "cat": "tecnologia",
+      "title": "A corrida do capital privado para financiar a transição energética",
+      "summary": "O setor da energia está no radar dos grandes fundos. A necessidade de modernizar redes e acelerar a eletrificação - sobretudo com a atual instabilidade geopolítica e o crescimento da procura de centros de dados - estão a obrigar à mobilização de milhares de milhões de euros. Neste contexto, a Europa",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 11 Nov 2026 13:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/sustentabilidade/detalhe/a-corrida-do-capital-privado-para-financiar-a-transicao-energetica",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-11-08-17-34-532748.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "3b19e4ce",
+      "cat": "tecnologia",
+      "title": "Economia alemã em recuperação, mas são necessárias reformas estruturais, alerta Nagel",
+      "summary": "A economia alemã recupera mais depressa do que o esperado e a inflação desceu para 2,8%, mas Nagel, presidente do Bundesbank, alerta que sem reformas estruturais o crescimento não se sustenta.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 11 Nov 2026 12:25:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/economia-alema-em-recuperacao-mas-sao-necessarias-reformas-estruturais-alerta-nagel",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-05-12-47-53-530588.jpg",
       "score": 0.76
     },
     {
@@ -66,28 +110,6 @@
       "date": "Tue, 10 Nov 2026 09:00:47 +0000",
       "url": "https://www.rtp.pt/noticias/desporto/mundial-de-trampolins-medalhados-portugueses-ja-estao-em-casa_v1778046",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7dd751629cc01510d7b5db9b6ba166c1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "373a20ce",
-      "cat": "tecnologia",
-      "title": "Esta é a chave do Euromilhões. Jackpot é de 141 milhões de euros",
-      "summary": "Com um primeiro prémio no valor de 141 milhões de euros, decorreu esta terça-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta terça-feira, dia 10 de novembro. Números: 15",
-      "source": "ECO",
-      "date": "Tue, 10 Nov 2026 20:37:28 +0000",
-      "url": "https://eco.sapo.pt/2026/11/10/esta-e-a-chave-do-euromilhoes-jackpot-e-de-141-milhoes-de-euros-2/",
-      "img": "https://eco.imgix.net/uploads/2016/09/cropped-MG_3519.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "c25b8cfb",
-      "cat": "saude",
-      "title": "Natal no Porto. Câmara dá “três cenários possíveis” e deixa Acampada decidir pista de gelo",
-      "summary": "No final de uma “reunião técnica” com uma comitiva de representantes da Acampada do Porto, dedicada exclusivamente à procura de uma solução de compatibilização com a programação de Natal da cidade, a Câmara do Porto disse ter apresentado “três cenários possíveis” com o objetivo de “equilibrar os dir",
-      "source": "ECO",
-      "date": "Tue, 10 Nov 2026 19:26:20 +0000",
-      "url": "https://eco.sapo.pt/2026/11/10/natal-no-porto-camara-da-tres-cenarios-possiveis-e-deixa-acampada-decidir-pista-de-gelo/",
-      "img": "https://eco.imgix.net/uploads/2026/11/cropped-doc202610244800323213329257.jpg",
       "score": 0.76
     },
     {
@@ -113,80 +135,58 @@
       "score": 0.76
     },
     {
-      "id": "56e9fb5f",
+      "id": "d9662918",
       "cat": "ciencia",
-      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-      "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
-      "source": "ScienceDaily",
-      "date": "Tue, 10 Nov 2026 19:59:32 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-      "img": "https://www.sciencedaily.com/images/1920/gerrothoroax-maritumus.webp",
+      "title": "This Diwali, Trade the Doom Scroll for These 10 Questions",
+      "summary": "GNN Voices is a new series of first-person pieces from people worth listening to: practitioners, researchers, teachers, and neighbors sharing what they’ve learned and how they see things. My dad&#8217;s name was Kiran. In Sanskrit, it means &#8220;a ray of light.&#8221; I wrote my book, Making Sense",
+      "source": "Good News Network",
+      "date": "Mon, 09 Nov 2026 18:59:42 +0000",
+      "url": "https://www.goodnewsnetwork.org/this-diwali-trade-the-doom-scroll-for-these-10-questions/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-1.41.53-PM.png",
       "score": 0.76
     },
     {
-      "id": "bbaacf8c",
+      "id": "4dfac761",
       "cat": "tecnologia",
-      "title": "Astronomers discover hidden alien planet in James Webb images",
-      "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to d",
-      "source": "ScienceDaily",
-      "date": "Tue, 10 Nov 2026 18:56:04 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-      "img": "https://www.sciencedaily.com/images/1920/erasing-stars-to-find-exoplanets.webp",
-      "score": 0.76
-    },
-    {
-      "id": "944a75f2",
-      "cat": "tecnologia",
-      "title": "A geração Z e o contrato social europeu",
-      "summary": "A história julgará as nossas democracias não pela forma como resistiram ou venceram os protestos, mas pela forma como responderam aos seus anseios e restauraram a esperança no futuro. Opinião de Nuno Severiano Teixeira",
+      "title": "A tempestade tem nome. A resposta não pode ser improvisada",
+      "summary": "O valor da regulação estará na capacidade de ligar três dimensões que não podem continuar separadas: conhecer o risco, reduzir a exposição e financiar a recuperação. Opinião de André Tavares Lourenço",
       "source": "Público",
-      "date": "Wed, 11 Nov 2026 00:20:00 GMT",
-      "url": "https://www.publico.pt/2026/11/11/opiniao/opiniao/geracao-z-contrato-social-europeu-2194470",
-      "img": "https://imagens.publico.pt/imagens.aspx/1739378?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Wed, 11 Nov 2026 13:09:03 GMT",
+      "url": "https://www.publico.pt/2026/11/11/azul/opiniao/tempestade-nome-resposta-nao-improvisada-2194563",
+      "img": "https://imagens.publico.pt/imagens.aspx/2130094?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Azul.png",
       "score": 0.73
     },
     {
-      "id": "40624b2b",
+      "id": "37918008",
       "cat": "tecnologia",
-      "title": "Nem o título garante a continuidade de Vozinha no Colo-Colo",
-      "summary": "O guarda-redes da selecção cabo-verdiana foi titular na conquista do campeonato chileno pelo Colo-Colo, mas, apesar do título, a sua permanência em 2027 é incerta.",
-      "source": "Público",
-      "date": "Tue, 10 Nov 2026 23:34:00 GMT",
-      "url": "https://www.publico.pt/2026/11/10/desporto/noticia/titulo-garante-continuidade-vozinha-colocolo-2194496",
-      "img": "https://imagens.publico.pt/imagens.aspx/2129864?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "title": "\"Talvez despareçam os médicos que não utilizam IA\"",
+      "summary": "A previsão é feita por Pedro Lemos, médico brasileiro, que aponta para uma universalização da utilização desta tecnologia na medicina. Ainda, IA procura acelerar compreensão dos sons de animais.",
+      "source": "Observador",
+      "date": "Wed, 11 Nov 2026 12:07:18 +0000",
+      "url": "https://observador.pt/programas/mundo-ia/talvez-desparecam-os-medicos-que-nao-utilizam-ia/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1920:1079:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/27142941/770-mundoia.jpg",
       "score": 0.73
     },
     {
-      "id": "5405bd4d",
-      "cat": "tecnologia",
-      "title": "Seis meses depois, seguro obrigatório contra catástrofes ainda não saiu do papel",
-      "summary": "Governo anunciou, no final de abril, a criação de um seguro obrigatório contra catástrofes e sismos para habitações. Mas, mais de meio ano depois, continua sem data para entrar em vigor. Agência para o PTRR aponta concretização para o próximo ano.",
+      "id": "674dd84a",
+      "cat": "ambiente",
+      "title": "Iberdrola diz que pagou todo o IMI cobrado por renováveis",
+      "summary": "Iberdrola garante que procedeu ao pagamento de todas as liquidações de Imposto Municipal sobre Imóveis (IMI) relativas aos municípios onde se encontram os seus ativos de produção de energia renovável.",
+      "source": "Observador",
+      "date": "Wed, 11 Nov 2026 11:39:59 +0000",
+      "url": "https://observador.pt/2026/11/11/barragens-iberdrola-garante-que-pagou-todas-as-liquidacoes-de-imi-aos-municipios/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:213/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/03/12190056/dventura-alto-tamega-eolicas-barragens-iberdrola-44-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "9284a66c",
+      "cat": "ambiente",
+      "title": "Iberdrola garante que pagou IMI relativo a ativos de energia renovável em todos os municípios",
+      "summary": "A Iberdrola garante ter pago todas as liquidações de IMI recebidas até à data relativas aos municípios onde tem ativos de produção de energia renovável, em resposta à acusação de que as concessionárias de energia devem 348 milhões de euros em impostos a Trás-os-Montes.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 10 Nov 2026 23:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/seis-meses-depois-seguro-obrigatorio-contra-catastrofes-ainda-nao-saiu-do-papel",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-01/img_100x100uu2026-01-30-08-55-53-517640.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "2b9b3291",
-      "cat": "tecnologia",
-      "title": "Web Summit arranca com soberania, regulação e espaço para atriz de IA",
-      "summary": "O primeiro dia completo da 10.ª edição da Web Summit foi ensombrado pela suspensão do segundo devido às tempestades Bruna e Charles. As discussões centraram-se na soberania europeia e que as empresas tecnológicas devem temer os reguladores.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 10 Nov 2026 22:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/web-summit/detalhe/web-summit-arranca-com-soberania-regulacao-e-espaco-para-atriz-de-ia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-10-19-25-19-532733.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "bd714aa8",
-      "cat": "tecnologia",
-      "title": "Energia, edifícios e mobilidade captam quase 90% do investimento verde",
-      "summary": "Estudo contabiliza cerca de 17 biliões de dólares investidos numa década, acima do previsto em 2015. Na adoção das tecnologias, só o solar, as baterias e os veículos elétricos ultrapassaram as projeções.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 10 Nov 2026 22:17:59 Z",
-      "url": "https://www.jornaldenegocios.pt/sustentabilidade/ambiental/detalhe/energia-edificios-e-mobilidade-captam-quase-90-do-investimento-verde",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-02/img_100x100uu2025-02-24-08-10-55-496437.jpg",
+      "date": "Wed, 11 Nov 2026 12:52:50 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/iberdrola-garante-que-pagou-imi-relativo-a-ativos-de-energia-renovavel-em-todos-os-municipios",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-02-13-51-07-532227.jpg",
       "score": 0.73
     },
     {
@@ -201,14 +201,36 @@
       "score": 0.73
     },
     {
-      "id": "705beafb",
+      "id": "70f92a27",
       "cat": "tecnologia",
-      "title": "Azores Airlines reduz prejuízo em 32% para 22,5 milhões até setembro",
-      "summary": "A Azores Airlines reduziu o prejuízo em 32% nos primeiros nove meses para 22,5 milhões de euros, enquanto a SATA Air Açores baixou o prejuízo para 2,82 milhões, revelou esta terça-feira o grupo de aviação. Segundo as demonstrações financeiras da SATA a 30 de setembro, a que a agência Lusa teve acess",
+      "title": "Queta participa em nova vitória dos Celtics",
+      "summary": "Neemias Queta marcou na terça-feira quatro pontos no triunfo dos Boston Celtics em casa dos Philadelphia 76ers, por 123-101, em jogo da NBA.",
+      "source": "RTP",
+      "date": "Wed, 11 Nov 2026 12:49:29 +0000",
+      "url": "https://www.rtp.pt/noticias/basquetebol/queta-participa-em-nova-vitoria-dos-celtics_d1778415",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/9c/9c6576c075457e8df2403ee8093f1ff5?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "986a8683",
+      "cat": "tecnologia",
+      "title": "Decretos da habitação voltam ao Parlamento espanhol no arranque da campanha para as legislativas",
+      "summary": "O Parlamento espanhol volta a debater e a votar na quinta-feira os dois decretos do Governo de Pedro Sánchez com medidas para a habitação que os deputados &#8216;chumbaram&#8217; em outubro, precipitando a convocatória de eleições antecipadas para 29 de novembro. Após a dissolução do Parlamento, em ",
       "source": "ECO",
-      "date": "Tue, 10 Nov 2026 20:58:54 +0000",
-      "url": "https://eco.sapo.pt/2026/11/10/azores-airlines-reduz-prejuizo-em-32-para-225-milhoes-ate-setembro/",
-      "img": "https://eco.imgix.net/uploads/2026/07/cropped-doc2023101141656324sata14-1.jpg",
+      "date": "Wed, 11 Nov 2026 13:40:04 +0000",
+      "url": "https://eco.sapo.pt/2026/11/11/decretos-da-habitacao-voltam-ao-parlamento-espanhol-no-arranque-da-campanha-para-as-legislativas/",
+      "img": "https://eco.imgix.net/uploads/2025/09/cropped-doc2009092510160743espanha.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "af8752ae",
+      "cat": "economia",
+      "title": "Indústria dos recursos minerais gera mais de 3,7 mil milhões para economia e 74 mil empregos",
+      "summary": "A indústria dos recursos minerais, composta por 2.550 empresas, gerou mais de 3,7 mil milhões de euros para a economia portuguesa em 2024, representando cerca de 1,29% do produto interno bruto (PIB), conclui um estudo desenvolvido pela Nova SBE e divulgado esta quarta-feira. Setor emprega perto de 7",
+      "source": "ECO",
+      "date": "Wed, 11 Nov 2026 12:02:09 +0000",
+      "url": "https://eco.sapo.pt/2026/11/11/industria-dos-recursos-minerais-gera-mais-de-37-mil-milhoes-para-economia-e-74-mil-empregos/",
+      "img": "https://eco.imgix.net/uploads/2024/03/cropped-doc-20130314-15869961-ctb_20130314_0312.jpg",
       "score": 0.73
     },
     {
@@ -245,17 +267,6 @@
       "score": 0.73
     },
     {
-      "id": "04c575f4",
-      "cat": "tecnologia",
-      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-      "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodent",
-      "source": "ScienceDaily",
-      "date": "Tue, 10 Nov 2026 20:36:04 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-      "img": "https://www.sciencedaily.com/images/1920/giant-rodent-yakamys-sirindihornae.webp",
-      "score": 0.73
-    },
-    {
       "id": "29405413",
       "cat": "sociedade",
       "title": "The Spark: When Communities Own the Land, Housing Stays Affordable",
@@ -267,36 +278,25 @@
       "score": 0.73
     },
     {
-      "id": "d507d74f",
-      "cat": "cultura",
-      "title": "Cartas ao director",
-      "summary": "",
+      "id": "64ee96e9",
+      "cat": "tecnologia",
+      "title": "Estratégia de Combate à Pobreza executou 75% das medidas, mas não atinge causas estruturais",
+      "summary": "Estratégia não muda causas estruturais da pobreza, como o preço da habitação, os baixos salários, a precariedade laboral, o envelhecimento da população ou as assimetrias regionais.",
       "source": "Público",
-      "date": "Wed, 11 Nov 2026 05:20:00 GMT",
-      "url": "https://www.publico.pt/2026/11/11/opiniao/opiniao/cartas-director-2194490",
-      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Publico.png",
+      "date": "Wed, 11 Nov 2026 12:59:15 GMT",
+      "url": "https://www.publico.pt/2026/11/11/sociedade/noticia/estrategia-combate-pobreza-executou-75-medidas-nao-atinge-causas-estruturais-2193728",
+      "img": "https://imagens.publico.pt/imagens.aspx/2128291?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "9f63c031",
+      "id": "72cfff79",
       "cat": "tecnologia",
-      "title": "A tempestade pode custar-lhe um dia de salário?",
-      "summary": "O Governo pediu aos portugueses que ficassem em casa, mas não deu muitas garantias sobre o que acontece a quem seguir a recomendação e faltar ao trabalho.",
-      "source": "Observador",
-      "date": "Wed, 11 Nov 2026 05:03:04 +0000",
-      "url": "https://observador.pt/programas/a-hist-ria-do-dia/a-tempestade-pode-custar-lhe-um-dia-de-salario/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "b93bd999",
-      "cat": "tecnologia",
-      "title": "3h. Depressão Bruna causa 1240 ocorrências",
-      "summary": "743 destas ocorrências foram por inundações e 190 por quedas de árvores. Ainda, a depressão Charles obrigou a CP a suprimir comboios com passagem pela Ponte 25 de Abril.",
-      "source": "Observador",
-      "date": "Wed, 11 Nov 2026 03:14:19 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2492/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "title": "Espumantes, vinhos gastronómicos e a desconstrução de uma ideia de",
+      "summary": "A sommelière do hotel Quinta das Lágrimas, em Coimbra, deixa-nos algumas pistas para harmonizações com Vinhos Verdes.",
+      "source": "Público",
+      "date": "Wed, 11 Nov 2026 12:58:37 GMT",
+      "url": "https://www.publico.pt/2026/11/11/edicoes-publico/noticia/espumantes-vinhos-gastronomicos-desconstrucao-ideia-2194575",
+      "img": "https://imagens.publico.pt/imagens.aspx/2130093?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
@@ -322,14 +322,14 @@
       "score": 0.7
     },
     {
-      "id": "4c593650",
+      "id": "eb3b9455",
       "cat": "tecnologia",
-      "title": "Jornada 11 da Liga só fecha em janeiro",
-      "summary": "O encontro Estoril Praia-Marítimo, referente à 11.ª jornada da I Liga, foi reagendado para 4 de janeiro de 2027, em horário a definir, informa a Liga Portuguesa de Futebol Profissional, em comunicado.",
+      "title": "Ricardo Silva assume em definitivo comando técnico do Famalicão",
+      "summary": "O treinador Ricardo Silva vai assumir em definitivo o comando técnico do Famalicão, depois de ter orientado interinamente a equipa nos últimos quatro encontros, anunciou hoje a SAD do clube da I Liga.",
       "source": "RTP",
-      "date": "Tue, 10 Nov 2026 21:40:33 +0000",
-      "url": "https://www.rtp.pt/noticias/1a-liga/jornada-11-da-liga-so-fecha-em-janeiro_d1778268",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/4e/4ead645e5b242b853c67fe7aa70f21f5?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Wed, 11 Nov 2026 12:11:13 +0000",
+      "url": "https://www.rtp.pt/noticias/1a-liga/ricardo-silva-assume-em-definitivo-comando-tecnico-do-famalicao_d1778407",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7a/7acc222b2c360cefd8c717aa78f33a9f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.7
     }
   ]
