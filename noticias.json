@@ -1,7 +1,29 @@
 {
-  "last_update": "12/11/2026 23:28 UTC",
+  "last_update": "13/11/2026 06:14 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "5c2cede4",
+      "cat": "ciencia",
+      "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
+      "summary": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly identical species, including one previously unknown to science. Hidden ultraviolet wing patterns and DNA differences revealed the truth, leaving scientists puzzled about how the butterflies remain genetic",
+      "source": "ScienceDaily",
+      "date": "Thu, 12 Nov 2026 05:47:43 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
+      "img": "https://www.sciencedaily.com/images/1920/colobura-caterpillars.webp",
+      "score": 0.82
+    },
+    {
+      "id": "0684537d",
+      "cat": "ciencia",
+      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the dist",
+      "source": "ScienceDaily",
+      "date": "Thu, 12 Nov 2026 06:24:47 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+      "img": "https://www.sciencedaily.com/images/1920/paleogeographic-map-of-middle-miocene.webp",
+      "score": 0.79
+    },
     {
       "id": "bb7fff51",
       "cat": "ciencia",
@@ -14,36 +36,14 @@
       "score": 0.79
     },
     {
-      "id": "3c11287a",
-      "cat": "ciencia",
-      "title": "The mystery of how hair knows where to grow may finally be solved",
-      "summary": "Scientists have discovered that the intricate patterns of hair follicles on mammals may arise from a remarkably simple process involving cells following chemical signals. The findings challenge a long-standing theory and reveal how nature can create complex biological patterns without a detailed blu",
-      "source": "ScienceDaily",
-      "date": "Wed, 11 Nov 2026 07:48:30 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
-      "img": "https://www.sciencedaily.com/images/1920/human-hair-close-up.webp",
-      "score": 0.79
-    },
-    {
-      "id": "43a0ab66",
-      "cat": "ciencia",
-      "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
-      "summary": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better u",
-      "source": "ScienceDaily",
-      "date": "Wed, 11 Nov 2026 20:45:09 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
-      "img": "https://www.sciencedaily.com/images/1920/nasa-parker-solar-probe-spacecraft-near-sun.webp",
-      "score": 0.79
-    },
-    {
-      "id": "53b2082d",
-      "cat": "economia",
-      "title": "A água também decide",
-      "summary": "É possível querer investimento e exigir estas respostas. Aliás, quem investe deve poder conhecer de antemão os critérios, as condições e os limites. Mas não há como escapar: na planta, o terreno pode chegar. A água tem de chegar também, com o abastecimento das pessoas assegurado primeiro. Sem esta r",
+      "id": "76961c4b",
+      "cat": "tecnologia",
+      "title": "Primeiro-ministro britânico promete \"lutar\" para conseguir “bom acordo\" com UE",
+      "summary": "Andy Burnham prevê que as negociações continuarão \"até ao último momento\" e que \"as coisas provavelmente vão complicar-se\" antes da cimeira de 20 de novembro.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 12 Nov 2026 20:56:09 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/detalhe/a-agua-tambem-decide",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_394x514uu2026-11-12-12-59-05-532816.png",
+      "date": "Thu, 12 Nov 2026 23:26:50 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/europa/uniao-europeia/detalhe/primeiro-ministro-britanico-promete-lutar-para-conseguir-bom-acordo-com-ue",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-28-11-49-00-530189.jpg",
       "score": 0.76
     },
     {
@@ -91,80 +91,58 @@
       "score": 0.76
     },
     {
-      "id": "e853415f",
+      "id": "b8f1646a",
       "cat": "tecnologia",
-      "title": "Dino D’Santiago vence Grammy Latino",
-      "summary": "Músico ganhou prémio com o álbum Criolo, Amaro e Dino , projecto que assina com os brasileiros Amaro Freitas e Criolo.",
+      "title": "A tradição do Market",
+      "summary": "O Rossio Christmas Market nem é tradicional nem é para as famílias portuguesas. É um evento comercial e turístico, simbólico — isso sim — da transformação de Lisboa que explica a luta das acampadas. Opinião de Susana Peralta",
       "source": "Público",
-      "date": "Thu, 12 Nov 2026 22:37:38 GMT",
-      "url": "https://www.publico.pt/2026/11/12/culturaipsilon/noticia/dino-dsantiago-vence-grammy-latino-2194823",
-      "img": "https://imagens.publico.pt/imagens.aspx/2130621?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
+      "date": "Fri, 13 Nov 2026 00:30:00 GMT",
+      "url": "https://www.publico.pt/2026/11/13/opiniao/opiniao/tradicao-market-2194791",
+      "img": "https://imagens.publico.pt/imagens.aspx/1867113?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "870fa0e2",
+      "id": "15b24d24",
       "cat": "tecnologia",
-      "title": "Benfica alcança segundo triunfo na Liga dos Campeões feminina",
-      "summary": "“Encarnadas” ganharam ao Áustria Viena, por 3-1, mas só aceleraram para a vitória depois da expulsão da guarda-redes adversária. Posição de play-off consolidada.",
+      "title": "A geração das promessas incumpridas: uns protegidos do esforço, outros privados das oportunidades",
+      "summary": "A social-democracia nasceu para combater esta desigualdade de destinos. Se renunciou a essa ambição, a promessa incumprida não é apenas a de uma geração. É a promessa da própria democracia. Opinião de João Nuno Tavares",
       "source": "Público",
-      "date": "Thu, 12 Nov 2026 22:28:16 GMT",
-      "url": "https://www.publico.pt/2026/11/12/desporto/noticia/benfica-alcanca-segundo-triunfo-liga-campeoes-feminina-2194822",
-      "img": "https://imagens.publico.pt/imagens.aspx/2130620?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Fri, 13 Nov 2026 00:15:00 GMT",
+      "url": "https://www.publico.pt/2026/11/13/opiniao/opiniao/geracao-promessas-incumpridas-protegidos-esforco-privados-oportunidades-2194615",
+      "img": "https://imagens.publico.pt/imagens.aspx/2100599?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "7467878c",
+      "id": "d583e8a9",
       "cat": "tecnologia",
-      "title": "Montenegro critica Rutte e sugere Costa ou Durão Barroso para negociações com Rússia",
-      "summary": "Primeiro-ministro propõe António Costa ou Durão Barroso para representar UE nas negociações com Putin e condena declarações “infelizes” do secretário-geral da NATO sobre apoio português à Ucrânia.",
-      "source": "Público",
-      "date": "Thu, 12 Nov 2026 21:24:12 GMT",
-      "url": "https://www.publico.pt/2026/11/12/politica/noticia/montenegro-critica-rutte-sugere-costa-durao-barroso-negociacoes-russia-2194763",
-      "img": "https://imagens.publico.pt/imagens.aspx/2130547?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.73
-    },
-    {
-      "id": "8db72c6d",
-      "cat": "geral",
-      "title": "Burnham promete \"lutar\" por \"bom acordo\" com a UE",
-      "summary": "Andy Burnham reuniu-se com líderes europeus em Dublin e avisou que as conversações sobre o estreitamento de relações com Bruxelas vão durar até ao limite.",
+      "title": "Colectivo mexicano c733 vence primeira edição de Prémio Siza",
+      "summary": "Fundado em 2019 e com mais de 30 projetos de infraestrutura urbana no México, o coletivo c733 leva para casa 50 mil euros e um troféu desenhado por Álvaro Siza.",
       "source": "Observador",
-      "date": "Thu, 12 Nov 2026 22:20:30 +0000",
-      "url": "https://observador.pt/2026/11/12/burnham-promete-lutar-por-bom-acordo-com-a-ue-antes-da-cimeira-de-bruxelas-de-20-de-novembro/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/12210417/48113634.jpg",
+      "date": "Fri, 13 Nov 2026 00:31:37 +0000",
+      "url": "https://observador.pt/2026/11/13/colectivo-mexicano-c733-vence-primeira-edicao-de-premio-siza-atribuido-por-serralves/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1440:808:nowe:0:106/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/06/26141055/fundacao-serralves-1.jpg",
       "score": 0.73
     },
     {
-      "id": "fe7117b9",
-      "cat": "tecnologia",
-      "title": "A grande noite de Andreia acabou com um ramo de Flourish",
-      "summary": "Era preciso ganhar, foi preciso sofrer para ganhar: Benfica somou segunda vitória na Champions e subiu ao nono lugar da primeira fase com um golo e uma assistência de Andreia Norton e de Möller (3-1).",
-      "source": "Observador",
-      "date": "Thu, 12 Nov 2026 22:01:09 +0000",
-      "url": "https://observador.pt/2026/11/12/a-grande-noite-de-andreia-acabou-com-um-ramo-de-flourish-benfica-vence-austria-viena-e-fica-mais-perto-do-apuramento-na-champions/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2094:1175:nowe:0:58/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/12214706/doc202611124811804213373363.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "831dbd56",
-      "cat": "tecnologia",
-      "title": "Procura no IPO da Anthropic supera seis vezes a oferta",
-      "summary": "Investidores estão a manifestar um forte interesse na criadora do Claude, apesar do momento conturbado da IA, avança a Bloomberg. Empresa pretende angariar cerca até 64,4 mil milhões e dólares na IPO e mais 26 mil milhões através de uma colocação privada. Em conjunto, operação poderá superar o recor",
+      "id": "92267502",
+      "cat": "ciencia",
+      "title": "Sete em cada 10 empresas europeias cotadas nos EUA desvalorizam após IPO",
+      "summary": "Um estudo da Euronext conclui que as empresas europeias que “voaram” para os EUA à procura de uma entrada em bolsa tendem a ter um pior desempenho que as que ficam no Velho Continente. O retorno após um ano do outro lado do Atlântico é negativo.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 12 Nov 2026 22:04:00 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/procura-no-ipo-da-anthropic-supera-seis-vezes-a-oferta",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-02-12-51-39-524740.jpg",
+      "date": "Fri, 13 Nov 2026 06:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/sete-em-cada-10-empresas-europeias-cotadas-nos-eua-desvalorizam-apos-ipo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-30-15-50-59-510363.jpg",
       "score": 0.73
     },
     {
-      "id": "9db09b57",
+      "id": "8d915170",
       "cat": "tecnologia",
-      "title": "Acampada de Lisboa manifesta-se à saída da Web Summit contra \"turistificação\"",
-      "summary": "A iniciativa \"Camp Summit\", no acesso sul da feira tecnológica, juntou algumas dezenas de ativistas empunhando as caras impressas em papel de Carlos Moedas, do primeiro-ministro, Luís Montenegro, do ministro da Administração Interna, Luís Neves, e da ministra da Saúde, Ana Paula Martins.",
+      "title": "AD facilita vistos gold via investimento social",
+      "summary": "Investir 250 mil euros em equipamentos sociais de apoio a jovens, idosos ou imigrantes permitirá o acesso a uma autorização de residência para investimento. A AD quer revisitar a lei dos vistos gold e faz também alguns ajustes ao investimento via fundos.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 12 Nov 2026 21:28:12 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/acampada-de-lisboa-manifesta-se-a-saida-da-web-summit-contra-turistificacao",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-12-21-27-13-532844.jpg",
+      "date": "Thu, 12 Nov 2026 23:30:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ad-facilita-vistos-gold-via-investimento-social",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-16-17-21-28-525264.jpg",
       "score": 0.73
     },
     {
@@ -187,6 +165,17 @@
       "date": "Thu, 12 Nov 2026 18:29:37 +0000",
       "url": "https://www.rtp.pt/noticias/sporting/champions-feminina-benfica-vence-austria-de-viena-e-ascende-ao-nono-lugar_d1778764",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bbd2be222cb1501c9770e243d2816d61?w=350&amp;q=50&amp;rect=0,95,1233,676&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "3c9c694e",
+      "cat": "tecnologia",
+      "title": "Municípios têm contas certas, mas investimento do PRR traz novos desafios",
+      "summary": "&#160; Sintra, Santa Maria da Feira e Coruche lideram o ranking global dos 308 municípios portugueses que, na generalidade, reforçaram em 2025 as receitas e o investimento, e “reduziram o endividamento e os prazos de pagamento para mínimos da última década”. Persiste, contudo, uma &#8220;forte depen",
+      "source": "ECO",
+      "date": "Fri, 13 Nov 2026 00:13:14 +0000",
+      "url": "https://eco.sapo.pt/2026/11/13/municipios-tem-contas-certas-mas-investimento-do-prr-traz-novos-desafios/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-paula-franco-occ15-2.jpg",
       "score": 0.73
     },
     {
@@ -256,14 +245,36 @@
       "score": 0.73
     },
     {
-      "id": "daaf4a42",
+      "id": "d277a58e",
+      "cat": "tecnologia",
+      "title": "As três polémicas a apertar o cerco à ministra da Saúde",
+      "summary": "Neste episódio analisamos os três casos em diferentes Unidades Locais de Saúde colocam a ministra da Saúde sob pressão e levantam dúvidas sobre os critérios de nomeação e a gestão do SNS.",
+      "source": "Público",
+      "date": "Fri, 13 Nov 2026 05:30:00 GMT",
+      "url": "https://www.publico.pt/2026/11/13/sociedade/noticia/tres-polemicas-apertar-cerco-ministra-saude-2194821",
+      "img": "https://imagens.publico.pt/imagens.aspx/2130618?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Podcasts.png",
+      "score": 0.7
+    },
+    {
+      "id": "376cab12",
       "cat": "geral",
-      "title": "Acampada critica apoio da Câmara à Web Summit",
-      "summary": "Ativistas mascarados de Moedas e Montenegro distribuíram panfletos no Parque das Nações a pedir \"Milhões para a habitação, não para a Web Summit\".",
+      "title": "A tempestade deu uma nova oportunidade a Luís Neves?",
+      "summary": "Luís Neves foi o rosto da resposta do Governo à tempestade Charles. Terá conseguido recuperar a imagem política? O editor-adjunto de Política do Observador analisa o desempenho do ministro.",
       "source": "Observador",
-      "date": "Thu, 12 Nov 2026 22:38:21 +0000",
-      "url": "https://observador.pt/2026/11/12/moedas-esta-zero-preocupado-em-resolver-habitacao-acampada-de-lisboa-leva-protesto-a-web-summit-no-parque-das-nacoes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1121:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/12203758/48117394.jpg",
+      "date": "Fri, 13 Nov 2026 05:02:50 +0000",
+      "url": "https://observador.pt/programas/a-hist-ria-do-dia/a-tempestade-deu-uma-nova-oportunidade-a-luis-neves/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "a356b689",
+      "cat": "tecnologia",
+      "title": "4h. Trump considera Nvidia \"grande demais para falir\"",
+      "summary": "Após casos que poderão envolver espionagem chinesa, Trump terá pedido a Jensen Huang para não se demitir. Ainda, Seguro vai receber representantes do movimento pela habitação da Acampada.",
+      "source": "Observador",
+      "date": "Fri, 13 Nov 2026 04:16:02 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2458/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
@@ -308,17 +319,6 @@
       "date": "Thu, 12 Nov 2026 21:45:46 +0000",
       "url": "https://eco.sapo.pt/2026/11/12/grupo-imobiliario-adquire-estadio-e-complexo-do-bessa-por-33-milhoes-de-euros/",
       "img": "https://eco.imgix.net/uploads/2026/04/cropped-2404809.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "90281ad2",
-      "cat": "tecnologia",
-      "title": "Mais de 90% das medidas do PS para a habitação foram aceites pelo Governo, diz Pinto Luz",
-      "summary": "O ministro das Infraestruturas e da Habitação afirmou na quarta-feira que o Governo respondeu &#8220;afirmativamente&#8221; a mais de 90% das medidas para a habitação propostas pelo PS. Em entrevista à CMTV, garantiu ainda que este Executivo é o que mais investiu no apoio à renda &#8212; 300 milhões",
-      "source": "ECO",
-      "date": "Thu, 12 Nov 2026 21:39:00 +0000",
-      "url": "https://eco.sapo.pt/2026/11/12/mais-de-90-das-medidas-do-ps-para-a-habitacao-foram-aceites-pelo-governo-diz-pinto-luz/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-conf-transporte-publico030.jpg",
       "score": 0.7
     },
     {
