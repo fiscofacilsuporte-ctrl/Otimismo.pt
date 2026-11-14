@@ -1,5 +1,5 @@
 {
-  "last_update": "14/11/2026 13:24 UTC",
+  "last_update": "14/11/2026 22:14 UTC",
   "total": 30,
   "news": [
     {
@@ -14,17 +14,6 @@
       "score": 0.82
     },
     {
-      "id": "3ffc8283",
-      "cat": "ambiente",
-      "title": "China Switches on World’s Biggest Example of New, Cheap Green Energy Storage",
-      "summary": "The world&#8217;s largest demonstration plant for a new kind of renewable energy storage is up and running in the west of the China. Called liquid-air energy storage (LAES) the plant uses renewable electricity to compress air to extreme densities until it turns to liquid. It can then be rapidly rele",
-      "source": "Good News Network",
-      "date": "Thu, 12 Nov 2026 19:30:02 +0000",
-      "url": "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Qinghai-60MW-Liquid-Air-Energy-Storage-Project-credit-China-Green-Development-Investment-Group.jpg",
-      "score": 0.79
-    },
-    {
       "id": "0684537d",
       "cat": "ciencia",
       "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
@@ -34,6 +23,50 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
       "img": "https://www.sciencedaily.com/images/1920/paleogeographic-map-of-middle-miocene.webp",
       "score": 0.79
+    },
+    {
+      "id": "a1f40292",
+      "cat": "tecnologia",
+      "title": "Taylor Fritz conquista torneio de Estocolmo",
+      "summary": "O norte-americano Taylor Fritz, primeiro cabeça de série, conquistou o torneio de Estocolmo, depois de vencer na final o argentino Thiago Agustín Tirante, em três sets.",
+      "source": "RTP",
+      "date": "Sat, 14 Nov 2026 15:45:22 +0000",
+      "url": "https://www.rtp.pt/noticias/tenis/taylor-fritz-conquista-torneio-de-estocolmo_d1779168",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/03/036393f274cd5de4388d5dd444fc3760?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "42220f7f",
+      "cat": "tecnologia",
+      "title": "UGT quer revisitar acordo de Concertação Social",
+      "summary": "A UGT quer revisitar o acordo tripartido de valorização salarial assinado em Concertação Social, argumentando que os ganhos de poder de compra &#8220;continuam limitados pela inflação&#8221;. &#8220;A UGT manifesta preocupação com o abrandamento do crescimento dos salários reais, num contexto económ",
+      "source": "ECO",
+      "date": "Sat, 14 Nov 2026 19:27:55 +0000",
+      "url": "https://eco.sapo.pt/2026/11/14/ugt-quer-revisitar-acordo-de-concertacao-social/",
+      "img": "https://eco.imgix.net/uploads/2025/11/cropped-mario-mourao10.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "9196d5cb",
+      "cat": "tecnologia",
+      "title": "Canadá põe indústria automóvel à frente de acordo com os EUA",
+      "summary": "O primeiro-ministro canadiano alertou hoje que não aceitará um acordo comercial com os EUA que comprometa a viabilidade da indústria automóvel do seu país, um dos principais pontos de discórdia nas negociações bilaterais. &#8220;Este Governo não aceitará um acordo com os EUA que não seja compatível ",
+      "source": "ECO",
+      "date": "Sat, 14 Nov 2026 14:22:50 +0000",
+      "url": "https://eco.sapo.pt/2026/11/14/canada-poe-industria-automovel-a-frente-de-acordo-com-os-eua/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-doc202609164778761713244248.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "111690f6",
+      "cat": "ciencia",
+      "title": "Two of the ‘Last Wild Ecosystems’ Untouched by Humans Are Declared New Sanctuaries",
+      "summary": "Some of the “very last wild and healthy ecosystems” unblemished by humans have been discovered in the remote atolls of the Pacific Ocean teeming with life. Scientists wrote in a new study that, although humans have left their mark on virtually every place on the planet, a few very remote islands of ",
+      "source": "Good News Network",
+      "date": "Sat, 14 Nov 2026 16:16:07 +0000",
+      "url": "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Shark-in-reef-habitat-at-Bikar-in-Marshall-island-in-Pacific-Ocean-by-Manu-San-Felix-via-SWNS.jpeg",
+      "score": 0.76
     },
     {
       "id": "5d74b271",
@@ -47,14 +80,80 @@
       "score": 0.76
     },
     {
-      "id": "458dc155",
+      "id": "e35e5c15",
       "cat": "tecnologia",
-      "title": "Antiga sede do Partido Comunista Italiano é agora um hotel de cinco estrelas",
-      "summary": "Dormir no escritório de Berlinguer custa mais de 600 euros por noite. Edifício foi abandonado pelo histórico partido em 2000.",
-      "source": "Público",
-      "date": "Sat, 14 Nov 2026 13:04:15 GMT",
-      "url": "https://www.publico.pt/2026/11/14/fugas/noticia/antiga-sede-partido-comunista-italiano-hotel-cinco-estrelas-2194982",
-      "img": "https://imagens.publico.pt/imagens.aspx/2130970?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Fugas.png",
+      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+      "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
+      "source": "BBC News",
+      "date": "Sat, 14 Nov 2026 22:05:45 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7be/live/5c1b5060-e077-11f1-9ec0-713bf094c3d1.png",
+      "score": 0.76
+    },
+    {
+      "id": "72d64342",
+      "cat": "geral",
+      "title": "Há derrotas que não são derrotas, são humilhações",
+      "summary": "Num primeiro jogo depois da despedida de Ronaldo, Portugal fez uma exibição inexplicável em Braga e acabou goleado pela Dinamarca, falhando a hipótese de garantir o primeiro lugar do grupo (1-4).",
+      "source": "Observador",
+      "date": "Sat, 14 Nov 2026 21:52:00 +0000",
+      "url": "https://observador.pt/2026/11/14/ha-derrotas-que-nao-sao-derrotas-sao-humilhacoes-a-cronica-do-portugal-dinamarca/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:126/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/14212914/gettyimages-2304629537.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "4fc79059",
+      "cat": "economia",
+      "title": "CT da Autoeuropa prioridades para próximo triénio",
+      "summary": "\"Garantir o futuro da fábrica, defender o emprego, melhorar as condições de trabalho e assegurar que os trabalhadores tenham uma voz ativa\" são prioridades para Rogério Nogueira.",
+      "source": "Observador",
+      "date": "Sat, 14 Nov 2026 21:11:08 +0000",
+      "url": "https://observador.pt/2026/11/14/ct-da-autoeuropa-reeleita-diz-que-emprego-e-futuro-da-fabrica-de-palmela-sao-prioridades-para-proximo-trienio/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/06061059/19143555.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1391360b",
+      "cat": "tecnologia",
+      "title": "Buscas por homem desaparecido em Tavira suspensas",
+      "summary": "As operações, pelo terceiro dia consecutivo, para tentar localizar o homem, de 32 anos, voltaram a não ter sucesso e foram suspensas ao final do dia, segundo um comunicado da Autoridade Marítima.",
+      "source": "Observador",
+      "date": "Sat, 14 Nov 2026 20:40:23 +0000",
+      "url": "https://observador.pt/2026/11/14/buscas-por-homem-desaparecido-em-tavira-suspensas-ao-terceiro-dia-sem-resultados/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:58/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/09/18185630.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "55270636",
+      "cat": "tecnologia",
+      "title": "Explicador: IMT Jovem e emprego",
+      "summary": "A Autoridade Tributária e Aduaneira entende que os beneficiários do IMT Jovem podem perder a isenção fiscal se mudarem de emprego e tiverem de se deslocar para uma localidade a mais de 100 quilómetros. O explicador esclarece o que está em causa.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 14 Nov 2026 18:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/multimedia/explicadores/detalhe/explicador-imt-jovem-e-emprego",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-13-14-49-52-532883.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "f9602a0d",
+      "cat": "tecnologia",
+      "title": "Mudar de emprego e local de trabalho faz perder a isenção do IMT Jovem?",
+      "summary": "A Autoridade Tributária e Aduaneira entende que os beneficiários do IMT Jovem podem perder a isenção fiscal se mudarem de emprego e tiverem de se deslocar para uma localidade a mais de 100 quilómetros. O explicador esclarece o que está em causa.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 14 Nov 2026 15:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/impostos/detalhe/mudar-de-emprego-e-local-de-trabalho-faz-perder-a-isencao-do-imt-jovem",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-13-14-49-52-532883.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "bc7660f8",
+      "cat": "tecnologia",
+      "title": "Biotecnológica fundada por português capta 5,9 milhões para lutar contra o cancro. Vai chegar a Portugal",
+      "summary": "A Noebe tem ADN português e quer derrubar as barreiras protetoras que os tumores têm, permitindo combatê-los. Pedro Correa de Sampaio explica que a ronda vai servir para iniciar os testes clínicos, e ambiciona abrir em Lisboa para criar parcerias.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 14 Nov 2026 14:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/pme/start-ups/detalhe/biotecnologica-fundada-por-portugues-capta-5-9-milhoes-para-lutar-contra-o-cancro-vai-chegar-a-portugal",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-13-22-27-57-532914.jpg",
       "score": 0.73
     },
     {
@@ -69,36 +168,25 @@
       "score": 0.73
     },
     {
-      "id": "2a112589",
-      "cat": "tecnologia",
-      "title": "Jensen Huang: Do estrelato à queda, a história do homem que construiu a Nvidia",
-      "summary": "Taipé, 17 de fevereiro de 1963. Nascia na capital de Taiwan Jensen Huang, o homem que viria a fundar uma das empresas mais valiosas da história recente e a colocar os seus processadores no centro da revolução da inteligência artificial (IA). Mais de seis décadas depois, o empresário de origem taiwan",
-      "source": "ECO",
-      "date": "Sat, 14 Nov 2026 12:23:08 +0000",
-      "url": "https://eco.sapo.pt/especiais/jensen-huang-do-estrelato-a-queda-a-historia-do-homem-que-construiu-a-nvidia/",
-      "img": "https://eco.imgix.net/uploads/2026/11/cropped-huang.jpg",
+      "id": "2737a4e9",
+      "cat": "cultura",
+      "title": "Seleção nacional vestida com o 7 de Ronaldo",
+      "summary": "Os jogadores que vão alinhar contra a Dinamarca cantaram o hino nacional envergando a camisola 7 com o nome de Ronaldo, no primeiro jogo depois do anúncio do adeus à seleção por parte do jogador.",
+      "source": "RTP",
+      "date": "Sat, 14 Nov 2026 19:52:48 +0000",
+      "url": "https://www.rtp.pt/noticias/desporto/selecao-nacional-vestida-com-o-7-de-ronaldo_v1779217",
+      "img": "https://cdn-images.rtp.pt/icm/images/5e/5eb3adf686ee8412094bdc6f6ab85af1_N.jpg?",
       "score": 0.73
     },
     {
-      "id": "ffe07739",
+      "id": "3268d3d1",
       "cat": "tecnologia",
-      "title": "A queda de Jensen Huang dá um filme",
-      "summary": "A empresa mais valiosa do mundo, fabricante dos processadores que alimentam a revolução da inteligência artificial, acabou de perder o CEO. Se há alguém nos EUA que tinha um poder que quase ombreava com o próprio Donald Trump era Jensen Huang, agora caído em desgraça.Nascido em Taiwan em 1963, Jense",
+      "title": "Pagar a quem nos vai substituir",
+      "summary": "Em meados de Outubro, a CNN anunciou um acordo plurianual com o Google. A rede cede direitos alargados sobre o seu jornalismo para funcionalidades experimentais de inteligência artificial e recebe uma compensação por isso. Segundo a imprensa americana, os artigos da CNN passarão a alimentar as respo",
       "source": "ECO",
-      "date": "Sat, 14 Nov 2026 11:00:56 +0000",
-      "url": "https://eco.sapo.pt/opiniao/a-queda-de-jensen-huang-da-um-filme/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2021/06/andre-verissimo-opiniao-01-01-versao-final-01.png",
-      "score": 0.73
-    },
-    {
-      "id": "b88ccd78",
-      "cat": "tecnologia",
-      "title": "DBRS mantém rating e perspetiva da dívida pública portuguesa",
-      "summary": "A Morningstar DBRS confirmou esta sexta-feira a notação e a perspetiva da dívida pública portuguesa, que se mantém assim em &#8220;A (elevado)&#8221;, com outlook positivo. A agência espera que o rácio da dívida do país continue a descer, &#8220;apesar da conjuntura externa desafiante&#8221; e elogi",
-      "source": "ECO",
-      "date": "Fri, 13 Nov 2026 21:09:37 +0000",
-      "url": "https://eco.sapo.pt/2026/11/13/dbrs-mantem-rating-e-perspetiva-da-divida-publica-portuguesa/",
-      "img": "https://eco.imgix.net/uploads/2017/04/cropped-dbrs.jpg",
+      "date": "Sat, 14 Nov 2026 18:00:18 +0000",
+      "url": "https://eco.sapo.pt/opiniao/pagar-a-quem-nos-vai-substituir/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/11/jose-pedro-dias-pinheiro-opiniao.png",
       "score": 0.73
     },
     {
@@ -135,17 +223,6 @@
       "score": 0.73
     },
     {
-      "id": "262b453e",
-      "cat": "tecnologia",
-      "title": "UK doctor infected with Ebola being treated at London hospital",
-      "summary": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
-      "source": "BBC News",
-      "date": "Thu, 05 Nov 2026 21:26:09 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/923f/live/26c0cf50-d94f-11f1-b2ee-87d22b17ac74.jpg",
-      "score": 0.73
-    },
-    {
       "id": "096351e3",
       "cat": "ciencia",
       "title": "Scientists find a simple daily routine linked to less pain and depression",
@@ -179,91 +256,36 @@
       "score": 0.73
     },
     {
-      "id": "0e766a5a",
+      "id": "da9b6a4d",
       "cat": "tecnologia",
-      "title": "EUA propõem cedência ucraniana do Donbass em troca de adesão à NATO",
-      "summary": "Volodymyr Zelensky revela sugestão feita pelos negociadores norte-americanos e admite referendo à questão mediante uma série de condições.",
+      "title": "Bandeirada nocturna",
+      "summary": "A maneira como as pessoas se comportam ao entrar diz muito sobre o estado em que se encontram, ontem entrou um casal aos beijos. Crónica de Cláudia Lucas Chéu",
       "source": "Público",
-      "date": "Sat, 14 Nov 2026 12:52:00 GMT",
-      "url": "https://www.publico.pt/2026/11/14/mundo/noticia/eua-propoem-cedencia-ucraniana-donbass-troca-adesao-nato-2194981",
-      "img": "https://imagens.publico.pt/imagens.aspx/2130969?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 14 Nov 2026 21:10:00 GMT",
+      "url": "https://www.publico.pt/2026/11/14/p3/cronica/bandeirada-nocturna-2194920",
+      "img": "https://imagens.publico.pt/imagens.aspx/2130816?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_P3.png",
       "score": 0.7
     },
     {
-      "id": "d21b32a9",
+      "id": "4cad8801",
       "cat": "tecnologia",
-      "title": "Câmara de Lisboa em tribunal: acção popular tenta travar hasta pública de terrenos municipais",
-      "summary": "Câmara de Lisboa quer vender por, pelo menos, 59 milhões dez imóveis que oposição diz poderem ser usados para habitação pública. José Sá Fernandes e outras sete pessoas contestam legalidade da venda.",
+      "title": "Rui Moreira, um livro e Marcelo: “Houve coisas que preferia que não tivesse dito, mas é tudo verdade”",
+      "summary": "Apresentação de O Fim das Ilusões… , o último livro do ex-autarca do Porto, ficou a cargo de Marcelo Rebelo de Sousa, que o autor já criticou por falar demais. Marcelo fez elogios e inconfidências.",
       "source": "Público",
-      "date": "Sat, 14 Nov 2026 12:49:21 GMT",
-      "url": "https://www.publico.pt/2026/11/14/local/noticia/camara-lisboa-tribunal-accao-popular-tenta-travar-hasta-publica-terrenos-municipais-2194955",
-      "img": "https://imagens.publico.pt/imagens.aspx/2130904?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 14 Nov 2026 20:50:17 GMT",
+      "url": "https://www.publico.pt/2026/11/14/politica/noticia/rui-moreira-livro-marcelo-preferia-nao-verdade-2195010",
+      "img": "https://imagens.publico.pt/imagens.aspx/2131064?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "e70df239",
+      "id": "07c4da40",
       "cat": "tecnologia",
-      "title": "As notícias das 13h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
-      "source": "Observador",
-      "date": "Sat, 14 Nov 2026 13:14:00 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2505/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "d1ba08e7",
-      "cat": "tecnologia",
-      "title": "\"Voltem a confiar no PS\", pede Carneiro",
-      "summary": "O líder socialista chegou aos Estados Gerais do PS sem calendário para programa eleitoral e colando-se ao discurso de \"diálogo\" de Seguro face aos protestos pela habitação.",
-      "source": "Observador",
-      "date": "Sat, 14 Nov 2026 12:56:46 +0000",
-      "url": "https://observador.pt/2026/11/14/carneiro-pede-aos-portugueses-que-voltem-a-confiar-no-ps-e-evita-prazos-para-novo-programa-eleitoral/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/12143127/48076531.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "9f59601d",
-      "cat": "cultura",
-      "title": "Augusto Cabrita revisitado em Vila Franca de Xira",
-      "summary": "Mais de três anos depois do seu centenário, uma exposição no Museu do Neo-Realismo faz justiça a um homem das imagens que marcou em particular os anos 60, na fotografia, no cinema e na televisão.",
-      "source": "Observador",
-      "date": "Sat, 14 Nov 2026 12:23:20 +0000",
-      "url": "https://observador.pt/2026/11/14/augusto-cabrita-revisitado-em-vila-franca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1684:nowe:0:316/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/14115427/7-arrabida.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "bf827eae",
-      "cat": "tecnologia",
-      "title": "Galáxia: a Madeira na mesa, entre a espada e o tamarilho",
-      "summary": "No restaurante do último andar do hotel Savoy Palace, na Madeira, servem-se menus de degustação, mas mantém-se o serviço à carta. A estrela pode ser o foco, mas o caminho é o que a casa escolher.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 14 Nov 2026 13:00:00 Z",
-      "url": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/galaxia-a-madeira-na-mesa-entre-a-espada-e-o-tamarilho",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-13-07-50-00-532854.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "8c461a40",
-      "cat": "tecnologia",
-      "title": "Ucrânia: EUA propõem cedência de território em troca de adesão à NATO",
-      "summary": "Os Estados Unidos propuseram à Ucrânia a cedência de territórios à Rússia em troca da adesão à NATO, revelou o Presidente ucraniano, Volodymyr Zelensky, em declarações divulgadas hoje.",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 14 Nov 2026 11:24:14 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ucrania-eua-propoem-cedencia-de-territorio-em-troca-de-adesao-a-nato",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-12-11-25-08-532810.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "4cde069e",
-      "cat": "tecnologia",
-      "title": "PS avança com Estados Gerais para \"preparar alternativa de Governo\"",
-      "summary": "Os novos Estado Gerais do PS, intitulados \"Contamos todos», arrancam hoje em Lisboa, uma plataforma lançada pelo líder socialista, José Luís Carneiro, para recolher contributos de independentes com o objetivo de \"preparar uma alternativa de Governo\". Medina, António Vitorino ou Fernando Araújo entre",
-      "source": "Jornal de Negócios",
-      "date": "Sat, 14 Nov 2026 10:52:00 Z",
-      "url": "https://www.jornaldenegocios.pt/lusa/detalhe/novos-estados-gerais-do-ps-arrancam-hoje-para-preparar-alternativa-de-governo",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-15-01-00-524387.jpg",
+      "title": "Lobo d’Ávila espera coragem do PS para ser “motor de mudança e reformismo” no país",
+      "summary": "Filipe Lobo d’Ávila participou como independente nos Estados Gerais do PS. Antigo vice-presidente do CDS-PP elogia capacidades de Carneiro, “que nenhum outro líder político reúne”.",
+      "source": "Público",
+      "date": "Sat, 14 Nov 2026 19:41:36 GMT",
+      "url": "https://www.publico.pt/2026/11/14/politica/noticia/lobo-davila-espera-coragem-ps-motor-mudanca-reformismo-pais-2195007",
+      "img": "https://imagens.publico.pt/imagens.aspx/2131045?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
@@ -289,36 +311,14 @@
       "score": 0.7
     },
     {
-      "id": "595412f7",
-      "cat": "desporto",
-      "title": "Arquivada queixa do Benfica contra árbitros do clássico com FC Porto",
-      "summary": "O Conselho de Disciplina (CD) da Federação Portuguesa de Futebol (FPF) arquivou a queixa apresentada pelo Benfica contra os árbitros do clássico frente ao FC Porto, da sétima jornada da I Liga, que os ‘dragões’ venceram por 3-1.",
-      "source": "RTP",
-      "date": "Fri, 13 Nov 2026 21:47:36 +0000",
-      "url": "https://www.rtp.pt/noticias/benfica/arquivada-queixa-do-benfica-contra-arbitros-do-classico-com-fc-porto_d1779050",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7ffaeb9498c335277afdee7491ae114e?w=350&amp;q=50&amp;rect=0,96,1233,676&amp;auto=format",
-      "score": 0.7
-    },
-    {
-      "id": "46387efb",
+      "id": "f330e4e0",
       "cat": "tecnologia",
-      "title": "Portugal-Dinamarca. Todos os jogadores da seleção vão vestir camisola 7",
-      "summary": "Portugal joga este sábado com a Dinamarca para a Liga das Nações. Todos os jogadores da seleção vão vestir a camisola 7 em homenagem a Cristiano Ronaldo.",
+      "title": "FC Porto na final da Taça Continental de hóquei em patins",
+      "summary": "O FC Porto vai disputar no domingo com o Lleida a final da Taça Continental de hóquei em patins, em Espanha, após vencer hoje o Calafell nos penáltis (2-0), após empate a 2-2 no fim do jogo e prolongamento.",
       "source": "RTP",
-      "date": "Fri, 13 Nov 2026 21:15:48 +0000",
-      "url": "https://www.rtp.pt/noticias/desporto/portugal-dinamarca-todos-os-jogadores-da-selecao-vao-vestir-camisola-7_v1779044",
-      "img": "https://cdn-images.rtp.pt/icm/images/2c/2c14076882df1d9b36c1859ec264212b_N.jpg?",
-      "score": 0.7
-    },
-    {
-      "id": "2129abdf",
-      "cat": "tecnologia",
-      "title": "Novo capítulo na seleção. Portugal homenageia Ronaldo na luta pela liderança do grupo",
-      "summary": "Sem Cristiano Ronaldo, mas com Jorge Jesus no banco da seleção, que volta a reunir-se para fechar as contas do grupo A4 da Liga das Nações, o objetivo dos dois encontros que restam mantém-se: &quot;ganhar&quot;. Bernardo Silva assume a braçadeira de capitão e acredita que a equipa está mais perto de",
-      "source": "RTP",
-      "date": "Fri, 13 Nov 2026 21:14:18 +0000",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/novo-capitulo-na-selecao-portugal-homenageia-ronaldo-na-luta-pela-lideranca-do-grupo_d1779043",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/79/7982815ed1b64a6d49fa43fc2290eba8?w=350&amp;q=50&amp;rect=0,288,4160,2281&amp;auto=format",
+      "date": "Sat, 14 Nov 2026 20:59:40 +0000",
+      "url": "https://www.rtp.pt/noticias/hoquei/fc-porto-na-final-da-taca-continental-de-hoquei-em-patins_d1779219",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b488e23b68d419a7ed817bffc713a57a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.7
     },
     {
