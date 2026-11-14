@@ -1,5 +1,5 @@
 {
-  "last_update": "14/11/2026 05:57 UTC",
+  "last_update": "14/11/2026 13:24 UTC",
   "total": 30,
   "news": [
     {
@@ -36,17 +36,6 @@
       "score": 0.79
     },
     {
-      "id": "bb7fff51",
-      "cat": "ciencia",
-      "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
-      "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potenti",
-      "source": "ScienceDaily",
-      "date": "Wed, 11 Nov 2026 04:43:55 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
-      "img": "https://www.sciencedaily.com/images/1920/rising-star-cave-system-excavation.webp",
-      "score": 0.79
-    },
-    {
       "id": "5d74b271",
       "cat": "saude",
       "title": "Infant Goes from 110 Seizures a Day to Seizure-Free with Experimental Treatment",
@@ -58,36 +47,14 @@
       "score": 0.76
     },
     {
-      "id": "1dba8c63",
+      "id": "458dc155",
       "cat": "tecnologia",
-      "title": "UE vai enviar seis representantes para negociar com a Rússia",
-      "summary": "Esta foi a solução encontrada após não ter sido possível encontrar um nome único para representar o bloco europeu nas negociações. Costa, Kallas e Stubb eram os nomes mais falados.",
-      "source": "Observador",
-      "date": "Sat, 14 Nov 2026 00:44:00 +0000",
-      "url": "https://observador.pt/2026/11/14/uniao-europeia-vai-enviar-seis-representantes-para-negociar-com-a-russia/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1126:nowe:0:96/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/13203845/48124955.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "5f79c938",
-      "cat": "tecnologia",
-      "title": "DBRS mantém rating de Portugal em A (elevado) com perspetiva positiva",
-      "summary": "Numa avaliação à dívida soberana portuguesa divulgada esta sexta-feira, a agência canadiana decidiu não efetuar alterações na notação nem no \"outlook\". A DBRS destaca o crescimento da economia mais forte que o esperado e a prudência orçamental, mas alerta que manter os excedentes será difícil sem no",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 13 Nov 2026 21:07:00 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/dbrs-mantem-rating-de-portugal-em-a-elevado-com-perspetiva-positiva",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-12/img_100x100uu2023-12-13-20-34-14-466103.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "c86cb8b2",
-      "cat": "tecnologia",
-      "title": "Goldman Sachs: Crescimento dos lucros das empresas europeias deve abrandar para 7% em 2027",
-      "summary": "Desaceleração deve-se à subida dos custos da energia e das taxas de juro. Num \"outlook\" para 2027, o banco assinala que as ações europeias continuam mais baratas do que nos EUA, mas oferecem retornos mais baixos, sendo um bom refúgio para a volatilidade da IA.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 13 Nov 2026 20:46:00 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/research/detalhe/goldman-sachs-crescimento-dos-lucros-das-empresas-europeias-deve-abrandar-para-7-em-2027",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-04/img_100x100uu2025-04-14-13-52-19-499514.jpg",
+      "title": "Antiga sede do Partido Comunista Italiano é agora um hotel de cinco estrelas",
+      "summary": "Dormir no escritório de Berlinguer custa mais de 600 euros por noite. Edifício foi abandonado pelo histórico partido em 2000.",
+      "source": "Público",
+      "date": "Sat, 14 Nov 2026 13:04:15 GMT",
+      "url": "https://www.publico.pt/2026/11/14/fugas/noticia/antiga-sede-partido-comunista-italiano-hotel-cinco-estrelas-2194982",
+      "img": "https://imagens.publico.pt/imagens.aspx/2130970?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Fugas.png",
       "score": 0.73
     },
     {
@@ -102,6 +69,28 @@
       "score": 0.73
     },
     {
+      "id": "2a112589",
+      "cat": "tecnologia",
+      "title": "Jensen Huang: Do estrelato à queda, a história do homem que construiu a Nvidia",
+      "summary": "Taipé, 17 de fevereiro de 1963. Nascia na capital de Taiwan Jensen Huang, o homem que viria a fundar uma das empresas mais valiosas da história recente e a colocar os seus processadores no centro da revolução da inteligência artificial (IA). Mais de seis décadas depois, o empresário de origem taiwan",
+      "source": "ECO",
+      "date": "Sat, 14 Nov 2026 12:23:08 +0000",
+      "url": "https://eco.sapo.pt/especiais/jensen-huang-do-estrelato-a-queda-a-historia-do-homem-que-construiu-a-nvidia/",
+      "img": "https://eco.imgix.net/uploads/2026/11/cropped-huang.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "ffe07739",
+      "cat": "tecnologia",
+      "title": "A queda de Jensen Huang dá um filme",
+      "summary": "A empresa mais valiosa do mundo, fabricante dos processadores que alimentam a revolução da inteligência artificial, acabou de perder o CEO. Se há alguém nos EUA que tinha um poder que quase ombreava com o próprio Donald Trump era Jensen Huang, agora caído em desgraça.Nascido em Taiwan em 1963, Jense",
+      "source": "ECO",
+      "date": "Sat, 14 Nov 2026 11:00:56 +0000",
+      "url": "https://eco.sapo.pt/opiniao/a-queda-de-jensen-huang-da-um-filme/",
+      "img": "https://ecoonline.s3.amazonaws.com/uploads/2021/06/andre-verissimo-opiniao-01-01-versao-final-01.png",
+      "score": 0.73
+    },
+    {
       "id": "b88ccd78",
       "cat": "tecnologia",
       "title": "DBRS mantém rating e perspetiva da dívida pública portuguesa",
@@ -113,36 +102,14 @@
       "score": 0.73
     },
     {
-      "id": "5a2e5fa0",
-      "cat": "ambiente",
-      "title": "Veja aqui a chave do Euromilhões. Prémio é de 17 milhões de euros",
-      "summary": "A chave do Euromilhões sorteada esta sexta-feira é composta pelos números: 16 &#8211; 27 &#8211; 32 &#8211; 41- 45 Estrelas: 2 &#8211; 12 O prémio em jogo é de 17 milhões de euros, depois de, no sorteio de terça-feira, ter havido um vencedor do jackpot de 141,9 milhões.",
-      "source": "ECO",
-      "date": "Fri, 13 Nov 2026 20:31:37 +0000",
-      "url": "https://eco.sapo.pt/2026/11/13/veja-aqui-a-chave-do-euromilhoes-premio-e-de-17-milhoes-de-euros/",
-      "img": "https://eco.imgix.net/uploads/2020/05/cropped-pndr1637.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "570e6e1d",
+      "id": "3a67ab89",
       "cat": "tecnologia",
-      "title": "Dívida de 12 milhões ‘rasga’ têxtil de Barcelos com dono canadiano que já vestiu o Benfica",
-      "summary": "A sobrevivência da Pure Cotton volta a estar em risco, dois anos após convencer os credores a aprovarem um plano de recuperação com a promessa de que veriam os seus créditos – na altura ascendiam a 5,8 milhões de euros -- recuperados na íntegra “através dos meios libertos gerados” pelo negócio têxti",
-      "source": "ECO",
-      "date": "Fri, 13 Nov 2026 19:27:14 +0000",
-      "url": "https://eco.sapo.pt/2026/11/13/divida-de-12-milhoes-rasga-textil-de-barcelos-com-dono-canadiano-que-ja-vestiu-o-benfica/",
-      "img": "https://eco.imgix.net/uploads/2026/11/cropped-pure-cotton-1160x630-1.jpeg",
-      "score": 0.73
-    },
-    {
-      "id": "68f69072",
-      "cat": "ciencia",
-      "title": "Dr. King’s Lost Draft of ‘I Have a Dream’ Emerges from a Desk Drawer",
-      "summary": "Dr. King&#8217;s Final Draft of &#8216;I have a dream&#8217; Appears After 60 Years (totally alternative approach) Incredible Discovery of King&#8217;s Own &#8216;I have a dream&#8217; Draft Chills Readers with its Insights A penned draft of the famous &#8216;I have a Dream&#8217; speech, written by",
+      "title": "Your Positive Weekly Horoscope: ‘Free Will Astrology’ by Rob Brezsny",
+      "summary": "Our partner Rob Brezsny, whose latest book is Enlightenment for Rebels: Celebrating Our Wild and Sacred Earthly Selves, provides his weekly wisdom to enlighten our thinking and motivate our mood. Rob’s Free Will Astrology, is a syndicated weekly column appearing in over a hundred publications. He is",
       "source": "Good News Network",
-      "date": "Fri, 13 Nov 2026 19:30:02 +0000",
-      "url": "https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Christies-released-1.jpg",
+      "date": "Sat, 14 Nov 2026 11:00:12 +0000",
+      "url": "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-14-2026/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/10/Freewill-Astrology-horoscope-logo.jpg",
       "score": 0.73
     },
     {
@@ -179,6 +146,17 @@
       "score": 0.73
     },
     {
+      "id": "096351e3",
+      "cat": "ciencia",
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they stru",
+      "source": "ScienceDaily",
+      "date": "Sat, 14 Nov 2026 07:48:01 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+      "img": "https://www.sciencedaily.com/images/1920/yellow-and-red-smileys-happy-sad-depression.webp",
+      "score": 0.73
+    },
+    {
       "id": "9c9b7f03",
       "cat": "cultura",
       "title": "Imagining the Mossy Cities of the Future",
@@ -201,69 +179,91 @@
       "score": 0.73
     },
     {
-      "id": "9b78c5b1",
-      "cat": "cultura",
-      "title": "Cartas ao director",
-      "summary": "",
+      "id": "0e766a5a",
+      "cat": "tecnologia",
+      "title": "EUA propõem cedência ucraniana do Donbass em troca de adesão à NATO",
+      "summary": "Volodymyr Zelensky revela sugestão feita pelos negociadores norte-americanos e admite referendo à questão mediante uma série de condições.",
       "source": "Público",
-      "date": "Sat, 14 Nov 2026 05:20:00 GMT",
-      "url": "https://www.publico.pt/2026/11/14/opiniao/opiniao/cartas-director-2194928",
-      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 14 Nov 2026 12:52:00 GMT",
+      "url": "https://www.publico.pt/2026/11/14/mundo/noticia/eua-propoem-cedencia-ucraniana-donbass-troca-adesao-nato-2194981",
+      "img": "https://imagens.publico.pt/imagens.aspx/2130969?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "9351189e",
+      "id": "d21b32a9",
       "cat": "tecnologia",
-      "title": "“Start Campus pagou 637 mil euros à firma dos advogados que terão feito leis à medida”, publicado a 7 de Novembro de 2026",
-      "summary": "Direito de Resposta de João Tiago Silveira face à notícia e publicação online realizadas pelo PÚBLICO em 7 de Novembro de 2026.",
+      "title": "Câmara de Lisboa em tribunal: acção popular tenta travar hasta pública de terrenos municipais",
+      "summary": "Câmara de Lisboa quer vender por, pelo menos, 59 milhões dez imóveis que oposição diz poderem ser usados para habitação pública. José Sá Fernandes e outras sete pessoas contestam legalidade da venda.",
       "source": "Público",
-      "date": "Sat, 14 Nov 2026 04:46:00 GMT",
-      "url": "https://www.publico.pt/2026/11/14/sociedade/direito-de-resposta/start-campus-pagou-637-mil-euros-firma-advogados-terao-leis-medida-publicado-7-novembro-2026-2194863",
-      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 14 Nov 2026 12:49:21 GMT",
+      "url": "https://www.publico.pt/2026/11/14/local/noticia/camara-lisboa-tribunal-accao-popular-tenta-travar-hasta-publica-terrenos-municipais-2194955",
+      "img": "https://imagens.publico.pt/imagens.aspx/2130904?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "ea253dab",
+      "id": "e70df239",
       "cat": "tecnologia",
-      "title": "Rui Costa critica arbitragem e deixa garantia: “Não sairá nenhum jogador importante”",
-      "summary": "Presidente do Benfica assume que o clube se sente “altamente prejudicado”, garante que o Estádio da Luz continuará fechado à selecção e elogia Marco Silva.",
-      "source": "Público",
-      "date": "Sat, 14 Nov 2026 00:44:00 GMT",
-      "url": "https://www.publico.pt/2026/11/14/desporto/noticia/rui-costa-critica-arbitragem-deixa-garantia-nao-saira-jogador-importante-2194968",
-      "img": "https://imagens.publico.pt/imagens.aspx/2130939?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.7
-    },
-    {
-      "id": "3738ccd3",
-      "cat": "tecnologia",
-      "title": "O dia em que a Microsoft parou o mundo.",
-      "summary": "Uma falha da Microsoft deixou milhões sem acesso ao Outlook e a outros serviços essenciais. Neste episódio explicamos o que aconteceu e os riscos de dependermos de poucos gigantes tecnológicos.",
+      "title": "As notícias das 13h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
       "source": "Observador",
-      "date": "Sat, 14 Nov 2026 05:02:15 +0000",
-      "url": "https://observador.pt/programas/a-hist-ria-do-dia/o-dia-em-que-a-microsoft-parou-o-mundo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/01/05143431/770-podcast-a-historia-do-dia-com-pedro-benevides.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "b1b48418",
-      "cat": "tecnologia",
-      "title": "4h. Governo Trump culpa Congresso por voos suspensos",
-      "summary": "Sean Duffy aproveitou para defender a atuação da administração Trump. Ainda, um petroleiro colidiu com um cruzeiro com mais de 180 pessoas no porto de Nova Orleães.",
-      "source": "Observador",
-      "date": "Sat, 14 Nov 2026 04:14:55 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2459/",
+      "date": "Sat, 14 Nov 2026 13:14:00 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2505/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "2cd455d1",
+      "id": "d1ba08e7",
       "cat": "tecnologia",
-      "title": "Suspensão de voos levantada nos EUA",
-      "summary": "A suspensão das descolagens foi levantada depois de mais de quatro horas em que todas as partidas de aviões foram canceladas devido a problemas no controlo de tráfego aéreo. Tratou-se da segunda maior paragem dos movimentos aeroportuários do país, apenas atrás do 11 de setembro.",
+      "title": "\"Voltem a confiar no PS\", pede Carneiro",
+      "summary": "O líder socialista chegou aos Estados Gerais do PS sem calendário para programa eleitoral e colando-se ao discurso de \"diálogo\" de Seguro face aos protestos pela habitação.",
+      "source": "Observador",
+      "date": "Sat, 14 Nov 2026 12:56:46 +0000",
+      "url": "https://observador.pt/2026/11/14/carneiro-pede-aos-portugueses-que-voltem-a-confiar-no-ps-e-evita-prazos-para-novo-programa-eleitoral/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/12143127/48076531.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "9f59601d",
+      "cat": "cultura",
+      "title": "Augusto Cabrita revisitado em Vila Franca de Xira",
+      "summary": "Mais de três anos depois do seu centenário, uma exposição no Museu do Neo-Realismo faz justiça a um homem das imagens que marcou em particular os anos 60, na fotografia, no cinema e na televisão.",
+      "source": "Observador",
+      "date": "Sat, 14 Nov 2026 12:23:20 +0000",
+      "url": "https://observador.pt/2026/11/14/augusto-cabrita-revisitado-em-vila-franca/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:3000:1684:nowe:0:316/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/14115427/7-arrabida.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "bf827eae",
+      "cat": "tecnologia",
+      "title": "Galáxia: a Madeira na mesa, entre a espada e o tamarilho",
+      "summary": "No restaurante do último andar do hotel Savoy Palace, na Madeira, servem-se menus de degustação, mas mantém-se o serviço à carta. A estrela pode ser o foco, mas o caminho é o que a casa escolher.",
       "source": "Jornal de Negócios",
-      "date": "Sat, 14 Nov 2026 02:04:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/detalhe/milhares-de-voos-cancelados-nos-eua-governo-nega-que-problema-esteja-em-novo-sistema-de-ia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-04/img_100x100uu2026-04-20-16-58-29-522340.jpg",
+      "date": "Sat, 14 Nov 2026 13:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/weekend/gastronomia/detalhe/galaxia-a-madeira-na-mesa-entre-a-espada-e-o-tamarilho",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-13-07-50-00-532854.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "8c461a40",
+      "cat": "tecnologia",
+      "title": "Ucrânia: EUA propõem cedência de território em troca de adesão à NATO",
+      "summary": "Os Estados Unidos propuseram à Ucrânia a cedência de territórios à Rússia em troca da adesão à NATO, revelou o Presidente ucraniano, Volodymyr Zelensky, em declarações divulgadas hoje.",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 14 Nov 2026 11:24:14 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/detalhe/ucrania-eua-propoem-cedencia-de-territorio-em-troca-de-adesao-a-nato",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-12-11-25-08-532810.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "4cde069e",
+      "cat": "tecnologia",
+      "title": "PS avança com Estados Gerais para \"preparar alternativa de Governo\"",
+      "summary": "Os novos Estado Gerais do PS, intitulados \"Contamos todos», arrancam hoje em Lisboa, uma plataforma lançada pelo líder socialista, José Luís Carneiro, para recolher contributos de independentes com o objetivo de \"preparar uma alternativa de Governo\". Medina, António Vitorino ou Fernando Araújo entre",
+      "source": "Jornal de Negócios",
+      "date": "Sat, 14 Nov 2026 10:52:00 Z",
+      "url": "https://www.jornaldenegocios.pt/lusa/detalhe/novos-estados-gerais-do-ps-arrancam-hoje-para-preparar-alternativa-de-governo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-05/img_100x100uu2026-05-28-15-01-00-524387.jpg",
       "score": 0.7
     },
     {
