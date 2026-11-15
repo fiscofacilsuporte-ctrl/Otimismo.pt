@@ -1,7 +1,18 @@
 {
-  "last_update": "14/11/2026 22:14 UTC",
+  "last_update": "15/11/2026 06:00 UTC",
   "total": 30,
   "news": [
+    {
+      "id": "5d8f2e33",
+      "cat": "ciencia",
+      "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+      "summary": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrie",
+      "source": "ScienceDaily",
+      "date": "Sat, 14 Nov 2026 22:00:54 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+      "img": "https://www.sciencedaily.com/images/1920/dinosaur-beach-seaweed.webp",
+      "score": 0.82
+    },
     {
       "id": "f10246dd",
       "cat": "ciencia",
@@ -14,26 +25,15 @@
       "score": 0.82
     },
     {
-      "id": "0684537d",
+      "id": "e22e6e44",
       "cat": "ciencia",
-      "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-      "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the dist",
+      "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+      "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of pr",
       "source": "ScienceDaily",
-      "date": "Thu, 12 Nov 2026 06:24:47 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
-      "img": "https://www.sciencedaily.com/images/1920/paleogeographic-map-of-middle-miocene.webp",
+      "date": "Sat, 14 Nov 2026 21:18:16 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+      "img": "https://www.sciencedaily.com/images/1920/laser-light-crystal-quantum-material.webp",
       "score": 0.79
-    },
-    {
-      "id": "a1f40292",
-      "cat": "tecnologia",
-      "title": "Taylor Fritz conquista torneio de Estocolmo",
-      "summary": "O norte-americano Taylor Fritz, primeiro cabeça de série, conquistou o torneio de Estocolmo, depois de vencer na final o argentino Thiago Agustín Tirante, em três sets.",
-      "source": "RTP",
-      "date": "Sat, 14 Nov 2026 15:45:22 +0000",
-      "url": "https://www.rtp.pt/noticias/tenis/taylor-fritz-conquista-torneio-de-estocolmo_d1779168",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/03/036393f274cd5de4388d5dd444fc3760?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
-      "score": 0.76
     },
     {
       "id": "42220f7f",
@@ -85,42 +85,20 @@
       "title": "SpaceX successfully catches top of huge Starship rocket for first time",
       "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
       "source": "BBC News",
-      "date": "Sat, 14 Nov 2026 22:05:45 GMT",
+      "date": "Sat, 14 Nov 2026 22:15:52 GMT",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7be/live/5c1b5060-e077-11f1-9ec0-713bf094c3d1.png",
       "score": 0.76
     },
     {
-      "id": "72d64342",
-      "cat": "geral",
-      "title": "Há derrotas que não são derrotas, são humilhações",
-      "summary": "Num primeiro jogo depois da despedida de Ronaldo, Portugal fez uma exibição inexplicável em Braga e acabou goleado pela Dinamarca, falhando a hipótese de garantir o primeiro lugar do grupo (1-4).",
-      "source": "Observador",
-      "date": "Sat, 14 Nov 2026 21:52:00 +0000",
-      "url": "https://observador.pt/2026/11/14/ha-derrotas-que-nao-sao-derrotas-sao-humilhacoes-a-cronica-do-portugal-dinamarca/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1200:674:nowe:0:126/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/14212914/gettyimages-2304629537.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "4fc79059",
-      "cat": "economia",
-      "title": "CT da Autoeuropa prioridades para próximo triénio",
-      "summary": "\"Garantir o futuro da fábrica, defender o emprego, melhorar as condições de trabalho e assegurar que os trabalhadores tenham uma voz ativa\" são prioridades para Rogério Nogueira.",
-      "source": "Observador",
-      "date": "Sat, 14 Nov 2026 21:11:08 +0000",
-      "url": "https://observador.pt/2026/11/14/ct-da-autoeuropa-reeleita-diz-que-emprego-e-futuro-da-fabrica-de-palmela-sao-prioridades-para-proximo-trienio/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/09/06061059/19143555.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "1391360b",
+      "id": "ee5da987",
       "cat": "tecnologia",
-      "title": "Buscas por homem desaparecido em Tavira suspensas",
-      "summary": "As operações, pelo terceiro dia consecutivo, para tentar localizar o homem, de 32 anos, voltaram a não ter sucesso e foram suspensas ao final do dia, segundo um comunicado da Autoridade Marítima.",
+      "title": "2h. Passos Coelho não quer se percam mais anos sem reformas",
+      "summary": "O antigo primeiro ministro lamenta que se tenham perdido mais de 10 anos sem reformar a Segurança Social. Ainda, a seleção sofreu uma pesada derrota por 4-1 frente à Dinamarca.",
       "source": "Observador",
-      "date": "Sat, 14 Nov 2026 20:40:23 +0000",
-      "url": "https://observador.pt/2026/11/14/buscas-por-homem-desaparecido-em-tavira-suspensas-ao-terceiro-dia-sem-resultados/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:58/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/09/18185630.jpg",
+      "date": "Sun, 15 Nov 2026 02:15:22 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2469/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -168,6 +146,17 @@
       "score": 0.73
     },
     {
+      "id": "60a51aa9",
+      "cat": "tecnologia",
+      "title": "Portugal perdeu em casa com a Dinamarca por 4-1",
+      "summary": "Portugal perdeu em casa com a Dinamarca por 4-1, na 5ª jornada da fase de grupos da Liga das Nações. No primeiro jogo após o adeus de Cristiano Ronaldo, Jorge Jesus perdeu pela primeira vez como selecionador nacional.",
+      "source": "RTP",
+      "date": "Sun, 15 Nov 2026 00:08:47 +0000",
+      "url": "https://www.rtp.pt/noticias/desporto/portugal-perdeu-em-casa-com-a-dinamarca-por-4-1_v1779238",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/c9/c9fca4d8d59a45d0a08bdcb7d50ae7e9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.73
+    },
+    {
       "id": "2737a4e9",
       "cat": "cultura",
       "title": "Seleção nacional vestida com o 7 de Ronaldo",
@@ -179,14 +168,14 @@
       "score": 0.73
     },
     {
-      "id": "3268d3d1",
-      "cat": "tecnologia",
-      "title": "Pagar a quem nos vai substituir",
-      "summary": "Em meados de Outubro, a CNN anunciou um acordo plurianual com o Google. A rede cede direitos alargados sobre o seu jornalismo para funcionalidades experimentais de inteligência artificial e recebe uma compensação por isso. Segundo a imprensa americana, os artigos da CNN passarão a alimentar as respo",
+      "id": "e0f19ee5",
+      "cat": "economia",
+      "title": "Comissão de Trabalhadores da Autoeuropa reeleita diz que emprego e futuro da fábrica de Palmela são prioridades",
+      "summary": "O coordenador da Comissão de Trabalhadores (CT) da Volkswagen Autoeuropa, reeleita esta semana com 69,2% dos votos, afirma que as prioridades do próximo mandato passam pela &#8220;defesa do emprego e garantir o futuro da fábrica de Palmela&#8220;. &#8220;Temos pela frente desafios muito importantes,",
       "source": "ECO",
-      "date": "Sat, 14 Nov 2026 18:00:18 +0000",
-      "url": "https://eco.sapo.pt/opiniao/pagar-a-quem-nos-vai-substituir/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/11/jose-pedro-dias-pinheiro-opiniao.png",
+      "date": "Sun, 15 Nov 2026 01:02:58 +0000",
+      "url": "https://eco.sapo.pt/2026/11/15/comissao-de-trabalhadores-da-autoeuropa-reeleita-diz-que-emprego-e-futuro-da-fabrica-de-palmela-sao-prioridades/",
+      "img": "https://eco.imgix.net/uploads/2026/11/cropped-19143555-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -223,17 +212,6 @@
       "score": 0.73
     },
     {
-      "id": "096351e3",
-      "cat": "ciencia",
-      "title": "Scientists find a simple daily routine linked to less pain and depression",
-      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they stru",
-      "source": "ScienceDaily",
-      "date": "Sat, 14 Nov 2026 07:48:01 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-      "img": "https://www.sciencedaily.com/images/1920/yellow-and-red-smileys-happy-sad-depression.webp",
-      "score": 0.73
-    },
-    {
       "id": "9c9b7f03",
       "cat": "cultura",
       "title": "Imagining the Mossy Cities of the Future",
@@ -256,36 +234,58 @@
       "score": 0.73
     },
     {
-      "id": "da9b6a4d",
-      "cat": "tecnologia",
-      "title": "Bandeirada nocturna",
-      "summary": "A maneira como as pessoas se comportam ao entrar diz muito sobre o estado em que se encontram, ontem entrou um casal aos beijos. Crónica de Cláudia Lucas Chéu",
+      "id": "0da15eed",
+      "cat": "geral",
+      "title": "Falta habitação acessível? Sem ordenamento do território, não há milagres!",
+      "summary": "Não existe em Portugal uma política de ordenamento do território que responda de forma antecipada e eficaz às necessidades de habitação.",
       "source": "Público",
-      "date": "Sat, 14 Nov 2026 21:10:00 GMT",
-      "url": "https://www.publico.pt/2026/11/14/p3/cronica/bandeirada-nocturna-2194920",
-      "img": "https://imagens.publico.pt/imagens.aspx/2130816?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_P3.png",
+      "date": "Sun, 15 Nov 2026 00:30:00 GMT",
+      "url": "https://www.publico.pt/2026/11/15/opiniao/opiniao/falta-habitacao-acessivel-ordenamento-territorio-nao-ha-milagres-2194596",
+      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "4cad8801",
+      "id": "2d162349",
       "cat": "tecnologia",
-      "title": "Rui Moreira, um livro e Marcelo: “Houve coisas que preferia que não tivesse dito, mas é tudo verdade”",
-      "summary": "Apresentação de O Fim das Ilusões… , o último livro do ex-autarca do Porto, ficou a cargo de Marcelo Rebelo de Sousa, que o autor já criticou por falar demais. Marcelo fez elogios e inconfidências.",
+      "title": "O futuro à porta de casa",
+      "summary": "O Alentejo tem ativos, empresas, instituições, conhecimento e oportunidades. Tem também desafios demográficos que não podemos adiar. Opinião de Ricardo Pinheiro",
       "source": "Público",
-      "date": "Sat, 14 Nov 2026 20:50:17 GMT",
-      "url": "https://www.publico.pt/2026/11/14/politica/noticia/rui-moreira-livro-marcelo-preferia-nao-verdade-2195010",
-      "img": "https://imagens.publico.pt/imagens.aspx/2131064?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sun, 15 Nov 2026 00:25:00 GMT",
+      "url": "https://www.publico.pt/2026/11/15/opiniao/opiniao/futuro-porta-casa-2194122",
+      "img": "https://imagens.publico.pt/imagens.aspx/2129605?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "07c4da40",
+      "id": "3edd7f10",
       "cat": "tecnologia",
-      "title": "Lobo d’Ávila espera coragem do PS para ser “motor de mudança e reformismo” no país",
-      "summary": "Filipe Lobo d’Ávila participou como independente nos Estados Gerais do PS. Antigo vice-presidente do CDS-PP elogia capacidades de Carneiro, “que nenhum outro líder político reúne”.",
+      "title": "Quando a paz tem voz de mulher",
+      "summary": "A diplomacia humanitária, tantas vezes conduzida fora dos canais convencionais, pode salvar vidas que a diplomacia tradicional, sozinha, não alcança. Opinião de José Manuel Maia",
       "source": "Público",
-      "date": "Sat, 14 Nov 2026 19:41:36 GMT",
-      "url": "https://www.publico.pt/2026/11/14/politica/noticia/lobo-davila-espera-coragem-ps-motor-mudanca-reformismo-pais-2195007",
-      "img": "https://imagens.publico.pt/imagens.aspx/2131045?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sun, 15 Nov 2026 00:20:00 GMT",
+      "url": "https://www.publico.pt/2026/11/15/opiniao/opiniao/paz-voz-mulher-2193591",
+      "img": "https://imagens.publico.pt/imagens.aspx/2119774?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.7
+    },
+    {
+      "id": "5659e334",
+      "cat": "tecnologia",
+      "title": "As notícias das 5h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sun, 15 Nov 2026 05:15:03 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1582/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "db3444e7",
+      "cat": "tecnologia",
+      "title": "4h. Mais de 100 mil pessoas protestaram em França",
+      "summary": "Mais de 200 detidos e 10 polícias feridos no quinto fim de semana consecutivo de protestos em França. Ainda, o movimento da Acampada decidiu pernoitar na Praça dos Restauradores.",
+      "source": "Observador",
+      "date": "Sun, 15 Nov 2026 04:16:30 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-4h-2460/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
@@ -311,14 +311,14 @@
       "score": 0.7
     },
     {
-      "id": "f330e4e0",
-      "cat": "tecnologia",
-      "title": "FC Porto na final da Taça Continental de hóquei em patins",
-      "summary": "O FC Porto vai disputar no domingo com o Lleida a final da Taça Continental de hóquei em patins, em Espanha, após vencer hoje o Calafell nos penáltis (2-0), após empate a 2-2 no fim do jogo e prolongamento.",
+      "id": "24341193",
+      "cat": "desporto",
+      "title": "Jogadores reconheceram que a Dinamarca foi superior",
+      "summary": "João Palhinha pediu desculpa pelo resultado.",
       "source": "RTP",
-      "date": "Sat, 14 Nov 2026 20:59:40 +0000",
-      "url": "https://www.rtp.pt/noticias/hoquei/fc-porto-na-final-da-taca-continental-de-hoquei-em-patins_d1779219",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b488e23b68d419a7ed817bffc713a57a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sun, 15 Nov 2026 00:12:47 +0000",
+      "url": "https://www.rtp.pt/noticias/desporto/jogadores-reconheceram-que-a-dinamarca-foi-superior_v1779240",
+      "img": "https://cdn-images.rtp.pt/icm/images/39/391214be872d4fb682ca35a6da7a7b61_N.jpg?",
       "score": 0.7
     },
     {
