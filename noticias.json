@@ -1,5 +1,5 @@
 {
-  "last_update": "15/11/2026 22:42 UTC",
+  "last_update": "16/11/2026 05:59 UTC",
   "total": 30,
   "news": [
     {
@@ -47,17 +47,6 @@
       "score": 0.79
     },
     {
-      "id": "4ac947bb",
-      "cat": "tecnologia",
-      "title": "Rutte precisa de umas lições sobre Portugal",
-      "summary": "Os portugueses conhecem-no bem. É o mesmo que, enquanto primeiro-ministro dos Países Baixos, liderou a resistência dos países ditos frugais à solidariedade financeira europeia. Editorial deHelena Pereira",
-      "source": "Público",
-      "date": "Sun, 15 Nov 2026 21:30:30 GMT",
-      "url": "https://www.publico.pt/2026/11/15/opiniao/editorial/rutte-precisa-licoes-portugal-2195034",
-      "img": "https://imagens.publico.pt/imagens.aspx/1739855?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.76
-    },
-    {
       "id": "0351974c",
       "cat": "tecnologia",
       "title": "Medidas como seguro e “roaming” interno “não eram realizáveis em cinco meses”",
@@ -80,14 +69,14 @@
       "score": 0.76
     },
     {
-      "id": "d7057c29",
-      "cat": "desporto",
-      "title": "FC Porto vence Taça Continental de hóquei em patins",
-      "summary": "O FC Porto fez jus ao título de campeão europeu e goleou o Lleida, por 7-1, conquistando pela terceira vez a Taça Continental de hóquei em patins.",
+      "id": "56b6a94b",
+      "cat": "tecnologia",
+      "title": "Andreeva conquista WTA Finals",
+      "summary": "A russa Mirra Andreeva derrotou Elina Svitolina por 7-5 e 6-3, e assegurou a vitória nas WTA Finals logo na sua primeira participação.",
       "source": "RTP",
-      "date": "Sun, 15 Nov 2026 17:48:18 +0000",
-      "url": "https://www.rtp.pt/noticias/hoquei/fc-porto-vence-taca-continental-de-hoquei-em-patins_d1779350",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/b7/b710348cd00de4346d6a085f9adf89cb?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sun, 15 Nov 2026 23:21:23 +0000",
+      "url": "https://www.rtp.pt/noticias/tenis/andreeva-conquista-wta-finals_d1779393",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/3f/3f3fb2758cf9cb5a62383e4fea7d300f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.76
     },
     {
@@ -124,25 +113,25 @@
       "score": 0.76
     },
     {
-      "id": "5a37a2b2",
-      "cat": "geral",
-      "title": "FC Porto conquista pela terceira vez a Taça Continental de hóquei em patins",
-      "summary": "“Dragões” golearam espanhóis do Lleida por 7-1 para erguerem troféu que tinham conquistado em 2024 pela última vez. Benfica falha primeira edição da prova feminina.",
-      "source": "Público",
-      "date": "Sun, 15 Nov 2026 19:35:42 GMT",
-      "url": "https://www.publico.pt/2026/11/15/desporto/noticia/fc-porto-conquista-terceira-taca-continental-hoquei-patins-2195052",
-      "img": "https://imagens.publico.pt/imagens.aspx/2131141?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "id": "3a49fce7",
+      "cat": "tecnologia",
+      "title": "3h. Zelensky reúne Europa para definir posição de paz",
+      "summary": "Presidente ucraniano anuncia nova reunião da Coligação dos Dispostos para definir a posição europeia nas negociações para a paz. Ainda, Teerão promete não esperar pelos EUA e admite atacar primeiro.",
+      "source": "Observador",
+      "date": "Mon, 16 Nov 2026 03:16:31 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-3h-2497/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
-      "id": "8cd9c90e",
+      "id": "7f5e5e13",
       "cat": "tecnologia",
-      "title": "Trump pediu investigação a eleições no Brasil?",
-      "summary": "Publicações nas redes sociais e em portais brasileiros sugerem que Trump quer investigação a eleições que disse \"parecerem viciadas\". Mas o apelo não veio do Presidente dos EUA.",
+      "title": "2h. Irão admite atacar Estados Unidos primeiro",
+      "summary": "Aviso do vice-ministro dos Negócios Estrangeiros, que acusa Washington de estar a usar as negociações para preparar nova ofensiva. Ainda, Acampada de Lisboa mantém tendas nos Restauradores até sábado.",
       "source": "Observador",
-      "date": "Sun, 15 Nov 2026 20:42:27 +0000",
-      "url": "https://observador.pt/factchecks/fact-check-trump-pediu-investigacao-aos-resultados-das-eleicoes-no-brasil/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/01/09142359/fact_check-errado.png",
+      "date": "Mon, 16 Nov 2026 02:17:39 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2470/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -168,14 +157,14 @@
       "score": 0.73
     },
     {
-      "id": "198391fd",
+      "id": "0d86d352",
       "cat": "tecnologia",
-      "title": "LeBron James torna-se o terceiro jogador com mais assistências na NBA",
-      "summary": "LeBron James tornou-se no terceiro jogador com mais assistências na fase regular da NBA, ao chegar às 12.092 na vitória dos Philadelphia 76ers sobre os Indiana Pacers (131-124).",
+      "title": "Shelton começa ATP Finals a ganhar",
+      "summary": "O norte-americano Ben Shelton venceu o estreante francês Arthur Fils, por 6-2, 3-6 e 6-3, no primeiro encontro da fase de grupos das ATP Finals, a decorrer em Turim, em Itália.",
       "source": "RTP",
-      "date": "Sun, 15 Nov 2026 21:42:06 +0000",
-      "url": "https://www.rtp.pt/noticias/basquetebol/lebron-james-torna-se-o-terceiro-jogador-com-mais-assistencias-na-nba_d1779381",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/dc/dc51c1241e5e038c069b872711bb4a38?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "date": "Sun, 15 Nov 2026 23:32:47 +0000",
+      "url": "https://www.rtp.pt/noticias/tenis/shelton-comeca-atp-finals-a-ganhar_d1779397",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/49/4934f8d7777c5645e1d7e2a440b13f47?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.73
     },
     {
@@ -245,36 +234,47 @@
       "score": 0.73
     },
     {
-      "id": "099ec76c",
+      "id": "2aa216d4",
       "cat": "tecnologia",
-      "title": "Junta exigiu retirada de normas do mercado de Natal que proibíam protestos no Rossio",
-      "summary": "Mercado de Natal do Rossio afixou normas que proibíam as pessoas de se deitar e protestar, dias depois de a acampada pela habitação ter deixado a praça. Junta de Santa Maria Maior exigiu a retirada.",
+      "title": "José Maria Neves reeleito Presidente de Cabo Verde",
+      "summary": "Neves confirmou o favoritismo e garantiu a reeleição. António José Seguro e José Luís Carneiro felicitaram o vencedor.",
       "source": "Público",
-      "date": "Sun, 15 Nov 2026 21:54:01 GMT",
-      "url": "https://www.publico.pt/2026/11/15/local/noticia/junta-exigiu-retirada-normas-mercado-natal-proibiam-protestos-rossio-2195059",
-      "img": "https://imagens.publico.pt/imagens.aspx/2131160?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Mon, 16 Nov 2026 00:47:06 GMT",
+      "url": "https://www.publico.pt/2026/11/16/mundo/noticia/jose-maria-neves-reeleito-presidente-cabo-verde-2195065",
+      "img": "https://imagens.publico.pt/imagens.aspx/2131165?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "5767a4cc",
+      "id": "ecd71430",
       "cat": "tecnologia",
-      "title": "As notícias das 22h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "A banca pode fazer mais pela habitação",
+      "summary": "O que os bancos poderiam ter feito e podem fazer agora. Opinião de António Mendonça Pinto",
+      "source": "Público",
+      "date": "Mon, 16 Nov 2026 00:30:00 GMT",
+      "url": "https://www.publico.pt/2026/11/16/opiniao/opiniao/banca-habitacao-2194606",
+      "img": "https://imagens.publico.pt/imagens.aspx/1824156?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.7
+    },
+    {
+      "id": "b09e53af",
+      "cat": "geral",
+      "title": "Verdades-tabu: causas para além das acampadas",
+      "summary": "Neste contexto, atender às necessidades dos jovens requer uma reestruturação da despesa pública e uma redistribuição dos recursos. Opinião de Helena Lopes",
+      "source": "Público",
+      "date": "Mon, 16 Nov 2026 00:25:00 GMT",
+      "url": "https://www.publico.pt/2026/11/16/opiniao/opiniao/verdadestabu-causas-alem-acampadas-2194759",
+      "img": "https://imagens.publico.pt/imagens.aspx/1489087?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.7
+    },
+    {
+      "id": "d229d6d8",
+      "cat": "tecnologia",
+      "title": "5h. Acampada. Tendas ficam nos Restauradores até sábado",
+      "summary": "Manifestantes contam apenas desmobilizar para a manifestação da CGTP, mas admitem não pernoitar todos os dias na praça. Ainda, Luís Neves volta às negociações com profissionais da PSP e da GNR.",
       "source": "Observador",
-      "date": "Sun, 15 Nov 2026 22:13:14 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1899/",
+      "date": "Mon, 16 Nov 2026 05:16:46 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1583/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
-      "score": 0.7
-    },
-    {
-      "id": "cab67480",
-      "cat": "tecnologia",
-      "title": "Só Andreeva foi capaz de Mirrar a nova vida de Svitolina",
-      "summary": "Da Sibéria para o Mundo: Mirra Andreeva, a nova coqueluche do ténis treinada por Conchita Martínez que ganhou Roland Garros, chegou, viu e venceu o WTA Finals, batendo Svitolina na final (7-5 e 6-3).",
-      "source": "Observador",
-      "date": "Sun, 15 Nov 2026 22:05:14 +0000",
-      "url": "https://observador.pt/2026/11/15/so-andreeva-foi-capaz-de-mirrar-a-nova-vida-de-svitolina-prodigio-russo-de-19-anos-vence-wta-finals/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:77/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/15215420/mirra-andreeva.jpg",
       "score": 0.7
     },
     {
@@ -300,6 +300,17 @@
       "score": 0.7
     },
     {
+      "id": "a2d27e43",
+      "cat": "tecnologia",
+      "title": "Jensen Huang discute regresso à liderança da Nvidia",
+      "summary": "Jensen Huang discutiu com pessoas próximas a possibilidade de voltar a liderar a Nvidia, dias depois de se demitir, enquanto aliados em Silicon Valley pressionam o conselho de administração a reconduzi-lo, noticia o Financial Times (acesso pago). A demissão seguiu-se a notícias sobre relações extrac",
+      "source": "ECO",
+      "date": "Mon, 16 Nov 2026 00:26:37 +0000",
+      "url": "https://eco.sapo.pt/2026/11/16/jensen-huang-discute-regresso-a-lideranca-da-nvidia/",
+      "img": "https://eco.imgix.net/uploads/2026/11/cropped-doc202611104810080613366379.jpg",
+      "score": 0.7
+    },
+    {
       "id": "6b31dac3",
       "cat": "tecnologia",
       "title": "Acampada de Lisboa decide manter tendas na Praça dos Restauradores até sábado",
@@ -308,17 +319,6 @@
       "date": "Sun, 15 Nov 2026 22:13:19 +0000",
       "url": "https://eco.sapo.pt/2026/11/15/acampada-de-lisboa-decide-manter-tendas-na-praca-dos-restauradores-ate-sabado/",
       "img": "https://eco.imgix.net/uploads/2026/11/cropped-48132933-scaled-1.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "f15d7a24",
-      "cat": "tecnologia",
-      "title": "Nuno Melo contra “turba de radicalistas” que quer “atacar a democracia”",
-      "summary": "O presidente do CDS-PP, Nuno Melo, argumentou hoje que a &#8220;turba de radicalistas&#8221; envolvida nas acampadas quer &#8220;atacar a democracia&#8221; e &#8220;desgastar o Governo&#8221;, aproveitando a causa da habitação, mas &#8220;a pensar em eleições antecipadas&#8221;. &#8220;Temos o maior",
-      "source": "ECO",
-      "date": "Sun, 15 Nov 2026 22:07:50 +0000",
-      "url": "https://eco.sapo.pt/2026/11/15/nuno-melo-contra-turba-de-radicalistas-que-quer-atacar-a-democracia/",
-      "img": "https://eco.imgix.net/uploads/2026/11/cropped-46732582-scaled-1.jpg",
       "score": 0.7
     },
     {
