@@ -1,5 +1,5 @@
 {
-  "last_update": "20/11/2026 00:32 UTC",
+  "last_update": "20/11/2026 15:15 UTC",
   "total": 30,
   "news": [
     {
@@ -14,17 +14,6 @@
       "score": 0.79
     },
     {
-      "id": "feab16c0",
-      "cat": "ambiente",
-      "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-      "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
-      "source": "BBC News",
-      "date": "Tue, 17 Nov 2026 23:34:56 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg",
-      "score": 0.79
-    },
-    {
       "id": "c8fea908",
       "cat": "ciencia",
       "title": "Experimental compound burns fat without sacrificing muscle",
@@ -36,25 +25,58 @@
       "score": 0.79
     },
     {
-      "id": "94bdca0a",
+      "id": "dcfe2982",
+      "cat": "ciencia",
+      "title": "A 3-million-year-old child just made human evolution far more complicated",
+      "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree. The discovery challenges a century of assumptions and reveals how dr",
+      "source": "ScienceDaily",
+      "date": "Thu, 19 Nov 2026 22:17:52 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+      "img": "https://www.sciencedaily.com/images/1920/taung-child.webp",
+      "score": 0.79
+    },
+    {
+      "id": "b354125b",
       "cat": "tecnologia",
-      "title": "Quinteto distinguido pelo COP com prémio Excelência Desportiva 2026",
-      "summary": "Agate de Sousa, Fernando Pimenta, Gerson Baldé, Iúri Leitão e Vasco Vilaça foram premiados na gala da Celebração Olímpica, que teve lugar no Porto.",
-      "source": "Público",
-      "date": "Thu, 19 Nov 2026 23:20:00 GMT",
-      "url": "https://www.publico.pt/2026/11/19/desporto/noticia/quinteto-distinguido-cop-premio-excelencia-desportiva-2026-2195638",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132250?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "title": "Cidades que Inovam",
+      "summary": "Como se constrói uma cidade mais sustentável, inteligente e participativa? Luísa Salgueiro, presidente da Câmara de Matosinhos, e Tiago Ferreira, da Aliados Consulting, debatem a inovação e as cidades do futuro.",
+      "source": "Observador",
+      "date": "Fri, 20 Nov 2026 14:12:25 +0000",
+      "url": "https://observador.pt/programas/aliados-do-futuro/cidades-que-inovam/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1541:866:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/12120012/adf-aliados-1540.jpg",
       "score": 0.76
     },
     {
-      "id": "3f0255de",
+      "id": "1f7567de",
       "cat": "tecnologia",
-      "title": "Apple está a trabalhar em agente de IA para rivalizar com OpenAI e Anthropic",
-      "summary": "A empresa do iPhone procura entrar num mercado que já está a ser alvo de fortes apostas de gigantes da inteligência artificial, avança a Bloomberg. Os planos foram revelados em anúncios de emprego colocados no site da Apple",
+      "title": "O futuro brilhante da Europa",
+      "summary": "Os europeus têm de ser protegidos dos riscos da mudança, mas também do risco de estagnação. Ao esforçarmo-nos demasiado por evitar mudanças disruptivas, desincentivamos a experimentação, o investimento e o empreendedorismo.",
       "source": "Jornal de Negócios",
-      "date": "Thu, 19 Nov 2026 23:50:23 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/apple-esta-a-trabalhar-em-agente-de-ia-para-rivalizar-com-openai-e-anthropic",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-09/img_100x100uu2026-09-09-18-47-12-529276.jpg",
+      "date": "Fri, 20 Nov 2026 14:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/opiniao/economistas/detalhe/o-futuro-brilhante-da-europa",
+      "img": "https://cdn.jornaldenegocios.pt/images/2024-11/img_394x514uu2024-11-07-08-29-38-489206.png",
+      "score": 0.76
+    },
+    {
+      "id": "bd1e6fbe",
+      "cat": "desporto",
+      "title": "Sporting conquista Taça Intercontinental de futsal",
+      "summary": "O Sporting, campeão europeu em título, tornou-se na quinta-feira a primeira equipa portuguesa a erguer a Taça Intercontinental de futsal, ao derrotar na final os espanhóis do Palma por 5-4, com sofrimento inesperado a terminar.",
+      "source": "RTP",
+      "date": "Fri, 20 Nov 2026 09:57:43 +0000",
+      "url": "https://www.rtp.pt/noticias/futsal/sporting-conquista-taca-intercontinental-de-futsal_d1780441",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/98/985f788bb1a669706472f5db7680d7fb?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "7d101271",
+      "cat": "tecnologia",
+      "title": "Bruxelas dá luz verde ao décimo cheque do PRR",
+      "summary": "A Comissão Europeia deu esta sexta-feira luz verde ao décimo e último pedido de pagamento do Plano de Recuperação e Resiliência (PRR). Está assim dado o primeiro passo para o desembolso de 4.672 milhões de euros, que deverão ser pagos até ao final do ano. &#8220;A Comissão Europeia emitiu hoje [sext",
+      "source": "ECO",
+      "date": "Fri, 20 Nov 2026 15:04:57 +0000",
+      "url": "https://eco.sapo.pt/2026/11/20/bruxelas-da-luz-verde-ao-decimo-cheque-do-prr/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-manuel-castro-almeida.jpg",
       "score": 0.76
     },
     {
@@ -69,17 +91,6 @@
       "score": 0.76
     },
     {
-      "id": "434a0014",
-      "cat": "tecnologia",
-      "title": "West Coast’s First Ever Sea Turtle Hatchlings Released into the Pacific (LOOK)",
-      "summary": "Olive ridley sea turtle hatchlings saved from an approaching storm in California were released into the wild over the weekend. It was late September when a female turtle climbed out of the sea, dug a nest on the beach, deposited her clutch, and slipped back into the water leaving nothing but a small",
-      "source": "Good News Network",
-      "date": "Tue, 17 Nov 2026 19:30:43 +0000",
-      "url": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Turtle-hatchlings-rush-for-the-sea-on-Seal-Beach-credit-Robin-Riggs-Aquarium-of-the-Pacific-©.jpg",
-      "score": 0.76
-    },
-    {
       "id": "50b1ed64",
       "cat": "ciencia",
       "title": "Largest British study to check social media ban's effect on youth mental health",
@@ -91,58 +102,91 @@
       "score": 0.76
     },
     {
-      "id": "df853a19",
-      "cat": "ciencia",
-      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-      "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially har",
-      "source": "ScienceDaily",
-      "date": "Thu, 19 Nov 2026 06:13:29 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-      "img": "https://www.sciencedaily.com/images/1920/vegan-plant-based-meat-factory.webp",
-      "score": 0.76
-    },
-    {
-      "id": "dc7c186c",
-      "cat": "cultura",
-      "title": "Something strange is living beneath the skin of deep-sea pigs",
-      "summary": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptional",
-      "source": "ScienceDaily",
-      "date": "Thu, 19 Nov 2026 05:33:03 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
-      "img": "https://www.sciencedaily.com/images/1920/walking-sea-pig.webp",
-      "score": 0.76
-    },
-    {
-      "id": "6a994fa6",
-      "cat": "desporto",
-      "title": "Fernando Gomes quer “festa e aprovação do país” na despedida de Ronaldo da selecção",
-      "summary": "O antigo presidente da Federação Portuguesa de Futebol desconhece os motivos da decisão do capitão. A ministra do Desporto diz subscrever “todas as palavras” do dirigente.",
-      "source": "Público",
-      "date": "Thu, 19 Nov 2026 21:57:57 GMT",
-      "url": "https://www.publico.pt/2026/11/19/desporto/noticia/fernando-gomes-quer-festa-aprovacao-pais-despedida-ronaldo-seleccao-2195636",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132237?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.73
-    },
-    {
-      "id": "456b8e54",
+      "id": "eced57b3",
       "cat": "tecnologia",
-      "title": "Sporting estreia-se com vitória na fase principal da Liga dos Campeões de andebol",
-      "summary": "Os “leões” foram sempre superiores aos romenos e já venciam ao intervalo.",
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity a",
+      "source": "ScienceDaily",
+      "date": "Fri, 20 Nov 2026 00:41:16 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
+      "img": "https://www.sciencedaily.com/images/1920/black-hole-consuming-orbiting-star.webp",
+      "score": 0.76
+    },
+    {
+      "id": "14235b0c",
+      "cat": "ambiente",
+      "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
+      "summary": "Parc des Madelinots, a humble wedge of green space in the Verdun borough of Montreal, is not in the most tranquil of settings. The 6,500-square-foot pocket park sits beside a busy junction and is flanked on two sides by roads often filled with cars. For years, locals in the historically... The post ",
+      "source": "Reasons to be Cheerful",
+      "date": "Fri, 20 Nov 2026 08:00:05 +0000",
+      "url": "https://reasonstobecheerful.world/montreal-harnessing-ocean-sounds-countering-traffic-noise/",
+      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/shutterstock_2774082999-scaled.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "dc856a22",
+      "cat": "tecnologia",
+      "title": "Crédito Agrícola lucra quase tanto até Setembro como em 2025 inteiro",
+      "summary": "Lucro do Crédito Agrícola sobe, apesar de custos ofuscarem crédito mais limpo. Juros e comissões contribuíram para a melhoria de 17% do lucro. Um patamar para ser supervisionado pelo BCE foi superado.",
       "source": "Público",
-      "date": "Thu, 19 Nov 2026 21:23:54 GMT",
-      "url": "https://www.publico.pt/2026/11/19/desporto/noticia/sporting-estreiase-vitoria-fase-principal-liga-campeoes-andebol-2195633",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132236?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Fri, 20 Nov 2026 14:35:57 GMT",
+      "url": "https://www.publico.pt/2026/11/20/economia/noticia/credito-agricola-lucra-quase-tanto-ate-setembro-2025-inteiro-2195698",
+      "img": "https://imagens.publico.pt/imagens.aspx/2132380?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "acc634e6",
+      "id": "dac42fb8",
+      "cat": "tecnologia",
+      "title": "Amazónia: A chuva não conhece fronteiras",
+      "summary": "Sabemos quanto vale o ouro que sai da Amazónia. E a chuva que dela sai? Não comemos ouro, nem o respiramos. Mas é o ouro que sabemos pôr num balanço. Opinião de Maria Leonor Sales",
+      "source": "Público",
+      "date": "Fri, 20 Nov 2026 14:10:00 GMT",
+      "url": "https://www.publico.pt/2026/11/20/azul/opiniao/chuva-nao-conhece-fronteiras-2195613",
+      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Azul.png",
+      "score": 0.73
+    },
+    {
+      "id": "466103a6",
+      "cat": "geral",
+      "title": "Seguro quer “estabilidade”, Orçamento “aprovado” e fala em “votação normal” na AR",
+      "summary": "O país precisa de um Orçamento do Estado e os políticos devem concentrar-se em resolver os problemas das pessoas, disse o chefe de Estado.",
+      "source": "Público",
+      "date": "Fri, 20 Nov 2026 13:53:42 GMT",
+      "url": "https://www.publico.pt/2026/11/20/politica/noticia/seguro-apela-estabilidade-estabilidade-dinamica-2195703",
+      "img": "https://imagens.publico.pt/imagens.aspx/2132360?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.73
+    },
+    {
+      "id": "b64b35c1",
       "cat": "desporto",
-      "title": "Agora, o Mundo: Sporting conquista Taça Intercontinental",
-      "summary": "Na reedição da última final da Champions, Sporting voltou a ser mais forte, deu um show na primeira parte e venceu os espanhóis do Palma, conquistando pela primeira vez a Taça Intercontinental (4-5).",
+      "title": "O Paredes pode surpreender o Dragão na festa da Taça?",
+      "summary": "Três mil adeptos do Paredes invadem o FC Porto, será que assustam os azuis e brancos? Já a seleção, apanha os Países Baixos e o futsal do Sporting sagrou-se campeão do mundo a fazer sofrer adeptos.",
       "source": "Observador",
-      "date": "Thu, 19 Nov 2026 23:53:05 +0000",
-      "url": "https://observador.pt/2026/11/19/depois-da-europa-o-mundo-sporting-vence-palma-e-conquista-taca-intercontinental-o-unico-titulo-que-ainda-lhe-faltava/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1638:922:nowe:0:27/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/20000011/tomas-paco.jpeg",
+      "date": "Fri, 20 Nov 2026 13:55:51 +0000",
+      "url": "https://observador.pt/programas/e-o-campeao-e/o-paredes-pode-surpreender-o-dragao-na-festa-da-taca/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2025/05/26101208/770-podcast-e-o-campeao-e-betclic-1.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "bbc66ce1",
+      "cat": "tecnologia",
+      "title": "IA pode acabar com a \"inércia bancária\" mas há riscos para o sistema financeiro",
+      "summary": "A chegada de agentes de IA ao mercado permite aos clientes terem um acesso facilitado a informação que os leve a mudar de conta bancária, à procura de opções mais rentáveis para o seu dinheiro. No entanto, quando forem os próprios agentes a fazer a decisão, há riscos de uma \"amplificação da saída de",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 20 Nov 2026 14:19:27 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/ia-pode-acabar-com-a-inercia-bancaria-mas-ha-riscos-para-o-sistema-financeiro",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-20-11-01-33-533298.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "3ad324f1",
+      "cat": "tecnologia",
+      "title": "Miranda Sarmento: \"Soberania sem financiamento não passa de uma intenção\"",
+      "summary": "Os EUA estão a investir dez vezes mais em IA e a poupança europeia está a ir para o outro lado do Atlântico. Miranda Sarmento pede à banca esteja \"ao serviço\" de uma agenda de crescimento nacional e europeia.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 20 Nov 2026 13:38:05 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/miranda-sarmento-soberania-sem-financiamento-nao-passa-de-uma-intencao",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-20-13-29-56-533329.jpg",
       "score": 0.73
     },
     {
@@ -157,58 +201,36 @@
       "score": 0.73
     },
     {
-      "id": "168507eb",
-      "cat": "desporto",
-      "title": "Fernando Gomes quer \"festa e aprovação do país\" na despedida de Ronaldo da seleção",
-      "summary": "",
-      "source": "RTP",
-      "date": "Thu, 19 Nov 2026 21:41:11 +0000",
-      "url": "https://www.rtp.pt/noticias/selecao-nacional/fernando-gomes-quer-festa-e-aprovacao-do-pais-na-despedida-de-ronaldo-da-selecao_d1780340",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/1e/1edb4d16ae009784e508aa552407546a.jpg?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "2ee626df",
+      "id": "394408a1",
       "cat": "tecnologia",
-      "title": "Sporting estreia-se com vitória na fase principal da Liga dos Campeões de andebol",
-      "summary": "O Sporting estreou-se hoje com um triunfo na fase principal da Liga dos Campeões de andebol, ao vencer em casa os romenos do Dinamo Bucareste por 36-27, em encontro da primeira jornada do Grupo II.",
-      "source": "RTP",
-      "date": "Thu, 19 Nov 2026 21:31:24 +0000",
-      "url": "https://www.rtp.pt/noticias/sporting/sporting-estreia-se-com-vitoria-na-fase-principal-da-liga-dos-campeoes-de-andebol_d1780345",
-      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "4e9fea2b",
-      "cat": "tecnologia",
-      "title": "Taça de Portugal. Paredes eliminou Famalicão e vai ao Dragão",
-      "summary": "Na Taça de Portugal, depois de eliminar o Famalicão, o Paredes desloca-se ao Estádio do Dragão com o mesmo objetivo. É líder da série A do terceiro escalão e este jogo é para muitos jogadores um momento histórico.",
-      "source": "RTP",
-      "date": "Thu, 19 Nov 2026 21:20:47 +0000",
-      "url": "https://www.rtp.pt/noticias/desporto/taca-de-portugal-paredes-eliminou-famalicao-e-vai-ao-dragao_v1780346",
-      "img": "https://cdn-images.rtp.pt/icm/images/f6/f6e928116620f3c28960a495e6d5177f_N.jpg?",
-      "score": 0.73
-    },
-    {
-      "id": "1550092f",
-      "cat": "ambiente",
-      "title": "Lembra-se da polémica com as camisolas poveiras? Tory Burch abre no El Corte Inglés",
-      "summary": "A marca norte-americana Tory Burch abre esta sexta-feira o seu primeiro espaço próprio em Portugal, no El Corte Inglés de Lisboa, confirmou o armazém ao ECO Avenida. A loja está localizada no corredor de marcas de alto segmento do El Corte Inglés, que na próxima semana assinala 25 anos na capital po",
+      "title": "Almada e Seixal ainda sem acordo para novo furo de captação de água",
+      "summary": "Almada e Seixal continuam sem fechar o acordo para o licenciamento de um novo furo de captação de água quase dois meses após o anúncio da medida destinada a resolver, a curto prazo, os problemas de abastecimento no concelho almadense. A última reunião entre os dois concelhos a pedido da Entidade Reg",
       "source": "ECO",
-      "date": "Thu, 19 Nov 2026 20:56:25 +0000",
-      "url": "https://eco.sapo.pt/2026/11/19/lembra-se-da-polemica-com-as-camisolas-poveiras-tory-burch-abre-no-el-corte-ingles/",
-      "img": "https://eco.imgix.net/uploads/2023/06/cropped-eci-1.jpeg",
+      "date": "Fri, 20 Nov 2026 15:09:53 +0000",
+      "url": "https://eco.sapo.pt/2026/11/20/almada-e-seixal-ainda-sem-acordo-para-novo-furo-de-captacao-de-agua/",
+      "img": "https://eco.imgix.net/uploads/2026/06/cropped-conf-transporte-publico040.jpg",
       "score": 0.73
     },
     {
-      "id": "4344c2b3",
+      "id": "3d4ac15a",
       "cat": "tecnologia",
-      "title": "Portimão passa a ter 294 câmaras de videovigilância",
-      "summary": "O Governo autorizou o alargamento do sistema de videovigilância de Portimão para um total de 294 câmaras, na sequência de um pedido da Polícia de Segurança Pública (PSP). A nova autorização de funcionamento é válida por três anos, de acordo com o despacho publicado esta quinta-feira em Diário da Rep",
+      "title": "UE vê fósseis, captura de carbono e direitos humanos como linhas vermelhas na COP31",
+      "summary": "A União Europeia tem três linhas vermelhas em relação ao conteúdo que deve figurar no acordo final da 31.ª Conferência das Partes (COP31). Exige que seja mencionado o abandono dos combustíveis fósseis e que, em oposição, as tecnologias de captura de carbono não tenham tanto destaque como no último r",
       "source": "ECO",
-      "date": "Thu, 19 Nov 2026 18:51:19 +0000",
-      "url": "https://eco.sapo.pt/2026/11/19/portimao-passa-a-ter-294-camaras-de-videovigilancia/",
-      "img": "https://eco.imgix.net/uploads/2026/04/cropped-39647520-scaled-1.jpg",
+      "date": "Fri, 20 Nov 2026 14:52:40 +0000",
+      "url": "https://eco.sapo.pt/2026/11/20/ue-ve-fosseis-captura-de-carbono-e-direitos-humanos-como-linhas-vermelhas-na-cop31/",
+      "img": "https://eco.imgix.net/uploads/2026/11/cropped-5916568-2.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "fc9e8e68",
+      "cat": "tecnologia",
+      "title": "Every Tuesday, This Chef Cooks for 100 People in Need Using Random Food Bank Ingredients",
+      "summary": "Cooking content can be extremely popular on social media, but watching Toronto-area Chef Maddy Goldberg narrate her made-from-scratch recipes, it suddenly all tastes a little sweeter. That&#8217;s because every Tuesday for years, Goldberg has been donating her time to prepare banquets for 100 people",
+      "source": "Good News Network",
+      "date": "Fri, 20 Nov 2026 12:30:29 +0000",
+      "url": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Screengrabs-@maddygoldberg-via-Instagram.jpg",
       "score": 0.73
     },
     {
@@ -220,6 +242,17 @@
       "date": "Thu, 19 Nov 2026 13:35:29 GMT",
       "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
       "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a1f/live/36fc5700-e411-11f1-b37c-b3a71d7200af.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "0e029f62",
+      "cat": "saude",
+      "title": "Women's criminal records wiped for abortion offences",
+      "summary": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
+      "source": "BBC News",
+      "date": "Mon, 16 Nov 2026 11:45:33 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed68/live/71f67330-e1ab-11f1-8ee3-23d0d09d2796.jpg",
       "score": 0.73
     },
     {
@@ -245,47 +278,14 @@
       "score": 0.73
     },
     {
-      "id": "4eb4f548",
-      "cat": "ciencia",
-      "title": "Príncipe sem coroa onde a memória não morre",
-      "summary": "Importa recuperar o verdadeiro peso de um termo, tantas vezes, utilizado sem conhecimento, sem rigor e sem consciência da sua dimensão: genocídio.",
+      "id": "89a140ed",
+      "cat": "cultura",
+      "title": "Fundo de emergência e seguros: cada um tem o seu papel",
+      "summary": "Ter dinheiro de parte é essencial, mas nem a melhor poupança substitui uma proteção pensada para os grandes imprevistos.",
       "source": "Observador",
-      "date": "Fri, 20 Nov 2026 00:06:01 +0000",
-      "url": "https://observador.pt/opiniao/principe-sem-coroa-onde-a-memoria-nao-morre/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A480%3A480%3Anowe%3A0%3A11%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F08%2F31235334%2Fimg-9441.jpeg",
-      "score": 0.7
-    },
-    {
-      "id": "876da63f",
-      "cat": "tecnologia",
-      "title": "Prospetiva é imperativo estratégico dos Estados e Empresas",
-      "summary": "A prospetiva Geopolítica tornou-se indispensável: não para prever o próximo Cisne Negro, mas para identificar vulnerabilidades, antecipar tendências e desenvolver adaptação.",
-      "source": "Observador",
-      "date": "Fri, 20 Nov 2026 00:05:43 +0000",
-      "url": "https://observador.pt/opiniao/prospetiva-e-imperativo-estrategico-dos-estados-e-empresas/",
-      "img": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A303%3A303%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A100%2Ff%3Apng%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F11%2F19162251%2Ffrancisco-proenca-garcia.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "2485a105",
-      "cat": "tecnologia",
-      "title": "Subsídio de refeição em cartão isento de IRS deverá subir para 10,97 euros",
-      "summary": "O Governo apresentou uma proposta para aumentar o subsídio de refeição da Função Pública em 30 cêntimos por dia no próximo ano, em vez dos 15 cêntimos previstos. Valor alarga isenções de IRS no privado.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 19 Nov 2026 23:30:00 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/funcao-publica/detalhe/subsidio-de-refeicao-em-cartao-isento-de-irs-devera-subir-para-10-97-euros",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-19-15-46-06-533224.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "0ab74937",
-      "cat": "tecnologia",
-      "title": "Há Governo sem autonomia?",
-      "summary": "Um défice no papel pode ser gerido, com tempo, para não existir na realidade. Coisa diferente é um governo não ter capacidade de “utilizar um euro” sem pedir autorização.",
-      "source": "Jornal de Negócios",
-      "date": "Thu, 19 Nov 2026 23:00:14 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/paulo-moutinho/detalhe/ha-governo-sem-autonomia",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-11/img_394x514uu2024-11-27-15-44-19-490659.png",
+      "date": "Fri, 20 Nov 2026 14:31:33 +0000",
+      "url": "https://observador.pt/programas/minuto-pela-sua-literacia-financeira/fundo-de-emergencia-e-seguros-cada-um-tem-o-seu-papel/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/11183029/zurich-a-prova-de-risco-1minuto-pela-seguranca-1540x866-1-scaled.jpg",
       "score": 0.7
     },
     {
@@ -311,25 +311,25 @@
       "score": 0.7
     },
     {
-      "id": "0a55cc70",
-      "cat": "tecnologia",
-      "title": "Escolas, hospitais ou transportes. O que poderá ser afetado com “a grande greve” da Função Pública",
-      "summary": "A greve nacional da Administração Pública, agendada para esta sexta-feira, pode trazer perturbações em vários serviços do seu quotidiano, desde as escolas à rede de transportes municipais. Os funcionários públicos marcaram uma paralisação no final da primeira semana de votações do Orçamento do Estad",
-      "source": "ECO",
-      "date": "Thu, 19 Nov 2026 20:18:30 +0000",
-      "url": "https://eco.sapo.pt/2026/11/19/escolas-hospitais-ou-transportes-o-que-podera-ser-afetado-com-a-grande-greve-da-funcao-publica/",
-      "img": "https://eco.imgix.net/uploads/2026/06/cropped-greve-escola-basica-de-mafra-junho-2026.jpeg",
+      "id": "aa445a13",
+      "cat": "desporto",
+      "title": "Courtois renova com Real Madrid",
+      "summary": "O guarda-redes belga Thibaut Courtois prolongou o contrato com o Real Madrid até junho de 2028, anunciou o clube da Liga espanhola.",
+      "source": "RTP",
+      "date": "Fri, 20 Nov 2026 15:00:34 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/courtois-renova-com-real-madrid_d1780573",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/78/785d477ec1d4fd262815b474bb10671f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
       "score": 0.7
     },
     {
-      "id": "22cd99c9",
+      "id": "5d59353e",
       "cat": "tecnologia",
-      "title": "The Waterless, Hyper-Efficient Machines That Clean Clothes With Carbon Dioxide",
-      "summary": "This story was originally published by Grist. Sign up for Grist’s weekly newsletter here. Doing the laundry has grown easier and more efficient over the years, yet two things have always remained the same: A washing machine needs water, and a dryer needs heat. Technology designed to clean aerospace ",
-      "source": "Reasons to be Cheerful",
-      "date": "Thu, 19 Nov 2026 08:00:13 +0000",
-      "url": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/",
-      "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/laundry-CO2-carbon-dioxide-clean-clothes-washing-machine.webp",
+      "title": "Mundial de Futebol. Ana Borges e Kika Nazareth são as principais novidades",
+      "summary": "Ana Borges regressa ao grupo depois de uma lesão grave.&lt;br /&gt;&lt;br /&gt;Kika lesionou-se no início do mês e não joga desde 29 de Outubro.",
+      "source": "RTP",
+      "date": "Fri, 20 Nov 2026 14:57:47 +0000",
+      "url": "https://www.rtp.pt/noticias/desporto/mundial-de-futebol-ana-borges-e-kika-nazareth-sao-as-principais-novidades_v1780568",
+      "img": "https://cdn-images.rtp.pt/icm/images/f5/f5f918edcfca899c8ce1bae4f25b29ff_N.jpg?",
       "score": 0.7
     }
   ]
