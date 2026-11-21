@@ -1,5 +1,5 @@
 {
-  "last_update": "20/11/2026 23:55 UTC",
+  "last_update": "21/11/2026 06:47 UTC",
   "total": 30,
   "news": [
     {
@@ -25,6 +25,17 @@
       "score": 0.79
     },
     {
+      "id": "33ddff87",
+      "cat": "cultura",
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing th",
+      "source": "ScienceDaily",
+      "date": "Fri, 20 Nov 2026 21:24:22 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+      "img": "https://www.sciencedaily.com/images/1920/nasa-voyager-spacecraft-radio-signal.webp",
+      "score": 0.79
+    },
+    {
       "id": "c8fea908",
       "cat": "ciencia",
       "title": "Experimental compound burns fat without sacrificing muscle",
@@ -45,17 +56,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
       "img": "https://www.sciencedaily.com/images/1920/taung-child.webp",
       "score": 0.79
-    },
-    {
-      "id": "c356dc0f",
-      "cat": "tecnologia",
-      "title": "EUA confirmam: falta consenso sobre futuro líder da ONU",
-      "summary": "Nona ronda de votações informais no Conselho de Segurança terminou sem acordo. EUA pedem a candidatos com menos apoio que se retirem para desbloquear o processo de escolha do sucessor de Guterres.",
-      "source": "Observador",
-      "date": "Fri, 20 Nov 2026 21:44:13 +0000",
-      "url": "https://observador.pt/2026/11/20/estados-unidos-confirmam-falta-de-consenso-sobre-futuro-lider-da-onu-apos-nova-ronda-de-votacao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/04/21030947/46889596.jpg",
-      "score": 0.76
     },
     {
       "id": "76bea627",
@@ -91,17 +91,6 @@
       "score": 0.76
     },
     {
-      "id": "eced57b3",
-      "cat": "tecnologia",
-      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
-      "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity a",
-      "source": "ScienceDaily",
-      "date": "Fri, 20 Nov 2026 00:41:16 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
-      "img": "https://www.sciencedaily.com/images/1920/black-hole-consuming-orbiting-star.webp",
-      "score": 0.76
-    },
-    {
       "id": "14235b0c",
       "cat": "ambiente",
       "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
@@ -113,25 +102,36 @@
       "score": 0.76
     },
     {
-      "id": "47599e41",
+      "id": "3ac2c7b8",
       "cat": "tecnologia",
-      "title": "Donald Trump defende redução de arsenais nucleares",
-      "summary": "Na cimeira trilateral com Putin e Xi Jinping, Donald Trump defendeu um acordo de redução nuclear entre EUA, Rússia e China. A TASS destacou o apelo, mas o Kremlin exige respeito pela multipolaridade.",
-      "source": "Observador",
-      "date": "Fri, 20 Nov 2026 22:29:10 +0000",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/donald-trump-defende-reducao-de-arsenais-nucleares-entre-estados-unidos-russia-e-china/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg",
+      "title": "“Eles não sabem o que estão a fazer”, diz Montenegro sobre medidas e chumbos da oposição",
+      "summary": "Primeiro-ministro critica PS e Chega por inviabilizarem aumento das propinas e imporem IVA zero por três meses a troco do fim do desconto fiscal para senhorios.",
+      "source": "Público",
+      "date": "Sat, 21 Nov 2026 02:39:55 GMT",
+      "url": "https://www.publico.pt/2026/11/21/politica/noticia/nao-sabem-estao-montenegro-medidas-chumbos-oposicao-2195812",
+      "img": "https://imagens.publico.pt/imagens.aspx/2132623?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "d8ae6d54",
-      "cat": "geral",
-      "title": "AAC diz que congelamento das propinas é \"fracasso político\"",
-      "summary": "Estudantes da Universidade de Coimbra falam em \"inegável fracasso político do atual Governo\" ao verem congelamento das propinas aprovado. Gratuitidade do ensino superior é o que reivindicam.",
+      "id": "a43c7104",
+      "cat": "tecnologia",
+      "title": "As duas horas após a ameaça de bomba que travou a Convenção",
+      "summary": "PSP recebeu a ameaça de bomba, avançou com a evacuação preventiva e a noite terminou com vistoria da brigada de minas e armadilhas. A cronologia da noite que travou o arranque da Convenção.",
       "source": "Observador",
-      "date": "Fri, 20 Nov 2026 22:14:16 +0000",
-      "url": "https://observador.pt/2026/11/20/oe2027-congelamento-das-propinas-e-fracasso-politico-do-governo-diz-academica-de-coimbra/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2019/06/19083948/20514699_770x433_acf_cropped.jpg",
+      "date": "Sat, 21 Nov 2026 02:14:10 +0000",
+      "url": "https://observador.pt/especiais/da-chamada-da-loja-fechada-ha-dois-anos-as-minas-e-armadilhas-da-psp-as-duas-horas-apos-a-ameaca-de-bomba-que-travou-a-convencao-do-chega/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2303:nowe:0:214/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/21014023/ilacerda-7-convencao-chega-19-scaled.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "aadf1c3d",
+      "cat": "tecnologia",
+      "title": "2h. OE. PM acusa PS e o Chega de \"irresponsabilidade\"",
+      "summary": "O primeiro-ministro acusa o PS e o Chega de não saberem o que estão a fazer com as alterações ao Orçamento do Estado. Ainda, o FCP venceu o União Sport Clube de Paredes esta noite.",
+      "source": "Observador",
+      "date": "Sat, 21 Nov 2026 02:14:04 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2475/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -149,7 +149,7 @@
       "id": "c0122140",
       "cat": "tecnologia",
       "title": "Moody's sobe rating de Portugal pela primeira vez desde 2023",
-      "summary": "A Moody's justifica a decisão de elevar a notação para A2 com a confiança de que Portugal será capaz de manter políticas que favoreçam a redução do peso da dívida e um crescimento robusto, apesar da maior fragmentação política. Miranda Sarmento reagiu com aviso sobre votações do Orçamento na especia",
+      "summary": "A Moody's justifica a decisão de elevar a notação para A2 com a confiança de que serão seguidas políticas que favoreçam a redução do peso da dívida e um crescimento robusto, assinalando também a prudência orçamental. Miranda Sarmento reagiu com aviso sobre votações do Orçamento na especialidade.",
       "source": "Jornal de Negócios",
       "date": "Fri, 20 Nov 2026 21:37:00 Z",
       "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/moody-s-sobe-rating-de-portugal-para-a2",
@@ -179,13 +179,13 @@
       "score": 0.73
     },
     {
-      "id": "f7b3222e",
+      "id": "bfbac576",
       "cat": "tecnologia",
       "title": "Daniil Medvedev conquista última vaga nas 'meias' das ATP Finals em ténis",
       "summary": "Daniil Medvedev é o último semifinalista das ATP Finals, após ter derrotado hoje o tenista norte-americano Frances Tiafoe no último encontro do Grupo Ivan Lendl, indo defrontar o número um mundial Alexander Zverev.",
       "source": "RTP",
       "date": "Fri, 20 Nov 2026 22:22:12 +0000",
-      "url": "https://www.rtp.pt/noticias/outras-modalidades/daniil-medvedev-conquista-ultima-vaga-nas-meias-das-atp-finals-em-tenis_d1780651",
+      "url": "https://www.rtp.pt/noticias/tenis/daniil-medvedev-conquista-ultima-vaga-nas-meias-das-atp-finals-em-tenis_d1780651",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/cb/cb00819c565a4d61792c90ed13663971.jpg?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
@@ -267,36 +267,36 @@
       "score": 0.73
     },
     {
-      "id": "0dcd80bd",
+      "id": "b778cb82",
+      "cat": "tecnologia",
+      "title": "Talvez valesse a pena saber mais sobre as touradas – o espectáculo da tortura de um animal em público",
+      "summary": "Os deputados do Chega deviam ler um dos mais belos poemas sobre as touradas e perceber o que vem no pacote. Não é só valentia, é uma certa forma de valentia. Opinião de José Pacheco Pereira",
+      "source": "Público",
+      "date": "Sat, 21 Nov 2026 06:15:00 GMT",
+      "url": "https://www.publico.pt/2026/11/21/opiniao/opiniao/valesse-pena-saber-touradas-espectaculo-tortura-animal-publico-2195782",
+      "img": "https://imagens.publico.pt/imagens.aspx/2132547?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.7
+    },
+    {
+      "id": "8d476ba6",
       "cat": "cultura",
-      "title": "Trump diz que proibiu as Filipinas de comprarem produtos agrícolas do Brasil",
-      "summary": "Presidente dos Estados Unidos afirma que, a partir de 1º de janeiro, as Filipinas terão de comprar 100% dos produtos agrícolas que importam de produtores norte-americanos.",
+      "title": "Cartas ao director",
+      "summary": "",
       "source": "Público",
-      "date": "Fri, 20 Nov 2026 22:53:09 GMT",
-      "url": "https://www.publico.pt/2026/11/20/publico-brasil/noticia/trump-proibiu-filipinas-comprarem-produtos-agricolas-brasil-2195808",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132611?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Brasil.png",
+      "date": "Sat, 21 Nov 2026 05:20:00 GMT",
+      "url": "https://www.publico.pt/2026/11/21/opiniao/opiniao/cartas-director-2195739",
+      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "7fe1996f",
+      "id": "875abb96",
       "cat": "tecnologia",
-      "title": "Moody’s sobe rating de Portugal para “A2”",
-      "summary": "A última vez que a agência de notação financeira tinha elevado a avaliação de Portugal tinha sido em Novembro de 2023.",
-      "source": "Público",
-      "date": "Fri, 20 Nov 2026 22:12:07 GMT",
-      "url": "https://www.publico.pt/2026/11/20/economia/noticia/moodys-sobe-rating-portugal-a2-2195806",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132599?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.7
-    },
-    {
-      "id": "d2b06ff4",
-      "cat": "tecnologia",
-      "title": "Em Covas do Barroso, quem vive da terra paga o preço da transição verde europeia",
-      "summary": "Se o lítio é estratégico para o futuro europeu, porque não atribuir igual importância à água, aos solos e aos conhecimentos de quem vive onde ele é extraído? Crónica de Mónica Vieira",
-      "source": "Público",
-      "date": "Fri, 20 Nov 2026 22:01:23 GMT",
-      "url": "https://www.publico.pt/2026/11/20/p3/cronica/covas-barroso-vive-terra-paga-preco-transicao-verde-europeia-2195740",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132460?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_P3.png",
+      "title": "As notícias das 6h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sat, 21 Nov 2026 06:16:36 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2559/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
