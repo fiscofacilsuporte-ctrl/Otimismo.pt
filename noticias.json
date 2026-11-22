@@ -1,5 +1,5 @@
 {
-  "last_update": "21/11/2026 19:00 UTC",
+  "last_update": "22/11/2026 06:18 UTC",
   "total": 30,
   "news": [
     {
@@ -25,6 +25,17 @@
       "score": 0.79
     },
     {
+      "id": "ce2d03ff",
+      "cat": "cultura",
+      "title": "Um país que esquece as Artes compromete o seu futuro",
+      "summary": "Um país que não reconhece as Artes como parte integrante da sua estratégia de investigação e inovação está a limitar a sua própria capacidade de compreender, questionar e transformar o mundo. Opinião de Ricardo Futre Pinheiro",
+      "source": "Público",
+      "date": "Sun, 22 Nov 2026 00:25:00 GMT",
+      "url": "https://www.publico.pt/2026/11/22/opiniao/opiniao/pais-esquece-artes-compromete-futuro-2195734",
+      "img": "https://imagens.publico.pt/imagens.aspx/2132542?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.76
+    },
+    {
       "id": "f870acad",
       "cat": "tecnologia",
       "title": "Ouro já desvalorizou 2.000 dólares só este ano. Perceba as razões",
@@ -33,6 +44,28 @@
       "date": "Sat, 21 Nov 2026 15:00:00 Z",
       "url": "https://www.jornaldenegocios.pt/mercados/materias-primas/detalhe/ouro-ja-desvalorizou-2-000-dolares-so-este-ano-perceba-as-razoes",
       "img": "https://cdn.jornaldenegocios.pt/images/2025-12/img_100x100uu2025-12-23-15-23-33-515203.jpg",
+      "score": 0.76
+    },
+    {
+      "id": "7b5d5d36",
+      "cat": "desporto",
+      "title": "Leonardo Jardim é o quarto luso campeão no Brasil, no seu pentacampeonato",
+      "summary": "Leonardo Jardim tornou-se hoje no quarto treinador português a conquistar o Brasileirão, num historial inaugurado por Jorge Jesus, no que foi o quinto título de campeão nacional de futebol do madeirense, em cinco países diferentes.",
+      "source": "RTP",
+      "date": "Sat, 21 Nov 2026 22:39:47 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/leonardo-jardim-e-o-quarto-luso-campeao-no-brasil-no-seu-pentacampeonato_d1780864",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/61/61a462ddaf19b427e591a33423ad482a.JPG?w=350&amp;q=50&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "a672e622",
+      "cat": "tecnologia",
+      "title": "Golo de Rodrigo Mora e histórico 'poker' de Malen na goleada da Roma",
+      "summary": "A Roma, com um golo de Rodrigo Mora e um ‘poker’ do neerlandês Malen, somou hoje a quarta vitória seguida na Liga italiana de futebol, ao golear no campo do Parma por 5-1, na 12.ª jornada.",
+      "source": "RTP",
+      "date": "Sat, 21 Nov 2026 19:53:03 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/golo-de-rodrigo-mora-e-historico-poker-de-malen-na-goleada-da-roma_d1780836",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/25/25bca45c4fb8aba60379f8adbc7e4e72.JPG?w=350&amp;q=50&amp;auto=format",
       "score": 0.76
     },
     {
@@ -91,47 +124,25 @@
       "score": 0.76
     },
     {
-      "id": "4b6bde4a",
+      "id": "a2a0bfd5",
       "cat": "tecnologia",
-      "title": "Costa subtrai 200 mil milhões de euros ao orçamento da UE, mas frugais ainda exigem mais cortes",
-      "summary": "Presidente do Conselho Europeu apresentou uma proposta de compromisso para fechar um acordo orçamental antes do fim do ano. Envelope nacional de Potugal sofre corte de 400 milhões de euros.",
+      "title": "Os livros que (não) ficam na estante",
+      "summary": "No ano lectivo de 2025/26, houve um recorde de quase 12 mil casos de censura de livros nas escolas públicas dos EUA, segundo o PEN America. Sold foi o título mais visado.",
       "source": "Público",
-      "date": "Sat, 21 Nov 2026 17:38:09 GMT",
-      "url": "https://www.publico.pt/2026/11/21/economia/noticia/costa-subtrai-200-mil-milhoes-euros-orcamento-ue-frugais-exigem-cortes-2195842",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132688?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 21 Nov 2026 22:27:00 GMT",
+      "url": "https://www.publico.pt/2026/11/21/culturaipsilon/noticia/livros-nao-ficam-estante-2195786",
+      "img": "https://imagens.publico.pt/imagens.aspx/2132600?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
       "score": 0.73
     },
     {
-      "id": "59c7c7b5",
+      "id": "7d832180",
       "cat": "tecnologia",
-      "title": "Sporting-União da Serra. Nel, Blopa e Pedro Lima no onze",
-      "summary": "Os leões recebem a equipa do Campeonato de Portugal e procuram seguir em frente na Taça. Flávio Gonçalves e Ioannidis são baixas para Paulo Fonseca. A partida arranca às 18h em Alvalade. Siga aqui.",
+      "title": "2h. Sporting vence União da Serra em casa por 4-0",
+      "summary": "Com esta vitória, o Sporting elimina o clube de Leiria e passa aos oitavos de final. Ainda, o ministro das Finanças garante que o Governo vai fazer um grande esforço para manter equilíbrio das contas.",
       "source": "Observador",
-      "date": "Sat, 21 Nov 2026 17:00:10 +0000",
-      "url": "https://observador.pt/liveblogs/sporting-uniao-da-serra-rafael-nel-salvador-blopa-e-pedro-lima-no-onze/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:4096:2298:nowe:0:182/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/07224831/gettyimages-2303563177-scaled.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "6da2069c",
-      "cat": "tecnologia",
-      "title": "Bezzecchi vence sprint. Queda de Marquez adia título",
-      "summary": "O italiano Marco Bezzecchi (Aprilia) venceu a corrida sprint do Grande Prémio de Portugal de MotoGP. Queda do espanhol Marc Márquez (Ducati) adiou a decisão do título mundial.",
-      "source": "Observador",
-      "date": "Sat, 21 Nov 2026 16:28:02 +0000",
-      "url": "https://observador.pt/2026/11/21/motogp-bezzecchi-vence-sprint-do-gp-de-portugal-e-queda-de-marquez-adia-titulo/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:100/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/21160916/48163849.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "8adb92dc",
-      "cat": "tecnologia",
-      "title": "UE e Indonésia assinam acordo comercial \"ambicioso\"",
-      "summary": "Segundo Bruxelas, o acordo deverá permitir aumentar as exportações da UE para a maior economia do Sudeste Asiático em cerca de 40% nos próximos 15 anos.",
-      "source": "Observador",
-      "date": "Sat, 21 Nov 2026 16:19:49 +0000",
-      "url": "https://observador.pt/2026/11/21/ue-e-indonesia-assinam-acordo-comercial-ambicioso/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:93/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/21144050/48150980.jpg",
+      "date": "Sun, 22 Nov 2026 02:15:47 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-2h-2476/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.73
     },
     {
@@ -168,36 +179,14 @@
       "score": 0.73
     },
     {
-      "id": "6dbaf805",
-      "cat": "tecnologia",
-      "title": "Marta Paço e Camilo Abdula bem classificados no Mundial de Para Surfing",
-      "summary": "Marta Paço e Camilo Abdula terminaram hoje o primeiro dia de competição do campeonato do Mundo ISA World Para Surfing em segundo lugar nas respetivas baterias, o que os coloca bem posicionados para aceder às finais.",
-      "source": "RTP",
-      "date": "Sat, 21 Nov 2026 18:50:07 +0000",
-      "url": "https://www.rtp.pt/noticias/surf/marta-paco-e-camilo-abdula-bem-classificados-no-mundial-de-para-surfing_d1780821",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7f475df0b9664078500231f883306eed.jpg?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "c6c5eb1e",
+      "id": "51f03861",
       "cat": "desporto",
-      "title": "Pedro Almeida vence Rali Vidreiro e sagra-se campeão nacional de ralis",
-      "summary": "Pedro Almeida (Toyota GR Yaris) conquistou hoje o título de campeão de Portugal de ralis, ao vencer o Rali Vidreiro Centro de Portugal, última prova da temporada, navegado por António Costa.",
+      "title": "Arsenal 'desperdiça' pontos ao empatar em Newcastle",
+      "summary": "O Newcastle travou hoje a série vitoriosa do líder Arsenal na Liga inglesa de futebol, impondo um empate a dois golos na receção ao campeão inglês em título, na 11.ª jornada.",
       "source": "RTP",
-      "date": "Sat, 21 Nov 2026 18:43:54 +0000",
-      "url": "https://www.rtp.pt/noticias/ralis/pedro-almeida-vence-rali-vidreiro-e-sagra-se-campeao-nacional-de-ralis_d1780819",
+      "date": "Sat, 21 Nov 2026 22:45:10 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-desperdica-pontos-ao-empatar-em-newcastle_d1780867",
       "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
-      "score": 0.73
-    },
-    {
-      "id": "b359edf8",
-      "cat": "tecnologia",
-      "title": "Bournemouth faz história na Premier League, Chelsea goleado em casa pelo Leeds",
-      "summary": "O Bournemouth alcançou hoje pela primeira vez na sua história cinco vitórias seguidas na Liga inglesa de futebol, na receção ao Nottingham Forest (2-0), enquanto o Chelsea sofreu uma pesada goleada face ao Leeds (1-4), na 11.ª jornada.",
-      "source": "RTP",
-      "date": "Sat, 21 Nov 2026 18:42:11 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/bournemouth-faz-historia-na-premier-league-chelsea-goleado-em-casa-pelo-leeds_d1780818",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/08/08a4bce1e06c50dfa2564a711a9a818b.jpg?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
     {
@@ -256,25 +245,36 @@
       "score": 0.73
     },
     {
-      "id": "f39bb0cd",
-      "cat": "tecnologia",
-      "title": "Apoios para obras contra ruído de aviões em Lisboa poderão ser pedidos até fim do ano",
-      "summary": "Candidaturas abrirão em breve, diz Câmara de Lisboa. Na capital, serão apoiadas obras em 3600 casas. Inscrições estão fechadas em Loures e Vila Franca de Xira e ainda por abrir em Almada.",
+      "id": "5224d76c",
+      "cat": "cultura",
+      "title": "Cartas ao director",
+      "summary": "",
       "source": "Público",
-      "date": "Sat, 21 Nov 2026 17:30:00 GMT",
-      "url": "https://www.publico.pt/2026/11/21/local/noticia/apoios-obras-ruido-avioes-lisboa-poderao-pedidos-ate-fim-ano-2195716",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132403?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sun, 22 Nov 2026 05:20:00 GMT",
+      "url": "https://www.publico.pt/2026/11/22/opiniao/opiniao/cartas-director-2195771",
+      "img": "https://static.publicocdn.com/files/site/assets/img/social/default-preview.png?share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "1beb7256",
+      "id": "1e890ce6",
       "cat": "tecnologia",
-      "title": "Conheça Beth de Araújo, diretora de Josephine , que tem raízes brasileiras",
-      "summary": "Filme, que descortina trauma de infância vivido pela diretora, foi exibido em Sundance e se prepara para premiações como o Oscar, fincando, pelo terceiro ano seguido, bandeira do Brasil na competição.",
-      "source": "Público",
-      "date": "Sat, 21 Nov 2026 17:22:53 GMT",
-      "url": "https://www.publico.pt/2026/11/21/publico-brasil/noticia/conheca-beth-araujo-diretora-josephine-raizes-brasileiras-2195841",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132684?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Brasil.png",
+      "title": "As notícias das 5h",
+      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "source": "Observador",
+      "date": "Sun, 22 Nov 2026 05:16:29 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-5h-1584/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.7
+    },
+    {
+      "id": "f12499cf",
+      "cat": "tecnologia",
+      "title": "\"Bons meninos\" e sete tendas: a divisão da Acampada na AR",
+      "summary": "Acampada de Lisboa quis dormir frente ao Parlamento, respeitando as ordens da PSP. Mas sete tendas na estrada geraram tensão com a polícia e abriram divisões internas entre manifestantes.",
+      "source": "Observador",
+      "date": "Sun, 22 Nov 2026 04:16:48 +0000",
+      "url": "https://observador.pt/2026/11/22/bons-meninos-sete-tendas-na-estrada-e-os-avisos-da-policia-como-a-acampada-de-lisboa-se-dividiu-a-porta-do-parlamento/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2500:1403:nowe:0:162/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/22040015/ts154a9643-1.jpg",
       "score": 0.7
     },
     {
