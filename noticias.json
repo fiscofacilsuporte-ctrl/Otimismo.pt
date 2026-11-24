@@ -1,5 +1,5 @@
 {
-  "last_update": "23/11/2026 23:44 UTC",
+  "last_update": "24/11/2026 09:33 UTC",
   "total": 30,
   "news": [
     {
@@ -25,17 +25,6 @@
       "score": 0.79
     },
     {
-      "id": "0727b31d",
-      "cat": "ciencia",
-      "title": "‘Extraordinary’ Drug May Actually Cure High Blood Pressure Caused by Hormones, And it’s FDA-Approved",
-      "summary": "Millions of people with high blood pressure may be offered an actual cure for its root cause that would bring long-lasting relief. Doctors were stunned by the latest study of patients who took the FDA-approved drug called baxdrostat, which showed that it reversed the condition—even for years after p",
-      "source": "Good News Network",
-      "date": "Sun, 22 Nov 2026 14:58:57 +0000",
-      "url": "https://www.goodnewsnetwork.org/drug-may-actually-cure-high-blood-pressure-caused-by-hormones/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Doctor-takes-blood-pressure-by-Vitaly-Gariev-NDOYHZ_98Rw-unsplash.jpeg",
-      "score": 0.79
-    },
-    {
       "id": "43f8d065",
       "cat": "ciencia",
       "title": "Time may be far stranger than we realize. Scientists have a way to test it",
@@ -47,47 +36,36 @@
       "score": 0.79
     },
     {
-      "id": "0c03f875",
-      "cat": "tecnologia",
-      "title": "Alterações do PSD e CDS aos “vistos gold ” aprovadas com abstenção do Chega",
-      "summary": "Alterações implicam maior facilidade aos vistos em actividades de investigação e maior restrição por via dos fundos de investimento não imobiliários, que passam a ser só por via de reforço de capital.",
-      "source": "Público",
-      "date": "Mon, 23 Nov 2026 21:58:07 GMT",
-      "url": "https://www.publico.pt/2026/11/23/economia/noticia/alteracoes-psd-cds-vistos-gold-aprovadas-abstencao-chega-2196008",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132970?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.76
-    },
-    {
-      "id": "37681a2c",
-      "cat": "geral",
-      "title": "Tracking Poll. PS supera os 30% pela primeira vez",
-      "summary": "PS chega aos 30,3% das intenções de voto, Chega sobe para 27,5% e a AD para 23,5%. Carneiro mantém-se na frente na escolha do primeiro-ministro, com 34,5%. Aprovação do Governo sobe 2,4 pontos.",
+      "id": "0c6c6d1b",
+      "cat": "economia",
+      "title": "Brasil aprova pacote fiscal para controlo da despesa pública",
+      "summary": "Pacote orçamental aprovado pelos deputados limita o crescimento anual da despesa a 2% acima da inflação e prevê impacto de 7,7 mil milhões de euros. Partido Liberal e setores da esquerda opuseram-se.",
       "source": "Observador",
-      "date": "Mon, 23 Nov 2026 21:21:48 +0000",
-      "url": "https://observador.pt/2026/11/23/tracking-poll-ps-ultrapassa-os-30-pela-primeira-vez-e-reforca-lideranca-ad-regista-quarta-semana-seguida-de-subida/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/09/09232455/47716854.jpg",
+      "date": "Tue, 24 Nov 2026 08:10:35 +0000",
+      "url": "https://observador.pt/2026/11/24/brasil-aprova-pacote-fiscal-destinado-a-reforcar-controlo-da-despesa-publica/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:211/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/24024916/21643409.jpg",
       "score": 0.76
     },
     {
-      "id": "27ebefe1",
-      "cat": "ciencia",
-      "title": "Investimento mínimo em investigação científica para ‘vistos gold’ baixa para 250 mil euros",
-      "summary": "O investimento mínimo que um cidadão estrangeiro terá de fazer em investigação científica para aceder à autorização de residência conhecida por &#8216;vistos gold&#8217; vai baixar de 500 mil para 250 mil euros, segundo uma proposta do PSD e CDS-PP esta segunda-feira aprovada. A iniciativa foi viabi",
-      "source": "ECO",
-      "date": "Mon, 23 Nov 2026 22:35:59 +0000",
-      "url": "https://eco.sapo.pt/2026/11/23/investimento-minimo-em-investigacao-cientifica-para-vistos-gold-baixa-para-250-mil-euros/",
-      "img": "https://eco.imgix.net/uploads/2026/04/cropped-bosch035-1.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "016f0e88",
+      "id": "48977e9f",
       "cat": "tecnologia",
-      "title": "Dower assessora Município de Estarreja na instalação da nova fábrica LEGO",
-      "summary": "A Dower Law Firm está a assessorar o Município de Estarreja no processo de instalação, no concelho, da nova unidade industrial do Grupo LEGO. O investimento, de mil milhões de euros, prevê a criação de mais de mil postos de trabalho diretos e o início da produção em 2030. A Dower está a prestar asse",
-      "source": "ECO",
-      "date": "Mon, 23 Nov 2026 22:04:14 +0000",
-      "url": "https://eco.sapo.pt/2026/11/23/dower-assessora-municipio-de-estarreja-na-instalacao-da-nova-fabrica-lego/",
-      "img": "https://eco.imgix.net/uploads/2023/06/cropped-eduardo_marques_0116-compressed-scaled-1.jpg",
+      "title": "FC Porto procura segunda vitória na Champions",
+      "summary": "O FC Porto defronta os neerlandeses do Feyenoord, na quinta jornada da fase de liga da Liga dos Campeões, e vai tentar dar sequência ao triunfo da ronda anterior, procurando a primeira vitória em Roterdão.",
+      "source": "RTP",
+      "date": "Tue, 24 Nov 2026 09:18:02 +0000",
+      "url": "https://www.rtp.pt/noticias/liga-dos-campeoes/fc-porto-procura-segunda-vitoria-na-champions_d1781250",
+      "img": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bc4c50cc37225a75234cba4c90ffc23c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format",
+      "score": 0.76
+    },
+    {
+      "id": "9e960784",
+      "cat": "tecnologia",
+      "title": "Good News in History, November 24",
+      "summary": "167 years ago today, the British naturalist and geologist Charles Darwin published On the Origin of Species explaining his theory of evolution. The first edition—which has been voted by publishers and librarians as the most influential academic book ever written—introduced the scientific theory that",
+      "source": "Good News Network",
+      "date": "Tue, 24 Nov 2026 08:00:00 +0000",
+      "url": "https://www.goodnewsnetwork.org/events061124/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2018/11/Darwin-finches-and-On-The-Origin-of-Species.jpg",
       "score": 0.76
     },
     {
@@ -146,47 +124,47 @@
       "score": 0.76
     },
     {
-      "id": "c11dc595",
-      "cat": "tecnologia",
-      "title": "Sofia Craveiro vence Prémio Euro-Mediterrânico para Mulheres no Jornalismo com reportagem do P2",
-      "summary": "O trabalho foi visto pelo júri como um “exame muito rigoroso de histórias de mulheres que merecem ser conhecidas” e como uma “reflexão oportuna sobre os desafios da migração”.",
+      "id": "f849399d",
+      "cat": "ciencia",
+      "title": "Organizações unem-se e exigem ao Governo financiamento para o restauro da natureza",
+      "summary": "Aliança Nacional de Restauro Ecológico será apresentada esta semana e alerta que o sucesso do plano de restauro dependerá do financiamento, no dia em decorre a votação final do Orçamento do Estado.",
       "source": "Público",
-      "date": "Mon, 23 Nov 2026 22:11:12 GMT",
-      "url": "https://www.publico.pt/2026/11/23/sociedade/noticia/sofia-craveiro-vence-premio-euromediterranico-mulheres-jornalismo-reportagem-p2-2196063",
-      "img": "https://imagens.publico.pt/imagens.aspx/2133060?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Tue, 24 Nov 2026 07:35:00 GMT",
+      "url": "https://www.publico.pt/2026/11/24/azul/noticia/organizacoes-unemse-exigem-governo-financiamento-restauro-natureza-2196005",
+      "img": "https://imagens.publico.pt/imagens.aspx/2132968?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Azul.png",
       "score": 0.73
     },
     {
-      "id": "57b0ce59",
+      "id": "6d733159",
       "cat": "tecnologia",
-      "title": "“Entre fazerem cadeiras ou ocuparem praças, parece-me melhor que ocupem praças”",
-      "summary": "Exposição Design Político é o pretexto para conversar e conhecer Paolo Deganello, que não é o típico “ designer italiano”. Pioneiro do anti-design, ensina a crítica ao sistema.",
-      "source": "Público",
-      "date": "Mon, 23 Nov 2026 21:00:00 GMT",
-      "url": "https://www.publico.pt/2026/11/23/culturaipsilon/noticia/fazerem-cadeiras-ocuparem-pracas-pareceme-melhor-ocupem-pracas-2195928",
-      "img": "https://imagens.publico.pt/imagens.aspx/2132861?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
-      "score": 0.73
-    },
-    {
-      "id": "a8dcc768",
-      "cat": "tecnologia",
-      "title": "Repúblicas repudiam Universidade por querer despejar alunos",
-      "summary": "O Conselho das Repúblicas acusa a UC de negligência e rejeita o realojamento individual dos estudantes como solução. Duas comunidades históricas da Alta universitária estão em causa.",
+      "title": "Governo venezuelano e oposição concluem diálogo sem avanços",
+      "summary": "Ciclo de diálogo, do qual se esperava anúncios concretos como o início da renovação do Conselho Nacional Eleitoral, prolongou-se por 10 dias. Ronda terminou com promessa de novo encontro em dezembro.",
       "source": "Observador",
-      "date": "Mon, 23 Nov 2026 20:45:04 +0000",
-      "url": "https://observador.pt/2026/11/23/republicas-repudiam-universidade-de-coimbra-por-querer-despejar-duas-casas-de-estudantes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1122:nowe:0:133/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/10/23091620/47986906.jpg",
+      "date": "Tue, 24 Nov 2026 08:08:12 +0000",
+      "url": "https://observador.pt/2026/11/24/governo-venezuelano-e-oposicao-concluem-ronda-de-dialogo-sem-avancos-significativos/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1124:nowe:0:104/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/24024733/48181955.jpg",
       "score": 0.73
     },
     {
-      "id": "c1baaed5",
+      "id": "a7b57f45",
       "cat": "tecnologia",
-      "title": "Quem ganha e perde neste OE",
-      "summary": "Partido liderado por José Luís Carneiro, que, de longe, é aquele que pode “cantar vitória”, é o vencedor deste OE pelas medidas que fez passar, mas talvez não o seja pelas medidas em si.",
+      "title": "Ark sobre Huang: “O líder certo voltou\" à Nvidia \"num momento crucial do negócio”",
+      "summary": "Thomas Hartmann-Boyce, responsável global de soluções de investimento da Ark Invest, explica que, dada a centralidade da Nvidia no setor da IA, é \"compreensível\" que a instabilidade em torno da liderança se tenha propagado, resultando na pior semana para as ações de tecnologia desde a pandemia.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 23 Nov 2026 23:00:00 Z",
-      "url": "https://www.jornaldenegocios.pt/opiniao/editorial/paulo-moutinho/detalhe/quem-ganha-e-perde-neste-oe",
-      "img": "https://cdn.jornaldenegocios.pt/images/2024-11/img_394x514uu2024-11-27-15-44-19-490659.png",
+      "date": "Tue, 24 Nov 2026 09:00:00 Z",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/ark-sobre-huang-o-lider-certo-voltou-a-nvidia-num-momento-crucial-do-negocio",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-23-16-35-41-533440.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "bd96f7df",
+      "cat": "tecnologia",
+      "title": "Bolsa de Lisboa em queda com Galp e EDP Renováveis a pressionarem",
+      "summary": "Do lado das subidas, a Ibersol (0,98% para 10,26 euros), os CTT (0,55% para 4,790 euros) e a Jerónimo Martins (0,36% para 19,36 euros) são os destaques dos primeiros minutos de negociação.",
+      "source": "Jornal de Negócios",
+      "date": "Tue, 24 Nov 2026 08:25:55 Z",
+      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/bolsa-de-lisboa-em-queda-com-galp-e-edp-renovaveis-a-pressionarem",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-02/img_100x100uu2025-02-20-17-18-53-496208.jpg",
       "score": 0.73
     },
     {
@@ -212,25 +190,14 @@
       "score": 0.73
     },
     {
-      "id": "c9f84be9",
-      "cat": "tecnologia",
-      "title": "Contratação pública de defesa: a segurança nacional justifica menos concorrência?",
-      "summary": "O reforço do investimento europeu em defesa e segurança trouxe uma nova urgência à aquisição de equipamentos militares, sistemas tecnológicos e infraestruturas estratégicas. Mas trouxe também uma questão jurídica relevante: até que ponto a proteção da segurança nacional permite afastar as regras da ",
+      "id": "20b723ed",
+      "cat": "ciencia",
+      "title": "Elevado consumo de vídeos curtos na internet associado a pior saúde mental nos jovens",
+      "summary": "O elevado consumo de vídeos curtos na internet, habitual nos adolescentes, aliado a um uso de caráter aditivo, está associado a um maior risco de tendências suicidas, automutilação e problemas de saúde mental, segundo um estudo. A investigação, de natureza observacional (não estabelece uma relação d",
       "source": "ECO",
-      "date": "Mon, 23 Nov 2026 23:10:38 +0000",
-      "url": "https://eco.sapo.pt/opiniao/contratacao-publica-de-defesa-a-seguranca-nacional-justifica-menos-concorrencia/",
-      "img": "https://ecoonline.s3.amazonaws.com/uploads/2026/11/jane-kirkby-opiniao.png",
-      "score": 0.73
-    },
-    {
-      "id": "0e029f62",
-      "cat": "saude",
-      "title": "Women's criminal records wiped for abortion offences",
-      "summary": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
-      "source": "BBC News",
-      "date": "Mon, 16 Nov 2026 11:45:33 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed68/live/71f67330-e1ab-11f1-8ee3-23d0d09d2796.jpg",
+      "date": "Tue, 24 Nov 2026 07:19:45 +0000",
+      "url": "https://eco.sapo.pt/2026/11/24/elevado-consumo-de-videos-curtos-na-internet-associado-a-pior-saude-mental-nos-jovens/",
+      "img": "https://eco.imgix.net/uploads/2026/11/cropped-46933587-scaled-1.jpg",
       "score": 0.73
     },
     {
@@ -245,36 +212,47 @@
       "score": 0.73
     },
     {
-      "id": "0f99070f",
+      "id": "8c0e47a1",
+      "cat": "geral",
+      "title": "Palácio Baldaya volta a receber a Feira de Vinil de Benfica, agora na sua 11.ª edição",
+      "summary": "Na última edição do ano, a Feira de Vinil de Benfica está de volta aos jardins do Palácio Baldaya. Sábado e domingo, 28 e 29 de Novembro, com entrada livre.",
+      "source": "Público",
+      "date": "Tue, 24 Nov 2026 08:00:00 GMT",
+      "url": "https://www.publico.pt/2026/11/24/culturaipsilon/noticia/palacio-baldaya-volta-receber-feira-vinil-benfica-11-edicao-2195991",
+      "img": "https://imagens.publico.pt/imagens.aspx/2132953?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
+      "score": 0.7
+    },
+    {
+      "id": "ecf8e5a4",
       "cat": "tecnologia",
-      "title": "As notícias das 22h",
-      "summary": "As notícias na Rádio Observador. Aconteça o que acontecer.",
+      "title": "The Brotherhood , o inimigo que também somos nós",
+      "summary": "Não sei se é permitido escrever uma declaração de amor no jornal que não seja de um homem para outro ou Fuck Catarse, dirty pathos . Crónica de Maria Giulia Pinheiro",
+      "source": "Público",
+      "date": "Tue, 24 Nov 2026 07:45:00 GMT",
+      "url": "https://www.publico.pt/2026/11/24/publico-brasil/cronica/the-brotherhood-inimigo-tambem-2196062",
+      "img": "https://imagens.publico.pt/imagens.aspx/2035781?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Brasil.png",
+      "score": 0.7
+    },
+    {
+      "id": "c620ddde",
+      "cat": "tecnologia",
+      "title": "8h. Sindicatos da Saúde, Educação e Comércio em greve hoje",
+      "summary": "A paralisação prevê fechar escolas, afetar hospitais e centros de saúde e outros serviços públicos. Ainda, Irão volta a exigir o cumprimento de várias condições para negociar com os Estados Unidos.",
       "source": "Observador",
-      "date": "Mon, 23 Nov 2026 22:14:36 +0000",
-      "url": "https://observador.pt/programas/noticiario/as-noticias-das-22h-1904/",
+      "date": "Tue, 24 Nov 2026 08:13:25 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2587/",
       "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
       "score": 0.7
     },
     {
-      "id": "d382144c",
+      "id": "688896a9",
       "cat": "tecnologia",
-      "title": "Chega vai votar contra proposta de OE 2027 na votação final global",
-      "summary": "André Ventura disse que «70% das propostas do PSD e do CDS-PP foram aprovadas pelo Chega» e referiu que a maioria das propostas viabilizadas pelo seu partido são precisamente dos partidos que sustentam o Governo.",
+      "title": "Quando a alegria é transformada em batalha política",
+      "summary": "Ofender quem quer que seja pela sua religião é um ato próprio de primatas. O respeito por todos e por todas as religiões não deveria ser um campo de batalha cultural.",
       "source": "Jornal de Negócios",
-      "date": "Mon, 23 Nov 2026 22:26:20 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/detalhe/chega-vai-votar-contra-proposta-de-oe-2027-na-votacao-final-global",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-08-22-21-35-532619.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "059d4299",
-      "cat": "tecnologia",
-      "title": "Menor risco sobre recuo da Nvidia causa regresso com pompa de Huang",
-      "summary": "Desde que o CEO da gigante dos semicondutores tinha admitido um caso extraconjugal, as ações tinham afundado 33%, com o maior mergulho a registar-se após a sua saída. Havia receios não só em torno do futuro da empresa, mas também do próprio ecossistema da IA em geral. Com o regresso, os títulos esca",
-      "source": "Jornal de Negócios",
-      "date": "Mon, 23 Nov 2026 22:21:24 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/menor-risco-sobre-recuo-da-nvidia-causa-regresso-com-pompa-de-huang",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-23-17-01-03-533445.jpg",
+      "date": "Tue, 24 Nov 2026 09:15:00 Z",
+      "url": "https://www.jornaldenegocios.pt/opiniao/colunistas/mao-visivel/jose-bento-da-silva/detalhe/quando-a-alegria-e-transformada-em-batalha-politica",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-01/img_394x514uu2025-01-20-11-09-32-494297.png",
       "score": 0.7
     },
     {
@@ -311,14 +289,36 @@
       "score": 0.7
     },
     {
-      "id": "1c55559e",
-      "cat": "desporto",
-      "title": "Van Bronckhorst fala em jogo decisivo para Feyenoord e FC Porto",
-      "summary": "O treinador do Feyenoord, Giovanni van Bronckhorst, considerou hoje que a receção ao FC Porto será decisiva para as duas equipas que se encontram na quinta jornada da fase de liga da Liga dos Campeões de futebol.",
-      "source": "RTP",
-      "date": "Mon, 23 Nov 2026 19:02:39 +0000",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/van-bronckhorst-fala-em-jogo-decisivo-para-feyenoord-e-fc-porto_d1781144",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/28/28e9c9f7aff29a621debb079e8f6c289.jpg?w=350&amp;q=50&amp;auto=format",
+      "id": "6309849b",
+      "cat": "tecnologia",
+      "title": "Greve dos maquinistas pára mais de metade dos comboios",
+      "summary": "Mais de metade dos comboios previstos entre as 00:00 e as 07:00 de hoje não circularam por causa da greve dos maquinistas, segundo a CP, que aponta para a supressão de 86 ligações. Num ponto de situação feito pela CP, com dados até às 07:00, a empresa refere que de um total de 145 comboios [&#8230;]",
+      "source": "ECO",
+      "date": "Tue, 24 Nov 2026 08:53:30 +0000",
+      "url": "https://eco.sapo.pt/2026/11/24/greve-dos-maquinistas-para-mais-de-metade-dos-comboios/",
+      "img": "https://eco.imgix.net/uploads/2026/11/cropped-44915845-scaled-1.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "3de8bb3b",
+      "cat": "tecnologia",
+      "title": "Da grelha ao telemóvel. Como mudou a forma de consumir vídeo nos últimos dez anos?",
+      "summary": "Numa década, os consumidores trocaram a grelha pelo streaming, estão a ver mais vídeo pelo telemóvel e deram aos influenciadores um estatuto de celebridade. É este o retrato que a Ampere Analysis traça para assinalar os dez anos do estudo Media &#8212; Consumer, que acompanha o comportamento dos esp",
+      "source": "ECO",
+      "date": "Tue, 24 Nov 2026 08:37:38 +0000",
+      "url": "https://eco.sapo.pt/2026/11/24/da-grelha-ao-telemovel-como-mudou-a-forma-de-consumir-video-nos-ultimos-dez-anos/",
+      "img": "https://eco.imgix.net/uploads/2019/01/cropped-canal-tv-televisao-filme-serie-plasma-lcd-2.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "f4169920",
+      "cat": "ciencia",
+      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+      "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+      "source": "BBC News",
+      "date": "Sun, 22 Nov 2026 10:44:12 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
       "score": 0.7
     },
     {
