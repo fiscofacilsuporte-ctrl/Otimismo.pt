@@ -1,5 +1,5 @@
 {
-  "last_update": "24/11/2026 22:15 UTC",
+  "last_update": "25/11/2026 08:04 UTC",
   "total": 30,
   "news": [
     {
@@ -14,47 +14,36 @@
       "score": 0.79
     },
     {
-      "id": "75b6d2fd",
+      "id": "29d527b2",
       "cat": "tecnologia",
-      "title": "Governo em queda, mas sem alternativa, eleitorado dividido sobre acordos de governação",
-      "summary": "Sondagem do Cesop indica que a avaliação negativa do Governo é a “mais elevada desde que Montenegro é primeiro-ministro”. Para 37% das pessoas, o Governo deve fazer acordos com o PS ou lei a lei.",
-      "source": "Público",
-      "date": "Tue, 24 Nov 2026 20:00:25 GMT",
-      "url": "https://www.publico.pt/2026/11/24/politica/noticia/governo-queda-alternativa-eleitorado-dividido-acordos-governacao-2196148",
-      "img": "https://imagens.publico.pt/imagens.aspx/2133246?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+      "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protec",
+      "source": "ScienceDaily",
+      "date": "Tue, 24 Nov 2026 18:31:52 EST",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+      "img": "https://www.sciencedaily.com/images/1920/senior-man-nasal-spray-nose-drops.webp",
+      "score": 0.79
+    },
+    {
+      "id": "b3f9d846",
+      "cat": "tecnologia",
+      "title": "Poeta angolana Ana Paula Tavares recebe Prémio Camões 2025",
+      "summary": "Prémio foi revelado em outubro de 2025 e visa distinguir a \"fecunda e coerente trajetória de criação estética\" da poeta e investigadora. Cerimónia de entrega decorre no Palácio da Ajuda, em Lisboa.",
+      "source": "Observador",
+      "date": "Wed, 25 Nov 2026 07:24:17 +0000",
+      "url": "https://observador.pt/2026/11/25/poeta-angolana-ana-paula-tavares-recebe-esta-quarta-feira-premio-camoes-2025/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1280:719:nowe:0:67/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/02/01222622/ana-paula-tavares-1.jpg",
       "score": 0.76
     },
     {
-      "id": "4dbffb6b",
+      "id": "296ada99",
       "cat": "tecnologia",
-      "title": "O maior “Build to Rent do país” vai trazer 311 novas casas acessíveis à Campanhã",
-      "summary": "A cerimónia de lançamento da primeira pedra do “maior projecto de construção de habitação acessível do país em colaboração com privados” aconteceu nesta terça-feira.",
-      "source": "Público",
-      "date": "Tue, 24 Nov 2026 19:01:22 GMT",
-      "url": "https://www.publico.pt/2026/11/24/local/noticia/maior-build-to-rent-pais-vai-trazer-311-novas-casas-acessiveis-campanha-2196187",
-      "img": "https://imagens.publico.pt/imagens.aspx/2133317?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "score": 0.76
-    },
-    {
-      "id": "15c9d58a",
-      "cat": "tecnologia",
-      "title": "Magic Beans investe um milhão em cibersegurança. \"Temos grandes ambições\"",
-      "summary": "A tecnológica portuguesa criou uma ferramenta de cibersegurança em parceria com a Cloudflare, com um investimento de um milhão de euros. O objetivo passa por levar a Magic Shield, que já tem dois grandes clientes portugueses, a Espanha.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 24 Nov 2026 21:39:00 Z",
-      "url": "https://www.jornaldenegocios.pt/empresas/tecnologias/detalhe/magic-beans-investe-um-milhao-em-ciberseguranca-temos-grandes-ambicoes",
-      "img": "https://cdn.jornaldenegocios.pt/images/2023-01/img_100x100uu2023-01-10-15-53-40-443909.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "ba7dd9bb",
-      "cat": "tecnologia",
-      "title": "Wall Street em terreno misto com novo \"sell-off\" nas tecnológicas. Nvidia cai quase 6%",
-      "summary": "O setor tecnológico voltou a registar quebras, com os investidores a renovarem receios com o investimento em inteligência artificial. A Anthropic está abaixo do preço do IPO. O Dow Jones teve um dia positivo.",
-      "source": "Jornal de Negócios",
-      "date": "Tue, 24 Nov 2026 21:34:53 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/wall-street-em-terreno-misto-com-novo-sell-off-nas-tecnologicas-nvidia-cai-quase-6",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-06/img_100x100uu2026-06-29-14-32-16-525829.jpg",
+      "title": "Na banheira, Feyenoord foi patinho de borracha",
+      "summary": "Dragões mantêm vivo sonho da próxima fase depois de vitória por 1-0. Sporting recebe United com regresso do filho pródigo. Ainda, CAN 2025 tem, finalmente, campeão definitivo, ou será que não?",
+      "source": "Observador",
+      "date": "Wed, 25 Nov 2026 06:50:18 +0000",
+      "url": "https://observador.pt/programas/vamos-a-bola/na-banheira-feyenoord-foi-patinho-de-borracha/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13151342/770-podcast-vamos-a-bola.jpg",
       "score": 0.76
     },
     {
@@ -66,17 +55,6 @@
       "date": "Tue, 24 Nov 2026 18:00:21 +0000",
       "url": "https://www.rtp.pt/noticias/desporto/fc-porto-segura-vitoria-na-banheira-de-roterdao_e1781374",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/d4/d4aaf10b70cf53be10655635cee051e5?w=350&amp;q=50&amp;rect=0,69,1276,700&amp;auto=format",
-      "score": 0.76
-    },
-    {
-      "id": "80dea0a6",
-      "cat": "tecnologia",
-      "title": "Esta é a chave do Euromilhões. Jackpot é de 46 milhões de euros",
-      "summary": "Com um primeiro prémio no valor de 46 milhões de euros, decorreu esta terça-feira mais um sorteio do Euromilhões. O valor do jackpot subiu depois de não ter havido vencedores do primeiro prémio no sorteio anterior. Veja a chave vencedora do sorteio desta terça-feira, dia 24 de novembro. Números: 3, ",
-      "source": "ECO",
-      "date": "Tue, 24 Nov 2026 20:22:56 +0000",
-      "url": "https://eco.sapo.pt/2026/11/24/esta-e-a-chave-do-euromilhoes-jackpot-e-de-46-milhoes-de-euros/",
-      "img": "https://eco.imgix.net/uploads/2016/09/cropped-mg_2903.jpg",
       "score": 0.76
     },
     {
@@ -135,17 +113,6 @@
       "score": 0.76
     },
     {
-      "id": "84eb4cfe",
-      "cat": "ciencia",
-      "title": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past",
-      "summary": "Scientists studying ancient rocks from the Moon’s far side have uncovered surprising evidence that challenges decades of thinking about the Solar System’s violent past. Instead of a single catastrophic bombardment, asteroid impacts appear to have declined gradually over billions of years, revealing ",
-      "source": "ScienceDaily",
-      "date": "Tue, 24 Nov 2026 05:24:43 EST",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
-      "img": "https://www.sciencedaily.com/images/1920/farside-moon-planet-earth.webp",
-      "score": 0.76
-    },
-    {
       "id": "14235b0c",
       "cat": "ambiente",
       "title": "Montreal Is Harnessing Soothing Ocean Sounds to Combat Traffic Noise",
@@ -157,58 +124,47 @@
       "score": 0.76
     },
     {
-      "id": "dcd3bb34",
-      "cat": "desporto",
-      "title": "TAS devolve título da Taça das Nações Africanas de 2025 ao Senegal",
-      "summary": "O Tribunal Arbitral do Desporto anulou a decisão da CAF e confirmou o Senegal como campeão da CAN2025, revertendo a atribuição do título a Marrocos, na sequência dos incidentes na final.",
+      "id": "026e82fb",
+      "cat": "tecnologia",
+      "title": "Do elefante branco à IA: o plano do Rio para atrair as gigantes da tecnologia",
+      "summary": "Ex-CEO da Rio 2016 e hoje à frente da Invest.Rio, Sidney Levy apresenta em Lisboa como a energia herdada dos Jogos virou trunfo na disputa por data centers e para atrair talentos e investimentos.",
       "source": "Público",
-      "date": "Tue, 24 Nov 2026 20:32:48 GMT",
-      "url": "https://www.publico.pt/2026/11/24/desporto/noticia/tas-devolve-titulo-taca-nacoes-africanas-2025-senegal-2196175",
-      "img": "https://imagens.publico.pt/imagens.aspx/2133276?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Wed, 25 Nov 2026 07:30:00 GMT",
+      "url": "https://www.publico.pt/2026/11/25/publico-brasil/noticia/elefante-branco-ia-plano-rio-atrair-gigantes-tecnologia-2196077",
+      "img": "https://imagens.publico.pt/imagens.aspx/2133090?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Brasil.png",
       "score": 0.73
     },
     {
-      "id": "56bc4fbb",
+      "id": "007ae789",
       "cat": "tecnologia",
-      "title": "Ucrânia tem paralisado os aeroportos russos?",
-      "summary": "Uma investigação do Ukrainska Pravda revela que entre agosto e o início de novembro deste ano houve restrições de voo em aeroportos russos todos os dias.",
+      "title": "Seguro estreia-se com discurso na sessão do 25 de novembro",
+      "summary": "Presidente da República fará a intervenção de encerramento da sessão, que se inicia pelas 11h00, um dia depois da aprovação final global do Orçamento do Estado para 2027.",
       "source": "Observador",
-      "date": "Tue, 24 Nov 2026 20:42:30 +0000",
-      "url": "https://observador.pt/programas/a-guerra-traduzida/ucrania-tem-paralisado-os-aeroportos-russos/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/11/22134112/770-podcast-a-guerra-traduzida.jpg",
+      "date": "Wed, 25 Nov 2026 07:07:53 +0000",
+      "url": "https://observador.pt/liveblogs/seguro-estreia-se-com-discurso-na-sessao-solene-do-25-de-novembro-pcp-vai-voltar-a-estar-ausente/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1800:1012:nowe:0:94/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/13143532/antonio-jose-seguro-1.jpg",
       "score": 0.73
     },
     {
-      "id": "cdbbcb1a",
+      "id": "01b4548d",
       "cat": "tecnologia",
-      "title": "Aprovar 60% das medidas da oposição é governar ou ceder?",
-      "summary": "Um orçamento aprovado pelo apoio da oposição virou o patinho feio da política. Entre alianças de ocasião e o risco de défice, ninguém fica satisfeito.",
-      "source": "Observador",
-      "date": "Tue, 24 Nov 2026 20:29:24 +0000",
-      "url": "https://observador.pt/programas/e-o-vencedor-e/aprovar-60-das-medidas-da-oposicao-e-governar-ou-ceder/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2021/04/13110132/770-podcast-e-o-vencedor-e.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "be140658",
-      "cat": "tecnologia",
-      "title": "A bicicleta de Félix guiou a noite da redenção de Ronaldo",
-      "summary": "Ronaldo corrigiu últimos penáltis falhados e ficou a 13 golos dos 1.000, João Félix carimbou vitória do Al Nassr na Champions com um golo para não mais esquecer de bicicleta à entrada da área (2-1).",
-      "source": "Observador",
-      "date": "Tue, 24 Nov 2026 20:12:24 +0000",
-      "url": "https://observador.pt/2026/11/24/a-bicicleta-de-felix-guiou-a-noite-da-redencao-de-ronaldo-al-nassr-vence-na-champions-com-mais-dois-golos-da-dupla-portuguesa/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1500:842:nowe:0:44/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/24200033/joao-felix.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "88e92470",
-      "cat": "tecnologia",
-      "title": "Montenegro diz que vai \"encontrar soluções\" para evitar défice",
-      "summary": "No dia em que o PS voltou a viabilizar um orçamento da AD, o primeiro-ministro prometeu \"corrigir erros\" da oposição e \"encontrar soluções\" para evitar défice. Montenegro deu a entender que não avançará com um bónus aos pensionistas que se torne permanente.",
+      "title": "Moradores afetados pelo TGV no Porto têm de sair de casa até final de junho de 2027",
+      "summary": "Existe princípio de acordo com a Câmara do Porto para a utilização de um terreno municipal em Noêda para eventuais realojamentos.",
       "source": "Jornal de Negócios",
-      "date": "Tue, 24 Nov 2026 21:53:31 Z",
-      "url": "https://www.jornaldenegocios.pt/economia/financas-publicas/detalhe/montenegro-diz-que-vai-encontrar-solucoes-para-evitar-defice",
-      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-24-20-34-39-533559.jpg",
+      "date": "Wed, 25 Nov 2026 07:33:39 Z",
+      "url": "https://www.jornaldenegocios.pt/empresas/transportes/detalhe/moradores-afetados-pelo-tgv-no-porto-tem-de-sair-de-casa-ate-final-de-junho-de-2027",
+      "img": "https://cdn.jornaldenegocios.pt/images/2025-10/img_100x100uu2025-10-23-11-26-21-511749.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "1768390e",
+      "cat": "tecnologia",
+      "title": "Amundi: dívida portuguesa \"é uma boa oportunidade\" de investimento",
+      "summary": "A gestora de ativos está mais otimista em relação a ações, colocando o investimento em obrigações como um posicionamento tático. Em termos geográficos, prefere a Europa aos Estados Unidos e vê Portugal com otimismo.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 25 Nov 2026 07:25:00 Z",
+      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/amundi-divida-portuguesa-e-uma-boa-oportunidade-de-investimento",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-24-12-17-32-533493.jpg",
       "score": 0.73
     },
     {
@@ -234,25 +190,36 @@
       "score": 0.73
     },
     {
-      "id": "bd505bdd",
+      "id": "54b98066",
       "cat": "tecnologia",
-      "title": "Recorrer ao Constitucional? Governo “analisará” cada alteração ao Orçamento e “tomará as decisões”",
-      "summary": "No rescaldo da aprovação de um Orçamento do Estado para 2027 com várias alterações introduzidas pela oposição &#8212; e com as quais o Governo discorda &#8211;, o ministro das Finanças afirmou esta terça-feira à noite que &#8220;cada uma delas será agora analisada&#8221;, recusando confirmar se as f",
+      "title": "Avaliação negativa do Governo atinge máximo, mas maioria rejeita eleições antecipadas",
+      "summary": "A avaliação negativa do Governo de Luís Montenegro atingiu os 44%, o valor mais elevado desde que o social-democrata assumiu funções como primeiro-ministro. Segundo uma sondagem do Centro de Estudos e Sondagens de Opinião (Cesop) da Universidade Católica, realizada para o Público, a RTP e a Antena 1",
       "source": "ECO",
-      "date": "Tue, 24 Nov 2026 21:47:14 +0000",
-      "url": "https://eco.sapo.pt/2026/11/24/recorrer-ao-constitucional-governo-analisara-cada-alteracao-ao-orcamento-e-tomara-as-decisoes/",
-      "img": "https://eco.imgix.net/uploads/2026/10/cropped-oe-2027-16.jpg",
+      "date": "Wed, 25 Nov 2026 07:35:23 +0000",
+      "url": "https://eco.sapo.pt/2026/11/25/avaliacao-negativa-do-governo-atinge-maximo-mas-maioria-rejeita-eleicoes-antecipadas/",
+      "img": "https://eco.imgix.net/uploads/2026/10/cropped-47955955-scaled-1.jpg",
       "score": 0.73
     },
     {
-      "id": "6afba3ae",
+      "id": "334b0251",
       "cat": "tecnologia",
-      "title": "“Números” em vez de “acusações”. Liberais querem UTAO a medir impacto de cada alteração ao Orçamento",
-      "summary": "A Iniciativa Liberal pretende que a Unidade Técnica de Acompanhamento Orçamental (UTAO) realize &#8220;uma avaliação do impacto orçamental&#8221; das propostas de alteração ao Orçamento do Estado para 2027 aprovadas na especialidade. O anúncio surge depois de o documento ter sido aprovado em votação",
+      "title": "Danone passa a revelar faixas salariais nos anúncios de emprego. “Transparência é base da confiança e compromisso”",
+      "summary": "As novas regras da transparência salarial ainda não estão em vigor, mas a Danone Portugal já está a preparar-se para as mudanças que aí vêm. No podcast &#8220;Trinta e oito vírgula quatro&#8221;, do Trabalho by ECO, a diretora-geral, Marina Fernie, revela que, em antecipação, esta multinacional deci",
       "source": "ECO",
-      "date": "Tue, 24 Nov 2026 19:36:40 +0000",
-      "url": "https://eco.sapo.pt/2026/11/24/numeros-em-vez-de-acusacoes-liberais-querem-utao-a-medir-impacto-de-cada-alteracao-ao-orcamento/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-mocao-censura23.jpg",
+      "date": "Wed, 25 Nov 2026 06:58:44 +0000",
+      "url": "https://eco.sapo.pt/2026/11/25/danone-passa-a-revelar-faixas-salariais-nos-anuncios-de-emprego-transparencia-e-base-da-confianca-e-compromisso/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-marina-fernie01.jpg",
+      "score": 0.73
+    },
+    {
+      "id": "7073c1d5",
+      "cat": "tecnologia",
+      "title": "Amundi antecipa que prémio de risco de Portugal face à Alemanha caia para metade em 2027",
+      "summary": "Portugal pode voltar a financiar-se nos mercados em condições muito próximas das da Alemanha, a maior economia europeia e a referência de segurança na Zona Euro. Atualmente, por cada 100 euros que pede emprestados a dez anos, o Estado português paga 3,73 euros de juros por ano, contra 3,26 euros pag",
+      "source": "ECO",
+      "date": "Wed, 25 Nov 2026 06:58:20 +0000",
+      "url": "https://eco.sapo.pt/2026/11/25/amundi-antecipa-que-premio-de-risco-de-portugal-face-a-alemanha-caia-para-metade-em-2027/",
+      "img": "https://eco.imgix.net/uploads/2026/09/cropped-doc202609234782135120260923filipeamorim2573.jpg",
       "score": 0.73
     },
     {
@@ -267,6 +234,17 @@
       "score": 0.73
     },
     {
+      "id": "2584b9e7",
+      "cat": "ciencia",
+      "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+      "summary": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
+      "source": "BBC News",
+      "date": "Wed, 25 Nov 2026 04:46:23 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/523e/live/04d6a820-e88f-11f1-99a1-253766e7ad8b.jpg",
+      "score": 0.73
+    },
+    {
       "id": "9c9b7f03",
       "cat": "cultura",
       "title": "Imagining the Mossy Cities of the Future",
@@ -276,6 +254,39 @@
       "url": "https://reasonstobecheerful.world/moss-as-living-infrastructure/",
       "img": "https://reasonstobecheerful.world/wp-content/uploads/2026/11/shutterstock_2574042429-scaled.jpg",
       "score": 0.73
+    },
+    {
+      "id": "1de4013d",
+      "cat": "cultura",
+      "title": "PSP em megaoperação contra tráfico de droga e armas na Alta de Lisboa",
+      "summary": "A PSP desencadeou na manhã desta quarta-feira uma megaoperação na Alta de Lisboa. Há já dez detidos.",
+      "source": "Público",
+      "date": "Wed, 25 Nov 2026 08:02:10 GMT",
+      "url": "https://www.publico.pt/2026/11/25/sociedade/noticia/psp-megaoperacao-trafico-droga-armas-alta-lisboa-2196219",
+      "img": "https://imagens.publico.pt/imagens.aspx/2133404?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "score": 0.7
+    },
+    {
+      "id": "a4d12170",
+      "cat": "geral",
+      "title": "Despertador: Governo em queda, mas sem alternativa. Hoje, há greve dos maquinistas da CP",
+      "summary": "",
+      "source": "Público",
+      "date": "Wed, 25 Nov 2026 07:51:44 GMT",
+      "url": "https://www.publico.pt/2026/11/25/newsletter/despertador",
+      "img": "https://www.publico.pt/site-2022/assets/img/newsletters/despertador.png",
+      "score": 0.7
+    },
+    {
+      "id": "c0b7db91",
+      "cat": "tecnologia",
+      "title": "Bangladesh aumenta salário mínimo no setor têxtil após semanas de protestos",
+      "summary": "A indústria do vestuário é o principal sector exportador do Bangladesh e a principal fonte de obtenção de divisas do país.",
+      "source": "Jornal de Negócios",
+      "date": "Wed, 25 Nov 2026 07:53:03 Z",
+      "url": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/bangladesh-aumenta-salario-minimo-no-setor-textil-apos-semanas-de-protestos",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-11/img_100x100uu2026-11-22-16-18-05-533399.jpg",
+      "score": 0.7
     },
     {
       "id": "c8ced442",
@@ -308,17 +319,6 @@
       "date": "Tue, 24 Nov 2026 21:26:47 +0000",
       "url": "https://www.rtp.pt/noticias/desporto/paulo-fonseca-somar-pontos-para-continuar-na-competicao_v1781409",
       "img": "https://cdn-images.rtp.pt/icm/images/a6/a67ed7a81c8b08eca123130bd4bcfc29_N.jpg?",
-      "score": 0.7
-    },
-    {
-      "id": "cfe74e89",
-      "cat": "tecnologia",
-      "title": "Badger cull ruled out by Welsh government after speculation",
-      "summary": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
-      "source": "BBC News",
-      "date": "Tue, 24 Nov 2026 16:47:05 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa52/live/37d695d0-e800-11f1-ab60-79086b6495b8.jpg",
       "score": 0.7
     },
     {
