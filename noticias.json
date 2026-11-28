@@ -1,5 +1,5 @@
 {
-  "last_update": "27/11/2026 21:00 UTC",
+  "last_update": "28/11/2026 07:26 UTC",
   "total": 30,
   "news": [
     {
@@ -12,6 +12,17 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
       "img": "https://www.sciencedaily.com/images/1920/brain-neurons-complex-structure.webp",
       "score": 0.82
+    },
+    {
+      "id": "393acf84",
+      "cat": "ciencia",
+      "title": "Land Returned to Native American Ownership 400 Years After the First Thanksgiving",
+      "summary": "More than 400 years after the Pilgrims first explored the Cape Cod area, land belonging to Native Americans was returned to Indigenous ownership. On October 30, The Nature Conservancy gave roughly 126 acres of salt marsh and natural habitat in Eastham, Massachusetts to the Native Land Conservancy, a",
+      "source": "Good News Network",
+      "date": "Wed, 25 Nov 2026 12:59:08 +0000",
+      "url": "https://www.goodnewsnetwork.org/land-returned-indigenous-care-first-encounter-beach/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/1280px-Waiting_for_Sunset_14287123165.jpg",
+      "score": 0.79
     },
     {
       "id": "e62ee824",
@@ -36,6 +47,17 @@
       "score": 0.79
     },
     {
+      "id": "ad20be03",
+      "cat": "tecnologia",
+      "title": "6h. Acampada Lisboa compromete celebração do 1º de dezembro",
+      "summary": "Presidente da República fez saber que não quer novas cargas policiais sobre os manifestantes pelo direito à habitação. Ainda, Pedro Sanchez confiante na vitória nas eleições legislativas em Espanha.",
+      "source": "Observador",
+      "date": "Sat, 28 Nov 2026 06:13:35 +0000",
+      "url": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2566/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/06/15153459/770-podcast-noticiario.png",
+      "score": 0.76
+    },
+    {
       "id": "2f52b5a8",
       "cat": "tecnologia",
       "title": "Family Is Thankful Their Baby, Given Weeks to Live on Christmas Eve, Now Brain Cancer-Free",
@@ -44,17 +66,6 @@
       "date": "Thu, 26 Nov 2026 14:00:54 +0000",
       "url": "https://www.goodnewsnetwork.org/girl-given-weeks-to-live-on-christmas-eve-makes-miracle-recovery-after-serendipitous-call-to-st-jude/",
       "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/The-Mehtabd-family-with-Imani-on-the-right-credit-family-photo.jpg",
-      "score": 0.76
-    },
-    {
-      "id": "f8c01316",
-      "cat": "tecnologia",
-      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
-      "summary": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
-      "source": "BBC News",
-      "date": "Mon, 23 Nov 2026 00:49:22 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
       "score": 0.76
     },
     {
@@ -69,47 +80,36 @@
       "score": 0.76
     },
     {
-      "id": "63873c0e",
+      "id": "189f6359",
       "cat": "tecnologia",
-      "title": "Descoberta em Loulé a vértebra do dinossauro mais antigo da Península Ibérica",
-      "summary": "Trata-se da parte principal de uma vértebra, pertencente a um terópode carnívoro que viveu há 227 milhões de anos e teria entre dois metros e meio e três metros de comprimento.",
+      "title": "Khashabi Theatre trazem da Palestina uma epopeia árabe e um dueto sobre a solidão",
+      "summary": "A companhia palestiniana estreia-se em Portugal com dois espectáculos, entre este sábado e 9 de Dezembro, numa parceria entre o Teatro Municipal do Porto, o Teatro Nacional D. Maria II e o TBA.",
       "source": "Público",
-      "date": "Fri, 27 Nov 2026 19:45:28 GMT",
-      "url": "https://www.publico.pt/2026/11/27/ciencia/noticia/descoberta-loule-vertebra-dinossauro-antigo-peninsula-iberica-2196553",
-      "img": "https://imagens.publico.pt/imagens.aspx/2134132?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 28 Nov 2026 07:02:00 GMT",
+      "url": "https://www.publico.pt/2026/11/28/culturaipsilon/noticia/khashabi-theatre-trazem-palestina-epopeia-arabe-dueto-solidao-2196607",
+      "img": "https://imagens.publico.pt/imagens.aspx/2134252?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Ipsilon.png",
       "score": 0.73
     },
     {
-      "id": "1964cf49",
+      "id": "617d52bd",
       "cat": "tecnologia",
-      "title": "Entrega das automotoras Stadler à CP derrapa para finais de 2027",
-      "summary": "Primeira data apontava para o segundo semestre de 2026, depois para o primeiro trimestre de 2027 e agora o novo prazo é no final do próximo ano.",
+      "title": "A estabilidade da asneira",
+      "summary": "Em vez de se empenharem em construir virtudes próprias, os partidos estão mais apostados na asneira alheia, o que é manifestamente curto para alimentar a esperança num país mais bem governado. Editorial deDavid Pontes",
       "source": "Público",
-      "date": "Fri, 27 Nov 2026 19:17:30 GMT",
-      "url": "https://www.publico.pt/2026/11/27/economia/noticia/entrega-automotoras-stadler-cp-derrapa-finais-2027-2196570",
-      "img": "https://imagens.publico.pt/imagens.aspx/2134297?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 28 Nov 2026 05:30:00 GMT",
+      "url": "https://www.publico.pt/2026/11/28/opiniao/editorial/estabilidade-asneira-2196632",
+      "img": "https://imagens.publico.pt/imagens.aspx/1739358?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.73
     },
     {
-      "id": "f955d2bd",
+      "id": "45774b4f",
       "cat": "tecnologia",
-      "title": "Acampada ameaça 1.º de Dezembro. Seguro contra cargas",
-      "summary": "Presidente da Sociedade Histórica da Independência diz que é \"incontornável\" que as comemorações aconteçam na praça onde está Monumento da Restauração. Moedas condicionado por posição de Belém.",
+      "title": "Dos estranhos amigos de Trump às dúvidas em Espanha",
+      "summary": "Espanha vai a voto à procura de estabilidade, há condições para isso? Ainda os receios militares do Reino Unido, as estranhas amizades de Trump e as investigações no topo do partido comunista chinês.",
       "source": "Observador",
-      "date": "Fri, 27 Nov 2026 20:29:51 +0000",
-      "url": "https://observador.pt/especiais/acampada-ameaca-cerimonia-do-1-o-de-dezembro-nos-restauradores-seguro-contra-carga-sobre-manifestantes/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:2000:1123:nowe:0:81/q:70/plain/https://s3.observador.pt/wp-content/uploads/2026/11/26080350/48132931.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "49717a6b",
-      "cat": "tecnologia",
-      "title": "Primeiro-ministro checo recusa cumprimentar Netanyahu?",
-      "summary": "De visita a Israel, Andrej Babiš ter-se-ia recusado a apertar a mão a Benjamin Netanyahu, segundo publicações nas redes sociais. PM checo teria até criticado duramente o homólogo. É verdade?",
-      "source": "Observador",
-      "date": "Fri, 27 Nov 2026 20:11:21 +0000",
-      "url": "https://observador.pt/factchecks/fact-check-primeiro-ministro-checo-recusa-cumprimentar-benjamin-netanyahu/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2020/01/09142359/fact_check-errado.png",
+      "date": "Sat, 28 Nov 2026 06:04:01 +0000",
+      "url": "https://observador.pt/programas/5-continentes/dos-estranhos-amigos-de-trump-as-duvidas-em-espanha/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2022/09/16094819/770-podcastcinco-continentescinco-continentes.jpg",
       "score": 0.73
     },
     {
@@ -135,17 +135,6 @@
       "score": 0.73
     },
     {
-      "id": "234e2990",
-      "cat": "tecnologia",
-      "title": "Lisboa acompanha ganhos europeus com BCP na liderança",
-      "summary": "As bolsas europeias fecharam no verde, dando seguimento à recuperação do setor tecnológico depois do \"sell-off\" das cotadas do setor antes da pausa de Wall Street para feriado. O PSI seguiu a tendência, com o impulso do BCP e dos ganhos de mais de 2% da Mota-Engil e dos CTT.",
-      "source": "Jornal de Negócios",
-      "date": "Fri, 27 Nov 2026 16:55:00 Z",
-      "url": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/lisboa-acompanha-ganhos-europeus-com-bcp-na-lideranca",
-      "img": "https://cdn.jornaldenegocios.pt/images/2025-09/img_100x100uu2025-09-02-15-05-15-508478.jpg",
-      "score": 0.73
-    },
-    {
       "id": "a12d86fd",
       "cat": "tecnologia",
       "title": "Morreu Arnaldo Trindade, histórico editor de música e fundador da Orfeu",
@@ -157,13 +146,24 @@
       "score": 0.73
     },
     {
-      "id": "3294cba7",
+      "id": "89a08505",
+      "cat": "tecnologia",
+      "title": "II Liga. Portimonense regressa às vitórias no reduto do Feirense",
+      "summary": "",
+      "source": "RTP",
+      "date": "Fri, 27 Nov 2026 21:05:28 +0000",
+      "url": "https://www.rtp.pt/noticias/futebol-nacional/ii-liga-portimonense-regressa-as-vitorias-no-reduto-do-feirense_d1782160",
+      "img": "https://cdn-images.rtp.pt/noticias/images/rtp-deporto_default.png?w=350&amp;q=50&amp;auto=format",
+      "score": 0.73
+    },
+    {
+      "id": "1d2ac063",
       "cat": "tecnologia",
       "title": "Miguel Oliveira homenageia Marc Márquez no dia do anúncio da retirada",
       "summary": "O piloto português Miguel Oliveira afirmou hoje que o espanhol Marc Márquez marcou uma geração e mudou a história do motociclismo, numa homenagem publicada nas redes sociais após o anúncio da retirada do octocampeão mundial de MotoGP.",
       "source": "RTP",
       "date": "Fri, 27 Nov 2026 18:18:32 +0000",
-      "url": "https://www.rtp.pt/noticias/motos/miguel-oliveira-homenageia-marc-marquez-no-dia-do-anuncio-da-retirada_d1782131",
+      "url": "https://www.rtp.pt/noticias/motores/miguel-oliveira-homenageia-marc-marquez-no-dia-do-anuncio-da-retirada_d1782131",
       "img": "https://cdn-images.rtp.pt/icm/noticias/images/4a/4a6e3a3c761b5c3bc1c7cae3e2670eee.jpg?w=350&amp;q=50&amp;auto=format",
       "score": 0.73
     },
@@ -179,36 +179,25 @@
       "score": 0.73
     },
     {
-      "id": "53c2f1e6",
+      "id": "646e36b3",
       "cat": "tecnologia",
-      "title": "Octávio Machado recorda Juary como decisivo num período único do FC Porto",
-      "summary": "O antigo treinador-adjunto do FC Porto Octávio Machado recordou hoje a alegria de Juary no balneário e como superou limitações físicas para marcar, em Viena, o golo que deu o primeiro título europeu de futebol aos ‘dragões’.",
-      "source": "RTP",
-      "date": "Fri, 27 Nov 2026 17:45:50 +0000",
-      "url": "https://www.rtp.pt/noticias/fc-porto/octavio-machado-recorda-juary-como-decisivo-num-periodo-unico-do-fc-porto_d1782122",
-      "img": "https://cdn-images.rtp.pt/icm/noticias/images/89/8998598b61a256344378adc2419ae1b2.jpg?w=350&amp;q=50&amp;auto=format",
+      "title": "‘Autos for Love’ Owners Delight in Giving Away Cars to Needy Neighbors",
+      "summary": "Once a year, the owners of a Texas auto-repair shop would refurbish a donated car and then hand the keys to a member of their community in need. But thanks to their generosity and the generosity of others, they&#8217;ve been able to turbocharge their giving, with multiple vehicles going out ever yea",
+      "source": "Good News Network",
+      "date": "Wed, 25 Nov 2026 14:00:36 +0000",
+      "url": "https://www.goodnewsnetwork.org/texas-auto-shop-couple-is-hungry-to-keep-giving-cars-away-to-neighbors-in-need/",
+      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Cathy-and-Dane-Bailey-from-Auto-Experts-of-Colleyville-credit-Autos-for-Love.jpg",
       "score": 0.73
     },
     {
-      "id": "d5e989c7",
+      "id": "1b51349f",
       "cat": "tecnologia",
-      "title": "Vending Machine Lets Anyone in the Country Volunteer to Distribute Aid to Homeless",
-      "summary": "In a viral video, a man and his dog walk up to what appears to be a red Amazon postal locker, but instead of pulling out a parcel, he pulls out a blanket, a meal, and a bag of dog food. The man was a homeless resident of Tulsa, Oklahoma, and the red kiosk wasn&#8217;t [&#8230;] The post Vending Mach",
-      "source": "Good News Network",
-      "date": "Fri, 27 Nov 2026 19:30:37 +0000",
-      "url": "https://www.goodnewsnetwork.org/vending-machine-lets-anyone-in-the-country-volunteer-to-distribute-aid-to-homeless/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-BeHeard-Movement-via-Instagram.jpg",
-      "score": 0.73
-    },
-    {
-      "id": "c403e8ea",
-      "cat": "tecnologia",
-      "title": "Good News in History, November 27",
-      "summary": "Happy Birthday to Bill Nye “The Science Guy” who turns 71 today. Nye, a science educator, comedian, and author is best known as the host of the PBS children&#8217;s science show, Bill Nye the Science Guy. Nye abandoned a career in mechanical engineering to pursue sketch comedy, writing and performin",
-      "source": "Good News Network",
-      "date": "Fri, 27 Nov 2026 08:00:00 +0000",
-      "url": "https://www.goodnewsnetwork.org/events061127/",
-      "img": "https://www.goodnewsnetwork.org/wp-content/uploads/2014/11/Bill-Nye-CC-NASA.jpg",
+      "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+      "summary": "Pennsylvania and neighbouring states remained badly affected on Friday after both coasts were lashed with wind and rain.",
+      "source": "BBC News",
+      "date": "Sat, 28 Nov 2026 01:55:33 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/011ab230-eaab-11f1-9d2d-dd9286f639a6.jpg",
       "score": 0.73
     },
     {
@@ -223,14 +212,14 @@
       "score": 0.73
     },
     {
-      "id": "1b51349f",
-      "cat": "tecnologia",
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+      "id": "b65d0b80",
+      "cat": "ambiente",
+      "title": "Floating nature islands installed in parks as Glasgow Games legacy",
+      "summary": "The islands, being planted in five Glasgow parks, are designed to encourage wildlife and help clean the water.",
       "source": "BBC News",
-      "date": "Fri, 27 Nov 2026 18:45:05 GMT",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg",
+      "date": "Fri, 27 Nov 2026 06:19:13 GMT",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9kxdm1k4lo?at_medium=RSS&at_campaign=rss",
+      "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53f/live/7d190c10-e8ee-11f1-8808-1d4222955d7e.jpg",
       "score": 0.73
     },
     {
@@ -245,25 +234,36 @@
       "score": 0.73
     },
     {
-      "id": "d5a81b7d",
+      "id": "936d3e4a",
       "cat": "tecnologia",
-      "title": "Juary (1959-2026), a eterna “reserva” que decidia jogos à velocidade da luz",
-      "summary": "FC Porto despediu-se do avançado brasileiro com a garantia de que “o grito do golo de Viena ecoará na eternidade”.",
+      "title": "Mais de 40 narcolanchas apreendidas em 2026, o valor mais elevado dos últimos anos",
+      "summary": "",
       "source": "Público",
-      "date": "Fri, 27 Nov 2026 20:20:11 GMT",
-      "url": "https://www.publico.pt/2026/11/27/desporto/noticia/juary-19592026-eterna-reserva-decidia-jogos-velocidade-luz-2196627",
-      "img": "https://imagens.publico.pt/imagens.aspx/2134308?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "date": "Sat, 28 Nov 2026 06:58:00 GMT",
+      "url": "https://www.publico.pt/2026/11/28/infografia/trafico-droga-lanchas-rapidas-costa-portuguesa-nao-dao-sinais-abrandar-923",
+      "img": "https://imagens.publico.pt/imagens.aspx/2133993?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
       "score": 0.7
     },
     {
-      "id": "e4427db6",
-      "cat": "tecnologia",
-      "title": "Incêndio em autocarro na Rua do Bolhão",
-      "summary": "Veículo não tinha passageiros no interior e ainda não foi retirado do local.",
+      "id": "ecacb936",
+      "cat": "economia",
+      "title": "CEO da Nvidia voltou e IA somou novo “boom”",
+      "summary": "Jensen Huang foi reconduzido como CEO da Nvidia e o mercado reagiu de imediato. Desenvolvimento da IA está “dependente” da empresa que reforçou posição no mercado.",
       "source": "Observador",
-      "date": "Fri, 27 Nov 2026 20:22:33 +0000",
-      "url": "https://observador.pt/2026/11/27/porto-fogo-deflara-em-autocarro-na-rua-do-bolhao/",
-      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:1156:648:nowe:81:74/q:70/plain/https://s3.observador.pt/wp-content/uploads/sites/5/2014/09/13360311.jpg",
+      "date": "Sat, 28 Nov 2026 06:02:32 +0000",
+      "url": "https://observador.pt/programas/m-quinas-que-pensam/ceo-da-nvidia-voltou-e-ia-somou-novo-boom/",
+      "img": "https://bordalo.observador.pt/v2/rs:fill:770:403/c:770:433:nowe:0:0/q:70/plain/https://s3.observador.pt/wp-content/uploads/2024/04/04200042/770-podcast-maquinas-que-pensam.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "49e36915",
+      "cat": "tecnologia",
+      "title": "S&P imita Fitch e Moody's e corta \"outlook\" de França para negativo",
+      "summary": "A agência manteve o rating de A+, mas desceu a perspetiva de estável para negativa, sinalizando um possível corte da notação na próxima revisão, num momento em que o país atravessa uma fase de instabilidade política e social antes das presidenciais de 2027.",
+      "source": "Jornal de Negócios",
+      "date": "Fri, 27 Nov 2026 22:24:00 Z",
+      "url": "https://www.jornaldenegocios.pt/mercados/obrigacoes/detalhe/s-p-imita-fitch-e-moody-s-e-corta-outlook-de-franca-para-negativo",
+      "img": "https://cdn.jornaldenegocios.pt/images/2026-10/img_100x100uu2026-10-19-20-12-40-531423.jpg",
       "score": 0.7
     },
     {
@@ -289,6 +289,28 @@
       "score": 0.7
     },
     {
+      "id": "e0887976",
+      "cat": "tecnologia",
+      "title": "S&P baixa perspetiva de França para “negativa”, mas mantém rating em A+",
+      "summary": "A Standard &#38; Poor&#8217;s Global (S&#38;P) reviu esta sexta-feira de estável para negativa a perspetiva da classificação de crédito de França, mantendo os ratings de longo e curto prazo em &#8220;A+&#8221; e &#8220;A-1&#8221;, respetivamente. A agência aponta os riscos associados à consolidação ",
+      "source": "ECO",
+      "date": "Fri, 27 Nov 2026 21:54:37 +0000",
+      "url": "https://eco.sapo.pt/2026/11/27/sp-reve-perspetiva-de-franca-para-negativa-mas-mantem-rating-em-a/",
+      "img": "https://eco.imgix.net/uploads/2024/11/cropped-franccca7a-bandeira.jpg",
+      "score": 0.7
+    },
+    {
+      "id": "bf69b6fe",
+      "cat": "tecnologia",
+      "title": "Thales aposta em tecnologia laser para defesa com aquisição de controlo da Lumibird",
+      "summary": "A Thales entrou em negociações exclusivas para adquirir 51,6% da Lumibird, especialista francesa em tecnologias laser, numa operação que pretende reforçar o acesso a tecnologias estratégicas para a defesa e lançar as bases de uma plataforma europeia de fotónica. A aposta passa pelo desenvolvimento d",
+      "source": "ECO",
+      "date": "Fri, 27 Nov 2026 21:47:24 +0000",
+      "url": "https://eco.sapo.pt/2026/11/27/thales-aposta-em-tecnologia-laser-para-defesa-com-aquisicao-de-controlo-da-lumibird/",
+      "img": "https://eco.imgix.net/uploads/2026/04/cropped-ampt-ng-thales-scaled-1.jpg",
+      "score": 0.7
+    },
+    {
       "id": "5ad2059d",
       "cat": "tecnologia",
       "title": "Cinco países NATO compram mais de 400 tanques à BAE Systems por 5,5 mil milhões",
@@ -297,28 +319,6 @@
       "date": "Fri, 27 Nov 2026 20:53:38 +0000",
       "url": "https://eco.sapo.pt/2026/11/27/cinco-paises-nato-compram-mais-de-400-tanques-a-bae-systems-por-55-mil-milhoes/",
       "img": "https://eco.imgix.net/uploads/2023/01/cropped-34119093-scaled-4.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "53c5beb5",
-      "cat": "ambiente",
-      "title": "Ministra estuda desconto na eletricidade nos concelhos afetados pela futura barragem de Girabolhos",
-      "summary": "A ministra do Ambiente e Energia prometeu esta sexta-feira que os concelhos abrangidos pela futura barragem de Girabolhos terão contrapartidas energéticas e de acessibilidades que serão definidas pelos autarcas desses municípios. &#8220;Estamos a estudar os benefícios ou contrapartidas que há de ser",
-      "source": "ECO",
-      "date": "Fri, 27 Nov 2026 19:57:20 +0000",
-      "url": "https://eco.sapo.pt/2026/11/27/ministra-estuda-desconto-na-eletricidade-nos-concelhos-afetados-pela-futura-barragem-de-girabolhos/",
-      "img": "https://eco.imgix.net/uploads/2026/09/cropped-doc202609104775109620260910filipeamorim0054.jpg",
-      "score": 0.7
-    },
-    {
-      "id": "6ca0b7c5",
-      "cat": "tecnologia",
-      "title": "Black Friday é oportunidade mas depois há retração nas vendas",
-      "summary": "A Confederação do Comércio e Serviços de Portugal (CCP) defendeu esta sexta-feira que a Black Friday tem feito aumentar as vendas do retalho, que se sente pressionado a aplicar descontos, embora no período seguinte haja uma retração nas compras. &#8220;Cada vez mais, as pessoas aguardam [pela &#8216",
-      "source": "ECO",
-      "date": "Fri, 27 Nov 2026 19:57:09 +0000",
-      "url": "https://eco.sapo.pt/2026/11/27/black-friday-e-oportunidade-mas-depois-ha-retracao-nas-vendas/",
-      "img": "https://eco.imgix.net/uploads/2026/11/cropped-doc202511284611157612555052.jpg",
       "score": 0.7
     },
     {
